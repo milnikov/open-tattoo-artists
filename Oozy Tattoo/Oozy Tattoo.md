@@ -1,0 +1,26 @@
+# Oozy Tattoo
+
+## Artist Information
+- **Name:** Woojin Choi (Oozy Tattoo)
+- **Origin:** Seoul, South Korea
+- **Current Location:** Los Angeles, California, USA
+- **Studio:** Vism Studio (Arts District, LA)
+- **Style:** Fineline, Dotwork, Ceramic Skin, East Asian-inspired
+- **Education:** Art school graduate
+- **Instagram:** Over 1 million followers (@oozy_tattoo)
+- **Website:** https://www.vismstudio.com/
+- **Price Range:** $$$
+
+## Bio
+Woojin Choi, professionally known as Oozy Tattoo, is a groundbreaking Korean tattoo artist who has risen to international acclaim for his innovative techniques and distinctive aesthetic. Originally from Seoul, where tattooing exists in a legal gray area, Choi began his artistic journey as an art school graduate who taught himself tattooing through YouTube tutorials while still in college, transforming empty classrooms into makeshift workspaces. His signature style blends elements of East Asian cultural motifs with gothic and anatomical themes, using meticulous dotwork and fine lines to create designs that resemble printed illustrations rather than traditional tattoos. Particularly renowned for his "ceramic skin" technique, Oozy creates striking cobalt-blue tattoos inspired by Tang dynasty porcelain, transforming the human body into a living canvas that evokes the delicate beauty of historic East Asian ceramics. In 2022, Choi joined a collective of elite Korean tattoo artists to establish Vism Studio in Los Angeles' Arts District, making his sought-after work more accessible to American clients who previously had to travel internationally for his services. His portfolio encompasses everything from sprawling Chinese-inspired dragons and Japanese-influenced waves to surrealist ramen bowls with faces emerging from the broth, all executed with extraordinary precision and attention to detail. Beyond tattooing, Choi has expanded into product design with his OOZYBOWL series, physical interpretations of his signature tattoo designs. With over one million Instagram followers and clients who fly in from around the world, Oozy has become a pivotal figure in contemporary tattoo culture, representing a new generation of technically skilled Asian artists who are revolutionizing the global tattoo landscape.
+
+## Gallery
+This folder contains 319 images of Oozy Tattoo's work, downloaded from their portfolio on tattooswizard.com.
+
+## Notes
+- Creator of the distinctive "ceramic skin" technique using cobalt-blue ink
+- Self-taught tattoo artist who learned through YouTube tutorials
+- Draws inspiration from Tang dynasty porcelain and East Asian art
+- Co-founded Vism Studio in Los Angeles in 2022
+- Expanded into product design with the OOZYBOWL series
+- Clients fly in from around the world for his work

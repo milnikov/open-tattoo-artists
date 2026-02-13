@@ -1,0 +1,27 @@
+# Romeo Lacoste
+
+## Bio
+Romeo Lacoste, widely known as the 'Tattoo God in LA', is a Canadian-born tattoo artist who has risen to prominence through his exceptional fineline and dotwork tattoos, coupled with savvy brand-building strategies. Born on January 19, 1989, in Montreal, Canada, Lacoste began his artistic journey at age 10 through cartoon drawings and doodles, eventually developing a passion for tattooing by age 17. Despite facing initial challenges with multiple failed apprenticeships while working three jobs simultaneously, his career trajectory changed dramatically when he became a contestant on Oxygen's "Best Ink" season 3 in 2015, which aired internationally and showcased his talents to a global audience. Now based in Los Angeles, Lacoste owns and operates The California Dream Tattoo shop in North Hollywood, where he has built an impressive clientele of A-list celebrities including Justin Bieber, Ariana Grande, Kendrick Lamar, Odell Beckham Jr., and the late Juice WRLD, with whom he formed a close friendship. Standing at 6'4", Lacoste has strategically expanded his brand beyond tattooing into social media and content creation, amassing over 2 million Instagram followers and becoming the first celebrity tattoo artist to be verified on the platform, while also building a YouTube channel with over 1 million subscribers through innovative content like "The Tattoo Pain Game" and Disney-produced "Tattoo Roulette." His approach to success has been multifaceted, focusing not on becoming a "one-hit wonder" but rather on building a comprehensive brand through television appearances, celebrity connections, and diverse creative achievements. Lacoste is particularly known for his meticulously detailed micro-tattoos, some as small as a quarter, which showcase his extraordinary precision and have attracted clients from around the world who are willing to wait up to six months for appointments with him.
+
+## Artist Information
+- **Name:** Romeo Lacoste
+- **Born:** January 19, 1989
+- **Origin:** Montreal, Canada
+- **Current Location:** Los Angeles, California, United States
+- **Studio:** The California Dream Tattoo (Owner)
+- **Style:** Fineline, Dotwork, Micro-tattoos
+- **Height:** 6'4" (1.93m)
+- **Social Media:** Over 2M Instagram followers, 1M+ YouTube subscribers
+- **TV Appearances:** "Best Ink" Season 3 (Oxygen)
+- **Price Range:** $$$
+
+## Profile URL
+https://tattooswizard.com/artists/romeolacoste
+
+## Notes
+- Known for extremely detailed micro-tattoos the size of a quarter or smaller
+- Has tattooed numerous celebrities and YouTube personalities
+- First celebrity tattoo artist to be verified on Instagram
+- Created popular YouTube content like "The Tattoo Pain Game" and "Tattoo Roulette"
+- Clients often wait up to 6 months for appointments with him
+- Oldest of six siblings, including brother Mickey Lacoste (YouTube star and musician)
