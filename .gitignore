@@ -21,3 +21,5 @@ node_modules/
 # Next.js build and env
 apps/web/.next/
 apps/web/.env.local
+# Copied during build for Vercel (do not commit)
+apps/web/data/

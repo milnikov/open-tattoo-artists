@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "id": "013manue",
+    "name": "Emmanuelle Moreau",
+    "location": {
+      "city": "Sherbrooke",
+      "country": "Canada"
+    },
+    "styles": [
+      "traditional",
+      "neo-traditional",
+      "realism",
+      "watercolor",
+      "tribal",
+      "japanese",
+      "dotwork",
+      "geometric",
+      "illustrative",
+      "minimalist",
+      "anime",
+      "fineline",
+      "script",
+      "lettering",
+      "color"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/013manue/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/013manue/thumb/001.webp"
+  },
+  {
+    "id": "0.5na",
+    "name": "Mina Brcn",
+    "location": {
+      "city": "Sainte-maxime",
+      "country": "France"
+    },
+    "styles": [
+      "traditional",
+      "neo-traditional",
+      "realism",
+      "watercolor",
+      "japanese",
+      "blackwork",
+      "dotwork",
+      "geometric",
+      "illustrative",
+      "minimalist",
+      "anime",
+      "fineline",
+      "script",
+      "color"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/0.5na/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/0.5na/thumb/001.webp"
+  }
+]
