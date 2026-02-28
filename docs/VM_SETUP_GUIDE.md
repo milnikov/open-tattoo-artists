@@ -34,7 +34,7 @@ ssh root@YOUR_VPS_IP
 # or: ssh u123456789@YOUR_VPS_IP
 
 # Clone the repo
-git clone YOUR_REPO_URL Tattoo_artists
+git clone http://github.com/milnikov/open-tattoo-artists/ Tattoo_artists
 cd Tattoo_artists
 ```
 

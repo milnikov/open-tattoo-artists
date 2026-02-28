@@ -39,7 +39,7 @@ fi
 # Method 2: Install via webdriver-manager (recommended, handled by Python)
 echo "   ChromeDriver will be managed automatically by webdriver-manager"
 
-# Install system dependencies for Chrome
+# Install system dependencies for Chrome (Ubuntu 22.04/24.04 compatible)
 echo "📚 Installing system dependencies..."
 sudo apt-get install -y \
     libnss3 \
@@ -51,7 +51,7 @@ sudo apt-get install -y \
     libxfixes3 \
     libxrandr2 \
     libgbm1 \
-    libasound2 \
+    libasound2t64 \
     libxshmfence1 \
     libxss1
 

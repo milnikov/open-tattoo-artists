@@ -29,7 +29,8 @@ This is your R2 public URL from `config.yaml`. For other deployments (e.g. Verce
 
 1. Push your repo to GitHub  
 2. Import the project in [Vercel](https://vercel.com)  
-3. Set environment variables:
+3. **Set Root Directory**: Project Settings → General → Root Directory → `apps/web` (required — the Next.js app lives there)  
+4. Set environment variables:
    - `NEXT_PUBLIC_IMAGES_BASE_URL` = `https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev`
    - Optional: `NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`  
 4. Deploy (build command: `npm run build` or `cd apps/web && npm run build` if monorepo)
