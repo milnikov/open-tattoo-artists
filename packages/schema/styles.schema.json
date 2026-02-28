@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open-tattoo-artists.org/schemas/styles.schema.json",
+  "title": "Styles",
+  "description": "Canonical flat list of tattoo style slugs",
+  "type": "array",
+  "items": {
+    "type": "string",
+    "minLength": 1,
+    "maxLength": 40
+  },
+  "uniqueItems": true
+}

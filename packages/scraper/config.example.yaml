@@ -1,0 +1,24 @@
+# Copy to config.yaml and fill in. Do not commit config.yaml.
+
+# Source of artist page URLs (e.g. discovered_pages.json from discovery scripts)
+discovery_file: packages/scraper/discovered_pages.json
+
+# Cloudflare R2 (required for pipeline; use --no-r2 for dry run only)
+# r2:
+#   account_id: ""
+#   access_key_id: ""
+#   secret_access_key: ""
+#   bucket: "open-tattoo-artists"
+#   public_url: "https://..."
+
+# Concurrency and rate limits (to avoid being blocked by source)
+max_concurrent_downloads: 5
+max_images_per_artist: 50
+# Max artists per run (optional). Use on VPS so one cron run stays within ~400-600/day. CLI --limit overrides.
+# max_artists_per_run: 500
+# Delay between artists (seconds). Random in [min, max] to avoid detection.
+artist_delay_min_seconds: 3
+artist_delay_max_seconds: 8
+# Extra pause every N artists to further reduce load
+artist_delay_every_n: 10
+artist_delay_extra_seconds: 15

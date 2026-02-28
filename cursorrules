@@ -1,0 +1,108 @@
+# Cursor Project Rules — Open Tattoo Artists
+# Applies: Always (project-wide)
+# Date: 2026-02-28
+
+You are an expert full‑stack engineer working on **Open Tattoo Artists**: an open-source tattoo artist + tattoo work directory.
+
+## 0) Prime directive
+- **GitHub is the canonical source of truth** for artist + tattoo metadata (JSON files). Do not propose moving canonical metadata to a database.
+- Use Supabase only for **auth + per-user data** (favourites, contributions) and (optionally) **AI enrichment** that never overwrites canonical human data.
+- Keep the MVP simple, fast, and low-cost. Prefer incremental improvements over new infrastructure.
+
+## 1) Stack & constraints
+- Frontend: Next.js (App Router), React, TypeScript, Tailwind, shadcn/ui.
+- Auth/User data: Supabase (Postgres + Auth).
+- Images: Cloudflare R2 + Cloudflare CDN (WEBP thumb/full).
+- Metadata: GitHub repo under `/data`.
+- Scale target: ~50k artists, ~50 images each; list view must stay snappy.
+
+## 2) Repository mental model
+### Canonical metadata (GitHub)
+- `/data/artists/<artist-id>.json` — canonical artist record.
+- `artist-id` == Instagram handle. **No duplicates.**
+- Tattoo images are **first-class objects** in `tattoos[]`.
+
+### Build artifacts (GitHub Actions output)
+- `/data/indexes/artists.compact.json` — minimal list payload.
+- `/data/indexes/search-index.json` — name + location + styles tokens.
+
+### User data (Supabase)
+- `profiles`
+- `favourite_artists`
+- `favourite_tattoos`
+- `contributions`
+- Optional: `tattoo_analysis` (AI enrichment layer)
+
+## 3) Data rules (non-negotiable)
+- **No duplicate artists.** If an artist exists, updates must be edits to the same file.
+- `image_id` must be stable, never reused within an artist.
+- Canonical JSON must remain:
+  - deterministic formatting
+  - schema-valid
+  - minimal (no derived data that can be rebuilt)
+- AI tags (themes/colours/body_parts/size/confidence/model_version) are optional:
+  - allowed in canonical JSON **only if explicitly requested**
+  - otherwise stored in Supabase `tattoo_analysis`
+  - never overwrite human canonical fields automatically
+
+## 4) Product behavior rules
+- Favourites exist for **artists AND tattoos** (MVP).
+- Contributions (add artist / report problem) must:
+  1) create a GitHub Issue
+  2) store a Supabase `contributions` row with status + issue URL
+- The directory list page:
+  - thumbnails only
+  - alphabetical default
+  - filters: location (free text), style (flat list), name search
+  - pagination or “Load more”
+
+## 5) Coding standards (TypeScript/Next.js)
+- Prefer React Server Components by default; use `'use client'` only when required.
+- Keep UI components small, composable, and typed.
+- Avoid classes; prefer functional patterns.
+- Prefer early returns and explicit error handling.
+- Never add heavy dependencies without strong reason.
+- Keep file/folder naming consistent (kebab-case for folders; follow existing conventions for components).
+
+## 6) Data fetching & caching
+- Directory list reads from compact index JSON.
+- Artist page reads the full artist JSON by id.
+- Use CDN caching for images; never block UI on full-resolution images.
+- For Supabase reads (favourites/contributions), always handle:
+  - loading state
+  - empty state
+  - error state
+
+## 7) Validation & safety checks
+Whenever you change or generate canonical data, you must:
+- validate against the JSON schema (if present)
+- ensure no duplicate ids
+- ensure all R2 paths are consistent with the bucket conventions
+- ensure indexes are updated (or document why they will be rebuilt)
+
+## 8) When writing scraper/processing code
+- Make operations idempotent (safe to re-run).
+- Use checkpoints and retries; don’t re-download unnecessarily.
+- Convert images to WEBP:
+  - generate thumb + full
+  - enforce max count per artist (MVP ~50)
+- Never write secrets into repo; use env vars.
+
+## 9) Pull request & change discipline
+When implementing a change:
+1) Explain the goal in 1–2 lines.
+2) List files to touch.
+3) Make the smallest possible diff.
+4) Add/update tests or validation scripts when relevant.
+5) Include a quick verification checklist (how to run, what to click).
+
+## 10) Output expectations (how you respond in Cursor)
+- If asked to implement: propose a short plan, then implement in slices.
+- Prefer concrete edits (patches) over broad rewrites.
+- If something is ambiguous, ask only the minimum questions; otherwise choose a sensible default and document it.
+
+## 11) “Do not do” list
+- Do not introduce map view, badges, artist claims, monetization, or multilingual support unless explicitly requested.
+- Do not migrate canonical metadata away from GitHub.
+- Do not generate fake data or placeholder URLs in canonical JSON.
+- Do not add AI enrichment that changes canonical human fields automatically.

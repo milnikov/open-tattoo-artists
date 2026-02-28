@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open-tattoo-artists.org/schemas/artist.schema.json",
+  "title": "Artist",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "location",
+    "styles",
+    "links",
+    "tattoos",
+    "updated_at",
+    "schema_version"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 2
+    },
+    "id": {
+      "type": "string",
+      "description": "Instagram handle (lowercase), used as primary ID",
+      "pattern": "^[a-z0-9._]{1,30}$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 120
+    },
+    "location": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["city", "country"],
+      "properties": {
+        "city": { "type": "string", "minLength": 1, "maxLength": 80 },
+        "country": { "type": "string", "minLength": 2, "maxLength": 80 }
+      }
+    },
+    "styles": {
+      "type": "array",
+      "items": { "type": "string", "minLength": 1, "maxLength": 40 },
+      "minItems": 0,
+      "uniqueItems": true,
+      "description": "Flat list of style slugs"
+    },
+    "links": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["instagram"],
+      "properties": {
+        "instagram": { "type": "string", "format": "uri" },
+        "website": { "type": "string", "format": "uri" },
+        "source": { "type": "string", "format": "uri" },
+        "studio": { "type": "string", "format": "uri" },
+        "booking": { "type": "string", "format": "uri" }
+      }
+    },
+    "tattoos": {
+      "type": "array",
+      "description": "Up to ~50 tattoos for MVP; can grow later.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["image_id", "image_full", "image_thumb", "analysis"],
+        "properties": {
+          "image_id": { "type": "string", "pattern": "^[0-9]{3,6}$", "description": "Zero-padded incremental ID like 001, 002..." },
+          "image_full": { "type": "string", "minLength": 5 },
+          "image_thumb": { "type": "string", "minLength": 5 },
+          "analysis": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["themes", "dominant_colours", "body_parts", "size_category", "confidence_score"],
+            "properties": {
+              "themes": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 60 }, "uniqueItems": true },
+              "dominant_colours": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 30 }, "uniqueItems": true },
+              "body_parts": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 40 }, "uniqueItems": true },
+              "size_category": { "type": ["string", "null"], "enum": ["small", "medium", "large", null] },
+              "confidence_score": { "type": ["number", "null"], "minimum": 0, "maximum": 1 }
+            }
+          }
+        }
+      }
+    },
+    "updated_at": { "type": "string", "format": "date" }
+  }
+}

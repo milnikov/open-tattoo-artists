@@ -1,0 +1,28 @@
+# Validates data/artists/*.json against packages/schema
+name: validate-data
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/artists/**'
+      - 'data/styles/**'
+      - 'packages/schema/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'data/artists/**'
+      - 'data/styles/**'
+      - 'packages/schema/**'
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install jsonschema
+        run: pip install jsonschema
+      - name: Validate artist JSON files
+        run: python packages/schema/validate_artists.py

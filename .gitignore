@@ -11,3 +11,13 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Scraper secrets (do not commit)
+packages/scraper/config.yaml
+
+# Dependencies
+node_modules/
+
+# Next.js build and env
+apps/web/.next/
+apps/web/.env.local

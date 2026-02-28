@@ -43,96 +43,51 @@ venv\Scripts\activate  # On Windows
 pip install -r requirements.txt
 ```
 
-**Note**: Always activate the virtual environment before running scripts, or use the helper script:
+**Note**: Always activate the virtual environment before running scripts. All scraper scripts live under `packages/scraper/` and must be run **from repo root**:
+
 ```bash
-./run.sh python download_artist.py "URL" "folder"
+./run.sh python packages/scraper/src/download_artist.py "URL" "folder"
 ```
 
 ## Usage
 
-### Batch Processing (For VM/Headless Processing)
+Scraper scripts are in **`packages/scraper/src/`**. Run them from the **repo root**. The main artist list the batch processor uses is `packages/scraper/discovered_pages.json`; other paths (`TATTOODO/`, `artists_examples/`, etc.) are relative to repo root. See `packages/scraper/README.md` for details.
 
-For processing multiple artists from `discovered_pages.json` on a VM:
+### Batch processing (from repo root)
 
 ```bash
 # Process all artists headlessly
-python batch_process_artists.py
+python packages/scraper/src/batch_process_artists.py
 
 # Process first 100 artists (for testing)
-python batch_process_artists.py --limit 100
+python packages/scraper/src/batch_process_artists.py --limit 100
 
 # Resume from a specific index
-python batch_process_artists.py --start-index 500
+python packages/scraper/src/batch_process_artists.py --start-index 500
 ```
 
-See `VM_SETUP_GUIDE.md` for complete VM setup instructions.
+See `docs/VM_SETUP_GUIDE.md` for complete Hostinger VPS setup instructions.
 
-### Combined Workflow (Recommended)
-Use the combined script to download artist portfolio and create both artist-bio.txt and artistname.md files in one step:
+### Combined workflow (download + bio)
 
 ```bash
-python download_artist_with_bio.py "https://tattooswizard.com/artists/artistname" "output_folder"
+python packages/scraper/src/download_artist_with_bio.py "https://tattooswizard.com/artists/artistname" "output_folder"
 ```
 
 **IMPORTANT: The browser will be visible by default!** This ensures maximum image collection.
 
-This will:
-1. Download all images from the artist's portfolio with the browser visible
-2. Create an artist-bio.txt file with just the artist's bio text
-3. Create an artistname.md file with detailed information
-4. Skip creating debug files by default
+Options: `--debug`, `--headless`.
 
-### Available Options
+### Single-script usage (from repo root)
 
-```bash
-python download_artist_with_bio.py "https://tattooswizard.com/artists/artistname" "output_folder" [OPTIONS]
-```
-
-- `--debug`: Create debug files (debug_page.html, debug_screenshot.png, etc.)
-- `--headless`: Hide the browser (not recommended, fewer images will be found)
-
-### Individual Scripts
-You can also run the scripts individually if needed:
-
-#### Download Portfolio Only
-```bash
-python download_artist.py "https://tattooswizard.com/artists/artistname" "output_folder"
-```
-
-#### Create Bio Files Only
-```bash
-python create_artist_bio.py "https://tattooswizard.com/artists/artistname" "output_folder"
-```
-This creates both the artist-bio.txt and artistname.md files.
-
-### Advanced Options for download_artist.py
-The script supports several command-line options:
-
-```bash
-python download_artist.py "https://tattooswizard.com/artists/artistname" "output_folder" [OPTIONS]
-```
-
-Available options:
-- `--visible`: Show the browser window instead of running in headless mode (useful for debugging)
-- `--interactive`: Wait for user input at key steps (allows you to inspect the browser)
-- `--no-debug`: Disable saving debug information (debug_page.html, debug_screenshot.png, etc.)
-
-Examples:
-
-1. Basic usage:
-```bash
-python download_artist.py "https://tattooswizard.com/artists/megan_massacre" "Megan Massacre"
-```
-
-2. With visible browser and interactive mode:
-```bash
-python download_artist.py "https://tattooswizard.com/artists/megan_massacre" "Megan Massacre" --visible --interactive
-```
-
-3. Without debug files (recommended for production use):
-```bash
-python download_artist.py "https://tattooswizard.com/artists/kozo_tattoo" "Kozo Tattoo" --no-debug
-```
+- **Download portfolio only:**  
+  `python packages/scraper/src/download_artist.py "URL" "output_folder"`  
+  Options: `--visible`, `--interactive`, `--no-debug`
+- **Create bio files only:**  
+  `python packages/scraper/src/create_artist_bio.py "URL" "output_folder"`
+- **Discovery (Tattoodo):**  
+  `python packages/scraper/src/discover_tattoodo.py`  
+  (writes to `TATTOODO/discovered_pages.json` and `.txt`)
 
 ### URL Variations
 Some artists may have multiple URL formats. If you're not getting enough images, try these variations:

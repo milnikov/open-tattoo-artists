@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://open-tattoo-artists.org/schemas/index.schema.json",
+  "title": "Index meta",
+  "description": "Schema for data/indexes/meta.json (counts, build timestamp, schema version)",
+  "type": "object",
+  "additionalProperties": true,
+  "properties": {
+    "artist_count": { "type": "integer", "minimum": 0 },
+    "schema_version": { "type": "integer" },
+    "built_at": { "type": "string", "format": "date-time" }
+  }
+}
