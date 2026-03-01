@@ -1,0 +1,57 @@
+{
+  "schema_version": 2,
+  "id": "8_point",
+  "name": "8POINT",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neo-traditional",
+    "realism",
+    "watercolor",
+    "tribal",
+    "japanese",
+    "dotwork",
+    "geometric",
+    "illustrative",
+    "minimalist",
+    "anime",
+    "fineline",
+    "script",
+    "color"
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/8_point/",
+    "source": "https://tattooswizard.com/artists/8_point",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/8_point/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/8_point/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/8_point/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/8_point/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01"
+}

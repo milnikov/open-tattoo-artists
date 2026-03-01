@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "id": "13tattooclinic",
+  "name": "13 Tattoo & Piercing",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neo-traditional",
+    "realism",
+    "watercolor",
+    "japanese",
+    "dotwork",
+    "geometric",
+    "illustrative",
+    "minimalist",
+    "anime",
+    "fineline",
+    "script",
+    "color"
+  ],
+  "links": {
+    "instagram": "https://www.instagram.com/13tattooclinic/",
+    "source": "https://tattooswizard.com/artists/13tattooclinic",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-02-28"
+}
