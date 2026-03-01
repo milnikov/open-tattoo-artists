@@ -1,0 +1,58 @@
+{
+  "schema_version": 2,
+  "id": "adlertattoos",
+  "name": "Nathan Adler",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neo-traditional",
+    "realism",
+    "watercolor",
+    "japanese",
+    "dotwork",
+    "geometric",
+    "illustrative",
+    "minimalist",
+    "portrait",
+    "anime",
+    "fineline",
+    "script",
+    "black and grey",
+    "color"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adlertattoos",
+    "instagram": "https://www.instagram.com/adlertattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adlertattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adlertattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adlertattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adlertattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01"
+}
