@@ -16,6 +16,8 @@ max_concurrent_downloads: 5
 max_images_per_artist: 50
 # Max artists per run (optional). Use on VPS so one cron run stays within ~400-600/day. CLI --limit overrides.
 # max_artists_per_run: 500
+# Commit to git every N artists (default 100)
+# batch_size: 100
 # Delay between artists (seconds). Random in [min, max] to avoid detection.
 artist_delay_min_seconds: 3
 artist_delay_max_seconds: 8

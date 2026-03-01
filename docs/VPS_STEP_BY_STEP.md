@@ -99,35 +99,6 @@ When it starts processing:
 
 ---
 
----
-
-## Step 7: Run 500/day via cron (optional)
-
-Process 500 artists daily until all are done. Each run resumes from the last index.
-
-**Create the script:**
-```bash
-chmod +x scripts/run_pipeline_500.sh
-```
-
-**Add to cron** (runs daily at 3 AM):
-```bash
-crontab -e
-```
-Add this line (adjust path if your home differs):
-```
-0 3 * * * /home/misha/Tattoo_artists/scripts/run_pipeline_500.sh >> /home/misha/Tattoo_artists/pipeline.log 2>&1
-```
-
-If your username is different, use `~/Tattoo_artists` — but cron needs absolute paths, so run `echo $HOME` and use `/home/YOUR_USER/Tattoo_artists`.
-
-**Check logs:**
-```bash
-tail -f ~/Tattoo_artists/pipeline.log
-```
-
----
-
 ## Quick reference
 
 | Task              | Command                                                    |

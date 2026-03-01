@@ -31,7 +31,7 @@ except ImportError:
 @dataclass
 class ParsedArtist:
     """Extracted artist data from a tattooswizard page."""
-    instagram_url: str
+    instagram_url: Optional[str]  # None when artist has no Instagram (handle from URL slug)
     instagram_handle: str
     name: str
     city: str
@@ -113,16 +113,17 @@ def parse_artist_page(url: str, headless: bool = True, max_images: int = 50) -> 
                 handle = m.group(1).lower()
                 instagram_url = f"https://instagram.com/{handle}"
 
-        if not instagram_url:
-            return None
-
-        handle = _extract_instagram_handle(instagram_url)
-        if not handle:
-            return None
-
-        handle = re.sub(r"[^a-z0-9._]", "", handle)[:30]
-        if not handle:
-            return None
+        # Use Instagram handle if found, else URL slug as ID (include artists without Instagram)
+        if instagram_url:
+            handle = _extract_instagram_handle(instagram_url)
+            if handle:
+                handle = re.sub(r"[^a-z0-9._]", "", handle)[:30]
+        if not instagram_url or not handle:
+            # Fallback: use slug from URL (e.g. /artists/0.5na -> 0.5na)
+            slug = url.rstrip("/").split("/")[-1]
+            handle = re.sub(r"[^a-z0-9._-]", "", slug.lower().replace("-", "_"))[:30]
+            if not handle:
+                return None
 
         # Name
         name = ""

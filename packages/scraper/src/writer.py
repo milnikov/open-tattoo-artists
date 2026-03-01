@@ -26,7 +26,7 @@ def build_artist_json(
     city: str,
     country: str,
     styles: list[str],
-    instagram_url: str,
+    instagram_url: Optional[str],
     website: Optional[str],
     source_url: str,
     tattoos: list[dict],
@@ -34,8 +34,13 @@ def build_artist_json(
     """
     Build artist dict for schema v2.
     tattoos: list of {"image_id", "image_full", "image_thumb"}
+    instagram_url can be None for artists without Instagram.
     """
-    links = {"instagram": instagram_url, "source": source_url}
+    links = {"source": source_url}
+    if instagram_url:
+        links["instagram"] = instagram_url
+    else:
+        links["instagram"] = None  # Schema allows null when optional
     if website:
         links["website"] = website
 

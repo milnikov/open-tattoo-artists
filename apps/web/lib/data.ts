@@ -1,12 +1,7 @@
 import fs from "fs";
 import path from "path";
 
-// Directory containing indexes/, artists/, styles/. Prefer in-app data/ (Vercel); else repo data/ (local).
-const DATA_DIR = (() => {
-  const inApp = path.join(process.cwd(), "data");
-  if (fs.existsSync(inApp)) return inApp;
-  return path.join(process.cwd(), "..", "..", "data");
-})();
+const REPO_ROOT = path.join(process.cwd(), "..", "..");
 
 export interface CompactArtist {
   id: string;
@@ -43,25 +38,25 @@ export interface Artist {
 }
 
 export function getCompactArtists(): CompactArtist[] {
-  const p = path.join(DATA_DIR, "indexes", "artists.compact.json");
+  const p = path.join(REPO_ROOT, "data", "indexes", "artists.compact.json");
   if (!fs.existsSync(p)) return [];
   return JSON.parse(fs.readFileSync(p, "utf-8"));
 }
 
 export function getSearchIndex(): SearchIndexEntry[] {
-  const p = path.join(DATA_DIR, "indexes", "search-index.json");
+  const p = path.join(REPO_ROOT, "data", "indexes", "search-index.json");
   if (!fs.existsSync(p)) return [];
   return JSON.parse(fs.readFileSync(p, "utf-8"));
 }
 
 export function getArtist(id: string): Artist | null {
-  const p = path.join(DATA_DIR, "artists", `${id}.json`);
+  const p = path.join(REPO_ROOT, "data", "artists", `${id}.json`);
   if (!fs.existsSync(p)) return null;
   return JSON.parse(fs.readFileSync(p, "utf-8"));
 }
 
 export function getStyles(): string[] {
-  const p = path.join(DATA_DIR, "styles", "styles.json");
+  const p = path.join(REPO_ROOT, "data", "styles", "styles.json");
   if (!fs.existsSync(p)) return [];
   const data = JSON.parse(fs.readFileSync(p, "utf-8"));
   return Array.isArray(data) ? data : [];

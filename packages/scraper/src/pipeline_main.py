@@ -9,6 +9,7 @@ Usage:
 
 import argparse
 import json
+import os
 import random
 import subprocess
 import sys
@@ -22,7 +23,7 @@ from parse import parse_artist_page
 from images import download_and_process_images
 from r2 import get_r2_client, upload_artist_images
 from writer import build_artist_json, write_artist
-from state import load_state, save_state, is_completed, mark_completed
+from state import load_state, save_state, is_completed, mark_completed, merge_worker_states
 
 
 def load_config():
@@ -44,6 +45,72 @@ def load_urls(discovery_file: str) -> list[str]:
     return data.get("artists", [])
 
 
+def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
+    """Spawn N workers with disjoint index ranges, wait, then merge state."""
+    n = args.workers
+    batch_size = args.batch_size or config.get("batch_size") or 100
+
+    # Load main state to get start
+    main_state_path = repo_path("packages", "scraper", "scrape_state.json")
+    state = load_state(main_state_path)
+    last = state["last_index"]
+    start = max(last + 1, args.start_index) if last >= 0 else args.start_index
+    if start >= len(urls):
+        print("   All artists processed. Resetting and starting from 0.")
+        state["completed_ids"] = set()
+        state["last_index"] = -1
+        save_state(state["completed_ids"], -1, main_state_path)
+        start = 0
+
+    total = limit if limit is not None else (len(urls) - start)
+    total = min(total, len(urls) - start)
+    if total <= 0:
+        print("   Nothing to process.")
+        return
+
+    chunk_size = (total + n - 1) // n
+    ranges = []
+    for i in range(n):
+        lo = start + i * chunk_size
+        hi = min(lo + chunk_size, len(urls))
+        if lo < hi:
+            ranges.append((lo, hi - lo))
+
+    if not ranges:
+        print("   No ranges to assign.")
+        return
+
+    script_dir = repo_path("packages", "scraper", "src")
+    env = os.environ.copy()
+    env["PYTHONPATH"] = str(script_dir) + (os.pathsep + env.get("PYTHONPATH", "")) if env.get("PYTHONPATH") else str(script_dir)
+
+    cmd_base = [
+        sys.executable,
+        str(repo_path("packages", "scraper", "src", "pipeline_main.py")),
+        "--batch-size", str(batch_size),
+    ]
+    if args.no_r2:
+        cmd_base.append("--no-r2")
+    if args.no_git:
+        cmd_base.append("--no-git")
+
+    procs = []
+    for i, (lo, cnt) in enumerate(ranges):
+        cmd = cmd_base + ["--start-index", str(lo), "--limit", str(cnt), "--state-suffix", f"_w{i}"]
+        p = subprocess.Popen(cmd, cwd=str(repo_path()), env=env)
+        procs.append((i, p))
+        print(f"   Worker {i}: indices {lo}-{lo + cnt - 1} (PID {p.pid})")
+
+    for i, p in procs:
+        p.wait()
+        if p.returncode != 0:
+            print(f"   Worker {i} exited with code {p.returncode}")
+
+    suffixes = [f"_w{i}" for i in range(len(ranges))]
+    merge_worker_states(suffixes, main_state_path)
+    print("   State merged into scrape_state.json")
+
+
 def git_commit_and_push(branch: str = "main", message: str = "chore: add scraped artists"):
     """Commit data/artists and push."""
     try:
@@ -61,25 +128,46 @@ def main():
     parser = argparse.ArgumentParser(description="Scrape tattooswizard -> R2 + data/artists")
     parser.add_argument("--start-index", type=int, default=0)
     parser.add_argument("--limit", type=int, default=None)
-    parser.add_argument("--batch-size", type=int, default=100, help="Commit every N artists")
+    parser.add_argument("--batch-size", type=int, default=None, help="Commit every N artists (default: config or 100)")
     parser.add_argument("--no-r2", action="store_true", help="Skip R2 upload (dry run)")
     parser.add_argument("--no-git", action="store_true", help="Do not commit/push")
+    parser.add_argument("--state-suffix", type=str, default="", help="State file suffix for parallel workers (e.g. _w0)")
+    parser.add_argument("--workers", type=int, default=1, help="Run N workers in parallel (orchestrator mode)")
     args = parser.parse_args()
 
     config = load_config()
     discovery_file = config.get("discovery_file") or "packages/scraper/discovered_pages.json"
     urls = load_urls(discovery_file)
-    state = load_state()
 
-    # Per-run limit: CLI --limit overrides config max_artists_per_run (for VPS / rate-limit safety)
+    # Per-run limit: CLI --limit overrides config max_artists_per_run
     limit = args.limit
     if limit is None and config.get("max_artists_per_run") is not None:
         limit = config["max_artists_per_run"]
         print(f"   Using config max_artists_per_run: {limit} (run once per day on VPS to stay within ~500/day)")
 
-    # Resume from last_index or start_index
-    start = max(state["last_index"], args.start_index)
+    # Orchestrator mode: spawn N workers, then merge
+    if args.workers > 1:
+        _run_parallel(config, urls, limit, args)
+        return
+
+    # Single-worker mode
+    state_path = repo_path("packages", "scraper", f"scrape_state{args.state_suffix}.json") if args.state_suffix else None
+    state = load_state(state_path)
+
+    # Batch size: CLI > config > 100
+    batch_size = args.batch_size or config.get("batch_size") or 100
+
+    # Resume from last_index+1 or start_index. If all done, reset and start from 0.
+    last = state["last_index"]
+    start = max(last + 1, args.start_index) if last >= 0 else args.start_index
+    if start >= len(urls):
+        print("   All artists processed. Resetting and starting from 0.")
+        state["completed_ids"] = set()
+        state["last_index"] = -1
+        save_state(state["completed_ids"], -1, state_path)
+        start = 0
     end = start + limit if limit is not None else len(urls)
+    end = min(end, len(urls))
     urls_to_process = urls[start:end]
 
     r2_config = config.get("r2") if not args.no_r2 else None
@@ -109,7 +197,6 @@ def main():
         print("⚠️ Running without R2 upload (dry run)")
 
     success_count = 0
-    skip_no_instagram = 0
     committed = 0
 
     for i, url in enumerate(urls_to_process):
@@ -123,8 +210,7 @@ def main():
             continue
 
         if parsed is None:
-            print("  ⏭️ Skipped (no Instagram)")
-            skip_no_instagram += 1
+            print("  ⏭️ Skipped (parse failed)")
             continue
 
         handle = parsed.instagram_handle
@@ -186,7 +272,7 @@ def main():
             tattoos=tattoos,
         )
         write_artist(handle, data)
-        mark_completed(handle, state, idx)
+        mark_completed(handle, state, idx, state_path)
         success_count += 1
         print(f"  ✅ {handle} ({len(tattoos)} images)")
 
@@ -200,12 +286,12 @@ def main():
                 print(f"  ⏸ Extended pause {extra:.1f}s (every {delay_every_n} artists)...")
                 time.sleep(extra)
 
-        # Batch commit
-        if not args.no_git and success_count > 0 and success_count % args.batch_size == 0:
-            if git_commit_and_push(message=f"chore: add {args.batch_size} scraped artists"):
-                committed += args.batch_size
+        # Batch commit every batch_size artists
+        if not args.no_git and success_count > 0 and success_count % batch_size == 0:
+            if git_commit_and_push(message=f"chore: add {batch_size} scraped artists"):
+                committed += batch_size
 
-    print(f"\n📊 Done. Success: {success_count}, skipped (no Instagram): {skip_no_instagram}")
+    print(f"\n📊 Done. Success: {success_count}")
     if committed:
         print(f"   Committed: {committed} artists")
 

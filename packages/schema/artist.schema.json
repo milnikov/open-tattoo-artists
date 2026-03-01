@@ -48,9 +48,9 @@
     "links": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["instagram"],
+      "required": ["source"],
       "properties": {
-        "instagram": { "type": "string", "format": "uri" },
+        "instagram": { "type": ["string", "null"] },
         "website": { "type": "string", "format": "uri" },
         "source": { "type": "string", "format": "uri" },
         "studio": { "type": "string", "format": "uri" },
