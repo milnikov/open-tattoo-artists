@@ -1,12 +1,747 @@
 [
   {
+    "id": "0711nadelspiel",
+    "name": "0711nadelspiel",
+    "normalized": "0711nadelspiel"
+  },
+  {
+    "id": "100miletattoo",
+    "name": "100 Mile Tattoo",
+    "normalized": "100 mile tattoo"
+  },
+  {
+    "id": "1000voltstattooco",
+    "name": "1000 Volts Tattoo Co",
+    "normalized": "1000 volts tattoo co"
+  },
+  {
+    "id": "1001troublestattoo",
+    "name": "1001 Troubles Tattoo",
+    "normalized": "1001 troubles tattoo"
+  },
+  {
+    "id": "108tattoostudio",
+    "name": "108 Tattoo Studio",
+    "normalized": "108 tattoo studio"
+  },
+  {
+    "id": "10kf_hollywood",
+    "name": "10Kf Hollywood",
+    "normalized": "10kf hollywood"
+  },
+  {
+    "id": "111artsgallery",
+    "name": "111ArtsGallery",
+    "normalized": "111artsgallery"
+  },
+  {
+    "id": "12monkeystattoos",
+    "name": "12 Monkeys Tattoo",
+    "normalized": "12 monkeys tattoo"
+  },
+  {
+    "id": "12thdynastytattoostudio",
+    "name": "12th Dynasty Tattoo Studio",
+    "normalized": "12th dynasty tattoo studio"
+  },
+  {
+    "id": "13tattoopl",
+    "name": "13 Tattoo",
+    "normalized": "13 tattoo"
+  },
+  {
+    "id": "13tattooclinic",
+    "name": "13 Tattoo & Piercing",
+    "normalized": "13 tattoo & piercing"
+  },
+  {
+    "id": "174tattoo",
+    "name": "174 Tattoo",
+    "normalized": "174 tattoo"
+  },
+  {
+    "id": "1807artcollective",
+    "name": "1807 Art Collective",
+    "normalized": "1807 art collective"
+  },
+  {
+    "id": "1819tattooco",
+    "name": "1819 Tattoo Co",
+    "normalized": "1819 tattoo co"
+  },
+  {
+    "id": "1920.tattoo",
+    "name": "1920 Tattoo",
+    "normalized": "1920 tattoo"
+  },
+  {
+    "id": "1984.studios",
+    "name": "1984 Tattoo & Piercing",
+    "normalized": "1984 tattoo & piercing"
+  },
+  {
+    "id": "1995tattoostudio",
+    "name": "1995 Tattoo Studio",
+    "normalized": "1995 tattoo studio"
+  },
+  {
+    "id": "1eleventattoo",
+    "name": "1Eleven Tattoo Collective",
+    "normalized": "1eleven tattoo collective"
+  },
+  {
+    "id": "1pointtattoo",
+    "name": "1PointTattoo",
+    "normalized": "1pointtattoo"
+  },
+  {
+    "id": "1stbigdeal",
+    "name": "1stbigdeal",
+    "normalized": "1stbigdeal"
+  },
+  {
+    "id": "2extremetattoos",
+    "name": "2 Extreme Tattoos",
+    "normalized": "2 extreme tattoos"
+  },
+  {
+    "id": "2tongallery",
+    "name": "2 Ton Tattoo Gallery",
+    "normalized": "2 ton tattoo gallery"
+  },
+  {
+    "id": "2crows_tattoo",
+    "name": "2-Crows",
+    "normalized": "2-crows"
+  },
+  {
+    "id": "2012tattoo",
+    "name": "2012 Tattoo Company",
+    "normalized": "2012 tattoo company"
+  },
+  {
+    "id": "21x29.7",
+    "name": "21x297",
+    "normalized": "21x297"
+  },
+  {
+    "id": "24_tattoo_studio",
+    "name": "24 Tattoo Studio",
+    "normalized": "24 tattoo studio"
+  },
+  {
+    "id": "27tattoostudio_phx",
+    "name": "27 Tattoo Studio",
+    "normalized": "27 tattoo studio"
+  },
+  {
+    "id": "2ndskintattoo",
+    "name": "2nd Skin Tattoo",
+    "normalized": "2nd skin tattoo"
+  },
+  {
+    "id": "2ndskinldn",
+    "name": "2nd Skin Tattoo Artists",
+    "normalized": "2nd skin tattoo artists"
+  },
+  {
+    "id": "2tereihe",
+    "name": "2tereihe",
+    "normalized": "2tereihe"
+  },
+  {
+    "id": "3acestattoostudio",
+    "name": "3 Aces Tattoo",
+    "normalized": "3 aces tattoo"
+  },
+  {
+    "id": "3daggerstattoopb",
+    "name": "3 Daggers Tattoo",
+    "normalized": "3 daggers tattoo"
+  },
+  {
+    "id": "359tattoos",
+    "name": "359 Tattoo Studio",
+    "normalized": "359 tattoo studio"
+  },
+  {
+    "id": "36mata",
+    "name": "36IX",
+    "normalized": "36ix"
+  },
+  {
+    "id": "3kreuze",
+    "name": "3KREUZE",
+    "normalized": "3kreuze"
+  },
+  {
+    "id": "3rdeyeinkaustin",
+    "name": "3rd Eye Ink Tattoo & Piercings",
+    "normalized": "3rd eye ink tattoo & piercings"
+  },
+  {
+    "id": "3rietattoos",
+    "name": "3rie Gordon",
+    "normalized": "3rie gordon"
+  },
+  {
+    "id": "400lb_guerilla",
+    "name": "400lb Guerilla",
+    "normalized": "400lb guerilla"
+  },
+  {
+    "id": "405ink",
+    "name": "405 Ink Tattoo Studio",
+    "normalized": "405 ink tattoo studio"
+  },
+  {
+    "id": "431tattoosupply",
+    "name": "431 Tattoo Supply",
+    "normalized": "431 tattoo supply"
+  },
+  {
+    "id": "454_tattoo",
+    "name": "454 Tattoo & Body Piercing",
+    "normalized": "454 tattoo & body piercing"
+  },
+  {
+    "id": "51tattoo",
+    "name": "51 Tattoo",
+    "normalized": "51 tattoo"
+  },
+  {
+    "id": "522tattoo",
+    "name": "522 Tattoo",
+    "normalized": "522 tattoo"
+  },
+  {
+    "id": "5280ink",
+    "name": "5280 Ink",
+    "normalized": "5280 ink"
+  },
+  {
+    "id": "570tattooingco",
+    "name": "570 Tattooing Co",
+    "normalized": "570 tattooing co"
+  },
+  {
+    "id": "57thdoortattoostudio",
+    "name": "57th Door Tattoo Studio",
+    "normalized": "57th door tattoo studio"
+  },
+  {
+    "id": "6skullsnyc",
+    "name": "6 Skulls",
+    "normalized": "6 skulls"
+  },
+  {
+    "id": "6dita",
+    "name": "6dita",
+    "normalized": "6dita"
+  },
+  {
+    "id": "7_sins_tattoo",
+    "name": "7 SINS TATTOO",
+    "normalized": "7 sins tattoo"
+  },
+  {
+    "id": "7sinstattoostudio",
+    "name": "7 Sins Tattoo Studio",
+    "normalized": "7 sins tattoo studio"
+  },
+  {
+    "id": "7tattoogallery",
+    "name": "7 Tattoo Gallery",
+    "normalized": "7 tattoo gallery"
+  },
+  {
+    "id": "713tattoo",
+    "name": "713 Tattoo Parlour",
+    "normalized": "713 tattoo parlour"
+  },
+  {
+    "id": "714official",
+    "name": "714official",
+    "normalized": "714official"
+  },
+  {
+    "id": "717tattoo",
+    "name": "717 Tattoo",
+    "normalized": "717 tattoo"
+  },
+  {
+    "id": "740__tattoo",
+    "name": "740-Tattoo",
+    "normalized": "740-tattoo"
+  },
+  {
+    "id": "777tattoos",
+    "name": "777 Tattoos",
+    "normalized": "777 tattoos"
+  },
+  {
+    "id": "777tigre",
+    "name": "777tigre",
+    "normalized": "777tigre"
+  },
+  {
+    "id": "7787_parlor_tattoo_heidelsheim",
+    "name": "7787 Parlor Tattoo",
+    "normalized": "7787 parlor tattoo"
+  },
+  {
+    "id": "7siegeltattoo",
+    "name": "7SIEGEL TATTOO ATELIER",
+    "normalized": "7siegel tattoo atelier"
+  },
+  {
+    "id": "7traintattoo",
+    "name": "7TrainTattoo",
+    "normalized": "7traintattoo"
+  },
+  {
+    "id": "893tattoos",
+    "name": "893 Tattoos",
+    "normalized": "893 tattoos"
+  },
+  {
+    "id": "8_point",
+    "name": "8POINT",
+    "normalized": "8point"
+  },
+  {
+    "id": "9livestattoostudiomi",
+    "name": "9 Lives Tattoo Studio Mi",
+    "normalized": "9 lives tattoo studio mi"
+  },
+  {
+    "id": "90milestattoos",
+    "name": "90 Miles Tattoos",
+    "normalized": "90 miles tattoos"
+  },
+  {
+    "id": "905inktattoo",
+    "name": "905inktattoo",
+    "normalized": "905inktattoo"
+  },
+  {
+    "id": "90sdolphintattoo",
+    "name": "90sDolphinTattoo",
+    "normalized": "90sdolphintattoo"
+  },
+  {
+    "id": "924tattoo",
+    "name": "924tattoo",
+    "normalized": "924tattoo"
+  },
+  {
+    "id": "92_noise",
+    "name": "92_noise",
+    "normalized": "92_noise"
+  },
+  {
+    "id": "958tattoo",
+    "name": "958tattoo",
+    "normalized": "958tattoo"
+  },
+  {
+    "id": "9rukim",
+    "name": "9rukIm",
+    "normalized": "9rukim"
+  },
+  {
+    "id": "9threalmgallery",
+    "name": "9th Realm Gallery",
+    "normalized": "9th realm gallery"
+  },
+  {
+    "id": "26abel",
+    "name": "Abel",
+    "normalized": "abel"
+  },
+  {
+    "id": "3tattoo_",
+    "name": "Adonai Tattoo",
+    "normalized": "adonai tattoo"
+  },
+  {
+    "id": "595tattoo",
+    "name": "Amanda Silva",
+    "normalized": "amanda silva"
+  },
+  {
+    "id": "816tattoo",
+    "name": "Andrew Ayala",
+    "normalized": "andrew ayala"
+  },
+  {
+    "id": "508_ink_tattoos",
+    "name": "Andrew Paul",
+    "normalized": "andrew paul"
+  },
+  {
+    "id": "94hours",
+    "name": "Andrey Stepin",
+    "normalized": "andrey stepin"
+  },
+  {
+    "id": "1r915s",
+    "name": "Arios",
+    "normalized": "arios"
+  },
+  {
+    "id": "26swordstattoo",
+    "name": "Barham Tattoos",
+    "normalized": "barham tattoos"
+  },
+  {
+    "id": "808tattoohawaii",
+    "name": "Billy",
+    "normalized": "billy"
+  },
+  {
+    "id": "083tattoostudio",
+    "name": "Binhor",
+    "normalized": "binhor"
+  },
+  {
+    "id": "3rdeyetat2",
+    "name": "Bob-Tat",
+    "normalized": "bob-tat"
+  },
+  {
+    "id": "37_grad_tattooo",
+    "name": "Carlo Coletti",
+    "normalized": "carlo coletti"
+  },
+  {
+    "id": "5417tattoo",
+    "name": "Chris",
+    "normalized": "chris"
+  },
+  {
+    "id": "567ryan",
+    "name": "Christopher Ryan",
+    "normalized": "christopher ryan"
+  },
+  {
+    "id": "512tattoo",
+    "name": "Cory Rogers",
+    "normalized": "cory rogers"
+  },
+  {
+    "id": "1k.ghosts",
+    "name": "Daria",
+    "normalized": "daria"
+  },
+  {
+    "id": "1770tattoo",
+    "name": "David Thomas",
+    "normalized": "david thomas"
+  },
+  {
+    "id": "87tattoofamily",
+    "name": "Dodetattoo",
+    "normalized": "dodetattoo"
+  },
+  {
+    "id": "4theloveofdub",
+    "name": "Dub Galloway",
+    "normalized": "dub galloway"
+  },
+  {
+    "id": "5seisclassictattoo",
+    "name": "Duda Kruger",
+    "normalized": "duda kruger"
+  },
+  {
+    "id": "3lder.ink",
+    "name": "Elder Dantas",
+    "normalized": "elder dantas"
+  },
+  {
+    "id": "11rtattoo",
+    "name": "Eleventh & Rockford",
+    "normalized": "eleventh & rockford"
+  },
+  {
     "id": "013manue",
     "name": "Emmanuelle Moreau",
     "normalized": "emmanuelle moreau"
   },
   {
+    "id": "3hreee",
+    "name": "Farris Armand",
+    "normalized": "farris armand"
+  },
+  {
+    "id": "tattoos_wizard",
+    "name": "Find Tattoo Artists and Studios near you",
+    "normalized": "find tattoo artists and studios near you"
+  },
+  {
+    "id": "___flokati___",
+    "name": "FLOKATI",
+    "normalized": "flokati"
+  },
+  {
+    "id": "128ink",
+    "name": "Florea Andrei",
+    "normalized": "florea andrei"
+  },
+  {
+    "id": "2020_tattoo",
+    "name": "Frank",
+    "normalized": "frank"
+  },
+  {
+    "id": "___g3o___",
+    "name": "Geo Ruiz",
+    "normalized": "geo ruiz"
+  },
+  {
+    "id": "6george6quick6",
+    "name": "George Quick",
+    "normalized": "george quick"
+  },
+  {
+    "id": "69comanche",
+    "name": "Igor",
+    "normalized": "igor"
+  },
+  {
+    "id": "1mperiousr3x",
+    "name": "Imperious Rex Tattoo",
+    "normalized": "imperious rex tattoo"
+  },
+  {
+    "id": "1incredibleink",
+    "name": "Incredible Ink Tattoo Artist",
+    "normalized": "incredible ink tattoo artist"
+  },
+  {
+    "id": "29palmstattoo",
+    "name": "Jason Fritze",
+    "normalized": "jason fritze"
+  },
+  {
+    "id": "1977tattooparlourmadrid",
+    "name": "JDom Tattooer",
+    "normalized": "jdom tattooer"
+  },
+  {
+    "id": "3rdlayertattoo",
+    "name": "Jeremy Misery",
+    "normalized": "jeremy misery"
+  },
+  {
+    "id": "3footradiustattoo",
+    "name": "Jessica Smith",
+    "normalized": "jessica smith"
+  },
+  {
+    "id": "401tattoo",
+    "name": "Jimmy Bissette",
+    "normalized": "jimmy bissette"
+  },
+  {
+    "id": "623tattoo",
+    "name": "Josh 623 Tattoo",
+    "normalized": "josh 623 tattoo"
+  },
+  {
+    "id": "9.doze",
+    "name": "João (Jao) 9Doze",
+    "normalized": "joão (jao) 9doze"
+  },
+  {
+    "id": "410madeira",
+    "name": "Kat Madeira",
+    "normalized": "kat madeira"
+  },
+  {
+    "id": "1loveinktattoos",
+    "name": "Katy & Nick",
+    "normalized": "katy & nick"
+  },
+  {
+    "id": "152tattoo",
+    "name": "Katya Ponomarenko",
+    "normalized": "katya ponomarenko"
+  },
+  {
+    "id": "76_tattoo",
+    "name": "Kristin",
+    "normalized": "kristin"
+  },
+  {
+    "id": "54.43_20.30",
+    "name": "Le Lu",
+    "normalized": "le lu"
+  },
+  {
+    "id": "92prooftattoostudio",
+    "name": "LeMoore",
+    "normalized": "lemoore"
+  },
+  {
+    "id": "1unico1",
+    "name": "LMV®",
+    "normalized": "lmv®"
+  },
+  {
+    "id": "064tattoostudio",
+    "name": "Luis Escobar",
+    "normalized": "luis escobar"
+  },
+  {
+    "id": "71tattooabq",
+    "name": "Marty Williams",
+    "normalized": "marty williams"
+  },
+  {
+    "id": "301tattoo",
+    "name": "Michael Dassen",
+    "normalized": "michael dassen"
+  },
+  {
+    "id": "1912tattoo",
+    "name": "Mikey Ratt",
+    "normalized": "mikey ratt"
+  },
+  {
     "id": "0.5na",
     "name": "Mina Brcn",
     "normalized": "mina brcn"
+  },
+  {
+    "id": "681holly",
+    "name": "Morgane",
+    "normalized": "morgane"
+  },
+  {
+    "id": "3.tattoo",
+    "name": "Myongki Yi",
+    "normalized": "myongki yi"
+  },
+  {
+    "id": "82_nickferris_tattoo_",
+    "name": "Nick Ferris",
+    "normalized": "nick ferris"
+  },
+  {
+    "id": "12thavenuetattoo",
+    "name": "Nina",
+    "normalized": "nina"
+  },
+  {
+    "id": "19ink_te",
+    "name": "Nineteen Ink",
+    "normalized": "nineteen ink"
+  },
+  {
+    "id": "5trange_daze",
+    "name": "Pe4ce_N0+_Gr33d",
+    "normalized": "pe4ce_n0+_gr33d"
+  },
+  {
+    "id": "4tunattoo",
+    "name": "Pedro Fortunato",
+    "normalized": "pedro fortunato"
+  },
+  {
+    "id": "__artepetra__",
+    "name": "Petra Gribi",
+    "normalized": "petra gribi"
+  },
+  {
+    "id": "___v___vieira",
+    "name": "Rafael Vieira",
+    "normalized": "rafael vieira"
+  },
+  {
+    "id": "7soulstattoo_ramsey",
+    "name": "Ramsey Soul",
+    "normalized": "ramsey soul"
+  },
+  {
+    "id": "1032tattoos",
+    "name": "REDD",
+    "normalized": "redd"
+  },
+  {
+    "id": "3rdhearttattoo",
+    "name": "Ryan Boomhower",
+    "normalized": "ryan boomhower"
+  },
+  {
+    "id": "1seasonbaby",
+    "name": "Season Bowman",
+    "normalized": "season bowman"
+  },
+  {
+    "id": "7tattoos",
+    "name": "Seven",
+    "normalized": "seven"
+  },
+  {
+    "id": "1800stabyou",
+    "name": "Silas Yufa",
+    "normalized": "silas yufa"
+  },
+  {
+    "id": "5himp",
+    "name": "Steve Maidana",
+    "normalized": "steve maidana"
+  },
+  {
+    "id": "42tattoomemphis",
+    "name": "Studio 42",
+    "normalized": "studio 42"
+  },
+  {
+    "id": "504inktattoos",
+    "name": "Tato Hernandez",
+    "normalized": "tato hernandez"
+  },
+  {
+    "id": "7.90studio",
+    "name": "Tayeh",
+    "normalized": "tayeh"
+  },
+  {
+    "id": "848_studio",
+    "name": "Tebori",
+    "normalized": "tebori"
+  },
+  {
+    "id": "1strevelationtattoo",
+    "name": "Tod Bain",
+    "normalized": "tod bain"
+  },
+  {
+    "id": "3p_dtos_studio",
+    "name": "Trip Dtos",
+    "normalized": "trip dtos"
+  },
+  {
+    "id": "_____tukoi_____",
+    "name": "Tukoi",
+    "normalized": "tukoi"
+  },
+  {
+    "id": "1delosnuestros",
+    "name": "Uno De Los Nuestros",
+    "normalized": "uno de los nuestros"
+  },
+  {
+    "id": "2001adtattoo",
+    "name": "Vee Keegan",
+    "normalized": "vee keegan"
+  },
+  {
+    "id": "94berezin",
+    "name": "Евгений Березин",
+    "normalized": "евгений березин"
   }
 ]
