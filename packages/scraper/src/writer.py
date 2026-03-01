@@ -30,6 +30,8 @@ def build_artist_json(
     website: Optional[str],
     source_url: str,
     tattoos: list[dict],
+    bio: Optional[str] = None,
+    tattooing_since: Optional[str] = None,
 ) -> dict:
     """
     Build artist dict for schema v2.
@@ -53,7 +55,7 @@ def build_artist_json(
             "analysis": empty_analysis(),
         })
 
-    return {
+    out = {
         "schema_version": 2,
         "id": handle,
         "name": name,
@@ -63,6 +65,11 @@ def build_artist_json(
         "tattoos": tattoo_objs,
         "updated_at": date.today().isoformat(),
     }
+    if bio is not None:
+        out["bio"] = bio
+    if tattooing_since is not None:
+        out["tattooing_since"] = tattooing_since
+    return out
 
 
 def write_artist(handle: str, data: dict) -> Path:

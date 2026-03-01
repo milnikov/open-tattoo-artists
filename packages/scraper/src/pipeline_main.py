@@ -270,6 +270,8 @@ def main():
             website=parsed.website,
             source_url=parsed.source_url,
             tattoos=tattoos,
+            bio=parsed.bio,
+            tattooing_since=parsed.tattooing_since,
         )
         write_artist(handle, data)
         mark_completed(handle, state, idx, state_path)

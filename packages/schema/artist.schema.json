@@ -32,15 +32,30 @@
     "location": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["city", "country"],
+      "required": [
+        "city",
+        "country"
+      ],
       "properties": {
-        "city": { "type": "string", "minLength": 1, "maxLength": 80 },
-        "country": { "type": "string", "minLength": 2, "maxLength": 80 }
+        "city": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 80
+        },
+        "country": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 80
+        }
       }
     },
     "styles": {
       "type": "array",
-      "items": { "type": "string", "minLength": 1, "maxLength": 40 },
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 40
+      },
       "minItems": 0,
       "uniqueItems": true,
       "description": "Flat list of style slugs"
@@ -48,14 +63,49 @@
     "links": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["source"],
+      "required": [
+        "source"
+      ],
       "properties": {
-        "instagram": { "type": ["string", "null"] },
-        "website": { "type": "string", "format": "uri" },
-        "source": { "type": "string", "format": "uri" },
-        "studio": { "type": "string", "format": "uri" },
-        "booking": { "type": "string", "format": "uri" }
+        "instagram": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "website": {
+          "type": "string",
+          "format": "uri"
+        },
+        "source": {
+          "type": "string",
+          "format": "uri"
+        },
+        "studio": {
+          "type": "string",
+          "format": "uri"
+        },
+        "booking": {
+          "type": "string",
+          "format": "uri"
+        }
       }
+    },
+    "bio": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Artist bio from source site",
+      "maxLength": 2000
+    },
+    "tattooing_since": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Year when artist started tattooing",
+      "maxLength": 20
     },
     "tattoos": {
       "type": "array",
@@ -63,26 +113,92 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["image_id", "image_full", "image_thumb", "analysis"],
+        "required": [
+          "image_id",
+          "image_full",
+          "image_thumb",
+          "analysis"
+        ],
         "properties": {
-          "image_id": { "type": "string", "pattern": "^[0-9]{3,6}$", "description": "Zero-padded incremental ID like 001, 002..." },
-          "image_full": { "type": "string", "minLength": 5 },
-          "image_thumb": { "type": "string", "minLength": 5 },
+          "image_id": {
+            "type": "string",
+            "pattern": "^[0-9]{3,6}$",
+            "description": "Zero-padded incremental ID like 001, 002..."
+          },
+          "image_full": {
+            "type": "string",
+            "minLength": 5
+          },
+          "image_thumb": {
+            "type": "string",
+            "minLength": 5
+          },
           "analysis": {
             "type": "object",
             "additionalProperties": false,
-            "required": ["themes", "dominant_colours", "body_parts", "size_category", "confidence_score"],
+            "required": [
+              "themes",
+              "dominant_colours",
+              "body_parts",
+              "size_category",
+              "confidence_score"
+            ],
             "properties": {
-              "themes": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 60 }, "uniqueItems": true },
-              "dominant_colours": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 30 }, "uniqueItems": true },
-              "body_parts": { "type": "array", "items": { "type": "string", "minLength": 1, "maxLength": 40 }, "uniqueItems": true },
-              "size_category": { "type": ["string", "null"], "enum": ["small", "medium", "large", null] },
-              "confidence_score": { "type": ["number", "null"], "minimum": 0, "maximum": 1 }
+              "themes": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 60
+                },
+                "uniqueItems": true
+              },
+              "dominant_colours": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 30
+                },
+                "uniqueItems": true
+              },
+              "body_parts": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "minLength": 1,
+                  "maxLength": 40
+                },
+                "uniqueItems": true
+              },
+              "size_category": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "enum": [
+                  "small",
+                  "medium",
+                  "large",
+                  null
+                ]
+              },
+              "confidence_score": {
+                "type": [
+                  "number",
+                  "null"
+                ],
+                "minimum": 0,
+                "maximum": 1
+              }
             }
           }
         }
       }
     },
-    "updated_at": { "type": "string", "format": "date" }
+    "updated_at": {
+      "type": "string",
+      "format": "date"
+    }
   }
 }

@@ -1,13 +1,19 @@
 import { getArtist } from "@/lib/data";
+import { getContributorEmailForArtist } from "@/lib/contributions";
 import { imageUrl } from "@/lib/images";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { FavoriteButton } from "@/components/FavoriteButton";
 
-export default function ArtistPage({ params }: { params: { id: string } }) {
+const GITHUB_REPO = process.env.NEXT_PUBLIC_GITHUB_REPO || "milnikov/open-tattoo-artists";
+
+export default async function ArtistPage({ params }: { params: { id: string } }) {
   const artist = getArtist(params.id);
   if (!artist) notFound();
 
-  const reportUrl = `https://github.com/YOUR_ORG/YOUR_REPO/issues/new?template=report-problem.md&title=Report+problem%3A+${encodeURIComponent(artist.name)}&labels=report&artist_id=${artist.id}`;
+  const contributorEmail = await getContributorEmailForArtist(params.id);
+
+  const reportUrl = `https://github.com/${GITHUB_REPO}/issues/new?template=report-problem.md&title=Report+problem%3A+${encodeURIComponent(artist.name)}&labels=report&artist_id=${artist.id}`;
 
   return (
     <div>
@@ -16,6 +22,11 @@ export default function ArtistPage({ params }: { params: { id: string } }) {
       </Link>
       <div className="border bg-white rounded-lg p-6 mb-6">
         <h1 className="text-2xl font-bold">{artist.name}</h1>
+        {contributorEmail && (
+          <p className="text-sm text-gray-500 mt-1">
+            Contributed by {contributorEmail}
+          </p>
+        )}
         <p className="text-gray-600 mt-1">
           {artist.location.city}, {artist.location.country}
         </p>
@@ -54,12 +65,13 @@ export default function ArtistPage({ params }: { params: { id: string } }) {
             </a>
           )}
         </div>
-        <div className="mt-4 flex gap-2">
+        <div className="mt-4 flex flex-wrap gap-2 items-center">
+          <FavoriteButton artistId={artist.id} />
           <a
             href={reportUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-sm px-3 py-1 border rounded hover:bg-gray-50"
+            className="text-sm px-3 py-1.5 border rounded hover:bg-gray-50"
           >
             Report problem
           </a>
