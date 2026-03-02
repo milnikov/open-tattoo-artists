@@ -51,6 +51,13 @@ def main():
         help="Skip this many artists from the start (default: 0)",
     )
     parser.add_argument(
+        "--skip-last",
+        type=int,
+        default=0,
+        metavar="N",
+        help="Skip last N artists (e.g. 100 to exclude recently scraped)",
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Parse and print changes but do not write JSON",
@@ -77,10 +84,16 @@ def main():
     json_files = sorted(artists_dir.glob("*.json"))
     total = len(json_files)
     json_files = json_files[args.start_index :]
+    if args.skip_last:
+        json_files = json_files[: -args.skip_last]
     if args.limit is not None:
         json_files = json_files[: args.limit]
 
-    print(f"📂 Found {total} artist JSONs; processing {len(json_files)} (start={args.start_index}, limit={args.limit or 'all'})")
+    parts = [f"start={args.start_index}"]
+    if args.skip_last:
+        parts.append(f"skip_last={args.skip_last}")
+    parts.append(f"limit={args.limit or 'all'}")
+    print(f"📂 Found {total} artist JSONs; processing {len(json_files)} ({', '.join(parts)})")
     if args.dry_run:
         print("🔍 Dry run: no files will be written")
 
@@ -123,17 +136,28 @@ def main():
             skipped += 1
             continue
 
-        # Apply updates (only metadata; do not touch tattoos or image URLs)
+        # Apply updates (only metadata; do not touch tattoos or image URLs).
+        # Never overwrite existing non-empty values with empty parsed data (avoids bad runs wiping good data).
         changes = []
-        if parsed.styles != data.get("styles"):
-            data["styles"] = parsed.styles
-            changes.append("styles")
-        if (parsed.bio or "") != (data.get("bio") or ""):
-            data["bio"] = parsed.bio  # can be None to clear
-            changes.append("bio")
-        if (parsed.tattooing_since or "") != (data.get("tattooing_since") or ""):
-            data["tattooing_since"] = parsed.tattooing_since  # can be None to clear
-            changes.append("tattooing_since")
+        new_styles = parsed.styles if isinstance(parsed.styles, list) else []
+        cur_styles = data.get("styles") or []
+        if new_styles != cur_styles:
+            # Only set if we have new data, or current is empty (don't replace non-empty with empty)
+            if new_styles or not cur_styles:
+                data["styles"] = new_styles
+                changes.append("styles")
+        new_bio = parsed.bio if parsed.bio else None
+        cur_bio = data.get("bio") or None
+        if (new_bio or "") != (cur_bio or ""):
+            if new_bio or not cur_bio:
+                data["bio"] = new_bio
+                changes.append("bio")
+        new_ts = parsed.tattooing_since or None
+        cur_ts = data.get("tattooing_since") or None
+        if (new_ts or "") != (cur_ts or ""):
+            if new_ts or not cur_ts:
+                data["tattooing_since"] = new_ts
+                changes.append("tattooing_since")
         if changes:
             data["updated_at"] = date.today().isoformat()
 
