@@ -558,8 +558,6 @@ def parse_artist_page(
                     (By.XPATH, "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'add message')]")
                 )
             )
-            # Give header/style pills time to render (they can load after "Add Message")
-            time.sleep(1.5)
         except Exception:
             pass
         header_styles = _extract_styles_from_dom(driver)

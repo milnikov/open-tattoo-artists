@@ -136,28 +136,17 @@ def main():
             skipped += 1
             continue
 
-        # Apply updates (only metadata; do not touch tattoos or image URLs).
-        # Never overwrite existing non-empty values with empty parsed data (avoids bad runs wiping good data).
+        # Apply updates (only metadata; do not touch tattoos or image URLs)
         changes = []
-        new_styles = parsed.styles if isinstance(parsed.styles, list) else []
-        cur_styles = data.get("styles") or []
-        if new_styles != cur_styles:
-            # Only set if we have new data, or current is empty (don't replace non-empty with empty)
-            if new_styles or not cur_styles:
-                data["styles"] = new_styles
-                changes.append("styles")
-        new_bio = parsed.bio if parsed.bio else None
-        cur_bio = data.get("bio") or None
-        if (new_bio or "") != (cur_bio or ""):
-            if new_bio or not cur_bio:
-                data["bio"] = new_bio
-                changes.append("bio")
-        new_ts = parsed.tattooing_since or None
-        cur_ts = data.get("tattooing_since") or None
-        if (new_ts or "") != (cur_ts or ""):
-            if new_ts or not cur_ts:
-                data["tattooing_since"] = new_ts
-                changes.append("tattooing_since")
+        if parsed.styles != data.get("styles"):
+            data["styles"] = parsed.styles
+            changes.append("styles")
+        if (parsed.bio or "") != (data.get("bio") or ""):
+            data["bio"] = parsed.bio  # can be None to clear
+            changes.append("bio")
+        if (parsed.tattooing_since or "") != (data.get("tattooing_since") or ""):
+            data["tattooing_since"] = parsed.tattooing_since  # can be None to clear
+            changes.append("tattooing_since")
         if changes:
             data["updated_at"] = date.today().isoformat()
 
