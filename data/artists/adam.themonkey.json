@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adam.themonkey",
+  "name": "Adam Monkey",
+  "location": {
+    "city": "Rio De Janeiro",
+    "country": "Brazil"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adam.themonkey",
+    "instagram": "https://www.instagram.com/adam.themonkey/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.themonkey/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.themonkey/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.themonkey/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.themonkey/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Monkey, based out of Rio de Janeiro, Brazil, is a seasoned tattoo artist known for his black&gray, realism style. Since jumping into the world of tattooing in 2006, he has won awards for his masterful craftsmanship, displaying his exemplary skill level that adds a distinct Latin zest to his works."
+}

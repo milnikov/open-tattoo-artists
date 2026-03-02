@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_florpagano",
+  "name": "Flor Pagano",
+  "location": {
+    "city": "Buenos Aires City",
+    "country": "Argentina"
+  },
+  "styles": [
+    "lettering",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_florpagano",
+    "instagram": "https://www.instagram.com/_florpagano/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_florpagano/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_florpagano/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_florpagano/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_florpagano/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Flor Pagano is an exceptionally skilled tattoo artist specialized in lettering and dotwork styles. Based in Buenos Aires city, Argentina, within the vibrant neighborhood of Palermo Soho, Flor continuously enchants clients with her exceptional art and distinct style. Her portfolio showcases not only her talent but also her adherence to cleanliness and utmost professionalism."
+}

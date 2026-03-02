@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "achille_de_maria",
+  "name": "Achille De Maria",
+  "location": {
+    "city": "Bergamo",
+    "country": "Italy"
+  },
+  "styles": [
+    "dotwork",
+    "traditional",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/achille_de_maria",
+    "instagram": "https://www.instagram.com/achille_de_maria/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achille_de_maria/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achille_de_maria/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achille_de_maria/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achille_de_maria/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Achille De Maria is a master tattoo artist residing in Bergamo, Italy, specializing in dotwork, traditional, and floral styles. He is the resident tattooer at the Ink Factory Tattooshop, where he is renowned for his meticulous skill and superior artistry. Whether you're drawn to intricate dotwork or bold, traditional ink, Achille's craftsmanship is sure to exceed expectations."
+}

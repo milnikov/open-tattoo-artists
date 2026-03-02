@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "adamnparrot",
+  "name": "Adam Parrot",
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States"
+  },
+  "styles": [
+    "neotraditional",
+    "japanese",
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamnparrot",
+    "instagram": "https://www.instagram.com/adamnparrot/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamnparrot/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamnparrot/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamnparrot/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamnparrot/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Parrot is a highly skilled tattoo artist with 17 years of experience, specializing in neotraditional, Japanese, traditional, and illustrative styles. Based at Rabble Rouser Tattoos in West Los Angeles, CA, Adam's extensive expertise ensures each design is crafted with precision and a mastery that only years of dedication can provide. His portfolio is a testament to his ability to bring intricate and vibrant tattoos to life."
+}

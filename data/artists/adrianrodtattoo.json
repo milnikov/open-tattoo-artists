@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianrodtattoo",
+  "name": "Adrian Rod",
+  "location": {
+    "city": "Caracas",
+    "country": "Venezuela"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianrodtattoo",
+    "instagram": "https://www.instagram.com/adrianrodtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianrodtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianrodtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianrodtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianrodtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Rod is a highly accomplished tattoo artist based in Caracas, Venezuela specializing in 'realism' and 'black&gray' styles. He demonstrates an exceptionally high level of skill, evident in the intricate detail and depth of his designs, making each piece a remarkable work of art. Currently a resident artist at @humanflytattoo, his tremendous talent has earned him over 50,000 followers on Instagram."
+}

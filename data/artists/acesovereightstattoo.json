@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "acesovereightstattoo",
+  "name": "Aces Over Eights Tattoo",
+  "location": {
+    "city": "Petaluma",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acesovereightstattoo",
+    "instagram": "https://www.instagram.com/acesovereightstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acesovereightstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acesovereightstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acesovereightstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acesovereightstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aces Over Eights Tattoo, nestled in the heart of Petaluma, has been a beacon of traditional tattoo artistry in Sonoma County since 2011. Our studio exudes a warm, vintage atmosphere where old-school design meets modern professionalism, ensuring each client leaves with a timeless masterpiece. Come join us at Aces Over Eights Tattoo, where tradition is inked with passion and precision.",
+  "tattooing_since": "2011"
+}

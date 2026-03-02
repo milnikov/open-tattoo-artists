@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adrianlamingtattoo",
+  "name": "Adrian Laming",
+  "location": {
+    "city": "Roselle",
+    "country": "United States"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianlamingtattoo",
+    "instagram": "https://www.instagram.com/adrianlamingtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianlamingtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianlamingtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianlamingtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianlamingtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Laming is a highly skilled tattoo artist based out of Roselle, United States, with a remarkable flair for floral, fine line, and lettering styles. Operating from the reputable studio, Soulkraft Ink, Adrian's work showcases an exceptional level of detail and artistry that sets them apart in the tattooing community. Clients appreciate the immaculate cleanliness maintained in every session, ensuring both safety and comfort."
+}

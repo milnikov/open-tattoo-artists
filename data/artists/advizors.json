@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "advizors",
+  "name": "Needle Advizors",
+  "location": {
+    "city": "Carouge",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/advizors",
+    "instagram": "https://www.instagram.com/advizors/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advizors/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advizors/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advizors/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advizors/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Needle Advizors, an illustrious custom tattoo studio nestled in the heart of Carouge, Switzerland, where art meets individuality. Our resident artists, Iskren Semkov and Jo Brini, along with our talented apprentices, Sonia Peray and MEV Tattoo, specialize in creating unique, illustrative designs that resonate with your personal narrative. Step into our haven of creativity, and let us embark on a journey to ink your story with precision and passion."
+}

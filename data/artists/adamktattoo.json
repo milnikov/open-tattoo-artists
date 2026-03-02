@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adamktattoo",
+  "name": "Adam K",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamktattoo",
+    "instagram": "https://www.instagram.com/adamktattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamktattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamktattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamktattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamktattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam K is a traditional tattoo artist operating out of Swansea, known for their exceptional professionalism. Clients can reach out to Adam via email or direct message to schedule a talented ink session at Broadside Swansea. With a strong reputation for delivering high-quality traditional tattoos, Adam ensures each client leaves with a piece of art they're proud to wear."
+}

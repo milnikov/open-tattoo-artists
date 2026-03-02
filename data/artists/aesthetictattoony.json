@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "aesthetictattoony",
+  "name": "Aesthetic Tattoo",
+  "location": {
+    "city": "Kerhonkson",
+    "country": "United States"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aesthetictattoony",
+    "instagram": "https://www.instagram.com/aesthetictattoony/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aesthetictattoony/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aesthetictattoony/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aesthetictattoony/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aesthetictattoony/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the artful embrace of Aesthetic Tattoo, a private studio nestled in the scenic tranquility of Kerhonkson, NY. With a team of artists known for their distinctive illustrative styles, including @aestheticallynotpleasing, @honeymoonink, and @brittany.ink, this studio promises a bespoke tattoo experience. For bookings, kindly reach out via email, as personal attention to your unique vision is our cherished hallmark."
+}

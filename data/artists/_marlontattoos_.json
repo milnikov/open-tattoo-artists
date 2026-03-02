@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "_marlontattoos_",
+  "name": "Marlon Medeiros",
+  "location": {
+    "city": "Vila Nova De Gaia",
+    "country": "Portugal"
+  },
+  "styles": [
+    "tribal",
+    "geometric",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_marlontattoos_",
+    "instagram": "https://www.instagram.com/_marlontattoos_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marlontattoos_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marlontattoos_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marlontattoos_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marlontattoos_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Marlon Medeiros, a master tattoo artist since 2007, specializes in tribal, geometric, and black & gray designs, making a significant mark in the ink world with a focus on blackwork, ornamental, and illustrative styles. Operating out of Vila Nova de Gaia, Portugal, Marlon is not only known for his impeccable and intricate artistry but also for maintaining an exceptional level of cleanliness in his studio, ensuring a safe and hygienic experience for all his clients.",
+  "tattooing_since": "2007"
+}

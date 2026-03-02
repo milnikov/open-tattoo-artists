@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrientender",
+  "name": "Adrien Tender",
+  "location": {
+    "city": "Calgary",
+    "country": "Canada"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrientender",
+    "instagram": "https://www.instagram.com/adrientender/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrientender/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrientender/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrientender/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrientender/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrien Tender is a traditional style tattoo artist based in Calgary, Canada. A professional in the field since 2015, he impressively masters the subtleties of the old school aesthetic, flawlessly translating them into an indelible body art form. Contact him through his email, adrien.tender@gmail.com, to experience his exemplary artistic craftsmanship.",
+  "tattooing_since": "2015"
+}

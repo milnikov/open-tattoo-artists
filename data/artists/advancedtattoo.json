@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "advancedtattoo",
+  "name": "Advanced Tattoo",
+  "location": {
+    "city": "Windsor",
+    "country": "Canada"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/advancedtattoo",
+    "instagram": "https://www.instagram.com/advancedtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancedtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancedtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancedtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancedtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Step into the creative oasis of Advanced Tattoo, nestled in the heart of Windsor, Canada, where artistry blooms across skin in floral, fineline, and illustrative designs. With our team of talented artists—@devinchedour, @theejameswood, @adubbinkwell—and expert piercers @piercings_advanced_tattoo and @jt_piercing, we curate personalized body art from Monday to Saturday, 12-6. Book an appointment at our studio and let your ink dreams unfurl."
+}

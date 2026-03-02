@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "acuinked",
+  "name": "Acuinked",
+  "location": {
+    "city": "Mcminnville",
+    "country": "United States"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acuinked",
+    "instagram": "https://www.instagram.com/acuinked/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acuinked/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acuinked/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acuinked/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acuinked/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Acuinked is a highly skilled tattoo artist based in McMinnville, United States, known for their unique approach to minimalist tattoos that incorporates their expertise in acupuncture. Merging two arts, Acuinked specializes in creating acupuncture point-specific tattoos, offering a distinctive experience at their professional studio. Their portfolio, which can be viewed on www.acuinked.com, reflects a deep understanding of both the aesthetic and therapeutic aspects of their craft, tailored to the wellness-conscious clientele in Portland, OR, and beyond."
+}

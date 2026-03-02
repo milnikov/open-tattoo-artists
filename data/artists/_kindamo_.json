@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_kindamo_",
+  "name": "Kindamo",
+  "location": {
+    "city": "Rorschach",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_kindamo_",
+    "instagram": "https://www.instagram.com/_kindamo_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kindamo_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kindamo_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kindamo_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kindamo_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Kindamo is a proficient tattoo artist renowned for his mastery in black & gray realism styles. Known for his remarkable precision and intricate detailing, his talent has earned him a significant following of nearly 190k on Instagram. He operates from his setup in Rorschach, Switzerland and also makes appearances at the Macko Tattoo Shop in Rome, Italy, cementing his international appeal in the world of tattoo artistry."
+}

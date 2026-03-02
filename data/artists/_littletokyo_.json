@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_littletokyo_",
+  "name": "Little Tokyo",
+  "location": {
+    "city": "Sydney",
+    "country": "Australia"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_littletokyo_",
+    "instagram": "https://www.instagram.com/_littletokyo_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_littletokyo_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_littletokyo_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_littletokyo_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_littletokyo_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Nestled in the heart of Sydney, Australia, Little Tokyo is a distinctive tattoo studio boasting a unique blend of black&gray, geometric, and traditional Japanese tattoo designs. With over 60,000 devoted followers on Instagram, this magnetizing studio not only offers striking body art but also provides laser tattoo removal, body piercing and an authentic Japanese Barber experience. Take the first step into crafting your personal story through ink by visiting Little Tokyo."
+}

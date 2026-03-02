@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamo.morky",
+  "name": "Adamo Morky",
+  "location": {
+    "city": "Vicenza",
+    "country": "Italy"
+  },
+  "styles": [
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamo.morky",
+    "instagram": "https://www.instagram.com/adamo.morky/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamo.morky/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamo.morky/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamo.morky/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamo.morky/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Speranza Tatuaggi, the artistic realm of Adamo Morky nestled in the heart of Vicenza, Italy. Here, the mastery of neotraditional and black & gray ink comes to life, capturing stories on skin with unrivaled precision and beauty. Immerse yourself in our creative oasis at Viale San Lazzaro 175, where inspiration meets tradition, and your tattoo journey begins. For information and bookings, dial 3494338821."
+}

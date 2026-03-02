@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adamantunanotattoo",
+  "name": "Adam Antuñano",
+  "location": {
+    "city": "Oklahoma City",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamantunanotattoo",
+    "instagram": "https://www.instagram.com/adamantunanotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamantunanotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamantunanotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamantunanotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamantunanotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Antuñano, based in Oklahoma City, United States, is a tattoo artist with a profound proficiency in black & gray, realism, and neotraditional styles. Renowned for maintaining an impeccable standard of cleanliness in his practice, Adam ensures a safe and hygienic experience for all his clients, adhering strictly to the highest industry standards. His commitment to a clean working environment makes him a trusted choice for anyone seeking a new tattoo."
+}

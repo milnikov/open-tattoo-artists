@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "aconfrariatattoo",
+  "name": "Alessandro Confraría",
+  "location": {
+    "city": "Serra",
+    "country": "Brazil"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aconfrariatattoo",
+    "instagram": "https://www.instagram.com/aconfrariatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aconfrariatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aconfrariatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aconfrariatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aconfrariatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alessandro Confraría is a highly talented tattoo artist based in Serra, Brazil, renowned for his exceptional work in black&gray, geometric, and dotwork styles. His eye for intricate designs and precise line work are unmatched, reflecting his high level of skill and expertise in the art of tattooing."
+}

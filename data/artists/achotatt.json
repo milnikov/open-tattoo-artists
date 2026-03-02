@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "achotatt",
+  "name": "Angel Mitov",
+  "location": {
+    "city": "Paisley",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/achotatt",
+    "instagram": "https://www.instagram.com/achotatt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achotatt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achotatt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achotatt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achotatt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Angel Mitov is a highly skilled tattoo artist based in Paisley, United Kingdom, specializing in realism and black & gray styles. With over a decade of experience in crafting intricate designs, Angel's precision and artistic flair have earned them a reputation for delivering stunningly detailed tattoos that truly mimic the finesse of fine art on skin. Their dedication to their craft is reflected in the breathtaking outcomes that resonate with the individuality of each client."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianartattoo",
+  "name": "Adrian Armon Fort",
+  "location": {
+    "city": "Edinburgh",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "illustrative",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianartattoo",
+    "instagram": "https://www.instagram.com/adrianartattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianartattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianartattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianartattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianartattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Armon Fort is a highly skilled tattoo artist based in Edinburgh, United Kingdom, specializing in illustrative and neotraditional styles. His exceptional level of skill is evident in the intricate designs he creates, earning him sponsorships such as from Pepax Official, and invitations to prestigious events like the Lausanne Convention."
+}

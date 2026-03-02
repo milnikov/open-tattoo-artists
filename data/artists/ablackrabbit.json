@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ablackrabbit",
+  "name": "Renata Vignati",
+  "location": {
+    "city": "Portland",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ablackrabbit",
+    "instagram": "https://www.instagram.com/ablackrabbit/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ablackrabbit/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ablackrabbit/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ablackrabbit/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ablackrabbit/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Renata Vignati is a highly skilled tattoo artist based in Portland, United States, who specializes in crafting traditional tattoos infused with a touch of magic. They maintain a high level of professionalism, preferring to schedule bookings through their website and not through direct messages. Their trademark style of traditional tattoos has become well-known throughout both Portland and the Seattle-Whidbey Island area."
+}

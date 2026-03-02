@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_luke_the_monkey_",
+  "name": "Luke Puzkar",
+  "location": {
+    "city": "Aachen",
+    "country": "Germany"
+  },
+  "styles": [
+    "floral",
+    "black&gray",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_luke_the_monkey_",
+    "instagram": "https://www.instagram.com/_luke_the_monkey_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luke_the_monkey_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luke_the_monkey_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luke_the_monkey_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luke_the_monkey_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Luke Puzkar is a masterful tattoo artist based in Aachen, Germany, best known for their exquisite floral, black & gray, and dotwork styles. Clients consistently praise Luke's professionalism throughout the tattooing process, ensuring each piece meets the highest standards of artistry and execution. If you're in Aachen and seeking a tattoo that requires meticulous attention to detail, reach out to Luke Puzkar for an experience that is as professional as it is transformative."
+}

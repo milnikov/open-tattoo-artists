@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "abusev112magnum",
+  "name": "Ruslan AbuSev",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abusev112magnum",
+    "instagram": "https://www.instagram.com/abusev112magnum/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abusev112magnum/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abusev112magnum/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abusev112magnum/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abusev112magnum/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Ruslan AbuSev is a highly skilled tattoo artist based in Berlin, Germany, renowned for his proficiency in the 'tribal' tattoo style. With contributions towards the #112MAG since 2018, Ruslan's artistry is characterized by intricate design, and a unique touch that leaves a lasting impression.",
+  "tattooing_since": "2018"
+}

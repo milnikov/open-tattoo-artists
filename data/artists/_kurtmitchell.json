@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_kurtmitchell",
+  "name": "Kurt Mitchell",
+  "location": {
+    "city": "Manchester",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_kurtmitchell",
+    "instagram": "https://www.instagram.com/_kurtmitchell/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kurtmitchell/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kurtmitchell/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kurtmitchell/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kurtmitchell/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Kurt Mitchell is a highly skilled tattoo artist based in Manchester, United Kingdom, specialising in minimalist, fineline, and lettering styles. He operates from a private studio in Ancoats, taking great pride in maintaining a clean, professional and welcoming environment for all his clients."
+}

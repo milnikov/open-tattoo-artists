@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "advancetattoo",
+  "name": "Advance Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/advancetattoo",
+    "instagram": "https://www.instagram.com/advancetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advancetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Advance Tattoo is a professional studio established in 2003, specializing in the sleek and elegant art of minimalist tattoos. Apart from creating exquisite designs, they offer a range of services including piercing, micropigmentation, laser tattoo removal, and even courses on tattoo artistry. Their unique approach encapsulates their essence, making Advance Tattoo a sanctuary for all things body art."
+}

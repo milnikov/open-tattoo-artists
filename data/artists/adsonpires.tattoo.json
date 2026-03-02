@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adsonpires.tattoo",
+  "name": "Adson Pires",
+  "location": {
+    "city": "Paranaguá",
+    "country": "Brazil"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adsonpires.tattoo",
+    "instagram": "https://www.instagram.com/adsonpires.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adsonpires.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adsonpires.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adsonpires.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adsonpires.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adson Pires is a highly skilled tattoo artist based in Paranaguá, Brazil, who specializes in intricate floral, fineline, and dotwork designs. His attention to detail translates into delicately crafted tattoos, which has earned him a strong reputation at the Paranaguá Business Center. The unique style and precision in Adson's artistry distinguishes him as a renowned artist in the tattoo industry."
+}

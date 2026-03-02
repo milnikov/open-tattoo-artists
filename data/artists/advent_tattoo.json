@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "advent_tattoo",
+  "name": "Advent Tattoo",
+  "location": {
+    "city": "Katy",
+    "country": "United States"
+  },
+  "styles": [
+    "newschool",
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/advent_tattoo",
+    "instagram": "https://www.instagram.com/advent_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advent_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advent_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advent_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/advent_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Advent Tattoo is a vibrant custom tattoo studio and art gallery located in the heart of Katy, Texas, specializing in newschool, realism, and black & gray ink artistry. Our welcoming space is a hub for creativity where walk-ins are always appreciated—just give us a call, no need for DMs, to start your tattoo journey with us."
+}

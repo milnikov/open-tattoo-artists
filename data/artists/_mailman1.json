@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "_mailman1",
+  "name": "Bryan Goetsch",
+  "location": {
+    "city": "Gaithersburg",
+    "country": "United States"
+  },
+  "styles": [
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_mailman1",
+    "instagram": "https://www.instagram.com/_mailman1/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mailman1/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mailman1/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mailman1/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mailman1/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Bryan Goetsch is a highly skilled tattoo artist specializing in custom lettering with a proficiency in small black and grey designs, based in Gaithersburg, Maryland. Known for their exceptional professionalism, Bryan ensures every client receives a tailored tattoo experience at No Sleep Studio. Clients can reach out directly through DMs to arrange appointments for a personalized ink session."
+}

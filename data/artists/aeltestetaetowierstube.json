@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "aeltestetaetowierstube",
+  "name": "Günter Götz",
+  "location": {
+    "city": "Hamburg",
+    "country": "Germany"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aeltestetaetowierstube",
+    "instagram": "https://www.instagram.com/aeltestetaetowierstube/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeltestetaetowierstube/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeltestetaetowierstube/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeltestetaetowierstube/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeltestetaetowierstube/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Günter Götz is a gifted tattoo artist hailing from Hamburg, Germany, renowned for their exceptional skill in the neotraditional style. At the oldest tattoo parlour in the country, they maintain an impeccable standard of cleanliness, ensuring a safe and hygienic environment for all their artwork. Clients appreciate Günter's attention to detail in both their stunning designs and the pristine condition of their workspace."
+}

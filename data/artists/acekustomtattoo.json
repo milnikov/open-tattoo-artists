@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "acekustomtattoo",
+  "name": "Dai Cann",
+  "location": {
+    "city": "Manchester",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "tribal",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acekustomtattoo",
+    "instagram": "https://www.instagram.com/acekustomtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acekustomtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acekustomtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acekustomtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acekustomtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the intricate lines and bold motifs at Ace Kustom Tattoo Studio, where Dai Cann's mastery of tribal and Japanese styles comes to life. Nestled in the heart of Northenden, Manchester, this studio is a haven for those seeking exceptional custom tattoo art in a welcoming and creatively inspiring environment."
+}

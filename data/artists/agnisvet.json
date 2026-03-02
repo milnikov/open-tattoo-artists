@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "agnisvet",
+  "name": "Evgeny Agnisvet",
+  "location": {
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  "styles": [
+    "geometric",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agnisvet",
+    "instagram": "https://www.instagram.com/agnisvet/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnisvet/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnisvet/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnisvet/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnisvet/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Evgeny Agnisvet, a talented tattoo artist based in Moscow, Russia, is a true virtuoso in geometric and tribal styles. His superior skill is visible in his intricate designs, numerous echoed through his self-description as an 'Ornamental Warrior'. He balances complexity and simplicity with a deft hand, creating stunning pieces of art with timeless appeal."
+}

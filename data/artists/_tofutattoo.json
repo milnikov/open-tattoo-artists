@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_tofutattoo",
+  "name": "Montaine Stuart",
+  "location": {
+    "city": "Perth",
+    "country": "Australia"
+  },
+  "styles": [
+    "minimalist",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_tofutattoo",
+    "instagram": "https://www.instagram.com/_tofutattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tofutattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tofutattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tofutattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tofutattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Montaine Stuart is an eminent tattoo artist based in Perth, Australia, specializing in minimalist and fineline styles. She is recognized for her superior skills in creating detailed, delicate designs with precision and intricacy, ensuring every tattoo is a unique work of art. Her adeptness in these signature styles has garnered her a stellar reputation in the tattoo community."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aenima.paris",
+  "name": "Aenima Paris",
+  "location": {
+    "city": "Paris",
+    "country": "France"
+  },
+  "styles": [
+    "illustrative",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aenima.paris",
+    "instagram": "https://www.instagram.com/aenima.paris/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenima.paris/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenima.paris/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenima.paris/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenima.paris/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aenima Paris is a highly skilled tattoo artist known for their expertise in illustrative and fineline styles. Residing in the historic Le Marais district of Paris, France, Aenima ensures that each piece of art is delivered with the utmost professionalism, whether it's a delicate fineline creation or a more complex illustrative design. Clients can expect a seamless experience that honors both the craft and the comfort of the wearer in Aenima's cruelty-free shop."
+}

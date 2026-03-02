@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrian_lazaro",
+  "name": "Adrian Lazaro",
+  "location": {
+    "city": "Pasadena",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrian_lazaro",
+    "instagram": "https://www.instagram.com/adrian_lazaro/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_lazaro/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_lazaro/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_lazaro/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_lazaro/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "\"Adrian Lazaro\" is a distinguished tattoo studio based in sunny Pasadena, California, specializing in black&gray and realism styles. Boasting an impressive following of over 75k on Instagram for their sublime artistry, they provide an immersive, professional, and memorable tattoo experience. Feel free to inquire at Adrianlazaroart@gmail.com or visit the celebrated @greytheorystudio in person."
+}

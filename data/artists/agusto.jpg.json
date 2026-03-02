@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "agusto.jpg",
+  "name": "Agusto Rodriguez",
+  "location": {
+    "city": "Elche",
+    "country": "Spain"
+  },
+  "styles": [
+    "sketch",
+    "fineline",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agusto.jpg",
+    "instagram": "https://www.instagram.com/agusto.jpg/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agusto.jpg/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agusto.jpg/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agusto Rodriguez is a highly skilled tattoo artist based in Elche, Spain, specializing in sketch, fineline, and anime styles. His precision, evident in his adept fineline work, is matched only by his ability to bring anime characters to life on the skin with striking detail. He illustrates his artistic versatility and prowess at Detinta y Hueso, and during guest appearances at places like Oasis Tattoo in Barcelona."
+}

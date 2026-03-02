@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamfox",
+  "name": "Adam Fox",
+  "location": {
+    "city": "Seattle",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamfox",
+    "instagram": "https://www.instagram.com/adamfox/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamfox/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamfox/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamfox/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamfox/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Fox is a highly-skilled tattoo artist known for his expertise in traditional and neotraditional styles. Based in Seattle, United States, he operates out of the reputable Slave to the Needle studio, where professionalism is as ingrained in the practice as the ink in the skin. Clients seeking to book a session with Adam can reach out via email for a seamless and professional appointment setup."
+}

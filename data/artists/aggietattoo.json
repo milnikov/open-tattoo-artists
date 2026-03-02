@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aggietattoo",
+  "name": "Aggie",
+  "location": {
+    "city": "Dublin",
+    "country": "Ireland"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aggietattoo",
+    "instagram": "https://www.instagram.com/aggietattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aggietattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aggietattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aggietattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aggietattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aggie is an exceptionally skilled tattoo artist specializing in black and gray realism, with a portfolio that showcases an impressive range of lifelike and intricate designs. Operating out of Inksomnia Tattoo Parlour in Leixlip, Co. Kildare, just a stone's throw from Dublin, Ireland, Aggie is highly regarded for maintaining an impeccable standard of cleanliness, ensuring that every client's experience is not only artistically superb but also in the most hygienic environment."
+}

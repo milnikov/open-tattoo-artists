@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adtattoos",
+  "name": "AD Tattoos",
+  "location": {
+    "city": "Livermore",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adtattoos",
+    "instagram": "https://www.instagram.com/adtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "AD Tattoos is a renowned black & gray tattoo artist operating from the heart of Livermore, United States. Amassing a significant following of around 90,000 on Instagram, the artist's superbly detailed craftsmanship not only reflects his skill level but also uncovers a unique blend of cultures he's interacted with, particularly Miami and the Bay Area. Always taking bookings for Miami, AD Tattoos ensures utmost professionalism in aligning client needs with superior artistry."
+}

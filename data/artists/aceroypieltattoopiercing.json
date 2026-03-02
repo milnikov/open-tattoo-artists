@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aceroypieltattoopiercing",
+  "name": "Acero y Piel",
+  "location": {
+    "city": "Castellón De La Plana",
+    "country": "Spain"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aceroypieltattoopiercing",
+    "instagram": "https://www.instagram.com/aceroypieltattoopiercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceroypieltattoopiercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceroypieltattoopiercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceroypieltattoopiercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceroypieltattoopiercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Discover the refined artistry at \"Acero y Piel,\" nestled in the heart of Castellón de la Plana, Spain. Since 1997, this tranquil tattoo haven excels in minimalist designs, offering an array of exquisite piercings, microdermals, and surface work, crafted with precision and passion. Step into their serene space and let their specialists transform your vision into delicate, timeless body art.",
+  "tattooing_since": "1997"
+}

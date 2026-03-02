@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_osirusjamestattoos",
+  "name": "Osirus James",
+  "location": {
+    "city": "Asheboro",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_osirusjamestattoos",
+    "instagram": "https://www.instagram.com/_osirusjamestattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_osirusjamestattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_osirusjamestattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_osirusjamestattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_osirusjamestattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Osirus James is an exceptional tattoo artist based in Asheboro, United States, specializing in black & gray and illustrative styles. Known for their utmost professionalism, Osirus ensures that every client's experience is comfortable and that their unique vision comes to life with precision and finesse. Their dedication to the art of tattooing is reflected in the stunning, detailed pieces they create."
+}

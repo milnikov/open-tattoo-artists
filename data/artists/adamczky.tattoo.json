@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adamczky.tattoo",
+  "name": "Sebastian Adam",
+  "location": {
+    "city": "Leipzig",
+    "country": "Germany"
+  },
+  "styles": [
+    "dotwork",
+    "fineline",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamczky.tattoo",
+    "instagram": "https://www.instagram.com/adamczky.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamczky.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamczky.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamczky.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamczky.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Sebastian Adam is a highly skilled tattoo artist based in Leipzig, Germany, specializing in dotwork, fineline, and black & gray styles. At Sinnträger Tattoos, Sebastian is known for their meticulous attention to detail and a strong commitment to bringing intricate designs to life with precision. Clients praise his professionalism in providing a top-tier tattooing experience, ensuring each piece is a masterpiece in its own right."
+}

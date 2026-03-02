@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_kbtattoo",
+  "name": "KB Tattoo",
+  "location": {
+    "city": "Otaki",
+    "country": "New Zealand"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_kbtattoo",
+    "instagram": "https://www.instagram.com/_kbtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kbtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kbtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kbtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kbtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "KB Tattoo, an apprentice tattoo artist based in Otaki, New Zealand at ATB Tattoo Studio, specializes in custom illustrative tattoos with a keen proficiency in black&gray and fineline styles. Clients seeking an artist who combines artistic skill with a high standard of cleanliness need look no further. KB's dedication to maintaining a sterile environment ensures that every client can have peace of mind about their tattoo experience."
+}

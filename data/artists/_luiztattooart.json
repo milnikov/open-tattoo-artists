@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_luiztattooart",
+  "name": "Luiz",
+  "location": {
+    "city": "Itapevi",
+    "country": "Brazil"
+  },
+  "styles": [
+    "neotraditional",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_luiztattooart",
+    "instagram": "https://www.instagram.com/_luiztattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luiztattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luiztattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luiztattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luiztattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Luiz is a highly skilled tattoo artist specializing in neotraditional and floral designs, with a fine command over black and grey scales and blackwork. Clients appreciate the professionalism Luiz brings to the table, ensuring every session is carried out with utmost care and attention to detail. Located in Itapevi, Brazil, Luiz operates on an appointment-only basis, allowing for a dedicated and personalized experience for each tattoo he crafts."
+}

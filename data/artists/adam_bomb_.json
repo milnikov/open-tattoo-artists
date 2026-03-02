@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adam_bomb_",
+  "name": "Adam Harper",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adam_bomb_",
+    "instagram": "https://www.instagram.com/adam_bomb_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_bomb_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_bomb_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_bomb_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_bomb_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Harper is a highly skilled tattoo artist specializing in traditional styles, showcasing fine craftsmanship and a keen eye for detail. As the owner of @morning_league and also working at @downtownclassictattoo in Paducah, Ky, he maintains the utmost professionalism in scheduling and handling appointments, ensuring efficiency and client satisfaction."
+}

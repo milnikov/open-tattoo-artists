@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "agnytattoo",
+  "name": "Agny",
+  "location": {
+    "city": "Providencia",
+    "country": "Chile"
+  },
+  "styles": [
+    "illustrative",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agnytattoo",
+    "instagram": "https://www.instagram.com/agnytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agny, a talented tattoo artist from Providencia, Chile, specializes in illustrative and anime styles, demonstrating strong artistic prowess. Always striving for perfection and demonstrating high-level cleanliness, Agny provides a professional tattooing experience in a friendly and welcoming environment."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "againstthegraintattoo",
+  "name": "Lisa Murphy",
+  "location": {
+    "city": "Melbourne",
+    "country": "United States"
+  },
+  "styles": [
+    "newschool",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/againstthegraintattoo",
+    "instagram": "https://www.instagram.com/againstthegraintattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/againstthegraintattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/againstthegraintattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/againstthegraintattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/againstthegraintattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Lisa Murphy is a highly skilled tattoo artist based in Melbourne, United States, specializing in vibrant newschool designs and detailed black & gray work. Operating out of a custom tattoo studio since 2002, Lisa has built a reputation for her professionalism, ensuring that every client's experience is not only artistically fulfilling but also up to the highest standards of service in the industry. Her portfolio, which can be viewed at @lisamurphytattoos, showcases her exceptional talent and dedication to the craft of tattooing.",
+  "tattooing_since": "2002"
+}

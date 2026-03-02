@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "agelostfb",
+  "name": "Agelos TFB",
+  "location": {
+    "city": "Athens",
+    "country": "Greece"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agelostfb",
+    "instagram": "https://www.instagram.com/agelostfb/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agelostfb/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agelostfb/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agelostfb/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agelostfb/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agelos TFB is a highly skilled tattoo artist based in Athens, Greece, who specializes in the intricate styles of tribal and geometric tattoos. At his Age Of Love Tattoo studio, Agelos displays not just his skill but also great professionalism in maintaining a clean and safe environment for his clients."
+}

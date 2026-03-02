@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adriennemichelle_art",
+  "name": "Adrienne Michelle",
+  "location": {
+    "city": "Ventura",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adriennemichelle_art",
+    "instagram": "https://www.instagram.com/adriennemichelle_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriennemichelle_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriennemichelle_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriennemichelle_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriennemichelle_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrienne Michelle is a remarkably skilled tattoo artist based in Ventura, United States, excelling in the black & gray and neotraditional styles. She maintains a high level of professionalism in her work, using an organized system where appointments can be easily applied for via a Google Form link. Keep in mind her process requires a bit of patience but it is absolutely worth the wait for the artist's excellent craft."
+}

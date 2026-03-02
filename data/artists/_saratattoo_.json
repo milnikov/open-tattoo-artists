@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_saratattoo_",
+  "name": "Sara Sensi",
+  "location": {
+    "city": "Torgiano",
+    "country": "Italy"
+  },
+  "styles": [
+    "fineline",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_saratattoo_",
+    "instagram": "https://www.instagram.com/_saratattoo_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_saratattoo_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_saratattoo_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_saratattoo_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_saratattoo_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Sara Sensi is a highly skilled tattoo artist specializing in fineline and geometric designs, crafting intricate tattoos with a high degree of precision and artistry. Based in Torgiano, Italy, her work not only showcases her ability to create beautiful, detailed tattoos but also her talent in the decorative arts as a ceramica (ceramic) decorator. Clients appreciate her meticulous attention to detail and the personalized touch she brings to every tattoo, making her a sought-after artist in the region."
+}

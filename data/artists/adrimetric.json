@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrimetric",
+  "name": "Adri Metric",
+  "location": {
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrimetric",
+    "instagram": "https://www.instagram.com/adrimetric/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrimetric/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrimetric/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrimetric/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrimetric/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adri Metric, based in Barcelona, Spain, is a highly skilled and professional tattoo artist specializing in intricate tribal and geometric styles. Having a residency stint at @akaberlin every week showcases not only his dedication but also his mastery of his craft that is worth noting. You can contact him through his email at Adrimetric@gmail.com for any inquiries or booking appointments."
+}

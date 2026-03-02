@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_mabtattoos",
+  "name": "Melissa B",
+  "location": {
+    "city": "Asheboro",
+    "country": "United States"
+  },
+  "styles": [
+    "floral",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_mabtattoos",
+    "instagram": "https://www.instagram.com/_mabtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mabtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mabtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mabtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mabtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Melissa B, a talented lady tattoo artist based in Asheboro, United States, specializes in floral and illustrative styles of tattooing. As the proud owner of Blackheart Tattoo, her clients can view her astounding work on the profile '_coreyryantattoos'. Her impressive skill level is evident in her strikingly lifelike and intricate designs."
+}

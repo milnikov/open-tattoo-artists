@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ad_infinitum_tattoo",
+  "name": "Ad Infinitum",
+  "location": {
+    "city": "Bochum",
+    "country": "Germany"
+  },
+  "styles": [
+    "geometric",
+    "dotwork",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ad_infinitum_tattoo",
+    "instagram": "https://www.instagram.com/ad_infinitum_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_infinitum_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_infinitum_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_infinitum_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_infinitum_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Ad Infinitum is a versatile and innovative tattoo studio nestled in Bochum, Germany that specializes in geometric, dotwork, and sketching styles. Renowned for their welcoming atmosphere and talented resident artists, including @rawtip, @taski_tattoo, and @tatari_ink, they are known for their intricate design work and dedication towards every tattoo, going above and beyond to make each one unique. They also encourage visiting artists with their inclusive \"Guestspots Welcome\" policy."
+}

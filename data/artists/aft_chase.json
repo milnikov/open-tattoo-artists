@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aft_chase",
+  "name": "Chase Lostutter",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aft_chase",
+    "instagram": "https://www.instagram.com/aft_chase/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aft_chase/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aft_chase/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aft_chase/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aft_chase/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Chase Lostutter is a highly skilled tattoo artist who has been perfecting the craft of traditional tattoos at After Forever Tattoos in Winchester, KY, since 2013. Patrons of his art consistently commend his meticulous attention to detail and the exceptional quality of his work. Chase's dedication to his role as both an artist and a father is not only a testament to his professionalism, but it also enriches the experience of those who seek his expertise in traditional tattooing.",
+  "tattooing_since": "2013"
+}

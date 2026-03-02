@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_venusestudio",
+  "name": "Vênus Tattoo",
+  "location": {
+    "city": "Campina Grande",
+    "country": "Brazil"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_venusestudio",
+    "instagram": "https://www.instagram.com/_venusestudio/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_venusestudio/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_venusestudio/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_venusestudio/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_venusestudio/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Vênus Tattoo, a sanctuary of artistic expression nestled in Campina Grande, Brazil. Specializing in minimalist, fine line, and floral tattoos, our all-female team of tattoo artists, including @assueriart, @artemysiarte, and @nyck.art, foster a space of empowerment and creativity. By appointment only, we invite you to experience a unique and intimate tattooing journey with us."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamdeanart",
+  "name": "Adam Dean",
+  "location": {
+    "city": "New York",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamdeanart",
+    "instagram": "https://www.instagram.com/adamdeanart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdeanart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdeanart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdeanart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdeanart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Dean is a highly talented tattoo artist based in New York, United States, with an immense following of around 53000 individuals on Instagram appreciating his skill. He specializes in the styles of 'black&gray' and 'realism,' mastering the art with finesse. His concept of work is very professional: he encourages customers to use a booking form for appointments rather than direct messages. His attention to procedural details denotes a high level of professionalism."
+}

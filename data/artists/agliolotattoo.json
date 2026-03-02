@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "agliolotattoo",
+  "name": "Agliolo",
+  "location": {
+    "city": "Wetzikon",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agliolotattoo",
+    "instagram": "https://www.instagram.com/agliolotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agliolotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agliolotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agliolotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agliolotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agliolo is a masterful tattoo artist based in Wetzikon, Switzerland, specializing in the intricate and meticulous art forms of black & gray and dotwork tattoos. Their attention to detail and precision in every design ensures that each client leaves with a stunning piece of art. Coupled with top-notch cleanliness standards in their studio, Agliolo not only delivers exceptional tattoos but also maintains a sterile and safe environment for all clients."
+}

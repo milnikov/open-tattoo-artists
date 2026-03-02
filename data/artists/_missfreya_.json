@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_missfreya_",
+  "name": "Freya",
+  "location": {
+    "city": "Frankfurt",
+    "country": "Germany"
+  },
+  "styles": [
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_missfreya_",
+    "instagram": "https://www.instagram.com/_missfreya_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfreya_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfreya_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfreya_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfreya_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Freya, a highly skilled tattoo artist, specializes in the styles of neotraditional and newschool artistry. Located in Studio 23, Frankfurt, Germany, this veteran artist has enriched her talent through numerous travels, marvelously reflecting in her unique and captivating works. Her professionalism is unmatched; ensuring to provide each client with a sterile, clean environment while creating striking tattoos."
+}

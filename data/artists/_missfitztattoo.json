@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_missfitztattoo",
+  "name": "Claire Fitzpatrick",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_missfitztattoo",
+    "instagram": "https://www.instagram.com/_missfitztattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfitztattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfitztattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfitztattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_missfitztattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Claire Fitzpatrick is a remarkably skilled tattoo artist specializing in black & gray, newschool, and realism styles at Minds Eye in Nuneaton, UK. Her remarkable attention to detail and ability to bring clients' visions to life make her stand out in the field. Each design she creates beautifully showcases her mastery and passion for tattooing."
+}

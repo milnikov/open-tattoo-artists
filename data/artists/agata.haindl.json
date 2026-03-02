@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "agata.haindl",
+  "name": "Agata Haindl",
+  "location": {
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agata.haindl",
+    "instagram": "https://www.instagram.com/agata.haindl/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agata.haindl/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agata.haindl/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agata.haindl/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agata.haindl/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agata Haindl is a highly accomplished tattoo artist specializing in black and gray styles, based in Zurich, Switzerland. With a focus on professionalism, Agata ensures that each session at the studio on Weinbergstrasse is not only about creating art but also about providing a top-notch, respectful service that adheres to the highest standards. Clients are invited to arrange appointments to experience Agata's expertise in a welcoming and professional environment."
+}

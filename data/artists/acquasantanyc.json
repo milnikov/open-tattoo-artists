@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "acquasantanyc",
+  "name": "Acqua Santa",
+  "location": {
+    "city": "New York",
+    "country": "United States"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acquasantanyc",
+    "instagram": "https://www.instagram.com/acquasantanyc/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acquasantanyc/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acquasantanyc/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acquasantanyc/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acquasantanyc/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Acqua Santa is a specialized Japanese-style tattoo studio tucked away in New York's vibrant West Village. Renowned as 'The Tattoo Studio for Collectors', it offers an immersive, unforgettable inking experience that draws tattoo enthusiasts from all over. Make your mark with Acqua Santa and book your next session today!"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "acee.tattoos",
+  "name": "Acee",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "fineline",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acee.tattoos",
+    "instagram": "https://www.instagram.com/acee.tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acee.tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acee.tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acee.tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acee.tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Acee is a remarkably skilled tattoo artist specializing in the unique and visually stunning styles of watercolor, fineline, and illustrative tattoos. Their adept hand brings custom designs to life in vibrant color and delicate detail that effortlessly captures the essence of their clients' visions. Operating from a private studio in Auckland, New Zealand, Acee maintains a reputation for delivering artwork that not only meets but exceeds expectations with each and every stroke of the needle."
+}

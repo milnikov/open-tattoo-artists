@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "afflictedink_tattoo",
+  "name": "Afflicted Ink Tattoo",
+  "location": {
+    "city": "Lyndhurst",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/afflictedink_tattoo",
+    "instagram": "https://www.instagram.com/afflictedink_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afflictedink_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afflictedink_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afflictedink_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afflictedink_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Embark on a journey of artistic transformation at Afflicted Ink Tattoo, where creativity meets skin in the most mesmerizing ways. Nestled in the heart of Lyndhurst, NJ, our tattoo haven specializes in striking black & gray, vivid realism, and dynamic newschool designs. Connect with us at 35 Ridge Rd or call (201)939-2213 and join the ranks of the adorned at the hands of our master artists: @tommyftattoos, @alexnetotattoo, and @catfishtattoo."
+}

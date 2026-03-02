@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adamdaveytattoos",
+  "name": "Adam Davey",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamdaveytattoos",
+    "instagram": "https://www.instagram.com/adamdaveytattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdaveytattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdaveytattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdaveytattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamdaveytattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Davey is an adept tattoo artist specializing in black & gray designs, revered for delivering stunning and intricate tattoos. His approach to tattoo artistry is deeply rooted in a professionalism that ensures each client's experience is met with the utmost attention to detail and care. Adam's excellence in his craft is not just evident in the tattoos he creates but also in the way he upholds the highest standards of cleanliness in his workspace, guaranteeing a safe and pristine environment for every session."
+}

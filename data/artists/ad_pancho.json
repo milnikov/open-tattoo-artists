@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ad_pancho",
+  "name": "Alex Pancho",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ad_pancho",
+    "instagram": "https://www.instagram.com/ad_pancho/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_pancho/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_pancho/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_pancho/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_pancho/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alex Pancho, a remarkably skilled tattoo artist based in the Netherlands, is particularly adept at the newschool, realism, and trashpolka styles. His unique artistic techniques have garnered an impressive following of around 365,000 followers on Instagram. His professional demeanor is exemplified further by his ownership of the esteemed @adpancho_tattoostudio."
+}

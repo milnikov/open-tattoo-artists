@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "aeroinktattoo",
+  "name": "Aero Ink Tattoo",
+  "location": {
+    "city": "Sao Paulo",
+    "country": "Brazil"
+  },
+  "styles": [
+    "black&gray",
+    "fineline",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aeroinktattoo",
+    "instagram": "https://www.instagram.com/aeroinktattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeroinktattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeroinktattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeroinktattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aeroinktattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aero Ink Tattoo, nestled in the vibrant heart of Sao Paulo, Brazil, is known for its specialized artistry in crafting black & gray, fineline, and geometric tattoos. Its modern, clean environment coupled with professional and detailed approach ensures every client leaves with a unique piece they will cherish. Contact them for top-quality tattoos and piercings."
+}

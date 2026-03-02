@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "absteige",
+  "name": "Absteige",
+  "location": {
+    "city": "Oldenburg (oldb.)",
+    "country": "Germany"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/absteige",
+    "instagram": "https://www.instagram.com/absteige/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absteige/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absteige/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absteige/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absteige/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Absteige, Oldenburg's premiere destination for exceptional black & gray, realism, and tribal tattoo artistry. Nestled in the heart of Oldb., this avant-garde studio melds the raw energy of graffiti culture with the precision of tattoo craftsmanship. Drop by Tuesday to Friday from 11:00 to 18:30 or schedule your appointment online to experience a truly unique ink journey in Germany."
+}

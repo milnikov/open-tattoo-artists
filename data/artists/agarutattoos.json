@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "agarutattoos",
+  "name": "Agaru Tattoo & Body Piercing",
+  "location": {
+    "city": "Wilmington",
+    "country": "United States"
+  },
+  "styles": [
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agarutattoos",
+    "instagram": "https://www.instagram.com/agarutattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agarutattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agarutattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agarutattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agarutattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Nestled in the heart of Wilmington, Agaru Tattoo & Body Piercing is an avant-garde studio specializing in the bold and vibrant trashpolka style. With locations at 13B Trolley Square and 413 S. Maryland Avenue, the elite team – including talents like @tjdelanytattoo, @lindsaymarieapril, @vihkay, and @cloudiatattoo – is dedicated to crafting striking and unique body art in a creatively inspiring environment. Whether it's ink or piercings, Agaru is your destination for an edgy and personalized expression."
+}

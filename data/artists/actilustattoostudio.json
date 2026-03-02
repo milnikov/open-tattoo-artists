@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "actilustattoostudio",
+  "name": "Henrique Carmo",
+  "location": {
+    "city": "Figueira Da Foz",
+    "country": "Portugal"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/actilustattoostudio",
+    "instagram": "https://www.instagram.com/actilustattoostudio/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/actilustattoostudio/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/actilustattoostudio/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/actilustattoostudio/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/actilustattoostudio/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the artistry of Henrique Carmo's Tattoo Studio, nestled in the heart of Figueira da Foz, Portugal. Here, the canvas of skin is masterfully transformed with striking realism and intricate black & gray designs, a testament to Henrique's acclaim of 56 prestigious awards. Book your session by calling ☎️ 910 750 360 or via email 📩 actilus@actilus.pt, and join the ranks of those adorned by a true connoisseur of tattoo excellence."
+}

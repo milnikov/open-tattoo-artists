@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_riiddle_",
+  "name": "Barbara Riddle",
+  "location": {
+    "city": "Paços De Ferreira",
+    "country": "Portugal"
+  },
+  "styles": [
+    "sketch",
+    "traditional",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_riiddle_",
+    "instagram": "https://www.instagram.com/_riiddle_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_riiddle_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_riiddle_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_riiddle_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_riiddle_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Barbara Riddle, a highly skilled tattoo artist, specializes in 'sketch, traditional, and geometric' styles. She is currently based in Paços de Ferreira, Portugal at Lucid Studio but frequently travels to Berlin and London to showcase her exceptional abilities."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adrian_kalyn",
+  "name": "Adrian Kalyn",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrian_kalyn",
+    "instagram": "https://www.instagram.com/adrian_kalyn/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_kalyn/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_kalyn/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_kalyn/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_kalyn/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Kalyn is a highly skilled tattoo artist based in Edmonton, Alberta, specializing in the intricate and timeless black & gray tattoo style. Clients can always expect a professional atmosphere at Organic Mechanics Tattoo, which matches Adrian's expertise in delivering detailed and beautifully crafted tattoos. For bookings, Adrian can be reached at adrian_kalyn@hotmail.com."
+}

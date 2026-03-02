@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "abodytattoo",
+  "name": "abody",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abodytattoo",
+    "instagram": "https://www.instagram.com/abodytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abodytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abodytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abodytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abodytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Immerse yourself in the artful elegance of Abody Tattoo Studio, nestled in the vibrant heart of Leicester City Center on Loseby Lane. Established in 2003, Abody specializes in exquisite floral designs and masterful lettering, crafting personalized skin art in a welcoming and creative environment. Book your session by emailing abody@abody.co.uk or call 01162621500 to transform your vision into a timeless tattoo."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "_morain_",
+  "name": "Denis",
+  "location": {
+    "city": "Moscow",
+    "country": "Russia"
+  },
+  "styles": [
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_morain_",
+    "instagram": "https://www.instagram.com/_morain_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_morain_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_morain_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_morain_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_morain_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Denis, hailing from the heart of Moscow, Russia, has established himself as a highly skilled tattoo artist specializing in engraving and sketch-style tattoos. His commitment to professionalism is evident in both the intricate designs he tattoos and the meticulous care he takes to ensure a clean and safe environment for every client. Whether you're looking for a bespoke piece or a unique engraving tattoo, Denis's artistic expertise will provide you with a truly exceptional inking experience."
+}

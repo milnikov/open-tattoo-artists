@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "_nic.montgomery",
+  "name": "Nicholas Montgomery",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_nic.montgomery",
+    "instagram": "https://www.instagram.com/_nic.montgomery/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_nic.montgomery/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_nic.montgomery/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_nic.montgomery/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_nic.montgomery/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Experience the mastery of Nicholas Montgomery at Blackwood Tattoo, where the shades of black and gray are transformed into timeless art. Nestled at 171 East 7th Street, Suite #4, in the heart of Durango, Colorado, the studio offers a serene and inviting atmosphere for those seeking to adorn their bodies with exquisite ink. To craft your bespoke tattoo, reach out at blackwoodtattoos@gmail.com."
+}

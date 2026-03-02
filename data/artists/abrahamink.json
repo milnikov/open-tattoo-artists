@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abrahamink",
+  "name": "Abraham",
+  "location": {
+    "city": "Los Angeles",
+    "country": "United States"
+  },
+  "styles": [
+    "realism",
+    "tribal",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abrahamink",
+    "instagram": "https://www.instagram.com/abrahamink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Known for his impeccable attention to detail, Abraham is a highly skilled tattoo artist specializing in realism, tribal, and black & gray styles. Operating out of Jackies Tattoos and Hair Designs in Los Angeles, Abraham's professionalism is reflected in both the stunning quality of his work and the clean, hygienic environment he maintains. To book an appointment with this master of the ink, direct message or call to experience his talent firsthand."
+}

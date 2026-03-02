@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianosouzatattoo",
+  "name": "Adriano Souza",
+  "location": {
+    "city": "Santa Luzia",
+    "country": "Brazil"
+  },
+  "styles": [
+    "fineline",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianosouzatattoo",
+    "instagram": "https://www.instagram.com/adrianosouzatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianosouzatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianosouzatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianosouzatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianosouzatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adriano Souza is a highly skilled tattoo artist based in Santa Luzia, Brazil, specializing in delicate fineline and intricate floral designs. Clients appreciate Adriano's exceptional attention to detail as he creates elegant, bespoke tattoos that truly stand out. His professionalism ensures a comfortable and satisfying experience from consultation through to the final masterpiece on the skin."
+}

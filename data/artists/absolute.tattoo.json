@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "absolute.tattoo",
+  "name": "Cristovio",
+  "location": {
+    "city": "Sao Paulo",
+    "country": "Brazil"
+  },
+  "styles": [
+    "lettering",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/absolute.tattoo",
+    "instagram": "https://www.instagram.com/absolute.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absolute.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absolute.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absolute.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absolute.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Cristovio is a masterful tattoo artist based in São Paulo, Brazil, specializing in lettering and illustrative styles that truly embody the art of bringing life to skin. His commitment to maintaining a hygienic environment ensures that all clients enjoy their experience at Absolute Tattoo with the utmost confidence in cleanliness. Visitors to his studio on Rua Manoel Dutra in Bela Vista can expect to leave with a stunning piece of art and the peace of mind that comes with professional standards of cleanliness."
+}

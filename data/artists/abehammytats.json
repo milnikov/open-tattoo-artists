@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abehammytats",
+  "name": "Abe Avila",
+  "location": {
+    "city": "Camarillo",
+    "country": "United States"
+  },
+  "styles": [
+    "dotwork",
+    "watercolor",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abehammytats",
+    "instagram": "https://www.instagram.com/abehammytats/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abehammytats/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abehammytats/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abehammytats/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abehammytats/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Abe Avila is a highly skilled tattoo artist based in Camarillo, United States, who specializes in creating stunning pieces in dotwork, watercolor, and black & gray styles. Operating out of a private studio in Moorpark, Abe maintains a pristine and hygienic environment, ensuring that cleanliness is a top priority for both the safety and comfort of his clients. With a strong professional ethic, every session at Abe's studio requires a deposit, showcasing his commitment to serious and dedicated artistry."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_marode_",
+  "name": "Marode Ink",
+  "location": {
+    "city": "Würzburg",
+    "country": "Germany"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_marode_",
+    "instagram": "https://www.instagram.com/_marode_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marode_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marode_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marode_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_marode_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Marode Ink, a highly skilled tattoo artist based in Würzburg, Germany, specializes in the intriguing Japanese tattoo style. Having refined his tattooing craft since 1999, Marode brings over two decades of precision and artistry to every design, ensuring every piece is a masterclass in the Japanense tattooing tradition.",
+  "tattooing_since": "1999"
+}

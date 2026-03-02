@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrvianna",
+  "name": "Adriano Vianna",
+  "location": {
+    "city": "Rio De Janeiro",
+    "country": "Brazil"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrvianna",
+    "instagram": "https://www.instagram.com/adrvianna/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrvianna/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrvianna/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrvianna/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrvianna/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adriano Vianna is a highly skilled tattoo artist based in Rio de Janeiro, Brazil, specializing in black&gray and realism styles. Known for his exceptional attention to detail and mastery of his craft, he operates from the esteemed Verani Tattoo studios in Porto Alegre RS and São José SC."
+}

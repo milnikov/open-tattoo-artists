@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "affiliatedtattoofamily",
+  "name": "Benny",
+  "location": {
+    "city": "Carmel",
+    "country": "United States"
+  },
+  "styles": [
+    "illustrative",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/affiliatedtattoofamily",
+    "instagram": "https://www.instagram.com/affiliatedtattoofamily/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affiliatedtattoofamily/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affiliatedtattoofamily/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affiliatedtattoofamily/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affiliatedtattoofamily/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Renowned for their proficiency in illustrative and lettering styles, Benny stands out as a highly skilled tattoo artist operating from Carmel, United States. Their fine art background is evident in the detailed and creative tattoos they produce, ensuring each piece is a masterpiece of ink. Clients appreciate Benny's professionalism, which is reflected in both the exceptional quality of their work and the attention to detail in maintaining a spotless studio environment."
+}

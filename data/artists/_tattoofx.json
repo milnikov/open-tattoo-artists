@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_tattoofx",
+  "name": "Tattoo FX",
+  "location": {
+    "city": "Haywards Heath",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_tattoofx",
+    "instagram": "https://www.instagram.com/_tattoofx/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tattoofx/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tattoofx/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tattoofx/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tattoofx/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Tattoo FX, based in Haywards Heath, United Kingdom, is a renowned tattoo studio that has been crafting impeccable tribal and geometric styled tattoos since 1998. They foster a creative and relaxed environment for patrons to receive their unique body art.",
+  "tattooing_since": "1998"
+}

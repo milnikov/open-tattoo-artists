@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamgoldsteintattoos",
+  "name": "Adam Goldstein",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamgoldsteintattoos",
+    "instagram": "https://www.instagram.com/adamgoldsteintattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamgoldsteintattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamgoldsteintattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamgoldsteintattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamgoldsteintattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Goldstein is a highly proficient tattoo artist, specializing in black and gray realism that captures the eye with its lifelike precision. His dedication to his craft is echoed by his love for his career and the strong rapport he maintains with clients. Operating out of a family-run shop in Arkansas, Adam ensures that each tattoo session is an embodiment of professionalism, providing a comfortable and trustworthy atmosphere for anyone looking to adorn their skin with art."
+}

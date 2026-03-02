@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "absoluteinkuk",
+  "name": "Absolute Ink Tattoo Studio",
+  "location": {
+    "city": "Coventry",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/absoluteinkuk",
+    "instagram": "https://www.instagram.com/absoluteinkuk/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absoluteinkuk/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absoluteinkuk/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absoluteinkuk/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absoluteinkuk/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Step into Absolute Ink Tattoo Studio, a premier destination for exquisite black & gray and realism tattoos since 2006. Located in the heart of Coventry, United Kingdom, our artists' expertise transforms your ink dreams into reality in a welcoming, creativity-fueled environment. Experience unrivaled craftsmanship where every design tells a story and attention to detail is absolute.",
+  "tattooing_since": "2006"
+}

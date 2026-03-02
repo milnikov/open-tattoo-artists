@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "affanita",
+  "name": "Affanita",
+  "location": {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "sketch",
+    "fineline",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/affanita",
+    "instagram": "https://www.instagram.com/affanita/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affanita/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affanita/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affanita/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/affanita/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Affanita is a highly-skilled tattoo artist based in London, United Kingdom, specializing in sketch, fineline, and anime styles. Drawing inspiration from blackwork and Japanese artwork, she infuses impeccable detail and precision in every piece she creates. Affanita's artistry shines through not only in her tattoo work but also in her offerings found on Etsy."
+}

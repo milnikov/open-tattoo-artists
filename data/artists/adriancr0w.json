@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adriancr0w",
+  "name": "Adrian Baigorria",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "fineline",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adriancr0w",
+    "instagram": "https://www.instagram.com/adriancr0w/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriancr0w/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriancr0w/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriancr0w/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriancr0w/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Baigorria is a masterful tattoo artist, specializing in black and gray, fine line, and geometric styles. Their work demonstrates a high level of precision and skill, captivating the eyes of all who appreciate the intricacies of tattoo artistry. Clients consistently praise Adrian's professionalism, noting that every session and interaction is marked by a respectful and dedicated approach to their craft."
+}

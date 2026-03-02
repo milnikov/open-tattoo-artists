@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adam_forero",
+  "name": "Adam Forero",
+  "location": {
+    "city": "Fort Lauderdale",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adam_forero",
+    "instagram": "https://www.instagram.com/adam_forero/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_forero/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_forero/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_forero/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_forero/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the vivid world of ink at Adam Forero's 4 Arrows Art tattoo studio, where traditional and neotraditional designs come to life with each meticulous stroke. Nestled in the heart of Fort Lauderdale at 721 NE 3rd Ave, this by-appointment haven is a sanctuary for those seeking personalized artistry on their skin, crafted with precision and passion."
+}

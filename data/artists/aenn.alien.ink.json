@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aenn.alien.ink",
+  "name": "Aenn VonCore",
+  "location": {
+    "city": "Au",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aenn.alien.ink",
+    "instagram": "https://www.instagram.com/aenn.alien.ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenn.alien.ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenn.alien.ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenn.alien.ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aenn.alien.ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aenn VonCore is a highly skilled tattoo artist based in AU, Switzerland, renowned for their expertise in creating stunning watercolor and illustrative tattoos. Their unique approach combines avant-garde elements with abstract and colorful designs, ensuring each piece of skin art they produce is a one-of-a-kind masterpiece. Aenn's professionalism is evident in every aspect of their work, from the initial design to the finished tattoo, ensuring clients leave with both a beautiful piece of art and a positive experience."
+}

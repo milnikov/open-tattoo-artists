@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adambombgallerie",
+  "name": "Adam Werther",
+  "location": {
+    "city": "Milwaukee",
+    "country": "United States"
+  },
+  "styles": [
+    "newschool",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adambombgallerie",
+    "instagram": "https://www.instagram.com/adambombgallerie/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adambombgallerie/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adambombgallerie/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adambombgallerie/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adambombgallerie/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Werther is a highly skilled tattoo artist based in Milwaukee, United States, who specializes in vibrant newschool and intricate floral designs. His professionalism is evident through his comprehensive booking process, ensuring that each client's experience is personalized and regret-free by encouraging clear communication and understanding. With Adam, you're not only getting a unique piece of art but a thoughtful and meticulous service tailored to meet your expectations."
+}

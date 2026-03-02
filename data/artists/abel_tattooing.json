@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abel_tattooing",
+  "name": "Cooper Abel Marsh",
+  "location": {
+    "city": "Greenwood",
+    "country": "United States"
+  },
+  "styles": [
+    "dotwork",
+    "sketch",
+    "fineline",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abel_tattooing",
+    "instagram": "https://www.instagram.com/abel_tattooing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abel_tattooing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abel_tattooing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abel_tattooing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abel_tattooing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01"
+}

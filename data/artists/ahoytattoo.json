@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ahoytattoo",
+  "name": "Ahoy Tattoo Estúdio",
+  "location": {
+    "city": "Santa Maria",
+    "country": "Brazil"
+  },
+  "styles": [
+    "dotwork",
+    "floral",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ahoytattoo",
+    "instagram": "https://www.instagram.com/ahoytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahoytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahoytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahoytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahoytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Venture into the artistic haven of Ahoy Tattoo Estúdio, where the intricate dotwork merges with lush floral designs and bold traditional motifs to create masterpieces on skin. Nestled in the vibrant heart of Santa Maria, RS, Brazil, this exclusive studio offers an intimate tattooing experience by appointment, ensuring personalized attention and exceptional artistry. Join the ranks of the adorned at Ahoy, where every mark is a voyage of self-expression."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "afdestin",
+  "name": "Atomic Frog Tattoo Studio",
+  "location": {
+    "city": "Destin",
+    "country": "United States"
+  },
+  "styles": [
+    "illustrative",
+    "newschool",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/afdestin",
+    "instagram": "https://www.instagram.com/afdestin/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afdestin/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afdestin/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afdestin/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afdestin/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Atomic Frog Tattoo Studio, a creative hub nestled in the heart of Destin, FL, where artistry meets precision. Our talented tattooists specialize in illustrative, newschool, and dotwork styles, ensuring each design leaps off the skin with vibrant energy and intricate detail. Find your next piece of permanent art at 4269 Legendary Dr, Unit J108—where unique skin masterpieces come to life."
+}

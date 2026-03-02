@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_luxurytattoostudio",
+  "name": "Johan Tatts",
+  "location": {
+    "city": "Fontana",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_luxurytattoostudio",
+    "instagram": "https://www.instagram.com/_luxurytattoostudio/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luxurytattoostudio/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luxurytattoostudio/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luxurytattoostudio/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luxurytattoostudio/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Welcome to Johan Tatts, Fontana's premier destination for striking black and gray realism tattoos. Our studio, home to a collective of renowned artists including @tattoolx, @wiskyyboyy_, @chilango_tat2, @eveluxbrows, and @eb09_tat2, offers a vibrant and creative environment where your vision becomes art. Step into our realm of intricate designs and exceptional craftsmanship, where every piece is a testament to personal expression and detail."
+}

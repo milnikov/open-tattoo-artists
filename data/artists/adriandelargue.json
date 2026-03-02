@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "adriandelargue",
+  "name": "Adrian Delargue",
+  "location": {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "sketch",
+    "fineline",
+    "dotwork",
+    "sponsor:",
+    "killerinktattoo"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adriandelargue",
+    "instagram": "https://www.instagram.com/adriandelargue/",
+    "website": "https://www.killerinktattoo.com/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandelargue/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandelargue/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandelargue/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandelargue/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Delargue, based out of London, is a professional tattoo artist who specializes in different styles such as sketch, fineline, and dotwork. While demonstrating a high level of skill in his work, his artistry surpasses expectations supplying remarkable impressions through his partner Six Bullets Tattoo, and Killer Ink Tattoo supplies."
+}

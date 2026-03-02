@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "agathaschnips",
+  "name": "Agatha Schnips",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agathaschnips",
+    "instagram": "https://www.instagram.com/agathaschnips/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agathaschnips/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agathaschnips/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agathaschnips/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agathaschnips/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agatha Schnips is a highly skilled tattoo artist based in Berlin, Germany. Known for her distinct neotraditional style, she takes pride in her work and showcases her notable craftsmanship at the respected Pechschwarztattoo studio in Berlin and with Pepax. Agatha's exceptional talent is highly sought after, symbolized by her currently closed bookings."
+}

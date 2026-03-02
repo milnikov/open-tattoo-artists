@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "aguilar_tattoo",
+  "name": "Aaron C Aguilar",
+  "location": {
+    "city": "Tucson",
+    "country": "United States"
+  },
+  "styles": [
+    "dotwork",
+    "illustrative",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aguilar_tattoo",
+    "instagram": "https://www.instagram.com/aguilar_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aguilar_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aguilar_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aguilar_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aguilar_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aaron C. Aguilar is a highly skilled tattoo artist based in Tucson, Arizona, specializing in dotwork, illustrative, and lettering styles. Known for their meticulous attention to detail and precision, Aaron produces stunning and intricate designs. Clients appreciate Aaron's professionalism, which is evident in both their artistic process and the clean, welcoming environment of Grape Ape Tattoo."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "acutrell",
+  "name": "Andrew Cutrell",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acutrell",
+    "instagram": "https://www.instagram.com/acutrell/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acutrell/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acutrell/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acutrell/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acutrell/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Andrew Cutrell is a highly skilled tattoo artist specializing in traditional and illustrative styles. Based at Fourswords Tattoo in Huntsville, AL, his professionalism shines through both in his exquisite work and the detail-oriented approach he takes with each client. To book an appointment with Andrew, reach out via a.cutrell@yahoo.com and experience his artistry firsthand."
+}

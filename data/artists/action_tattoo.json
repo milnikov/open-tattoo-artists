@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "action_tattoo",
+  "name": "Beatnik Roger T",
+  "location": {
+    "city": "Yorba Linda",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/action_tattoo",
+    "instagram": "https://www.instagram.com/action_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/action_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/action_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/action_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/action_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Beatnik Roger T is a highly skilled tattoo artist specializing in traditional and neotraditional styles, with a studio located in Yorba Linda, United States. Clients rave about the impeccable cleanliness maintained in the studio at 5642 E LaPalma Ave #101, Anaheim, CA, ensuring a safe and hygienic environment for all tattooing needs. With attention to detail and a spotless workspace, Beatnik Roger T has established a reputation for upholding the highest standards of cleanliness in the industry."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_kizm_",
+  "name": "Kizm",
+  "location": {
+    "city": "Perth",
+    "country": "Australia"
+  },
+  "styles": [
+    "trashpolka",
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_kizm_",
+    "instagram": "https://www.instagram.com/_kizm_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kizm_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kizm_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kizm_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_kizm_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Kizm is a highly skilled tattoo artist based in Perth, Australia, specializing in the unique styles of trashpolka, black&gray, and realism. Their exquisite details and precise techniques exhibit their comprehensive mastery and innovation in tattoo artistry, exemplified through their digital art pieces as well. Their artistic prowess can be explored through their affiliations with Villains Tattoo Co, Z00tatt00, and Raw Pigments."
+}

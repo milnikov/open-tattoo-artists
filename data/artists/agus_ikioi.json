@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "agus_ikioi",
+  "name": "Agus Ikioi",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/agus_ikioi",
+    "instagram": "https://www.instagram.com/agus_ikioi/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agus_ikioi/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agus_ikioi/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agus_ikioi/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agus_ikioi/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Agus Ikioi is a highly skilled tattoo artist based in Melbourne, Australia, known particularly for his intricate black and gray realism artwork. He carries years of experience transforming clients' skin into a canvas for upscale ink designs. You can contact him through his email ikioisearch@yahoo.com or follow his creative journey on social media."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ace_no_buggy",
+  "name": "Ace No Buggy",
+  "location": {
+    "city": "Atlanta",
+    "country": "United States"
+  },
+  "styles": [
+    "newschool",
+    "realism",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ace_no_buggy",
+    "instagram": "https://www.instagram.com/ace_no_buggy/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ace_no_buggy/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ace_no_buggy/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ace_no_buggy/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ace_no_buggy/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Ace No Buggy is a highly skilled tattoo artist based in Atlanta, United States, specializing in newschool, realism, and neotraditional styles. Along with a profound philosophy, 'God Got Me', he has amassed an impressive following of around 270,000 on Instagram, reflecting his extraordinary talent. His work reflects an intriguing balance of passion and professionalism, captivating tattoo enthusiasts globally."
+}

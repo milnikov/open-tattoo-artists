@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "aethertattooclub",
+  "name": "Olive Tattoos",
+  "location": {
+    "city": "Bozeman",
+    "country": "United States"
+  },
+  "styles": [
+    "dotwork",
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aethertattooclub",
+    "instagram": "https://www.instagram.com/aethertattooclub/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aethertattooclub/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aethertattooclub/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aethertattooclub/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aethertattooclub/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Olive Tattoos of Bozeman, where creativity meets precision in a warm, inviting atmosphere. Specializing in dotwork, neotraditional, and black & gray designs, our talented artists, including @tattoo_ash, @adizmalworld, and @staytanic, are ready to transform your ideas into stunning body art. Drop by or call us for same-day appointments – at Olive Tattoos, everyone is welcome to explore the art of ink."
+}

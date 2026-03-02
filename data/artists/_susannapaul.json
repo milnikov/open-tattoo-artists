@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_susannapaul",
+  "name": "Susanna Paul",
+  "location": {
+    "city": "Cassel",
+    "country": "Germany"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_susannapaul",
+    "instagram": "https://www.instagram.com/_susannapaul/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_susannapaul/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_susannapaul/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_susannapaul/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_susannapaul/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Susanna Paul is a highly skilled tattoo artist based in Cassel, Germany, known for her exquisite work in floral, fineline, and dotwork styles. Her precision in intricate designs sets her apart, making each piece a testament to her mastery of the craft. Clients seeking a tattoo that harmoniously blends artistry with elegance will find Susanna's portfolio a treasure trove of inspiration."
+}

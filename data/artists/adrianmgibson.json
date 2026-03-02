@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianmgibson",
+  "name": "Adrian Gibson",
+  "location": {
+    "city": "Quito",
+    "country": "Ecuador"
+  },
+  "styles": [
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianmgibson",
+    "instagram": "https://www.instagram.com/adrianmgibson/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianmgibson/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianmgibson/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianmgibson/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianmgibson/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Gibson, based in Quito, Ecuador, is an extraordinary tattoo artist skilled in the intricate styles of fineline and dotwork. His proficiency isn't limited to tattooing, boasting a varied range of talents such as being a Sci-fi writer, podcaster, illustrator, book blogger, and producer. Adrian's clients have always appreciated his professionalism that goes hand in hand with his deft artistic abilities."
+}

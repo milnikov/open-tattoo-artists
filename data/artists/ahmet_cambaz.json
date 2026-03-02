@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ahmet_cambaz",
+  "name": "Ahmet Cambaz",
+  "location": {
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ahmet_cambaz",
+    "instagram": "https://www.instagram.com/ahmet_cambaz/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahmet_cambaz/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahmet_cambaz/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahmet_cambaz/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ahmet_cambaz/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Ahmet Cambaz, based in Istanbul, Turkey, is an exceptionally skilled tattoo artist who specializes in illustrative and watercolor styles. With around 280K followers on Instagram, Ahmet's craft is widely recognized and admired, as seen in his stunning, highly detailed works. Ahmet embodies professionalism by maintaining very organised booking systems and providing clear communication channels for his clientele."
+}

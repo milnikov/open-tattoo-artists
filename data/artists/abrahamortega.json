@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "abrahamortega",
+  "name": "Abraham Ortega",
+  "location": {
+    "city": "San Jose",
+    "country": "United States"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abrahamortega",
+    "instagram": "https://www.instagram.com/abrahamortega/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamortega/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamortega/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamortega/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abrahamortega/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Abraham Ortega is an owner and highly skilled tattoo artist based in San Jose, California, where he operates the renowned BLACKSUIT TATTOO. Specializing in complex dotwork designs, Abraham's craft reflects an unparalleled attention to detail and mastery, turning skin into a stunning canvas for his astonishing pieces."
+}

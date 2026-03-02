@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrian_rothson",
+  "name": "Adrian Rothson",
+  "location": {
+    "city": "Cagliari",
+    "country": "Italy"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrian_rothson",
+    "instagram": "https://www.instagram.com/adrian_rothson/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_rothson/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_rothson/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_rothson/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrian_rothson/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Rothson is a highly skilled tattoo artist based in Cagliari, Italy, renowned for his mastery in black and gray realism and chicano styles. His artwork exhibits a nuanced interplay of shadows and details, bringing each piece to life with a breathtaking sense of depth. Attention to hygiene is paramount in Adrian's studio, ensuring a clean and safe environment for all his clients."
+}

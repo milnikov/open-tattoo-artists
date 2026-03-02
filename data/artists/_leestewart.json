@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_leestewart",
+  "name": "Lee Stewart",
+  "location": {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "dotwork",
+    "sketch",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_leestewart",
+    "instagram": "https://www.instagram.com/_leestewart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_leestewart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_leestewart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_leestewart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_leestewart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Lee Stewart is an exceptionally skilled tattoo artist based in London, who specializes in dotwork, sketch, and tribal styles. With over 59,000 followers on Instagram, Stewart's mastery in his craft is well recognized and appreciated. Despite his high demand, as indicated by his fully booked schedules in various locations, including Sydney, Melbourne, and Perth, he maintains a high level of professionalism and order."
+}

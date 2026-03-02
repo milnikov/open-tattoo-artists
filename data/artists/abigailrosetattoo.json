@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abigailrosetattoo",
+  "name": "Abigail Rose",
+  "location": {
+    "city": "Sunderland",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abigailrosetattoo",
+    "instagram": "https://www.instagram.com/abigailrosetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abigailrosetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abigailrosetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abigailrosetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abigailrosetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Abigail Rose, hailing from Sunderland, United Kingdom, is a highly skilled tattoo artist renowned for her expertise in black & gray and illustrative styles, with a particular mastery in cover-up work. As the owner and leading artist at @tattoo.obi, she upholds an unparalleled standard of professionalism, ensuring that every client's experience is met with immaculate technique and a dedicated approach to achieving the best results. Her work speaks volumes of her aptitude and deep understanding of the art form."
+}

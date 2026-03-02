@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_theblackrosestudio_",
+  "name": "The Black Rose Studio",
+  "location": {
+    "city": "Mansfield",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_theblackrosestudio_",
+    "instagram": "https://www.instagram.com/_theblackrosestudio_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_theblackrosestudio_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_theblackrosestudio_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_theblackrosestudio_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_theblackrosestudio_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "The Black Rose Studio, nestled in the heart of Mansfield, Texas, is renowned for its exceptional black and gray realism tattoos. With a team of diverse artists honing their skillsets in a variety of styles, this is the ultimate creative den for those seeking unique and personalized body art. Connect with them via email to reserve your consultation, and allow their artistry to create a masterpiece you'll carry with pride."
+}

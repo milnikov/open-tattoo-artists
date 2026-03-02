@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abstract_tattoo",
+  "name": "Doug Holt",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abstract_tattoo",
+    "instagram": "https://www.instagram.com/abstract_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abstract_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abstract_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abstract_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abstract_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Doug Holt is an exceptionally skilled tattoo artist, specializing in illustrative, watercolor, and realism styles. He is widely recognized for his meticulous attention to detail and his remarkable ability to bring clients' visions to life. Clients consistently praise the pristine cleanliness of his workspace, ensuring a safe and hygienic experience for every tattoo session."
+}

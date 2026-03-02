@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "acidinkstattoo",
+  "name": "Shane Rankin",
+  "location": {
+    "city": "Brisbane",
+    "country": "Australia"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acidinkstattoo",
+    "instagram": "https://www.instagram.com/acidinkstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidinkstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidinkstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidinkstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidinkstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Shane Rankin is a highly skilled black & gray tattoo artist based at Acid Inks in Brisbane, Australia. Taking pride in his craft, Shane demonstrates exceptional professionalism, ensuring that each client receives a personalized experience from consultation to aftercare. His dedication to maintaining a clean workspace not only meets but exceeds industry standards, making him a trusted name in the Brisbane tattoo community."
+}

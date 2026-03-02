@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "acidalice_tattoo",
+  "name": "ACID✨ALICE",
+  "location": {
+    "city": "Leighton Buzzard",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "illustrative",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/acidalice_tattoo",
+    "instagram": "https://www.instagram.com/acidalice_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidalice_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acidalice_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the vibrant world of ACID✨ALICE, an extraordinary tattoo artist based in Leighton Buzzard, United Kingdom. With a talent for striking illustrative and traditional styles, each design ACID✨ALICE creates is a testament to their exceptional skill level. Step into their studio space and discover where captivating artistry meets meticulous execution."
+}

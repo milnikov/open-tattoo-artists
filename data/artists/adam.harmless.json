@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adam.harmless",
+  "name": "Adam Harmless",
+  "location": {
+    "city": "Bishop's Stortford",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "fineline",
+    "geometric",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adam.harmless",
+    "instagram": "https://www.instagram.com/adam.harmless/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.harmless/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.harmless/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.harmless/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam.harmless/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Harmless is an exceptionally skilled tattoo artist based in Bishop's Stortford, United Kingdom, specializing in fineline, geometric, and vegan styles. His precision in the intricate art of tattooing is matched by his dedication to vegan blackwork tattoos, evident in his professional alignment with the Raincity Tattoo Collective."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianwietecha",
+  "name": "Adrian Wietecha",
+  "location": {
+    "city": "Cracow",
+    "country": "Poland"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianwietecha",
+    "instagram": "https://www.instagram.com/adrianwietecha/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianwietecha/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianwietecha/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianwietecha/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianwietecha/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Wietecha is a masterful tattoo artist based in Krakow, Poland, known for his exceptional work in traditional and neotraditional styles. His professionalism shines through every detailed piece of art he creates, ensuring clients not only leave with a stunning tattoo but also a memorable experience from Kult Tattoo. Adrian's reputation for cleanliness is evidenced by the immaculate state of his workspace, making him a trustworthy choice for both first-timers and seasoned tattoo enthusiasts."
+}

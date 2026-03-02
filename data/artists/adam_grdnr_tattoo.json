@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adam_grdnr_tattoo",
+  "name": "Adam Gardiner",
+  "location": {
+    "city": "Dusseldorf",
+    "country": "Germany"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adam_grdnr_tattoo",
+    "instagram": "https://www.instagram.com/adam_grdnr_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_grdnr_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_grdnr_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_grdnr_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adam_grdnr_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Gardiner is a highly skilled tattoo artist, specializing mainly in Neotraditional and Blackwork styles. Currently a resident artist at Holy Harbor in Hamburg, he maintains a strong professional presence both in the studio and through his website. He is based in Dusseldorf, Germany, delivering impeccable and unique pieces of art to every client."
+}

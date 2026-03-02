@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrianbuenoart",
+  "name": "Adrian Bueno",
+  "location": {
+    "city": "Rio De Janeiro",
+    "country": "Brazil"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrianbuenoart",
+    "instagram": "https://www.instagram.com/adrianbuenoart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianbuenoart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianbuenoart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianbuenoart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianbuenoart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-01",
+  "bio": "Adrian Bueno, based in Rio de Janeiro, Brazil, specializes in black and gray realism tattoos. While relatively new to the scene as an amateur tattoo artist, Adrian maintains a high standard of cleanliness in their studio, ensuring a safe and hygienic environment for all tattoo enthusiasts. Their dedication to the art is matched by their commitment to maintaining a clean workspace for every client."
+}
