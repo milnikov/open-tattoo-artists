@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "_yakisoba_",
+  "name": "Yaki Soba",
+  "location": {
+    "city": "Melbourne",
+    "country": "Australia"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_yakisoba_",
+    "instagram": "https://www.instagram.com/_yakisoba_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_yakisoba_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_yakisoba_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_yakisoba_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_yakisoba_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Yaki Soba is a highly skilled tattoo artist based in Melbourne, Australia, best known for her impressive work in black&gray, floral, and neotraditional styles. Her outstanding use of detail and shading techniques is further enhanced by the quality inks she uses from renowned companies such as Radiant Colors and Inkin Tattoo Supply. Soba's expertise in her craft has earned her a reputable position among Melbourne's tattoo community."
+}
