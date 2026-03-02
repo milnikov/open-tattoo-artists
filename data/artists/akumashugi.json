@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "akumashugi",
+  "name": "Akuma Shugi",
+  "location": {
+    "city": "Hove",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "neotraditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/akumashugi",
+    "instagram": "https://www.instagram.com/akumashugi/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akumashugi/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akumashugi/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akumashugi/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akumashugi/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Akuma Shugi is a highly skilled tattoo artist based in Hove, United Kingdom, specializing in neotraditional and illustrative styles. Holding a reputation for professionalism and cleanliness, Shugi delivers exceptional results with deep respect for the craft, making him a sought-after artist in the Brighton area."
+}

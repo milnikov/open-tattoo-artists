@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "alanstattoo",
+  "name": "Alan",
+  "location": {
+    "city": "Wirral",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alanstattoo",
+    "instagram": "https://www.instagram.com/alanstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the artistic haven of Alan's Tattoo Studio, nestled in the heart of Wirral, United Kingdom, where the ink comes to life. Specializing in black & gray, new school, and geometric designs, our team of accomplished artists—including Daz Crane, Rachel Marley, Sean Siamese, Steve Crane, and Shaun T—awaits to transform your ideas into stunning body art. Connect with us at 0151 488 5500 to begin your journey of self-expression through exquisite tattoos."
+}

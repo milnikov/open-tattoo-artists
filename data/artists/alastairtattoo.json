@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "alastairtattoo",
+  "name": "Alastair Cameron",
+  "location": {
+    "city": "Allston",
+    "country": "United States"
+  },
+  "styles": [
+    "illustrative",
+    "traditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alastairtattoo",
+    "instagram": "https://www.instagram.com/alastairtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alastairtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alastairtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alastairtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alastairtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alastair Cameron is a highly skilled tattoo artist specializing in vivid illustrative, traditional, and black & gray designs at Stingray Body Art in Allston, MA. Alastair’s work stands out for its bold statement, \"I make tattoos that look like tattoos,\" showcasing a dedication to the traditional essence of the craft. His proficiency in these styles is highly regarded, making him a sought-after artist in the Allston community and beyond."
+}

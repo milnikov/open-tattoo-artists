@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adrenalinetattooandpiercing",
+  "name": "ADRENALINE",
+  "location": {
+    "city": "San Antonio",
+    "country": "United States"
+  },
+  "styles": [
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adrenalinetattooandpiercing",
+    "instagram": "https://www.instagram.com/adrenalinetattooandpiercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrenalinetattooandpiercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrenalinetattooandpiercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrenalinetattooandpiercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrenalinetattooandpiercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the vibrant and dynamic atmosphere of ADRENALINE, San Antonio's premier tattoo studio specializing in exquisite watercolor ink art since 1997. Nestled at 2140 Austin Hwy, this creative haven welcomes guests with open arms from Thursday to Monday, offering a unique splash of color to your skin and life. Whether you're seeking a subtle wash of hues or a bold statement piece, ADRENALINE's artists are renowned for turning your visions into breathtaking, living masterpieces.",
+  "tattooing_since": "1997"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adamz.tattoo",
+  "name": "Adam Żebczyński",
+  "location": {
+    "city": "Antwerp",
+    "country": "Belgium"
+  },
+  "styles": [
+    "trashpolka",
+    "watercolor",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamz.tattoo",
+    "instagram": "https://www.instagram.com/adamz.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamz.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamz.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamz.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamz.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Żebczyński is a talented tattoo artist located in Antwerp, Belgium, renowned for his expertise in trashpolka, watercolor, and realism styles. He upholds the highest standards of cleanliness at his studio, AdamZ Tattoo Ink, ensuring that every client's experience is not only visually stunning but also safe and hygienic. Visit his portfolio at https://mycrd.is/adamztattooink to witness the meticulous care he invests in every piece of art he creates."
+}

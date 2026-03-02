@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adamsmithtattoo",
+  "name": "Adam Smith",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "geometric",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamsmithtattoo",
+    "instagram": "https://www.instagram.com/adamsmithtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsmithtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsmithtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsmithtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsmithtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Smith is a highly skilled tattoo artist specializing in dotwork, geometric, and fineline styles at Trapdoor Tattoos in Newcastle upon Tyne. His attention to detail is evident in every piece, ensuring that clients leave with tattoos that are both intricate and precise. To book an appointment with Adam, reach out to him at adamsmithtattoo@gmail.com for a professional tattoo experience."
+}

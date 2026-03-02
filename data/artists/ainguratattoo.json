@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ainguratattoo",
+  "name": "Mikel Uria",
+  "location": {
+    "city": "Pasajes",
+    "country": "Spain"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ainguratattoo",
+    "instagram": "https://www.instagram.com/ainguratattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ainguratattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ainguratattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ainguratattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ainguratattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the monochromatic mastery at Mikel Uria Tattoo Studio, nestled in the vibrant heart of Pasajes, Spain, on Avenida Euskadi n°15 Entresuelo Trintxerpe, Gipuzkoa. A haven for black & gray ink aficionados, this studio promises a serene environment where the artistry of Mikel Uria transforms skin into a canvas of intricate shades and stunning detail. Contact at 943543814 or ainguratattoo@gmail.com to etch your vision into a timeless piece."
+}

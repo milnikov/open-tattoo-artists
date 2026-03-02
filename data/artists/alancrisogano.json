@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "alancrisogano",
+  "name": "Alan Crisogano",
+  "location": {
+    "city": "Merate",
+    "country": "Italy"
+  },
+  "styles": [
+    "traditional",
+    "japanese",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alancrisogano",
+    "instagram": "https://www.instagram.com/alancrisogano/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alancrisogano/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alancrisogano/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alancrisogano/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alancrisogano/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alan Crisogano is a highly skilled tattoo artist renowned for his expertise in traditional, Japanese, and illustrative styles. Based in Merate, Italy, at Scaccomatto Tattoo, his work is steeped in rich detail and vibrancy, drawing in a clientele that appreciates his mastery in inking. Clients report that his professionalism is matched only by the impeccable cleanliness of his workspace, ensuring a safe and exceptional tattooing experience."
+}

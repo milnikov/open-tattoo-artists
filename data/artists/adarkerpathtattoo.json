@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "adarkerpathtattoo",
+  "name": "Aaron Peters",
+  "location": {
+    "city": "Schererville",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adarkerpathtattoo",
+    "instagram": "https://www.instagram.com/adarkerpathtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkerpathtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkerpathtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkerpathtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkerpathtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aaron Peters, based in Schererville, United States, is a tattoo artist renowned for his professionalism in the industry. Specializing in black & gray, realism, and dotwork, Aaron's artwork speaks volumes of his dedication and meticulous approach to his craft. His clean and precise tattooing techniques ensure that each client receives a piece of art that exemplifies Aaron's commitment to excellence."
+}

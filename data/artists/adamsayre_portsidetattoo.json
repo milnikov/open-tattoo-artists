@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamsayre_portsidetattoo",
+  "name": "Adam Sayre",
+  "location": {
+    "city": "San Diego",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamsayre_portsidetattoo",
+    "instagram": "https://www.instagram.com/adamsayre_portsidetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsayre_portsidetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsayre_portsidetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsayre_portsidetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsayre_portsidetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Sayre is a highly skilled tattoo artist based in San Diego, United States, specializing in traditional and dotwork styles. His attention to cleanliness is of the highest standard, ensuring a safe and hygienic environment for all his clients. To book an appointment with Adam, direct message him, and please note that it is a cash-only business."
+}

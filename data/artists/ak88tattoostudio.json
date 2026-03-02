@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ak88tattoostudio",
+  "name": "Templo del SOL AK88",
+  "location": {
+    "city": "Santa Coloma De Gramenet",
+    "country": "Spain"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ak88tattoostudio",
+    "instagram": "https://www.instagram.com/ak88tattoostudio/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak88tattoostudio/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak88tattoostudio/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak88tattoostudio/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak88tattoostudio/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Experience the transformative artistry of Templo del SOL AK88, an esteemed tattoo sanctuary nestled in the vibrant heart of Santa Coloma de Gramenet, Spain. Specializing in captivating black & gray, immersive realism, and intricate dotwork, this Barcelona-based studio is a haven for connoisseurs seeking tattoos with soul-stirring depth and exquisite detail. Step into their realm of creativity where every inked masterpiece reflects a true dedication to the craft."
+}

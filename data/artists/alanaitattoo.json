@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "alanaitattoo",
+  "name": "Alanai Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alanaitattoo",
+    "instagram": "https://www.instagram.com/alanaitattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanaitattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanaitattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanaitattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanaitattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Alanai Tattoo, the premier destination nestled in the heart of Málaga, España on Calle Andarax, where artistry meets precision. Our studio specializes in minimalist, lettering, and black & gray tattoos, crafting each design with meticulous attention to detail. Step into our serene and inspiring space where your vision is transformed into timeless ink."
+}

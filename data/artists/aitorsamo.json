@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aitorsamo",
+  "name": "Aitor Samo",
+  "location": {
+    "city": "Zaragoza",
+    "country": "Spain"
+  },
+  "styles": [
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aitorsamo",
+    "instagram": "https://www.instagram.com/aitorsamo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aitorsamo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aitorsamo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aitorsamo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aitorsamo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aitor Samo is a highly skilled tattoo artist specialized in the intricate styles of fineline and dotwork, known for transforming delicate designs into stunning works of art on skin. Their professionalism is evident through their role as the owner of Creepy Kraken Tattoo in Pineda de Mar (Barcelona), where they uphold the highest standards of cleanliness, ensuring a safe and hygienic environment for every client. For those seeking an exceptional tattoo experience in Zaragoza, Spain, Aitor Samo comes highly recommended."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "akkurat_tattoo",
+  "name": "Sina Schütz",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "minimalist",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/akkurat_tattoo",
+    "instagram": "https://www.instagram.com/akkurat_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akkurat_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akkurat_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akkurat_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akkurat_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Sina Schütz is a highly skilled tattoo artist based in Viernheim, Germany, specializing in fineline, minimalist, and geometric styles. Their adeptness at crafting intricate oneline, abstract, and ornamental tattoos is unmatched. With a keen eye for precision, Sina Schütz's work embodies the art of clean and minimalist tattooing."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "a.lumbi.tattoo",
+  "name": "Andrea Lumbi",
+  "location": {
+    "city": "Montreal",
+    "country": "Canada"
+  },
+  "styles": [
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/a.lumbi.tattoo",
+    "instagram": "https://www.instagram.com/a.lumbi.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.lumbi.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.lumbi.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.lumbi.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.lumbi.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Andrea Lumbi is a highly skilled tattoo artist who specializes in dotwork and fineline styles, bringing intricate designs to life with precision and artistry. Based in Montreal, Canada, Andrea practices their craft at Vice Tattoo, located at 4151 Boulevard Saint-Laurent, maintaining a standard of professionalism that is evident in both the quality of their work and their dedicated art account, @a.lumbi. Visit Andrea for a tattoo experience where expert technique meets meticulous detail."
+}

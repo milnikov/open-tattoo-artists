@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adams_tattoo_family",
+  "name": "Adam",
+  "location": {
+    "city": "Rouen",
+    "country": "France"
+  },
+  "styles": [
+    "fineline",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adams_tattoo_family",
+    "instagram": "https://www.instagram.com/adams_tattoo_family/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adams_tattoo_family/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adams_tattoo_family/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adams_tattoo_family/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adams_tattoo_family/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the delicate and artistic world of Adam's Tattoo Studio, a premier inking sanctuary nestled in the heart of Rouen, France. Specializing in fineline and floral designs, this studio doubles as an art gallery, providing a visually inspiring environment where resident artists such as @juwelia888, @la_fine_lame, @chap_artwork, and @tinkedrbell transform skin into exquisite canvases. Connect with us at atftattoostudio@gmail.com to embark on a bespoke tattoo journey – where elegance meets permanence."
+}

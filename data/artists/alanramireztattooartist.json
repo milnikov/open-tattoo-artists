@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alanramireztattooartist",
+  "name": "Alan Ramirez",
+  "location": {
+    "city": "Gray",
+    "country": "United States"
+  },
+  "styles": [
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alanramireztattooartist",
+    "instagram": "https://www.instagram.com/alanramireztattooartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanramireztattooartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanramireztattooartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanramireztattooartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanramireztattooartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alan Ramirez, a proficient tattoo artist based in Gray, United States, specializes in the unique styles of realism and trashpolka. Known for his immaculate cleanliness, Ramirez sets remarkable standards in tattoo studio hygiene, making use of quality materials like starbritecolors and saniderm. His recent limited spots availability in February 2022 showcases the high demand for his exemplary services."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alansaavedra.tattoo",
+  "name": "Alan Saavedra",
+  "location": {
+    "city": "Nigrán",
+    "country": "Spain"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alansaavedra.tattoo",
+    "instagram": "https://www.instagram.com/alansaavedra.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alansaavedra.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alansaavedra.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alansaavedra.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alansaavedra.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alan Saavedra is a highly skilled tattoo artist based in Nigrán, Spain and owner of ⚡️ 𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗔 𝗧𝗔𝗧𝗧𝗢𝗢 𝗦𝗧𝗨𝗗𝗜𝗢 ⚡️. Specializing in black&gray and realism styles, Alan demonstrates impeccable detail and precision in his work, leaving every client with a masterpiece they can proudly wear. He's also a regular guest artist at the Laura Tinta Tattoo Studio in Switzerland."
+}

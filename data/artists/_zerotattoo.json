@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_zerotattoo",
+  "name": "Traço Zero Tattoo",
+  "location": {
+    "city": "Paulínia",
+    "country": "Brazil"
+  },
+  "styles": [
+    "sketch",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_zerotattoo",
+    "instagram": "https://www.instagram.com/_zerotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zerotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zerotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zerotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zerotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Welcome to Traço Zero Tattoo, an artistic haven nestled in the heart of Vila Bressani, Paulínia, where creativity meets skin. Our talented artists specialize in sketch and illustrative styles, transforming your ideas into unique ink stories. Drop us a Direct Message to schedule your exclusive session between 11 am and 6 pm, where the journey to your next masterpiece begins."
+}

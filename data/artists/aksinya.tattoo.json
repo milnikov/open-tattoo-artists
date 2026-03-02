@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "aksinya.tattoo",
+  "name": "Aksinya Tattoo",
+  "location": {
+    "city": "Chelyabinsk",
+    "country": "Russia"
+  },
+  "styles": [
+    "floral",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aksinya.tattoo",
+    "instagram": "https://www.instagram.com/aksinya.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aksinya.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aksinya.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aksinya.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aksinya.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Aksinya Tattoo, located in Chelyabinsk, Russia, specializes in floral and minimalist style tattoos. With an aesthetic dedicated to softness and detail-oriented craftsmanship, her tattoos exhibit an exquisite level of skill. This dexterous tattoo artist takes pride in crafting each piece to perfection, making her one of the go-to artists in the region."
+}

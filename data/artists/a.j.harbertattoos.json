@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "a.j.harbertattoos",
+  "name": "AJ Harber",
+  "location": {
+    "city": "Noblesville",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/a.j.harbertattoos",
+    "instagram": "https://www.instagram.com/a.j.harbertattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j.harbertattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j.harbertattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j.harbertattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j.harbertattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "AJ Harber is a highly skilled tattoo artist who has mastered the intricate styles of black & gray, floral, and trash polka. Located in Noblesville, IN, at Mystic Images Tattoo Co., AJ brings each piece to life with an exceptional level of detail and realism. A professional through and through, AJ maintains a clean and hygienic working environment, ensuring a safe and comfortable experience for all clients."
+}

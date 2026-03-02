@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "akostattoo",
+  "name": "Akos Tattoo",
+  "location": {
+    "city": "Perth",
+    "country": "Australia"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/akostattoo",
+    "instagram": "https://www.instagram.com/akostattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akostattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akostattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akostattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akostattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Akos Tattoo, a renowned tattoo artist in Perth, Australia, specializes in the neotraditional tattoo style. With an impressive following of approximately 84,000 on Instagram, Akos has proven his impeccable skills and is known to showcase his work at the Golden Panther Tattoo studio. His artistic mastery and professionalism are evidenced by the significant number of people who desire his services, leading to his appointment books often being closed."
+}

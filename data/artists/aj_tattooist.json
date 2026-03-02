@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "aj_tattooist",
+  "name": "AJ",
+  "location": {
+    "city": "Hemel Hempstead",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aj_tattooist",
+    "instagram": "https://www.instagram.com/aj_tattooist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aj_tattooist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aj_tattooist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aj_tattooist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aj_tattooist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "AJ is a highly skilled tattoo artist specializing in black and gray and oriental styles, currently operating out of Hemel Hempstead in the United Kingdom. As an artist and co-owner at White Heart Tattoo, their dedication to the craft is evident in the stunning detail and artistry of their work. Ensuring professionalism in every session, AJ's work continues to attract clients who seek exceptional black and gray tattoos."
+}

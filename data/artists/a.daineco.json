@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "a.daineco",
+  "name": "Albert Dayneco",
+  "location": {
+    "city": "Minsk",
+    "country": "Belarus"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/a.daineco",
+    "instagram": "https://www.instagram.com/a.daineco/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.daineco/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.daineco/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.daineco/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.daineco/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Albert Dayneco, a notable tattoo artist based in Minsk, Belarus, excels in the unique styles of black&gray, dotwork, and fineline. Recognised for his cleanliness and exceptional attention to detail, he ensures his clients are comfortable and satisfied with his work while adhering to all health and safety regulations."
+}

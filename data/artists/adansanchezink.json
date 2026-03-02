@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adansanchezink",
+  "name": "Adan Sanchez",
+  "location": {
+    "city": "Albuquerque",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adansanchezink",
+    "instagram": "https://www.instagram.com/adansanchezink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adansanchezink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adansanchezink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adansanchezink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adansanchezink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adan Sanchez is a highly skilled tattoo artist based in Albuquerque, United States, who specializes in black&gray and realism styles. Known for his professionalism, he prefers all inquiries to be directed to the Era Tattoo Studio for prompt responses. His dedication to his craft and swift communication reflects his commitment to providing top-quality service for his clients."
+}

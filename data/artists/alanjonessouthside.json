@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alanjonessouthside",
+  "name": "Alan Jones",
+  "location": {
+    "city": "Valkenburg",
+    "country": "Netherlands"
+  },
+  "styles": [
+    "newschool",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alanjonessouthside",
+    "instagram": "https://www.instagram.com/alanjonessouthside/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanjonessouthside/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanjonessouthside/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanjonessouthside/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanjonessouthside/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Alan Jones is a renowned tattoo artist, praised for his exceptional expertise in the 'newschool' and 'illustrative' styles. Situated in Valkenburg, Netherlands, Alan's professionalism shines through every aspect of his work, ensuring that each client's experience is as impressive as the art he creates. His dedication to maintaining the highest standard of cleanliness in his studio underscores his commitment to the safety and satisfaction of his clients."
+}

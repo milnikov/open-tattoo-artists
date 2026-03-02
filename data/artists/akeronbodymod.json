@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "akeronbodymod",
+  "name": "Akeron BodyMod",
+  "location": {
+    "city": "Nice",
+    "country": "France"
+  },
+  "styles": [
+    "fineline",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/akeronbodymod",
+    "instagram": "https://www.instagram.com/akeronbodymod/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akeronbodymod/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akeronbodymod/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akeronbodymod/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akeronbodymod/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Akeron BodyMod is a highly adept tattoo artist based in Nice, France, specializing in fine line and illustrative styles that effortlessly capture intricate detail and personal expression. Known for maintaining a pristine workspace, their commitment to cleanliness ensures a safe and hygienic experience for each client. Akeron's dedication to artistry and health standards makes them a sought-after choice for those looking to add a touch of elegance and precision to their body art."
+}

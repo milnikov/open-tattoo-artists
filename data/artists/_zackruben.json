@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "_zackruben",
+  "name": "Zack Ruben",
+  "location": {
+    "city": "Lahaina",
+    "country": "United States"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/_zackruben",
+    "instagram": "https://www.instagram.com/_zackruben/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zackruben/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zackruben/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zackruben/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zackruben/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Zack Ruben is a fineline tattoo artist based in Lahaina, United States, renowned for his extraordinary professionalism. His attention to detail and strict adherence to the highest standards of cleanliness ensure each client's experience is safe and hygienic. Zack's reputation is so stellar that even the most discerning clients, akin to a beloved grandma, would joyfully approve of his immaculate studio and artwork."
+}

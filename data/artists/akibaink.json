@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "akibaink",
+  "name": "Akiba",
+  "location": {
+    "city": "Montpellier",
+    "country": "France"
+  },
+  "styles": [
+    "illustrative",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/akibaink",
+    "instagram": "https://www.instagram.com/akibaink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akibaink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akibaink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akibaink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akibaink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the creative haven of Akiba, an illustrious tattoo studio nestled in the heart of Montpellier, France, that channels the spirit of Tokyo through every meticulously inked design. Celebrated for their expertise in geek and anime-inspired tattoos, they blend illustrative and minimalist styles with exceptional dotwork to bring your favorite fantasies to life. Step into Akiba, where artistry meets precision, and leave with a piece of inked perfection by their distinguished artists, including the visionary @hakupsychose, the elegant @paeonia_nails, the enigmatic @migiaart, and their piercing virtuoso, Jenny."
+}

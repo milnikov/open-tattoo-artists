@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "adamtorreztattoos",
+  "name": "Adam Torrez",
+  "location": {
+    "city": "Grand Junction",
+    "country": "United States"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adamtorreztattoos",
+    "instagram": "https://www.instagram.com/adamtorreztattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamtorreztattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamtorreztattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamtorreztattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamtorreztattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Torrez is a highly skilled tattoo artist based in Grand Junction, Colorado, who specializes in realism and black and gray styles. Working from Elysium Studios, Adam has established himself as a master in his field, showcasing exceptional talent and intricate detail in every piece, turning skin into a canvas of realistic artwork."
+}

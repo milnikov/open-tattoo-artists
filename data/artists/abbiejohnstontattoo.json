@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "abbiejohnstontattoo",
+  "name": "Abbie Johnston",
+  "location": {
+    "city": "Carlisle",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "floral",
+    "dotwork",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/abbiejohnstontattoo",
+    "instagram": "https://www.instagram.com/abbiejohnstontattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abbiejohnstontattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abbiejohnstontattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abbiejohnstontattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abbiejohnstontattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Abbie Johnston is a highly skilled tattoo artist based in a private studio in Carlisle, United Kingdom. Specializing in floral, dotwork, and sketch styles, Abbie's craftsmanship is evident in the intricate and visually stunning pieces she creates for her clients. Her reputation for impeccable cleanliness assures a safe and hygienic environment for each tattoo session."
+}

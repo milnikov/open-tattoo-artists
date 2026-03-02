@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ajkappes",
+  "name": "AJ Kappes",
+  "location": {
+    "city": "Wichita Falls",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ajkappes",
+    "instagram": "https://www.instagram.com/ajkappes/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ajkappes/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ajkappes/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ajkappes/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ajkappes/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "AJ Kappes is a highly skilled tattoo artist based in Wichita Falls, United States, specializing in traditional and black & gray styles. Clients flock to AJ for the precision and artistry that are evident in every piece they create. Known for maintaining an immaculate workspace, AJ's dedication to cleanliness ensures that every client's experience is not only visually stunning but also held to the highest standards of hygiene."
+}

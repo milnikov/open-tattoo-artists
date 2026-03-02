@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ak_tuan_vo",
+  "name": "Tuan Vo",
+  "location": {
+    "city": "Edmonton",
+    "country": "Canada"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ak_tuan_vo",
+    "instagram": "https://www.instagram.com/ak_tuan_vo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tuan_vo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tuan_vo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tuan_vo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tuan_vo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Tuan Vo is a highly skilled tattoo artist based in Edmonton, Canada, specializing in black & gray, realism, and trash polka styles. Renowned for their exceptional craftsmanship and attention to detail, clients can expect a level of professionalism that ensures a comfortable and satisfactory tattoo experience. To book an appointment with Tuan, reach out via tuanvotattoo@gmail.com."
+}

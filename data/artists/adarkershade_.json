@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adarkershade_",
+  "name": "Adam Smith",
+  "location": {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/adarkershade_",
+    "instagram": "https://www.instagram.com/adarkershade_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkershade_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkershade_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkershade_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adarkershade_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Adam Smith, based in London, United Kingdom, is a highly skilled tattoo artist who specializes in fine line tattoos. He currently works as a resident artist at Parliament Tattoo and has amassed an impressive following of approximately 63,000 followers on Instagram. Adam maintains a level of professionalism that reflects in his detailed art and the cleanliness of his work environment. His politeness and friendliness have undoubtedly contributed to his success in the tattoo artistry field."
+}

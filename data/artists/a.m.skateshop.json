@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "a.m.skateshop",
+  "name": "Skater Dave",
+  "location": {
+    "city": "Richmond",
+    "country": "United States"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/a.m.skateshop",
+    "instagram": "https://www.instagram.com/a.m.skateshop/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.m.skateshop/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.m.skateshop/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.m.skateshop/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.m.skateshop/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "Immerse yourself in the edgy, creative world of Skater Dave's Tattoo Studio, where the illustrative ink flows as freely as the passion for skate culture. Nestled in the heart of Richmond, this renowned hub of artistry has been combining the love for skateboards and skin art since 2008. Drop by Wednesday to Saturday, from around noon to 7, and experience the vibrant, rebellious spirit that makes #thedojorva a local legend.",
+  "tattooing_since": "2008"
+}

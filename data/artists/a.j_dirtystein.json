@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "a.j_dirtystein",
+  "name": "AJ Dirtystein",
+  "location": {
+    "city": "Toulouse",
+    "country": "France"
+  },
+  "styles": [
+    "floral",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/a.j_dirtystein",
+    "instagram": "https://www.instagram.com/a.j_dirtystein/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j_dirtystein/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j_dirtystein/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j_dirtystein/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.j_dirtystein/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-02",
+  "bio": "AJ Dirtystein is a highly skilled tattoo artist based in Toulouse, France, specializing in unique floral and trashpolka styles that are sure to turn heads. Their work is not only visually stunning but also reflects a deep understanding of the craft, allowing for both bold designs and delicate details to come together harmoniously on the skin. Clients consistently praise AJ for maintaining a clean and hygienic workspace, ensuring a safe and professional tattooing experience."
+}
