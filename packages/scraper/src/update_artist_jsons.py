@@ -74,6 +74,11 @@ def main():
         dest="headless",
         help="Show browser window",
     )
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Print parser debug info (body text, header segment, styles, about) to stderr",
+    )
     args = parser.parse_args()
 
     artists_dir = repo_path("data", "artists")
@@ -125,6 +130,7 @@ def main():
                 headless=args.headless,
                 max_images=0,
                 metadata_only=True,
+                debug=args.debug,
             )
         except Exception as e:
             print(f"  ❌ Parse error: {e}")
@@ -136,22 +142,26 @@ def main():
             skipped += 1
             continue
 
-        # Apply updates (only metadata; do not touch tattoos or image URLs)
+        # Apply updates (only metadata; do not touch tattoos or image URLs).
+        # Never overwrite existing non-empty data with empty parsed values.
         changes = []
-        if parsed.styles != data.get("styles"):
+        if parsed.styles and parsed.styles != data.get("styles"):
             data["styles"] = parsed.styles
             changes.append("styles")
-        if (parsed.bio or "") != (data.get("bio") or ""):
-            data["bio"] = parsed.bio  # can be None to clear
+        if parsed.bio and (parsed.bio or "") != (data.get("bio") or ""):
+            data["bio"] = parsed.bio
             changes.append("bio")
-        if (parsed.tattooing_since or "") != (data.get("tattooing_since") or ""):
-            data["tattooing_since"] = parsed.tattooing_since  # can be None to clear
+        if parsed.tattooing_since and (parsed.tattooing_since or "") != (data.get("tattooing_since") or ""):
+            data["tattooing_since"] = parsed.tattooing_since
             changes.append("tattooing_since")
         if changes:
             data["updated_at"] = date.today().isoformat()
 
         if not changes:
-            print("  ✓ No changes")
+            if not parsed.styles and not parsed.bio and not parsed.tattooing_since:
+                print("  ⏭️ No new data from page (styles/bio/tattooing_since empty); keeping existing")
+            else:
+                print("  ✓ No changes")
             continue
 
         print(f"  📝 Updating: {', '.join(changes)}")

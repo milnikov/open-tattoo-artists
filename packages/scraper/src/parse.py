@@ -178,11 +178,13 @@ def _get_about_text_via_selenium(driver) -> str:
     candidates = []
     try:
         for xpath in [
-            "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'specializing')]",
-            "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'tattoo artist')]",
-            "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'premier destination')]",
-            "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'nestled')]",
-            "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'tattoo studio')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'specializing')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'tattoo artist')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'renowned')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'master of')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'premier destination')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'nestled')]",
+            "//*[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'tattoo studio')]",
         ]:
             for el in driver.find_elements(By.XPATH, xpath):
                 try:
@@ -347,23 +349,75 @@ def _segment_from_full_text(text: str) -> str:
     On the page, 'Add' and 'Message' are often on separate lines, so we match add\\s+message.
     Stop at the first line that is a tab word (Tattoos, About, Reviews, Illustrations, Load More)
     so we only get the style pills (fineline, dotwork, floral), not the newsletter/footer text.
+    If 'add message' is missing (e.g. cookie wall or layout change), fall back to text before tab row.
     """
     if not text:
         return ""
     m = re.search(r"\badd\s+message\b", text, re.IGNORECASE | re.DOTALL)
-    if not m:
+    if m:
+        after = text[m.end() :].strip()
+        lines = []
+        for line in after.split("\n"):
+            line = line.strip()
+            if not line:
+                continue
+            if _is_tab_row_line(line):
+                break
+            if _is_consent_or_banner_line(line):
+                break
+            lines.append(line)
+        return " ".join(lines[:20])  # max 20 lines of pills
+    # Fallback: page may not show "add message" (cookie banner, layout change). Use text before tab row.
+    return _segment_before_tab_row(text)
+
+
+def _is_tab_row_line(line: str) -> bool:
+    """True if this line is a tab row label (e.g. 'Tattoos', 'About', '- Illustrations', 'Load More')."""
+    if not line:
+        return False
+    clean = re.sub(r"^[\s\-\.\d]+", "", line).strip().lower()
+    if not clean:
+        return False
+    if clean in _TAB_ROW_WORDS:
+        return True
+    first_word = clean.split()[0] if clean else ""
+    return first_word in _TAB_ROW_WORDS
+
+
+# Cookie/consent banner phrases: stop segment here so we don't blow the 500-char limit
+_CONSENT_LINE_PHRASES = frozenset({
+    "welcome to", "consent", "manage options", "your personal data", "cookies",
+    "personal data", "store and/or access", "list of partners", "privacy and cookie",
+})
+
+
+def _is_consent_or_banner_line(line: str) -> bool:
+    """True if this line looks like cookie/consent banner text (stop segment before it)."""
+    if not line or len(line) < 10:
+        return False
+    lower = line.strip().lower()
+    return any(phrase in lower for phrase in _CONSENT_LINE_PHRASES)
+
+
+def _segment_before_tab_row(text: str, max_chars: int = 800) -> str:
+    """Return the first chunk of text before we hit a tab-row word (Tattoos, About, etc.)
+    or cookie/consent banner. Used when 'add message' is not present.
+    """
+    if not text:
         return ""
-    after = text[m.end() :].strip()
-    # Take only lines until we hit a tab-row word (then we have just the pills)
     lines = []
-    for line in after.split("\n"):
+    for line in text.split("\n"):
         line = line.strip()
         if not line:
             continue
-        if line.lower() in _TAB_ROW_WORDS:
+        if _is_tab_row_line(line):
+            break
+        if _is_consent_or_banner_line(line):
             break
         lines.append(line)
-    return " ".join(lines[:20])  # max 20 lines of pills
+        if sum(len(l) for l in lines) > max_chars:
+            break
+    return " ".join(lines[:25])
 
 
 def _normalize_style(s: str) -> str:
@@ -387,11 +441,35 @@ def _strip_bio_quotes(text: str) -> str:
     return t
 
 
+def _strip_leading_nav_from_bio(text: str) -> str:
+    """Remove leading tab row / nav lines (Tattoos, About, Reviews, etc.) from bio text."""
+    if not text:
+        return text
+    lines = text.strip().split("\n")
+    start = 0
+    for i, line in enumerate(lines):
+        line_clean = re.sub(r"^[\s\-\.\d]+", "", line).strip().lower()
+        if not line_clean:
+            continue
+        # Keep line if it looks like real bio (long enough, or contains comma/sentence)
+        if len(line_clean) >= 40 or "," in line:
+            start = i
+            break
+        if line_clean in _TAB_ROW_WORDS or line_clean in ("about", "load", "more"):
+            start = i + 1
+            continue
+        start = i
+        break
+    return "\n".join(lines[start:]).strip()[:2000]
+
+
 def _extract_bio_from_about(about_text: str) -> Optional[str]:
     """Extract the main bio paragraph from About section text."""
     if not about_text or len(about_text) < 30:
         return None
-    bio = about_text.strip()[:2000]
+    bio = _strip_leading_nav_from_bio(about_text.strip()[:2000])
+    if len(bio) < 30:
+        return None
     return _strip_bio_quotes(bio)
 
 
@@ -408,22 +486,66 @@ def _extract_tattooing_since_from_about(about_text: str) -> Optional[str]:
     return None
 
 
+def _dismiss_consent_banner(driver) -> None:
+    """Click the consent/cookie banner button so the page (e.g. About tab) is visible."""
+    try:
+        time.sleep(1)
+        for label in ("consent", "accept", "accept all", "allow all", "i agree", "agree"):
+            try:
+                # Match by element's full text (including descendants)
+                xpath = (
+                    "//button[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '%s')]"
+                    " | //a[contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '%s')]"
+                    " | //*[@role='button'][contains(translate(., 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), '%s')]"
+                ) % (label, label, label)
+                els = driver.find_elements(By.XPATH, xpath)
+                for el in els[:3]:
+                    try:
+                        if el.is_displayed() and el.is_enabled():
+                            driver.execute_script("arguments[0].scrollIntoView({block:'center'});", el)
+                            time.sleep(0.3)
+                            driver.execute_script("arguments[0].click();", el)
+                            time.sleep(2)
+                            return
+                    except Exception:
+                        continue
+            except Exception:
+                continue
+        # Fallback: any button/link whose .text is exactly "Consent"
+        for tag in ("button", "a"):
+            for el in driver.find_elements(By.TAG_NAME, tag):
+                try:
+                    if (el.text or "").strip().lower() == "consent" and el.is_displayed() and el.is_enabled():
+                        driver.execute_script("arguments[0].click();", el)
+                        time.sleep(2)
+                        return
+                except Exception:
+                    continue
+    except Exception:
+        pass
+
+
 def parse_artist_page(
     url: str,
     headless: bool = True,
     max_images: int = 50,
     metadata_only: bool = False,
+    debug: bool = False,
 ) -> Optional[ParsedArtist]:
     """
     Parse a tattooswizard artist page. Returns None if Instagram is not found (skip artist).
     Uses advanced image extraction (scroll + Load More + multi-method) from download_artist.
     If metadata_only=True, skips image extraction (for JSON-only updates).
+    If debug=True, prints intermediate extraction values to stderr.
     """
     driver = None
     try:
         driver = _create_driver(headless=headless)
         driver.get(url)
         time.sleep(random.uniform(4, 6))
+
+        # Dismiss cookie/consent banner so artist content and About tab are visible
+        _dismiss_consent_banner(driver)
 
         # Capture page source for location BEFORE clicking Tattoos (About content in DOM)
         page_source_for_location = driver.page_source
@@ -551,28 +673,67 @@ def parse_artist_page(
             except Exception:
                 pass
 
-        # Styles: extract from header segment while we're still on default tab (Tattoos).
+        # Styles: wait for page to be ready (any of: "add message", Tattoos tab, About tab).
         try:
-            WebDriverWait(driver, 10).until(
-                EC.presence_of_element_located(
-                    (By.XPATH, "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'add message')]")
-                )
-            )
-        except Exception:
-            pass
-        header_styles = _extract_styles_from_dom(driver)
+            def _page_ready(d):
+                if d.find_elements(
+                    By.XPATH,
+                    "//*[contains(translate(text(), 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', 'abcdefghijklmnopqrstuvwxyz'), 'add message')]",
+                ):
+                    return True
+                if d.find_elements(By.PARTIAL_LINK_TEXT, "Tattoos"):
+                    return True
+                if d.find_elements(By.PARTIAL_LINK_TEXT, "About"):
+                    return True
+                return False
 
-        # About text lives on the About tab — click it and read bio
+            WebDriverWait(driver, 15).until(_page_ready)
+            # Give header/style pills time to render (they can load after the tab row)
+            time.sleep(1.5)
+        except Exception as e:
+            if debug:
+                import sys
+                print(f"[DEBUG] Wait failed: {e}", file=sys.stderr)
+            pass
+        header_segment = _get_header_segment_for_styles(driver)
+        header_styles = _extract_styles_from_dom(driver)
+        if debug:
+            import sys
+            body_preview = (driver.find_element(By.TAG_NAME, "body").text or "")[:2000]
+            print(f"[DEBUG] body.text length={len(body_preview)}", file=sys.stderr)
+            print(f"[DEBUG] body.text preview:\n{body_preview!r}", file=sys.stderr)
+            print(f"[DEBUG] header_segment={header_segment!r}", file=sys.stderr)
+            print(f"[DEBUG] header_styles={header_styles}", file=sys.stderr)
+
+        # About text lives on the About tab — must click it to load content
         about_section_text = ""
         try:
-            about_tabs = driver.find_elements(By.PARTIAL_LINK_TEXT, "About")
+            # Dismiss consent again if still visible so About tab is findable/clickable
+            _dismiss_consent_banner(driver)
+            # Prefer the artist tab "About" (exact text), not footer "About Us"
+            about_tabs = driver.find_elements(
+                By.XPATH,
+                "//a[normalize-space(.)='About' or normalize-space(.)='About ']",
+            )
+            if not about_tabs:
+                about_tabs = driver.find_elements(By.PARTIAL_LINK_TEXT, "About")
+            if debug:
+                import sys
+                print(f"[DEBUG] about_tabs count={len(about_tabs)}", file=sys.stderr)
             if about_tabs:
                 driver.execute_script("arguments[0].click();", about_tabs[0])
-                time.sleep(2)
+                time.sleep(3)  # give About panel time to render
                 about_section_text = _get_about_section_text(driver.page_source)
                 if not about_section_text or len(about_section_text) < 50:
                     about_section_text = _get_about_text_via_selenium(driver)
-        except Exception:
+            if debug:
+                import sys
+                print(f"[DEBUG] about_section_text length={len(about_section_text)}", file=sys.stderr)
+                print(f"[DEBUG] about_section_text preview:\n{(about_section_text or '')[:800]!r}", file=sys.stderr)
+        except Exception as e:
+            if debug:
+                import sys
+                print(f"[DEBUG] About section error: {e}", file=sys.stderr)
             pass
 
         # Prefer header pills (they're the visible source of truth); fallback to About text
