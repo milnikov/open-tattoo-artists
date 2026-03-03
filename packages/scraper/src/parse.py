@@ -66,8 +66,15 @@ def _create_driver(headless: bool = True):
     )
     opts.set_capability("goog:loggingPrefs", {"performance": "ALL"})
     if USE_WEBDRIVER_MANAGER:
-        service = Service(ChromeDriverManager().install())
-        return webdriver.Chrome(service=service, options=opts)
+        try:
+            service = Service(ChromeDriverManager().install())
+            return webdriver.Chrome(service=service, options=opts)
+        except Exception as e:
+            # ChromeDriverManager can fail with "File is not a zip file" if CDN returns HTML/error
+            if "zip" in str(e).lower() or "BadZipFile" in type(e).__name__:
+                pass  # fall back to system chromedriver
+            else:
+                raise
     return webdriver.Chrome(options=opts)
 
 
