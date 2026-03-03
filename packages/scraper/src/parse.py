@@ -712,12 +712,22 @@ def parse_artist_page(
             print(f"[DEBUG] header_segment={header_segment!r}", file=sys.stderr)
             print(f"[DEBUG] header_styles={header_styles}", file=sys.stderr)
 
-        # About text lives on the About tab — must click it to load content
+        # Extract images first while still on Tattoos tab. If we click About then "Tattoos"
+        # to come back, PARTIAL_LINK_TEXT "Tattoos" can match the site nav and navigate away,
+        # so scroll/load runs on the wrong page and finds only a few images.
+        image_urls = []
+        if not metadata_only:
+            all_tattoo_ids = scroll_and_load_all(driver)
+            page_source = driver.page_source
+            all_urls = extract_image_urls_comprehensive(driver, page_source, url, all_tattoo_ids)
+            filtered = filter_tattoo_images(all_urls)
+            image_urls = filtered[:max_images]
+            print(f"  📷 Tattoo IDs: {len(all_tattoo_ids)} | Extracted URLs: {len(all_urls)} | Filtered: {len(filtered)} | Using: {len(image_urls)}")
+
+        # About text lives on the About tab — click it after images so we stay on Tattoos for scroll
         about_section_text = ""
         try:
-            # Dismiss consent again if still visible so About tab is findable/clickable
             _dismiss_consent_banner(driver)
-            # Prefer the artist tab "About" (exact text), not footer "About Us"
             about_tabs = driver.find_elements(
                 By.XPATH,
                 "//a[normalize-space(.)='About' or normalize-space(.)='About ']",
@@ -729,7 +739,7 @@ def parse_artist_page(
                 print(f"[DEBUG] about_tabs count={len(about_tabs)}", file=sys.stderr)
             if about_tabs:
                 driver.execute_script("arguments[0].click();", about_tabs[0])
-                time.sleep(3)  # give About panel time to render
+                time.sleep(3)
                 about_section_text = _get_about_section_text(driver.page_source)
                 if not about_section_text or len(about_section_text) < 50:
                     about_section_text = _get_about_text_via_selenium(driver)
@@ -751,14 +761,6 @@ def parse_artist_page(
         bio = _extract_bio_from_about(about_section_text)
         tattooing_since = _extract_tattooing_since_from_about(about_section_text)
 
-        # Now switch to Tattoos tab for image extraction (or just for consistent state)
-        try:
-            tabs = driver.find_elements(By.PARTIAL_LINK_TEXT, "Tattoos")
-            if tabs:
-                tabs[0].click()
-                time.sleep(random.uniform(2, 3))
-        except Exception:
-            pass
         page_source = driver.page_source
 
         # Website
@@ -773,16 +775,6 @@ def parse_artist_page(
                     break
             except Exception:
                 continue
-
-        image_urls = []
-        if not metadata_only:
-            # Image URLs: reuse advanced extraction from download_artist
-            all_tattoo_ids = scroll_and_load_all(driver)
-            page_source = driver.page_source
-            all_urls = extract_image_urls_comprehensive(driver, page_source, url, all_tattoo_ids)
-            filtered = filter_tattoo_images(all_urls)
-            image_urls = filtered[:max_images]
-            print(f"  📷 Tattoo IDs: {len(all_tattoo_ids)} | Extracted URLs: {len(all_urls)} | Filtered: {len(filtered)} | Using: {len(image_urls)}")
 
         return ParsedArtist(
             instagram_url=instagram_url,
