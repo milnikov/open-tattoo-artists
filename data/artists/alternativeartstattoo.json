@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alternativeartstattoo",
+  "name": "Alternative Arts Tattoo",
+  "location": {
+    "city": "Littleton",
+    "country": "United States"
+  },
+  "styles": [
+    "geometric",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alternativeartstattoo",
+    "instagram": "https://www.instagram.com/alternativeartstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativeartstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativeartstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativeartstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativeartstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Welcome to Alternative Arts Tattoo, a renowned ink sanctuary nestled in the heart of Littleton, where creativity blossoms across skin. With 19 years of dedicated service, our collective team - featuring the intricate masterpieces of @tattoosbyfritz, @gyldenspithra, @joshc.art, @hansontattoos, and @davin_m_tattoo - excels in crafting geometric and illustrative tattoos that fuse modern artistry with timeless technique. Step into our new space and let your body be the canvas for bespoke art that reflects your unique story.\nPrice: $\nCurrent location: Littleton, Colorado, United States"
+}

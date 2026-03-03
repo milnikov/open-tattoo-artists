@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alexisholytattoo",
+  "name": "Alexis Zanco",
+  "location": {
+    "city": "Kathu",
+    "country": "Thailand"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alexisholytattoo",
+    "instagram": "https://www.instagram.com/alexisholytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexisholytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexisholytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexisholytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexisholytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Alexis Zanco is a highly skilled tattoo artist specializing in black and gray realism, serving clients in Kathu, Thailand. Adhering to strict hygiene standards, Alexis ensures a clean and professional environment for every client, creating stunning pieces of art in a meticulously clean setting. With a focus on serious appointments, Alexis is dedicated to providing top-quality service and breathtaking ink work.\nPrice: $\nCurrent location: Kathu, Thailand"
+}

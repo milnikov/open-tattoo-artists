@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alcabonestattoo",
+  "name": "Alcabones",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alcabonestattoo",
+    "instagram": "https://www.instagram.com/alcabonestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcabonestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcabonestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcabonestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcabonestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Alcabones is a highly skilled tattoo artist who particularly thrives in black&gray and tribal styles. Widely recognized by a remarkable following of over 56,000 people on Instagram, Alcabones' craftsmanship has certainly gathered a well-deserved, substantial audience. The tagline \"Better Ink. Better Hands.\" further emphasizes the mastery painted by the hands of this artist.\nPrice: $$\nCurrent location:"
+}

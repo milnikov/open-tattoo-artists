@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "alex.ant.tattoo",
+  "name": "Alex Ant",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alex.ant.tattoo",
+    "instagram": "https://www.instagram.com/alex.ant.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.ant.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.ant.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.ant.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.ant.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Alex Ant is a highly skilled tattoo artist specializing in black & gray, realism, and trashpolka styles. Based in Tallinn, Estonia, Alex's commitment to their craft is evident in the stunning detail and artistry of their work. They create mesmerizing tattoos that capture the essence of their subjects, ensuring each piece is a unique masterpiece that reflects their professionalism and dedication to the art form.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "amandaslatertattoo",
+  "name": "Amanda Slater",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/amandaslatertattoo",
+    "instagram": "https://www.instagram.com/amandaslatertattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaslatertattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaslatertattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaslatertattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaslatertattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Amanda Slater is a highly-skilled tattoo artist specializing in traditional and neotraditional styles. Working meticulously from Lakeside Tattoo Co., Richmond, VA, she maintains the utmost cleanliness and professionalism. She is approachable and friendly, but all inquiries need to be made through the provided phone number as she refrains from answering DMs.\nPrice: $$\nCurrent location:"
+}

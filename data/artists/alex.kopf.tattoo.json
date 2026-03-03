@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "alex.kopf.tattoo",
+  "name": "Alex Kopf",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alex.kopf.tattoo",
+    "instagram": "https://www.instagram.com/alex.kopf.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.kopf.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.kopf.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.kopf.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.kopf.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Alex Kopf is a highly skilled tattoo artist renowned for their mastery in black and gray realism. Each piece crafted by Alex is characterized by impeccable detail and individuality, capturing the essence of their client's vision with perfection. Operating out of Forchtenberg on Ziegelsteige 21, Alex maintains a reputation for delivering tattoos that are not only visually stunning but also meticulously executed, making them a sought-after artist for anyone desiring top-tier realistic ink.\nPrice: $\nCurrent location:"
+}

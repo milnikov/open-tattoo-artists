@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "amlgm_tattoo",
+  "name": "Zoia Eclair",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/amlgm_tattoo",
+    "instagram": "https://www.instagram.com/amlgm_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amlgm_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amlgm_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amlgm_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amlgm_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Zoia Eclair is a masterful tattoo artist specializing in fineline and floral designs, with a portfolio that boasts an exquisite blend of modern mythlore, linework, dotwork, and graphic artistry. Her dedication to professionalism is not only evident in the individualized care and development she puts into each design, but also in the warm welcoming she extends to all inquiries, inviting clients to discuss ideas directly with her. With Zoia, you can expect a collaborative and highly professional tattooing experience tailored to your unique vision.\nPrice: $\nCurrent location:"
+}
