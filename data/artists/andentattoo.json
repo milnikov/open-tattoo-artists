@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "andentattoo",
+  "name": "Jorga Cal Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "geometric",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/andentattoo",
+    "instagram": "https://www.instagram.com/andentattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andentattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andentattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andentattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andentattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-04",
+  "bio": "Artists\nSuppliers\nAbout\nAt Jorga Cal Tattoo, discover an artistic haven nestled in Arteixo, A Coruña, where creativity meets precision. Specializing in illustrative, geometric, and dotwork tattoos, our expert artists — @dirtyrags_ and @jorgacaltattoo — transform your ideas into stunning body art. Book your session with us via direct message and embark on a journey of self-expression like no other.\nPrice: $\nCurrent location:"
+}

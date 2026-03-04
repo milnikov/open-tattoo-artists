@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "aloha_tattoo_karlsruhe",
+  "name": "Daniel Pavlik",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aloha_tattoo_karlsruhe",
+    "instagram": "https://www.instagram.com/aloha_tattoo_karlsruhe/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloha_tattoo_karlsruhe/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloha_tattoo_karlsruhe/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloha_tattoo_karlsruhe/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloha_tattoo_karlsruhe/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-04",
+  "bio": "Daniel Pavlik is a highly skilled tattoo artist specializing in tribal designs, seamlessly blending traditional patterns with contemporary trends to create stunning body art. His work stands out for its crisp lines and intricate details, earning him a reputation for excellence in his craft. Clients also consistently praise Daniel's professionalism, ensuring a smooth, respectful, and thoroughly satisfying tattooing experience.\nPrice: $\nCurrent location:"
+}

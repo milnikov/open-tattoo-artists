@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "alteregotattoos",
+  "name": "Randy Johnson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alteregotattoos",
+    "instagram": "https://www.instagram.com/alteregotattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alteregotattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alteregotattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alteregotattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alteregotattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-04",
+  "bio": "Randy Johnson is an illustrative tattoo artist renowned for their meticulous attention to detail and vivid designs. They maintain a workspace that exemplifies strict cleanliness standards, ensuring a hygienic environment for every client's comfort and safety. Randy's commitment to sanitation is matched only by their artistic talent, making them a sought-after tattooist for enthusiasts of the illustrative style.\nPrice: $\nCurrent location:"
+}

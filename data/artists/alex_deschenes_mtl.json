@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "alex_deschenes_mtl",
+  "name": "Alex Deschenes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alex_deschenes_mtl",
+    "instagram": "https://www.instagram.com/alex_deschenes_mtl/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_deschenes_mtl/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_deschenes_mtl/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_deschenes_mtl/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_deschenes_mtl/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-03",
+  "bio": "Alex Deschenes is a highly skilled tattoo artist with a specialization in black & gray styles. Known for the impeccable cleanliness in his work and studio, his attention to detail is appreciated by his clients across languages including French, English, and Italian. This combined with his professionalism in punctuality and communications keeps his bookings always filled.\nPrice: $$\nCurrent location:"
+}

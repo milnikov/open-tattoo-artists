@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "alexandremoisestattoo",
+  "name": "Alexandre Moises",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/alexandremoisestattoo",
+    "instagram": "https://www.instagram.com/alexandremoisestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexandremoisestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexandremoisestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexandremoisestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexandremoisestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-04",
+  "bio": "Alexandre Moises is a highly skilled tattoo artist with a wealth of 19 years of experience in the field. He specializes in realism, particularly portraits and intricate pieces, utilizing high-quality tools such as those sponsored by Bluebird Needles. His dedication to his craft is showcased in every piece, reflecting the extensive career that made him an expert in his style.\nPrice: $$\nCurrent location:"
+}
