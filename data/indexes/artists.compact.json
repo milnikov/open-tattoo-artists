@@ -87,23 +87,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1001troublestattoo/thumb/001.webp"
   },
   {
-    "id": "108tattoostudio",
-    "name": "108 Tattoo Studio",
-    "location": {
-      "city": "Arnhem",
-      "country": "Netherlands"
-    },
-    "styles": [
-      "fineline",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/108tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/108tattoostudio/thumb/001.webp"
-  },
-  {
     "id": "10kf_hollywood",
     "name": "10Kf Hollywood",
     "location": {
@@ -122,23 +105,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/10kf_hollywood/thumb/001.webp"
   },
   {
-    "id": "111artsgallery",
-    "name": "111ArtsGallery",
-    "location": {
-      "city": "Muncie",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/111artsgallery/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/111artsgallery/thumb/001.webp"
-  },
-  {
     "id": "12monkeystattoos",
     "name": "12 Monkeys Tattoo",
     "location": {
@@ -155,23 +121,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12monkeystattoos/thumb/001.webp"
-  },
-  {
-    "id": "12thdynastytattoostudio",
-    "name": "12th Dynasty Tattoo Studio",
-    "location": {
-      "city": "Swindon",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "traditional",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/12thdynastytattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thdynastytattoostudio/thumb/001.webp"
   },
   {
     "id": "13tattoopl",
@@ -222,25 +171,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/174tattoo/thumb/001.webp"
   },
   {
-    "id": "1807artcollective",
-    "name": "1807 Art Collective",
-    "location": {
-      "city": "Elyria",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "traditional",
-      "black&gray",
-      "coverup"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/1807artcollective/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1807artcollective/thumb/001.webp"
-  },
-  {
     "id": "1819tattooco",
     "name": "1819 Tattoo Co",
     "location": {
@@ -271,40 +201,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1920.tattoo/thumb/001.webp"
-  },
-  {
-    "id": "1984.studios",
-    "name": "1984 Tattoo & Piercing",
-    "location": {
-      "city": "Hanoi",
-      "country": "Vietnam"
-    },
-    "styles": [
-      "black&gray",
-      "geometric",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/1984.studios/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1984.studios/thumb/001.webp"
-  },
-  {
-    "id": "1995tattoostudio",
-    "name": "1995 Tattoo Studio",
-    "location": {
-      "city": "Bradford",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/1995tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1995tattoostudio/thumb/001.webp"
   },
   {
     "id": "1eleventattoo",
@@ -373,22 +269,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/2extremetattoos/thumb/001.webp"
   },
   {
-    "id": "2tongallery",
-    "name": "2 Ton Tattoo Gallery",
-    "location": {
-      "city": "Kingsport",
-      "country": "United States"
-    },
-    "styles": [
-      "trashpolka"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/2tongallery/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/2tongallery/thumb/001.webp"
-  },
-  {
     "id": "2crows_tattoo",
     "name": "2-Crows",
     "location": {
@@ -443,41 +323,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/21x29.7/thumb/001.webp"
   },
   {
-    "id": "24_tattoo_studio",
-    "name": "24 Tattoo Studio",
-    "location": {
-      "city": "Cuneo",
-      "country": "Italy"
-    },
-    "styles": [
-      "black&gray",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/24_tattoo_studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/24_tattoo_studio/thumb/001.webp"
-  },
-  {
-    "id": "27tattoostudio_phx",
-    "name": "27 Tattoo Studio",
-    "location": {
-      "city": "Phoenix",
-      "country": "United States"
-    },
-    "styles": [
-      "dotwork",
-      "fineline",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/27tattoostudio_phx/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/27tattoostudio_phx/thumb/001.webp"
-  },
-  {
     "id": "2ndskintattoo",
     "name": "2nd Skin Tattoo",
     "location": {
@@ -527,24 +372,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/2tereihe/thumb/001.webp"
-  },
-  {
-    "id": "3acestattoostudio",
-    "name": "3 Aces Tattoo",
-    "location": {
-      "city": "Columbia",
-      "country": "United States"
-    },
-    "styles": [
-      "trashpolka",
-      "watercolor",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/3acestattoostudio/"
-    },
-    "tattoo_count": 7,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3acestattoostudio/thumb/001.webp"
   },
   {
     "id": "3daggerstattoopb",
@@ -787,22 +614,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/570tattooingco/thumb/001.webp"
   },
   {
-    "id": "57thdoortattoostudio",
-    "name": "57th Door Tattoo Studio",
-    "location": {
-      "city": "Camberley",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/57thdoortattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/57thdoortattoostudio/thumb/001.webp"
-  },
-  {
     "id": "6skullsnyc",
     "name": "6 Skulls",
     "location": {
@@ -853,41 +664,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/7_sins_tattoo/thumb/001.webp"
-  },
-  {
-    "id": "7sinstattoostudio",
-    "name": "7 Sins Tattoo Studio",
-    "location": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/7sinstattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/7sinstattoostudio/thumb/001.webp"
-  },
-  {
-    "id": "7tattoogallery",
-    "name": "7 Tattoo Gallery",
-    "location": {
-      "city": "Newark",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "dotwork",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/7tattoogallery/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/7tattoogallery/thumb/001.webp"
   },
   {
     "id": "713tattoo",
@@ -996,24 +772,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/777tigre/thumb/001.webp"
   },
   {
-    "id": "7787_parlor_tattoo_heidelsheim",
-    "name": "7787 Parlor Tattoo",
-    "location": {
-      "city": "Bruchsal",
-      "country": "Germany"
-    },
-    "styles": [
-      "trashpolka",
-      "black&gray",
-      "lettering"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/7787_parlor_tattoo_heidelsheim/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/7787_parlor_tattoo_heidelsheim/thumb/001.webp"
-  },
-  {
     "id": "7siegeltattoo",
     "name": "7SIEGEL TATTOO ATELIER",
     "location": {
@@ -1080,23 +838,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/8_point/thumb/001.webp"
-  },
-  {
-    "id": "9livestattoostudiomi",
-    "name": "9 Lives Tattoo Studio Mi",
-    "location": {
-      "city": "Ferndale",
-      "country": "United States"
-    },
-    "styles": [
-      "floral",
-      "dotwork"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/9livestattoostudiomi/"
-    },
-    "tattoo_count": 5,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/9livestattoostudiomi/thumb/001.webp"
   },
   {
     "id": "90milestattoos",
@@ -1219,23 +960,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/9rukim/thumb/001.webp"
-  },
-  {
-    "id": "9threalmgallery",
-    "name": "9th Realm Gallery",
-    "location": {
-      "city": "Salem",
-      "country": "United States"
-    },
-    "styles": [
-      "newschool",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/9threalmgallery/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/9threalmgallery/thumb/001.webp"
   },
   {
     "id": "analoguedisaster",
@@ -2797,24 +2521,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ad_infinitum_tattoo/thumb/001.webp"
   },
   {
-    "id": "adpancho_tattoostudio",
-    "name": "AD Pancho",
-    "location": {
-      "city": "Utrecht",
-      "country": "Netherlands"
-    },
-    "styles": [
-      "newschool",
-      "realism",
-      "watercolor"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/adpancho_tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adpancho_tattoostudio/thumb/001.webp"
-  },
-  {
     "id": "adtattoos",
     "name": "AD Tattoos",
     "location": {
@@ -3921,24 +3627,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adisontattoos/thumb/001.webp"
-  },
-  {
-    "id": "admiraaltattoostudio",
-    "name": "Admiraal Tattoo Studio",
-    "location": {
-      "city": "Amsterdam",
-      "country": "Netherlands"
-    },
-    "styles": [
-      "japanese",
-      "traditional",
-      "tribal"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/admiraaltattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/admiraaltattoostudio/thumb/001.webp"
   },
   {
     "id": "admiral_solid",
@@ -5074,23 +4762,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afterinked/thumb/001.webp"
   },
   {
-    "id": "afterlifetattoostudio",
-    "name": "Afterlife Tattoo Studio",
-    "location": {
-      "city": "Springfield",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/afterlifetattoostudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/afterlifetattoostudio/thumb/001.webp"
-  },
-  {
     "id": "agarutattoos",
     "name": "Agaru Tattoo & Body Piercing",
     "location": {
@@ -5276,24 +4947,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agnytattoo/thumb/001.webp"
-  },
-  {
-    "id": "agotattooartstudio",
-    "name": "Ago Tattoo Art Studio",
-    "location": {
-      "city": "Brusciano",
-      "country": "Italy"
-    },
-    "styles": [
-      "lettering",
-      "fineline",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/agotattooartstudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agotattooartstudio/thumb/001.webp"
   },
   {
     "id": "agungbaguss__",
@@ -7040,23 +6693,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcabonestattoo/thumb/001.webp"
   },
   {
-    "id": "alcateia_estudio",
-    "name": "Alcateia Estudio",
-    "location": {
-      "city": "Anápolis",
-      "country": "Brazil"
-    },
-    "styles": [
-      "minimalist",
-      "lettering"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alcateia_estudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcateia_estudio/thumb/001.webp"
-  },
-  {
     "id": "alcaterin.tattoo",
     "name": "Alcaterin Tattoo",
     "location": {
@@ -7161,24 +6797,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemytattoomelbourne/thumb/001.webp"
   },
   {
-    "id": "alchemymooncollective",
-    "name": "Alchemy Moon Tattoo Collective",
-    "location": {
-      "city": "Tamworth",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "floral",
-      "illustrative",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alchemymooncollective/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemymooncollective/thumb/001.webp"
-  },
-  {
     "id": "alchemynashville",
     "name": "Alchemy Nashville",
     "location": {
@@ -7211,23 +6829,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemytattoo/thumb/001.webp"
-  },
-  {
-    "id": "alchemytattoocollective",
-    "name": "Alchemy Tattoo Collective",
-    "location": {
-      "city": "St Louis",
-      "country": "United States"
-    },
-    "styles": [
-      "floral",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alchemytattoocollective/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemytattoocollective/thumb/001.webp"
   },
   {
     "id": "aldair_bajana",
@@ -8542,20 +8143,6 @@
     },
     "tattoo_count": 5,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexchiongtattoo/thumb/001.webp"
-  },
-  {
-    "id": "alexchiongtattoostudio",
-    "name": "Alex Chiong Tattoo Studio",
-    "location": {
-      "city": "North Miami",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/alexchiongtattoostudio/"
-    },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexchiongtattoostudio/thumb/001.webp"
   },
   {
     "id": "alexcioppitattoos",
@@ -11079,24 +10666,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allintattooandpiercing/thumb/001.webp"
   },
   {
-    "id": "allsacredtattooparlour",
-    "name": "All Sacred Tattoo Parlour",
-    "location": {
-      "city": "Ely",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray",
-      "watercolor",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allsacredtattooparlour/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allsacredtattooparlour/thumb/001.webp"
-  },
-  {
     "id": "allsacredtattoo",
     "name": "All Sacred Tattoo Shop",
     "location": {
@@ -12418,24 +11987,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaslatertattoo/thumb/001.webp"
   },
   {
-    "id": "aceshightattoostudiohull",
-    "name": "Amanda Spry",
-    "location": {
-      "city": "Hull",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "trashpolka",
-      "geometric",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/aceshightattoostudiohull/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceshightattoostudiohull/thumb/001.webp"
-  },
-  {
     "id": "amandatoy",
     "name": "Amanda Toy",
     "location": {
@@ -12708,23 +12259,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ambrosetat267/thumb/001.webp"
   },
   {
-    "id": "amctattoostudioffm",
-    "name": "AMC Tattoo Studio",
-    "location": {
-      "city": "Frankfurt",
-      "country": "Germany"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amctattoostudioffm/"
-    },
-    "tattoo_count": 17,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amctattoostudioffm/thumb/001.webp"
-  },
-  {
     "id": "ame__tattoo",
     "name": "Ame Tattoo",
     "location": {
@@ -12777,22 +12311,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ameliawhitneytattooer/thumb/001.webp"
-  },
-  {
-    "id": "ameste.tattooshop.caen",
-    "name": "Amelie G",
-    "location": {
-      "city": "Bretteville-sur-odon",
-      "country": "France"
-    },
-    "styles": [
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/ameste.tattooshop.caen/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ameste.tattooshop.caen/thumb/001.webp"
   },
   {
     "id": "americasbesttattoos",
@@ -12917,40 +12435,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americantattoovista/thumb/001.webp"
-  },
-  {
-    "id": "americantattoostudio",
-    "name": "American Tattoo Studio",
-    "location": {
-      "city": "Knoxville",
-      "country": "United States"
-    },
-    "styles": [
-      "dotwork"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/americantattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americantattoostudio/thumb/001.webp"
-  },
-  {
-    "id": "americantattoostudios",
-    "name": "American Tattoo Studios",
-    "location": {
-      "city": "Lakewood",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "dotwork",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/americantattoostudios/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americantattoostudios/thumb/001.webp"
   },
   {
     "id": "americana_tattoo_co",
@@ -13103,24 +12587,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/001.webp"
-  },
-  {
-    "id": "amit_thetattooshopnewdelhi",
-    "name": "Amit Sethi",
-    "location": {
-      "city": "Delhi",
-      "country": "India"
-    },
-    "styles": [
-      "minimalist",
-      "fineline",
-      "watercolor"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amit_thetattooshopnewdelhi/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amit_thetattooshopnewdelhi/thumb/001.webp"
   },
   {
     "id": "ammartattoo",
@@ -13828,24 +13294,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ananda_tattooartist/thumb/001.webp"
-  },
-  {
-    "id": "anarchytattoostudios",
-    "name": "Anarchy Tattoo Studios",
-    "location": {
-      "city": "Bronx",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "neotraditional",
-      "newschool"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/anarchytattoostudios/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anarchytattoostudios/thumb/001.webp"
   },
   {
     "id": "anastasia_dadeyeva",
@@ -15592,24 +15040,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andremartinsarts/thumb/001.webp"
   },
   {
-    "id": "adna_tattoo_studio",
-    "name": "Andrina",
-    "location": {
-      "city": "Chatou",
-      "country": "France"
-    },
-    "styles": [
-      "floral",
-      "fineline",
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/adna_tattoo_studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adna_tattoo_studio/thumb/001.webp"
-  },
-  {
     "id": "andrina_aline",
     "name": "Andrina Mehr",
     "location": {
@@ -15626,40 +15056,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrina_aline/thumb/001.webp"
-  },
-  {
-    "id": "androide_tattoo_studio",
-    "name": "Androide Tattoo Studio",
-    "location": {
-      "city": "Missouri City",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/androide_tattoo_studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/androide_tattoo_studio/thumb/001.webp"
-  },
-  {
-    "id": "andromeda.tattoo.studio",
-    "name": "Andromeda Tattoo Studio",
-    "location": {
-      "city": "Media",
-      "country": "United States"
-    },
-    "styles": [
-      "floral",
-      "illustrative",
-      "neotraditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andromeda.tattoo.studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andromeda.tattoo.studio/thumb/001.webp"
   },
   {
     "id": "abkillem13",
@@ -16533,24 +15929,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anny_anarchy/thumb/001.webp"
-  },
-  {
-    "id": "annytattoostudio",
-    "name": "Anny Tattoo",
-    "location": {
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    "styles": [
-      "watercolor",
-      "illustrative",
-      "coverup"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/annytattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/annytattoostudio/thumb/001.webp"
   },
   {
     "id": "anomaly_paris",
@@ -17522,24 +16900,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ap_inkk/thumb/001.webp"
   },
   {
-    "id": "ap.tattoostudio",
-    "name": "AP Tattoo Studio",
-    "location": {
-      "city": "Sao Paulo",
-      "country": "Brazil"
-    },
-    "styles": [
-      "fineline",
-      "minimalist",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/ap.tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ap.tattoostudio/thumb/001.webp"
-  },
-  {
     "id": "apellestattoo",
     "name": "Apelles Tattoo",
     "location": {
@@ -18004,24 +17364,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/art_club_tattoo/thumb/001.webp"
   },
   {
-    "id": "art_collective_augusta",
-    "name": "Art Collective Augusta",
-    "location": {
-      "city": "Augusta",
-      "country": "United States"
-    },
-    "styles": [
-      "neotraditional",
-      "trashpolka",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/art_collective_augusta/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/art_collective_augusta/thumb/001.webp"
-  },
-  {
     "id": "artcollectortattoo",
     "name": "Art Collector Tattoo Shop",
     "location": {
@@ -18055,23 +17397,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfink/thumb/001.webp"
   },
   {
-    "id": "artflowtattoostudio",
-    "name": "Art Flow Tattoo Studio",
-    "location": {
-      "city": "Santa Maria",
-      "country": "Brazil"
-    },
-    "styles": [
-      "black&gray",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/artflowtattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artflowtattoostudio/thumb/001.webp"
-  },
-  {
     "id": "artforcetattoo",
     "name": "Art Force Tattoo",
     "location": {
@@ -18103,24 +17428,6 @@
     },
     "tattoo_count": 18,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfusion13doncaster/thumb/001.webp"
-  },
-  {
-    "id": "artgallerytattoos",
-    "name": "Art Gallery Tattoos",
-    "location": {
-      "city": "Colorado Springs",
-      "country": "United States"
-    },
-    "styles": [
-      "watercolor",
-      "black&gray",
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/artgallerytattoos/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artgallerytattoos/thumb/001.webp"
   },
   {
     "id": "art_of_pain_tattoo",
@@ -18364,24 +17671,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artemistattoos/thumb/001.webp"
   },
   {
-    "id": "artemis_tattoo_studio",
-    "name": "Artemis Tattoo Studio",
-    "location": {
-      "city": "Manchester",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray",
-      "newschool",
-      "trashpolka"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/artemis_tattoo_studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artemis_tattoo_studio/thumb/001.webp"
-  },
-  {
     "id": "artemyatattoo",
     "name": "Artemya Tattoo",
     "location": {
@@ -18620,24 +17909,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.s.o_tattoo_artist/thumb/001.webp"
-  },
-  {
-    "id": "artcore_tattoo_studios",
-    "name": "Atom Artcore",
-    "location": {
-      "city": "Seattle",
-      "country": "United States"
-    },
-    "styles": [
-      "newschool",
-      "black&gray",
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/artcore_tattoo_studios/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artcore_tattoo_studios/thumb/001.webp"
   },
   {
     "id": "afdestin",
@@ -18917,24 +18188,6 @@
     },
     "tattoo_count": 17,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_billy_blue_tattoo/thumb/001.webp"
-  },
-  {
-    "id": "083tattoostudio",
-    "name": "Binhor",
-    "location": {
-      "city": "Campina Grande",
-      "country": "Brazil"
-    },
-    "styles": [
-      "minimalist",
-      "floral",
-      "lettering"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/083tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/083tattoostudio/thumb/001.webp"
   },
   {
     "id": "_blacksanchez_",
@@ -19875,23 +19128,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/001.webp"
   },
   {
-    "id": "artafflictionstudio",
-    "name": "Divine Chaos Tattoo",
-    "location": {
-      "city": "Rochester",
-      "country": "United States"
-    },
-    "styles": [
-      "newschool",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/artafflictionstudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artafflictionstudio/thumb/001.webp"
-  },
-  {
     "id": "_dr_woo_",
     "name": "Doctor Woo",
     "location": {
@@ -20301,24 +19537,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/__eskey__/thumb/001.webp"
   },
   {
-    "id": "almadartestudio",
-    "name": "Estevão & Thaís",
-    "location": {
-      "city": "João Pessoa",
-      "country": "Brazil"
-    },
-    "styles": [
-      "minimalist",
-      "fineline",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/almadartestudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almadartestudio/thumb/001.webp"
-  },
-  {
     "id": "_esthart_",
     "name": "Esther Hernandez",
     "location": {
@@ -20353,23 +19571,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_volaverunt_/thumb/001.webp"
-  },
-  {
-    "id": "_estudioluz",
-    "name": "Estudio Luz",
-    "location": {
-      "city": "Nova Iguaçu",
-      "country": "Brazil"
-    },
-    "styles": [
-      "fineline",
-      "anime"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_estudioluz/"
-    },
-    "tattoo_count": 20,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_estudioluz/thumb/001.webp"
   },
   {
     "id": "artandsuchevan",
@@ -20759,23 +19960,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_harrymckenzie/thumb/001.webp"
   },
   {
-    "id": "actilustattoostudio",
-    "name": "Henrique Carmo",
-    "location": {
-      "city": "Figueira Da Foz",
-      "country": "Portugal"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/actilustattoostudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/actilustattoostudio/thumb/001.webp"
-  },
-  {
     "id": "arrrizu",
     "name": "Hrafn",
     "location": {
@@ -21002,41 +20186,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alabama.tattoo/thumb/001.webp"
   },
   {
-    "id": "1977tattooparlourmadrid",
-    "name": "JDom Tattooer",
-    "location": {
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "dotwork"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/1977tattooparlourmadrid/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1977tattooparlourmadrid/thumb/001.webp"
-  },
-  {
-    "id": "_styletattoostudio",
-    "name": "Jenni Benke",
-    "location": {
-      "city": "Porto Alegre",
-      "country": "Brazil"
-    },
-    "styles": [
-      "lettering",
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_styletattoostudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_styletattoostudio/thumb/001.webp"
-  },
-  {
     "id": "3rdlayertattoo",
     "name": "Jeremy Misery",
     "location": {
@@ -21140,23 +20289,6 @@
     },
     "tattoo_count": 33,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/addictionartsociety/thumb/001.webp"
-  },
-  {
-    "id": "_luxurytattoostudio",
-    "name": "Johan Tatts",
-    "location": {
-      "city": "Fontana",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_luxurytattoostudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luxurytattoostudio/thumb/001.webp"
   },
   {
     "id": "alohasaltlaketattoos",
@@ -21328,23 +20460,6 @@
     },
     "tattoo_count": 47,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alves_ak/thumb/001.webp"
-  },
-  {
-    "id": "alliancetattoostudio",
-    "name": "Juan",
-    "location": {
-      "city": "New Braunfels",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alliancetattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alliancetattoostudio/thumb/001.webp"
   },
   {
     "id": "adictos_a_los_tatuajes",
@@ -21851,22 +20966,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_leestewart/thumb/001.webp"
   },
   {
-    "id": "92prooftattoostudio",
-    "name": "LeMoore",
-    "location": {
-      "city": "Hanford",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/92prooftattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/92prooftattoostudio/thumb/001.webp"
-  },
-  {
     "id": "artefactotattoo",
     "name": "Leticia Molera Vasquez",
     "location": {
@@ -22005,24 +21104,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amuleto_ritual_tattoo/thumb/001.webp"
   },
   {
-    "id": "064tattoostudio",
-    "name": "Luis Escobar",
-    "location": {
-      "city": "Guatemala",
-      "country": "Guatemala"
-    },
-    "styles": [
-      "minimalist",
-      "lettering",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/064tattoostudio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/064tattoostudio/thumb/001.webp"
-  },
-  {
     "id": "_luiztattooart",
     "name": "Luiz",
     "location": {
@@ -22074,22 +21155,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alunar.ink/thumb/001.webp"
-  },
-  {
-    "id": "_lunacollective_",
-    "name": "Luna Collective",
-    "location": {
-      "city": "Nottingham",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_lunacollective_/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_lunacollective_/thumb/001.webp"
   },
   {
     "id": "arteluvita",
@@ -22159,25 +21224,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_m4rchi_/thumb/001.webp"
-  },
-  {
-    "id": "art_de_pique_tattoo_studio",
-    "name": "Marco",
-    "location": {
-      "city": "Toulouse",
-      "country": "France"
-    },
-    "styles": [
-      "fineline",
-      "floral",
-      "dotwork",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/art_de_pique_tattoo_studio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/art_de_pique_tattoo_studio/thumb/001.webp"
   },
   {
     "id": "andrezzotattoo",
@@ -22572,24 +21618,6 @@
     },
     "tattoo_count": 50,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/001.webp"
-  },
-  {
-    "id": "aizkoratattooshop",
-    "name": "Mikel Edorta",
-    "location": {
-      "city": "Pamplona",
-      "country": "Spain"
-    },
-    "styles": [
-      "traditional",
-      "japanese",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/aizkoratattooshop/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aizkoratattooshop/thumb/001.webp"
   },
   {
     "id": "ainguratattoo",
@@ -24661,23 +23689,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/addicted_ttatto/thumb/001.webp"
   },
   {
-    "id": "7.90studio",
-    "name": "Tayeh",
-    "location": {
-      "city": "Bogota",
-      "country": "Colombia"
-    },
-    "styles": [
-      "fineline",
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/7.90studio/"
-    },
-    "tattoo_count": 24,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/7.90studio/thumb/001.webp"
-  },
-  {
     "id": "_tazmaya_",
     "name": "Taz Maya",
     "location": {
@@ -24694,59 +23705,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tazmaya_/thumb/001.webp"
-  },
-  {
-    "id": "848_studio",
-    "name": "Tebori",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "black&gray",
-      "fineline",
-      "japanese"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/848_studio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/848_studio/thumb/001.webp"
-  },
-  {
-    "id": "ak88tattoostudio",
-    "name": "Templo del SOL AK88",
-    "location": {
-      "city": "Santa Coloma De Gramenet",
-      "country": "Spain"
-    },
-    "styles": [
-      "black&gray",
-      "realism",
-      "dotwork"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/ak88tattoostudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak88tattoostudio/thumb/001.webp"
-  },
-  {
-    "id": "_theblackrosestudio_",
-    "name": "The Black Rose Studio",
-    "location": {
-      "city": "Mansfield",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_theblackrosestudio_/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_theblackrosestudio_/thumb/001.webp"
   },
   {
     "id": "anchorsaweightattoo",
@@ -24917,22 +23875,6 @@
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_zerotattoo/thumb/001.webp"
   },
   {
-    "id": "3p_dtos_studio",
-    "name": "Trip Dtos",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/3p_dtos_studio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3p_dtos_studio/thumb/001.webp"
-  },
-  {
     "id": "ak_tuan_vo",
     "name": "Tuan Vo",
     "location": {
@@ -25088,24 +24030,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artgusev55/thumb/001.webp"
-  },
-  {
-    "id": "_venusestudio",
-    "name": "Vênus Tattoo",
-    "location": {
-      "city": "Campina Grande",
-      "country": "Brazil"
-    },
-    "styles": [
-      "minimalist",
-      "fineline",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_venusestudio/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_venusestudio/thumb/001.webp"
   },
   {
     "id": "aldatat2",
@@ -25309,23 +24233,6 @@
     },
     "tattoo_count": 2,
     "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_heartlesstattoos/thumb/001.webp"
-  },
-  {
-    "id": "_luna_studios_",
-    "name": "Zoe",
-    "location": {
-      "city": "Prudhoe",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "black&gray",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/_luna_studios_/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_luna_studios_/thumb/001.webp"
   },
   {
     "id": "__zoefox__",
