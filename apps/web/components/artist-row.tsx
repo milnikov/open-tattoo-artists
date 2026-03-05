@@ -39,7 +39,7 @@ export function ArtistRow({
   const hasCity = !!artist.location.city;
   const hasCountry = !!artist.location.country;
   const thumbs =
-    artist.thumbs?.length > 0
+    (artist.thumbs?.length ?? 0) > 0
       ? artist.thumbs
       : artist.thumb
         ? [artist.thumb]
