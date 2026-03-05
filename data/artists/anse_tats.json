@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "anse_tats",
+  "name": "Anse Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/anse_tats",
+    "instagram": "https://www.instagram.com/anse_tats/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anse_tats/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anse_tats/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anse_tats/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anse_tats/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-04",
+  "bio": "Anse Tattooer is a highly skilled artist renowned for crafting intricate tribal and geometric tattoos. Their professionalism is evident in every line and curve, ensuring that each piece is a stunning example of their talent and dedication to the craft. Working out of Mork Tattoo Studio in Italy, Anse's artwork truly speaks for itself, leaving clients with unique and mesmerizing body art.\nPrice: $\nCurrent location:"
+}

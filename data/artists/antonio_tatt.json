@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "antonio_tatt",
+  "name": "Antonio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "black&gray",
+    "japanese",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/antonio_tatt",
+    "instagram": "https://www.instagram.com/antonio_tatt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/antonio_tatt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/antonio_tatt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/antonio_tatt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/antonio_tatt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Antonio is a highly skilled tattoo artist, specializing in unique styles such as trashpolka, black&gray, Japanese, and coverup tattoos. With an impressive portfolio under his belt, he showcases his exceptional mastery through each meticulously crafted piece. You can book an appointment with Antonio for April-September 2023 via his website or by email at tattbyantonio@gmail.com.\nPrice: $$\nCurrent location:"
+}

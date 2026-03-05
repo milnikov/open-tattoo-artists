@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "anthony_tatoueur",
+  "name": "Anthony",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/anthony_tatoueur",
+    "instagram": "https://www.instagram.com/anthony_tatoueur/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthony_tatoueur/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthony_tatoueur/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthony_tatoueur/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthony_tatoueur/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Anthony from One Flame Tattoo is renowned for his exceptional skill level, particularly in the unique styles of black & gray, trashpolka, and realism. His work is a testament to his artistic ability, seamlessly blending intricate details with bold contrasts to create tattoos that are both striking and lifelike. Clients flock to his private shop in Aix-les-Bains, Savoie, to experience the artistry that Anthony brings to the world of ink.\nPrice: $\nCurrent location:"
+}

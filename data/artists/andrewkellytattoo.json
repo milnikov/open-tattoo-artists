@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "andrewkellytattoo",
+  "name": "Andrew Kelly",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/andrewkellytattoo",
+    "instagram": "https://www.instagram.com/andrewkellytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewkellytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewkellytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewkellytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewkellytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Andrew Kelly is a highly skilled tattoo artist specializing in the distinct black & gray and trash polka styles. As the owner of Gypsy Blood Tattoo, Andrew ensures the studio adheres to the highest standards of cleanliness, providing clients with a safe and hygienic environment for their ink. His attention to detail and unwavering commitment to sanitation makes him a trusted name in the tattoo community.\nPrice: $\nCurrent location:"
+}

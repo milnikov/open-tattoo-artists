@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "artfink",
+  "name": "Art Fink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artfink",
+    "instagram": "https://www.instagram.com/artfink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artfink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Art Fink is a highly skilled tattoo artist specializing in the distinctive 'newschool' and 'illustrative' styles. His creativity takes inspiration from monster movies, which clearly reflects in his exceptional and unique designs. Offering a unique perspective on the art of tattooing, his work can be further admired on his companion profile, @artfinks_cabinet_of_wonders.\nPrice: $$\nCurrent location:"
+}
