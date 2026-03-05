@@ -32,6 +32,11 @@ export default async function ArtistPage({ params }: { params: { id: string } })
             Styles: {artist.styles.join(", ")}
           </p>
         )}
+        {artist.bio && (
+          <div className="mt-3 text-gray-600 text-sm whitespace-pre-line max-w-2xl">
+            {artist.bio.replace(/\nPrice:[\s\S]*$/, "").trim()}
+          </div>
+        )}
         <div className="flex gap-4 mt-4">
           <a
             href={artist.links.instagram}
@@ -41,26 +46,6 @@ export default async function ArtistPage({ params }: { params: { id: string } })
           >
             Instagram
           </a>
-          {artist.links.website && (
-            <a
-              href={artist.links.website}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-blue-600 hover:underline"
-            >
-              Website
-            </a>
-          )}
-          {artist.links.source && (
-            <a
-              href={artist.links.source}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-500 text-sm hover:underline"
-            >
-              Source
-            </a>
-          )}
         </div>
         <div className="mt-4 flex flex-wrap gap-2 items-center">
           <FavoriteButton artistId={artist.id} />
