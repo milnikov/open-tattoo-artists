@@ -145,9 +145,6 @@ export default function ProfilePage() {
   return (
     <div>
       <h1 className="text-2xl font-bold mb-6">Profile</h1>
-      <p className="text-gray-600 mb-4">
-        Sign in with Google to save favourite artists and track your contributions.
-      </p>
 
       {error && (
         <div className="mb-4 p-3 rounded-lg bg-red-50 text-red-700 text-sm">

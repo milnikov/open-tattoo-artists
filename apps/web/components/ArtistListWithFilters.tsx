@@ -1,9 +1,11 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import Link from "next/link";
 import { imageUrl } from "@/lib/images";
 import type { CompactArtist } from "@/lib/data";
+
+const PAGE_SIZE = 50;
 
 export function ArtistListWithFilters({
   artists,
@@ -15,6 +17,7 @@ export function ArtistListWithFilters({
   const [styleFilter, setStyleFilter] = useState("");
   const [countryFilter, setCountryFilter] = useState("");
   const [cityFilter, setCityFilter] = useState("");
+  const [page, setPage] = useState(1);
 
   const { styles, countries, citiesInCountry } = useMemo(() => {
     const styleSet = new Set<string>();
@@ -43,6 +46,16 @@ export function ArtistListWithFilters({
       return true;
     });
   }, [artists, styleFilter, countryFilter, cityFilter]);
+
+  const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const paginated = useMemo(
+    () => filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE),
+    [filtered, page]
+  );
+
+  useEffect(() => {
+    setPage(1);
+  }, [styleFilter, countryFilter, cityFilter]);
 
   return (
     <div>
@@ -100,10 +113,15 @@ export function ArtistListWithFilters({
 
       <p className="text-gray-600 mb-6">
         {filtered.length} artist{filtered.length !== 1 ? "s" : ""}
+        {totalPages > 1 && (
+          <span className="text-gray-500 ml-2">
+            (page {page} of {totalPages})
+          </span>
+        )}
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-        {filtered.map((a) => (
+        {paginated.map((a) => (
           <Link
             key={a.id}
             href={`/artists/${a.id}`}
@@ -149,6 +167,36 @@ export function ArtistListWithFilters({
         <p className="text-gray-500 py-12 text-center">
           No artists match the selected filters.
         </p>
+      )}
+
+      {totalPages > 1 && filtered.length > 0 && (
+        <div className="mt-8 flex items-center justify-center gap-4">
+          <button
+            type="button"
+            onClick={() => {
+              setPage((p) => Math.max(1, p - 1));
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
+            disabled={page <= 1}
+            className="px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            Previous
+          </button>
+          <span className="text-sm text-gray-600">
+            Page {page} of {totalPages}
+          </span>
+          <button
+            type="button"
+            onClick={() => {
+              setPage((p) => Math.min(totalPages, p + 1));
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
+            disabled={page >= totalPages}
+            className="px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 disabled:opacity-50 disabled:cursor-not-allowed"
+          >
+            Next
+          </button>
+        </div>
       )}
     </div>
   );
