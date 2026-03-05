@@ -13,27 +13,27 @@ export default async function ArtistPage({ params }: { params: { id: string } })
   const contributorEmail = await getContributorEmailForArtist(params.id);
 
   return (
-    <div>
-      <Link href="/" className="text-blue-600 hover:underline mb-4 inline-block">
+    <div className="max-w-4xl mx-auto px-4 py-8">
+      <Link href="/" className="text-foreground hover:text-muted-foreground mb-4 inline-block text-sm">
         ← Back to directory
       </Link>
-      <div className="border bg-white rounded-lg p-6 mb-6">
-        <h1 className="text-2xl font-bold">{artist.name}</h1>
+      <div className="border border-border bg-card rounded-lg p-6 mb-6">
+        <h1 className="text-2xl font-bold text-foreground">{artist.name}</h1>
         {contributorEmail && (
-          <p className="text-sm text-gray-500 mt-1">
+          <p className="text-sm text-muted-foreground mt-1">
             Contributed by {contributorEmail}
           </p>
         )}
-        <p className="text-gray-600 mt-1">
+        <p className="text-muted-foreground mt-1">
           {artist.location.city}, {artist.location.country}
         </p>
         {artist.styles.length > 0 && (
-          <p className="text-sm text-gray-500 mt-2">
+          <p className="text-sm text-muted-foreground mt-2">
             Styles: {artist.styles.join(", ")}
           </p>
         )}
         {artist.bio && (
-          <div className="mt-3 text-gray-600 text-sm whitespace-pre-line max-w-2xl">
+          <div className="mt-3 text-muted-foreground text-sm whitespace-pre-line max-w-2xl">
             {artist.bio.replace(/\nPrice:[\s\S]*$/, "").trim()}
           </div>
         )}
@@ -42,7 +42,7 @@ export default async function ArtistPage({ params }: { params: { id: string } })
             href={artist.links.instagram}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-blue-600 hover:underline"
+            className="text-foreground hover:text-muted-foreground underline"
           >
             Instagram
           </a>
@@ -56,7 +56,7 @@ export default async function ArtistPage({ params }: { params: { id: string } })
           />
         </div>
       </div>
-      <h2 className="text-lg font-semibold mb-4">Gallery</h2>
+      <h2 className="text-lg font-semibold text-foreground mb-4">Gallery</h2>
       <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
         {artist.tattoos.map((t) => (
           <a
@@ -64,7 +64,7 @@ export default async function ArtistPage({ params }: { params: { id: string } })
             href={imageUrl(t.image_full)}
             target="_blank"
             rel="noopener noreferrer"
-            className="block aspect-square rounded overflow-hidden bg-gray-200"
+            className="block aspect-square rounded overflow-hidden bg-muted"
           >
             <img
               src={imageUrl(t.image_thumb)}

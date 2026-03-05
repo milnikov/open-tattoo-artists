@@ -11,6 +11,8 @@ export interface CompactArtist {
   links: { instagram: string };
   tattoo_count: number;
   thumb?: string;
+  /** Up to 4 thumb URLs for list view. Falls back to [thumb] when absent. */
+  thumbs?: string[];
 }
 
 export interface SearchIndexEntry {
@@ -29,6 +31,7 @@ export interface Artist {
     website?: string;
     source?: string;
   };
+  bio?: string | null;
   tattoos: Array<{
     image_id: string;
     image_full: string;

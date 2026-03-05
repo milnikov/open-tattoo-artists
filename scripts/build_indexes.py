@@ -45,11 +45,12 @@ def load_artists() -> list[dict]:
 
 
 def build_compact(artists: list[dict]) -> list[dict]:
-    """Minimal fields for list + filtering."""
+    """Minimal fields for list + filtering. Up to 4 thumbs for list view."""
     out = []
     for a in artists:
         tattoos = a.get("tattoos", [])
-        first_thumb = tattoos[0]["image_thumb"] if tattoos else None
+        thumbs = [t["image_thumb"] for t in tattoos[:4]]
+        first_thumb = thumbs[0] if thumbs else None
         out.append({
             "id": a["id"],
             "name": a["name"],
@@ -58,6 +59,7 @@ def build_compact(artists: list[dict]) -> list[dict]:
             "links": {"instagram": a["links"]["instagram"]},
             "tattoo_count": len(tattoos),
             "thumb": first_thumb,
+            "thumbs": thumbs,
         })
     return sorted(out, key=lambda x: x["name"].lower())
 

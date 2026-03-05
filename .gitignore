@@ -21,3 +21,10 @@ node_modules/
 # Next.js build and env
 apps/web/.next/
 apps/web/.env.local
+
+.pnpm-store
+
+# Local/backup copies (do not commit)
+*.local
+
+ui-update/
