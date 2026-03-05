@@ -4,16 +4,13 @@ import { imageUrl } from "@/lib/images";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { FavoriteButton } from "@/components/FavoriteButton";
-
-const GITHUB_REPO = process.env.NEXT_PUBLIC_GITHUB_REPO || "milnikov/open-tattoo-artists";
+import { ReportProblemButton } from "@/components/ReportProblemButton";
 
 export default async function ArtistPage({ params }: { params: { id: string } }) {
   const artist = getArtist(params.id);
   if (!artist) notFound();
 
   const contributorEmail = await getContributorEmailForArtist(params.id);
-
-  const reportUrl = `https://github.com/${GITHUB_REPO}/issues/new?template=report-problem.md&title=Report+problem%3A+${encodeURIComponent(artist.name)}&labels=report&artist_id=${artist.id}`;
 
   return (
     <div>
@@ -67,14 +64,11 @@ export default async function ArtistPage({ params }: { params: { id: string } })
         </div>
         <div className="mt-4 flex flex-wrap gap-2 items-center">
           <FavoriteButton artistId={artist.id} />
-          <a
-            href={reportUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm px-3 py-1.5 border rounded hover:bg-gray-50"
-          >
-            Report problem
-          </a>
+          <ReportProblemButton
+            artistId={artist.id}
+            artistName={artist.name}
+            instagramUrl={artist.links.instagram}
+          />
         </div>
       </div>
       <h2 className="text-lg font-semibold mb-4">Gallery</h2>

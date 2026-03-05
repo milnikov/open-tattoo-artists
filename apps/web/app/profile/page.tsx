@@ -252,12 +252,13 @@ export default function ProfilePage() {
                 <div className="space-y-4">
                   {contributions.length === 0 ? (
                     <p className="text-gray-500">
-                      No contributions yet. Use “Suggest artist” in the header to propose an artist.
+                      No contributions yet. Use “Suggest artist” in the header to propose an artist, or “Report problem” on an artist page.
                     </p>
                   ) : (
                     <ul className="space-y-4">
                       {contributions.map((c) => {
                         const artist = c.artist_id ? contributionArtists[c.artist_id] : null;
+                        const isReport = c.type === "report";
                         return (
                           <li key={c.id} className="border rounded-lg overflow-hidden">
                             {artist ? (
@@ -279,7 +280,9 @@ export default function ProfilePage() {
                                         {artist.location.city}, {artist.location.country}
                                       </p>
                                       <p className="text-xs text-gray-500 mt-1">
-                                        Contributed by {c.contributor_email ?? "you"}
+                                        {isReport
+                                          ? "Problem reported"
+                                          : `Contributed by ${c.contributor_email ?? "you"}`}
                                       </p>
                                     </div>
                                   </div>
@@ -291,13 +294,13 @@ export default function ProfilePage() {
                                     rel="noopener noreferrer"
                                     className="text-sm text-blue-600 hover:underline"
                                   >
-                                    View original issue
+                                    {isReport ? "View issue" : "View original issue"}
                                   </a>
                                 </div>
                               </>
                             ) : (
                               <div className="p-4">
-                                <p className="font-medium text-gray-900">Suggestion (pending)</p>
+                                <p className="font-medium text-gray-900">Suggest artist (pending)</p>
                                 <a
                                   href={c.github_issue_url}
                                   target="_blank"

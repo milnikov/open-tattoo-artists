@@ -32,6 +32,9 @@ export async function suggestArtist(
   }
 
   if (!GITHUB_TOKEN) {
+    console.error(
+      "Suggest artist: set GITHUB_TOKEN (and optionally GITHUB_REPO) in .env.local. See apps/web/GITHUB_SETUP.md"
+    );
     return {
       ok: false,
       error: "GitHub integration is not configured. Please contact the site owner.",
@@ -83,14 +86,21 @@ export async function suggestArtist(
   const issue = (await res.json()) as { html_url: string };
   const issueUrl = issue.html_url;
 
-  const { error: insertError } = await supabase.from("contributions").insert({
+  // Base schema: user_id, type, artist_id, github_issue_url, status. Migration 20250301 adds contributor_email.
+  const row = {
     user_id: user.id,
-    type: "add",
+    type: "add" as const,
     artist_id: null,
     github_issue_url: issueUrl,
-    status: "open",
+    status: "open" as const,
+  };
+  let { error: insertError } = await supabase.from("contributions").insert({
+    ...row,
     contributor_email: user.email ?? undefined,
   });
+  if (insertError?.message?.includes("contributor_email")) {
+    insertError = (await supabase.from("contributions").insert(row)).error;
+  }
 
   if (insertError) {
     console.error("Supabase insert error:", insertError);
