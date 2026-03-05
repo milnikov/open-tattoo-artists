@@ -44,7 +44,7 @@ export function ListStatusBar({
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
             disabled={page === 0}
-            className="text-muted-foreground hover:text-foreground disabled:opacity-25 transition-colors"
+            className="rounded text-muted-foreground hover:text-foreground disabled:opacity-25 transition-colors"
             aria-label="Previous page"
           >
             <ChevronLeft className="h-3.5 w-3.5" />
@@ -56,7 +56,7 @@ export function ListStatusBar({
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
             disabled={page === totalPages - 1}
-            className="text-muted-foreground hover:text-foreground disabled:opacity-25 transition-colors"
+            className="rounded text-muted-foreground hover:text-foreground disabled:opacity-25 transition-colors"
             aria-label="Next page"
           >
             <ChevronRight className="h-3.5 w-3.5" />

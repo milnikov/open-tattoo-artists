@@ -51,7 +51,7 @@ def build_compact(artists: list[dict]) -> list[dict]:
         tattoos = a.get("tattoos", [])
         thumbs = [t["image_thumb"] for t in tattoos[:4]]
         first_thumb = thumbs[0] if thumbs else None
-        out.append({
+        entry = {
             "id": a["id"],
             "name": a["name"],
             "location": a["location"],
@@ -60,7 +60,10 @@ def build_compact(artists: list[dict]) -> list[dict]:
             "tattoo_count": len(tattoos),
             "thumb": first_thumb,
             "thumbs": thumbs,
-        })
+        }
+        if a.get("bio"):
+            entry["bio"] = a["bio"]
+        out.append(entry)
     return sorted(out, key=lambda x: x["name"].lower())
 
 

@@ -13,6 +13,8 @@ export interface CompactArtist {
   thumb?: string;
   /** Up to 4 thumb URLs for list view. Falls back to [thumb] when absent. */
   thumbs?: string[];
+  /** Optional bio for list excerpt. */
+  bio?: string | null;
 }
 
 export interface SearchIndexEntry {

@@ -13,7 +13,17 @@ interface ArtistRowProps {
   isFirst?: boolean;
 }
 
-function generateAboutText(artist: CompactArtist): string {
+const BIO_EXCERPT_LENGTH = 120;
+
+function getDescriptionExcerpt(artist: CompactArtist): string {
+  const raw = artist.bio?.trim();
+  if (raw && raw.length > 0) {
+    if (raw.length <= BIO_EXCERPT_LENGTH) return raw;
+    let cut = raw.slice(0, BIO_EXCERPT_LENGTH).trim();
+    const lastSpace = cut.lastIndexOf(" ");
+    if (lastSpace > BIO_EXCERPT_LENGTH * 0.6) cut = cut.slice(0, lastSpace);
+    return `${cut.replace(/\.$/, "")}...`;
+  }
   const { name, location, styles } = artist;
   const city = location.city;
   const styleList = styles.slice(0, 3);
@@ -35,7 +45,7 @@ export function ArtistRow({
   onCityClick,
   isFirst,
 }: ArtistRowProps) {
-  const aboutText = generateAboutText(artist);
+  const descriptionText = getDescriptionExcerpt(artist);
   const hasCity = !!artist.location.city;
   const hasCountry = !!artist.location.country;
   const thumbs: string[] =
@@ -58,12 +68,14 @@ export function ArtistRow({
           </span>
 
           <div className="flex flex-col gap-1 min-w-0">
-            <h3 className="text-sm font-bold text-foreground leading-tight">
-              <span className="md:hidden text-xs font-normal text-muted-foreground mr-2">
+            <div className="flex items-center justify-between gap-2">
+              <h3 className="text-sm font-bold text-foreground leading-tight min-w-0">
+                {artist.name}
+              </h3>
+              <span className="shrink-0 md:hidden text-xs font-normal text-muted-foreground tabular-nums">
                 {String(index + 1).padStart(3, "0")}
               </span>
-              {artist.name}
-            </h3>
+            </div>
             {artist.tattoo_count > 0 && (
               <span className="text-xs text-muted-foreground">
                 {artist.tattoo_count} tattoo{artist.tattoo_count !== 1 ? "s" : ""}
@@ -71,8 +83,8 @@ export function ArtistRow({
             )}
           </div>
 
-          <div className="flex flex-col gap-3 text-xs min-w-0">
-            <span className="text-foreground leading-relaxed line-clamp-3">{aboutText}</span>
+          <div className="flex flex-col gap-1 text-xs min-w-0">
+            <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
             <span className="text-muted-foreground">
               {hasCity ? (
                 <span
@@ -90,7 +102,7 @@ export function ArtistRow({
                       onCityClick?.(artist.location.city, artist.location.country);
                     }
                   }}
-                  className="hover:text-foreground transition-colors cursor-pointer"
+                  className="hover:text-foreground transition-colors cursor-pointer rounded"
                 >
                   {artist.location.city}
                 </span>
@@ -112,7 +124,7 @@ export function ArtistRow({
                       onCountryClick?.(artist.location.country);
                     }
                   }}
-                  className="hover:text-foreground transition-colors cursor-pointer"
+                  className="hover:text-foreground transition-colors cursor-pointer rounded"
                 >
                   {artist.location.country}
                 </span>
@@ -122,31 +134,27 @@ export function ArtistRow({
             </span>
           </div>
 
-          <div className="flex flex-wrap gap-x-1.5 gap-y-0.5 text-xs">
-            {artist.styles.map((style, i) => (
-              <span key={style} className="inline">
-                <span
-                  role="button"
-                  tabIndex={0}
-                  onClick={(e) => {
+          <div className="flex flex-col gap-y-0.5 text-xs">
+            {artist.styles.map((style) => (
+              <span
+                key={style}
+                role="button"
+                tabIndex={0}
+                onClick={(e) => {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  onTagClick?.(style);
+                }}
+                onKeyDown={(e) => {
+                  if (e.key === "Enter" || e.key === " ") {
                     e.preventDefault();
                     e.stopPropagation();
                     onTagClick?.(style);
-                  }}
-                  onKeyDown={(e) => {
-                    if (e.key === "Enter" || e.key === " ") {
-                      e.preventDefault();
-                      e.stopPropagation();
-                      onTagClick?.(style);
-                    }
-                  }}
-                  className="text-muted-foreground hover:text-foreground transition-colors cursor-pointer"
-                >
-                  {style}
-                </span>
-                {i < artist.styles.length - 1 && (
-                  <span className="text-muted-foreground">,</span>
-                )}
+                  }
+                }}
+                className="text-muted-foreground hover:text-foreground transition-colors cursor-pointer italic rounded"
+              >
+                {style}
               </span>
             ))}
           </div>

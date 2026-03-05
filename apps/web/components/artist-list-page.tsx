@@ -15,13 +15,14 @@ interface ArtistListPageProps {
 
 export function ArtistListPage({ artists }: ArtistListPageProps) {
   const [activeFilter, setActiveFilter] = useState("All");
+  const [isFilterPanelExpanded, setIsFilterPanelExpanded] = useState(false);
   const [selectedStyles, setSelectedStyles] = useState<string[]>([]);
-  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
-  const [selectedCity, setSelectedCity] = useState<string | null>(null);
+  const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
+  const [selectedCities, setSelectedCities] = useState<string[]>([]);
   const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
 
-  const { allStyles, allCountries, citiesForCountry } = useMemo(() => {
+  const { allStyles, allCountries, citiesForSelectedCountries } = useMemo(() => {
     const styleSet = new Set<string>();
     const countrySet = new Set<string>();
     const cityByCountry = new Map<string, Set<string>>();
@@ -32,14 +33,22 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
       if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
       cityByCountry.get(c)!.add(a.location.city);
     }
+    const cities =
+      selectedCountries.length > 0
+        ? Array.from(
+            new Set(
+              selectedCountries.flatMap((c) =>
+                Array.from(cityByCountry.get(c) ?? [])
+              )
+            )
+          ).sort()
+        : [];
     return {
       allStyles: Array.from(styleSet).sort(),
       allCountries: Array.from(countrySet).sort(),
-      citiesForCountry: selectedCountry
-        ? Array.from(cityByCountry.get(selectedCountry) ?? []).sort()
-        : [],
+      citiesForSelectedCountries: cities,
     };
-  }, [artists, selectedCountry]);
+  }, [artists, selectedCountries]);
 
   const filteredArtists = useMemo(() => {
     let result = artists;
@@ -50,12 +59,16 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
       );
     }
 
-    if (selectedCountry) {
-      result = result.filter((a) => a.location.country === selectedCountry);
+    if (selectedCountries.length > 0) {
+      result = result.filter((a) =>
+        selectedCountries.includes(a.location.country)
+      );
     }
 
-    if (selectedCity) {
-      result = result.filter((a) => a.location.city === selectedCity);
+    if (selectedCities.length > 0) {
+      result = result.filter((a) =>
+        selectedCities.includes(a.location.city)
+      );
     }
 
     if (search.trim()) {
@@ -70,11 +83,11 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     }
 
     return result;
-  }, [artists, selectedStyles, selectedCountry, selectedCity, search]);
+  }, [artists, selectedStyles, selectedCountries, selectedCities, search]);
 
   useEffect(() => {
     setPage(0);
-  }, [selectedStyles, selectedCountry, selectedCity, search]);
+  }, [selectedStyles, selectedCountries, selectedCities, search]);
 
   const totalPages = Math.ceil(filteredArtists.length / PAGE_SIZE) || 1;
   const paginated = filteredArtists.slice(
@@ -83,31 +96,59 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
   );
   const globalOffset = page * PAGE_SIZE;
 
-  const handleFilterChange = (filter: string) => {
+  const handleFilterChange = (filter: string, keepSelections?: boolean) => {
     setActiveFilter(filter);
-    if (filter === "All") {
-      setSelectedStyles([]);
-      setSelectedCountry(null);
-      setSelectedCity(null);
+    if (filter === "Styles" || filter === "Countries" || filter === "Cities") {
+      setIsFilterPanelExpanded(true);
+    } else if (filter === "All") {
+      setIsFilterPanelExpanded(false);
+      if (!keepSelections) {
+        setSelectedStyles([]);
+        setSelectedCountries([]);
+        setSelectedCities([]);
+      }
     }
   };
 
-  const handleSelectCountry = (country: string | null) => {
-    setSelectedCountry(country);
-    setSelectedCity(null);
+  const handleCollapseFilterPanel = () => {
+    setIsFilterPanelExpanded(false);
+    setActiveFilter("");
+  };
+
+  const handleToggleCountry = (country: string) => {
+    setSelectedCountries((prev) =>
+      prev.includes(country) ? prev.filter((c) => c !== country) : [...prev, country]
+    );
+  };
+
+  const handleClearCountries = () => {
+    setSelectedCountries([]);
+    setSelectedCities([]);
+  };
+
+  const handleToggleCity = (city: string) => {
+    setSelectedCities((prev) =>
+      prev.includes(city) ? prev.filter((c) => c !== city) : [...prev, city]
+    );
+  };
+
+  const handleClearCities = () => {
+    setSelectedCities([]);
   };
 
   const handleCountryClick = (country: string) => {
     setActiveFilter("Countries");
-    setSelectedCountry(country);
-    setSelectedCity(null);
+    setSelectedCountries((prev) =>
+      prev.includes(country) ? prev.filter((c) => c !== country) : [...prev, country]
+    );
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const handleCityClick = (city: string, country: string) => {
-    setActiveFilter("Countries");
-    setSelectedCountry(country);
-    setSelectedCity(city);
+  const handleCityClick = (city: string, _country: string) => {
+    setActiveFilter("Cities");
+    setSelectedCities((prev) =>
+      prev.includes(city) ? prev.filter((c) => c !== city) : [...prev, city]
+    );
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -122,7 +163,6 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     setSelectedStyles((prev) =>
       prev.includes(style) ? prev : [...prev, style]
     );
-    setSelectedCountry(null);
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
@@ -132,7 +172,9 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
 
       <BrowseToolbar
         activeFilter={activeFilter}
+        isFilterPanelExpanded={isFilterPanelExpanded}
         onFilterChange={handleFilterChange}
+        onCollapseFilterPanel={handleCollapseFilterPanel}
         search={search}
         onSearchChange={setSearch}
         totalCount={filteredArtists.length}
@@ -144,11 +186,13 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
         selectedStyles={selectedStyles}
         onToggleStyle={handleToggleStyle}
         onClearStyles={() => setSelectedStyles([])}
-        selectedCountry={selectedCountry}
-        onSelectCountry={handleSelectCountry}
-        citiesForCountry={citiesForCountry}
-        selectedCity={selectedCity}
-        onSelectCity={setSelectedCity}
+        selectedCountries={selectedCountries}
+        onToggleCountry={handleToggleCountry}
+        onClearCountries={handleClearCountries}
+        citiesForSelectedCountries={citiesForSelectedCountries}
+        selectedCities={selectedCities}
+        onToggleCity={handleToggleCity}
+        onClearCities={handleClearCities}
       />
 
       <main className="flex-1">
