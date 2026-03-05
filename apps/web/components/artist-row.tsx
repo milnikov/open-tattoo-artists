@@ -38,9 +38,9 @@ export function ArtistRow({
   const aboutText = generateAboutText(artist);
   const hasCity = !!artist.location.city;
   const hasCountry = !!artist.location.country;
-  const thumbs =
+  const thumbs: string[] =
     (artist.thumbs?.length ?? 0) > 0
-      ? artist.thumbs
+      ? (artist.thumbs ?? [])
       : artist.thumb
         ? [artist.thumb]
         : [];
