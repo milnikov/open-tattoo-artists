@@ -72,7 +72,7 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     parseFiltersFromSearchParams(searchParams).page
   );
 
-  // Restore filters from URL when navigating back (new mount with different URL)
+  // Restore filters from URL when navigating back/forward (sync state from URL)
   const prevParamsRef = useRef(searchParams.toString());
   useEffect(() => {
     const current = searchParams.toString();
@@ -181,7 +181,22 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     return result;
   }, [artists, selectedStyles, selectedCountries, selectedCities, search]);
 
+  // When filters actually change (not on mount, not when only page changed), reset to page 0 and sync URL.
+  // Compare to last synced filter state so we don't overwrite URL after pagination or on Strict Mode double-invoke.
+  const lastSyncedFiltersRef = useRef<string | null>(null);
   useEffect(() => {
+    const filterKey = JSON.stringify({
+      search,
+      styles: selectedStyles,
+      countries: selectedCountries,
+      cities: selectedCities,
+    });
+    if (lastSyncedFiltersRef.current === null) {
+      lastSyncedFiltersRef.current = filterKey;
+      return;
+    }
+    if (lastSyncedFiltersRef.current === filterKey) return;
+    lastSyncedFiltersRef.current = filterKey;
     setPage(0);
     updateUrl({
       search,
@@ -190,7 +205,8 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
       selectedCities,
       page: 0,
     });
-  }, [selectedStyles, selectedCountries, selectedCities, search, updateUrl]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- only run when filter state changes
+  }, [selectedStyles, selectedCountries, selectedCities, search]);
 
   const totalPages = Math.ceil(filteredArtists.length / PAGE_SIZE) || 1;
   const paginated = filteredArtists.slice(
