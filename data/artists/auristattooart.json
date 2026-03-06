@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "auristattooart",
+  "name": "Auris",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/auristattooart",
+    "instagram": "https://www.instagram.com/auristattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/auristattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/auristattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/auristattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/auristattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Auris demonstrates impeccable professionalism in their work as a tattoo artist, specializing in black & gray, realism, and the distinctive trash polka style. Positioned at Design 4 Life Tattoo in Liverpool, they maintain strict cleanliness standards, ensuring a safe and hygienic environment for every client. To discuss designs or book a session, reach out to Auris via email at auristattooart@gmail.com or through a direct message.\nPrice: $\nCurrent location:"
+}

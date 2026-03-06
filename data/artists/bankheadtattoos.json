@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bankheadtattoos",
+  "name": "Markus Bankhead",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bankheadtattoos",
+    "instagram": "https://www.instagram.com/bankheadtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bankheadtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bankheadtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bankheadtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bankheadtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Markus Bankhead is a highly skilled tattoo artist specializing in traditional and neotraditional styles, creating vivid and timeless pieces with each appointment. Known for maintaining an impeccably clean workspace, he ensures a safe and hygienic environment for all his clients at Eye Candy Tattoo in New Orleans, Louisiana. To carry your own piece of Markus's exceptional craftsmanship, be sure to book an appointment and experience his professional touch.\nPrice: $\nCurrent location:"
+}
