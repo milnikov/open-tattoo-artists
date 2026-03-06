@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bob.ink",
+  "name": "Bob Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bob.ink",
+    "instagram": "https://www.instagram.com/bob.ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bob.ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bob.ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bob.ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bob.ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Bob Ink is a remarkably skilled tattoo artist based in Prague, Czech Republic, who is reputable for specializing in 'black&gray' and 'realism' styles. His proficiency in creating dark black and grey tattoos, in a realistically arresting manner, sets him apart as an industry professional. His work is so sought-after that his booking schedule gets filled rather quickly, articulating the high demand for his masterful skill set.\nPrice: $$\nCurrent location:"
+}

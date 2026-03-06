@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bodhi_henna",
+  "name": "Bodhi Henna",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bodhi_henna",
+    "instagram": "https://www.instagram.com/bodhi_henna/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodhi_henna/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodhi_henna/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodhi_henna/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodhi_henna/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Bodhi Henna is a master tattoo artist renowned for creating intricate geometric and tribal designs that capture both the essence and tradition of these styles. Clients frequently commend the exceptional cleanliness that Bodhi maintains in the studio, ensuring a safe and sterile environment for every session. This dedication to hygiene combines with Bodhi's artistic talent to provide a top-tier tattooing experience.\nPrice: $\nCurrent location:"
+}

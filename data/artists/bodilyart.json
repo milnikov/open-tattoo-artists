@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bodilyart",
+  "name": "Dean Bodily",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bodilyart",
+    "instagram": "https://www.instagram.com/bodilyart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodilyart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodilyart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodilyart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodilyart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Dean Bodily is a highly skilled tattoo artist specializing in traditional and illustrative styles that bring each client's vision to life with precision and flair. Renowned for maintaining an immaculate and hygienic workspace, Dean ensures that every session at Loyalty Tattoos in SLC, UT, is carried out with the utmost cleanliness, meeting the highest standards for both safety and comfort. Reach out to him at Bodilyart@gmail.com for a tattoo experience that is as clean and stress-free as it is artistically exceptional.\nPrice: $\nCurrent location:"
+}

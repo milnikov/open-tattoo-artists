@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "boblewistattoos",
+  "name": "Bob Lewis",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/boblewistattoos",
+    "instagram": "https://www.instagram.com/boblewistattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boblewistattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boblewistattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boblewistattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boblewistattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Bob Lewis is a highly skilled tattoo artist specializing in black and gray styles, with a studio located at Blackfuse Gallery on Wyoming Avenue in Kingston, PA. His work is renowned for its precision and attention to detail, ensuring each client leaves with a stunning piece of art. To book an appointment with Bob and experience his exceptional tattooing talent, reach out at 570-331-8668 or email boblewistattoos@gmail.com.\nPrice: $$\nCurrent location:"
+}

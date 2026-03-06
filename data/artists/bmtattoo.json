@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "bmtattoo",
+  "name": "Isaac Johnson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bmtattoo",
+    "instagram": "https://www.instagram.com/bmtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bmtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bmtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bmtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bmtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Isaac Johnson, the proprietor and leading tattoo artist at Branded Man Tattoo in Grand Forks, ND, is renowned for his exceptional skill in the illustrative tattoo style. His work is characterized by meticulous attention to detail and a rich, imaginative flair, making each piece a unique work of art. Isaac's unparalleled professionalism is evident in both his artistic process and the way he manages his studio, ensuring that every client's experience is both comfortable and remarkable.\nPrice: $\nCurrent location:"
+}

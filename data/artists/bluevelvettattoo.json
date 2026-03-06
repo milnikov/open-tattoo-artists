@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "bluevelvettattoo",
+  "name": "CJAM Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "fineline",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bluevelvettattoo",
+    "instagram": "https://www.instagram.com/bluevelvettattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bluevelvettattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bluevelvettattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bluevelvettattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bluevelvettattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Artists\nSuppliers\nAbout\nImmerse yourself in the creative sanctuary of CJAM Tattoo, a private studio nestled in the heart of Bellingham, WA, where the mastery of illustrative, fineline, and lettering tattoos transforms skin into a canvas of personal expression. Adhering to the highest standards of safety, masks remain a mandatory accessory within this artistic haven. Discover the distinct vision of @cjamtattoos, @cougartooth, and @lionbearcobrashark, where every inked creation is a testament to their dedication and craft.\nPrice: $\nCurrent location:"
+}

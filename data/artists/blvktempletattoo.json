@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "blvktempletattoo",
+  "name": "BlvkTemple Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blvktempletattoo",
+    "instagram": "https://www.instagram.com/blvktempletattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blvktempletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blvktempletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blvktempletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blvktempletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Situated in the heart of Cairns at Shop 3/87 Lake St, BlvkTemple Tattoo boasts a clean, professional, and artistically inspiring environment specializing in black & gray and dotwork styles. With over 1,300 five-star reviews, they offer custom tattooing and laser removal services, welcoming both appointments and walk-ins.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "blacktidetattoocompany",
+  "name": "Barbara KeriK",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "newschool",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blacktidetattoocompany",
+    "instagram": "https://www.instagram.com/blacktidetattoocompany/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacktidetattoocompany/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacktidetattoocompany/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacktidetattoocompany/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacktidetattoocompany/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Barbara KeriK is a highly skilled tattoo artist renowned for their mastery in diverse styles including trashpolka, newschool, and tribal. Their dedication to their craft is reflected in the custom quality tattoos they create for each client at their Huntsville, AL studio. With a reputation for maintaining a clean and professional environment, Barbara ensures that every tattoo experience is as impeccable as the art they produce.\nPrice: $\nCurrent location:"
+}
