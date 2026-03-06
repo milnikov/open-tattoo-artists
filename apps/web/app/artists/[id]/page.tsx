@@ -32,8 +32,8 @@ export default async function ArtistPage({ params }: { params: { id: string } })
       </div>
 
       <main className="flex-1 min-w-0 overflow-x-hidden">
-      {/* Head block: 3 cols (middle max 460px, last 1fr), 2 rows on md so buttons align */}
-      <div className="grid grid-cols-1 md:grid-cols-[1fr_3fr_2fr] md:grid-rows-[auto_auto] gap-4 md:gap-6 px-4 py-6 md:px-8 md:py-8 min-w-0">
+      {/* Head block: 4 cols on md = 1fr | 3fr | 1fr gap | 1fr; 2 rows so buttons align */}
+      <div className="grid grid-cols-1 md:grid-cols-[1fr_3fr_1fr_1fr] md:grid-rows-[auto_auto] gap-4 md:gap-y-6 md:gap-x-0 px-4 py-6 md:px-8 md:py-8 min-w-0">
         <div className="flex flex-col gap-1 min-w-0 md:row-start-1 md:col-start-1">
           <h1 className="text-sm font-bold text-foreground leading-tight">
             {artist.name}
@@ -56,7 +56,9 @@ export default async function ArtistPage({ params }: { params: { id: string } })
           )}
         </div>
 
-        <div className="flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-3">
+        <div className="hidden md:block md:row-start-1 md:col-start-3" aria-hidden />
+
+        <div className="flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-4 md:items-end md:text-right">
           {artist.styles.map((style) => (
             <span
               key={style}
@@ -86,9 +88,16 @@ export default async function ArtistPage({ params }: { params: { id: string } })
             artistName={artist.name}
             instagramUrl={artist.links.instagram}
           />
+          {artist.updated_at && (
+            <span className="text-xs text-muted-foreground shrink-0">
+              Updated at: {artist.updated_at}
+            </span>
+          )}
         </div>
 
-        <div className="mt-2 md:mt-0 md:row-start-2 md:col-start-3 min-w-0">
+        <div className="hidden md:block md:row-start-2 md:col-start-3" aria-hidden />
+
+        <div className="mt-2 md:mt-0 md:row-start-2 md:col-start-4 min-w-0 md:flex md:justify-end">
           <FavoriteButton artistId={artist.id} />
         </div>
       </div>

@@ -2,7 +2,28 @@
 
 import { createClient } from "@/lib/supabase/client";
 import { useCallback, useEffect, useMemo, useState } from "react";
-import { Heart } from "lucide-react";
+
+function FavoriteIcon({ filled }: { filled?: boolean }) {
+  return (
+    <svg
+      width="10"
+      height="12"
+      viewBox="0 0 10 12"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      className="h-3 w-3 shrink-0"
+      aria-hidden
+    >
+      <path
+        d="M1 0.5H9C9.27614 0.5 9.5 0.723858 9.5 1V10.2334C9.5 10.622 9.07641 10.862 8.74316 10.6621L5.77148 8.87988C5.29657 8.59505 4.70343 8.59505 4.22852 8.87988L1.25684 10.6621C0.923589 10.862 0.5 10.622 0.5 10.2334V1C0.5 0.723858 0.723857 0.5 1 0.5Z"
+        stroke="currentColor"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        fill={filled ? "currentColor" : "none"}
+      />
+    </svg>
+  );
+}
 
 type Props = { artistId: string; variant?: "default" | "muted" };
 
@@ -109,7 +130,7 @@ export function FavoriteButton({ artistId, variant = "default" }: Props) {
   if (!show) {
     return (
       <button type="button" onClick={handleLogin} className={buttonClass}>
-        <Heart className="h-3 w-3 shrink-0" />
+        <FavoriteIcon />
         Save as favorite
       </button>
     );
@@ -123,9 +144,7 @@ export function FavoriteButton({ artistId, variant = "default" }: Props) {
         disabled={loading}
         className={buttonClass}
       >
-        <Heart
-          className={`h-3 w-3 shrink-0 ${isFavorite ? "fill-current" : ""}`}
-        />
+        <FavoriteIcon filled={isFavorite} />
         {isFavorite ? "Saved" : "Save as favorite"}
       </button>
       {error && (

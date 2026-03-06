@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { Flag } from "lucide-react";
 import { ReportProblemModal } from "./ReportProblemModal";
 
 type Props = {
@@ -30,8 +29,7 @@ export function ReportProblemButton({
         onClick={() => setOpen(true)}
         className={buttonClass}
       >
-        <Flag className="h-3 w-3 shrink-0" />
-        Report a problem
+        Request update
       </button>
       <ReportProblemModal
         open={open}
