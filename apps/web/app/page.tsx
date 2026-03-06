@@ -1,5 +1,14 @@
+import { Suspense } from "react";
 import { getCompactArtists } from "@/lib/data";
 import { ArtistListPage } from "@/components/artist-list-page";
+
+function ArtistListPageFallback() {
+  return (
+    <div className="flex flex-col items-center justify-center py-32 px-4">
+      <p className="text-muted-foreground">Loading…</p>
+    </div>
+  );
+}
 
 export default async function HomePage() {
   const artists = await getCompactArtists();
@@ -15,5 +24,9 @@ export default async function HomePage() {
     );
   }
 
-  return <ArtistListPage artists={artists} />;
+  return (
+    <Suspense fallback={<ArtistListPageFallback />}>
+      <ArtistListPage artists={artists} />
+    </Suspense>
+  );
 }
