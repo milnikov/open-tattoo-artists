@@ -16,6 +16,11 @@ import sys
 import time
 from pathlib import Path
 
+try:
+    import fcntl
+except ImportError:
+    fcntl = None  # Windows: no file lock, git may fail when multiple workers push
+
 from _repo_root import repo_path
 
 # Import after path setup
@@ -111,17 +116,61 @@ def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
     print("   State merged into scrape_state.json")
 
 
-def git_commit_and_push(branch: str = "main", message: str = "chore: add scraped artists"):
-    """Commit data/artists and push."""
+def _git_lock_path() -> Path:
+    return repo_path(".git-push.lock")
+
+
+def _acquire_git_lock(timeout_sec: float = 300) -> object | None:
+    """Acquire exclusive lock for git ops (so parallel workers don't push over each other). Returns open file or None."""
+    if fcntl is None:
+        return None
+    lock_path = _git_lock_path()
+    lock_path.touch()
+    f = open(lock_path, "w")
+    start = time.monotonic()
+    while True:
+        try:
+            fcntl.flock(f.fileno(), fcntl.LOCK_EX | fcntl.LOCK_NB)
+            return f
+        except (OSError, BlockingIOError):
+            if time.monotonic() - start > timeout_sec:
+                f.close()
+                print("⚠️ Git lock timeout; skipping push.")
+                return None
+            time.sleep(2)
+
+
+def _release_git_lock(lock_file: object | None) -> None:
+    if lock_file is None:
+        return
     try:
-        subprocess.run(["git", "add", "data/artists/"], check=True, cwd=str(repo_path()))
-        subprocess.run(["git", "status", "--short"], check=True, cwd=str(repo_path()))
-        subprocess.run(["git", "commit", "-m", message], check=True, cwd=str(repo_path()))
-        subprocess.run(["git", "push", "origin", branch], check=True, cwd=str(repo_path()))
+        fcntl.flock(lock_file.fileno(), fcntl.LOCK_UN)
+        lock_file.close()
+    except Exception:
+        pass
+
+
+def git_commit_and_push(branch: str = "main", message: str = "chore: add scraped artists"):
+    """Commit data/artists and push. Uses a lock so only one worker pushes at a time; pulls before push."""
+    cwd = str(repo_path())
+    lock_file = _acquire_git_lock()
+    try:
+        # Pull so we don't get rejected (non-fast-forward) when another worker already pushed
+        subprocess.run(["git", "fetch", "origin", branch], check=True, cwd=cwd, capture_output=True)
+        subprocess.run(["git", "merge", "--no-edit", f"origin/{branch}"], cwd=cwd, check=True, capture_output=True)  # no-op if already up to date
+        subprocess.run(["git", "add", "data/artists/"], check=True, cwd=cwd)
+        status = subprocess.run(["git", "status", "--short"], capture_output=True, text=True, cwd=cwd)
+        if not status.stdout.strip():
+            return True  # nothing to commit
+        subprocess.run(["git", "commit", "-m", message], check=True, cwd=cwd)
+        subprocess.run(["git", "push", "origin", branch], check=True, cwd=cwd)
+        print(f"   📤 Pushed: {message}")
         return True
     except subprocess.CalledProcessError as e:
         print(f"⚠️ Git push failed: {e}")
         return False
+    finally:
+        _release_git_lock(lock_file)
 
 
 def main():

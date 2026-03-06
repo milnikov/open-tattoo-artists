@@ -27,6 +27,9 @@ apps/web/.env.local
 # Local/backup copies (do not commit)
 *.local
 
+# Scraper git lock (parallel workers)
+.git-push.lock
+
 # Personal reference (VM/git cheatsheet)
 docs/VM_AND_GIT_COMMANDS.md
 
