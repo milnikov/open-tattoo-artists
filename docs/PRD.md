@@ -72,6 +72,10 @@ tattoo directory where:
 -   No monetization
 -   No multilingual support
 
+### Post-MVP (planned)
+
+See **docs/POST_MVP_PLAN.md** for two planned updates: (1) artist ranking by “followed by other artists” with a toggle between alphabetical and this view, and (2) OpenClaw bot setup to automatically process GitHub issues.
+
 ------------------------------------------------------------------------
 
 # 4. Data Architecture

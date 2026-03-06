@@ -15,4 +15,6 @@ VM and deployment:
 
 Other: **IMPROVEMENTS.md** — Scraper throttling and image detection.
 
+Post-MVP: **POST_MVP_PLAN.md** — Artist ranking by “followed by other artists” (toggle view) and OpenClaw bot setup for automatic GitHub issue processing.
+
 Schemas live in `packages/schema/`. Supabase schema and notes live in `supabase/`.
