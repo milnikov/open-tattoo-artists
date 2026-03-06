@@ -5,16 +5,12 @@ import { useEffect, useState } from "react";
 import type { User } from "@supabase/supabase-js";
 import Link from "next/link";
 import { imageUrl } from "@/lib/images";
+import type { CompactArtist } from "@/lib/data";
+import { ArtistRow } from "@/components/artist-row";
+import { SiteFooter } from "@/components/site-footer";
 
-type CompactArtist = {
-  id: string;
-  name: string;
-  location: { city: string; country: string };
-  styles: string[];
-  links: { instagram: string };
-  tattoo_count: number;
-  thumb?: string;
-};
+const HEADER_BUTTON_CLASS =
+  "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5";
 
 type Contribution = {
   id: string;
@@ -135,57 +131,52 @@ export default function ProfilePage() {
 
   if (loading) {
     return (
-      <div>
-        <h1 className="text-2xl font-bold mb-6">Profile</h1>
-        <p className="text-gray-500">Loading…</p>
+      <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
+        <div className="h-8 md:h-16" />
+        <main className="flex-1 min-w-0 overflow-x-hidden px-4 md:px-8 py-6">
+          <p className="text-sm text-muted-foreground">Loading…</p>
+        </main>
+        <SiteFooter />
       </div>
     );
   }
 
   return (
-    <div>
-      <h1 className="text-2xl font-bold mb-6">Profile</h1>
+    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
+      <div className="h-8 md:h-16" />
 
-      {error && (
-        <div className="mb-4 p-3 rounded-lg bg-red-50 text-red-700 text-sm">
-          {error}
-        </div>
-      )}
+      <main className="flex-1 min-w-0 overflow-x-hidden">
+        {error && (
+          <div className="px-4 md:px-8 pt-4">
+            <p className="text-xs text-red-600">{error}</p>
+          </div>
+        )}
 
-      <div className="border rounded-lg bg-white overflow-hidden">
         {user ? (
           <>
-            <div className="flex items-center gap-3 p-6 border-b">
-              {user.user_metadata?.avatar_url && (
-                <img
-                  src={user.user_metadata.avatar_url}
-                  alt=""
-                  className="w-12 h-12 rounded-full"
-                />
-              )}
-              <div className="flex-1">
-                <p className="font-medium text-gray-900">
-                  {user.user_metadata?.full_name ?? user.email}
-                </p>
-                <p className="text-sm text-gray-500">{user.email}</p>
+            <div className="flex items-center justify-between gap-4 px-4 md:px-8 py-6 border-b border-border">
+              <div className="flex items-center gap-3 min-w-0">
+                {user.user_metadata?.avatar_url && (
+                  <img src={user.user_metadata.avatar_url} alt="" className="w-10 h-10 rounded-full shrink-0" />
+                )}
+                <div className="min-w-0">
+                  <p className="text-sm font-bold text-foreground truncate">
+                    {user.user_metadata?.full_name ?? user.email}
+                  </p>
+                  <p className="text-xs text-muted-foreground truncate">{user.email}</p>
+                </div>
               </div>
-              <button
-                type="button"
-                onClick={signOut}
-                className="px-4 py-2 text-sm font-medium text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200"
-              >
+              <button type="button" onClick={signOut} className={HEADER_BUTTON_CLASS}>
                 Sign out
               </button>
             </div>
 
-            <div className="flex border-b">
+            <div className="flex items-center gap-2 px-4 md:px-8 h-9 border-b border-border">
               <button
                 type="button"
                 onClick={() => setTab("favorites")}
-                className={`px-6 py-3 text-sm font-medium ${
-                  tab === "favorites"
-                    ? "border-b-2 border-gray-900 text-gray-900"
-                    : "text-gray-500 hover:text-gray-700"
+                className={`text-xs px-2 py-1 rounded transition-colors ${
+                  tab === "favorites" ? "bg-foreground text-background" : "text-foreground hover:text-muted-foreground"
                 }`}
               >
                 Favorites
@@ -193,76 +184,51 @@ export default function ProfilePage() {
               <button
                 type="button"
                 onClick={() => setTab("contributions")}
-                className={`px-6 py-3 text-sm font-medium ${
-                  tab === "contributions"
-                    ? "border-b-2 border-gray-900 text-gray-900"
-                    : "text-gray-500 hover:text-gray-700"
+                className={`text-xs px-2 py-1 rounded transition-colors ${
+                  tab === "contributions" ? "bg-foreground text-background" : "text-foreground hover:text-muted-foreground"
                 }`}
               >
                 Contributions
               </button>
             </div>
 
-            <div className="p-6">
+            <div>
               {tab === "favorites" && (
-                <div className="space-y-4">
+                <>
                   {favoriteArtists.length === 0 ? (
-                    <p className="text-gray-500">
-                      No favorites yet. Add artists from their profile page.
-                    </p>
+                    <div className="px-4 md:px-8 py-8">
+                      <p className="text-xs text-muted-foreground">
+                        No favorites yet. Add artists from their profile page.
+                      </p>
+                    </div>
                   ) : (
-                    <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
-                      {favoriteArtists.map((a) => (
-                        <li key={a.id}>
-                          <Link
-                            href={`/artists/${a.id}`}
-                            className="block border rounded-lg overflow-hidden hover:shadow-md transition"
-                          >
-                            <div className="aspect-square bg-gray-200">
-                              {a.thumb ? (
-                                <img
-                                  src={imageUrl(a.thumb)}
-                                  alt={a.name}
-                                  className="w-full h-full object-cover"
-                                />
-                              ) : (
-                                <div className="w-full h-full flex items-center justify-center text-gray-400 text-sm">
-                                  {a.tattoo_count > 0 ? `${a.tattoo_count} images` : "No image"}
-                                </div>
-                              )}
-                            </div>
-                            <div className="p-3">
-                              <p className="font-semibold truncate">{a.name}</p>
-                              <p className="text-sm text-gray-600 truncate">
-                                {a.location.city}, {a.location.country}
-                              </p>
-                            </div>
-                          </Link>
-                        </li>
+                    <div>
+                      {favoriteArtists.map((artist, i) => (
+                        <ArtistRow key={artist.id} artist={artist} index={i} isFirst={i === 0} />
                       ))}
-                    </ul>
+                    </div>
                   )}
-                </div>
+                </>
               )}
 
               {tab === "contributions" && (
-                <div className="space-y-4">
+                <div className="px-4 md:px-8 py-6">
                   {contributions.length === 0 ? (
-                    <p className="text-gray-500">
-                      No contributions yet. Use “Suggest artist” in the header to propose an artist, or “Report problem” on an artist page.
+                    <p className="text-xs text-muted-foreground">
+                      No contributions yet. Use “Suggest artist” in the header or “Request update” on an artist page.
                     </p>
                   ) : (
-                    <ul className="space-y-4">
+                    <ul className="divide-y divide-border">
                       {contributions.map((c) => {
                         const artist = c.artist_id ? contributionArtists[c.artist_id] : null;
                         const isReport = c.type === "report";
                         return (
-                          <li key={c.id} className="border rounded-lg overflow-hidden">
+                          <li key={c.id} className="py-6 first:pt-0">
                             {artist ? (
                               <>
-                                <Link href={`/artists/${artist.id}`} className="block">
-                                  <div className="flex gap-4 p-4">
-                                    <div className="w-20 h-20 flex-shrink-0 bg-gray-200 rounded overflow-hidden">
+                                <Link href={`/artists/${artist.id}`} className="block hover:opacity-80 transition-opacity">
+                                  <div className="flex gap-4">
+                                    <div className="w-[72px] h-[96px] md:w-[80px] md:h-[108px] flex-shrink-0 bg-muted overflow-hidden rounded">
                                       {artist.tattoos?.[0]?.image_thumb ? (
                                         <img
                                           src={imageUrl(artist.tattoos[0].image_thumb)}
@@ -272,41 +238,37 @@ export default function ProfilePage() {
                                       ) : null}
                                     </div>
                                     <div className="min-w-0 flex-1">
-                                      <p className="font-semibold">{artist.name}</p>
-                                      <p className="text-sm text-gray-600">
+                                      <p className="text-sm font-bold text-foreground">{artist.name}</p>
+                                      <p className="text-xs text-muted-foreground">
                                         {artist.location.city}, {artist.location.country}
                                       </p>
-                                      <p className="text-xs text-gray-500 mt-1">
-                                        {isReport
-                                          ? "Problem reported"
-                                          : `Contributed by ${c.contributor_email ?? "you"}`}
+                                      <p className="text-xs text-muted-foreground mt-1">
+                                        {isReport ? "Problem reported" : `Contributed by ${c.contributor_email ?? "you"}`}
                                       </p>
                                     </div>
                                   </div>
                                 </Link>
-                                <div className="px-4 pb-3">
-                                  <a
-                                    href={c.github_issue_url}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    className="text-sm text-blue-600 hover:underline"
-                                  >
-                                    {isReport ? "View issue" : "View original issue"}
-                                  </a>
-                                </div>
-                              </>
-                            ) : (
-                              <div className="p-4">
-                                <p className="font-medium text-gray-900">Suggest artist (pending)</p>
                                 <a
                                   href={c.github_issue_url}
                                   target="_blank"
                                   rel="noopener noreferrer"
-                                  className="text-sm text-blue-600 hover:underline mt-1 inline-block"
+                                  className="text-xs text-foreground hover:text-muted-foreground transition-colors underline underline-offset-2 mt-2 inline-block"
+                                >
+                                  {isReport ? "View issue" : "View original issue"}
+                                </a>
+                              </>
+                            ) : (
+                              <div>
+                                <p className="text-sm font-bold text-foreground">Suggest artist (pending)</p>
+                                <a
+                                  href={c.github_issue_url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="text-xs text-foreground hover:text-muted-foreground transition-colors underline underline-offset-2 mt-1 inline-block"
                                 >
                                   Open GitHub issue
                                 </a>
-                                <p className="text-xs text-gray-500 mt-2">
+                                <p className="text-xs text-muted-foreground mt-2">
                                   Once the artist is added, they’ll appear here as a card.
                                 </p>
                               </div>
@@ -321,17 +283,16 @@ export default function ProfilePage() {
             </div>
           </>
         ) : (
-          <div className="p-6">
-            <p className="text-gray-500 mb-4">
+          <div className="px-4 md:px-8 py-8">
+            <p className="text-xs text-muted-foreground mb-4">
               {supabase
                 ? "Sign in with Google to save favourites and track contributions."
                 : "Configure "}
               {!supabase && (
                 <>
-                  <code className="bg-gray-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_URL</code> and{" "}
-                  <code className="bg-gray-100 px-1 rounded">NEXT_PUBLIC_SUPABASE_ANON_KEY</code> in{" "}
-                  <code className="bg-gray-100 px-1 rounded">.env.local</code>, enable Google in
-                  Supabase, then refresh.
+                  <code className="bg-muted px-1 rounded text-foreground">NEXT_PUBLIC_SUPABASE_URL</code> and{" "}
+                  <code className="bg-muted px-1 rounded text-foreground">NEXT_PUBLIC_SUPABASE_ANON_KEY</code> in{" "}
+                  <code className="bg-muted px-1 rounded text-foreground">.env.local</code>, enable Google in Supabase, then refresh.
                 </>
               )}
             </p>
@@ -339,9 +300,9 @@ export default function ProfilePage() {
               <button
                 type="button"
                 onClick={signInWithGoogle}
-                className="inline-flex items-center gap-2 px-4 py-2.5 text-sm font-medium text-gray-700 bg-white border border-gray-300 rounded-lg hover:bg-gray-50 shadow-sm"
+                className={HEADER_BUTTON_CLASS + " inline-flex items-center gap-2"}
               >
-                <svg className="w-5 h-5" viewBox="0 0 24 24">
+                <svg className="w-4 h-4 shrink-0" viewBox="0 0 24 24">
                   <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z" />
                   <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" />
                   <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" />
@@ -352,7 +313,9 @@ export default function ProfilePage() {
             )}
           </div>
         )}
-      </div>
+      </main>
+
+      <SiteFooter />
     </div>
   );
 }
