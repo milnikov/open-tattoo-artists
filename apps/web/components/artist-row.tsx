@@ -76,15 +76,6 @@ export function ArtistRow({
                 {String(index + 1).padStart(3, "0")}
               </span>
             </div>
-            {artist.tattoo_count > 0 && (
-              <span className="text-xs text-muted-foreground">
-                {artist.tattoo_count} tattoo{artist.tattoo_count !== 1 ? "s" : ""}
-              </span>
-            )}
-          </div>
-
-          <div className="flex flex-col gap-1 text-xs min-w-0">
-            <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
             <span className="text-xs text-muted-foreground">
               {hasCity ? (
                 <span
@@ -132,6 +123,10 @@ export function ArtistRow({
                 "—"
               )}
             </span>
+          </div>
+
+          <div className="flex flex-col gap-1 text-xs min-w-0">
+            <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
           </div>
 
           <div className="flex flex-col gap-y-0.5 text-xs">
