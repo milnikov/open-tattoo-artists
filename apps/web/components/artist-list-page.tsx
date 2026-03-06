@@ -109,33 +109,42 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     [pathname, router, searchParams]
   );
 
-  const { allStyles, allCountries, citiesForSelectedCountries } = useMemo(() => {
-    const styleSet = new Set<string>();
-    const countrySet = new Set<string>();
-    const cityByCountry = new Map<string, Set<string>>();
-    for (const a of artists) {
-      for (const s of a.styles) styleSet.add(s);
-      const c = a.location.country;
-      countrySet.add(c);
-      if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
-      cityByCountry.get(c)!.add(a.location.city);
-    }
-    const cities =
-      selectedCountries.length > 0
-        ? Array.from(
-            new Set(
-              selectedCountries.flatMap((c) =>
-                Array.from(cityByCountry.get(c) ?? [])
+  const { allStyles, allCountries, citiesForSelectedCountries, citiesByCountry } =
+    useMemo(() => {
+      const styleSet = new Set<string>();
+      const countrySet = new Set<string>();
+      const cityByCountry = new Map<string, Set<string>>();
+      for (const a of artists) {
+        for (const s of a.styles) styleSet.add(s);
+        const c = a.location.country;
+        countrySet.add(c);
+        if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
+        cityByCountry.get(c)!.add(a.location.city);
+      }
+      const cities =
+        selectedCountries.length > 0
+          ? Array.from(
+              new Set(
+                selectedCountries.flatMap((c) =>
+                  Array.from(cityByCountry.get(c) ?? [])
+                )
               )
-            )
-          ).sort()
-        : [];
-    return {
-      allStyles: Array.from(styleSet).sort(),
-      allCountries: Array.from(countrySet).sort(),
-      citiesForSelectedCountries: cities,
-    };
-  }, [artists, selectedCountries]);
+            ).sort()
+          : [];
+      const byCountry =
+        selectedCountries.length > 0
+          ? selectedCountries.map((country) => ({
+              country,
+              cities: Array.from(cityByCountry.get(country) ?? []).sort(),
+            }))
+          : [];
+      return {
+        allStyles: Array.from(styleSet).sort(),
+        allCountries: Array.from(countrySet).sort(),
+        citiesForSelectedCountries: cities,
+        citiesByCountry: byCountry,
+      };
+    }, [artists, selectedCountries]);
 
   const filteredArtists = useMemo(() => {
     let result = artists;
@@ -291,6 +300,7 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
         onToggleCountry={handleToggleCountry}
         onClearCountries={handleClearCountries}
         citiesForSelectedCountries={citiesForSelectedCountries}
+        citiesByCountry={citiesByCountry}
         selectedCities={selectedCities}
         onToggleCity={handleToggleCity}
         onClearCities={handleClearCities}

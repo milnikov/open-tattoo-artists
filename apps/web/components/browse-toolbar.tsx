@@ -23,6 +23,7 @@ interface BrowseToolbarProps {
   onToggleCountry: (country: string) => void;
   onClearCountries: () => void;
   citiesForSelectedCountries: string[];
+  citiesByCountry: { country: string; cities: string[] }[];
   selectedCities: string[];
   onToggleCity: (city: string) => void;
   onClearCities: () => void;
@@ -48,6 +49,7 @@ export function BrowseToolbar({
   onToggleCountry,
   onClearCountries,
   citiesForSelectedCountries,
+  citiesByCountry,
   selectedCities,
   onToggleCity,
   onClearCities,
@@ -223,7 +225,7 @@ export function BrowseToolbar({
         isFilterPanelExpanded &&
         selectedCountries.length > 0 && (
           <div className="border-b border-border px-4 md:px-8 py-2.5">
-            <div className="flex flex-wrap gap-1">
+            <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline">
               <button
                 type="button"
                 onClick={onClearCities}
@@ -235,20 +237,47 @@ export function BrowseToolbar({
               >
                 All cities
               </button>
-              {citiesForSelectedCountries.map((city) => (
-                <button
-                  key={city}
-                  type="button"
-                  onClick={() => onToggleCity(city)}
-                  className={`text-xs px-2 py-1 rounded transition-colors ${
-                    selectedCities.includes(city)
-                      ? "bg-foreground text-background"
-                      : "text-muted-foreground hover:text-foreground"
-                  }`}
-                >
-                  {city}
-                </button>
-              ))}
+              {selectedCountries.length > 1 ? (
+                citiesByCountry.map(({ country, cities }) => (
+                  <div
+                    key={country}
+                    className="flex flex-wrap gap-1 items-center gap-y-0.5"
+                  >
+                    <span className="text-xs text-muted-foreground px-2 italic">
+                      {country}:
+                    </span>
+                    {cities.map((city) => (
+                      <button
+                        key={city}
+                        type="button"
+                        onClick={() => onToggleCity(city)}
+                        className={`text-xs px-2 py-1 rounded transition-colors ${
+                          selectedCities.includes(city)
+                            ? "bg-foreground text-background"
+                            : "text-muted-foreground hover:text-foreground"
+                        }`}
+                      >
+                        {city}
+                      </button>
+                    ))}
+                  </div>
+                ))
+              ) : (
+                citiesForSelectedCountries.map((city) => (
+                  <button
+                    key={city}
+                    type="button"
+                    onClick={() => onToggleCity(city)}
+                    className={`text-xs px-2 py-1 rounded transition-colors ${
+                      selectedCities.includes(city)
+                        ? "bg-foreground text-background"
+                        : "text-muted-foreground hover:text-foreground"
+                    }`}
+                  >
+                    {city}
+                  </button>
+                ))
+              )}
             </div>
             <div className="flex justify-end mt-2">
               <button
