@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "artoftheimagination",
+  "name": "Jiggy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artoftheimagination",
+    "instagram": "https://www.instagram.com/artoftheimagination/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artoftheimagination/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artoftheimagination/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artoftheimagination/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artoftheimagination/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Jiggy is a highly skilled tattoo artist who specializes in tribal, black & gray, and realism styles, bringing a unique artistic flair to every design. As a professional body artist at Ink Paradise Tattoo, Jiggy maintains an impressive level of professionalism, ensuring that all procedures are performed with the utmost precision and care. Clients can expect a seamless experience from consultation to the final masterpiece.\nPrice: $\nCurrent location:"
+}

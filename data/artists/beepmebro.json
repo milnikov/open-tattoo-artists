@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "beepmebro",
+  "name": "Little Jeff",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "traditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/beepmebro",
+    "instagram": "https://www.instagram.com/beepmebro/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beepmebro/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beepmebro/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beepmebro/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beepmebro/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Little Jeff is a highly skilled tattoo artist, specializing in illustrative, traditional, and black & gray styles that capture the imagination. Embracing a polished and professional approach to tattooing, he ensures that every piece is executed with exceptional precision and attention to detail. Clients often praise Little Jeff for the cleanliness of his workspace and the meticulous care he takes with every aspect of his craft.\nPrice: $\nCurrent location:"
+}

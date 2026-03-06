@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "asul_tatu",
+  "name": "Asul Tatoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/asul_tatu",
+    "instagram": "https://www.instagram.com/asul_tatu/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/asul_tatu/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/asul_tatu/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/asul_tatu/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/asul_tatu/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Asul Tattoo is a highly skilled tattoo artist who excels in the delicate craft of fineline and anime-inspired designs. With a detailed approach that brings fantastical anime characters and motifs to life on skin, Asul's professionalism and dedication to the art is evident in every intricate piece they create. Their clients appreciate the meticulous cleanliness maintained throughout the tattooing process, ensuring both safety and the utmost in quality artwork.\nPrice: $\nCurrent location:"
+}

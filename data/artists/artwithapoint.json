@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "artwithapoint",
+  "name": "Artwithapoint",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artwithapoint",
+    "instagram": "https://www.instagram.com/artwithapoint/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artwithapoint/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artwithapoint/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artwithapoint/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artwithapoint/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Artwithapoint is a highly skilled tattoo artist specializing in the bold and intricate details of tribal tattoo designs. Since 2001, they have been enhancing the skin of colorful individuals with their exceptional artistry. Their reputation for professionalism is evident in their work and the welcoming atmosphere they provide for every client who walks through their doors.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2001"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "artistink_birkenfeld",
+  "name": "Sven",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artistink_birkenfeld",
+    "instagram": "https://www.instagram.com/artistink_birkenfeld/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistink_birkenfeld/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistink_birkenfeld/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistink_birkenfeld/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistink_birkenfeld/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Sven is a masterful tattoo artist at Tattoo Studio Birkenfeld, specializing in floral, fineline, and trashpolka styles. Their work is characterized by meticulous attention to detail and a unique flair that brings each design to life. With an unyielding commitment to professionalism, Sven ensures every client's experience is top-notch, from the initial consultation to the finished piece.\nPrice: $\nCurrent location:"
+}

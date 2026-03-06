@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bdorantattooer",
+  "name": "Brett Doran",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bdorantattooer",
+    "instagram": "https://www.instagram.com/bdorantattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bdorantattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bdorantattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bdorantattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bdorantattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Brett Doran is a highly skilled tattoo artist known for his expertise in black & gray and neotraditional styles. His meticulous attention to detail is evident in every piece he creates, ensuring that every client leaves with a tattoo that exceeds their expectations. Brett approaches his craft with unwavering professionalism, making him a respected figure in the tattoo community and a sought-after artist for those seeking top-tier work.\nPrice: $\nCurrent location:"
+}

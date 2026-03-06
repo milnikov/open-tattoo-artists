@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ascendencetattoostudio",
+  "name": "Ascendence Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ascendencetattoostudio",
+    "instagram": "https://www.instagram.com/ascendencetattoostudio/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ascendencetattoostudio/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ascendencetattoostudio/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ascendencetattoostudio/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ascendencetattoostudio/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Ascendence Tattoo Studio is a premier ink sanctuary that specializes in the art of black and gray tattoos, delivering each design with impeccable precision and depth. Nestled in the heart of Hayes at 141 North Hyde Road, Middlesex, this studio offers a serene environment where creativity and self-expression flourish under the meticulous hands of experienced artists, six days a week from 12:00 to 7:00 PM.\nPrice: $$\nCurrent location:"
+}

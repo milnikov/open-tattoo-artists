@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "artistictattooingcrewe",
+  "name": "Stephen Eglin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "traditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artistictattooingcrewe",
+    "instagram": "https://www.instagram.com/artistictattooingcrewe/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistictattooingcrewe/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistictattooingcrewe/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistictattooingcrewe/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistictattooingcrewe/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Immerse yourself in the artistic haven of Stephen Eglin's Tattoo Studio, Crewe's longest-standing tattoo parlor since 1997. Specializing in illustrative, traditional, and black & gray styles, this UK studio is renowned for its commitment to authenticity with all artwork proudly displayed unfiltered. Embrace the craftsmanship of true tattoo artisans in an environment that reflects over two decades of inked heritage.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1997"
+}

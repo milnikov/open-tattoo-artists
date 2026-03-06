@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "artistryking",
+  "name": "JT Ngo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artistryking",
+    "instagram": "https://www.instagram.com/artistryking/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistryking/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistryking/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistryking/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artistryking/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "JT Ngo is renowned for exquisite floral tattoo designs, infusing each piece with life and intricate detail. As the owner-artist at Artistry King Tattoo, JT upholds the highest standards of professionalism, ensuring that clients are met with a seamless blend of creative expertise and meticulous care. His dedication to the craft is evident not only in the stunning artwork he produces but also in the clean and hygienic environment he maintains for every session.\nPrice: $\nCurrent location:"
+}

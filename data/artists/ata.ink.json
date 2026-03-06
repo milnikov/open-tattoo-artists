@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ata.ink",
+  "name": "Ata",
+  "location": {
+    "city": "Badung",
+    "country": "Indonesia"
+  },
+  "styles": [
+    "realism",
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ata.ink",
+    "instagram": "https://www.instagram.com/ata.ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ata.ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ata.ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ata.ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ata.ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Ata, with nearly 150K Instagram followers, is a revered tattoo artist, specializing in realism, newschool, and neotraditional styles. Stationed in Badung, Indonesia, he demonstrates incredible artistry with each piece he meticulously crafts. Not only are his designs distinctive, but his acute attention to cleanliness and high standards of hygiene have earned him immense respect in the tattoo realm.\nPrice: $$$\nCurrent location: Badung, Indonesia"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "aregularguy",
+  "name": "Jake Whitson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/aregularguy",
+    "instagram": "https://www.instagram.com/aregularguy/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aregularguy/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aregularguy/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aregularguy/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aregularguy/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Jake Whitson is renowned for his exceptional traditional tattoo artistry, leaving clients in awe with his skillful precision and stunning designs. Operating out of LIBERTY TATTOO SEATTLE, he maintains an immaculate workspace, ensuring every appointment not only meets but exceeds industry standards for cleanliness. His dedication to a pristine tattooing environment makes every session with Jake a safe and reassuring experience.\nPrice: $\nCurrent location:"
+}

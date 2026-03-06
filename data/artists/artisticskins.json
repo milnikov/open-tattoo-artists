@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "artisticskins",
+  "name": "Artistic Skin Designs",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "dotwork",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/artisticskins",
+    "instagram": "https://www.instagram.com/artisticskins/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artisticskins/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artisticskins/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artisticskins/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artisticskins/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-05",
+  "bio": "Artistic Skin Designs is a professional and top-tier tattoo studio based in Indianapolis, Indiana, USA. Specializing in floral, dotwork, and black & gray styles, the studio crafts extraordinary body art in a creative and welcoming environment. Their approach blends expert precision with a keen eye for design, offering a caliber of service defined by artistry and personal expression.\nPrice: $$\nCurrent location:"
+}
