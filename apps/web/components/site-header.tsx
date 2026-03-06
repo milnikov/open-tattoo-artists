@@ -47,7 +47,7 @@ export function SiteHeader() {
             <button
               type="button"
               onClick={() => setSuggestOpen(true)}
-              className="text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors"
+              className="text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap"
             >
               Add Artist
             </button>
@@ -72,7 +72,7 @@ export function SiteHeader() {
               <button
                 type="button"
                 onClick={signIn}
-                className="text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors"
+                className="text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap"
               >
                 Login
               </button>

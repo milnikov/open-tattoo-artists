@@ -62,7 +62,7 @@ export function ArtistRow({
         href={`/artists/${artist.id}`}
         className="block hover:bg-muted/50 transition-colors"
       >
-        <div className="grid grid-cols-1 md:grid-cols-[40px_minmax(0,0.5fr)_minmax(0,1.2fr)_120px_346px] gap-4 md:gap-6 px-4 py-6 md:px-8 md:py-8 items-start">
+        <div className="grid grid-cols-1 md:grid-cols-[40px_minmax(0,0.5fr)_minmax(0,1.2fr)_120px_346px] gap-4 md:gap-6 px-4 py-6 md:px-8 md:py-8 items-start min-w-0">
           <span className="hidden md:block text-xs text-muted-foreground tabular-nums pt-0.5">
             {String(index + 1).padStart(3, "0")}
           </span>
@@ -85,7 +85,7 @@ export function ArtistRow({
 
           <div className="flex flex-col gap-1 text-xs min-w-0">
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
-            <span className="text-muted-foreground">
+            <span className="text-xs text-muted-foreground">
               {hasCity ? (
                 <span
                   role="button"
@@ -152,19 +152,19 @@ export function ArtistRow({
                     onTagClick?.(style);
                   }
                 }}
-                className="text-muted-foreground hover:text-foreground transition-colors cursor-pointer italic rounded"
+                className="text-xs text-muted-foreground hover:text-foreground transition-colors cursor-pointer italic rounded"
               >
                 {style}
               </span>
             ))}
           </div>
 
-          <div className="flex flex-col gap-2">
-            <div className="flex gap-1.5">
+          <div className="flex flex-col gap-2 min-w-0">
+            <div className="flex gap-1.5 overflow-x-auto overflow-y-hidden pb-1 -mx-4 px-4 md:mx-0 md:px-0 md:overflow-visible">
               {thumbsToShow.map((src, i) => (
                 <div
                   key={i}
-                  className="w-[72px] h-[96px] md:w-[80px] md:h-[108px] bg-muted overflow-hidden shrink-0"
+                  className="w-[108px] h-[144px] md:w-[120px] md:h-[162px] bg-muted overflow-hidden shrink-0"
                 >
                   <img
                     src={imageUrl(src)}
