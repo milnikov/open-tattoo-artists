@@ -167,7 +167,7 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
   };
 
   return (
-    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0 overflow-x-hidden">
+    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
       <div className="h-8 md:h-16" />
 
       <BrowseToolbar
@@ -195,24 +195,26 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
         onClearCities={handleClearCities}
       />
 
-      <main className="flex-1">
-        <ArtistList
-          artists={paginated}
-          globalOffset={globalOffset}
-          onTagClick={handleTagClick}
-          onCountryClick={handleCountryClick}
-          onCityClick={handleCityClick}
-        />
-        <ListStatusBar
-          totalCount={filteredArtists.length}
-          page={page}
-          totalPages={totalPages}
-          onPageChange={setPage}
-          variant="bottom"
-        />
-      </main>
+      <div className="flex-1 flex flex-col min-w-0 overflow-x-hidden">
+        <main className="flex-1 min-w-0">
+          <ArtistList
+            artists={paginated}
+            globalOffset={globalOffset}
+            onTagClick={handleTagClick}
+            onCountryClick={handleCountryClick}
+            onCityClick={handleCityClick}
+          />
+          <ListStatusBar
+            totalCount={filteredArtists.length}
+            page={page}
+            totalPages={totalPages}
+            onPageChange={setPage}
+            variant="bottom"
+          />
+        </main>
 
-      <SiteFooter />
+        <SiteFooter />
+      </div>
     </div>
   );
 }

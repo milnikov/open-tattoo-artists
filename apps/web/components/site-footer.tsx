@@ -20,7 +20,7 @@ export function SiteFooter() {
             <ArrowUpRight className="h-3 w-3 inline" />
           </a>
         </p>
-        <p>2026</p>
+        <p>{new Date().getFullYear()}</p>
       </div>
     </footer>
   );

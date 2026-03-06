@@ -2,8 +2,9 @@
 
 import { createClient } from "@/lib/supabase/client";
 import { useCallback, useEffect, useMemo, useState } from "react";
+import { Heart } from "lucide-react";
 
-type Props = { artistId: string };
+type Props = { artistId: string; variant?: "default" | "muted" };
 
 function fetchFavoriteState(
   supabase: NonNullable<ReturnType<typeof createClient>>,
@@ -25,7 +26,7 @@ function fetchFavoriteState(
   });
 }
 
-export function FavoriteButton({ artistId }: Props) {
+export function FavoriteButton({ artistId, variant = "default" }: Props) {
   const [isFavorite, setIsFavorite] = useState(false);
   const [loading, setLoading] = useState(false);
   const [show, setShow] = useState(false);
@@ -55,13 +56,26 @@ export function FavoriteButton({ artistId }: Props) {
     return () => subscription.unsubscribe();
   }, [supabase, artistId, refetch]);
 
+  async function handleLogin() {
+    if (!supabase) return;
+    await supabase.auth.signInWithOAuth({
+      provider: "google",
+      options: {
+        redirectTo: `${typeof window !== "undefined" ? window.location.origin : ""}/auth/callback`,
+      },
+    });
+  }
+
   async function toggle() {
     if (!supabase) return;
     setError(null);
     const {
       data: { session },
     } = await supabase.auth.getSession();
-    if (!session) return;
+    if (!session) {
+      handleLogin();
+      return;
+    }
     setLoading(true);
     if (isFavorite) {
       const { error: err } = await supabase
@@ -87,7 +101,19 @@ export function FavoriteButton({ artistId }: Props) {
     setLoading(false);
   }
 
-  if (!show) return null;
+  const isMuted = variant === "muted";
+  const buttonClass = isMuted
+    ? "text-xs text-muted-foreground hover:text-foreground transition-colors inline-flex items-center gap-1.5 disabled:opacity-50"
+    : "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5 disabled:opacity-50";
+
+  if (!show) {
+    return (
+      <button type="button" onClick={handleLogin} className={buttonClass}>
+        <Heart className="h-3 w-3 shrink-0" />
+        Save as favorite
+      </button>
+    );
+  }
 
   return (
     <span className="inline-flex flex-wrap items-center gap-2">
@@ -95,9 +121,12 @@ export function FavoriteButton({ artistId }: Props) {
         type="button"
         onClick={toggle}
         disabled={loading}
-        className="text-sm px-3 py-1.5 border rounded hover:bg-gray-50 disabled:opacity-50 inline-flex items-center gap-1"
+        className={buttonClass}
       >
-        {isFavorite ? "★ Favorited" : "☆ Add to favorites"}
+        <Heart
+          className={`h-3 w-3 shrink-0 ${isFavorite ? "fill-current" : ""}`}
+        />
+        {isFavorite ? "Saved" : "Save as favorite"}
       </button>
       {error && (
         <span className="text-sm text-red-600" role="alert">

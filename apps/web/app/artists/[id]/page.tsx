@@ -3,77 +3,118 @@ import { getContributorEmailForArtist } from "@/lib/contributions";
 import { imageUrl } from "@/lib/images";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ArrowLeft, ArrowUpRight } from "lucide-react";
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { ReportProblemButton } from "@/components/ReportProblemButton";
+import { SiteFooter } from "@/components/site-footer";
+
+const HEADER_BUTTON_CLASS =
+  "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5";
 
 export default async function ArtistPage({ params }: { params: { id: string } }) {
   const artist = getArtist(params.id);
   if (!artist) notFound();
 
   const contributorEmail = await getContributorEmailForArtist(params.id);
+  const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
 
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8">
-      <Link href="/" className="text-foreground hover:text-muted-foreground mb-4 inline-block text-sm">
-        ← Back to directory
-      </Link>
-      <div className="border border-border bg-card rounded-lg p-6 mb-6">
-        <h1 className="text-2xl font-bold text-foreground">{artist.name}</h1>
-        {contributorEmail && (
-          <p className="text-sm text-muted-foreground mt-1">
-            Contributed by {contributorEmail}
-          </p>
-        )}
-        <p className="text-muted-foreground mt-1">
-          {artist.location.city}, {artist.location.country}
-        </p>
-        {artist.styles.length > 0 && (
-          <p className="text-sm text-muted-foreground mt-2">
-            Styles: {artist.styles.join(", ")}
-          </p>
-        )}
-        {artist.bio && (
-          <div className="mt-3 text-muted-foreground text-sm whitespace-pre-line max-w-2xl">
-            {artist.bio.replace(/\nPrice:[\s\S]*$/, "").trim()}
-          </div>
-        )}
-        <div className="flex gap-4 mt-4">
-          <a
-            href={artist.links.instagram}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-foreground hover:text-muted-foreground underline"
-          >
-            Instagram
-          </a>
+    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
+      <div className="h-8 md:h-16" />
+      <div className="sticky top-0 z-10 bg-background flex items-center px-4 md:px-8 h-9 border-b border-border">
+        <Link
+          href="/"
+          className="inline-flex items-center gap-1 text-xs text-foreground hover:text-muted-foreground transition-colors"
+        >
+          <ArrowLeft className="h-3 w-3 shrink-0" />
+          Back to List
+        </Link>
+      </div>
+
+      <main className="flex-1 min-w-0 overflow-x-hidden">
+      {/* Head block: 3 cols (middle max 460px, last 1fr), 2 rows on md so buttons align */}
+      <div className="grid grid-cols-1 md:grid-cols-[1fr_3fr_2fr] md:grid-rows-[auto_auto] gap-4 md:gap-6 px-4 py-6 md:px-8 md:py-8 min-w-0">
+        <div className="flex flex-col gap-1 min-w-0 md:row-start-1 md:col-start-1">
+          <h1 className="text-sm font-bold text-foreground leading-tight">
+            {artist.name}
+          </h1>
+          <span className="text-xs text-muted-foreground">
+            {artist.location.city}, {artist.location.country}
+          </span>
+          {contributorEmail && (
+            <span className="text-xs text-muted-foreground mt-1 block">
+              Contributed by {contributorEmail}
+            </span>
+          )}
         </div>
-        <div className="mt-4 flex flex-wrap gap-2 items-center">
-          <FavoriteButton artistId={artist.id} />
+
+        <div className="flex flex-col gap-1 text-xs min-w-0 md:row-start-1 md:col-start-2">
+          {bioText && (
+            <span className="text-foreground leading-relaxed whitespace-pre-line block">
+              {bioText}
+            </span>
+          )}
+        </div>
+
+        <div className="flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-3">
+          {artist.styles.map((style) => (
+            <span
+              key={style}
+              className="text-xs text-muted-foreground italic"
+            >
+              {style}
+            </span>
+          ))}
+        </div>
+
+        <div className="hidden md:block md:row-start-2 md:col-start-1" aria-hidden />
+
+        <div className="flex flex-wrap items-center gap-2 mt-1 md:mt-0 md:row-start-2 md:col-start-2 min-w-0">
+          {artist.links.instagram && (
+            <a
+              href={artist.links.instagram}
+              target="_blank"
+              rel="noopener noreferrer"
+              className={HEADER_BUTTON_CLASS + " w-fit"}
+            >
+              Instagram
+              <ArrowUpRight className="h-3 w-3 shrink-0" />
+            </a>
+          )}
           <ReportProblemButton
             artistId={artist.id}
             artistName={artist.name}
             instagramUrl={artist.links.instagram}
           />
         </div>
+
+        <div className="mt-2 md:mt-0 md:row-start-2 md:col-start-3 min-w-0">
+          <FavoriteButton artistId={artist.id} />
+        </div>
       </div>
-      <h2 className="text-lg font-semibold text-foreground mb-4">Gallery</h2>
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-4">
-        {artist.tattoos.map((t) => (
-          <a
-            key={t.image_id}
-            href={imageUrl(t.image_full)}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block aspect-square rounded overflow-hidden bg-muted"
-          >
-            <img
-              src={imageUrl(t.image_thumb)}
-              alt={`${artist.name} tattoo ${t.image_id}`}
-              className="w-full h-full object-cover hover:opacity-90 transition"
-            />
-          </a>
-        ))}
+
+      <div className="border-t border-border px-2 pt-3 pb-4 md:px-8 md:pt-6 md:pb-8">
+        <div className="columns-2 md:columns-3 gap-x-2 md:gap-x-4">
+          {artist.tattoos.map((t) => (
+            <a
+              key={t.image_id}
+              href={imageUrl(t.image_full)}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="block break-inside-avoid rounded overflow-hidden bg-muted hover:opacity-95 transition-opacity mb-2 md:mb-4"
+            >
+              <img
+                src={imageUrl(t.image_thumb)}
+                alt={`${artist.name} tattoo ${t.image_id}`}
+                className="w-full h-auto block"
+              />
+            </a>
+          ))}
+        </div>
       </div>
+      </main>
+
+      <SiteFooter />
     </div>
   );
 }
