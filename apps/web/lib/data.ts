@@ -15,6 +15,8 @@ export interface CompactArtist {
   thumbs?: string[];
   /** Optional bio for list excerpt. */
   bio?: string | null;
+  /** When artist info was last updated (e.g. "2026-03-06"). */
+  updated_at?: string;
 }
 
 export interface SearchIndexEntry {

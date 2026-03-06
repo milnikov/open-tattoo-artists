@@ -63,6 +63,8 @@ def build_compact(artists: list[dict]) -> list[dict]:
         }
         if a.get("bio"):
             entry["bio"] = a["bio"]
+        if a.get("updated_at"):
+            entry["updated_at"] = a["updated_at"]
         out.append(entry)
     return sorted(out, key=lambda x: x["name"].lower())
 

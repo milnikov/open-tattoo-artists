@@ -127,6 +127,11 @@ export function ArtistRow({
 
           <div className="flex flex-col gap-1 text-xs min-w-0">
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
+            {artist.updated_at && (
+              <span className="text-xs text-muted-foreground">
+                {artist.updated_at}
+              </span>
+            )}
           </div>
 
           <div className="flex flex-col gap-y-0.5 text-xs">
