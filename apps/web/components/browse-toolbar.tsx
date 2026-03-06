@@ -63,7 +63,7 @@ export function BrowseToolbar({
             placeholder="Search artists, cities..."
             value={search}
             onChange={(e) => onSearchChange(e.target.value)}
-            className="w-full bg-transparent py-0 pl-5 pr-5 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none"
+            className="w-full bg-transparent py-0 pl-5 pr-5 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none rounded"
           />
           {search && (
             <button

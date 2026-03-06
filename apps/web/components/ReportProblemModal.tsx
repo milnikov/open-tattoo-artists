@@ -2,6 +2,7 @@
 
 import { reportProblem, type ReportProblemResult } from "@/app/actions/report-problem";
 import { REPORT_PROBLEM_OPTIONS } from "@/lib/report-problem-options";
+import { X } from "lucide-react";
 import { useState } from "react";
 
 function getInstagramHandle(url: string): string {
@@ -65,45 +66,52 @@ export function ReportProblemModal({
 
   if (!open) return null;
 
+  const cancelButtonClass =
+    "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap";
+  const submitButtonClass =
+    "text-xs rounded border px-3 py-1 whitespace-nowrap transition-colors disabled:cursor-not-allowed " +
+    "enabled:bg-foreground enabled:text-background enabled:border-foreground enabled:hover:opacity-90 " +
+    "disabled:opacity-50 disabled:bg-transparent disabled:text-foreground disabled:border-border";
+
   return (
     <div
       className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50"
       onClick={onClose}
     >
       <div
-        className="bg-white rounded-lg shadow-xl max-w-md w-full max-h-[90vh] overflow-y-auto p-6"
+        className="bg-background text-foreground rounded-lg shadow-xl max-w-md w-full max-h-[90vh] overflow-y-auto px-4 py-3 border border-border text-xs"
         onClick={(e) => e.stopPropagation()}
       >
         <div className="flex justify-between items-center mb-4">
-          <h2 className="text-xl font-bold">Report a problem</h2>
+          <h2 className="text-sm font-bold text-foreground">Request update</h2>
           <button
             type="button"
             onClick={onClose}
-            className="text-gray-400 hover:text-gray-600 text-2xl leading-none"
+            className="rounded text-muted-foreground hover:text-foreground transition-colors"
             aria-label="Close"
           >
-            ×
+            <X className="h-3.5 w-3.5" />
           </button>
         </div>
-        <p className="text-gray-600 text-sm mb-4">
-          We’ll create a GitHub issue and add it to your Contributions. This artist: <strong>{artistName}</strong>
+        <p className="text-muted-foreground mb-4">
+          We’ll create an update request and add it to your Contributions for: <strong className="text-foreground">{artistName}</strong>
         </p>
         {result?.ok && (
-          <div className="mb-4 p-3 rounded-lg bg-green-50 text-green-800 text-sm">
-            Report submitted.{" "}
+          <div className="mb-4 p-3 rounded-lg bg-green-50 dark:bg-green-950/30 text-green-800 dark:text-green-200">
+            Request submitted.{" "}
             <a href={result.issueUrl} target="_blank" rel="noopener noreferrer" className="underline">
               Open issue
             </a>
           </div>
         )}
         {result && !result.ok && (
-          <div className="mb-4 p-3 rounded-lg bg-red-50 text-red-700 text-sm">
+          <div className="mb-4 p-3 rounded-lg bg-red-50 dark:bg-red-950/30 text-red-700 dark:text-red-300">
             {result.error}
           </div>
         )}
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <span className="block text-sm font-medium text-gray-700 mb-2">What&apos;s wrong? *</span>
+            <span className="block font-medium text-foreground mb-2">What needs updating? *</span>
             <div className="space-y-2">
               {REPORT_PROBLEM_OPTIONS.map((opt) => (
                 <label key={opt.value} className="flex items-center gap-2 cursor-pointer">
@@ -111,16 +119,16 @@ export function ReportProblemModal({
                     type="checkbox"
                     checked={whatWrong.includes(opt.value)}
                     onChange={() => toggleOption(opt.value)}
-                    className="rounded border-gray-300"
+                    className="rounded border-border text-foreground"
                   />
-                  <span className="text-sm">{opt.label}</span>
+                  <span className="text-foreground">{opt.label}</span>
                 </label>
               ))}
             </div>
           </div>
           <div>
-            <label htmlFor="report-description" className="block text-sm font-medium text-gray-700 mb-1">
-              Describe the issue *
+            <label htmlFor="report-description" className="block font-medium text-foreground mb-1">
+              Describe what should be updated *
             </label>
             <textarea
               id="report-description"
@@ -128,37 +136,33 @@ export function ReportProblemModal({
               onChange={(e) => setDescription(e.target.value)}
               required
               rows={3}
-              className="w-full border border-gray-300 rounded-lg px-3 py-2"
+              className="w-full border border-border rounded px-3 py-2 bg-background text-foreground"
               placeholder="What should be changed?"
             />
           </div>
           <div>
-            <label htmlFor="report-fix" className="block text-sm font-medium text-gray-700 mb-1">
-              Suggested fix (optional)
+            <label htmlFor="report-fix" className="block font-medium text-foreground mb-1">
+              Suggested correction (optional)
             </label>
             <textarea
               id="report-fix"
               value={suggestedFix}
               onChange={(e) => setSuggestedFix(e.target.value)}
               rows={2}
-              className="w-full border border-gray-300 rounded-lg px-3 py-2"
+              className="w-full border border-border rounded px-3 py-2 bg-background text-foreground"
               placeholder="Correct location, links, etc."
             />
           </div>
           <div className="flex gap-2 justify-end">
-            <button
-              type="button"
-              onClick={onClose}
-              className="px-4 py-2 text-gray-700 hover:bg-gray-100 rounded-lg"
-            >
+            <button type="button" onClick={onClose} className={cancelButtonClass}>
               Cancel
             </button>
             <button
               type="submit"
               disabled={loading || whatWrong.length === 0}
-              className="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-800 disabled:opacity-50"
+              className={submitButtonClass}
             >
-              {loading ? "Submitting…" : "Submit report"}
+              {loading ? "Submitting…" : "Submit request"}
             </button>
           </div>
         </form>

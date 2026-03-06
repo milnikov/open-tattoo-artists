@@ -27,7 +27,7 @@ export async function reportProblem(
   } = await supabase.auth.getUser();
 
   if (authError || !user) {
-    return { ok: false, error: "You must be signed in to report a problem." };
+    return { ok: false, error: "You must be signed in to request an update." };
   }
 
   if (!artistId.trim() || !artistName.trim()) {
