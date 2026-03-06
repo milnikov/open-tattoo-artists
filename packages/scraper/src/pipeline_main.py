@@ -25,6 +25,9 @@ from r2 import get_r2_client, upload_artist_images
 from writer import build_artist_json, write_artist
 from state import load_state, save_state, is_completed, mark_completed, merge_worker_states
 
+# Exit code when all artists in the list have been processed (for run_daily_parallel.sh to stop).
+EXIT_ALL_DONE = 2
+
 
 def load_config():
     """Load config.yaml from packages/scraper/."""
@@ -56,11 +59,8 @@ def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
     last = state["last_index"]
     start = max(last + 1, args.start_index) if last >= 0 else args.start_index
     if start >= len(urls):
-        print("   All artists processed. Resetting and starting from 0.")
-        state["completed_ids"] = set()
-        state["last_index"] = -1
-        save_state(state["completed_ids"], -1, main_state_path)
-        start = 0
+        print("   All artists processed. Exiting (run_daily_parallel.sh will stop).")
+        sys.exit(EXIT_ALL_DONE)
 
     total = limit if limit is not None else (len(urls) - start)
     total = min(total, len(urls) - start)
@@ -157,15 +157,12 @@ def main():
     # Batch size: CLI > config > 100
     batch_size = args.batch_size or config.get("batch_size") or 100
 
-    # Resume from last_index+1 or start_index. If all done, reset and start from 0.
+    # Resume from last_index+1 or start_index. If all done, exit so run_daily_parallel.sh can stop.
     last = state["last_index"]
     start = max(last + 1, args.start_index) if last >= 0 else args.start_index
     if start >= len(urls):
-        print("   All artists processed. Resetting and starting from 0.")
-        state["completed_ids"] = set()
-        state["last_index"] = -1
-        save_state(state["completed_ids"], -1, state_path)
-        start = 0
+        print("   All artists processed. Exiting (run_daily_parallel.sh will stop).")
+        sys.exit(EXIT_ALL_DONE)
     end = start + limit if limit is not None else len(urls)
     end = min(end, len(urls))
     urls_to_process = urls[start:end]
@@ -292,6 +289,12 @@ def main():
         if not args.no_git and success_count > 0 and success_count % batch_size == 0:
             if git_commit_and_push(message=f"chore: add {batch_size} scraped artists"):
                 committed += batch_size
+
+    # Commit any remainder (e.g. with 3 workers each doing ~167, we commit at 100 each; remainder stays uncommitted otherwise)
+    if not args.no_git and success_count > committed:
+        remainder = success_count - committed
+        if git_commit_and_push(message=f"chore: add {remainder} scraped artists"):
+            committed += remainder
 
     print(f"\n📊 Done. Success: {success_count}")
     if committed:

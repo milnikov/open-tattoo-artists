@@ -13,6 +13,15 @@ while true; do
   run_start=$(date +%s)
   echo "🔄 Daily parallel run: 500 artists/day, 3 workers, commit every 100 (started $(date))"
   python3 packages/scraper/src/pipeline_main.py --workers 3 --batch-size 100
+  exit_code=$?
+  if [ "$exit_code" -eq 2 ]; then
+    echo "✅ All artist pages processed. Exiting."
+    exit 0
+  fi
+  if [ "$exit_code" -ne 0 ]; then
+    echo "❌ Pipeline failed with exit code $exit_code"
+    exit "$exit_code"
+  fi
   echo "✅ Batch done"
 
   elapsed=$(($(date +%s) - run_start))
