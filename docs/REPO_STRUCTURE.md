@@ -1,6 +1,6 @@
 # Open Tattoo Artists — Recommended GitHub Repo Structure
 
-This structure keeps **metadata open in GitHub**, **images in Cloudflare R2**, and **user data in Supabase**.
+This structure keeps **metadata open in GitHub**, **images in Cloudflare R2**, and **user data in Supabase**. (Your repo may be named differently, e.g. `Tattoo_artists`.)
 
 ## Folder layout
 
@@ -32,6 +32,7 @@ open-tattoo-artists/
       <handle>.json
     styles/
       styles.json                 # Flat list of styles (canonical)
+    cities/                       # Optional city list (e.g. for normalization)
     indexes/                      # Generated; do not edit manually
       artists.compact.json
       search-index.json

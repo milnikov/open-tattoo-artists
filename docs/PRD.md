@@ -59,11 +59,9 @@ tattoo directory where:
     -   Source link
     -   Image gallery (\~50 images max)
     -   Add artist to favourites
-    -   Add tattoo to favourites
     -   Report problem
 -   Profile page:
     -   Favourite artists
-    -   Favourite tattoos
     -   Contributions + status
 
 ### Non-Goals (MVP)
@@ -120,8 +118,7 @@ Vercel deployment
         "dominant_colours": [],
         "body_parts": [],
         "size_category": null,
-        "confidence_score": null,
-        "model_version": null
+        "confidence_score": null
       }
     }
   ],
@@ -134,7 +131,8 @@ Rules:
 -   `id` = Instagram handle (unique, global)
 -   No duplicate artists allowed
 -   `image_id` must be stable and never reused
--   `analysis` may be empty initially
+-   `image_full` and `image_thumb` may be relative paths (e.g. `artists/handle/full/001.webp`) or full CDN URLs
+-   `analysis` may be empty initially; AI phase may add `model_version`
 -   Human-edited metadata lives only in GitHub
 
 ------------------------------------------------------------------------
@@ -174,17 +172,10 @@ Estimated scale:
 -   avatar_url
 -   created_at
 
-### favourite_artists
+### favourites (artist favourites)
 
 -   user_id
 -   artist_id
--   created_at
-
-### favourite_tattoos
-
--   user_id
--   artist_id
--   tattoo_id
 -   created_at
 
 ### contributions
@@ -303,7 +294,7 @@ filter sessions - AI tag accuracy sampling
 -   Directory list + filters functional
 -   Artist page functional
 -   Images served from R2
--   Artist + Tattoo favourites working
+-   Artist favourites working
 -   GitHub Issue submission working
 -   Contribute tab visible
 -   Production deployment stable

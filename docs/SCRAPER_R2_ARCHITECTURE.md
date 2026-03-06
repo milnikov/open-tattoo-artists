@@ -88,8 +88,8 @@ This doc describes how to scrape artist pages (e.g., TattoosWizard) and store:
 
 ### If location is missing
 - Save as:
-  - city: `""`
-  - country: `""`
+  - city: `"Unknown"`
+  - country: `"Unknown"`
 …and allow later community fixes via Report Problem issues.
 
 ### Styles
@@ -137,6 +137,8 @@ Maintain a local state file (or SQLite) on VPS:
 - `writer.py` — JSON writer + schema_version stamping
 - `state.py` — resume state tracking
 - `main.py` — orchestration
+
+Actual entrypoints and layout: see `packages/scraper/src/` (e.g. `pipeline_main.py`).
 
 ---
 

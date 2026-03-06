@@ -21,17 +21,6 @@ create table if not exists public.favourites (
 create index if not exists favourites_user_id_idx on public.favourites(user_id);
 create index if not exists favourites_artist_id_idx on public.favourites(artist_id);
 
--- 2b) Favourite tattoos (artist_id + tattoo_id)
-create table if not exists public.favourite_tattoos (
-  user_id uuid not null references auth.users(id) on delete cascade,
-  artist_id text not null,
-  tattoo_id text not null,
-  created_at timestamptz not null default now(),
-  primary key (user_id, artist_id, tattoo_id)
-);
-
-create index if not exists favourite_tattoos_user_id_idx on public.favourite_tattoos(user_id);
-
 -- 3) Contributions (tracks GitHub Issues created from the site)
 create table if not exists public.contributions (
   id uuid primary key default gen_random_uuid(),
@@ -49,7 +38,6 @@ create index if not exists contributions_artist_id_idx on public.contributions(a
 -- ========== RLS ==========
 alter table public.profiles enable row level security;
 alter table public.favourites enable row level security;
-alter table public.favourite_tattoos enable row level security;
 alter table public.contributions enable row level security;
 
 -- Profiles: user can read/update their own profile
@@ -83,17 +71,6 @@ drop policy if exists "favourites_delete_own" on public.favourites;
 create policy "favourites_delete_own"
 on public.favourites for delete
 using (auth.uid() = user_id);
-
--- Favourite tattoos: user can CRUD only their own
-drop policy if exists "favourite_tattoos_select_own" on public.favourite_tattoos;
-create policy "favourite_tattoos_select_own"
-on public.favourite_tattoos for select using (auth.uid() = user_id);
-drop policy if exists "favourite_tattoos_insert_own" on public.favourite_tattoos;
-create policy "favourite_tattoos_insert_own"
-on public.favourite_tattoos for insert with check (auth.uid() = user_id);
-drop policy if exists "favourite_tattoos_delete_own" on public.favourite_tattoos;
-create policy "favourite_tattoos_delete_own"
-on public.favourite_tattoos for delete using (auth.uid() = user_id);
 
 -- Contributions: user can see & create their own contributions
 drop policy if exists "contributions_select_own" on public.contributions;
