@@ -1,6 +1,7 @@
 "use client";
 
-import { useState, useMemo, useEffect } from "react";
+import { useState, useMemo, useEffect, useCallback, useRef } from "react";
+import { useSearchParams, usePathname, useRouter } from "next/navigation";
 import type { CompactArtist } from "@/lib/data";
 import { BrowseToolbar } from "./browse-toolbar";
 import { ArtistList } from "./artist-list";
@@ -9,18 +10,104 @@ import { SiteFooter } from "./site-footer";
 
 const PAGE_SIZE = 20;
 
+function parseFiltersFromSearchParams(searchParams: URLSearchParams) {
+  const q = searchParams.get("q") ?? "";
+  const styles = searchParams.get("styles");
+  const countries = searchParams.get("countries");
+  const cities = searchParams.get("cities");
+  const pageParam = searchParams.get("page");
+  const page = pageParam
+    ? Math.max(0, parseInt(pageParam, 10) - 1)
+    : 0;
+  return {
+    search: q,
+    selectedStyles: styles ? styles.split(",").map((s) => decodeURIComponent(s.trim())).filter(Boolean) : [],
+    selectedCountries: countries ? countries.split(",").map((c) => decodeURIComponent(c.trim())).filter(Boolean) : [],
+    selectedCities: cities ? cities.split(",").map((c) => decodeURIComponent(c.trim())).filter(Boolean) : [],
+    page,
+  };
+}
+
+function buildSearchString(parsed: {
+  search: string;
+  selectedStyles: string[];
+  selectedCountries: string[];
+  selectedCities: string[];
+  page: number;
+}) {
+  const params = new URLSearchParams();
+  if (parsed.search.trim()) params.set("q", parsed.search.trim());
+  if (parsed.selectedStyles.length) params.set("styles", parsed.selectedStyles.map(encodeURIComponent).join(","));
+  if (parsed.selectedCountries.length) params.set("countries", parsed.selectedCountries.map(encodeURIComponent).join(","));
+  if (parsed.selectedCities.length) params.set("cities", parsed.selectedCities.map(encodeURIComponent).join(","));
+  if (parsed.page > 0) params.set("page", String(parsed.page + 1));
+  const qs = params.toString();
+  return qs ? `?${qs}` : "";
+}
+
 interface ArtistListPageProps {
   artists: CompactArtist[];
 }
 
 export function ArtistListPage({ artists }: ArtistListPageProps) {
+  const searchParams = useSearchParams();
+  const pathname = usePathname();
+  const router = useRouter();
+
   const [activeFilter, setActiveFilter] = useState("All");
   const [isFilterPanelExpanded, setIsFilterPanelExpanded] = useState(false);
-  const [selectedStyles, setSelectedStyles] = useState<string[]>([]);
-  const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
-  const [selectedCities, setSelectedCities] = useState<string[]>([]);
-  const [search, setSearch] = useState("");
-  const [page, setPage] = useState(0);
+  const [selectedStyles, setSelectedStyles] = useState<string[]>(() =>
+    parseFiltersFromSearchParams(searchParams).selectedStyles
+  );
+  const [selectedCountries, setSelectedCountries] = useState<string[]>(() =>
+    parseFiltersFromSearchParams(searchParams).selectedCountries
+  );
+  const [selectedCities, setSelectedCities] = useState<string[]>(() =>
+    parseFiltersFromSearchParams(searchParams).selectedCities
+  );
+  const [search, setSearch] = useState(() =>
+    parseFiltersFromSearchParams(searchParams).search
+  );
+  const [page, setPage] = useState(() =>
+    parseFiltersFromSearchParams(searchParams).page
+  );
+
+  // Restore filters from URL when navigating back (new mount with different URL)
+  const prevParamsRef = useRef(searchParams.toString());
+  useEffect(() => {
+    const current = searchParams.toString();
+    if (current !== prevParamsRef.current) {
+      prevParamsRef.current = current;
+      const parsed = parseFiltersFromSearchParams(searchParams);
+      setSearch(parsed.search);
+      setSelectedStyles(parsed.selectedStyles);
+      setSelectedCountries(parsed.selectedCountries);
+      setSelectedCities(parsed.selectedCities);
+      setPage(parsed.page);
+    }
+  }, [searchParams]);
+
+  const updateUrl = useCallback(
+    (updates: {
+      search?: string;
+      selectedStyles?: string[];
+      selectedCountries?: string[];
+      selectedCities?: string[];
+      page?: number;
+    }) => {
+      const parsed = parseFiltersFromSearchParams(searchParams);
+      const next = {
+        search: updates.search ?? parsed.search,
+        selectedStyles: updates.selectedStyles ?? parsed.selectedStyles,
+        selectedCountries: updates.selectedCountries ?? parsed.selectedCountries,
+        selectedCities: updates.selectedCities ?? parsed.selectedCities,
+        page: updates.page ?? parsed.page,
+      };
+      const qs = buildSearchString(next);
+      router.replace(`${pathname}${qs}`, { scroll: false });
+    },
+    [pathname, router, searchParams]
+  );
 
   const { allStyles, allCountries, citiesForSelectedCountries } = useMemo(() => {
     const styleSet = new Set<string>();
@@ -87,7 +174,14 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
 
   useEffect(() => {
     setPage(0);
-  }, [selectedStyles, selectedCountries, selectedCities, search]);
+    updateUrl({
+      search,
+      selectedStyles,
+      selectedCountries,
+      selectedCities,
+      page: 0,
+    });
+  }, [selectedStyles, selectedCountries, selectedCities, search, updateUrl]);
 
   const totalPages = Math.ceil(filteredArtists.length / PAGE_SIZE) || 1;
   const paginated = filteredArtists.slice(
@@ -176,11 +270,18 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
         onFilterChange={handleFilterChange}
         onCollapseFilterPanel={handleCollapseFilterPanel}
         search={search}
-        onSearchChange={setSearch}
+        onSearchChange={(value) => {
+          setSearch(value);
+          setPage(0);
+          updateUrl({ search: value, page: 0 });
+        }}
         totalCount={filteredArtists.length}
         page={page}
         totalPages={totalPages}
-        onPageChange={setPage}
+        onPageChange={(p) => {
+          setPage(p);
+          updateUrl({ page: p });
+        }}
         styles={allStyles}
         countries={allCountries}
         selectedStyles={selectedStyles}
@@ -208,7 +309,10 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
             totalCount={filteredArtists.length}
             page={page}
             totalPages={totalPages}
-            onPageChange={setPage}
+            onPageChange={(p) => {
+          setPage(p);
+          updateUrl({ page: p });
+        }}
             variant="bottom"
           />
         </main>

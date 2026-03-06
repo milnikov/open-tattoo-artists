@@ -1,12 +1,22 @@
+import Link from "next/link";
 import { getArtist } from "@/lib/data";
 import { getContributorEmailForArtist } from "@/lib/contributions";
 import { imageUrl } from "@/lib/images";
-import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, ArrowUpRight } from "lucide-react";
+import { ArrowUpRight } from "lucide-react";
 import { FavoriteButton } from "@/components/FavoriteButton";
+import { BackToListLink } from "@/components/back-to-list-link";
 import { ReportProblemButton } from "@/components/ReportProblemButton";
 import { SiteFooter } from "@/components/site-footer";
+
+function listUrl(params: { styles?: string[]; countries?: string[]; cities?: string[] }) {
+  const searchParams = new URLSearchParams();
+  if (params.styles?.length) searchParams.set("styles", params.styles.map(encodeURIComponent).join(","));
+  if (params.countries?.length) searchParams.set("countries", params.countries.map(encodeURIComponent).join(","));
+  if (params.cities?.length) searchParams.set("cities", params.cities.map(encodeURIComponent).join(","));
+  const qs = searchParams.toString();
+  return qs ? `/?${qs}` : "/";
+}
 
 const HEADER_BUTTON_CLASS =
   "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5";
@@ -22,13 +32,7 @@ export default async function ArtistPage({ params }: { params: { id: string } })
     <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
       <div className="h-8 md:h-16" />
       <div className="sticky top-0 z-10 bg-background flex items-center px-4 md:px-8 h-9 border-b border-border">
-        <Link
-          href="/"
-          className="inline-flex items-center gap-1 text-xs text-foreground hover:text-muted-foreground transition-colors"
-        >
-          <ArrowLeft className="h-3 w-3 shrink-0" />
-          Back to List
-        </Link>
+        <BackToListLink />
       </div>
 
       <main className="flex-1 min-w-0 overflow-x-hidden">
@@ -39,7 +43,40 @@ export default async function ArtistPage({ params }: { params: { id: string } })
             {artist.name}
           </h1>
           <span className="text-xs text-muted-foreground">
-            {artist.location.city}, {artist.location.country}
+            {artist.location.city && artist.location.country ? (
+              <>
+                <Link
+                  href={listUrl({
+                    countries: [artist.location.country],
+                    cities: [artist.location.city],
+                  })}
+                  className="text-muted-foreground"
+                >
+                  {artist.location.city}
+                </Link>
+                {", "}
+                <Link
+                  href={listUrl({ countries: [artist.location.country] })}
+                  className="text-muted-foreground"
+                >
+                  {artist.location.country}
+                </Link>
+              </>
+            ) : artist.location.city ? (
+              <Link
+                href={listUrl({ cities: [artist.location.city] })}
+                className="text-muted-foreground"
+              >
+                {artist.location.city}
+              </Link>
+            ) : artist.location.country ? (
+              <Link
+                href={listUrl({ countries: [artist.location.country] })}
+                className="text-muted-foreground"
+              >
+                {artist.location.country}
+              </Link>
+            ) : null}
           </span>
           {contributorEmail && (
             <span className="text-xs text-muted-foreground mt-1 block">
@@ -60,12 +97,13 @@ export default async function ArtistPage({ params }: { params: { id: string } })
 
         <div className="flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-4 md:items-end md:text-right">
           {artist.styles.map((style) => (
-            <span
+            <Link
               key={style}
+              href={listUrl({ styles: [style] })}
               className="text-xs text-muted-foreground italic"
             >
               {style}
-            </span>
+            </Link>
           ))}
         </div>
 
