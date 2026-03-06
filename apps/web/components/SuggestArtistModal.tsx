@@ -115,7 +115,11 @@ export function SuggestArtistModal({ onClose, open }: Props) {
             <button type="button" onClick={onClose} className={cancelButtonClass}>
               Cancel
             </button>
-            <button type="submit" disabled={loading} className={submitButtonClass}>
+            <button
+              type="submit"
+              disabled={loading || !artistName.trim() || !profileUrl.trim()}
+              className={submitButtonClass}
+            >
               {loading ? "Creating…" : "Create issue"}
             </button>
           </div>
