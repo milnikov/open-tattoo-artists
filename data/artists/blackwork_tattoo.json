@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "blackwork_tattoo",
+  "name": "Blackwork Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blackwork_tattoo",
+    "instagram": "https://www.instagram.com/blackwork_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackwork_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackwork_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackwork_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackwork_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Blackwork Tattoo is renowned for their impeccable skill in tribal and geometric styles, delivering intricate designs that are both bold and precise. Each piece crafted by Blackwork Tattoo is a testament to their mastery of dark, clean lines, and evocative patterns that are truly a cut above. Clients and fellow artists alike admire their work, often seeking out their portfolio for a daily dose of inspiration in the realm of dark tattoos.\nPrice: $\nCurrent location:"
+}

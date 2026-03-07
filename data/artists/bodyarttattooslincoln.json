@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "bodyarttattooslincoln",
+  "name": "Body Art Tattoos Lincoln",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "black&gray",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bodyarttattooslincoln",
+    "instagram": "https://www.instagram.com/bodyarttattooslincoln/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyarttattooslincoln/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyarttattooslincoln/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyarttattooslincoln/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyarttattooslincoln/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Body Art Tattoos Lincoln, nestled in the historic heart of Lincoln, UK, specializes in intricate tribal, elegant black & gray, and precise geometric tattoo designs. Our welcoming studio prides itself on creating mesmerizing body art in a serene and professional environment. To schedule your appointment with one of our skilled artists, reach out to us via email, Facebook, or a traditional phone call; please note that bookings are not accepted through Instagram.\nPrice: $\nCurrent location:"
+}

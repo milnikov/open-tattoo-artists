@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "blackarts.octc",
+  "name": "Andrew Blackmon",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blackarts.octc",
+    "instagram": "https://www.instagram.com/blackarts.octc/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackarts.octc/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackarts.octc/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackarts.octc/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackarts.octc/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Andrew Blackmon is a highly skilled tattoo artist, specializing in traditional and illustrative styles. He is currently showcasing his meticulous artistry at Orchard City Tattoo Company in Orangevale, CA. Clients frequently commend Andrew for his impressive attention to detail and professional approach, ensuring each piece is a masterpiece in its own right.\nPrice: $\nCurrent location:"
+}

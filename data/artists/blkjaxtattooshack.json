@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "blkjaxtattooshack",
+  "name": "Blackjax Tattoo Shack",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blkjaxtattooshack",
+    "instagram": "https://www.instagram.com/blkjaxtattooshack/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkjaxtattooshack/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkjaxtattooshack/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkjaxtattooshack/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkjaxtattooshack/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Blackjax Tattoo Shack, nestled in the heart of Chandler, Arizona, is a creative art hub that specializes in avant-garde Trashpolka, intricate Black&Gray, and hyper-realistic tattoos. With a combination of raw talent and precision, this eclectic studio curates ambitious designs, inviting its clientele to embrace a blend of tradition and modernity inked with absolute care. Their doors are always open for bookings at 594 N Arizona Ave, reachable at 623.703.TAT2.\nPrice: $$\nCurrent location:"
+}

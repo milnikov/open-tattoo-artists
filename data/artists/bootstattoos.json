@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bootstattoos",
+  "name": "BootsTattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bootstattoos",
+    "instagram": "https://www.instagram.com/bootstattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bootstattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bootstattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bootstattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bootstattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Step into the world of monochromatic mastery at BootsTattoos, Tinley Park's premier destination for black and gray realism tattoos. Our renowned artists specialize in etching lifelike, intricate designs that capture the essence of Aztec artistry and modern flair. For a truly bespoke tattoo experience, book your session at BootsTattoos and let our talented team, including our dedicated assistant Karen, craft your next piece of wearable art.\nPrice: $$\nCurrent location:"
+}

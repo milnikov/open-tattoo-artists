@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "black_jack_tattoo_by_jaggo",
+  "name": "Jaggo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/black_jack_tattoo_by_jaggo",
+    "instagram": "https://www.instagram.com/black_jack_tattoo_by_jaggo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_jack_tattoo_by_jaggo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_jack_tattoo_by_jaggo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_jack_tattoo_by_jaggo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_jack_tattoo_by_jaggo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "Renowned for his mastery in minimalist and black & gray tattoos, Jaggo has established himself as a peerless artist since 2008. His work, characterized by crisp lines and intricate details, demonstrates a high level of skill and professionalism that is unmistakable upon each meticulously crafted piece. Clients are welcomed to experience his artistry within a schedule that respects both his time and theirs, ensuring every session is conducted with the utmost respect for the craft.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2008"
+}

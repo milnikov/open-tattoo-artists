@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "blackworksupply",
+  "name": "BlackWorkSupply",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blackworksupply",
+    "instagram": "https://www.instagram.com/blackworksupply/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackworksupply/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackworksupply/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackworksupply/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackworksupply/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-06",
+  "bio": "BlackWorkSupply is a highly skilled tattoo artist, renowned for their exceptional talent in creating stunning pieces in the realism and trash polka styles. Their meticulous attention to detail ensures every tattoo is not only a work of art but also a testament to their dedication to their craft. Clients can expect a transformative experience when getting inked by BlackWorkSupply, whose artistry is matched by their unwavering professionalism.\nPrice: $\nCurrent location:"
+}

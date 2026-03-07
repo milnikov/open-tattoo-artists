@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "blessedtattoohtx",
+  "name": "BLESSED TATTOO STUDIO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/blessedtattoohtx",
+    "instagram": "https://www.instagram.com/blessedtattoohtx/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blessedtattoohtx/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blessedtattoohtx/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blessedtattoohtx/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blessedtattoohtx/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Blessed Tattoo Studio, located in the heart of The Galleria in Houston, introduces a blend of luxury and creativity in its approach to tattoos and permanent makeup. Specializing in black&gray and realism styles, this premier studio offers exquisite custom designs. They warmly welcome both appointments and walk-ins with a smile."
+}

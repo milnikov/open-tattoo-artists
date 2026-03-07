@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "bloodflowerstattoo",
+  "name": "Sophie Jess",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "sketch",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bloodflowerstattoo",
+    "instagram": "https://www.instagram.com/bloodflowerstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bloodflowerstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bloodflowerstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bloodflowerstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bloodflowerstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Sophie Jess is a talented and highly skilled tattoo artist based in Northamptonshire, UK, under the handle of @fureytalestudios. Specializing in floral, sketch, and illustrative styles, she masterfully blends nature and folklore inspirations to create enduring works of art on skin.\nPrice: $$\nCurrent location:"
+}
