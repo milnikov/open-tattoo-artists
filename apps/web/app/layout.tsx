@@ -6,7 +6,7 @@ import { SiteHeader } from "@/components/site-header";
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const spectral = Spectral({
   subsets: ["latin"],
-  weight: ["300"],
+  weight: ["400"],
   style: ["italic"],
   variable: "--font-spectral-italic",
 });
