@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "chicomorbene",
+  "name": "Chico Morbene",
+  "location": {
+    "city": "Porto Alegre",
+    "country": "Rio Grande do Sul BLACK AND GREYREALISM"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/chicomorbene",
+    "instagram": "https://instagram.com/chicomorbene",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicomorbene/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicomorbene/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE Morbene Tattoo Shop Porto Alegre"
+}

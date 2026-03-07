@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "bobeus",
+  "name": "Bobeus",
+  "location": {
+    "city": "Eindhoven",
+    "country": "North Brabant TRADITIONAL"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/bobeus",
+    "instagram": "https://instagram.com/bobeus",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bobeus/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bobeus/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE True Blue Tattoo Eindhoven"
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "benvolt",
+  "name": "Ben Volt",
+  "location": {
+    "city": "San Francisco",
+    "country": "United States"
+  },
+  "styles": [
+    "blackwork",
+    "blackout",
+    "geometric",
+    "op art"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/benvolt",
+    "instagram": "https://instagram.com/benvolt",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benvolt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benvolt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE FORM8 Tattoo San Francisco"
+}

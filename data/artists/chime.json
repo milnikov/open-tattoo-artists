@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "chime",
+  "name": "Chimé Tahiti Tatau",
+  "location": {
+    "city": "Saint-Médard-en-Jalles",
+    "country": "Arrondissement de Bordeaux TRIBALPOLYNESIAN"
+  },
+  "styles": [
+    "tribal",
+    "polynesian"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/chime",
+    "instagram": "https://instagram.com/chime",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chime/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chime/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chime/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chime/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Tatoueur Polynésien : spécialisé en tatouage marquisien, membre du Syndicat National des Artistes Tatoueurs. Atelier de tatouage privé. read more"
+}

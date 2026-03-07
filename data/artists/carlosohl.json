@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "carlosohl",
+  "name": "Carlo Sohl",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany NEW SCHOOLILLUSTRATIVECONTEMPORARY"
+  },
+  "styles": [
+    "new school",
+    "illustrative",
+    "contemporary"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/carlosohl",
+    "instagram": "https://instagram.com/carlosohl",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlosohl/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlosohl/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE Alter Schwan Berlin"
+}

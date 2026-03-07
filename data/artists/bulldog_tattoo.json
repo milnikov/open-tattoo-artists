@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "bulldog_tattoo",
+  "name": "Louis Martin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bulldog_tattoo",
+    "instagram": "https://www.instagram.com/bulldog_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bulldog_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bulldog_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bulldog_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bulldog_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Immerse yourself in the artful embrace of Louis Martin Tattoo Studio, where black & gray, realism, and neotraditional styles converge to create stunning body art. Our environment is a sanctuary of creativity and precision, with each design meticulously crafted to reflect your individual story. Step into our world where ink and imagination meet to bring your visions to life on skin.\nPrice: $\nCurrent location:"
+}

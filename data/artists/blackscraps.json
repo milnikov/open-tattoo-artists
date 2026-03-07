@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "blackscraps",
+  "name": "Matt",
+  "location": {
+    "city": "Los Angeles",
+    "country": "Unknown"
+  },
+  "styles": [
+    "hand poked",
+    "line art",
+    "illustrative",
+    "ignorant style"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/blackscraps",
+    "instagram": "https://instagram.com/blackscraps",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackscraps/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackscraps/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackscraps/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackscraps/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "caranovatattoo",
+  "name": "David Cara-Nova",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/caranovatattoo",
+    "instagram": "https://www.instagram.com/caranovatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/caranovatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/caranovatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/caranovatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/caranovatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "David Cara-Nova is an incredibly skilled tattoo artist who specializes in black & gray, floral, and tribal styles, effortlessly bringing complex designs to life with precision and flair. Clients consistently praise the cleanliness of his workspace and his unwavering commitment to maintaining the highest standards of hygiene. His professionalism is evident in every aspect of his work, ensuring a safe and exceptional tattooing experience.\nPrice: $\nCurrent location:"
+}

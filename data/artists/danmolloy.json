@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "danmolloy",
+  "name": "Dan Molloy",
+  "location": {
+    "city": "Perth",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/danmolloy",
+    "instagram": "https://instagram.com/danmolloy",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmolloy/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmolloy/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmolloy/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmolloy/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Custom tattooing in all styles. DAN MOLLOY"
+}

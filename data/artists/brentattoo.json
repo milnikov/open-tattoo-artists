@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "brentattoo",
+  "name": "Brent Trenear",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/brentattoo",
+    "instagram": "https://www.instagram.com/brentattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brentattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brentattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brentattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brentattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Brent Trenear is a versatile tattoo artist who specializes in black & gray, illustrative, and watercolor styles, showcasing a wide range of artistic talents. With a commitment to maintaining a clean and hygienic workspace, Brent ensures that every client's experience is not only artistically satisfying but also upholds the highest standards of cleanliness. His attention to a sterile environment adds peace of mind for clients as they undergo the transformational process of getting inked.\nPrice: $\nCurrent location:"
+}
