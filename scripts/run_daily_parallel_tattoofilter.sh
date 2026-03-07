@@ -1,7 +1,7 @@
 #!/bin/bash
-# Run TattooFilter pipeline with 3 parallel workers, ~500/day, commit every 100.
+# Run TattooFilter pipeline with 3 parallel workers, ~1000/day, commit every 100.
 # Uses tattoofilter_new_artists.json and scrape_state_tattoofilter.json.
-# Loops: process 500 → wait until 24h since run start → next 500. Run once in screen; no cron needed.
+# Loops: process 1000 → wait until 24h since run start → next 1000. Run once in screen; no cron needed.
 # Run from repo root.
 
 set -e
@@ -13,8 +13,8 @@ DAY_SECONDS=$((24 * 3600))
 
 while true; do
   run_start=$(date +%s)
-  echo "🔄 TattooFilter daily parallel run: 500 artists/day, 3 workers, commit every 100 (started $(date))"
-  python3 packages/scraper/src/pipeline_tattoofilter.py --workers 3 --batch-size 100
+  echo "🔄 TattooFilter daily parallel run: 1000 artists/day, 3 workers, commit every 100 (started $(date))"
+  python3 packages/scraper/src/pipeline_tattoofilter.py --workers 3 --batch-size 100 --limit 1000
   exit_code=$?
   if [ "$exit_code" -eq 2 ]; then
     echo "✅ All TattooFilter artist pages processed. Exiting."
@@ -29,7 +29,7 @@ while true; do
   elapsed=$(($(date +%s) - run_start))
   sleep_sec=$((DAY_SECONDS - elapsed))
   if [ "$sleep_sec" -gt 0 ]; then
-    echo "⏸ Waiting ${sleep_sec}s (~$((sleep_sec / 3600))h) until next 500 (24h from batch start)..."
+    echo "⏸ Waiting ${sleep_sec}s (~$((sleep_sec / 3600))h) until next 1000 (24h from batch start)..."
     sleep "$sleep_sec"
   fi
 done
