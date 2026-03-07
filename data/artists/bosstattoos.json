@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "bosstattoos",
+  "name": "Boss Man",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bosstattoos",
+    "instagram": "https://www.instagram.com/bosstattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bosstattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bosstattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bosstattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bosstattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Boss Man is a highly skilled tattoo artist specializing in black & gray, realism, and watercolor styles. His adept approach towards these complex art forms ensures meticulous, detail-rich tattoo designs. Renowned for his professionalism, he maintains high standards of cleanliness, ensuring a safe and comfortable environment for all clients.\nPrice: $$\nCurrent location:"
+}
