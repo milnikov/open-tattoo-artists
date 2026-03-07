@@ -41,8 +41,8 @@ export function SiteHeader() {
             href="/"
             className="inline-block text-sm font-bold tracking-tight text-foreground hover:opacity-80 origin-left scale-[1.2]"
           >
-            <span className="font-spectral-italic font-normal text-base pr-[0.5px]">the</span>tattoo
-            <span className="font-spectral-italic font-normal text-base">.world</span>
+            <span className="font-spectral-italic-logo italic font-normal text-base pr-[0.5px]">the</span>tattoo
+            <span className="font-spectral-italic-logo italic font-normal text-base">.world</span>
           </Link>
           <div className="flex items-center gap-2">
             <button

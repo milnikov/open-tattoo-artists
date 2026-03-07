@@ -10,6 +10,7 @@ const config: Config = {
       fontFamily: {
         sans: ["var(--font-inter)", "ui-sans-serif", "system-ui", "sans-serif"],
         "spectral-italic": ["var(--font-spectral-italic)", "Georgia", "serif"],
+        "spectral-italic-logo": ["var(--font-spectral-italic)"], // logo only: no fallback
       },
       colors: {
         background: "var(--background)",

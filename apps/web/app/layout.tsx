@@ -9,6 +9,7 @@ const spectral = Spectral({
   weight: ["400"],
   style: ["italic"],
   variable: "--font-spectral-italic",
+  display: "block", // wait for font before showing logo text (no fallback flash)
 });
 
 export const metadata: Metadata = {
