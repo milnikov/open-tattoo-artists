@@ -141,7 +141,7 @@ export function BrowseToolbar({
 
       {activeFilter === "Styles" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="flex flex-wrap gap-1">
+          <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-1">
             <button
               type="button"
               onClick={onClearStyles}
@@ -182,7 +182,7 @@ export function BrowseToolbar({
 
       {activeFilter === "Countries" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="flex flex-wrap gap-1">
+          <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-1">
             <button
               type="button"
               onClick={onClearCountries}
@@ -225,7 +225,7 @@ export function BrowseToolbar({
         isFilterPanelExpanded &&
         selectedCountries.length > 0 && (
           <div className="border-b border-border px-4 md:px-8 py-2.5">
-            <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline">
+            <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-x-2 gap-y-1.5 items-baseline">
               <button
                 type="button"
                 onClick={onClearCities}
