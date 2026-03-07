@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "andyblanco",
+  "name": "Andy Blanco",
+  "location": {
+    "city": "Stockholm",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/andyblanco",
+    "instagram": "https://instagram.com/andyblanco",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andyblanco/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andyblanco/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "Tattoo artist and owner of Studio Blanco Tattoo (formerly Lifestyle Tattoo Södermalm)."
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": 2,
+  "id": "alianilercel",
+  "name": "Ali Anıl Erçel",
+  "location": {
+    "city": "Istanbul",
+    "country": "Italy"
+  },
+  "styles": [
+    "black&gray",
+    "blackwork",
+    "line art",
+    "geometric",
+    "realism"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/alianilercel",
+    "instagram": "https://instagram.com/alianilercel",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alianilercel/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alianilercel/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "I am black and grey tattoo artist from Istanbul.My style is realistic, line, dot work. read more"
+}

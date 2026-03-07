@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "alex_bawn",
+  "name": "Alex Bawn",
+  "location": {
+    "city": "Hull",
+    "country": "Unknown"
+  },
+  "styles": [
+    "blackwork",
+    "sacred geometry",
+    "henna",
+    "embroidery",
+    "lace",
+    "line art"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/alex-bawn",
+    "instagram": "https://instagram.com/alex-bawn",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_bawn/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex_bawn/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE Bishop Tattoo Company Hull"
+}

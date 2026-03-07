@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "adriandominic",
+  "name": "Adrian Dominic",
+  "location": {
+    "city": "Melbourne",
+    "country": "Victoria BIOMECHANICAL"
+  },
+  "styles": [
+    "biomechanical"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/adriandominic",
+    "instagram": "https://instagram.com/adriandominic",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandominic/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandominic/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandominic/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adriandominic/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "I have been making tattoos since 1999. I specialize in highly rendered designs, with emphasis on biomechanical work. read more ADRIAN DOMINIC"
+}

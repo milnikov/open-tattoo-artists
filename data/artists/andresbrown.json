@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "andresbrown",
+  "name": "Andrés Brown",
+  "location": {
+    "city": "Seville",
+    "country": "Italy"
+  },
+  "styles": [
+    "black&gray",
+    "line art",
+    "fine line"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/andresbrown",
+    "instagram": "https://instagram.com/andresbrown",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresbrown/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresbrown/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE Asura Tattoo Studio Seville"
+}

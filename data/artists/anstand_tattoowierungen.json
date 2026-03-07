@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "anstand_tattoowierungen",
+  "name": "Anstand Tattoowierungen · Jonathan Groth",
+  "location": {
+    "city": "Berlin",
+    "country": "Germany BLACKWORK"
+  },
+  "styles": [
+    "blackwork"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/anstand-tattoowierungen",
+    "instagram": "https://instagram.com/anstand-tattoowierungen",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anstand_tattoowierungen/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anstand_tattoowierungen/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "ANSTAND TATTOOWIERUNGEN · JONATHAN GROTH"
+}
