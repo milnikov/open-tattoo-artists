@@ -1,6 +1,15 @@
 import type { Metadata } from "next";
+import { Inter, Spectral } from "next/font/google";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
+
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
+const spectral = Spectral({
+  subsets: ["latin"],
+  weight: ["300"],
+  style: ["italic"],
+  variable: "--font-spectral-italic",
+});
 
 export const metadata: Metadata = {
   title: "Open Tattoo Artists",
@@ -14,7 +23,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="min-h-screen bg-background text-foreground antialiased">
+      <body className={`${inter.variable} ${spectral.variable} ${inter.className} min-h-screen bg-background text-foreground antialiased`}>
         <SiteHeader />
         {children}
       </body>

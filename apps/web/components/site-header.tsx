@@ -39,9 +39,10 @@ export function SiteHeader() {
         <div className="flex items-center justify-between px-4 py-4 md:px-8 md:py-5">
           <Link
             href="/"
-            className="text-sm font-bold tracking-tight text-foreground hover:opacity-80"
+            className="inline-block text-sm font-bold tracking-tight text-foreground hover:opacity-80 origin-left scale-[1.2]"
           >
-            Open Tattoo Artists
+            <span className="font-spectral-italic text-base pr-[0.5px]">the</span>tattoo
+            <span className="font-spectral-italic text-base">.world</span>
           </Link>
           <div className="flex items-center gap-2">
             <button
