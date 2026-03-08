@@ -174,7 +174,7 @@
   },
   {
     "id": "12monkeystattoos",
-    "name": "12 Monkeys Tattoo",
+    "name": "12monkeystattoos",
     "location": {
       "city": "Tracy",
       "country": "United States"
@@ -195,7 +195,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12monkeystattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12monkeystattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-07"
+  },
+  {
+    "id": "12thavenuetattoo",
+    "name": "12th Avenue Tattoo",
+    "location": {
+      "city": "Nampa",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/12thavenuetattoo/"
+    },
+    "tattoo_count": 33,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/004.webp"
+    ],
+    "bio": "Nina is a highly skilled tattoo artist specializing in illustrative styles, turning skin into a canvas of intricate and unique designs. You can find her at Downtown Nampa's family-friendly tattoo and piercing parlor, where professionalism is as much a priority as artistry. To experience Nina's exceptional work, swing by 208 12th Avenue S in Nampa, or reach out to her at 208-461-1478 for bookings.",
+    "updated_at": "2026-03-07"
   },
   {
     "id": "13tattoopl",
@@ -239,7 +263,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/002.webp"
     ],
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-07"
   },
   {
     "id": "174tattoo",
@@ -1086,7 +1110,7 @@
     "name": "77.9",
     "location": {
       "city": "Seoul",
-      "country": "South Korea LINE ARTFINE LINEMICRO-REALISM"
+      "country": "South Korea"
     },
     "styles": [
       "line art",
@@ -1679,7 +1703,7 @@
     "name": "_leroms",
     "location": {
       "city": "Nice",
-      "country": "Arrondissement de Nice MINIMALISTLINE ARTFINE LINE"
+      "country": "France"
     },
     "styles": [
       "minimalist",
@@ -1949,7 +1973,7 @@
     "name": "Aaron Anthony",
     "location": {
       "city": "London",
-      "country": "Greater London HENNA"
+      "country": "United Kingdom"
     },
     "styles": [
       "henna"
@@ -2139,7 +2163,7 @@
     "name": "Aaron Cooper · Potta",
     "location": {
       "city": "Peterborough",
-      "country": "Cambridgeshire NEW SCHOOL"
+      "country": "United Kingdom"
     },
     "styles": [
       "new school"
@@ -2299,7 +2323,7 @@
     "name": "Aaron Hingston",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria TRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "traditional"
@@ -2482,8 +2506,8 @@
     "id": "aaronmedare",
     "name": "Aaron Medare",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "realism",
@@ -2922,7 +2946,7 @@
     "name": "Abbie Williams",
     "location": {
       "city": "Leeds",
-      "country": "West Yorkshire NEOTRADITIONALCARTOONILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional",
@@ -3490,8 +3514,8 @@
     "id": "abiru_tattoo",
     "name": "Abiru Eishin",
     "location": {
-      "city": "South Korea",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "South Korea"
     },
     "styles": [
       "black&gray",
@@ -4500,8 +4524,8 @@
     "id": "adambeardless",
     "name": "Adam Campbell",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "sketch",
@@ -4523,8 +4547,8 @@
     "id": "_adamchenko_",
     "name": "Adam Chenko",
     "location": {
-      "city": "Belarus",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "Belarus"
     },
     "styles": [
       "neotraditional",
@@ -4549,7 +4573,7 @@
     "name": "Adam Cornish",
     "location": {
       "city": "Leeds",
-      "country": "West Yorkshire TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -4659,8 +4683,8 @@
     "id": "adamexiste",
     "name": "Adam Existe",
     "location": {
-      "city": "Spain",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -5727,7 +5751,7 @@
     "name": "Ade Itameda",
     "location": {
       "city": "Rotterdam",
-      "country": "South Holland SACRED GEOMETRYBLACKWORKDOTWORK"
+      "country": "Netherlands"
     },
     "styles": [
       "sacred geometry",
@@ -5775,7 +5799,7 @@
     "id": "adela_tattooer",
     "name": "Adela",
     "location": {
-      "city": "South Korea",
+      "city": "Unknown",
       "country": "South Korea"
     },
     "styles": [
@@ -5850,7 +5874,7 @@
     "name": "Adem Şentürk",
     "location": {
       "city": "Northampton",
-      "country": "Northamptonshire REALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism"
@@ -6570,7 +6594,7 @@
     "name": "Adrian Dominic",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria BIOMECHANICAL"
+      "country": "Australia"
     },
     "styles": [
       "biomechanical"
@@ -6592,7 +6616,7 @@
     "name": "Adrian Edek · Qwerty",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONALILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional",
@@ -6684,7 +6708,7 @@
     "name": "Adrian Hidalgo",
     "location": {
       "city": "Torrejón de Ardoz",
-      "country": "Community of Madrid REALISMBLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -6990,7 +7014,7 @@
     "name": "Adrian Seven",
     "location": {
       "city": "Brighton",
-      "country": "East Sussex NEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional"
@@ -7244,7 +7268,7 @@
     "name": "Adrià Deyza",
     "location": {
       "city": "Berlin",
-      "country": "Germany ILLUSTRATIVEBLACKWORK"
+      "country": "Germany"
     },
     "styles": [
       "illustrative",
@@ -8013,7 +8037,7 @@
     "name": "Aga Yadou",
     "location": {
       "city": "Warsaw",
-      "country": "Masovian Voivodeship WATERCOLORGRAPHIC"
+      "country": "Poland"
     },
     "styles": [
       "watercolor",
@@ -8728,7 +8752,7 @@
     "name": "Aimèe Cornwell",
     "location": {
       "city": "Oxford",
-      "country": "Oxfordshire CONTEMPORARYILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "contemporary",
@@ -8889,7 +8913,7 @@
     "name": "Aitor Jimenez",
     "location": {
       "city": "Leioa",
-      "country": "Bizkaia - Vizcaya REALISMBLACK AND GREYNEW SCHOOL"
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -8937,7 +8961,7 @@
     "name": "Aitor Murga",
     "location": {
       "city": "Castejón",
-      "country": "Navarre BLACK AND GREYPORTRAIT"
+      "country": "Spain"
     },
     "styles": [
       "black&gray",
@@ -9141,7 +9165,7 @@
     "name": "AJ Westside",
     "location": {
       "city": "Cape Town",
-      "country": "Western Cape SINGLE NEEDLEBLACK AND GREY"
+      "country": "South Africa"
     },
     "styles": [
       "single needle",
@@ -9165,7 +9189,7 @@
     "name": "Ajarn Noo Kanpai",
     "location": {
       "city": "Bangkok",
-      "country": "Bangkok Metropolitan Region SAK YANT"
+      "country": "Thailand"
     },
     "styles": [
       "sak yant"
@@ -10284,7 +10308,7 @@
     "name": "Alanna Mulé",
     "location": {
       "city": "Toronto",
-      "country": "Ontario ILLUSTRATIVE"
+      "country": "Canada"
     },
     "styles": [
       "illustrative"
@@ -10423,7 +10447,7 @@
     "name": "Alban Essex",
     "location": {
       "city": "Tampere",
-      "country": "Pirkanmaa ILLUSTRATIVE"
+      "country": "Finland"
     },
     "styles": [
       "illustrative"
@@ -10713,7 +10737,7 @@
     "name": "Alberto Brunello",
     "location": {
       "city": "London",
-      "country": "Greater London BLACKWORK"
+      "country": "United Kingdom"
     },
     "styles": [
       "blackwork"
@@ -10763,7 +10787,7 @@
     "name": "Alberto Cuerva Hernández · Versus",
     "location": {
       "city": "Southampton",
-      "country": "Hampshire WATERCOLORILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "watercolor",
@@ -10809,7 +10833,7 @@
     "name": "Alberto Escobar",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid BLACK AND GREYREALISM"
+      "country": "Spain"
     },
     "styles": [
       "black&gray",
@@ -12001,7 +12025,7 @@
     "name": "Alejandro R.",
     "location": {
       "city": "Bogotá",
-      "country": "Cundinamarca Department LINE ARTFINE LINELETTERING"
+      "country": "Colombia"
     },
     "styles": [
       "line art",
@@ -12254,7 +12278,7 @@
     "name": "Aleksandr Morozov · Sanek",
     "location": {
       "city": "Saint Petersburg",
-      "country": "Leningrad Oblast REALISM"
+      "country": "Russia"
     },
     "styles": [
       "realism"
@@ -12428,7 +12452,7 @@
     "name": "Aleksandra Łukasiak · Lexie Salome",
     "location": {
       "city": "Warsaw",
-      "country": "Masovian Voivodeship ILLUSTRATIVE"
+      "country": "Poland"
     },
     "styles": [
       "illustrative"
@@ -13567,7 +13591,7 @@
     "name": "Alex Alcazar",
     "location": {
       "city": "Parla",
-      "country": "Community of Madrid TRADITIONAL"
+      "country": "Spain"
     },
     "styles": [
       "traditional"
@@ -13839,7 +13863,7 @@
     "name": "Alex Bumble",
     "location": {
       "city": "Santander",
-      "country": "Cantabria BLACK AND GREYPORTRAIT"
+      "country": "Spain"
     },
     "styles": [
       "black&gray",
@@ -14235,7 +14259,7 @@
     "name": "Alex Dupuis",
     "location": {
       "city": "Trois-Rivières",
-      "country": "Quebec NEW SCHOOL"
+      "country": "Canada"
     },
     "styles": [
       "new school"
@@ -14257,7 +14281,7 @@
     "name": "Alex Duquette",
     "location": {
       "city": "Ottawa",
-      "country": "Ontario TRADITIONAL"
+      "country": "Canada"
     },
     "styles": [
       "traditional"
@@ -14738,7 +14762,7 @@
     "name": "Alex Hearn",
     "location": {
       "city": "Waltham Abbey",
-      "country": "Essex"
+      "country": "United Kingdom"
     },
     "styles": [],
     "links": {
@@ -15372,7 +15396,7 @@
     "name": "Alex Rattray",
     "location": {
       "city": "Edinburgh",
-      "country": "Scotland REALISMPORTRAIT"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism",
@@ -15447,7 +15471,7 @@
     "name": "Alex Rodriguez",
     "location": {
       "city": "Liverpool",
-      "country": "Merseyside REALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism"
@@ -16010,7 +16034,7 @@
     "name": "Alex Whiley",
     "location": {
       "city": "Stowmarket",
-      "country": "Suffolk NEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional"
@@ -16197,7 +16221,7 @@
     "name": "Alex Young · Odisy",
     "location": {
       "city": "London",
-      "country": "Greater London BLACKWORKILLUSTRATIVESURREALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "blackwork",
@@ -16220,7 +16244,7 @@
     "name": "Alexander Arisov",
     "location": {
       "city": "Saint Petersburg",
-      "country": "Leningrad Oblast REALISMBLACKWORK"
+      "country": "Russia"
     },
     "styles": [
       "realism",
@@ -16270,7 +16294,7 @@
     "name": "Alexander Efros",
     "location": {
       "city": "Saint Petersburg",
-      "country": "Leningrad Oblast ABSTRACTSKETCH WORK"
+      "country": "Russia"
     },
     "styles": [
       "abstract",
@@ -16490,7 +16514,7 @@
     "name": "Alexander Voron",
     "location": {
       "city": "Novosibirsk",
-      "country": "Novosibirsk Oblast REALISM"
+      "country": "Russia"
     },
     "styles": [
       "realism"
@@ -16880,7 +16904,7 @@
     "name": "Alexis Calvié",
     "location": {
       "city": "Toulon",
-      "country": "Arrondissement de Toulon BLACKWORKDOTWORKGEOMETRIC"
+      "country": "France"
     },
     "styles": [
       "blackwork",
@@ -16928,7 +16952,7 @@
     "name": "Alexis Hepburn",
     "location": {
       "city": "Gold Coast",
-      "country": "Queensland TRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "traditional"
@@ -16949,7 +16973,7 @@
     "name": "Alexis Kovacs",
     "location": {
       "city": "Bethlehem",
-      "country": "Pennsylvania REALISMCARTOONILLUSTRATIVE"
+      "country": "United States"
     },
     "styles": [
       "realism",
@@ -17313,7 +17337,7 @@
     "name": "Alfredo Guarracino",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -17609,7 +17633,7 @@
     "name": "Alice Burke",
     "location": {
       "city": "Neath",
-      "country": "West Glamorgan NEOTRADITIONALCARTOON"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional",
@@ -17799,7 +17823,7 @@
     "name": "Alice SB",
     "location": {
       "city": "Bristol",
-      "country": "England TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -18120,7 +18144,7 @@
     "name": "Alijika · Danilovič Oleg",
     "location": {
       "city": "Krasnoyarsk",
-      "country": "Krasnoyarsk Krai WATERCOLORABSTRACT"
+      "country": "Russia"
     },
     "styles": [
       "watercolor",
@@ -18381,7 +18405,7 @@
     "name": "Alisova Tattoo",
     "location": {
       "city": "Moscow",
-      "country": "Moscow Oblast LINE ARTMINIMALISTCOVER UPS"
+      "country": "Russia"
     },
     "styles": [
       "line art",
@@ -20005,7 +20029,7 @@
     "name": "Alvin Chong",
     "location": {
       "city": "Ho Chi Minh City",
-      "country": "Vietnam REALISMBLACK AND GREYPORTRAIT"
+      "country": "Vietnam"
     },
     "styles": [
       "realism",
@@ -20155,7 +20179,7 @@
     "name": "Alynana",
     "location": {
       "city": "Mexico City",
-      "country": "Mexico MINIMALISTLINE ARTFINE LINE"
+      "country": "Mexico"
     },
     "styles": [
       "minimalist",
@@ -20206,7 +20230,7 @@
     "name": "Alyona Khaidukova",
     "location": {
       "city": "Samara",
-      "country": "Samara Oblast BLACK AND GREY"
+      "country": "Russia"
     },
     "styles": [
       "black&gray"
@@ -20495,7 +20519,7 @@
     "name": "Amanda Bonhomme",
     "location": {
       "city": "Las Vegas",
-      "country": "Nevada TRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "traditional"
@@ -21900,7 +21924,7 @@
     "name": "Amy Eccleston",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria HAND POKED"
+      "country": "Australia"
     },
     "styles": [
       "hand poked"
@@ -22235,7 +22259,7 @@
     "name": "Amy Victoria Savage",
     "location": {
       "city": "Bury St Edmunds",
-      "country": "Suffolk NEOTRADITIONALILLUSTRATIVEDOTWORK"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional",
@@ -22608,7 +22632,7 @@
     "name": "Ana Isabel Rodriguez",
     "location": {
       "city": "Ermua",
-      "country": "Bizkaia - Vizcaya BLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "black&gray"
@@ -22652,8 +22676,8 @@
     "id": "anamacedo_tattoo",
     "name": "Ana Macedo",
     "location": {
-      "city": "Brazil",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "Brazil"
     },
     "styles": [
       "fineline",
@@ -22725,7 +22749,7 @@
     "name": "Ana Morena",
     "location": {
       "city": "Medellin",
-      "country": "Antioquia Department LINE ARTFINE LINEILLUSTRATIVE"
+      "country": "Colombia"
     },
     "styles": [
       "line art",
@@ -23078,7 +23102,7 @@
     "name": "Anastasia Vilks",
     "location": {
       "city": "Minsk",
-      "country": "Minsk Region REALISM"
+      "country": "Belarus"
     },
     "styles": [
       "realism"
@@ -24107,7 +24131,7 @@
     "name": "Andrea Deriu",
     "location": {
       "city": "Kwai Tsing",
-      "country": "Hong Kong-china"
+      "country": "China"
     },
     "styles": [
       "realism",
@@ -24466,7 +24490,7 @@
     "name": "Andrea Reinoso",
     "location": {
       "city": "Lima",
-      "country": "Lima Region LINE ARTFINE LINEMINIMALIST"
+      "country": "Peru"
     },
     "styles": [
       "line art",
@@ -24714,7 +24738,7 @@
     "name": "Andreas Vrontis",
     "location": {
       "city": "Limassol",
-      "country": "Limassol District LINE ARTFINE LINECONTEMPORARY"
+      "country": "Cyprus"
     },
     "styles": [
       "line art",
@@ -24812,7 +24836,7 @@
     "name": "Andrei Chernovalov",
     "location": {
       "city": "Brest",
-      "country": "Brest Region BLACKWORKILLUSTRATIVE"
+      "country": "Belarus"
     },
     "styles": [
       "blackwork",
@@ -25002,7 +25026,7 @@
     "name": "Andres Orzaez Paton",
     "location": {
       "city": "Ibiza",
-      "country": "Balearic Islands BLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "black&gray"
@@ -25331,7 +25355,7 @@
     "name": "Andrew Davidov",
     "location": {
       "city": "Saint Petersburg",
-      "country": "Leningrad Oblast BLACKWORKILLUSTRATIVE"
+      "country": "Russia"
     },
     "styles": [
       "blackwork",
@@ -25378,7 +25402,7 @@
     "name": "Andrew John Smith",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONALNEOTRADITIONALBLACKWORK"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional",
@@ -25813,8 +25837,8 @@
     "id": "andrewwatkinstattoos",
     "name": "Andrew Watkins",
     "location": {
-      "city": "India",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "India"
     },
     "styles": [
       "dotwork",
@@ -26033,7 +26057,7 @@
     "name": "Andrey Kolbasin",
     "location": {
       "city": "Saint Petersburg",
-      "country": "Leningrad Oblast REALISMBLACK AND GREY"
+      "country": "Russia"
     },
     "styles": [
       "realism",
@@ -26103,7 +26127,7 @@
     "name": "Andrey Lukovnikov",
     "location": {
       "city": "Wroclaw",
-      "country": "Lower Silesian Voivodeship CONTEMPORARYREALISM"
+      "country": "Poland"
     },
     "styles": [
       "contemporary",
@@ -26197,7 +26221,7 @@
     "name": "Andrzej Niuniek Misztal",
     "location": {
       "city": "Jarosław",
-      "country": "Podkarpackie Voivodeship REALISM"
+      "country": "Poland"
     },
     "styles": [
       "realism"
@@ -26725,7 +26749,7 @@
     "name": "Andy Chambers",
     "location": {
       "city": "Virginia Beach",
-      "country": "Virginia REALISMNEW SCHOOL"
+      "country": "United States"
     },
     "styles": [
       "realism",
@@ -26771,7 +26795,7 @@
     "name": "Andy Engel",
     "location": {
       "city": "Marktsteft",
-      "country": "Landkreis Kitzingen REALISMBLACK AND GREY"
+      "country": "Germany"
     },
     "styles": [
       "realism",
@@ -26942,7 +26966,7 @@
     "name": "Andy Schmidt",
     "location": {
       "city": "Willich",
-      "country": "Kreis Viersen ILLUSTRATIVE"
+      "country": "Germany"
     },
     "styles": [
       "illustrative"
@@ -27164,7 +27188,7 @@
     "name": "Anem",
     "location": {
       "city": "Montreal",
-      "country": "Quebec TRADITIONAL"
+      "country": "Canada"
     },
     "styles": [
       "traditional"
@@ -27309,7 +27333,7 @@
     "name": "Angel De La Concha",
     "location": {
       "city": "Alcalá de Henares",
-      "country": "Community of Madrid REALISMBLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -28645,7 +28669,7 @@
     "name": "Anki Michler",
     "location": {
       "city": "Hamburg",
-      "country": "Germany SKETCH WORK"
+      "country": "Germany"
     },
     "styles": [
       "sketch work"
@@ -28715,7 +28739,7 @@
     "name": "Ann Lilya",
     "location": {
       "city": "Minsk",
-      "country": "Minsk Region CONTEMPORARYILLUSTRATIVE"
+      "country": "Belarus"
     },
     "styles": [
       "contemporary",
@@ -28766,7 +28790,7 @@
     "name": "Ann Pokes · Anya Barsukova",
     "location": {
       "city": "Lisboa",
-      "country": "Grande Lisboa HAND POKED"
+      "country": "Portugal"
     },
     "styles": [
       "hand poked"
@@ -29624,7 +29648,7 @@
     "name": "Anqi",
     "location": {
       "city": "Toronto",
-      "country": "Ontario LINE ARTFINE LINEMINIMALIST"
+      "country": "Canada"
     },
     "styles": [
       "line art",
@@ -29724,7 +29748,7 @@
     "name": "Anstand Tattoowierungen · Jonathan Groth",
     "location": {
       "city": "Berlin",
-      "country": "Germany BLACKWORK"
+      "country": "Germany"
     },
     "styles": [
       "blackwork"
@@ -30335,7 +30359,7 @@
     "id": "anthony50tattoos",
     "name": "Anthony50",
     "location": {
-      "city": "South Korea",
+      "city": "Unknown",
       "country": "South Korea"
     },
     "styles": [
@@ -30385,7 +30409,7 @@
     "name": "Anton Avtonomov",
     "location": {
       "city": "Vladimir",
-      "country": "Vladimir Oblast REALISM"
+      "country": "Russia"
     },
     "styles": [
       "realism"
@@ -30507,7 +30531,7 @@
     "name": "Antonella Bubble",
     "location": {
       "city": "Manchester",
-      "country": "Greater Manchester ILLUSTRATIVEDOTWORKBLACKWORK"
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative",
@@ -30530,7 +30554,7 @@
     "name": "Antonina Troshina · Rostra",
     "location": {
       "city": "Moscow",
-      "country": "Moscow Oblast REALISM"
+      "country": "Russia"
     },
     "styles": [
       "realism"
@@ -31051,7 +31075,7 @@
     "name": "Any Lay",
     "location": {
       "city": "Moscow",
-      "country": "Moscow Oblast LINE ARTFINE LINEMINIMALISTLETTERING"
+      "country": "Russia"
     },
     "styles": [
       "line art",
@@ -31103,7 +31127,7 @@
     "name": "Anya Gladun",
     "location": {
       "city": "Fairfax",
-      "country": "Virginia NEOTRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "neotraditional"
@@ -31327,7 +31351,7 @@
     "name": "Apro Lee",
     "location": {
       "city": "Seoul",
-      "country": "South Korea BLACKWORK"
+      "country": "South Korea"
     },
     "styles": [
       "blackwork"
@@ -31772,7 +31796,7 @@
     "name": "Ari Akkerman",
     "location": {
       "city": "Heidelberg",
-      "country": "Stadtkreis Heidelberg BLACKWORK"
+      "country": "Germany"
     },
     "styles": [
       "blackwork"
@@ -31793,8 +31817,8 @@
     "id": "ari_tattooer",
     "name": "Ari Lee",
     "location": {
-      "city": "South Korea",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "South Korea"
     },
     "styles": [
       "traditional",
@@ -32407,7 +32431,7 @@
     "name": "Arlo DiCristina",
     "location": {
       "city": "Grand Junction",
-      "country": "Colorado BLACK AND GREYREALISM"
+      "country": "United States"
     },
     "styles": [
       "black&gray",
@@ -32752,7 +32776,7 @@
     "name": "Aron Cowles",
     "location": {
       "city": "Stratford-upon-Avon",
-      "country": "Warwickshire BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -35239,7 +35263,7 @@
     "name": "Ash Lewis",
     "location": {
       "city": "Saint Helier",
-      "country": "Jersey BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -35262,8 +35286,8 @@
     "id": "ashlewistattoo",
     "name": "Ash Lewis",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray",
@@ -35976,7 +36000,7 @@
     "name": "Asr-Uno",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid BLACKWORK"
+      "country": "Spain"
     },
     "styles": [
       "blackwork"
@@ -37550,7 +37574,7 @@
     "name": "Aurélio",
     "location": {
       "city": "Perpignan",
-      "country": "Arrondissement de Perpignan"
+      "country": "France"
     },
     "styles": [],
     "links": {
@@ -38403,7 +38427,7 @@
     "name": "Ayden Thomas",
     "location": {
       "city": "Perth",
-      "country": "Western Australia TRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "traditional"
@@ -39431,7 +39455,7 @@
     "name": "Bald Babes Ink",
     "location": {
       "city": "Port Of Spain",
-      "country": "Trinidad And Tobago"
+      "country": "Trinidad and Tobago"
     },
     "styles": [
       "minimalist"
@@ -40323,7 +40347,7 @@
     "name": "Barbara Pavlova",
     "location": {
       "city": "Berlin",
-      "country": "Germany ILLUSTRATIVEBLACKWORK"
+      "country": "Germany"
     },
     "styles": [
       "illustrative",
@@ -40690,7 +40714,7 @@
     "name": "Barham Williams",
     "location": {
       "city": "Richmond",
-      "country": "Virginia BLACKWORKNEOTRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "blackwork",
@@ -40791,7 +40815,7 @@
     "name": "Baron Barbar",
     "location": {
       "city": "Macau",
-      "country": "Macau-china"
+      "country": "China"
     },
     "styles": [
       "lettering",
@@ -41191,7 +41215,7 @@
     "name": "Bartosz Panas",
     "location": {
       "city": "Warsaw",
-      "country": "Masovian Voivodeship NEOTRADITIONAL"
+      "country": "Poland"
     },
     "styles": [
       "neotraditional"
@@ -41260,7 +41284,7 @@
     "name": "Bartosz Wojda",
     "location": {
       "city": "Katowice",
-      "country": "Silesian Voivodeship BLACKWORK"
+      "country": "Poland"
     },
     "styles": [
       "blackwork"
@@ -41808,8 +41832,8 @@
     "id": "bb_rung",
     "name": "BB Rung",
     "location": {
-      "city": "South Korea",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "South Korea"
     },
     "styles": [
       "black&gray"
@@ -41833,7 +41857,7 @@
     "name": "BBK",
     "location": {
       "city": "Beijing",
-      "country": "China LETTERINGBLACKWORK"
+      "country": "China"
     },
     "styles": [
       "lettering",
@@ -42175,7 +42199,7 @@
     "name": "Beatriz Messias",
     "location": {
       "city": "Barreiro",
-      "country": "Barreiro LINE ARTFINE LINEMINIMALIST"
+      "country": "Portugal"
     },
     "styles": [
       "line art",
@@ -42377,9 +42401,7 @@
     "styles": [
       "illustrative",
       "neotraditional",
-      "newschool",
-      "sponsor:",
-      "tattooeverythingsupplies"
+      "newschool"
     ],
     "links": {
       "instagram": "https://www.instagram.com/bootattoo89/"
@@ -43869,7 +43891,7 @@
     "name": "Ben Koopman",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria TRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "traditional"
@@ -43986,7 +44008,7 @@
     "name": "Ben Thomas",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria BLACK AND GREY"
+      "country": "Australia"
     },
     "styles": [
       "black&gray"
@@ -44424,7 +44446,7 @@
     "name": "Benjamin Moss",
     "location": {
       "city": "Berlin",
-      "country": "Germany REALISMBLACK AND GREY"
+      "country": "Germany"
     },
     "styles": [
       "realism",
@@ -44775,7 +44797,7 @@
     "name": "Bernardo Lacerda",
     "location": {
       "city": "Rio de Janeiro",
-      "country": "Rio de Janeiro State SKETCH WORK"
+      "country": "Brazil"
     },
     "styles": [
       "sketch work"
@@ -44817,7 +44839,7 @@
     "name": "Bernd Muss",
     "location": {
       "city": "Hamburg",
-      "country": "Germany SKETCH WORK"
+      "country": "Germany"
     },
     "styles": [
       "sketch work"
@@ -45092,7 +45114,7 @@
     "name": "Bez",
     "location": {
       "city": "Sunderland",
-      "country": "Tyne and Wear BIOMECHANICALREALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "biomechanical",
@@ -45843,7 +45865,7 @@
     "name": "Bill Loika",
     "location": {
       "city": "Amsterdam",
-      "country": "North Holland TRADITIONAL"
+      "country": "Netherlands"
     },
     "styles": [
       "traditional"
@@ -46958,7 +46980,7 @@
     "id": "bk_tattooer",
     "name": "BK Tattooer",
     "location": {
-      "city": "South Korea",
+      "city": "Unknown",
       "country": "South Korea"
     },
     "styles": [
@@ -47562,7 +47584,7 @@
     "id": "blackfeeltattoo",
     "name": "Black Feel Tattoo",
     "location": {
-      "city": "South Korea",
+      "city": "Unknown",
       "country": "South Korea"
     },
     "styles": [
@@ -47618,9 +47640,7 @@
     },
     "styles": [
       "black&gray",
-      "realism",
-      "sponsor:",
-      "recoveryaftercare"
+      "realism"
     ],
     "links": {
       "instagram": "https://www.instagram.com/blackhatchettattoos/"
@@ -49848,7 +49868,7 @@
     "name": "Blake Santos · Yakisoba",
     "location": {
       "city": "Gold Coast",
-      "country": "Queensland ORIENTAL"
+      "country": "Australia"
     },
     "styles": [
       "oriental"
@@ -49868,8 +49888,8 @@
     "id": "blakeytattooer",
     "name": "Blakey Tattooer",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "floral",
@@ -49971,7 +49991,7 @@
     "name": "Blanquita",
     "location": {
       "city": "Repentigny",
-      "country": "Quebec LINE ARTFINE LINELETTERINGMINIMALIST"
+      "country": "Canada"
     },
     "styles": [
       "line art",
@@ -50246,7 +50266,7 @@
     "name": "Blize",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid NEOTRADITIONALLETTERING"
+      "country": "Spain"
     },
     "styles": [
       "neotraditional",
@@ -52042,7 +52062,7 @@
     "name": "Bobby Loveridge",
     "location": {
       "city": "Hitchin",
-      "country": "Hertfordshire BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -52232,7 +52252,7 @@
     "name": "Bobeus",
     "location": {
       "city": "Eindhoven",
-      "country": "North Brabant TRADITIONAL"
+      "country": "Netherlands"
     },
     "styles": [
       "traditional"
@@ -52957,7 +52977,7 @@
     "name": "Boff Konkerz",
     "location": {
       "city": "Reykjavík",
-      "country": "Iceland HAND POKEDDOTWORKHENNASACRED GEOMETRY"
+      "country": "Iceland"
     },
     "styles": [
       "hand poked",
@@ -53491,7 +53511,7 @@
     "name": "Bona",
     "location": {
       "city": "Seoul",
-      "country": "South Korea WATERCOLORCONTEMPORARY"
+      "country": "South Korea"
     },
     "styles": [
       "watercolor",
@@ -53663,7 +53683,7 @@
     "name": "Bong",
     "location": {
       "city": "Las Vegas",
-      "country": "Nevada TRIBALPOLYNESIAN"
+      "country": "United States"
     },
     "styles": [
       "tribal",
@@ -53835,7 +53855,7 @@
     "name": "Bonnie",
     "location": {
       "city": "Lisboa",
-      "country": "Grande Lisboa LINE ARTFINE LINEMINIMALIST"
+      "country": "Portugal"
     },
     "styles": [
       "line art",
@@ -54030,7 +54050,7 @@
     "name": "Boo Poke",
     "location": {
       "city": "Derby",
-      "country": "Derbyshire HAND POKED"
+      "country": "United Kingdom"
     },
     "styles": [
       "hand poked"
@@ -54158,9 +54178,7 @@
     "styles": [
       "newschool",
       "neotraditional",
-      "vegan",
-      "sponsor:",
-      "total_immortal_tattoos"
+      "vegan"
     ],
     "links": {
       "instagram": "https://www.instagram.com/boomer_reagan/"
@@ -54207,7 +54225,7 @@
     "name": "Boone Naka",
     "location": {
       "city": "Vancouver",
-      "country": "British Columbia TRADITIONAL"
+      "country": "Canada"
     },
     "styles": [
       "traditional"
@@ -54349,7 +54367,7 @@
     "name": "Boris",
     "location": {
       "city": "Vienna",
-      "country": "Austria BLACK AND GREYREALISMBIOMECHANICAL"
+      "country": "Austria"
     },
     "styles": [
       "black&gray",
@@ -54399,7 +54417,7 @@
     "name": "Boris Backert",
     "location": {
       "city": "Ravensburg",
-      "country": "Landkreis Ravensburg GRAPHICABSTRACT"
+      "country": "Germany"
     },
     "styles": [
       "graphic",
@@ -54521,7 +54539,7 @@
     "name": "Borja Amez",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid REALISMPORTRAIT"
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -54693,7 +54711,7 @@
     "name": "Boshka Grygoriew-Alvy",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -54788,7 +54806,7 @@
     "name": "Bouits",
     "location": {
       "city": "Marseille",
-      "country": "Arrondissement de Marseille ILLUSTRATIVE"
+      "country": "France"
     },
     "styles": [
       "illustrative"
@@ -54810,7 +54828,7 @@
     "name": "Boun",
     "location": {
       "city": "Lyon",
-      "country": "Arrondissement de Lyon REALISM"
+      "country": "France"
     },
     "styles": [
       "realism"
@@ -55228,9 +55246,7 @@
     },
     "styles": [
       "black&gray",
-      "realism",
-      "sponsor:",
-      "killerinktattoo"
+      "realism"
     ],
     "links": {
       "instagram": "https://www.instagram.com/bradwallistattoo/"
@@ -55451,7 +55467,7 @@
     "name": "Bran.d Tattooer",
     "location": {
       "city": "Seoul",
-      "country": "South Korea BLACK AND GREYPORTRAIT"
+      "country": "South Korea"
     },
     "styles": [
       "black&gray",
@@ -56723,7 +56739,7 @@
     "name": "Brent Mccown",
     "location": {
       "city": "Villach",
-      "country": "Villach Stadt TRIBALPOLYNESIAN"
+      "country": "Austria"
     },
     "styles": [
       "tribal",
@@ -58444,7 +58460,7 @@
     "name": "Brody Polinsky",
     "location": {
       "city": "Berlin",
-      "country": "Germany BLACKWORKGEOMETRICLINE ART"
+      "country": "Germany"
     },
     "styles": [
       "blackwork",
@@ -60292,9 +60308,7 @@
     },
     "styles": [
       "dotwork",
-      "geometric",
-      "sponsor:",
-      "killerinktattoo"
+      "geometric"
     ],
     "links": {
       "instagram": "https://www.instagram.com/bsv.lamachineinfernale/"
@@ -60337,7 +60351,7 @@
     "name": "Bubba Irwin",
     "location": {
       "city": "Nashville",
-      "country": "Tennessee BLACK AND GREYPORTRAIT"
+      "country": "United States"
     },
     "styles": [
       "black&gray",
@@ -60416,9 +60430,7 @@
     "styles": [
       "black&gray",
       "realism",
-      "illustrative",
-      "sponsor:",
-      "leejonestattooist"
+      "illustrative"
     ],
     "links": {
       "instagram": "https://www.instagram.com/buckbink/"
@@ -60743,7 +60755,7 @@
     "name": "Buff",
     "location": {
       "city": "Menen",
-      "country": "Arrondissement Kortrijk TRADITIONAL"
+      "country": "Belgium"
     },
     "styles": [
       "traditional"
@@ -62376,7 +62388,7 @@
     "name": "Cal Jenx",
     "location": {
       "city": "Sheffield",
-      "country": "South Yorkshire BLACKWORKILLUSTRATIVEHENNA"
+      "country": "United Kingdom"
     },
     "styles": [
       "blackwork",
@@ -62473,7 +62485,7 @@
     "name": "Caleb Quales",
     "location": {
       "city": "St. Louis",
-      "country": "Missouri TRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "traditional"
@@ -62855,7 +62867,7 @@
     "name": "Calvin Moktar",
     "location": {
       "city": "Rennes",
-      "country": "Arrondissement de Rennes BLACK AND GREY"
+      "country": "France"
     },
     "styles": [
       "black&gray"
@@ -64023,7 +64035,7 @@
     "name": "Carl Grace",
     "location": {
       "city": "Las Vegas",
-      "country": "Nevada REALISMBLACK AND GREY"
+      "country": "United States"
     },
     "styles": [
       "realism",
@@ -64150,7 +64162,7 @@
     "name": "Carla Evelyn",
     "location": {
       "city": "Adelaide",
-      "country": "South Australia CARTOONKAWAII"
+      "country": "Australia"
     },
     "styles": [
       "cartoon",
@@ -64398,7 +64410,7 @@
     "name": "Carlo Sohl",
     "location": {
       "city": "Berlin",
-      "country": "Germany NEW SCHOOLILLUSTRATIVECONTEMPORARY"
+      "country": "Germany"
     },
     "styles": [
       "new school",
@@ -64744,9 +64756,7 @@
     },
     "styles": [
       "black&gray",
-      "realism",
-      "sponsor:",
-      "cheyenne_tattooequipment"
+      "realism"
     ],
     "links": {
       "instagram": "https://www.instagram.com/carlosfabra.cosafina/"
@@ -65086,9 +65096,7 @@
     "styles": [
       "realism",
       "black&gray",
-      "neotraditional",
-      "sponsor:",
-      "cheyenne_tattooequipment"
+      "neotraditional"
     ],
     "links": {
       "instagram": "https://www.instagram.com/carlos_piedrahita_art/"
@@ -65354,7 +65362,7 @@
     "name": "Carlox Angarita",
     "location": {
       "city": "Bogotá",
-      "country": "Cundinamarca Department REALISM"
+      "country": "Colombia"
     },
     "styles": [
       "realism"
@@ -65692,7 +65700,7 @@
     "name": "Caro Ley",
     "location": {
       "city": "Berlin",
-      "country": "Germany FREEHANDABSTRACTMINIMALISTBLACKWORK"
+      "country": "Germany"
     },
     "styles": [
       "freehand",
@@ -65897,9 +65905,7 @@
       "country": "Italy"
     },
     "styles": [
-      "neotraditional",
-      "sponsor:",
-      "killerinktattoo"
+      "neotraditional"
     ],
     "links": {
       "instagram": "https://www.instagram.com/carolinacaosavalle/"
@@ -67635,9 +67641,7 @@
     },
     "styles": [
       "black&gray",
-      "neotraditional",
-      "sponsor:",
-      "cheyenne_tattooequipment"
+      "neotraditional"
     ],
     "links": {
       "instagram": "https://www.instagram.com/ccyle/"
@@ -67891,7 +67895,7 @@
     "name": "Certified Letter Boy",
     "location": {
       "city": "London",
-      "country": "Greater London LETTERINGLINE ARTFINE LINE"
+      "country": "United Kingdom"
     },
     "styles": [
       "lettering",
@@ -67944,7 +67948,7 @@
     "name": "Cesar Perez · Sowe 7 Sins",
     "location": {
       "city": "Horley",
-      "country": "Surrey DOTWORKSACRED GEOMETRY"
+      "country": "United Kingdom"
     },
     "styles": [
       "dotwork",
@@ -67967,7 +67971,7 @@
     "name": "ceva.tattoo",
     "location": {
       "city": "Moscow",
-      "country": "Moscow Oblast HAND POKEDMINIMALISTLETTERING"
+      "country": "Russia"
     },
     "styles": [
       "hand poked",
@@ -68015,7 +68019,7 @@
     "name": "Chad Koeplinger",
     "location": {
       "city": "Nashville",
-      "country": "Tennessee TRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "traditional"
@@ -68039,7 +68043,7 @@
     "name": "Chad Rowe",
     "location": {
       "city": "New Castle",
-      "country": "Indiana BLACK AND GREY"
+      "country": "United States"
     },
     "styles": [
       "black&gray"
@@ -68162,7 +68166,7 @@
     "name": "Charles Huurman",
     "location": {
       "city": "Kilkenny",
-      "country": "Leinster REALISMABSTRACT"
+      "country": "Ireland"
     },
     "styles": [
       "realism",
@@ -68187,7 +68191,7 @@
     "name": "Charles Saucier",
     "location": {
       "city": "Montreal",
-      "country": "Quebec BLACK AND GREY"
+      "country": "Canada"
     },
     "styles": [
       "black&gray"
@@ -68460,7 +68464,7 @@
     "name": "Cheyenne Gauthier",
     "location": {
       "city": "Montreal",
-      "country": "Quebec TRADITIONALBLACKWORK"
+      "country": "Canada"
     },
     "styles": [
       "traditional",
@@ -68578,7 +68582,7 @@
     "name": "Chico Morbene",
     "location": {
       "city": "Porto Alegre",
-      "country": "Rio Grande do Sul BLACK AND GREYREALISM"
+      "country": "Brazil"
     },
     "styles": [
       "black&gray",
@@ -68600,7 +68604,7 @@
     "name": "Chimé Tahiti Tatau",
     "location": {
       "city": "Saint-Médard-en-Jalles",
-      "country": "Arrondissement de Bordeaux TRIBALPOLYNESIAN"
+      "country": "France"
     },
     "styles": [
       "tribal",
@@ -68623,7 +68627,7 @@
     "name": "Chingy Fringe",
     "location": {
       "city": "Gold Coast",
-      "country": "Queensland TRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "traditional"
@@ -68643,8 +68647,8 @@
     "id": "ca.tattoos",
     "name": "Chloe Aspey",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray",
@@ -68670,7 +68674,7 @@
     "name": "Chloe Aspey",
     "location": {
       "city": "Chorley",
-      "country": "Lancashire ILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative"
@@ -68788,7 +68792,7 @@
     "name": "Chou",
     "location": {
       "city": "Busan",
-      "country": "South Korea WATERCOLORREALISM"
+      "country": "South Korea"
     },
     "styles": [
       "watercolor",
@@ -68914,7 +68918,7 @@
     "name": "Chris Burwin",
     "location": {
       "city": "Wigan",
-      "country": "Greater Manchester LETTERINGREALISMNEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "lettering",
@@ -69109,7 +69113,7 @@
     "name": "Chris Higgins",
     "location": {
       "city": "Eastbourne",
-      "country": "East Sussex TRIBALPOLYNESIANLINE ARTBLACKWORK"
+      "country": "United Kingdom"
     },
     "styles": [
       "tribal",
@@ -69134,7 +69138,7 @@
     "name": "Chris Jenkins",
     "location": {
       "city": "Richmond",
-      "country": "Virginia NEW SCHOOLCARTOON"
+      "country": "United States"
     },
     "styles": [
       "new school",
@@ -69157,7 +69161,7 @@
     "name": "Chris Jenko",
     "location": {
       "city": "Leeds",
-      "country": "West Yorkshire TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -69179,7 +69183,7 @@
     "name": "Chris Jones",
     "location": {
       "city": "Cardiff",
-      "country": "South Glamorgan REALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism"
@@ -69254,7 +69258,7 @@
     "name": "Chris Mata'afa",
     "location": {
       "city": "Sydney",
-      "country": "New South Wales BLACK AND GREY"
+      "country": "Australia"
     },
     "styles": [
       "black&gray"
@@ -69366,7 +69370,7 @@
     "name": "Chris Sims",
     "location": {
       "city": "Waltham Abbey",
-      "country": "Essex BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -69574,7 +69578,7 @@
     "name": "Chriss Dettmer",
     "location": {
       "city": "Hamburg",
-      "country": "Germany TRADITIONAL"
+      "country": "Germany"
     },
     "styles": [
       "traditional"
@@ -69649,9 +69653,7 @@
     "styles": [
       "realism",
       "black&gray",
-      "neotraditional",
-      "sponsor:",
-      "killerinktattoo"
+      "neotraditional"
     ],
     "links": {
       "instagram": "https://www.instagram.com/boyetattoo/"
@@ -69994,7 +69996,7 @@
     "name": "Christos Galiropoulos",
     "location": {
       "city": "Lamia",
-      "country": "Central Greece BLACK AND GREY"
+      "country": "Greece"
     },
     "styles": [
       "black&gray"
@@ -70039,8 +70041,8 @@
     "id": "bashi_art_chuan",
     "name": "Chuan Yi",
     "location": {
-      "city": "People's Republic Of China",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "China"
     },
     "styles": [
       "japanese",
@@ -70089,7 +70091,7 @@
     "name": "Churly",
     "location": {
       "city": "Seoul",
-      "country": "South Korea SINGLE NEEDLE"
+      "country": "South Korea"
     },
     "styles": [
       "single needle"
@@ -70113,7 +70115,7 @@
     "name": "Ché Crook",
     "location": {
       "city": "Bristol",
-      "country": "England BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -70164,7 +70166,7 @@
     "name": "Ciprian Daniel",
     "location": {
       "city": "Ulm",
-      "country": "Stadtkreis Ulm REALISM"
+      "country": "Germany"
     },
     "styles": [
       "realism"
@@ -70259,7 +70261,7 @@
     "name": "Claire Delbos",
     "location": {
       "city": "Pontoise",
-      "country": "Arrondissement de Pontoise NEW SCHOOLILLUSTRATIVE"
+      "country": "France"
     },
     "styles": [
       "new school",
@@ -70305,7 +70307,7 @@
     "name": "Claire Reid",
     "location": {
       "city": "Byron Bay",
-      "country": "New South Wales REALISM"
+      "country": "Australia"
     },
     "styles": [
       "realism"
@@ -70349,7 +70351,7 @@
     "name": "Clara Sinclair",
     "location": {
       "city": "London",
-      "country": "Greater London NEOTRADITIONALILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional",
@@ -70514,7 +70516,7 @@
     "name": "Cleen Rock One",
     "location": {
       "city": "Las Vegas",
-      "country": "Nevada NEW SCHOOL"
+      "country": "United States"
     },
     "styles": [
       "new school"
@@ -70538,7 +70540,7 @@
     "name": "Clemens Hahn",
     "location": {
       "city": "Mannheim",
-      "country": "Stadtkreis Mannheim TRADITIONAL"
+      "country": "Germany"
     },
     "styles": [
       "traditional"
@@ -70560,7 +70562,7 @@
     "name": "Clement Stahl",
     "location": {
       "city": "Strasbourg",
-      "country": "Arrondissement de Strasbourg-Ville SKETCH WORK"
+      "country": "France"
     },
     "styles": [
       "sketch work"
@@ -70581,7 +70583,7 @@
     "name": "Clemente",
     "location": {
       "city": "Ciudad Juárez",
-      "country": "Chihuahua State LINE ARTFINE LINE"
+      "country": "Mexico"
     },
     "styles": [
       "line art",
@@ -70629,7 +70631,7 @@
     "name": "Clint Danroth",
     "location": {
       "city": "White Rock",
-      "country": "British Columbia ORIENTAL"
+      "country": "Canada"
     },
     "styles": [
       "oriental"
@@ -70724,7 +70726,7 @@
     "name": "Clutch",
     "location": {
       "city": "Richmond",
-      "country": "Virginia NEW SCHOOLTRADITIONALTRIBALPOLYNESIAN"
+      "country": "United States"
     },
     "styles": [
       "new school",
@@ -70848,7 +70850,7 @@
     "name": "Colin Dale",
     "location": {
       "city": "Copenhagen",
-      "country": "Capital Region of Denmark DOTWORKHAND POKEDNORDIC"
+      "country": "Denmark"
     },
     "styles": [
       "dotwork",
@@ -70920,7 +70922,7 @@
     "name": "Comotattoo",
     "location": {
       "city": "Seoul",
-      "country": "South Korea ILLUSTRATIVEREALISM"
+      "country": "South Korea"
     },
     "styles": [
       "illustrative",
@@ -71014,7 +71016,7 @@
     "name": "Conz Thomas",
     "location": {
       "city": "London",
-      "country": "Greater London LINE ARTFINE LINESINGLE NEEDLE"
+      "country": "United Kingdom"
     },
     "styles": [
       "line art",
@@ -71236,7 +71238,7 @@
     "name": "Cory Ferguson",
     "location": {
       "city": "Oakville",
-      "country": "Ontario BLACKWORKGEOMETRICSACRED GEOMETRYDOTWORK"
+      "country": "Canada"
     },
     "styles": [
       "blackwork",
@@ -71287,7 +71289,7 @@
     "name": "Cosmic Karma · Rudolf M.",
     "location": {
       "city": "Helmond",
-      "country": "North Brabant BLACKWORKSACRED GEOMETRY"
+      "country": "Netherlands"
     },
     "styles": [
       "blackwork",
@@ -71401,7 +71403,7 @@
     "name": "Craig Measures",
     "location": {
       "city": "Kidlington",
-      "country": "Oxfordshire ILLUSTRATIVENEW SCHOOLREALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative",
@@ -71450,7 +71452,7 @@
     "name": "Craigy Lee",
     "location": {
       "city": "Wellington",
-      "country": "Wellington Region BLACKWORKILLUSTRATIVETRADITIONAL"
+      "country": "New Zealand"
     },
     "styles": [
       "blackwork",
@@ -71543,7 +71545,7 @@
     "name": "Cris KD",
     "location": {
       "city": "Ermua",
-      "country": "Bizkaia - Vizcaya BLACK AND GREYPORTRAIT"
+      "country": "Spain"
     },
     "styles": [
       "black&gray",
@@ -71565,7 +71567,7 @@
     "name": "Crispy Lennox",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria NEOTRADITIONAL"
+      "country": "Australia"
     },
     "styles": [
       "neotraditional"
@@ -71730,7 +71732,7 @@
     "name": "Cristina Cristo",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid NEOTRADITIONAL"
+      "country": "Spain"
     },
     "styles": [
       "neotraditional"
@@ -71799,7 +71801,7 @@
     "name": "Crystal Alexandria",
     "location": {
       "city": "Vancouver",
-      "country": "British Columbia DOTWORKSACRED GEOMETRYBLACKWORK"
+      "country": "Canada"
     },
     "styles": [
       "dotwork",
@@ -71896,7 +71898,7 @@
     "name": "Curly Moore",
     "location": {
       "city": "Oxford",
-      "country": "Oxfordshire BLACKWORKTRIBALPOLYNESIANFREEHAND"
+      "country": "United Kingdom"
     },
     "styles": [
       "blackwork",
@@ -71969,7 +71971,7 @@
     "name": "Cynthia Cuevas · Molly Tattoo",
     "location": {
       "city": "Mexico City",
-      "country": "Mexico NEOTRADITIONAL"
+      "country": "Mexico"
     },
     "styles": [
       "neotraditional"
@@ -71990,7 +71992,7 @@
     "name": "Cysen",
     "location": {
       "city": "Toronto",
-      "country": "Ontario BLACK AND GREY"
+      "country": "Canada"
     },
     "styles": [
       "black&gray"
@@ -72036,7 +72038,7 @@
     "name": "César Zamacola",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid NEOTRADITIONALTRADITIONAL"
+      "country": "Spain"
     },
     "styles": [
       "neotraditional",
@@ -72285,7 +72287,7 @@
     "name": "Damian Gorski",
     "location": {
       "city": "London",
-      "country": "Greater London REALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism"
@@ -72426,7 +72428,7 @@
     "name": "Dan Banas",
     "location": {
       "city": "Liverpool",
-      "country": "Merseyside BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -72499,7 +72501,7 @@
     "name": "Dan Crowe",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -72543,7 +72545,7 @@
     "name": "Dan Fletcher",
     "location": {
       "city": "Winnipeg",
-      "country": "Manitoba NEOTRADITIONAL"
+      "country": "Canada"
     },
     "styles": [
       "neotraditional"
@@ -72586,7 +72588,7 @@
     "name": "Dan Gold",
     "location": {
       "city": "London",
-      "country": "Greater London ILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative"
@@ -72610,7 +72612,7 @@
     "name": "Dan Hancock",
     "location": {
       "city": "Manchester",
-      "country": "Greater Manchester BLACK AND GREY"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray"
@@ -72634,7 +72636,7 @@
     "name": "Dan Hartley · Dude Skinz",
     "location": {
       "city": "Ossett",
-      "country": "West Yorkshire REALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "realism"
@@ -72701,7 +72703,7 @@
     "name": "Dan Mawdsley",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria CARTOONREALISM"
+      "country": "Australia"
     },
     "styles": [
       "cartoon",
@@ -72747,7 +72749,7 @@
     "name": "Dan Pemble",
     "location": {
       "city": "Marquette",
-      "country": "Michigan NEOTRADITIONALTRADITIONAL"
+      "country": "United States"
     },
     "styles": [
       "neotraditional",
@@ -72962,7 +72964,7 @@
     "name": "Dane Inks",
     "location": {
       "city": "Hull",
-      "country": "East Yorkshire NEW SCHOOLCARTOONREALISM"
+      "country": "United Kingdom"
     },
     "styles": [
       "new school",
@@ -73034,7 +73036,7 @@
     "name": "Dani Queipo",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -73105,7 +73107,7 @@
     "name": "Daniel Farren",
     "location": {
       "city": "Richmond",
-      "country": "Virginia NEW SCHOOL"
+      "country": "United States"
     },
     "styles": [
       "new school"
@@ -73248,7 +73250,7 @@
     "name": "Daniel Rocha",
     "location": {
       "city": "Las Vegas",
-      "country": "Nevada BLACK AND GREYREALISMPORTRAIT"
+      "country": "United States"
     },
     "styles": [
       "black&gray",
@@ -73467,7 +73469,7 @@
     "name": "Danielle Merricks",
     "location": {
       "city": "Blackpool",
-      "country": "Lancashire WATERCOLORILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "watercolor",
@@ -73488,7 +73490,7 @@
     "name": "Danielle Rose",
     "location": {
       "city": "Dundee",
-      "country": "Scotland NEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional"
@@ -73612,7 +73614,7 @@
     "name": "Danny Fugate",
     "location": {
       "city": "Knoxville",
-      "country": "Tennessee"
+      "country": "United States"
     },
     "styles": [],
     "links": {
@@ -73700,7 +73702,7 @@
     "name": "Dany Rivero",
     "location": {
       "city": "Gijón",
-      "country": "Asturias BLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "black&gray"
@@ -73724,7 +73726,7 @@
     "name": "Danyeong",
     "location": {
       "city": "Seoul",
-      "country": "South Korea CONTEMPORARY"
+      "country": "South Korea"
     },
     "styles": [
       "contemporary"
@@ -73747,7 +73749,7 @@
     "name": "Dareum",
     "location": {
       "city": "Seoul",
-      "country": "South Korea WATERCOLORILLUSTRATIVE"
+      "country": "South Korea"
     },
     "styles": [
       "watercolor",
@@ -73883,7 +73885,7 @@
     "name": "Darren Stares",
     "location": {
       "city": "Portsmouth",
-      "country": "Hampshire BLACK AND GREYPORTRAIT"
+      "country": "United Kingdom"
     },
     "styles": [
       "black&gray",
@@ -73905,7 +73907,7 @@
     "name": "Darren Wright",
     "location": {
       "city": "Leicester",
-      "country": "Leicestershire"
+      "country": "United Kingdom"
     },
     "styles": [],
     "links": {
@@ -74134,7 +74136,7 @@
     "name": "Dave Paulo",
     "location": {
       "city": "Mira",
-      "country": "Mira REALISM"
+      "country": "Portugal"
     },
     "styles": [
       "realism"
@@ -74257,7 +74259,7 @@
     "name": "David Barrera",
     "location": {
       "city": "San Sebastián de los Reyes",
-      "country": "Community of Madrid REALISM"
+      "country": "Spain"
     },
     "styles": [
       "realism"
@@ -74354,7 +74356,7 @@
     "name": "David Côté",
     "location": {
       "city": "Montreal",
-      "country": "Quebec SURREALISMABSTRACTCONTEMPORARYPOP ART"
+      "country": "Canada"
     },
     "styles": [
       "surrealism",
@@ -74402,7 +74404,7 @@
     "name": "David Fernández Serrano",
     "location": {
       "city": "Leganés",
-      "country": "Community of Madrid GRAPHICABSTRACTCONTEMPORARY"
+      "country": "Spain"
     },
     "styles": [
       "graphic",
@@ -74428,7 +74430,7 @@
     "name": "David Garcia",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid BLACK AND GREYREALISM"
+      "country": "Spain"
     },
     "styles": [
       "black&gray",
@@ -74453,7 +74455,7 @@
     "name": "David Giersch",
     "location": {
       "city": "Berlin",
-      "country": "Germany REALISM"
+      "country": "Germany"
     },
     "styles": [
       "realism"
@@ -74520,7 +74522,7 @@
     "name": "David Kafri",
     "location": {
       "city": "London",
-      "country": "Greater London SINGLE NEEDLETRADITIONALLINE ART"
+      "country": "United Kingdom"
     },
     "styles": [
       "single needle",
@@ -74570,7 +74572,7 @@
     "name": "David Mora",
     "location": {
       "city": "Madrid",
-      "country": "Community of Madrid REALISMBLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "realism",
@@ -74592,7 +74594,7 @@
     "name": "David Poncela",
     "location": {
       "city": "Santander",
-      "country": "Cantabria BLACK AND GREY"
+      "country": "Spain"
     },
     "styles": [
       "black&gray"
@@ -74954,9 +74956,7 @@
       "newschool",
       "illustrative",
       "neotraditional",
-      "anime",
-      "sponsor:",
-      "tattoodefender"
+      "anime"
     ],
     "links": {
       "instagram": "https://www.instagram.com/borto_tattooer/"
@@ -74977,7 +74977,7 @@
     "name": "Davide TC",
     "location": {
       "city": "Brighton",
-      "country": "East Sussex TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -75091,7 +75091,7 @@
     "name": "Dean Tattooer",
     "location": {
       "city": "Taichung",
-      "country": "Central Taiwan REALISM"
+      "country": "Taiwan"
     },
     "styles": [
       "realism"
@@ -75133,7 +75133,7 @@
     "name": "Deano Robertson",
     "location": {
       "city": "Calgary",
-      "country": "Alberta TRIBALHAIDAPOLYNESIAN"
+      "country": "Canada"
     },
     "styles": [
       "tribal",
@@ -75203,7 +75203,7 @@
     "name": "Debora Cherrys",
     "location": {
       "city": "Getafe",
-      "country": "Community of Madrid NEOTRADITIONALNEW SCHOOL"
+      "country": "Spain"
     },
     "styles": [
       "neotraditional",
@@ -75393,7 +75393,7 @@
     "name": "Deni Balbino",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional"
@@ -75462,7 +75462,7 @@
     "name": "Denis Moskalev",
     "location": {
       "city": "Krasnodar",
-      "country": "Krasnodar Krai GRAPHICTRASH POLKA"
+      "country": "Russia"
     },
     "styles": [
       "graphic",
@@ -75484,7 +75484,7 @@
     "name": "Denis Sivak",
     "location": {
       "city": "Odessa",
-      "country": "Odessa Oblast REALISM"
+      "country": "Ukraine"
     },
     "styles": [
       "realism"
@@ -75557,7 +75557,7 @@
     "name": "Deno",
     "location": {
       "city": "London",
-      "country": "Greater London TRADITIONALNEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "traditional",
@@ -75603,7 +75603,7 @@
     "name": "Derek Yip",
     "location": {
       "city": "Kaohsiung",
-      "country": "Southern Taiwan ILLUSTRATIVE"
+      "country": "Taiwan"
     },
     "styles": [
       "illustrative"
@@ -75697,7 +75697,7 @@
     "name": "DiabloArt Aki",
     "location": {
       "city": "Yokohama",
-      "country": "Kanagawa Prefecture BLACK AND GREYCARTOONCOMIC"
+      "country": "Japan"
     },
     "styles": [
       "black&gray",
@@ -75772,7 +75772,7 @@
     "name": "Diana Jay",
     "location": {
       "city": "London",
-      "country": "Greater London BLACKWORKNEOTRADITIONAL"
+      "country": "United Kingdom"
     },
     "styles": [
       "blackwork",
@@ -75815,7 +75815,7 @@
     "name": "Diego Austria",
     "location": {
       "city": "Mexico City",
-      "country": "Mexico REALISM"
+      "country": "Mexico"
     },
     "styles": [
       "realism"
@@ -75901,7 +75901,7 @@
     "name": "Diego Gomez Salguero",
     "location": {
       "city": "Pamplona",
-      "country": "Navarre SINGLE NEEDLE"
+      "country": "Spain"
     },
     "styles": [
       "single needle"
@@ -75969,7 +75969,7 @@
     "name": "Diego Mickey",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria BLACK AND GREYREALISM"
+      "country": "Australia"
     },
     "styles": [
       "black&gray",
@@ -76014,7 +76014,7 @@
     "name": "Diick Neves",
     "location": {
       "city": "Sete Lagoas",
-      "country": "Minas Gerais BLACK AND GREYPORTRAIT"
+      "country": "Brazil"
     },
     "styles": [
       "black&gray",
@@ -76039,7 +76039,7 @@
     "name": "Diletta Lembo",
     "location": {
       "city": "London",
-      "country": "Greater London NEOTRADITIONALILLUSTRATIVE"
+      "country": "United Kingdom"
     },
     "styles": [
       "neotraditional",
@@ -76138,7 +76138,7 @@
     "name": "Dimos Karagiannis · Thrash",
     "location": {
       "city": "Thessaloniki",
-      "country": "Central Macedonia GRAPHICABSTRACTWATERCOLOR"
+      "country": "Greece"
     },
     "styles": [
       "graphic",
@@ -76188,7 +76188,7 @@
     "name": "Diogo Nunes",
     "location": {
       "city": "Dublin",
-      "country": "Leinster REALISMBLACK AND GREY"
+      "country": "Ireland"
     },
     "styles": [
       "realism",
@@ -76264,7 +76264,7 @@
     "name": "Dmitriy Gorbunov",
     "location": {
       "city": "Yekaterinburg",
-      "country": "Sverdlovsk Oblast REALISM"
+      "country": "Russia"
     },
     "styles": [
       "realism"
@@ -77165,7 +77165,7 @@
     "name": "Emma · Dietattoomeid",
     "location": {
       "city": "Enschede",
-      "country": "Overijssel LINE ARTFINE LINE"
+      "country": "Netherlands"
     },
     "styles": [
       "line art",
@@ -78032,7 +78032,7 @@
     "name": "Find Tattoo Artists and Studios near you",
     "location": {
       "city": "By Style  Browse Studios         Design Tools              AI Tattoo Generator  ",
-      "country": "USA          minimalist"
+      "country": "United States"
     },
     "styles": [],
     "links": {
@@ -78143,7 +78143,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/128ink/thumb/004.webp"
     ],
     "bio": "Florea Andrei is an exceptional tattoo artist based in Arad, Romania, who specializes in realism and black & gray tattoos. Their professionalism is reflected in both their meticulous attention to detail and their dedication to creating masterful works of art on the skin. Andrei's clients often commend the sterile and immaculate conditions of the studio, ensuring a safe and reassuring experience during each session.\nPrice: $$\nCurrent location: Arad, Romania",
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-07"
   },
   {
     "id": "bonny14tattoo",
@@ -79881,7 +79881,7 @@
     "id": "blackvelvettattoos",
     "name": "Jason Beuchaw",
     "location": {
-      "city": "Mexico",
+      "city": "Unknown",
       "country": "United States"
     },
     "styles": [
@@ -80234,7 +80234,7 @@
     "name": "Jeremy Monkey",
     "location": {
       "city": "Moorea Maiao",
-      "country": "French Polynesia"
+      "country": "France"
     },
     "styles": [
       "tribal"
@@ -80482,7 +80482,7 @@
     "name": "JO_UL",
     "location": {
       "city": "Seoul",
-      "country": "South Korea CARTOONILLUSTRATIVE"
+      "country": "South Korea"
     },
     "styles": [
       "cartoon",
@@ -80831,7 +80831,7 @@
     "name": "Jorge Perez \"Burro\"",
     "location": {
       "city": "Majadahonda",
-      "country": "Community of Madrid TRADITIONALCONTEMPORARYREALISM"
+      "country": "Spain"
     },
     "styles": [
       "traditional",
@@ -81050,8 +81050,8 @@
     "id": "alves_ak",
     "name": "João Alves (AK)",
     "location": {
-      "city": "Brazil",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "Brazil"
     },
     "styles": [
       "dotwork",
@@ -82819,7 +82819,7 @@
     "name": "Leon Tattoo Reunion Island",
     "location": {
       "city": "Le Tampon",
-      "country": "French-reunion"
+      "country": "France"
     },
     "styles": [
       "newschool",
@@ -83720,7 +83720,7 @@
     "name": "Malina - Alina Marina",
     "location": {
       "city": "London",
-      "country": "Greater London ILLUSTRATIVECARTOON"
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative",
@@ -84786,7 +84786,7 @@
     "name": "Melle Alyx",
     "location": {
       "city": "Montreal",
-      "country": "Quebec BLACKWORKENGRAVINGS"
+      "country": "Canada"
     },
     "styles": [
       "blackwork",
@@ -85032,8 +85032,8 @@
     "id": "_mfox",
     "name": "Michele Volpi",
     "location": {
-      "city": "Portugal",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "Portugal"
     },
     "styles": [
       "dotwork",
@@ -86195,30 +86195,6 @@
     "updated_at": "2026-03-04"
   },
   {
-    "id": "12thavenuetattoo",
-    "name": "Nina",
-    "location": {
-      "city": "Nampa",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/12thavenuetattoo/"
-    },
-    "tattoo_count": 33,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/thumb/004.webp"
-    ],
-    "bio": "Nina is a highly skilled tattoo artist specializing in illustrative styles, turning skin into a canvas of intricate and unique designs. You can find her at Downtown Nampa's family-friendly tattoo and piercing parlor, where professionalism is as much a priority as artistry. To experience Nina's exceptional work, swing by 208 12th Avenue S in Nampa, or reach out to her at 208-461-1478 for bookings.",
-    "updated_at": "2026-03-01"
-  },
-  {
     "id": "19ink_te",
     "name": "Nineteen Ink",
     "location": {
@@ -86269,7 +86245,7 @@
     "name": "Nov Keallau",
     "location": {
       "city": "Yau Tsim Mong",
-      "country": "Hong Kong-china"
+      "country": "China"
     },
     "styles": [
       "trashpolka",
@@ -86561,7 +86537,7 @@
     "name": "Orient Ching",
     "location": {
       "city": "Kaohsiung",
-      "country": "Southern Taiwan ORIENTAL"
+      "country": "Taiwan"
     },
     "styles": [
       "oriental"
@@ -87257,8 +87233,8 @@
     "id": "aquapixietattoos",
     "name": "Pixie",
     "location": {
-      "city": "United Kingdom",
-      "country": "Unknown"
+      "city": "Unknown",
+      "country": "United Kingdom"
     },
     "styles": [
       "illustrative"
@@ -90577,7 +90553,7 @@
     "name": "Sunny",
     "location": {
       "city": "Yau Tsim Mong",
-      "country": "Hong Kong-china"
+      "country": "China"
     },
     "styles": [
       "newschool",
@@ -92748,7 +92724,7 @@
     "name": "Welfare Dentist",
     "location": {
       "city": "Toronto",
-      "country": "Ontario CONTEMPORARYHAND POKED"
+      "country": "Canada"
     },
     "styles": [
       "contemporary",
@@ -93450,7 +93426,7 @@
     "name": "Álvaro Flores",
     "location": {
       "city": "Melbourne",
-      "country": "Victoria SACRED GEOMETRYDOTWORKHENNA"
+      "country": "Australia"
     },
     "styles": [
       "sacred geometry",
@@ -93497,7 +93473,7 @@
     "name": "Ángel de Mayo",
     "location": {
       "city": "Alcalá de Henares",
-      "country": "Community of Madrid REALISMPORTRAIT"
+      "country": "Spain"
     },
     "styles": [
       "realism",
