@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "chicanoace",
+  "name": "Chicano Ace",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/chicanoace",
+    "instagram": "https://www.instagram.com/chicanoace/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicanoace/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicanoace/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicanoace/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicanoace/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Chicano Ace, a prominent tattoo artist based in Toronto, Canada, specializes in creating exceptional black and gray realistic tattoos. They display exceptional skill level, as evident by their large following of nearly 58k on Instagram. Ace is known for transforming complex ideas into stunning pieces of body art with remarkable precision and depth, which truly sets him apart in the industry.\nPrice: $$\nCurrent location:"
+}
