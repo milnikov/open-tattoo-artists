@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "brocktatz",
+  "name": "Brock Bougor",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/brocktatz",
+    "instagram": "https://www.instagram.com/brocktatz/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brocktatz/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brocktatz/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brocktatz/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brocktatz/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Brock Bougor is a tattoo artist renowned for his exceptional skill in crafting intricate designs in black & gray, illustrative, and traditional styles. His attention to detail and artistry ensure that each piece is a unique work of art. Clients consistently praise his professionalism, making every tattoo session a comfortable and reassuring experience.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "carsontattoos",
+  "name": "Carson Yip",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/carsontattoos",
+    "instagram": "https://www.instagram.com/carsontattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carsontattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carsontattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carsontattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carsontattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Carson Yip is a highly skilled tattoo artist specializing in black and gray, floral, and anime designs, with a keen focus on traditional Japanese style. They maintain a clean and hygienic work environment at Ninetail Fox Tattoos, ensuring each client's safety and comfort. Known for their meticulous cleanliness, clients can trust Carson to provide not only stunning artwork but also a professional tattooing experience.\nPrice: $$\nCurrent location:"
+}
