@@ -75,8 +75,14 @@ STYLE_TAG_PATTERN = re.compile(
     r"LOVE TATTOOS|EROTIC|PIN-UP|PINUP|EROTICPIN-UP|TATTOOSEROTIC|"
     r"BLACKWORKILLUSTRATIVE|TRADITIONALILLUSTRATIVE|NEOTRADITIONALILLUSTRATIVE|"
     r"COLOR MICRO-REALISM|MICRO-REALISMCOLOR| · IREZUMI|IREZUMI|ART NOUVEAU|RECONSTRUCTIVE|POST MASTECTOMY|BORNEO|CROSS STITCH|CONTINUOUS L|"
-    r"1 TATTOO|1 LIKE|2 FOLLOWERS|more_hori)"
+    r"OP ARTSACRED GEOMETRY|1 TATTOO|1 LIKE|2 FOLLOWERS|more_hori)"
     r".*",
+    re.IGNORECASE,
+)
+
+# Non-country strings (cookie banners, etc.) -> treat as Unknown
+COUNTRY_JUNK_PATTERN = re.compile(
+    r"WE CONSIDER THAT YOU AGREE|COOKIE POLICY|LEARN MORE ABOUT",
     re.IGNORECASE,
 )
 
@@ -238,6 +244,117 @@ REGION_TO_COUNTRY = {
     "Mira": "Portugal",
     "Trinidad And Tobago": "Trinidad and Tobago",
     "USA": "United States",
+    # Japan prefectures
+    "Aichi Prefecture": "Japan",
+    "Chiba Prefecture": "Japan",
+    "Gunma Prefecture": "Japan",
+    "Kyoto Prefecture": "Japan",
+    "Saitama Prefecture": "Japan",
+    # Brazil states/regions
+    "Bahia": "Brazil",
+    "Ceará": "Brazil",
+    "Goiás": "Brazil",
+    "Maranhão": "Brazil",
+    "Paraná State": "Brazil",
+    # US states and counties
+    "Arizona": "United States",
+    "Maryland": "United States",
+    "Allegheny County": "United States",
+    "Bucks County": "United States",
+    "Dallas County": "United States",
+    "Denver County": "United States",
+    "Floyd County": "United States",
+    "Harris County": "United States",
+    "King County": "United States",
+    "Lane County": "United States",
+    "Miami-Dade County": "United States",
+    "Multnomah County": "United States",
+    "Muskegon County": "United States",
+    "Oakland County": "United States",
+    "Orange County": "United States",
+    "Philadelphia County": "United States",
+    "Santa Cruz County": "United States",
+    "Travis County": "United States",
+    "Wayne County": "United States",
+    # UK counties/regions
+    "Berkshire": "United Kingdom",
+    "Devon": "United Kingdom",
+    "Dorset": "United Kingdom",
+    "Kent": "United Kingdom",
+    "Norfolk": "United Kingdom",
+    "Nottinghamshire": "United Kingdom",
+    "Shropshire": "United Kingdom",
+    "Staffordshire": "United Kingdom",
+    "Worcestershire": "United Kingdom",
+    # France/Belgium arrondissements
+    "Arrondissement Hasselt": "Belgium",
+    "Arrondissement Maaseik": "Belgium",
+    "Arrondissement de Boulogne-Billancourt": "France",
+    "Arrondissement de Clermont-Ferrand": "France",
+    "Arrondissement de Lille": "France",
+    "Arrondissement de Liège": "Belgium",
+    "Arrondissement de Toulouse": "France",
+    "Arrondissement de Verviers": "Belgium",
+    "Arrondissement du Havre": "France",
+    "Arrondissement d'Albi": "France",
+    "Arrondissement d'Annecy": "France",
+    "Arrondissement d\u2019Albi": "France",  # curly apostrophe
+    "Arrondissement d\u2019Annecy": "France",  # curly apostrophe
+    # Other regions
+    "Auckland Region": "New Zealand",
+    "Central Bohemian Region": "Czech Republic",
+    "Bursa Province": "Turkey",
+    "İzmir Province": "Turkey",
+    "Formosa Province": "Argentina",
+    "La Pampa Province": "Argentina",
+    "Misiones Province": "Argentina",
+    "Province of Bergamo": "Italy",
+    "Province of Brescia": "Italy",
+    "Province of Cagliari": "Italy",
+    "Province of Girona": "Spain",
+    "Province of Milan": "Italy",
+    "Province of Monza and Brianza": "Italy",
+    "Province of Padua": "Italy",
+    "Province of Pavia": "Italy",
+    "Province of Treviso": "Italy",
+    "Province of Valencia": "Spain",
+    "Province of Zaragoza": "Spain",
+    "Region of Murcia": "Spain",
+    "Region of Southern Denmark": "Denmark",
+    "Nitra Region": "Slovakia",
+    "Dnipropetrovsk Oblast": "Ukraine",
+    "Nizhny Novgorod Oblast": "Russia",
+    "Republic of Tatarstan": "Russia",
+    "Rostov Oblast": "Russia",
+    "Republika Srpska": "Bosnia and Herzegovina",
+    "City of Belgrade": "Serbia",
+    "Gyeonggi Province": "South Korea",
+    "Maharashtra": "India",
+    "Sichuan": "China",
+    "State of Mexico": "Mexico",
+    "Nuevo León": "Mexico",
+    "Santiago Province": "Chile",
+    "Santander Department": "Colombia",
+    "Canary Islands": "Spain",
+    "Crimea": "Ukraine",
+    "Puerto Rico": "United States",
+    "Jura-Nord vaudois District": "Switzerland",
+    "Veveyse District": "Switzerland",
+    "Kreis Wesel": "Germany",
+    "Kreisfreie Stadt Essen": "Germany",
+    "Kreisfreie Stadt München": "Germany",
+    "Landeshauptstadt Magdeburg": "Germany",
+    "Landkreis Heilbronn": "Germany",
+    "Landkreis Lindau": "Germany",
+    "Landkreis Offenbach": "Germany",
+    "Stadtkreis Stuttgart": "Germany",
+    "North Karelia": "Finland",
+    "Pest County": "Hungary",
+    "Skåne County": "Sweden",
+    "Örebro County": "Sweden",
+    "Distrito de Viseu": "Portugal",
+    "Sintra": "Portugal",
+    "Skopje Statistical Region": "North Macedonia",
 }
 
 
@@ -246,8 +363,12 @@ def normalize_country(country: str) -> str:
     if not country or not country.strip():
         return "Unknown"
     raw = country.strip()
+    if COUNTRY_JUNK_PATTERN.search(raw):
+        return "Unknown"
     cleaned = STYLE_TAG_PATTERN.sub("", raw).strip()
     if not cleaned:
+        return "Unknown"
+    if COUNTRY_JUNK_PATTERN.search(cleaned):
         return "Unknown"
     if cleaned in REGION_TO_COUNTRY:
         return REGION_TO_COUNTRY[cleaned]
