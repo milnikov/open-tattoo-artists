@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "cambaintattoo",
+  "name": "Cam Bains",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cambaintattoo",
+    "instagram": "https://www.instagram.com/cambaintattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cambaintattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cambaintattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cambaintattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cambaintattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Cam Bains is a highly skilled tattoo artist who specializes in black and gray, fine line tattoos with a distinctive precision and grace. They are known for their exceptional professionalism, ensuring every client's design is executed with utmost care and attention to detail. To book an exquisite piece with Cam, reach out via cam@origin.co.uk and visit Origin Tattoo Studio for an unparalleled tattooing experience.\nPrice: $\nCurrent location:"
+}

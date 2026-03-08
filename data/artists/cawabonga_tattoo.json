@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "cawabonga_tattoo",
+  "name": "Angel Oviedo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "newschool",
+    "illustrative",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cawabonga_tattoo",
+    "instagram": "https://www.instagram.com/cawabonga_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cawabonga_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cawabonga_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cawabonga_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cawabonga_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Angel Oviedo is an exceptionally talented tattoo artist, specializing in watercolor, newschool, illustrative, and anime styles. His professionalism is reflected through his honed skills and the intricate detail of his work. Clients praise him for maintaining a high level of cleanliness in his work environment, further enhancing their overall experience.\nPrice: $$\nCurrent location:"
+}

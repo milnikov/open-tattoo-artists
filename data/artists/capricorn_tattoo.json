@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "capricorn_tattoo",
+  "name": "Rafael Alonso",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/capricorn_tattoo",
+    "instagram": "https://www.instagram.com/capricorn_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/capricorn_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/capricorn_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/capricorn_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/capricorn_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Rafael Alonso is a highly skilled tattoo artist, specializing in tribal, realism, and black & gray styles that vividly capture the essence of each design. His work area is an exemplar of cleanliness, ensuring a safe and hygienic environment for each client that trusts him with their skin art. Clients leave his studio not just with a stunning piece of body art, but with the assurance that their safety and comfort were prioritized throughout their session.\nPrice: $\nCurrent location:"
+}

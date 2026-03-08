@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "califamoe",
+  "name": "Moe",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/califamoe",
+    "instagram": "https://www.instagram.com/califamoe/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/califamoe/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/califamoe/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/califamoe/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/califamoe/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Meet Moe, a highly skilled tattoo artist famed for their exceptional black & gray and floral tattoos. Based at Classic Standard Tattoo Co. in Bakersfield, California, Moe’s attention to detail and distinctive style keeps clients returning. For a seamless booking experience, call (661) 472-8470, but remember that a deposit is necessary to secure your spot with this in-demand artist.\nPrice: $\nCurrent location:"
+}

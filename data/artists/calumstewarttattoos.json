@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "calumstewarttattoos",
+  "name": "Calum Stewart",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/calumstewarttattoos",
+    "instagram": "https://www.instagram.com/calumstewarttattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/calumstewarttattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/calumstewarttattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/calumstewarttattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/calumstewarttattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Calum Stewart is a highly skilled tattoo artist based in Dundee, Scotland who specializes in black & gray and realism styles. Having been in the tattoo industry since 2011, every piece of his work exemplifies his unrivaled expertise and meticulous attention to detail. Stewart's professionalism and dedication to his craft are evident in all enquiries which can be directed to Stewart Brothers Tattoo Company.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2011"
+}

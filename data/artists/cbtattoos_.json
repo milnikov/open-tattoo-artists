@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "cbtattoos_",
+  "name": "Charlotte Bradley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cbtattoos_",
+    "instagram": "https://www.instagram.com/cbtattoos_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cbtattoos_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cbtattoos_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cbtattoos_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cbtattoos_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Charlotte Bradley is a professional tattoo artist specializing in black and gray styles, whose dedication to cleanliness is apparent in every aspect of her work. Tattooing since 2017, Charlotte ensures a sterile environment that exceeds industry standards, guaranteeing the safety and satisfaction of all her clients. Contact her exclusively via email for bookings, as she maintains a clear focus on her craft, free from distractions.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2017"
+}

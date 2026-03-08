@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bubutattooine",
+  "name": "Bubu",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/bubutattooine",
+    "instagram": "https://www.instagram.com/bubutattooine/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bubutattooine/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bubutattooine/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bubutattooine/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bubutattooine/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Bubu is a highly skilled tattoo artist, specializing in illustrative and newschool styles. They operate out of the reputable Chanza Tattoo studio in Madrid, showcasing their talent and creativity to the local and international clientele. Their artistry is reflected in their unique designs, drawing inspiration from pop culture and contemporary themes.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "cappellini_ink",
+  "name": "Alex Cappellini",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cappellini_ink",
+    "instagram": "https://www.instagram.com/cappellini_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cappellini_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cappellini_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cappellini_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cappellini_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Renowned tattoo artist Alex Cappellini is known for his mastery in the styles of neotraditional and black & gray tattoos. With sterling reputation and esteemed associations like the Dropout Collective and Bheppo Proteam, his skills are vouched for globally. Intricate booking info provided ensures professionalism is maintained, so clients can easily plan out their tattoo journey.\nPrice: $$\nCurrent location:"
+}
