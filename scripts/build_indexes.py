@@ -7,6 +7,8 @@ Outputs:
   - data/indexes/artists.compact.json  — minimal fields for list + filtering
   - data/indexes/search-index.json     — normalized names for search
   - data/indexes/meta.json             — counts, build timestamp
+
+Note: countries.json is a full world list (see data/indexes/README.md); not overwritten by this script.
 """
 
 import json

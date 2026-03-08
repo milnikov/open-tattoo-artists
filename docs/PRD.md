@@ -64,6 +64,16 @@ tattoo directory where:
     -   Favourite artists
     -   Contributions + status
 
+### Visibility: hidden artist cards
+
+Some artist cards are **not shown** in the directory (list, search, filters) and their profile page returns 404. This keeps the catalogue focused on entries with usable info. An artist is hidden if **any** of the following is true:
+
+-   **Only one image** — artist has at most one tattoo image (insufficient for meaningful browsing).
+-   **Wrong or missing country** — `location.country` is empty or not in the allowed list. The allowed list is `data/indexes/countries.json` (full world list + "Unknown"); values like provinces, regions, or placeholders (e.g. "N/A") are not allowed.
+-   **Empty about** — `bio` is missing or only whitespace.
+
+Artists that meet all criteria (more than one image, allowed country, non-empty bio) are shown. Direct links to hidden artists (e.g. `/artists/<id>`) respond with 404. See `data/indexes/README.md` for index build notes and `apps/web/lib/data.ts` for the implementation.
+
 ### Non-Goals (MVP)
 
 -   No map view

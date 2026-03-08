@@ -47,9 +47,14 @@ function buildSearchString(parsed: {
 
 interface ArtistListPageProps {
   artists: CompactArtist[];
+  /** Only these countries may appear in the filter dropdown (from countries.json). */
+  allowedCountryNames?: string[];
 }
 
-export function ArtistListPage({ artists }: ArtistListPageProps) {
+export function ArtistListPage({
+  artists,
+  allowedCountryNames = [],
+}: ArtistListPageProps) {
   const searchParams = useSearchParams();
   const pathname = usePathname();
   const router = useRouter();
@@ -109,6 +114,11 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
     [pathname, router, searchParams]
   );
 
+  const allowedCountrySet = useMemo(
+    () => new Set(allowedCountryNames.map((c) => c.trim().toLowerCase())),
+    [allowedCountryNames]
+  );
+
   const { allStyles, allCountries, citiesForSelectedCountries, citiesByCountry } =
     useMemo(() => {
       const styleSet = new Set<string>();
@@ -121,6 +131,13 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
         if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
         cityByCountry.get(c)!.add(a.location.city);
       }
+      const rawCountries = Array.from(countrySet).sort();
+      const allCountries =
+        allowedCountrySet.size > 0
+          ? rawCountries.filter((c) =>
+              allowedCountrySet.has(c.trim().toLowerCase())
+            )
+          : rawCountries;
       const cities =
         selectedCountries.length > 0
           ? Array.from(
@@ -140,11 +157,11 @@ export function ArtistListPage({ artists }: ArtistListPageProps) {
           : [];
       return {
         allStyles: Array.from(styleSet).sort(),
-        allCountries: Array.from(countrySet).sort(),
+        allCountries,
         citiesForSelectedCountries: cities,
         citiesByCountry: byCountry,
       };
-    }, [artists, selectedCountries]);
+    }, [artists, selectedCountries, allowedCountrySet]);
 
   const filteredArtists = useMemo(() => {
     let result = artists;

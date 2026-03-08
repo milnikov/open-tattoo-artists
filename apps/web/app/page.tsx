@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import { getCompactArtists } from "@/lib/data";
+import { getCompactArtists, getAllowedCountryNames } from "@/lib/data";
 import { ArtistListPage } from "@/components/artist-list-page";
 
 function ArtistListPageFallback() {
@@ -11,7 +11,10 @@ function ArtistListPageFallback() {
 }
 
 export default async function HomePage() {
-  const artists = await getCompactArtists();
+  const [artists, allowedCountryNames] = await Promise.all([
+    getCompactArtists(),
+    Promise.resolve(getAllowedCountryNames()),
+  ]);
 
   if (artists.length === 0) {
     return (
@@ -26,7 +29,10 @@ export default async function HomePage() {
 
   return (
     <Suspense fallback={<ArtistListPageFallback />}>
-      <ArtistListPage artists={artists} />
+      <ArtistListPage
+        artists={artists}
+        allowedCountryNames={allowedCountryNames}
+      />
     </Suspense>
   );
 }

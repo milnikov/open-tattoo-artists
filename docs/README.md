@@ -1,6 +1,6 @@
 # Docs
 
-- **PRD.md** — Product requirements (MVP + AI-ready)
+- **PRD.md** — Product requirements (MVP + AI-ready); includes visibility rules (which artist cards are hidden when info is wrong or missing)
 - **REPO_STRUCTURE.md** — Recommended repo layout
 - **DATA_MODEL.md** — Data shape and schemas
 - **SCRAPER_R2_ARCHITECTURE.md** — Scraper flow and R2 upload
