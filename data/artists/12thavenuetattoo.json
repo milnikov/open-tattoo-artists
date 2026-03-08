@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "12thavenuetattoo",
-  "name": "Nina",
+  "name": "12th Avenue Tattoo",
   "location": {
     "city": "Nampa",
     "country": "United States"
@@ -412,6 +412,19 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
-  "bio": "Nina is a highly skilled tattoo artist specializing in illustrative styles, turning skin into a canvas of intricate and unique designs. You can find her at Downtown Nampa's family-friendly tattoo and piercing parlor, where professionalism is as much a priority as artistry. To experience Nina's exceptional work, swing by 208 12th Avenue S in Nampa, or reach out to her at 208-461-1478 for bookings."
+  "updated_at": "2026-03-07",
+  "bio": "Nina is a highly skilled tattoo artist specializing in illustrative styles, turning skin into a canvas of intricate and unique designs. You can find her at Downtown Nampa's family-friendly tattoo and piercing parlor, where professionalism is as much a priority as artistry. To experience Nina's exceptional work, swing by 208 12th Avenue S in Nampa, or reach out to her at 208-461-1478 for bookings.",
+  "instagram_enriched": {
+    "id": "7112270081",
+    "follower_count": 715,
+    "following_count": 153,
+    "media_count": 306,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/instagram/profile.jpg",
+    "post_images": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/instagram/post_1.jpg",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/instagram/post_2.jpg",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12thavenuetattoo/instagram/post_3.jpg"
+    ]
+  }
 }

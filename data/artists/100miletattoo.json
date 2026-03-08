@@ -617,5 +617,10 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-01",
+  "instagram_enriched": {
+    "user_data": null,
+    "user_posts": null,
+    "following": []
+  }
 }
