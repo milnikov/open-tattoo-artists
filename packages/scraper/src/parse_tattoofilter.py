@@ -66,11 +66,149 @@ def _slug_to_handle(url: str) -> str:
     return re.sub(r"[^a-z0-9._-]", "", slug.lower().replace("-", "_"))[:30] or "unknown"
 
 
-def _normalize_style(s: str) -> str:
-    s = s.strip().lower()
-    if s in ("black and grey", "black and gray"):
-        return "black&gray"
-    return s
+# Style keywords that appear in location blurb on the page (strip from country field).
+LOCATION_STYLE_KEYWORDS = re.compile(
+    r"\b(?:REALISM|BLACK\s+AND\s+GREY|BLACK\s+AND\s+GRAY|TRADITIONAL|ILLUSTRATIVE|BLACKWORK|"
+    r"LINE\s+ART|FINE\s+LINE|MICRO-?REALISM|PORTRAIT|MINIMALIST|DOTWORK|TRIBAL|WATERCOLOR|"
+    r"JAPANESE|GEOMETRIC|NEO-?TRADITIONAL|SINGLE\s+NEEDLE|SCRIPT|AMERICAN\s+TRADITIONAL)\b",
+    re.I,
+)
+
+# Regions/states that map to a country (used so country holds only country name).
+REGION_TO_COUNTRY = {
+    "leinster": "Ireland",
+    "munster": "Ireland",
+    "connacht": "Ireland",
+    "ulster": "Ireland",
+    "greater london": "United Kingdom",
+    "england": "United Kingdom",
+    "scotland": "United Kingdom",
+    "wales": "United Kingdom",
+    "community of madrid": "Spain",
+    "madrid": "Spain",
+    "valencian community": "Spain",
+    "catalonia": "Spain",
+    "ontario": "Canada",
+    "quebec": "Canada",
+    "british columbia": "Canada",
+    "alberta": "Canada",
+    "province of trieste": "Italy",
+    "trieste": "Italy",
+    "latium": "Italy",
+    "lazio": "Italy",
+    "hesse": "Germany",
+    "bavaria": "Germany",
+    "new york": "United States",
+    "california": "United States",
+    "texas": "United States",
+    "florida": "United States",
+    "miami-dade": "United States",
+    "queens": "United States",
+    "new york city": "United States",
+}
+
+# Known country names (for city vs country: if only this is present, city=Unknown).
+KNOWN_COUNTRIES = frozenset({
+    "ireland", "united kingdom", "uk", "spain", "italy", "germany", "france", "portugal",
+    "netherlands", "belgium", "poland", "austria", "switzerland", "greece", "romania",
+    "united states", "usa", "canada", "mexico", "brazil", "argentina", "colombia", "chile",
+    "australia", "new zealand", "japan", "south korea", "china", "india", "russia",
+    "belarus", "ukraine", "czech republic", "hungary", "sweden", "norway", "denmark",
+    "finland", "israel", "turkey", "south africa", "egypt", "thailand", "indonesia",
+    "philippines", "malaysia", "singapore", "united arab emirates", "lebanon",
+})
+
+# Sponsor/brand and non-style tags to exclude from styles (substring or exact match, lower).
+STYLE_BLOCKLIST = frozenset({
+    "sponsor", "sponsor:", "killerinktattoo", "cheyenne_tattooequipment", "tattoodefender",
+    "recoveryaftercare", "florence welch", "rihanna", "justin bieber", "ellie goulding",
+    "celebrity couple", "celebrity couple tattoos", "couple tattoos",
+})
+
+# Known tattoo style phrases for splitting compounds (longer first). Normalized to slug.
+COMPOUND_STYLE_PHRASES = [
+    "black and grey", "black and gray", "micro-realism", "micro realism", "fine line",
+    "line art", "neo-traditional", "neotraditional", "single needle", "blackwork",
+    "american traditional", "black and grey realism", "black and gray realism",
+    "realism", "traditional", "illustrative", "portrait", "minimalist", "dotwork",
+    "tribal", "watercolor", "japanese", "geometric", "trash polka", "script",
+    "stick and poke", "ignorant", "surrealism", "biomechanical", "ornamental",
+]
+
+
+def _strip_style_keywords_from_location(loc_line: str) -> str:
+    """Remove style keywords from location string so country is not mixed with styles."""
+    return LOCATION_STYLE_KEYWORDS.sub("", loc_line).strip().strip(",; ")
+
+
+def _region_or_part_to_country(part: str) -> str:
+    """Map region/state to country, or return part if it's already a country."""
+    key = part.strip().lower()
+    if key in REGION_TO_COUNTRY:
+        return REGION_TO_COUNTRY[key]
+    if key in KNOWN_COUNTRIES:
+        return part.strip()
+    # Normalize common variants
+    if key in ("usa", "us"):
+        return "United States"
+    if key in ("uk", "great britain"):
+        return "United Kingdom"
+    return part.strip()
+
+
+def _parse_location_parts(loc_clean: str) -> tuple[str, str]:
+    """Return (city, country). City is 'Unknown' if only country is known."""
+    parts = [p.strip() for p in re.split(r"[,;]", loc_clean) if p.strip()]
+    if not parts:
+        return "Unknown", "Unknown"
+    # Single part: treat as country if known, else as city (country Unknown)
+    if len(parts) == 1:
+        one = parts[0][:80].strip()
+        key = one.lower()
+        if key in KNOWN_COUNTRIES or key in ("usa", "uk", "us"):
+            return "Unknown", _region_or_part_to_country(one)
+        return one, "Unknown"
+    # Two or more: first = city, last = region or country
+    city_candidate = parts[0][:80].strip()
+    last_part = parts[-1][:80].strip()
+    country = _region_or_part_to_country(last_part)
+    # If first part is actually a country (e.g. "Belarus" in "Belarus, Something"), swap
+    if city_candidate.lower() in KNOWN_COUNTRIES or city_candidate.lower() in ("usa", "uk", "us"):
+        return "Unknown", _region_or_part_to_country(city_candidate)
+    return city_candidate, country
+
+
+def _is_blocked_style(text: str) -> bool:
+    """True if this style label is sponsor/celebrity/theme and should be omitted."""
+    low = text.strip().lower()
+    for blocked in STYLE_BLOCKLIST:
+        if blocked in low or low == blocked:
+            return True
+    return False
+
+
+def _split_compound_style(text: str) -> list[str]:
+    """Split e.g. 'black and grey micro-realism' into ['black&gray', 'micro-realism']."""
+    low = text.strip().lower()
+    if not low:
+        return []
+    result = []
+    remaining = low
+    # Sort by length desc so we match longer phrases first
+    for phrase in sorted(COMPOUND_STYLE_PHRASES, key=len, reverse=True):
+        if phrase not in remaining:
+            continue
+        # Extract this phrase and add normalized
+        norm = _normalize_style(phrase)
+        if norm and norm not in result:
+            result.append(norm)
+        remaining = remaining.replace(phrase, " ", 1).strip()
+        remaining = re.sub(r"\s+", " ", remaining)
+    if remaining and re.match(r"^[a-z0-9\s\-&]+$", remaining) and len(remaining) >= 2:
+        norm = _normalize_style(remaining)
+        if norm and norm not in result:
+            result.append(norm)
+    return result if result else [_normalize_style(low)]
 
 
 def _scroll_and_load_more(driver, max_clicks: int = 20, scroll_pause: float = 0.6):
@@ -231,11 +369,11 @@ def parse_artist_page(
         else:
             instagram_url = None
 
-        # Location: e.g. "roomManhattan, New York City" or "room Trieste, Province of Trieste" (no space after "room" on some pages)
+        # Location: e.g. "room Manhattan, New York City" or "room Trieste, Province of Trieste".
+        # Strip style keywords (REALISM, TRADITIONAL, etc.) so country is only country/region.
         city, country = "Unknown", "Unknown"
         try:
             body = (driver.find_element(By.TAG_NAME, "body").text or "")
-            # room with optional space (roomManhattan or room Manhattan), then capture until digits/tattoos
             m = re.search(r"room\s*([\s\S]+?)(?=\s*[\d,]+\s*tattoos|\s*[\d,]+\s*likes|$)", body, re.I)
             if not m:
                 m = re.search(r"room\s*([^\n]+)", body, re.I)
@@ -243,45 +381,30 @@ def parse_artist_page(
                 loc_line = m.group(1).strip()
                 loc_clean = re.sub(r"[\U0001F1E0-\U0001F1FF\U0001F300-\U0001F9FF]", "", loc_line).strip()
                 loc_clean = re.sub(r"\s+", " ", loc_clean).strip()
-                parts = [p.strip() for p in re.split(r"[,;]", loc_clean) if p.strip()]
-                if len(parts) >= 2:
-                    city = parts[0][:80]
-                    last = parts[-1][:80]
-                    if any(x in last for x in ("County", "States", "USA", "Florida", "California", "Texas", "New York", "Miami-Dade")):
-                        country = "United States"
-                    elif "Province" in last or "Trieste" in last:
-                        country = "Italy"
-                    elif len(last) <= 50 and re.match(r"^[A-Za-z\s\-']+$", last):
-                        country = last
-                    else:
-                        country = "Unknown"
-                elif len(parts) == 1 and 2 <= len(parts[0]) <= 80:
-                    city = parts[0]
-                    if "New York" in city or "Manhattan" in city or "Brooklyn" in city or "Queens" in city or "Miami" in city:
-                        country = "United States"
-                    elif city in ("London", "Manchester", "Birmingham"):
-                        country = "United Kingdom"
-                    elif "Bogotá" in city or "Bogota" in city:
-                        country = "Colombia"
-                    elif "Trieste" in city:
-                        country = "Italy"
+                loc_clean = _strip_style_keywords_from_location(loc_clean)
+                if loc_clean:
+                    city, country = _parse_location_parts(loc_clean)
         except Exception:
             pass
 
-        # Styles: from style links in header (e.g. "Single Needle", "Fine Line"). Exclude "X's Tattoos" / "tattoos".
+        # Styles: only real tattoo style slugs. Exclude sponsor/celebrity/theme; split compounds.
         styles = []
+        seen = set()
         try:
             for a in driver.find_elements(By.XPATH, "//a[contains(@href, '/tattoos/')]"):
                 text = (a.text or "").strip()
-                if 2 <= len(text) <= 40 and not text.startswith("http"):
+                if 2 <= len(text) <= 60 and not text.startswith("http"):
                     low = text.lower()
                     if low == "tattoos" or "'s tattoos" in low or low.endswith("'s tattoos"):
                         continue
-                    if "tattoos" in low and ("'" in text or "’" in text):  # e.g. "Sofia Castro's Tattoos"
+                    if "tattoos" in low and ("'" in text or "’" in text):
                         continue
-                    norm = _normalize_style(text)
-                    if norm and norm not in styles:
-                        styles.append(norm)
+                    if _is_blocked_style(text):
+                        continue
+                    for norm in _split_compound_style(text):
+                        if norm and norm not in seen:
+                            seen.add(norm)
+                            styles.append(norm)
         except Exception:
             pass
         styles = styles[:15]
