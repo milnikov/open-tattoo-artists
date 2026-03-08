@@ -24,3 +24,11 @@ artist_delay_max_seconds: 8
 # Extra pause every N artists to further reduce load
 artist_delay_every_n: 10
 artist_delay_extra_seconds: 15
+
+# Instagram enrichment (enrich_instagram_rapidapi.py)
+# rapidapi_key: ""   # Or set RAPIDAPI_KEY in the environment (env takes precedence).
+# If you get 404, copy the exact path from your RapidAPI subscription:
+# rapidapi_endpoint_user_info: "ig_get_fb_profile_hover.php"
+# rapidapi_endpoint_following: "get_ig_user_followers_v2.php"   # 50 per page
+# rapidapi_following_pagination_param: "max_id"   # use if v2 expects max_id instead of start_from
+# rapidapi_endpoint_posts: "get_ig_user_posts.php"   # 30 posts for tattoo gallery

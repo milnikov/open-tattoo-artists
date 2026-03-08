@@ -65,6 +65,27 @@ def upload_image(
     return thumb_key, full_key
 
 
+def upload_raw(
+    client,
+    bucket: str,
+    key: str,
+    body: bytes,
+    content_type: str = "image/jpeg",
+    public_url_base: Optional[str] = None,
+) -> str:
+    """Upload raw bytes to R2 at key. Returns public URL if public_url_base set, else key."""
+    client.put_object(
+        Bucket=bucket,
+        Key=key,
+        Body=body,
+        ContentType=content_type,
+        CacheControl=CACHE_CONTROL,
+    )
+    if public_url_base:
+        return f"{public_url_base.rstrip('/')}/{key}"
+    return key
+
+
 def upload_artist_images(
     client,
     bucket: str,

@@ -49,6 +49,7 @@ JUNK_STYLES = {
     "tattoodefender",
     "tattooeverythingsupplies",
     "total_immortal_tattoos",
+    "balm_tattoo",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -71,8 +72,10 @@ STYLE_TAG_PATTERN = re.compile(
     r"TRIBAL|POLYNESIAN|BIOMECHANICAL|SURREALISM|POP ART|ENGRAVINGS|NORDIC|SAK YANT|"
     r"FREEHAND|LINE ART|FINE LINE|MICRO-REALISM|COVER UPS|BLACK AND GREY|REALISMBLACK|"
     r"minimalist|ILLUSTRATIVECARTOON|ILLUSTRATIVESURREALISM|WATERCOLORILLUSTRATIVE|"
-    r"LOVE TATTOOS|EROTIC|PIN-UP|PINUP|EROTICPIN-UP|TATTOOSEROTIC"
-    r"BLACKWORKILLUSTRATIVE|TRADITIONALILLUSTRATIVE|NEOTRADITIONALILLUSTRATIVE)"
+    r"LOVE TATTOOS|EROTIC|PIN-UP|PINUP|EROTICPIN-UP|TATTOOSEROTIC|"
+    r"BLACKWORKILLUSTRATIVE|TRADITIONALILLUSTRATIVE|NEOTRADITIONALILLUSTRATIVE|"
+    r"COLOR MICRO-REALISM|MICRO-REALISMCOLOR| · IREZUMI|IREZUMI|ART NOUVEAU|RECONSTRUCTIVE|POST MASTECTOMY|BORNEO|CROSS STITCH|CONTINUOUS L|"
+    r"1 TATTOO|1 LIKE|2 FOLLOWERS|more_hori)"
     r".*",
     re.IGNORECASE,
 )
@@ -164,8 +167,46 @@ REGION_TO_COUNTRY = {
     "Stadtkreis Heidelberg": "Germany",
     "Stadtkreis Mannheim": "Germany",
     "Stadtkreis Ulm": "Germany",
+    "Kreisfreie Stadt Köln": "Germany",
     "Villach Stadt": "Austria",
+    "California": "United States",
+    "Los Angeles County": "United States",
+    "New York City": "United States",
+    "Illinois": "United States",
+    "Cook County": "United States",
+    "Alameda County": "United States",
+    "Barcelona Province": "Spain",
+    "Province of Granada": "Spain",
+    "Province of Alicante": "Spain",
+    "Province of Rome": "Italy",
+    "Province of Turin": "Italy",
+    "Province of Naples": "Italy",
+    "Gipuzkoa - Guipúzcoa": "Spain",
+    "Plzeň Region": "Czech Republic",
+    "Aveiro District": "Portugal",
+    "Federal District (Brazil)": "Brazil",
+    "Rio de Janeiro State": "Brazil",
+    "São Paulo State": "Brazil",
+    "Santa Fe Province": "Argentina",
+    "Buenos Aires Province": "Argentina",
+    "Tirana County": "Albania",
+    "Tel Aviv District": "Israel",
+    "Ankara Province": "Turkey",
+    "Sarawak": "Malaysia",
+    "Special Region of Yogyakarta": "Indonesia",
+    "Utrecht (province)": "Netherlands",
+    "Île-de-France": "France",
+    "Arrondissement de Grenoble": "France",
+    "Attica": "Greece",
+    "Brussels-Capital Region": "Belgium",
+    "Bezirk Zürich": "Switzerland",
+    "Kiev Oblast": "Ukraine",
+    "Kaliningrad Oblast": "Russia",
     "Leningrad Oblast": "Russia",
+    "Jalisco": "Mexico",
+    "Arrondissement de Bayonne": "France",
+    "Kantō region": "Japan",
+    "Istanbul Province": "Turkey",
     "Moscow Oblast": "Russia",
     "Krasnodar Krai": "Russia",
     "Krasnoyarsk Krai": "Russia",
@@ -215,6 +256,19 @@ def normalize_country(country: str) -> str:
     return cleaned
 
 
+def normalize_city(city: str) -> str:
+    """Strip style tags from city (e.g. 'Singapore SINGLE NEEDLE...' -> 'Singapore'). 'On the road' -> Unknown."""
+    if not city or not city.strip():
+        return "Unknown"
+    raw = city.strip()
+    cleaned = STYLE_TAG_PATTERN.sub("", raw).strip()
+    if not cleaned:
+        return "Unknown"
+    if cleaned.lower().startswith("on the road"):
+        return "Unknown"
+    return cleaned
+
+
 def main():
     fix = "--fix" in sys.argv
     style_issues = []
@@ -223,6 +277,7 @@ def main():
     compound_found_list = []  # (aid, compound_style, expanded)
     style_normalize_list = []  # (aid, before, after)
     country_issues = []
+    city_issues = []
 
     for f in sorted(ARTISTS_DIR.glob("*.json")):
         try:
@@ -256,11 +311,24 @@ def main():
                         data["location"]["country"] = city
 
         # Location: strange country (style tags or region instead of country)
-        normalized = normalize_country(country)
-        if normalized != country:
-            country_issues.append((aid, country, normalized))
+        normalized_country = normalize_country(country)
+        if normalized_country != country:
+            country_issues.append((aid, country, normalized_country))
             if fix:
-                data["location"]["country"] = normalized
+                data["location"]["country"] = normalized_country
+
+        # Location: strange city (style tags concatenated, e.g. "Singapore SINGLE NEEDLE...", "On the road ILLUSTRATIVE...")
+        normalized_city = normalize_city(city)
+        if normalized_city != city:
+            city_issues.append((aid, city, normalized_city))
+            if fix:
+                data["location"]["city"] = normalized_city
+                # If city was "Singapore ..." or "Hong Kong ...", set country if missing
+                if not country or country == "Unknown":
+                    if normalized_city == "Singapore":
+                        data["location"]["country"] = "Singapore"
+                    elif normalized_city == "Hong Kong":
+                        data["location"]["country"] = "China"
 
         # Styles: junk entries
         styles = list(data.get("styles") or [])
@@ -299,7 +367,7 @@ def main():
             if fix:
                 data["styles"] = normalized_styles
 
-        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or style_normalize_changed or normalized != country):
+        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or style_normalize_changed or normalized_country != country or normalized_city != city):
             f.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # Report
@@ -325,6 +393,13 @@ def main():
     for aid, city, country, issue in loc_wrong:
         print(f"  {aid}: city={city!r} country={country!r} -> {issue}")
     print(f"\nTotal location issues (country-in-city): {len(loc_wrong)}\n")
+
+    print("=== LOCATION: strange city (style tags in city field) ===\n")
+    for aid, raw, norm in city_issues[:40]:
+        print(f"  {aid}: {raw!r} -> {norm!r}")
+    if len(city_issues) > 40:
+        print(f"  ... and {len(city_issues) - 40} more")
+    print(f"\nTotal strange city: {len(city_issues)}\n")
 
     print("=== LOCATION: strange country (style tags / region in country field) ===\n")
     for aid, raw, norm in country_issues[:80]:
