@@ -71338,6 +71338,30 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "ciretattoo",
+    "name": "Cire Tattoo",
+    "location": {
+      "city": "Pasay City",
+      "country": "Philippines"
+    },
+    "styles": [
+      "black&gray",
+      "trashpolka"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ciretattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ciretattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ciretattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ciretattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ciretattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ciretattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "blackstone_tattoo",
     "name": "Ciro Belushi",
     "location": {
@@ -81909,6 +81933,28 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabriceyencko/thumb/001.webp"
     ],
     "bio": "FABRICE YENCKO · COKNEY",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "fadefx",
+    "name": "Fade FX",
+    "location": {
+      "city": "Brighton",
+      "country": "East Sussex SACRED GEOMETRYDOTWORKTRIBALBORNEO"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/fadefx"
+    },
+    "tattoo_count": 6,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fadefx/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fadefx/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fadefx/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fadefx/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fadefx/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE Rhodus Art Studios Brighton",
     "updated_at": "2026-03-08"
   },
   {
