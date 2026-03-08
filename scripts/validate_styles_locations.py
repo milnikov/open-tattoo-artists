@@ -10,12 +10,25 @@ from pathlib import Path
 
 ARTISTS_DIR = Path(__file__).resolve().parents[1] / "data" / "artists"
 
-# Non-style entries that were scraped as "styles" (sponsors, brands, etc.)
+# Compound style strings to split into two separate styles
+COMPOUND_STYLES = {
+    "black and grey micro-realism": ["black&gray", "micro-realism"],
+    "color micro-realism": ["watercolor", "micro-realism"],
+}
+
+# Non-style entries that were scraped as "styles" (sponsors, brands, celebrity names, etc.)
 JUNK_STYLES = {
+    "cara delevingne",
+    "celebrity couple tattoos",
     "cheyenne_tattooequipment",
+    "ellie goulding",
+    "florence welch",
+    "justin bieber",
+    "katy perry",
     "killerinktattoo",
     "leejonestattooist",
     "recoveryaftercare",
+    "rihanna",
     "sponsor:",
     "tattoodefender",
     "tattooeverythingsupplies",
@@ -190,6 +203,7 @@ def main():
     style_issues = []
     location_issues = []
     junk_found = []
+    compound_found_list = []  # (aid, compound_style, expanded)
     country_issues = []
 
     for f in sorted(ARTISTS_DIR.glob("*.json")):
@@ -231,14 +245,26 @@ def main():
                 data["location"]["country"] = normalized
 
         # Styles: junk entries
-        styles = data.get("styles") or []
+        styles = list(data.get("styles") or [])
         bad = [s for s in styles if s in JUNK_STYLES]
         if bad:
-            junk_found.append((aid, bad, styles))
+            junk_found.append((aid, bad, list(styles)))
             if fix:
-                data["styles"] = [s for s in styles if s not in JUNK_STYLES]
+                styles = [s for s in styles if s not in JUNK_STYLES]
 
-        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or normalized != country):
+        # Styles: split compound styles into two (e.g. "black and grey micro-realism" -> black&gray + micro-realism)
+        compound_found = [s for s in styles if s in COMPOUND_STYLES]
+        if compound_found:
+            compound_found_list.append((aid, compound_found, [part for c in compound_found for part in COMPOUND_STYLES[c]]))
+            if fix:
+                new_styles = [s for s in styles if s not in COMPOUND_STYLES]
+                for comp in compound_found:
+                    for part in COMPOUND_STYLES[comp]:
+                        if part not in new_styles:
+                            new_styles.append(part)
+                data["styles"] = new_styles
+
+        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or normalized != country):
             f.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # Report
@@ -246,6 +272,11 @@ def main():
     for aid, bad, all_styles in junk_found:
         print(f"  {aid}: remove {bad} from {all_styles}")
     print(f"\nTotal artists with junk styles: {len(junk_found)}\n")
+
+    print("=== STYLES: compound split (one string -> two styles) ===\n")
+    for aid, comps, parts in compound_found_list:
+        print(f"  {aid}: {comps} -> {parts}")
+    print(f"\nTotal artists with compound styles split: {len(compound_found_list)}\n")
 
     print("=== LOCATION: wrong fillings (country in city field) ===\n")
     loc_wrong = [x for x in location_issues if "country name" in x[3]]
