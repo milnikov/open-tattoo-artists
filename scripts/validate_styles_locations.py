@@ -16,11 +16,26 @@ COMPOUND_STYLES = {
     "color micro-realism": ["watercolor", "micro-realism"],
 }
 
-# Non-style entries that were scraped as "styles" (sponsors, brands, celebrity names, etc.)
+# Alias -> canonical style (merge duplicates; canonical form used in data)
+STYLE_NORMALIZE = {
+    "new school": "newschool",
+    "cover ups": "coverup",
+    "trash polka": "trashpolka",
+    "fine line": "fineline",
+    "line art": "fineline",
+    "single needle": "fineline",
+    "blackout": "blackwork",
+    "japanese · irezumi": "japanese",
+    "japanese irezumi": "japanese",
+}
+
+# Non-style entries that were scraped as "styles" (sponsors, brands, celebrity names, fake themes, etc.)
 JUNK_STYLES = {
     "cara delevingne",
     "celebrity couple tattoos",
     "cheyenne_tattooequipment",
+    "erotic",
+    "love tattoos",
     "ellie goulding",
     "florence welch",
     "justin bieber",
@@ -30,6 +45,7 @@ JUNK_STYLES = {
     "recoveryaftercare",
     "rihanna",
     "sponsor:",
+    "stencils",
     "tattoodefender",
     "tattooeverythingsupplies",
     "total_immortal_tattoos",
@@ -55,6 +71,7 @@ STYLE_TAG_PATTERN = re.compile(
     r"TRIBAL|POLYNESIAN|BIOMECHANICAL|SURREALISM|POP ART|ENGRAVINGS|NORDIC|SAK YANT|"
     r"FREEHAND|LINE ART|FINE LINE|MICRO-REALISM|COVER UPS|BLACK AND GREY|REALISMBLACK|"
     r"minimalist|ILLUSTRATIVECARTOON|ILLUSTRATIVESURREALISM|WATERCOLORILLUSTRATIVE|"
+    r"LOVE TATTOOS|EROTIC|PIN-UP|PINUP|EROTICPIN-UP|TATTOOSEROTIC"
     r"BLACKWORKILLUSTRATIVE|TRADITIONALILLUSTRATIVE|NEOTRADITIONALILLUSTRATIVE)"
     r".*",
     re.IGNORECASE,
@@ -204,6 +221,7 @@ def main():
     location_issues = []
     junk_found = []
     compound_found_list = []  # (aid, compound_style, expanded)
+    style_normalize_list = []  # (aid, before, after)
     country_issues = []
 
     for f in sorted(ARTISTS_DIR.glob("*.json")):
@@ -251,6 +269,7 @@ def main():
             junk_found.append((aid, bad, list(styles)))
             if fix:
                 styles = [s for s in styles if s not in JUNK_STYLES]
+                data["styles"] = styles
 
         # Styles: split compound styles into two (e.g. "black and grey micro-realism" -> black&gray + micro-realism)
         compound_found = [s for s in styles if s in COMPOUND_STYLES]
@@ -263,8 +282,24 @@ def main():
                         if part not in new_styles:
                             new_styles.append(part)
                 data["styles"] = new_styles
+                styles = new_styles
 
-        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or normalized != country):
+        # Styles: normalize aliases (merge duplicates: new school->newschool, line art/fine line/single needle->fineline, blackout->blackwork, etc.)
+        current_styles = data.get("styles", styles) if fix else styles
+        normalized_styles = []
+        seen = set()
+        for s in current_styles:
+            canon = STYLE_NORMALIZE.get(s, s)
+            if canon not in seen:
+                seen.add(canon)
+                normalized_styles.append(canon)
+        style_normalize_changed = normalized_styles != current_styles
+        if style_normalize_changed:
+            style_normalize_list.append((aid, current_styles, normalized_styles))
+            if fix:
+                data["styles"] = normalized_styles
+
+        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or style_normalize_changed or normalized != country):
             f.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # Report
@@ -277,6 +312,13 @@ def main():
     for aid, comps, parts in compound_found_list:
         print(f"  {aid}: {comps} -> {parts}")
     print(f"\nTotal artists with compound styles split: {len(compound_found_list)}\n")
+
+    print("=== STYLES: normalized (alias -> canonical, merged duplicates) ===\n")
+    for aid, before, after in style_normalize_list[:50]:
+        print(f"  {aid}: {before} -> {after}")
+    if len(style_normalize_list) > 50:
+        print(f"  ... and {len(style_normalize_list) - 50} more")
+    print(f"\nTotal artists with styles normalized: {len(style_normalize_list)}\n")
 
     print("=== LOCATION: wrong fillings (country in city field) ===\n")
     loc_wrong = [x for x in location_issues if "country name" in x[3]]
