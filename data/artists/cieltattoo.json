@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "cieltattoo",
+  "name": "Ciel Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "tribal",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cieltattoo",
+    "instagram": "https://www.instagram.com/cieltattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cieltattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cieltattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cieltattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cieltattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Discover the art of ink at Ciel Tattoo, a premier tattoo studio nestled in the heart of Rondonópolis, MT, Brasil. Specializing in a diverse range of styles from elegant lettering and intricate tribal designs to delicate florals, our skilled artists will transform your visions into stunning body art. Connect with us on Facebook for a glimpse into our creative enclave or reach out via WhatsApp to discuss your next tattoo or piercing.\nPrice: $\nCurrent location:"
+}
