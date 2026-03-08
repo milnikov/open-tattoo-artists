@@ -21,11 +21,12 @@ function listUrl(params: { styles?: string[]; countries?: string[]; cities?: str
 const HEADER_BUTTON_CLASS =
   "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5";
 
-export default async function ArtistPage({ params }: { params: { id: string } }) {
-  const artist = getArtist(params.id);
+export default async function ArtistPage({ params }: { params: Promise<{ id: string }> }) {
+  const { id } = await params;
+  const artist = getArtist(id);
   if (!artist) notFound();
 
-  const contributorEmail = await getContributorEmailForArtist(params.id);
+  const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
 
   return (

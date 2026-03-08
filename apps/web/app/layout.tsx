@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Inter, Spectral } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 
@@ -27,6 +28,7 @@ export default function RootLayout({
       <body className={`${inter.variable} ${spectral.variable} ${inter.className} min-h-screen bg-background text-foreground antialiased`}>
         <SiteHeader />
         {children}
+        <Analytics />
       </body>
     </html>
   );

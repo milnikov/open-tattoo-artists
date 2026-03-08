@@ -3,9 +3,10 @@ import { NextResponse } from "next/server";
 
 export async function GET(
   _request: Request,
-  { params }: { params: { id: string } }
+  { params }: { params: Promise<{ id: string }> }
 ) {
-  const artist = getArtist(params.id);
+  const { id } = await params;
+  const artist = getArtist(id);
   if (!artist) return NextResponse.json(null, { status: 404 });
   return NextResponse.json(artist);
 }
