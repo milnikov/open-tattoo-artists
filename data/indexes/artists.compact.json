@@ -68004,6 +68004,28 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "celebrity_tattoos",
+    "name": "Celebrity Tattoos",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/celebrity_tattoos/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celebrity_tattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celebrity_tattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celebrity_tattoos/thumb/002.webp"
+    ],
+    "bio": "Nestled in the heart of White Lake, Michigan, at 9520 Highland Road lies the renowned studio of Celebrity Tattoos, where exceptional artistry meets unparalleled professionalism. Specializing in the nuanced shades of black and gray, their masterful tattoos are a testament to their skill level, elevating the craft to a form of high art. Clients find solace in the studio's commitment to a clean and sterile environment, ensuring a safe and premium tattooing experience.\nPrice: $\nCurrent location:",
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "celes",
     "name": "Celes",
     "location": {
@@ -68826,6 +68848,31 @@
     ],
     "bio": "Chica Tattoo\nSTUDIO\nSão Luís, Maranhao, Brazil\n19.0k\nAdd\nMessage\nillustrative\nneotraditional\nwatercolor",
     "updated_at": "2026-03-02"
+  },
+  {
+    "id": "chicagoinktattoo",
+    "name": "Chicago Ink Tattoo",
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "styles": [
+      "realism",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/chicagoinktattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicagoinktattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicagoinktattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicagoinktattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicagoinktattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chicagoinktattoo/thumb/004.webp"
+    ],
+    "bio": "Chicago Ink Tattoo\nSTUDIO\nChicago, Illinois, United States\n21.1k\nAdd\nMessage\nrealism\nblack&gray",
+    "updated_at": "2026-03-08"
   },
   {
     "id": "chiccotortora",
@@ -70576,6 +70623,32 @@
     ],
     "bio": "WORKPLACE Cinderella Tattoo Studio Gandía",
     "updated_at": "2026-03-07"
+  },
+  {
+    "id": "cindy_chronicink",
+    "name": "Cindy Liu",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "styles": [
+      "watercolor",
+      "illustrative",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/cindy_chronicink/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cindy_chronicink/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cindy_chronicink/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cindy_chronicink/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cindy_chronicink/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cindy_chronicink/thumb/004.webp"
+    ],
+    "bio": "Cindy Liu is a highly skilled tattoo artist specializing in watercolor, illustrative, and fineline styles right in the heart of Toronto, Canada. Exhibiting a great level of mastery over her artistry, Cindy uses a unique blend of traditional Asian influences and contemporary techniques in her works. Her extraordinary precision and attention to detail set her apart in the industry.\nPrice: $$\nCurrent location: Toronto, Ontario, Canada",
+    "updated_at": "2026-03-08"
   },
   {
     "id": "cipriandaniel",
@@ -79016,6 +79089,25 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "emscott",
+    "name": "Em Scott",
+    "location": {
+      "city": "Los Angeles",
+      "country": "Los Angeles County LETTERINGSINGLE NEEDLE"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/emscott"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emscott/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emscott/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Ten Thousand Waves Tattoo Gallery Los Angeles",
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "emasweeney",
     "name": "Ema Sweeney",
     "location": {
@@ -79408,6 +79500,28 @@
     "updated_at": "2026-03-01"
   },
   {
+    "id": "emy",
+    "name": "Emy Blacksheep",
+    "location": {
+      "city": "Grenoble",
+      "country": "Arrondissement de Grenoble NEW SCHOOLNEOTRADITIONAL"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/emy"
+    },
+    "tattoo_count": 7,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emy/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emy/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emy/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emy/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emy/thumb/004.webp"
+    ],
+    "bio": "Emy découvre le tattoo en 1992, quand son frère l’immerge dans le snowboard et le punk read more",
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "casadabruxaartetattoo",
     "name": "Emy Fernandez",
     "location": {
@@ -79429,6 +79543,88 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/casadabruxaartetattoo/thumb/004.webp"
     ],
     "bio": "Emy Fernández Tattoo Studio in Canoas, Brazil, offers an intimate oasis for those seeking exquisite, custom floral ink. With an emphasis on artistic exclusivity, this private studio blooms with creativity and does not offer piercing services, ensuring a focus purely on the art of tattooing. Discover a serene environment where every design by @emyfernandestattoo and @jackferreiratattoo blossoms into a personal masterpiece.\nPrice: $\nCurrent location: Canoas, Rio Grande Do Sul, Brazil",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "enhorizaru",
+    "name": "En · Horizaru",
+    "location": {
+      "city": "Tokyo",
+      "country": "Kantō region  · IREZUMI"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/enhorizaru"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enhorizaru/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enhorizaru/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Horizaru Tattoo Tokyo",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "endreszabo",
+    "name": "Endre Szabo",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/endreszabo"
+    },
+    "tattoo_count": 4,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/endreszabo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/endreszabo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/endreszabo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/endreszabo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/endreszabo/thumb/004.webp"
+    ],
+    "bio": "Hungarian, born and raised in the capital Budapest. read more",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "enekoetxebeste",
+    "name": "Eneko Etxebeste",
+    "location": {
+      "city": "Barcelona",
+      "country": "Barcelona Province BLACK AND GREYBLACKWORK"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/enekoetxebeste"
+    },
+    "tattoo_count": 4,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekoetxebeste/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekoetxebeste/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekoetxebeste/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekoetxebeste/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekoetxebeste/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE Bhorn Tattoo Barcelona",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "enekolekuonaartola",
+    "name": "Eneko Lekuona Artola · Fat Mustang",
+    "location": {
+      "city": "Anglet",
+      "country": "Arrondissement de Bayonne 1 TATTOO"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/enekolekuonaartola"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekolekuonaartola/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enekolekuonaartola/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Zakura Tattoo Anglet",
     "updated_at": "2026-03-08"
   },
   {
@@ -82713,6 +82909,126 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "ghazal_jafari",
+    "name": "Ghazal Jafari",
+    "location": {
+      "city": "London",
+      "country": "Greater London LINE ARTFINE LINEILLUSTRATIVE"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ghazal_jafari"
+    },
+    "tattoo_count": 18,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghazal_jafari/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghazal_jafari/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghazal_jafari/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghazal_jafari/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghazal_jafari/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE South City Market London",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "ghinko",
+    "name": "Ghinko",
+    "location": {
+      "city": "Manhattan",
+      "country": "New York City SINGLE NEEDLEMICRO-"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ghinko"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghinko/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghinko/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghinko/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghinko/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghinko/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "giadaknox",
+    "name": "Giada Knox",
+    "location": {
+      "city": "Padua",
+      "country": "Province of Padua TRADITIONALBLACKWORK"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/giadaknox"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/giadaknox/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/giadaknox/thumb/001.webp"
+    ],
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "gianlucaartico",
+    "name": "Gianluca Artico",
+    "location": {
+      "city": "Rome",
+      "country": "Province of Rome"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/gianlucaartico"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucaartico/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucaartico/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Fronte del Porto Tattoo Rome",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "gianlucacolella",
+    "name": "Gianluca Colella",
+    "location": {
+      "city": "Valencia",
+      "country": "Province of Valencia  1 TATTOO"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/gianlucacolella"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucacolella/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucacolella/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucacolella/thumb/002.webp"
+    ],
+    "bio": "WORKPLACE Manitatuz Valencia",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "gianlucafusco",
+    "name": "Gianluca Fusco",
+    "location": {
+      "city": "London",
+      "country": "Greater London NEOTRADITIONALILLUSTRATIVE"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/gianlucafusco"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucafusco/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucafusco/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gianlucafusco/thumb/002.webp"
+    ],
+    "bio": "WORKPLACE The Family Business Tattoo London",
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "blackarttattoo2301",
     "name": "Giovanni Silva",
     "location": {
@@ -85170,6 +85486,50 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "intat",
+    "name": "Intat",
+    "location": {
+      "city": "Seoul",
+      "country": "South Korea ILLUSTRATIVEBLACK AND GREYBLACKWORKSINGLE NEEDLE"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/intat"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/intat/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/intat/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/intat/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/intat/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/intat/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE P Studio Yasaeng",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "iosep",
+    "name": "Iosep Ambokadze",
+    "location": {
+      "city": "Hamburg",
+      "country": "Germany LINE ARTDOTWORK"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/iosep"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE Adeqvat Tattoo Atelier Hamburg",
+    "updated_at": "2026-03-08"
+  },
+  {
     "id": "adeqvat",
     "name": "Iosep Ink",
     "location": {
@@ -85219,6 +85579,45 @@
     ],
     "bio": "Ipin La'tattu is a highly skilled tattoo artist located in Badung, Indonesia, specializing in geometric, fineline, and dotwork styles. Clients appreciate Ipin's dedication to cleanliness in their tattooing practice, ensuring a hygienic and safe experience for every individual walking into their studio. Please contact them through the provided email addresses for inquiries and pricing.\nPrice: $\nCurrent location: Badung, Indonesia",
     "updated_at": "2026-03-05"
+  },
+  {
+    "id": "ipin_latattu",
+    "name": "Ipin La'tattu",
+    "location": {
+      "city": "Canggu",
+      "country": "WE CONSIDER THAT YOU AGREE TO ITS USE. LEARN MORE ABOUT COOKIE POLICY. HIDE THIS"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ipin_latattu"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ipin_latattu/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ipin_latattu/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ipin_latattu/thumb/002.webp"
+    ],
+    "bio": "WORKPLACE Koloni Tattoo Bali Canggu",
+    "updated_at": "2026-03-08"
+  },
+  {
+    "id": "irenedeesa",
+    "name": "Irene Deesa",
+    "location": {
+      "city": "Armilla",
+      "country": "Province of Granada REALISMBLACK AND GREY"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/irenedeesa"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/irenedeesa/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/irenedeesa/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Deesa Tattoo Armilla",
+    "updated_at": "2026-03-08"
   },
   {
     "id": "bmtattoo",
