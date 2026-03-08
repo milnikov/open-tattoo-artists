@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bryanrandolph",
+  "name": "Bryan Randolph",
+  "location": {
+    "city": "San Rafael",
+    "country": "United States"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/bryanrandolph",
+    "instagram": "https://instagram.com/bryanrandolph",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bryanrandolph/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bryanrandolph/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bryanrandolph/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bryanrandolph/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "WORKPLACE Spider Murphy's Tattoo San Rafael"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "bradfink",
+  "name": "Brad Fink",
+  "location": {
+    "city": "St. Louis",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "japanese · irezumi"
+  ],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/bradfink",
+    "instagram": "https://instagram.com/bradfink",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradfink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradfink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradfink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradfink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-07",
+  "bio": "WORKPLACE Iron Age Tattoo store_mall_directory RESIDENT"
+}
