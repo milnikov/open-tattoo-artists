@@ -2895,6 +2895,31 @@
     "updated_at": "2026-03-06"
   },
   {
+    "id": "allaboutyoutattoo",
+    "name": "AAYT - Private Tattoo Studio",
+    "location": {
+      "city": "Richmond",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "floral",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allaboutyoutattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "abbeytat",
     "name": "Abbey Martin",
     "location": {
@@ -9438,29 +9463,6 @@
     ],
     "bio": "Al Minz is a highly skilled tattoo artist specializing in the style of realism. Based out of Warsaw, Poland, Al is renowned for their finesse in creating life-like designs, making them the perfect artist for your next tattoo. Eminently approachable, they always welcome inquiries and collaborations, ensuring a personalized experience with each client.\nPrice: $$\nCurrent location: Warsaw, Woj. Mazowieckie, Poland",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "allinktattooaq",
-    "name": "Al(l)ink L'Aquila",
-    "location": {
-      "city": "L'aquila",
-      "country": "Italy"
-    },
-    "styles": [
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allinktattooaq/"
-    },
-    "tattoo_count": 15,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
   },
   {
     "id": "alainhead",
@@ -16989,31 +16991,6 @@
     "updated_at": "2026-03-07"
   },
   {
-    "id": "alitattoos",
-    "name": "Ali Tattoos",
-    "location": {
-      "city": "New York",
-      "country": "United States"
-    },
-    "styles": [
-      "watercolor",
-      "illustrative",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alitattoos/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "alicangorgu",
     "name": "Alican Görgü",
     "location": {
@@ -17250,7 +17227,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aliss_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aliss_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alicetattoos",
@@ -17697,7 +17674,7 @@
   },
   {
     "id": "alipate_fetuli",
-    "name": "Alipate Fetuli _\\,,/",
+    "name": "Alipate Fetuli",
     "location": {
       "city": "Long Beach",
       "country": "United States"
@@ -17716,7 +17693,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alipate_fetuli/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alipate_fetuli/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alisa_tesla_art",
@@ -17764,7 +17741,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alishagory/thumb/001.webp"
     ],
     "bio": "WORKPLACE Grit N Glory Manhattan",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alisovatattoo",
@@ -17789,7 +17766,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alisovatattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alisovatattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alissontattoowork",
@@ -17916,6 +17893,28 @@
     "updated_at": "2026-03-03"
   },
   {
+    "id": "alldaytattoobkk",
+    "name": "All Day Tattoo",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "dotwork",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/alldaytattoobkk/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "all_for_ink",
     "name": "All for Ink",
     "location": {
@@ -17967,8 +17966,33 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "allisonetattoo",
+    "name": "All Is One Tattoo",
+    "location": {
+      "city": "Albuquerque",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "traditional",
+      "watercolor"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allisonetattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "allsacredtattoo",
-    "name": "All Sacred Tattoo Shop",
+    "name": "All Sacred Tattoo",
     "location": {
       "city": "Edgewater",
       "country": "United States"
@@ -17989,7 +18013,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allsacredtattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allsacredtattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "allsaintsatx",
@@ -18066,6 +18090,32 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "allstartattoosa",
+    "name": "All Star Tattoo",
+    "location": {
+      "city": "San Antonio",
+      "country": "United States"
+    },
+    "styles": [
+      "realism",
+      "illustrative",
+      "black&gray",
+      "coverup"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allstartattoosa/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "all_style_tattoo_berlin",
     "name": "All Style Tattoo Berlin",
     "location": {
@@ -18112,7 +18162,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allwacotattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allwacotattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "allstartattooco",
@@ -18163,7 +18213,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/all1tribetattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/all1tribetattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "all4thekauzetattoo",
@@ -18186,7 +18236,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/all4thekauzetattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/all4thekauzetattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "allantattoo",
@@ -18214,6 +18264,30 @@
     "updated_at": "2026-03-03"
   },
   {
+    "id": "allantattooer",
+    "name": "Allan Salazar",
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "styles": [
+      "geometric",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allantattooer/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "allamsouzatattoo",
     "name": "Allan Souza",
     "location": {
@@ -18236,30 +18310,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allamsouzatattoo/thumb/004.webp"
     ],
     "bio": "Allan Souza is a highly regarded tattoo artist based in Curitiba, Brazil, known for his expertise in black and gray realism. Operating from a private studio, Allan's professionalism is reflected in his meticulous artistry and unwavering dedication to delivering stunning tattoos that exceed his clients' expectations. His work is a true testament to his exceptional skill level in the realm of tattooing.\nPrice: $\nCurrent location: Curitiba, Parana, Brazil",
-    "updated_at": "2026-03-03"
-  },
-  {
-    "id": "allantattooer",
-    "name": "Allan Tattooer",
-    "location": {
-      "city": "Sao Paulo",
-      "country": "Brazil"
-    },
-    "styles": [
-      "geometric",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allantattooer/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allantattooer/thumb/004.webp"
-    ],
     "updated_at": "2026-03-03"
   },
   {
@@ -18289,27 +18339,27 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "allegramaeva",
-    "name": "Allegra Maeva",
+    "id": "allegorytattoo",
+    "name": "Allegory",
     "location": {
-      "city": "Brisbane",
-      "country": "Australia"
+      "city": "San Diego",
+      "country": "United States"
     },
     "styles": [
-      "traditional"
+      "illustrative"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/allegramaeva/"
+      "instagram": "https://www.instagram.com/allegorytattoo/"
     },
-    "tattoo_count": 41,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/001.webp",
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "allenbracknell",
@@ -18458,6 +18508,29 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "allinktattooaq",
+    "name": "Allink Tattoo Shop",
+    "location": {
+      "city": "L'aquila",
+      "country": "Italy"
+    },
+    "styles": [
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allinktattooaq/"
+    },
+    "tattoo_count": 15,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "ahtattoos",
     "name": "Allison",
     "location": {
@@ -18478,55 +18551,6 @@
     ],
     "bio": "Allison, the owner and lead artist at Reckless Heart Tattoo in Greenville, SC, is renowned for her exceptional skill in crafting stunning floral tattoo designs. Her clients consistently praise her professionalism, ensuring that every session meets the highest standards of quality and satisfaction. Allison's dedication to her art is reflected in each intricate petal and leaf she inks, making her a sought-after tattoo artist in Greenville and beyond.\nPrice: $\nCurrent location: Greenville, South Carolina, United States",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "allisonetattoo",
-    "name": "Allison",
-    "location": {
-      "city": "Albuquerque",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "traditional",
-      "watercolor"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allisonetattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allisonetattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "allison.tait",
-    "name": "Allison Tait",
-    "location": {
-      "city": "Guelph",
-      "country": "Canada"
-    },
-    "styles": [
-      "illustrative",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allison.tait/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
   },
   {
     "id": "allstyletattoo",
@@ -30938,32 +30962,6 @@
     ],
     "bio": "Ara Ramirez is a highly skilled tattoo artist located in Providencia, Chile well-versed in watercolor and illustrative styles. Despite having a closed agenda, Ara ensures to maintain a strong line of communication and professionalism through their email 'aracely.ramirezart@gmail.com'.\nPrice: $$\nCurrent location: Providencia, Region Santiago Metropolitan, Chile",
     "updated_at": "2026-03-02"
-  },
-  {
-    "id": "allstartattoosa",
-    "name": "Aracely",
-    "location": {
-      "city": "San Antonio",
-      "country": "United States"
-    },
-    "styles": [
-      "realism",
-      "illustrative",
-      "black&gray",
-      "coverup"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allstartattoosa/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allstartattoosa/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
   },
   {
     "id": "aramayotattoos",
@@ -51578,28 +51576,6 @@
     ],
     "bio": "Bobby is an exceptionally talented tattoo artist based in Loughton, United Kingdom, specializing in the black&gray and realism styles. Having amassed approximately 75k followers on Instagram, his skill level is evident through his widespread popularity. Despite his fame, he maintains a high level of professionalism, respecting the traditional process of booking appointments and refraining from casual DM communication.\nPrice: $$$\nCurrent location: Loughton, England, United Kingdom",
     "updated_at": "2026-03-06"
-  },
-  {
-    "id": "alldaytattoobkk",
-    "name": "Bobby Brown",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "dotwork",
-      "geometric"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alldaytattoobkk/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alldaytattoobkk/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-03"
   },
   {
     "id": "bobbycupparotattoos",
@@ -85778,31 +85754,6 @@
     "updated_at": "2026-03-07"
   },
   {
-    "id": "allaboutyoutattoo",
-    "name": "Diana Burkholder",
-    "location": {
-      "city": "Richmond",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "floral",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allaboutyoutattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "dcm",
     "name": "Diana C Munoz",
     "location": {
@@ -106865,29 +106816,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "allegorytattoo",
-    "name": "Pete Walker",
-    "location": {
-      "city": "San Diego",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/allegorytattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegorytattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "bekoe_art",
     "name": "Peter Bekö",
     "location": {
@@ -111786,6 +111714,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "allison.tait",
+    "name": "Toltec Spirit Tattoo",
+    "location": {
+      "city": "Guelph",
+      "country": "Canada"
+    },
+    "styles": [
+      "illustrative",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allison.tait/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allison.tait/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "angry.badger.tattoo",
     "name": "Tom",
     "location": {
@@ -114374,6 +114326,31 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "alitattoos",
+    "name": "力",
+    "location": {
+      "city": "New York",
+      "country": "United States"
+    },
+    "styles": [
+      "watercolor",
+      "illustrative",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/alitattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alitattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "acorntattoo_cora",
     "name": "桃園刺青《橡果刺青店- 寇拉Coras》",
     "location": {
@@ -114580,6 +114557,29 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agustattooer/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agustattooer/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "allegramaeva",
+    "name": "𝔞𝔩𝔩𝔢𝔤𝔯𝔞 ❈ 𝔞𝔯𝔱𝔦𝔰𝔱𝔦𝔠 𝔱𝔞𝔱𝔱𝔬𝔬𝔦𝔫𝔤",
+    "location": {
+      "city": "Brisbane",
+      "country": "Australia"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/allegramaeva/"
+    },
+    "tattoo_count": 41,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
