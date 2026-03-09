@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "301tattoo",
-  "name": "Michael Dassen",
+  "name": "dierdre and michael dassen",
   "location": {
     "city": "College Park",
     "country": "United States"
@@ -392,10 +392,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "1526694682",
+    "follower_count": 1584,
+    "following_count": 4774,
+    "media_count": 701,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/instagram/profile.jpg"
   }
 }

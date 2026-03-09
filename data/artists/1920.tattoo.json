@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "1920.tattoo",
-  "name": "1920 Tattoo",
+  "name": "1920 TATTOO",
   "location": {
     "city": "Whitley Bay",
     "country": "United Kingdom"
@@ -618,10 +618,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "5469301391",
+    "follower_count": 4646,
+    "following_count": 360,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1920.tattoo/instagram/profile.jpg"
   }
 }

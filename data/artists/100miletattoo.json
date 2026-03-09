@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "100miletattoo",
-  "name": "100 Mile Tattoo",
+  "name": "Andrew Black",
   "location": {
     "city": "Langley",
     "country": "Canada"
@@ -617,10 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
+  "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "user_data": null,
-    "user_posts": null,
-    "following": []
+    "id": "2051719694",
+    "follower_count": 15912,
+    "following_count": 7460,
+    "media_count": 316,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/instagram/profile.jpg"
   }
 }

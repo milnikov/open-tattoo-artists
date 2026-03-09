@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "4theloveofdub",
-  "name": "Dub Galloway",
+  "name": "William Galloway",
   "location": {
     "city": "Bossier City",
     "country": "United States"
@@ -620,10 +620,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "6099084262",
+    "follower_count": 1902,
+    "following_count": 424,
+    "media_count": 582,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/instagram/profile.jpg"
   }
 }

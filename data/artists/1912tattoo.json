@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "1912tattoo",
-  "name": "Mikey Ratt",
+  "name": "1912 Tattoo Studio",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -44,10 +44,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "12288088632",
+    "follower_count": 9104,
+    "following_count": 9,
+    "media_count": 197,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/instagram/profile.jpg"
   }
 }

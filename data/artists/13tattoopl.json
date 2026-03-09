@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "13tattoopl",
-  "name": "13 Tattoo",
+  "name": "13 TATTOO | Studio Tatuażu | Szczecin",
   "location": {
     "city": "Szczecin",
     "country": "Poland"
@@ -618,10 +618,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "2313724354",
+    "follower_count": 7712,
+    "following_count": 108,
+    "media_count": 492,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattoopl/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "714official",
-  "name": "714official",
+  "name": "Tattoo artist",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -619,10 +619,11 @@
   ],
   "updated_at": "2026-03-09",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "646653082",
+    "follower_count": 32561,
+    "following_count": 887,
+    "media_count": 297,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/instagram/profile.jpg"
   }
 }
