@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "jeffcornell",
+  "name": "Jeff Cornell",
+  "location": {
+    "city": "Seattle",
+    "country": "King County TRADITIONALILLUSTRATIVE"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/jeffcornell",
+    "instagram": "https://instagram.com/jeffcornell",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffcornell/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffcornell/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Hidden Hand Tattoo Seattle"
+}
