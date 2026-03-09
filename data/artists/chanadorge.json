@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "chanadorge",
+  "name": "Sr PaniTattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork",
+    "floral",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/chanadorge",
+    "instagram": "https://www.instagram.com/chanadorge/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chanadorge/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chanadorge/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chanadorge/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chanadorge/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Sr PaniTattoo is renowned for their exquisite skill in creating black & gray, dotwork, floral, and coverup tattoos, perfectly capturing intricate details that bring each piece to life. Their private studio is a testament to their dedication to providing not only stunning artwork but also a clean and hygienic environment for all their clients. Whether you're looking for a delicate fineline design or a bold coverup, Sr PaniTattoo's expert craftsmanship ensures a result that surpasses expectations.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "chriscarter_tattoo",
+  "name": "Chris Carter",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/chriscarter_tattoo",
+    "instagram": "https://www.instagram.com/chriscarter_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chriscarter_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chriscarter_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Chris Carter is a highly skilled tattoo artist specializing in illustrative, black & gray, and anime styles, known for creating visually stunning pieces with solid black and vibrant color work. Based in Chillán, Chile, Chris maintains a professional approach to his craft, with a clear communication policy highlighting that bookings are to be made through means other than phone calls, ensuring a smooth and well-organized experience for his clients.\nPrice: $$\nCurrent location:"
+}

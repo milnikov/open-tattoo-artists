@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "clanintattoo",
+  "name": "Matthew Clanin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/clanintattoo",
+    "instagram": "https://www.instagram.com/clanintattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clanintattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clanintattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clanintattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clanintattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Matthew Clanin is a highly skilled tattoo artist, specializing in the intricate and vibrant styles of floral and watercolor tattoos. His commitment to the craft is evident in each piece he creates, ensuring that even the smallest tattoo receives his full dedication and artistic expertise. Clients praise Matthew for turning their ideas into stunning works of art, all while maintaining an exceptional level of cleanliness in his workspace that puts everyone at ease.\nPrice: $\nCurrent location:"
+}

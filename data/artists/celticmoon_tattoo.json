@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "celticmoon_tattoo",
+  "name": "Tanja",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/celticmoon_tattoo",
+    "instagram": "https://www.instagram.com/celticmoon_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celticmoon_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celticmoon_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celticmoon_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celticmoon_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Tanja is a highly skilled tattoo artist, specializing in a minimalist, fineline, and floral style of tattooing. Displaying her incredible talent from a private studio overlooking Lough Erne, Tanja's exquisite attention to detail and artistic finesse never fail to provide mesmerizing, high-quality tattoos for her clients.\nPrice: $$\nCurrent location:"
+}

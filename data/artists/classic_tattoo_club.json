@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "classic_tattoo_club",
+  "name": "Mike Riveley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/classic_tattoo_club",
+    "instagram": "https://www.instagram.com/classic_tattoo_club/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/classic_tattoo_club/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/classic_tattoo_club/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/classic_tattoo_club/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/classic_tattoo_club/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Mike Riveley is a highly skilled tattoo artist specializing in the intricate and vibrant Japanese style of tattooing. His studio, located at 1819 Woodbridge Ave in Edison, NJ, operates on an appointment-only basis, ensuring that each client receives his undivided attention and a professionally tailored experience. To book a session with Mike, you can contact him directly through his Instagram handle @mike_riveley, or reach out to the studio @vvxtattoos to witness his expert craftsmanship firsthand.\nPrice: $\nCurrent location:"
+}

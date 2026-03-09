@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "clarawelshtattoos",
+  "name": "Clara Welsh",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/clarawelshtattoos",
+    "instagram": "https://www.instagram.com/clarawelshtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarawelshtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarawelshtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarawelshtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarawelshtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Clara Welsh is a highly skilled tattoo artist, known for her standout dotwork and sketch styles. Working out of The Good Fight Tattoo studio in North London, she combines creativity and meticulous attention to detail, ensuring a unique piece of art for every client. She also values sustainability highly, planting a tree for every tattoo she inks.\nPrice: $$\nCurrent location:"
+}

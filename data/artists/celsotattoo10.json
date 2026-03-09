@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "celsotattoo10",
+  "name": "Celso Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/celsotattoo10",
+    "instagram": "https://www.instagram.com/celsotattoo10/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celsotattoo10/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celsotattoo10/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celsotattoo10/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celsotattoo10/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-08",
+  "bio": "Celso Tattoo is renowned in the tattoo community for their exceptional skill in realism and black & grey designs. Their remarkable attention to detail and shading techniques bring each piece to life with stunning clarity and depth. Clients leave not only with a piece of art but also with the assurance that they've been served by one of the finest artisans in the craft.\nPrice: $\nCurrent location:"
+}
