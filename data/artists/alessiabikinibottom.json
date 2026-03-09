@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alessiabikinibottom",
-  "name": "Alessia",
+  "name": "Alessiatattoo",
   "location": {
     "city": "Vicenza",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "29952761",
+    "follower_count": 12356,
+    "following_count": 4753,
+    "media_count": 1131,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alessiabikinibottom/instagram/profile.jpg"
+  }
 }

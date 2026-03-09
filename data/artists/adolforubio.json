@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adolforubio",
-  "name": "Adolfo Rubio",
+  "name": "Adolfo Rubio | Tattoo Artist🇲🇽",
   "location": {
     "city": "Monterrey",
     "country": "Unknown"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Tatuajes Rubio Monterrey"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Tatuajes Rubio Monterrey",
+  "instagram_enriched": {
+    "id": "191036681",
+    "follower_count": 61572,
+    "following_count": 1491,
+    "media_count": 1081,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adolforubio/instagram/profile.jpg"
+  }
 }

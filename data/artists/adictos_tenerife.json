@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adictos_tenerife",
-  "name": "Adictos Tenerife",
+  "name": "Javier Fernandez Alvarez",
   "location": {
     "city": "Santa Cruz De Tenerife",
     "country": "Spain"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "9390875514",
+    "follower_count": 6045,
+    "following_count": 2562,
+    "media_count": 2493,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adictos_tenerife/instagram/profile.jpg"
+  }
 }

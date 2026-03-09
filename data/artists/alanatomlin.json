@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alanatomlin",
-  "name": "Alana Tomlin",
+  "name": "Alana Tomlin Tattoos",
   "location": {
     "city": "Newcastle",
     "country": "Australia"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "243221987",
+    "follower_count": 3574,
+    "following_count": 397,
+    "media_count": 654,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanatomlin/instagram/profile.jpg"
+  }
 }

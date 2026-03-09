@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alessandro_capozzi",
-  "name": "Alessandro Capozzi",
+  "name": "𝐀𝐋𝐄𝐗 𝐀𝐔𝐑𝐄𝐎",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "353665407",
+    "follower_count": 1422205,
+    "following_count": 1839,
+    "media_count": 481,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alessandro_capozzi/instagram/profile.jpg"
+  }
 }

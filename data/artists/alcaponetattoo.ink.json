@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alcaponetattoo.ink",
-  "name": "Al Capone Tattooink",
+  "name": "♛ AL CAPONE TATTOO.INK ♛",
   "location": {
     "city": "Winterthur",
     "country": "Switzerland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "13361340078",
+    "follower_count": 6199,
+    "following_count": 1061,
+    "media_count": 232,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcaponetattoo.ink/instagram/profile.jpg"
+  }
 }

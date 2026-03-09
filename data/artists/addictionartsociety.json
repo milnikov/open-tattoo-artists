@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "addictionartsociety",
-  "name": "JK Tattooing",
+  "name": "Addiction Art Society",
   "location": {
     "city": "Tacoma",
     "country": "United States"
@@ -414,5 +414,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "6972113146",
+    "follower_count": 934,
+    "following_count": 168,
+    "media_count": 30,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/addictionartsociety/instagram/profile.jpg"
+  }
 }

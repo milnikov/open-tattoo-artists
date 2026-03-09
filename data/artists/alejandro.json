@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alejandro",
-  "name": "Alejandro R.",
+  "name": "Alejandro McCurry",
   "location": {
     "city": "Bogotá",
     "country": "Colombia"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "21338",
+    "follower_count": 24573,
+    "following_count": 55,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alejandro/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alchemytattoomelbourne",
-  "name": "Alchemy Hawthorn",
+  "name": "Alchemy Tattoo Studio",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "264651071",
+    "follower_count": 34674,
+    "following_count": 112,
+    "media_count": 4762,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemytattoomelbourne/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alanferioli",
-  "name": "Alan Ferioli",
+  "name": "Alan Feniroli",
   "location": {
     "city": "Reggio Emilia",
     "country": "Italy"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Stay Gold Tattoo Reggio Emilia"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Stay Gold Tattoo Reggio Emilia",
+  "instagram_enriched": {
+    "id": "5717362628",
+    "follower_count": 76,
+    "following_count": 5218,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alanferioli/instagram/profile.jpg"
+  }
 }

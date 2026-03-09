@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aestheticartmuenchen",
-  "name": "Aesthetic Art München",
+  "name": "AESTHETIC ART MÜNCHEN",
   "location": {
     "city": "Munich",
     "country": "Germany"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3141653465",
+    "follower_count": 1049,
+    "following_count": 360,
+    "media_count": 1093,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aestheticartmuenchen/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adrienpinzio",
-  "name": "Adrien Pinzio",
+  "name": "Adrien Pinzio 🕸️",
   "location": {
     "city": "Soorts-hossegor",
     "country": "France"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3749371199",
+    "follower_count": 6201,
+    "following_count": 1474,
+    "media_count": 265,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrienpinzio/instagram/profile.jpg"
+  }
 }

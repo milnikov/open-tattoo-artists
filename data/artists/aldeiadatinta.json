@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aldeiadatinta",
-  "name": "Aldeia da Tinta",
+  "name": "ALDEIA DA TINTA TATTOO",
   "location": {
     "city": "Morrinhos",
     "country": "Brazil"
@@ -257,5 +257,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "24245556272",
+    "follower_count": 425,
+    "following_count": 284,
+    "media_count": 46,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aldeiadatinta/instagram/profile.jpg"
+  }
 }

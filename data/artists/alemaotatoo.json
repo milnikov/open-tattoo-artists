@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alemaotatoo",
-  "name": "Alemão Tattoo",
+  "name": "ALEMÃO TATTOO -Tatuagem",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1351393139",
+    "follower_count": 10596,
+    "following_count": 2353,
+    "media_count": 143,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alemaotatoo/instagram/profile.jpg"
+  }
 }

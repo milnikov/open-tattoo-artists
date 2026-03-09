@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alessandroturcio",
-  "name": "Alessandro Turcio",
+  "name": "A.Turcio Tattoos",
   "location": {
     "city": "Jesi",
     "country": "Italy"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "191966547",
+    "follower_count": 10804,
+    "following_count": 2397,
+    "media_count": 381,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alessandroturcio/instagram/profile.jpg"
+  }
 }

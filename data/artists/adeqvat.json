@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adeqvat",
-  "name": "Iosep Ink",
+  "name": "Adeqvat",
   "location": {
     "city": "Hamburg",
     "country": "Germany"
@@ -546,5 +546,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "76095267918",
+    "follower_count": 323,
+    "following_count": 336,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adeqvat/instagram/profile.jpg"
+  }
 }

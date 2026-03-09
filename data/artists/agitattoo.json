@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "agitattoo",
-  "name": "Agi Tattoo",
+  "name": "agitattoo.:.Tatouage.:.Toulouse",
   "location": {
     "city": "Toulouse",
     "country": "France"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5639187953",
+    "follower_count": 6722,
+    "following_count": 2180,
+    "media_count": 248,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/agitattoo/instagram/profile.jpg"
+  }
 }

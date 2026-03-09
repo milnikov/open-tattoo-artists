@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adi.tattoos",
-  "name": "Adi S",
+  "name": "Adi.S.",
   "location": {
     "city": "Aberdeen",
     "country": "United Kingdom"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4157620291",
+    "follower_count": 1351,
+    "following_count": 1023,
+    "media_count": 136,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adi.tattoos/instagram/profile.jpg"
+  }
 }

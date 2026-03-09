@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "albertobalboatattoo",
-  "name": "Alberto Balboa",
+  "name": "Alberto balboa",
   "location": {
     "city": "Breda",
     "country": "Netherlands"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "192319253",
+    "follower_count": 16593,
+    "following_count": 390,
+    "media_count": 359,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/albertobalboatattoo/instagram/profile.jpg"
+  }
 }

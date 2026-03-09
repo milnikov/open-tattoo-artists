@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "admiral_solid",
-  "name": "Admiral Solid",
+  "name": "Dakota",
   "location": {
     "city": "Tustin",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2289864166",
+    "follower_count": 2077,
+    "following_count": 4114,
+    "media_count": 337,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/admiral_solid/instagram/profile.jpg"
+  }
 }

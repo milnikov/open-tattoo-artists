@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "akaberlin",
-  "name": "Aka Berlin",
+  "name": "AKA BERLIN",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "627210361",
+    "follower_count": 75255,
+    "following_count": 1140,
+    "media_count": 6183,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/akaberlin/instagram/profile.jpg"
+  }
 }

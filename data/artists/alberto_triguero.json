@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alberto_triguero",
-  "name": "Alberto Triguero",
+  "name": "elbuhotattoo",
   "location": {
     "city": "Granada",
     "country": "Spain"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "278451873",
+    "follower_count": 23374,
+    "following_count": 2177,
+    "media_count": 865,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alberto_triguero/instagram/profile.jpg"
+  }
 }

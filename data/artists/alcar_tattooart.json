@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alcar_tattooart",
-  "name": "Alberto Mendoza",
+  "name": "Alberto",
   "location": {
     "city": "Palavecino",
     "country": "Venezuela"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2720348421",
+    "follower_count": 2426,
+    "following_count": 2621,
+    "media_count": 384,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alcar_tattooart/instagram/profile.jpg"
+  }
 }

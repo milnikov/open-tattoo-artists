@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aent.tattoo",
-  "name": "Aent",
+  "name": "ÆNT_TRADITIONAL TATTOOS BRNO",
   "location": {
     "city": "Kosice",
     "country": "Slovakia"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2202609919",
+    "follower_count": 2130,
+    "following_count": 1172,
+    "media_count": 796,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aent.tattoo/instagram/profile.jpg"
+  }
 }

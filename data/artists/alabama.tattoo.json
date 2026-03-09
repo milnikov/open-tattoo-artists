@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alabama.tattoo",
-  "name": "Javi Peche",
+  "name": "🔥ALABAMA TATTOO CREW🔥",
   "location": {
     "city": "Granada",
     "country": "Spain"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "10010675444",
+    "follower_count": 5495,
+    "following_count": 16,
+    "media_count": 395,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alabama.tattoo/instagram/profile.jpg"
+  }
 }

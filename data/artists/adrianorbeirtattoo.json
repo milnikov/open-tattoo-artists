@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adrianorbeirtattoo",
-  "name": "Adriano Ribiero",
+  "name": "Adriano Ribeiro Leão",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1814965008",
+    "follower_count": 9383,
+    "following_count": 5551,
+    "media_count": 362,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianorbeirtattoo/instagram/profile.jpg"
+  }
 }

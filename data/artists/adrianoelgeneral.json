@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adrianoelgeneral",
-  "name": "Adriano \"El General\"",
+  "name": "Adriano El General",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Owner of \"Mi Vida Loca\" Tattoo Shop."
+  "updated_at": "2026-03-09",
+  "bio": "Owner of \"Mi Vida Loca\" Tattoo Shop.",
+  "instagram_enriched": {
+    "id": "7669244940",
+    "follower_count": 108,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianoelgeneral/instagram/profile.jpg"
+  }
 }

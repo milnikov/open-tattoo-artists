@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aggie_vnek",
-  "name": "AggieVnek",
+  "name": "𝐀𝐆𝐆𝐈𝐄 𝐕𝐍𝐄𝐊 𝐓𝐀𝐓𝐓𝐎𝐎",
   "location": {
     "city": "Colchester",
     "country": "United Kingdom"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2078831948",
+    "follower_count": 16342,
+    "following_count": 3284,
+    "media_count": 587,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aggie_vnek/instagram/profile.jpg"
+  }
 }

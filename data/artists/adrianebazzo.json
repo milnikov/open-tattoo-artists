@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adrianebazzo",
-  "name": "Adriane Bazzo",
+  "name": "ADRIANE BAZZO TATTOO E ARTE",
   "location": {
     "city": "Pouso Alegre",
     "country": "Brazil"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1279755381",
+    "follower_count": 5014,
+    "following_count": 771,
+    "media_count": 1845,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adrianebazzo/instagram/profile.jpg"
+  }
 }
