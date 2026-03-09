@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "katvond",
+  "name": "Kat Von D",
+  "location": {
+    "city": "West Hollywood",
+    "country": "Los Angeles County PORTRAITREALISM"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/katvond",
+    "instagram": "https://instagram.com/katvond",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katvond/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katvond/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE C Kat Von D's High Voltage Tattoo"
+}

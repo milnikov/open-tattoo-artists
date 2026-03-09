@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "lineanera",
+  "name": "Linea Nera",
+  "location": {
+    "city": "Rivarolo Canavese",
+    "country": "Province of Turin NEW SCHOOLCARTOONREALISM"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/lineanera",
+    "instagram": "https://instagram.com/lineanera",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lineanera/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lineanera/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Nuova Era Tattoo Studio Rivarolo Canavese"
+}
