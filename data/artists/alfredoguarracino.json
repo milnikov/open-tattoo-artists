@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alfredoguarracino",
-  "name": "Alfredo Guarracino",
+  "name": "Al Boy",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Cloak and Dagger Tattoo Parlour London"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Cloak and Dagger Tattoo Parlour London",
+  "instagram_enriched": {
+    "id": "222064429",
+    "follower_count": 19799,
+    "following_count": 3970,
+    "media_count": 80,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alfredoguarracino/instagram/profile.jpg"
+  }
 }

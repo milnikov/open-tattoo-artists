@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexisdedicatedart",
-  "name": "Alexis",
+  "name": "Alexis Ginez",
   "location": {
     "city": "Santa Rosa",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "242402126",
+    "follower_count": 32058,
+    "following_count": 1200,
+    "media_count": 1674,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexisdedicatedart/instagram/profile.jpg"
+  }
 }

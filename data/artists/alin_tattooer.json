@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alin_tattooer",
-  "name": "Alin Tattooer",
+  "name": "Oldschool Tattoo/올드스쿨타투/seoultattoo/koreatattoo/tokyotattoo/홍대타투",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "231384218",
+    "follower_count": 117178,
+    "following_count": 2150,
+    "media_count": 2382,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alin_tattooer/instagram/profile.jpg"
+  }
 }

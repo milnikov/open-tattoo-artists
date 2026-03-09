@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexbaenstattoo",
-  "name": "Alex Baens",
+  "name": "✧ 𝐀𝐋𝐄𝐗 𝐁𝐀𝐄𝐍𝐒 ✧ 𝐁𝐀𝐑𝐂𝐄𝐋𝐎𝐍𝐀 ✧",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1497464026",
+    "follower_count": 4475,
+    "following_count": 575,
+    "media_count": 165,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexbaenstattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alianilercel",
-  "name": "Ali Anıl Erçel",
+  "name": "A L I    A N I L    E R C E L",
   "location": {
     "city": "Istanbul",
     "country": "Italy"
@@ -32,6 +32,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "I am black and grey tattoo artist from Istanbul.My style is realistic, line, dot work. read more"
+  "updated_at": "2026-03-09",
+  "bio": "I am black and grey tattoo artist from Istanbul.My style is realistic, line, dot work. read more",
+  "instagram_enriched": {
+    "id": "33287328",
+    "follower_count": 225248,
+    "following_count": 962,
+    "media_count": 1004,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alianilercel/instagram/profile.jpg"
+  }
 }

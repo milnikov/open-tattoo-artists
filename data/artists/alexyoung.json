@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexyoung",
-  "name": "Alex Young · Odisy",
+  "name": "Alexander.Y(MM)",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -30,6 +30,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Illustrator, painter and tattooist Alex Young, also known as Odisy, is widely known for his vibrant art and abstract tattoos. read more"
+  "updated_at": "2026-03-09",
+  "bio": "Illustrator, painter and tattooist Alex Young, also known as Odisy, is widely known for his vibrant art and abstract tattoos. read more",
+  "instagram_enriched": {
+    "id": "12043218419",
+    "follower_count": 4,
+    "following_count": 87,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexyoung/instagram/profile.jpg"
+  }
 }

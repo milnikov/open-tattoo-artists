@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alicecherryblk",
-  "name": "Alice Cherry",
+  "name": "☽Cherry☾",
   "location": {
     "city": "Brescia",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "385822715",
+    "follower_count": 15735,
+    "following_count": 1259,
+    "media_count": 1118,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alicecherryblk/instagram/profile.jpg"
+  }
 }

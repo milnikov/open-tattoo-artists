@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alina.golubeva.tattoo",
-  "name": "Alina Tattoo",
+  "name": "Alina Golubeva",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5840955801",
+    "follower_count": 1224,
+    "following_count": 1971,
+    "media_count": 349,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alina.golubeva.tattoo/instagram/profile.jpg"
+  }
 }

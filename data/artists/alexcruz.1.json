@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexcruz.1",
-  "name": "Alex Cruz",
+  "name": "A   L   E   X      C  R  U  Z     Tatuador",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "17977304",
+    "follower_count": 6205,
+    "following_count": 4911,
+    "media_count": 819,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexcruz.1/instagram/profile.jpg"
+  }
 }

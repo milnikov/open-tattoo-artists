@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexalcazar",
-  "name": "Alex Alcazar",
+  "name": "Axel Alcazar",
   "location": {
     "city": "Parla",
     "country": "Spain"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE La Cosa Nostra Tattoo Parla"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE La Cosa Nostra Tattoo Parla",
+  "instagram_enriched": {
+    "id": "9186285858",
+    "follower_count": 29,
+    "following_count": 65,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexalcazar/instagram/profile.jpg"
+  }
 }

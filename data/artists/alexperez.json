@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexperez",
-  "name": "Alejandro Pérez",
+  "name": "Alex Perez",
   "location": {
     "city": "Granada",
     "country": "Italy"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE 958 Tattoo Granada"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE 958 Tattoo Granada",
+  "instagram_enriched": {
+    "id": "378010",
+    "follower_count": 814,
+    "following_count": 946,
+    "media_count": 12,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexperez/instagram/profile.jpg"
+  }
 }
