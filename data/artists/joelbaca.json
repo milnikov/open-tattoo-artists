@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "id": "joelbaca",
+  "name": "Joel Baca",
+  "location": {
+    "city": "Manhattan",
+    "country": "New York City  1 TATTOO"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/joelbaca",
+    "instagram": "https://instagram.com/joelbaca",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelbaca/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelbaca/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelbaca/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelbaca/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Fun City Tattoo Manhattan"
+}

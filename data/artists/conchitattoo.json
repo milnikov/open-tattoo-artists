@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "conchitattoo",
+  "name": "Ezequiel Perez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/conchitattoo",
+    "instagram": "https://www.instagram.com/conchitattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conchitattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conchitattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conchitattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conchitattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Ezequiel Perez is a highly skilled tattoo artist specializing in dotwork and tribal styles. Known for his meticulous attention to detail, Ezequiel's craftsmanship ensures each piece is an exquisite work of art. His studio in Santiago, Chile, upholds the highest standards of cleanliness, providing a safe and hygienic environment for all his clients.\nPrice: $\nCurrent location:"
+}
