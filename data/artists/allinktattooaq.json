@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "allinktattooaq",
-  "name": "Al(l)ink L'Aquila",
+  "name": "Allink Tattoo Shop",
   "location": {
     "city": "L'aquila",
     "country": "Italy"
@@ -196,5 +196,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3941053021",
+    "follower_count": 8059,
+    "following_count": 1351,
+    "media_count": 1442,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allinktattooaq/instagram/profile.jpg"
+  }
 }

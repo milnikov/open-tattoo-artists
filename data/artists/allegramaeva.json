@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "allegramaeva",
-  "name": "Allegra Maeva",
+  "name": "𝔞𝔩𝔩𝔢𝔤𝔯𝔞 ❈ 𝔞𝔯𝔱𝔦𝔰𝔱𝔦𝔠 𝔱𝔞𝔱𝔱𝔬𝔬𝔦𝔫𝔤",
   "location": {
     "city": "Brisbane",
     "country": "Australia"
@@ -508,5 +508,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "187882084",
+    "follower_count": 9384,
+    "following_count": 976,
+    "media_count": 177,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/instagram/profile.jpg"
+  }
 }

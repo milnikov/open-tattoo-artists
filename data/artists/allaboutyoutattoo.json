@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "allaboutyoutattoo",
-  "name": "Diana Burkholder",
+  "name": "AAYT - Private Tattoo Studio",
   "location": {
     "city": "Richmond",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1423355546",
+    "follower_count": 2116,
+    "following_count": 524,
+    "media_count": 538,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allaboutyoutattoo/instagram/profile.jpg"
+  }
 }
