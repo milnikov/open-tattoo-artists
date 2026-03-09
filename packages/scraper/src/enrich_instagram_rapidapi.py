@@ -421,6 +421,37 @@ def fetch_all_following(
     return all_users
 
 
+def _extract_user_data_and_follower_count(info: dict) -> tuple[dict, int]:
+    """
+    Extract user object and follower_count from first API response (ig_get_fb_profile_hover etc).
+    Handles: user_data, data, user, data.user, graphql.user, and edge_followed_by.count for count.
+    """
+    # Try to get a user-like object
+    user_data = (
+        info.get("user_data")
+        or info.get("data")
+        or info.get("user")
+        or info
+    )
+    # If data is a dict with a nested "user", use it (e.g. { "data": { "user": {...} } })
+    if isinstance(user_data, dict):
+        nested = user_data.get("user") or user_data.get("user_data")
+        if isinstance(nested, dict) and (nested.get("username") is not None or nested.get("follower_count") is not None or nested.get("pk") is not None):
+            user_data = nested
+    if isinstance(info.get("graphql"), dict) and isinstance(info["graphql"].get("user"), dict):
+        user_data = info["graphql"]["user"]
+
+    # Follower count: direct or GraphQL edge_followed_by.count
+    follower_count = user_data.get("follower_count") if isinstance(user_data, dict) else 0
+    if follower_count is None and isinstance(user_data, dict):
+        edge = (user_data.get("edge_followed_by") or {}) if isinstance(user_data.get("edge_followed_by"), dict) else {}
+        follower_count = edge.get("count")
+    if follower_count is None:
+        follower_count = 0
+    follower_count = int(follower_count) if follower_count is not None else 0
+    return (user_data or {}, follower_count)
+
+
 def enrich_one(
     api_key: str,
     username: str,
@@ -445,7 +476,7 @@ def enrich_one(
             "posts_30_urls": [],
         }
 
-    user_data = info.get("user_data") or info.get("data") or info
+    user_data, follower_count = _extract_user_data_and_follower_count(info)
     if skip_following:
         following_list = []
     else:
@@ -459,12 +490,13 @@ def enrich_one(
         )
 
     # Step 2 (30 posts): only for accounts with > 1000 followers
-    follower_count = user_data.get("follower_count") or 0
     posts_30_urls = []
     if fetch_30_posts and endpoint_posts and follower_count > 1000:
         posts_30_urls = fetch_up_to_30_post_image_urls(
             api_key, username, endpoint=endpoint_posts
         )
+        if not posts_30_urls:
+            print(f"  [30posts] {username}: 0 images (follower_count={follower_count})", file=sys.stderr)
         time.sleep(0.3)
 
     return {
