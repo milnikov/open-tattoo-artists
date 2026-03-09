@@ -230,18 +230,36 @@ def fetch_user_posts(
         )
         r.raise_for_status()
         data = r.json()
+        # API shape: {"posts": [{"node": {..., "image_versions2": {"candidates": [{"url": "..."}]}}}], "pagination_token": "..."}
         posts = (
-            data.get("items")
-            or data.get("posts")
-            or data.get("data")
+            data.get("posts")
+            or data.get("items")
             or data.get("edges")
             or []
         )
+        if not posts and isinstance(data.get("data"), dict):
+            inner = data["data"]
+            posts = (
+                inner.get("posts")
+                or inner.get("items")
+                or inner.get("edges")
+                or (inner.get("edge_owner_to_timeline_media") or {}).get("edges")
+                or []
+            )
+        if not posts and isinstance(data.get("data"), list):
+            posts = data["data"]
         if isinstance(posts, dict):
-            posts = posts.get("items") or posts.get("edges") or []
+            posts = posts.get("posts") or posts.get("items") or posts.get("edges") or []
         if not isinstance(posts, list):
             posts = []
-        next_token = data.get("pagination_token") or data.get("next_max_id")
+        # If items are [{node: {...}, ...}], flatten to nodes for URL extraction
+        if posts and isinstance(posts[0], dict) and "node" in posts[0] and "node" not in (posts[0].get("node") or {}):
+            posts = [p.get("node") for p in posts if p.get("node")]
+        next_token = (
+            data.get("pagination_token")
+            or data.get("next_max_id")
+            or data.get("next_cursor")
+        )
         return posts, next_token
     except Exception as e:
         print(f"  [posts] {username}: {e}", file=sys.stderr)
@@ -249,16 +267,43 @@ def fetch_user_posts(
 
 
 def _extract_image_url_from_post(post: dict) -> str | None:
-    """Extract first image URL from a post (node.image_versions2.candidates or items[].image_versions2)."""
-    node = post.get("node") if isinstance(post, dict) else post
+    """Extract first image URL from a post (node). Handles image_versions2.candidates, carousel_media[0], display_url, etc."""
+    if not isinstance(post, dict):
+        return None
+    node = post.get("node") or post
     if not node:
         return None
+
+    def _url_from_candidates(candidates: list) -> str | None:
+        if not candidates:
+            return None
+        c = candidates[0]
+        if isinstance(c, dict):
+            return c.get("url") or c.get("image_url")
+        if isinstance(c, str) and c.startswith("http"):
+            return c
+        return None
+
+    # Direct URL fields
+    for key in ("display_url", "thumbnail_src", "image_url", "url", "thumbnail"):
+        val = node.get(key)
+        if isinstance(val, str) and val.startswith("http"):
+            return val
+    # image_versions2.candidates (main and carousel cover)
     cands = (node.get("image_versions2") or {}).get("candidates") or []
     if not cands:
-        cands = (node.get("display_url"),)
-    if cands:
-        c = cands[0]
-        return c.get("url") if isinstance(c, dict) else c
+        cands = node.get("images") or []
+    url = _url_from_candidates(cands)
+    if url:
+        return url
+    # Carousel: first media item (API may put images only in carousel_media)
+    for item in (node.get("carousel_media") or [])[:1]:
+        if not isinstance(item, dict):
+            continue
+        cands = (item.get("image_versions2") or {}).get("candidates") or []
+        url = _url_from_candidates(cands)
+        if url:
+            return url
     return None
 
 
@@ -675,6 +720,11 @@ def main():
         default=None,
         help="Only process artists whose id is in this file (JSON array or one id per line). Use with list_hidden_artists.py --output.",
     )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Re-enrich artists even if they already have instagram_enriched or are in completed state.",
+    )
     args = parser.parse_args()
 
     config = load_config()
@@ -701,18 +751,18 @@ def main():
                 sys.exit(1)
             only_ids = load_id_set_from_file(only_path)
             print(f"Restricting to {len(only_ids)} artist IDs from {only_path}")
-        # Build list (artist_id, username), apply state and skip already enriched
+        # Build list (artist_id, username), apply state and skip already enriched (unless --force)
         artist_list = load_artists_with_instagram(data_artists, only_ids=only_ids)
         state = load_enrich_state()
-        # Candidates: not in completed_ids and not already enriched in file
         todo = []
         for idx, (artist_id, username) in enumerate(artist_list):
-            if artist_id in state["completed_ids"]:
-                continue
-            if artist_already_enriched(data_artists / f"{artist_id}.json"):
-                state["completed_ids"].add(artist_id)
-                state["last_index"] = idx
-                continue
+            if not args.force:
+                if artist_id in state["completed_ids"]:
+                    continue
+                if artist_already_enriched(data_artists / f"{artist_id}.json"):
+                    state["completed_ids"].add(artist_id)
+                    state["last_index"] = idx
+                    continue
             todo.append((idx, artist_id, username))
 
         save_enrich_state(state["completed_ids"], state["last_index"])
