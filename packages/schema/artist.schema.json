@@ -199,6 +199,25 @@
     "updated_at": {
       "type": "string",
       "format": "date"
+    },
+    "instagram_enriched": {
+      "type": "object",
+      "description": "Instagram API enrichment (RapidAPI): user stats, profile pic, post images, following list",
+      "additionalProperties": true,
+      "properties": {
+        "id": { "type": ["string", "null"] },
+        "follower_count": { "type": ["integer", "null"] },
+        "following_count": { "type": ["integer", "null"] },
+        "media_count": { "type": ["integer", "null"] },
+        "following": { "type": "array", "items": { "type": "string" } },
+        "profile_pic_url": { "type": ["string", "null"] },
+        "post_images": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "user_data": {},
+        "user_posts": {}
+      }
     }
   }
 }

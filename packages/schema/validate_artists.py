@@ -7,7 +7,8 @@ from pathlib import Path
 try:
     import jsonschema
 except ImportError:
-    print("pip install jsonschema", file=sys.stderr)
+    print("jsonschema not found. Install with: pip install jsonschema", file=sys.stderr)
+    print(f"Using Python: {sys.executable}", file=sys.stderr)
     sys.exit(2)
 
 repo_root = Path(__file__).resolve().parents[2]
