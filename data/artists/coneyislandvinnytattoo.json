@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "coneyislandvinnytattoo",
+  "name": "Vinny",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/coneyislandvinnytattoo",
+    "instagram": "https://www.instagram.com/coneyislandvinnytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coneyislandvinnytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coneyislandvinnytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coneyislandvinnytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coneyislandvinnytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Vinny is a highly skilled tattoo artist specializing in the unique styles of trashpolka and realism. With precision and a commitment to excellence rooted in experience since 1984, Vinny's work reflects his dedication to his craft. Clients consistently praise the cleanliness of his workspace, ensuring a safe and hygienic environment for every tattoo session.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "1984"
+}
