@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Enrich artist data via RapidAPI Instagram Scraper Stable API:
-  1) Basic user info + last 3 posts
+Enrich artist data via RapidAPI Instagram Scraper Stable API.
+Default: ig_get_fb_profile_v3.php (one call per artist; returns full profile including biography).
+  1) User profile (v3: bio, stats, profile pic)
   2) Following list (paginated)
+  3) For accounts with >1000 followers: 30 posts (get_ig_user_posts.php)
 
 When --update-artists (default): updates data/artists/*.json with:
-  - updated_at: date of enrichment
-  - name: from Instagram full_name (if present)
-  - instagram_enriched: id, follower_count, following_count, media_count, profile_pic_url (R2), post_images (R2), following (list of usernames)
-  - Profile pic + 3 post images are downloaded and uploaded to R2 (artists/<id>/instagram/) unless --no-r2.
+  - updated_at, name, bio (from Instagram), instagram_enriched (id, follower_count, profile_pic_url (R2), following)
+  - Profile pic + up to 30 post images (from get_ig_user_posts) uploaded to R2 unless --no-r2.
 
 API key from env RAPIDAPI_KEY or config rapidapi_key. Run from repo root.
 """
@@ -29,7 +29,8 @@ from _repo_root import repo_path
 
 # Default endpoint paths (override in config.yaml if your subscription uses different paths)
 BASE_URL = "https://instagram-scraper-stable-api.p.rapidapi.com"
-DEFAULT_ENDPOINT_USER_INFO = "ig_get_fb_profile_hover.php"
+# v3 returns full profile including biography; use POST. Hover (GET) returns user_data + user_posts but no bio.
+DEFAULT_ENDPOINT_USER_INFO = "ig_get_fb_profile_v3.php"
 DEFAULT_ENDPOINT_FOLLOWING = "get_ig_user_followers_v2.php"
 DEFAULT_ENDPOINT_POSTS = "get_ig_user_posts.php"
 
@@ -153,17 +154,25 @@ def load_usernames_from_input(path: Path) -> list[str]:
 def fetch_user_info(
     api_key: str, username: str, posts_count: int = 3, endpoint: str | None = None
 ) -> dict | None:
-    """GET Basic User + Posts (ig_get_fb_profile_hover.php uses GET with query params)."""
+    """Fetch user profile. v3 (ig_get_fb_profile_v3.php) uses POST and returns biography; hover uses GET and returns user_posts."""
     path = endpoint or DEFAULT_ENDPOINT_USER_INFO
     url = f"{BASE_URL}/{path}"
-    params = {"username_or_url": username}
+    use_post = "v3" in path or path == "ig_get_fb_profile_v3.php"
     try:
-        r = requests.get(
-            url,
-            params=params,
-            headers=get_headers(api_key),
-            timeout=30,
-        )
+        if use_post:
+            r = requests.post(
+                url,
+                data={"username_or_url": username},
+                headers=get_headers(api_key),
+                timeout=30,
+            )
+        else:
+            r = requests.get(
+                url,
+                params={"username_or_url": username},
+                headers=get_headers(api_key),
+                timeout=30,
+            )
         r.raise_for_status()
         return r.json()
     except Exception as e:
@@ -441,11 +450,13 @@ def _extract_user_data_and_follower_count(info: dict) -> tuple[dict, int]:
     if isinstance(info.get("graphql"), dict) and isinstance(info["graphql"].get("user"), dict):
         user_data = info["graphql"]["user"]
 
-    # Follower count: direct or GraphQL edge_followed_by.count
+    # Follower count: direct or GraphQL edge_followed_by.count or "followers" (some API variants)
     follower_count = user_data.get("follower_count") if isinstance(user_data, dict) else 0
     if follower_count is None and isinstance(user_data, dict):
         edge = (user_data.get("edge_followed_by") or {}) if isinstance(user_data.get("edge_followed_by"), dict) else {}
         follower_count = edge.get("count")
+    if follower_count is None and isinstance(user_data, dict):
+        follower_count = user_data.get("followers")
     if follower_count is None:
         follower_count = 0
     follower_count = int(follower_count) if follower_count is not None else 0
@@ -491,12 +502,20 @@ def enrich_one(
 
     # Step 2 (30 posts): only for accounts with > 1000 followers
     posts_30_urls = []
-    if fetch_30_posts and endpoint_posts and follower_count > 1000:
+    if not fetch_30_posts or not endpoint_posts:
+        if fetch_30_posts and not endpoint_posts:
+            print(f"  [30posts] Skipping @{username}: no posts endpoint configured", file=sys.stderr)
+    elif follower_count <= 1000:
+        print(f"  [30posts] Skipping @{username}: follower_count={follower_count} (need >1000)", file=sys.stderr)
+    else:
+        print(f"  [30posts] Fetching for @{username} (follower_count={follower_count}) ...", file=sys.stderr)
         posts_30_urls = fetch_up_to_30_post_image_urls(
             api_key, username, endpoint=endpoint_posts
         )
-        if not posts_30_urls:
-            print(f"  [30posts] {username}: 0 images (follower_count={follower_count})", file=sys.stderr)
+        if posts_30_urls:
+            print(f"  [30posts] @{username}: got {len(posts_30_urls)} post URLs", file=sys.stderr)
+        else:
+            print(f"  [30posts] @{username}: 0 images (API may be unavailable or returned empty; check RapidAPI plan for get_ig_user_posts)", file=sys.stderr)
         time.sleep(0.3)
 
     return {
@@ -505,7 +524,7 @@ def enrich_one(
         "user_posts": info.get("user_posts") or info.get("posts") or [],
         "following": following_list,
         "posts_30_urls": posts_30_urls,
-        "_raw_user_info": info,  # for bio extraction (API may put biography at top level)
+        "_raw_user_info": info,
     }
 
 
@@ -582,6 +601,32 @@ def _empty_analysis() -> dict:
     }
 
 
+def _extract_bio(user_data: dict, raw_info: dict) -> str:
+    """Extract biography from user_data / raw API response (v3 returns it at top level)."""
+    candidates = []
+    for d in (user_data, raw_info):
+        if not isinstance(d, dict):
+            continue
+        for key in ("biography", "bio", "about", "description", "bio_summary"):
+            val = d.get(key)
+            if isinstance(val, str) and val.strip():
+                candidates.append(val.strip())
+    for key in ("data", "body", "profile", "user"):
+        inner = raw_info.get(key) if isinstance(raw_info, dict) else None
+        if isinstance(inner, dict):
+            for k in ("biography", "bio", "about", "description"):
+                val = inner.get(k)
+                if isinstance(val, str) and val.strip():
+                    candidates.append(val.strip())
+            inner_user = inner.get("user") or inner.get("user_data")
+            if isinstance(inner_user, dict):
+                for k in ("biography", "bio", "about", "description"):
+                    val = inner_user.get(k)
+                    if isinstance(val, str) and val.strip():
+                        candidates.append(val.strip())
+    return candidates[0] if candidates else ""
+
+
 def build_instagram_enriched_and_meta(
     enriched: dict,
     artist_id: str,
@@ -601,15 +646,9 @@ def build_instagram_enriched_and_meta(
 
     name_override = (user_data.get("full_name") or "").strip()
     updated_at = datetime.now().strftime("%Y-%m-%d")
-    # Biography: try user_data and raw API response (ig_get_fb_profile_hover may nest differently)
+    # Biography: from user_data / raw response (v3 returns it at top level)
     raw_info = enriched.get("_raw_user_info") or {}
-    bio_append = (
-        user_data.get("biography")
-        or user_data.get("bio")
-        or raw_info.get("biography")
-        or raw_info.get("bio")
-        or ""
-    )
+    bio_append = _extract_bio(user_data, raw_info)
     bio_append = (bio_append or "").strip() if isinstance(bio_append, str) else ""
 
     slim = {
