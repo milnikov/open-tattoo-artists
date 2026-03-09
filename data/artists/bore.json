@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bore",
-  "name": "Valerio Borrelli . Bore Tattoo",
+  "name": "Marco Borellini",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Yancey Tattoo Parabiago"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Yancey Tattoo Parabiago",
+  "instagram_enriched": {
+    "id": "306676",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bore/instagram/profile.jpg"
+  }
 }
