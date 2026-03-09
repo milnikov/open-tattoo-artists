@@ -15,11 +15,6 @@
     "normalized": "0711nadelspiel"
   },
   {
-    "id": "100miletattoo",
-    "name": "100 Mile Tattoo",
-    "normalized": "100 mile tattoo"
-  },
-  {
     "id": "1000voltstattooco",
     "name": "1000 Volts Tattoo Co",
     "normalized": "1000 volts tattoo co"
@@ -45,14 +40,14 @@
     "normalized": "12th avenue tattoo"
   },
   {
-    "id": "13tattoopl",
-    "name": "13 Tattoo",
-    "normalized": "13 tattoo"
-  },
-  {
     "id": "13tattooclinic",
     "name": "13 Tattoo & Piercing",
     "normalized": "13 tattoo & piercing"
+  },
+  {
+    "id": "13tattoopl",
+    "name": "13 TATTOO | Studio Tatuażu | Szczecin",
+    "normalized": "13 tattoo | studio tatuażu | szczecin"
   },
   {
     "id": "174tattoo",
@@ -65,8 +60,13 @@
     "normalized": "1819 tattoo co"
   },
   {
+    "id": "1912tattoo",
+    "name": "1912 Tattoo Studio",
+    "normalized": "1912 tattoo studio"
+  },
+  {
     "id": "1920.tattoo",
-    "name": "1920 Tattoo",
+    "name": "1920 TATTOO",
     "normalized": "1920 tattoo"
   },
   {
@@ -106,8 +106,8 @@
   },
   {
     "id": "2ndskintattoo",
-    "name": "2nd Skin Tattoo",
-    "normalized": "2nd skin tattoo"
+    "name": "2nd Skin Tattoo & Piercing ®",
+    "normalized": "2nd skin tattoo & piercing ®"
   },
   {
     "id": "2ndskinldn",
@@ -140,14 +140,14 @@
     "normalized": "36ix"
   },
   {
-    "id": "3kreuze",
-    "name": "3KREUZE",
-    "normalized": "3kreuze"
-  },
-  {
     "id": "3rdeyeinkaustin",
     "name": "3rd Eye Ink Tattoo & Piercings",
     "normalized": "3rd eye ink tattoo & piercings"
+  },
+  {
+    "id": "3rdhearttattoo",
+    "name": "3rd Heart Tattoo, LLC",
+    "normalized": "3rd heart tattoo, llc"
   },
   {
     "id": "3rietattoos",
@@ -223,11 +223,6 @@
     "id": "713tattoo",
     "name": "713 Tattoo Parlour",
     "normalized": "713 tattoo parlour"
-  },
-  {
-    "id": "714official",
-    "name": "714official",
-    "normalized": "714official"
   },
   {
     "id": "717tattoo",
@@ -5153,6 +5148,11 @@
     "id": "andrewbtattooer",
     "name": "Andrew Baysinger",
     "normalized": "andrew baysinger"
+  },
+  {
+    "id": "100miletattoo",
+    "name": "Andrew Black",
+    "normalized": "andrew black"
   },
   {
     "id": "ablack_art",
@@ -10626,8 +10626,8 @@
   },
   {
     "id": "3rdeyetat2",
-    "name": "Bob-Tat",
-    "normalized": "bob-tat"
+    "name": "Bob- Tat",
+    "normalized": "bob- tat"
   },
   {
     "id": "bobavhett",
@@ -17740,6 +17740,11 @@
     "normalized": "diego rodriguez"
   },
   {
+    "id": "301tattoo",
+    "name": "dierdre and michael dassen",
+    "normalized": "dierdre and michael dassen"
+  },
+  {
     "id": "diickneves",
     "name": "Diick Neves",
     "normalized": "diick neves"
@@ -17993,11 +17998,6 @@
     "id": "archy.cobra",
     "name": "DS Tattoos",
     "normalized": "ds tattoos"
-  },
-  {
-    "id": "4theloveofdub",
-    "name": "Dub Galloway",
-    "normalized": "dub galloway"
   },
   {
     "id": "5seisclassictattoo",
@@ -18881,8 +18881,8 @@
   },
   {
     "id": "3hreee",
-    "name": "Farris Armand",
-    "normalized": "farris armand"
+    "name": "FARRIS ARMAND x 3HREE",
+    "normalized": "farris armand x 3hree"
   },
   {
     "id": "faustink",
@@ -21870,11 +21870,6 @@
     "normalized": "michael cloutier"
   },
   {
-    "id": "301tattoo",
-    "name": "Michael Dassen",
-    "normalized": "michael dassen"
-  },
-  {
     "id": "gibbo",
     "name": "Michael Gibson · Gibbo",
     "normalized": "michael gibson · gibbo"
@@ -21948,11 +21943,6 @@
     "id": "ainguratattoo",
     "name": "Mikel Uria",
     "normalized": "mikel uria"
-  },
-  {
-    "id": "1912tattoo",
-    "name": "Mikey Ratt",
-    "normalized": "mikey ratt"
   },
   {
     "id": "bbmilo.tattoo",
@@ -22395,6 +22385,11 @@
     "normalized": "philart"
   },
   {
+    "id": "3kreuze",
+    "name": "Phillip Geissler",
+    "normalized": "phillip geissler"
+  },
+  {
     "id": "bugsybugsy",
     "name": "Phillip Island Tattoo Artist",
     "normalized": "phillip island tattoo artist"
@@ -22693,11 +22688,6 @@
     "id": "artbyryan77",
     "name": "Ryan Aponte",
     "normalized": "ryan aponte"
-  },
-  {
-    "id": "3rdhearttattoo",
-    "name": "Ryan Boomhower",
-    "normalized": "ryan boomhower"
   },
   {
     "id": "bodyartplattsburgh",
@@ -23220,6 +23210,11 @@
     "normalized": "tattoo & piercing by felix"
   },
   {
+    "id": "714official",
+    "name": "Tattoo artist",
+    "normalized": "tattoo artist"
+  },
+  {
     "id": "_tattoofx",
     "name": "Tattoo FX",
     "normalized": "tattoo fx"
@@ -23516,8 +23511,8 @@
   },
   {
     "id": "1delosnuestros",
-    "name": "Uno De Los Nuestros",
-    "normalized": "uno de los nuestros"
+    "name": "UNO DE LOS NUESTROS / BARBERIA / TATUAJE / ESPACIO MULTIUSOS",
+    "normalized": "uno de los nuestros / barberia / tatuaje / espacio multiusos"
   },
   {
     "id": "brothers_of_iron_tattoo",
@@ -23653,6 +23648,11 @@
     "id": "anshin_anshin_tattoo",
     "name": "William Barbour-Brown III",
     "normalized": "william barbour-brown iii"
+  },
+  {
+    "id": "4theloveofdub",
+    "name": "William Galloway",
+    "normalized": "william galloway"
   },
   {
     "id": "blvqwulph",

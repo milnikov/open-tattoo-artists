@@ -73,30 +73,6 @@
     "updated_at": "2026-03-01"
   },
   {
-    "id": "100miletattoo",
-    "name": "100 Mile Tattoo",
-    "location": {
-      "city": "Langley",
-      "country": "Canada"
-    },
-    "styles": [
-      "dotwork",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/100miletattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-01"
-  },
-  {
     "id": "1000voltstattooco",
     "name": "1000 Volts Tattoo Co",
     "location": {
@@ -145,7 +121,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1001troublestattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1001troublestattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "10kf_hollywood",
@@ -170,7 +146,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/10kf_hollywood/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/10kf_hollywood/thumb/004.webp"
     ],
-    "updated_at": "2026-03-01"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "12monkeystattoos",
@@ -195,7 +171,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12monkeystattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/12monkeystattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "12thavenuetattoo",
@@ -222,8 +198,29 @@
     "updated_at": "2026-03-07"
   },
   {
+    "id": "13tattooclinic",
+    "name": "13 Tattoo & Piercing",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "minimalist"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/13tattooclinic/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "13tattoopl",
-    "name": "13 Tattoo",
+    "name": "13 TATTOO | Studio Tatuażu | Szczecin",
     "location": {
       "city": "Szczecin",
       "country": "Poland"
@@ -243,27 +240,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattoopl/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
-  },
-  {
-    "id": "13tattooclinic",
-    "name": "13 Tattoo & Piercing",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/13tattooclinic/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/13tattooclinic/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-07"
   },
   {
     "id": "174tattoo",
@@ -314,8 +290,31 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "1912tattoo",
+    "name": "1912 Tattoo Studio",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "traditional",
+      "neotraditional",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/1912tattoo/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "1920.tattoo",
-    "name": "1920 Tattoo",
+    "name": "1920 TATTOO",
     "location": {
       "city": "Whitley Bay",
       "country": "United Kingdom"
@@ -514,7 +513,7 @@
   },
   {
     "id": "2ndskintattoo",
-    "name": "2nd Skin Tattoo",
+    "name": "2nd Skin Tattoo & Piercing ®",
     "location": {
       "city": "Zurich",
       "country": "Switzerland"
@@ -683,29 +682,6 @@
     "updated_at": "2026-03-01"
   },
   {
-    "id": "3kreuze",
-    "name": "3KREUZE",
-    "location": {
-      "city": "Münster",
-      "country": "Germany"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/3kreuze/"
-    },
-    "tattoo_count": 26,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-09"
-  },
-  {
     "id": "3rdeyeinkaustin",
     "name": "3rd Eye Ink Tattoo & Piercings",
     "location": {
@@ -728,6 +704,30 @@
     ],
     "bio": "Discover the vibrant and fluid artistry of 3rd Eye Ink Tattoo & Piercings, nestled in the creative heart of Austin, and ready to serve your ink desires seven days a week. Specializing in the dreamy, evocative watercolor style, our studio offers a unique and immersive experience where every design is infused with the soulful touch of our current and former artists. Step into our welcoming space within Vapor Genius for your next tattoo or piercing and join the 3rd Eye Ink family.\nPrice: $\nCurrent location: Austin, Texas, United States",
     "updated_at": "2026-03-04"
+  },
+  {
+    "id": "3rdhearttattoo",
+    "name": "3rd Heart Tattoo, LLC",
+    "location": {
+      "city": "Washougal",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray",
+      "newschool"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/3rdhearttattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "3rietattoos",
@@ -1100,30 +1100,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/713tattoo/thumb/002.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/713tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/713tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-09"
-  },
-  {
-    "id": "714official",
-    "name": "714official",
-    "location": {
-      "city": "Los Angeles",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "tribal"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/714official/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
@@ -24597,6 +24573,30 @@
     ],
     "bio": "Andrew Baysinger, based in Costa Mesa, United States, is a reputed tattoo artist specializing in the traditional style. Known for maintaining impeccable cleanliness and high professional standards, he operates from Outer Limits Tattoo. His books may be currently closed, but one can find information about the waitlist on the website.\nPrice: $$\nCurrent location: Costa Mesa, California, United States",
     "updated_at": "2026-03-05"
+  },
+  {
+    "id": "100miletattoo",
+    "name": "Andrew Black",
+    "location": {
+      "city": "Langley",
+      "country": "Canada"
+    },
+    "styles": [
+      "dotwork",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/100miletattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/100miletattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "ablack_art",
@@ -51459,7 +51459,7 @@
   },
   {
     "id": "3rdeyetat2",
-    "name": "Bob-Tat",
+    "name": "Bob- Tat",
     "location": {
       "city": "Largo",
       "country": "United States"
@@ -86091,6 +86091,31 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "301tattoo",
+    "name": "dierdre and michael dassen",
+    "location": {
+      "city": "College Park",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "traditional",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/301tattoo/"
+    },
+    "tattoo_count": 31,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "diickneves",
     "name": "Diick Neves",
     "location": {
@@ -87233,31 +87258,6 @@
     ],
     "bio": "\"DS Tattoos is an avant-garde tattoo studio nestled in the heart of bustling Buenos Aires City, Argentina. Specializing in traditional and geometric designs, their punk-inspired aesthetics echo through every unique piece. Experience their distinct artistry every Tuesday at 23:00 hours or explore their creative haven in Palermo, Cabrera 4881.\"\nPrice: $$\nCurrent location: Buenos Aires City, Buenos Aires Autonomous City, Argentina",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "4theloveofdub",
-    "name": "Dub Galloway",
-    "location": {
-      "city": "Bossier City",
-      "country": "United States"
-    },
-    "styles": [
-      "floral",
-      "fineline",
-      "sketch"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/4theloveofdub/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-09"
   },
   {
     "id": "5seisclassictattoo",
@@ -91043,7 +91043,7 @@
   },
   {
     "id": "3hreee",
-    "name": "Farris Armand",
+    "name": "FARRIS ARMAND x 3HREE",
     "location": {
       "city": "Harvey",
       "country": "United States"
@@ -104506,31 +104506,6 @@
     "updated_at": "2026-03-09"
   },
   {
-    "id": "301tattoo",
-    "name": "Michael Dassen",
-    "location": {
-      "city": "College Park",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "traditional",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/301tattoo/"
-    },
-    "tattoo_count": 31,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/301tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-09"
-  },
-  {
     "id": "gibbo",
     "name": "Michael Gibson · Gibbo",
     "location": {
@@ -104880,29 +104855,6 @@
     ],
     "bio": "Immerse yourself in the monochromatic mastery at Mikel Uria Tattoo Studio, nestled in the vibrant heart of Pasajes, Spain, on Avenida Euskadi n°15 Entresuelo Trintxerpe, Gipuzkoa. A haven for black & gray ink aficionados, this studio promises a serene environment where the artistry of Mikel Uria transforms skin into a canvas of intricate shades and stunning detail. Contact at 943543814 or ainguratattoo@gmail.com to etch your vision into a timeless piece.\nPrice: $\nCurrent location: Pasajes, Basque Country, Spain",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "1912tattoo",
-    "name": "Mikey Ratt",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/1912tattoo/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1912tattoo/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-09"
   },
   {
     "id": "bbmilo.tattoo",
@@ -107006,6 +106958,29 @@
     "updated_at": "2026-03-05"
   },
   {
+    "id": "3kreuze",
+    "name": "Phillip Geissler",
+    "location": {
+      "city": "Münster",
+      "country": "Germany"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/3kreuze/"
+    },
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3kreuze/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "bugsybugsy",
     "name": "Phillip Island Tattoo Artist",
     "location": {
@@ -108456,30 +108431,6 @@
     ],
     "bio": "Ryan Aponte, a highly proficient tattoo artist based in Buffalo, United States, is renowned for his expertise in various styles such as realism, black & gray, trash polka, and cover-ups. His clean and precise work is evident in every piece, ensuring his clients leave Energy Art LLC with tattoos that not only meet but exceed their expectations. Ryan’s commitment to cleanliness is paramount, making Energy Art LLC at 1629 Elmwood Ave. a top destination for safe and exceptional tattoo artistry.\nPrice: $\nCurrent location: Buffalo, New York, United States",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "3rdhearttattoo",
-    "name": "Ryan Boomhower",
-    "location": {
-      "city": "Washougal",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "newschool"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/3rdhearttattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/3rdhearttattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-09"
   },
   {
     "id": "bodyartplattsburgh",
@@ -111036,6 +110987,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "714official",
+    "name": "Tattoo artist",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray",
+      "tribal"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/714official/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/714official/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "_tattoofx",
     "name": "Tattoo FX",
     "location": {
@@ -112469,7 +112444,7 @@
   },
   {
     "id": "1delosnuestros",
-    "name": "Uno De Los Nuestros",
+    "name": "UNO DE LOS NUESTROS / BARBERIA / TATUAJE / ESPACIO MULTIUSOS",
     "location": {
       "city": "Fuenlabrada",
       "country": "Spain"
@@ -113140,6 +113115,31 @@
     ],
     "bio": "William Barbour-Brown III is a highly skilled tattoo artist, specialising in traditional and illustrative styles since 2011, located in Brighton, United Kingdom. His tattoo shop adheres strictly to the \"Anshin Anshin\" philosophy, showcasing his emphasis on boldness in every artwork. For scheduling arrangements and inquiries, please shoot an email to Info@AnshinAnshin.com.\nPrice: $$\nCurrent location: Brighton, England, United Kingdom",
     "updated_at": "2026-03-04"
+  },
+  {
+    "id": "4theloveofdub",
+    "name": "William Galloway",
+    "location": {
+      "city": "Bossier City",
+      "country": "United States"
+    },
+    "styles": [
+      "floral",
+      "fineline",
+      "sketch"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/4theloveofdub/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/4theloveofdub/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "blvqwulph",
