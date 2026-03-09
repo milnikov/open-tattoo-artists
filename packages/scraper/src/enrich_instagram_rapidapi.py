@@ -586,6 +586,19 @@ def build_instagram_enriched_and_meta(
 
 def git_commit_and_push(cwd: Path, message: str = "chore: enrich artist Instagram data") -> bool:
     try:
+        # Pull remote changes first so push won't be rejected (e.g. if you pushed from another machine)
+        subprocess.run(
+            ["git", "fetch", "origin", "main"],
+            check=True,
+            cwd=str(cwd),
+            capture_output=True,
+        )
+        subprocess.run(
+            ["git", "merge", "--no-edit", "origin/main"],
+            cwd=str(cwd),
+            check=True,
+            capture_output=True,
+        )
         subprocess.run(
             ["git", "add", "data/artists/", str(repo_path(ENRICH_STATE_FILE))],
             check=True,
