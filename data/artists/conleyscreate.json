@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "conleyscreate",
+  "name": "Conley Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/conleyscreate",
+    "instagram": "https://www.instagram.com/conleyscreate/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conleyscreate/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conleyscreate/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conleyscreate/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/conleyscreate/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Conley Ink is an exceptionally talented tattoo artist who specializes in tribal, realism, and black & gray styles. They maintain a pristine and hygienic studio, ensuring every client's experience is not only visually impressive but also held to the highest standards of cleanliness. Trust in Conley's expertise and immaculate environment for your next tattoo appointment.\nPrice: $\nCurrent location:"
+}
