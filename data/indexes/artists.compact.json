@@ -1845,6 +1845,31 @@
     "updated_at": "2026-03-03"
   },
   {
+    "id": "ana.almagro.tattoo",
+    "name": "A N A    A L M A G R O",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "styles": [
+      "traditional",
+      "neotraditional",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ana.almagro.tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "athinlinetattoo",
     "name": "A Thin Line Tattoo",
     "location": {
@@ -1991,6 +2016,31 @@
     ],
     "bio": "Aadam the Artist, based in Dallas, United States, is renowned for their exceptional professionalism in the world of tattooing. Specializing in minimalist and illustrative styles, Aadam is not only the owner of Midgard Tattoo Company but also an expert micropigmentologist, providing inclusive services tailored for all skin tones, genders, and people. With a strong commitment to their craft, Aadam ensures every client's experience is met with the highest standards in the industry.\nPrice: $\nCurrent location: Dallas, Texas, United States",
     "updated_at": "2026-03-02"
+  },
+  {
+    "id": "ami",
+    "name": "Aamir Mi",
+    "location": {
+      "city": "Suncheon",
+      "country": "Italy"
+    },
+    "styles": [
+      "illustrative",
+      "minimalist",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/ami"
+    },
+    "tattoo_count": 23,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "aardvarktattoo",
@@ -12919,6 +12969,32 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "alstattoo",
+    "name": "Alessio Als Perna",
+    "location": {
+      "city": "Perugia",
+      "country": "Italy"
+    },
+    "styles": [
+      "traditional",
+      "neotraditional",
+      "illustrative",
+      "coverup"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/alstattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "black.work.tattoo",
     "name": "Alessio Borgo Ciambrone",
     "location": {
@@ -18654,7 +18730,7 @@
   },
   {
     "id": "alma24tattoo",
-    "name": "Alma 24 Tatuajes",
+    "name": "Alma 24 Tatuajes | Realismo y línea fina Madrid",
     "location": {
       "city": "Madrid",
       "country": "Spain"
@@ -18675,11 +18751,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma24tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma24tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "almaundschwarz",
-    "name": "Alma Schwarz",
+    "name": "Alma und Schwarz",
     "location": {
       "city": "Jena",
       "country": "Germany"
@@ -18699,7 +18775,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almaundschwarz/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almaundschwarz/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "almagrotattooer",
@@ -18722,7 +18798,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almagrotattooer/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almagrotattooer/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "almazoff196",
@@ -18797,11 +18873,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almost_famous_tattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almost_famous_tattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "aloetattoo",
-    "name": "Aloe Tattoo",
+    "name": "Aloetattoo",
     "location": {
       "city": "Pamplona",
       "country": "Spain"
@@ -18823,7 +18899,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloetattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloetattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "aloha_tattoo",
@@ -18923,7 +18999,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alpha_tattoo_zug/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alpha_tattoo_zug/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alright.tattoo",
@@ -18943,32 +19019,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alright.tattoo/thumb/002.webp"
     ],
     "bio": "Alright Tattoo Studio, nestled in the vibrant atmosphere of Brighton, United Kingdom, is a distinctive hub of artistic creativity, delivering exceptional tattoo designs to match every individual's unique style. Situated on 67 Preston Street, their imaginative approach sets them apart, with an exclusive range of in-store items from 11.hope.street enhancing the eclectic vibe. An appointment here signifies a creative journey, where your skin becomes the ultimate canvas and tattoos, a form of self-expression.\nPrice: $$\nCurrent location: Brighton, England, United Kingdom",
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "alstattoo",
-    "name": "Alstattoo",
-    "location": {
-      "city": "Perugia",
-      "country": "Italy"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "illustrative",
-      "coverup"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alstattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/thumb/004.webp"
-    ],
     "updated_at": "2026-03-04"
   },
   {
@@ -19142,7 +19192,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativearttattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alternativearttattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alternativeartstattoo",
@@ -19189,7 +19239,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/altontattooco/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/altontattooco/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "arteextremotattoopiercing",
@@ -19315,32 +19365,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarogroznyy/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarogroznyy/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
-  },
-  {
-    "id": "alvarolaratattoo",
-    "name": "Alvaro Lara",
-    "location": {
-      "city": "Popayan",
-      "country": "Colombia"
-    },
-    "styles": [
-      "black&gray",
-      "realism",
-      "neotraditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alvarolaratattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alvaro.pb.mallorca",
@@ -19412,7 +19437,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvin_aldridge/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvin_aldridge/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "chirima_blk",
@@ -19462,11 +19487,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvinchong/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvinchong/thumb/004.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alvin_tattooer",
-    "name": "Alvin II",
+    "name": "Alvin tattooer",
     "location": {
       "city": "Kuala Lumpur",
       "country": "Malaysia"
@@ -19487,7 +19512,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvin_tattooer/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvin_tattooer/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alx_bizar",
@@ -19543,7 +19568,7 @@
   },
   {
     "id": "alydolltattoo",
-    "name": "Aly W",
+    "name": "Aly Doll",
     "location": {
       "city": "Los Angeles",
       "country": "United States"
@@ -19563,7 +19588,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alydolltattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alydolltattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alyciaharr33",
@@ -19615,8 +19640,29 @@
     "updated_at": "2026-03-07"
   },
   {
+    "id": "alyonakhaidukova",
+    "name": "Alyona Khaidukova",
+    "location": {
+      "city": "Samara",
+      "country": "Russia"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/alyonakhaidukova"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyonakhaidukova/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyonakhaidukova/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Tattoo «13» Samara",
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "alyona_demeneva",
-    "name": "Alyona Demeneva",
+    "name": "Alyona | Tattoo artist  🥀",
     "location": {
       "city": "Kyiv",
       "country": "Ukraine"
@@ -19637,28 +19683,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyona_demeneva/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyona_demeneva/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
-  },
-  {
-    "id": "alyonakhaidukova",
-    "name": "Alyona Khaidukova",
-    "location": {
-      "city": "Samara",
-      "country": "Russia"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/alyonakhaidukova"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyonakhaidukova/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyonakhaidukova/thumb/001.webp"
-    ],
-    "bio": "WORKPLACE Tattoo «13» Samara",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "alysinhopetattooer",
@@ -19803,7 +19828,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaiarriaga/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaiarriaga/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amaliaaveni",
@@ -19827,7 +19852,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaliaaveni/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaliaaveni/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "durga",
@@ -19999,7 +20024,7 @@
   },
   {
     "id": "amandaclemes",
-    "name": "Amanda Clemes",
+    "name": "Amanda Clemes | Tattoo",
     "location": {
       "city": "Joinville",
       "country": "Brazil"
@@ -20020,7 +20045,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaclemes/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaclemes/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amandacreek",
@@ -20242,7 +20267,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandawachob/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandawachob/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amanda_alzonetattoos_west",
@@ -20264,31 +20289,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amanda_alzonetattoos_west/thumb/002.webp"
     ],
     "bio": "Amanda West is a highly skilled tattoo artist specializing in the illustrative style, bringing each design to life with remarkable precision and creativity. Her dedication to maintaining a clean and hygienic workspace ensures that every client's experience is not only artistically fulfilling but also conducted under the highest standards of cleanliness. With a welcoming demeanor, she creates a comfortable environment where clients can enjoy the transformation of their ideas into stunning body art.\nPrice: $\nCurrent location:",
-    "updated_at": "2026-03-03"
-  },
-  {
-    "id": "amaro_tattoos",
-    "name": "Amaro",
-    "location": {
-      "city": "Bologna",
-      "country": "Italy"
-    },
-    "styles": [
-      "neotraditional",
-      "illustrative",
-      "newschool"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amaro_tattoos/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/004.webp"
-    ],
     "updated_at": "2026-03-03"
   },
   {
@@ -20337,7 +20337,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amartetattoo/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amartetattoo/thumb/002.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amaryllistattoo",
@@ -20392,27 +20392,6 @@
     ],
     "bio": "Amaya is an exceptionally skilled tattoo artist based in Montpellier, France who specializes in illustrative, watercolor, dotwork, and anime styles. Not only does she own Anthracite Tattoo Shop, but she also showcases her diverse and distinctive designs on her tattoo flash Instagram page. Her work is meticulously crafted with precision, ensuring each piece is a unique work of art that vividly reflects her clients' visions.\nPrice: $$\nCurrent location: Montpellier, Occitanie, France",
     "updated_at": "2026-03-03"
-  },
-  {
-    "id": "amayra",
-    "name": "Amayra",
-    "location": {
-      "city": "Santa Cruz de Tenerife",
-      "country": "Italy"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/amayra"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amayra/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amayra/thumb/001.webp"
-    ],
-    "updated_at": "2026-03-07"
   },
   {
     "id": "amayratattoo",
@@ -20609,31 +20588,6 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "ame__tattoo",
-    "name": "Ame Tattoo",
-    "location": {
-      "city": "Genoa",
-      "country": "Italy"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/ame__tattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "amzkelso",
     "name": "Amelia Kelso",
     "location": {
@@ -20661,7 +20615,7 @@
   },
   {
     "id": "ameliawhitneytattooer",
-    "name": "Amelia Rose Whitney",
+    "name": "Amelia Rose Whitney Tattoo",
     "location": {
       "city": "Tempe",
       "country": "United States"
@@ -20682,7 +20636,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ameliawhitneytattooer/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ameliawhitneytattooer/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "americasbesttattoos",
@@ -20762,31 +20716,6 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "americaninktattoocompany",
-    "name": "American Ink Tattoo Company",
-    "location": {
-      "city": "Fayetteville",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray",
-      "trashpolka",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/americaninktattoocompany/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "american_irons",
     "name": "American Irons",
     "location": {
@@ -20834,7 +20763,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americannationaltattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americannationaltattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "americantattoovista",
@@ -20861,6 +20790,31 @@
     ],
     "bio": "American Tattoo\nSTUDIO\nVista, California, United States\n7.68k\nAdd\nMessage\ntraditional\nblack&gray\nneotraditional",
     "updated_at": "2026-03-03"
+  },
+  {
+    "id": "americanvintageoc",
+    "name": "American Vintage Tattoo",
+    "location": {
+      "city": "Orange",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional",
+      "black&gray",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/americanvintageoc/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "americana_tattoo_co",
@@ -20981,7 +20935,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aminmeherzi_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aminmeherzi_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amina_dargham",
@@ -21082,31 +21036,6 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "amiratattoos",
-    "name": "Amira Tattoos",
-    "location": {
-      "city": "Orlando",
-      "country": "United States"
-    },
-    "styles": [
-      "floral",
-      "fineline",
-      "sketch"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amiratattoos/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "ammartattoo",
     "name": "Ammar Farah",
     "location": {
@@ -21178,7 +21107,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_blackink/thumb/001.webp"
     ],
     "bio": "WORKPLACE One More Tattoo Studio Lavena Ponte Tresa",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amosblackink",
@@ -21202,30 +21131,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amosblackink/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amosblackink/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
-  },
-  {
-    "id": "amos_tattooer",
-    "name": "Amos Tattooer",
-    "location": {
-      "city": "Odesa",
-      "country": "Ukraine"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amos_tattooer/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amourtattooinc",
@@ -21255,7 +21161,7 @@
   },
   {
     "id": "amulettattoos",
-    "name": "Amulet",
+    "name": "AMULET TATTOOS",
     "location": {
       "city": "St Petersburg",
       "country": "United States"
@@ -21276,7 +21182,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amulettattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amulettattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "_astro.cat",
@@ -21332,7 +21238,7 @@
   },
   {
     "id": "amyclaireduncan",
-    "name": "Amy C Duncan",
+    "name": "Amy C. Duncan",
     "location": {
       "city": "Melbourne",
       "country": "Australia"
@@ -21351,7 +21257,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyclaireduncan/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyclaireduncan/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amyeccleston",
@@ -21372,7 +21278,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyeccleston/thumb/001.webp"
     ],
     "bio": "WORKPLACE Empire Melbourne Melbourne",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amyedwardstattoo",
@@ -21495,29 +21401,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "amy_mymouse",
-    "name": "Amy Poison",
-    "location": {
-      "city": "Tel Aviv-yafo",
-      "country": "Israel"
-    },
-    "styles": [
-      "neotraditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amy_mymouse/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "amyporterart",
     "name": "Amy Porter",
     "location": {
@@ -21569,31 +21452,6 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "amyvsavage",
-    "name": "Amy Savage",
-    "location": {
-      "city": "Bury St Edmunds",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "dotwork",
-      "fineline",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amyvsavage/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
     "id": "amyshapiro",
     "name": "Amy Shapiro",
     "location": {
@@ -21612,7 +21470,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyshapiro/thumb/001.webp"
     ],
     "bio": "WORKPLACE Lifetime Tattoo Denver",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amtattoo_art",
@@ -21662,6 +21520,31 @@
     ],
     "bio": "Amy Todd is a Melbourne-based tattoo artist renowned for her expertise in floral and neotraditional designs. Her studio, Sunshine Coast Happy Daze Tattoo, epitomizes cleanliness that ensures a safe and sterile environment for each client. Clients consistently praise Amy's professionalism, making each tattoo session a comfortable and confidence-inspiring experience.\nPrice: $\nCurrent location: Melbourne, Victoria, Australia",
     "updated_at": "2026-03-04"
+  },
+  {
+    "id": "amyvsavage",
+    "name": "AMY V SAVAGE Bury St Edmunds Tattooing",
+    "location": {
+      "city": "Bury St Edmunds",
+      "country": "United Kingdom"
+    },
+    "styles": [
+      "dotwork",
+      "fineline",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amyvsavage/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amyvictoriatattooist",
@@ -21714,6 +21597,29 @@
     "updated_at": "2026-03-07"
   },
   {
+    "id": "amy_mymouse",
+    "name": "Amymymouse",
+    "location": {
+      "city": "Tel Aviv-yafo",
+      "country": "Israel"
+    },
+    "styles": [
+      "neotraditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amy_mymouse/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amy_mymouse/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "an_forman",
     "name": "An Forman",
     "location": {
@@ -21758,31 +21664,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana_akuma/thumb/002.webp"
     ],
     "bio": "Ana Akuma is a highly skilled tattoo artist specializing in the 'sketch' style and has garnered recognition for their exceptional talent. Their portfolio clearly shows a committed level of professionalism that manifests in each unique and meticulously crafted piece. Clients seeking out Ana's expertise can anticipate not only stunning artwork but also a seamless experience that upholds the highest standards of professionalism in the tattoo industry.\nPrice: $\nCurrent location:",
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "ana.almagro.tattoo",
-    "name": "Ana Almagro",
-    "location": {
-      "city": "Barcelona",
-      "country": "Spain"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/ana.almagro.tattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ana.almagro.tattoo/thumb/004.webp"
-    ],
     "updated_at": "2026-03-04"
   },
   {
@@ -22014,76 +21895,28 @@
     "updated_at": "2026-03-07"
   },
   {
-    "id": "anagiltattoo",
-    "name": "Ana Gil",
+    "id": "anamorena",
+    "name": "Ana Isabel",
     "location": {
-      "city": "Jerez De La Frontera",
-      "country": "Spain"
+      "city": "Medellin",
+      "country": "Colombia"
     },
     "styles": [
-      "dotwork",
-      "watercolor",
-      "fineline"
+      "fineline",
+      "illustrative"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/anagiltattoo/"
+      "instagram": "https://instagram.com/anamorena"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/001.webp",
+    "tattoo_count": 20,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "anagodoy",
-    "name": "Ana Godoy",
-    "location": {
-      "city": "Granada",
-      "country": "Italy"
-    },
-    "styles": [
-      "sacred geometry",
-      "dotwork",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/anagodoy"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagodoy/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagodoy/thumb/001.webp"
-    ],
-    "updated_at": "2026-03-07"
-  },
-  {
-    "id": "anaartesanatattoos",
-    "name": "Ana Hiro",
-    "location": {
-      "city": "Miraflores",
-      "country": "Peru"
-    },
-    "styles": [
-      "illustrative",
-      "traditional",
-      "neotraditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/anaartesanatattoos/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anaisabel",
@@ -22104,7 +21937,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaisabel/thumb/001.webp"
     ],
     "bio": "WORKPLACE Arcos Ermua",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anita_lipsink",
@@ -22177,31 +22010,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamaturana/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamaturana/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "anamorena",
-    "name": "Ana Morena",
-    "location": {
-      "city": "Medellin",
-      "country": "Colombia"
-    },
-    "styles": [
-      "fineline",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/anamorena"
-    },
-    "tattoo_count": 20,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anunes_tattoo",
@@ -22256,7 +22065,7 @@
   },
   {
     "id": "anaquintana_tattoo",
-    "name": "Ana Quintana",
+    "name": "Ana Quintana ☾",
     "location": {
       "city": "Zurich",
       "country": "Switzerland"
@@ -22276,7 +22085,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaquintana_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaquintana_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anareyestattoos",
@@ -22380,6 +22189,53 @@
     ],
     "bio": "Ana Work is an exceptionally skilled tattoo artist based in a private studio in Nantes, France, specializing in the intricate styles of fineline, sketch, and dotwork. Renowned for her artistic brilliance and detailed craftsmanship, she seamlessly intertwines the world of tattooing with her passion for illustration to create unique and visually striking body art.\nPrice: $$\nCurrent location: Nantes, Loire Region, France",
     "updated_at": "2026-03-04"
+  },
+  {
+    "id": "anaartesanatattoos",
+    "name": "Ana • Tattoo Ilustrativo • Lima, Perú",
+    "location": {
+      "city": "Miraflores",
+      "country": "Peru"
+    },
+    "styles": [
+      "illustrative",
+      "traditional",
+      "neotraditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/anaartesanatattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "anagodoy",
+    "name": "anagodoy",
+    "location": {
+      "city": "Granada",
+      "country": "Italy"
+    },
+    "styles": [
+      "sacred geometry",
+      "dotwork",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/anagodoy"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagodoy/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagodoy/thumb/001.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "analizio.tattoo",
@@ -22508,30 +22364,6 @@
     "updated_at": "2026-03-04"
   },
   {
-    "id": "anastasiagrichina",
-    "name": "Anastasia Grichina",
-    "location": {
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    "styles": [
-      "sketch",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/anastasiagrichina/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
     "id": "anastasiavilks",
     "name": "Anastasia Vilks",
     "location": {
@@ -22549,7 +22381,7 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiavilks/thumb/001.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anastasis_tattoo",
@@ -22625,7 +22457,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anatolii.artist/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anatolii.artist/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anaisallnt",
@@ -22647,7 +22479,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaisallnt/thumb/001.webp"
     ],
     "bio": "WORKPLACE Corpus Memori Nantes",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anbuartco",
@@ -22702,7 +22534,7 @@
   },
   {
     "id": "anchorrosetattooco",
-    "name": "Anchor & Rose Tattoo Co",
+    "name": "Anchor & Rose Tattoo Co.",
     "location": {
       "city": "Tulsa",
       "country": "United States"
@@ -22723,7 +22555,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorrosetattooco/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorrosetattooco/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anchorinktattoodf",
@@ -22753,7 +22585,7 @@
   },
   {
     "id": "anchorsleeves",
-    "name": "Anchor Sleeves",
+    "name": "Anchor Safety Sleeves",
     "location": {
       "city": "Virginia Beach",
       "country": "United States"
@@ -22773,11 +22605,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorsleeves/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorsleeves/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anchorsteamtattoo",
-    "name": "Anchor Steam Tattoo Gallery ⚓",
+    "name": "Anchor Steam Tattoo Gallery",
     "location": {
       "city": "Unknown",
       "country": "Unknown"
@@ -22796,7 +22628,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorsteamtattoo/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anchorsteamtattoo/thumb/002.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anchorinktattoo",
@@ -22947,11 +22779,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andechambers__/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andechambers__/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "anderortiz",
-    "name": "Ander Ortiz de Murua",
+    "name": "Ander Ortiz",
     "location": {
       "city": "Villabona",
       "country": "Unknown"
@@ -22968,7 +22800,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anderortiz/thumb/001.webp"
     ],
     "bio": "WORKPLACE Anders Gallery Villabona",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "ander_rage",
@@ -23038,7 +22870,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andersonluna/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andersonluna/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amonettattoo",
@@ -23142,31 +22974,6 @@
     "updated_at": "2026-03-04"
   },
   {
-    "id": "andrade_tattoo",
-    "name": "Andrade",
-    "location": {
-      "city": "Jaboatão Dos Guararapes",
-      "country": "Brazil"
-    },
-    "styles": [
-      "fineline",
-      "illustrative",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andrade_tattoo/"
-    },
-    "tattoo_count": 21,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
     "id": "andretattooart",
     "name": "Andre",
     "location": {
@@ -23241,31 +23048,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beck.tattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-06"
-  },
-  {
-    "id": "andredecamargo",
-    "name": "Andre de Camargo",
-    "location": {
-      "city": "Sao Paulo",
-      "country": "Brazil"
-    },
-    "styles": [
-      "fineline",
-      "floral",
-      "geometric"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andredecamargo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
   },
   {
     "id": "andre_tattoo",
@@ -23391,6 +23173,28 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "andrerodrigues",
+    "name": "Andre Rodrigues",
+    "location": {
+      "city": "São Paulo",
+      "country": "Unknown"
+    },
+    "styles": [
+      "neotraditional",
+      "realism"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/andrerodrigues"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrerodrigues/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrerodrigues/thumb/001.webp"
+    ],
+    "bio": "WORKPLACE Lado B Estúdio Para Tatuadores São Paulo",
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "andretenoriotattoo",
     "name": "Andre Tenorio",
     "location": {
@@ -23418,7 +23222,7 @@
   },
   {
     "id": "andrevasqueztattoos",
-    "name": "Andre Vasquez",
+    "name": "Andre Vasquez | Neo Tradicional Tattoos| Lisbon",
     "location": {
       "city": "Wildwood",
       "country": "United States"
@@ -23437,7 +23241,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrevasqueztattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrevasqueztattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreaafferni",
@@ -23508,7 +23312,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreacapitolino/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreacapitolino/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreadepaolatattoo",
@@ -23557,7 +23361,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreadelgado/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreadelgado/thumb/004.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrea_deriutattoo",
@@ -23605,7 +23409,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreaderiu/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreaderiu/thumb/004.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreafurci",
@@ -23630,7 +23434,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreafurci/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreafurci/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreagamboa",
@@ -23678,7 +23482,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreagtattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreagtattoos/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreagiulimondi",
@@ -23843,7 +23647,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreapallocchini/thumb/001.webp"
     ],
     "bio": "WORKPLACE \"Four X\" Tattoo Studio San Felice Circeo",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andreapanitattoo",
@@ -23944,30 +23748,6 @@
     "updated_at": "2026-03-07"
   },
   {
-    "id": "andrearoseti_tattoo",
-    "name": "Andrea Roseti",
-    "location": {
-      "city": "Terni",
-      "country": "Italy"
-    },
-    "styles": [
-      "illustrative",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andrearoseti_tattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
     "id": "andrea_sparkley",
     "name": "Andrea Sparkley",
     "location": {
@@ -23990,30 +23770,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrea_sparkley/thumb/004.webp"
     ],
     "bio": "Andrea Sparkley is an exceptionally skilled tattoo artist based in Bassano del Grappa, Italy, known for her precision and attention to detail on her black and gray, tribal style tattoos. Andrea runs her own studio, Sparkley Tattoo Studio, and is also a resident guest artist at Dragon Tattoo Studio 78, showcasing her talent and mastery in the tattoo industry.\nPrice: $$\nCurrent location: Bassano Del Grappa, Veneto, Italy",
-    "updated_at": "2026-03-04"
-  },
-  {
-    "id": "andreiaxtattoos",
-    "name": "Andrea Xavier",
-    "location": {
-      "city": "Sintra",
-      "country": "Portugal"
-    },
-    "styles": [
-      "traditional",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andreiaxtattoos/"
-    },
-    "tattoo_count": 46,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/004.webp"
-    ],
     "updated_at": "2026-03-04"
   },
   {
@@ -24191,7 +23947,7 @@
   },
   {
     "id": "andrei_aivazian",
-    "name": "Andrei Aivazian",
+    "name": "Andrei Aivazian | Tattoo tbilisi",
     "location": {
       "city": "Milan",
       "country": "Italy"
@@ -24211,7 +23967,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrei_aivazian/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrei_aivazian/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "amp_art",
@@ -24263,30 +24019,6 @@
     "updated_at": "2026-03-04"
   },
   {
-    "id": "andreichernovalov",
-    "name": "Andrei Chernovalov",
-    "location": {
-      "city": "Brest",
-      "country": "Belarus"
-    },
-    "styles": [
-      "blackwork",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/andreichernovalov"
-    },
-    "tattoo_count": 31,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-07"
-  },
-  {
     "id": "andreic_tattoo",
     "name": "Andrei Costache",
     "location": {
@@ -24314,7 +24046,7 @@
   },
   {
     "id": "andrei_pac_tattoo",
-    "name": "Andrei Pac",
+    "name": "Andrei Oltean",
     "location": {
       "city": "Stuttgart",
       "country": "Germany"
@@ -24333,7 +24065,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrei_pac_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrei_pac_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-04"
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "andreiaxtattoos",
+    "name": "ANDREIAxTATTOOS",
+    "location": {
+      "city": "Sintra",
+      "country": "Portugal"
+    },
+    "styles": [
+      "traditional",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andreiaxtattoos/"
+    },
+    "tattoo_count": 46,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreiaxtattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrejpotrc",
@@ -24358,6 +24114,29 @@
     ],
     "bio": "Renowned for his expertise in 'trashpolka, realism, and coverup', Andrej Potrč stands as a quintessential example of professionalism in the tattooing community. His meticulous attention to detail ensures that every piece of art he creates is executed with precision and care. Clients consistently applaud Andrej for his clean and safe working environment, reflecting his commitment to the highest standards of cleanliness in his studio.\nPrice: $\nCurrent location:",
     "updated_at": "2026-03-04"
+  },
+  {
+    "id": "andrem.tt",
+    "name": "ANDREM.TT",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andrem.tt/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrescely",
@@ -24432,7 +24211,7 @@
   },
   {
     "id": "andresorzaez",
-    "name": "Andres Orzaez Paton",
+    "name": "Andres Orzaez",
     "location": {
       "city": "Ibiza",
       "country": "Spain"
@@ -24449,7 +24228,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresorzaez/thumb/001.webp"
     ],
     "bio": "WORKPLACE Blowart Electric Tattoo Ibiza",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andresilvatattoo",
@@ -24499,7 +24278,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreumatallana/thumb/001.webp"
     ],
     "bio": "WORKPLACE LTW Tattoo & Piercing Barcelona",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewthekid",
@@ -24715,29 +24494,6 @@
     "updated_at": "2026-03-07"
   },
   {
-    "id": "andrewclaysontattoo",
-    "name": "Andrew Clayton",
-    "location": {
-      "city": "Portland",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andrewclaysontattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-05"
-  },
-  {
     "id": "acutrell",
     "name": "Andrew Cutrell",
     "location": {
@@ -24780,7 +24536,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewdavidov/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewdavidov/thumb/002.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewjamestats",
@@ -24806,28 +24562,6 @@
     ],
     "bio": "Andrew James is a tattoo artist who stands out with exceptional skill in black and gray realism styles, creating stunningly lifelike designs. Located in Bayonne, United States, his work is meticulously crafted, showcasing a high level of detail and finesse. Clients seeking intricate and realistic tattoos will find Andrew's expertise and artistic ability to be unparalleled.\nPrice: $\nCurrent location: Bayonne, New Jersey, United States",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "andrewjohnsmith",
-    "name": "Andrew John Smith",
-    "location": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "styles": [
-      "traditional",
-      "neotraditional",
-      "blackwork"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/andrewjohnsmith"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewjohnsmith/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewjohnsmith/thumb/001.webp"
-    ],
-    "updated_at": "2026-03-07"
   },
   {
     "id": "andrewkellytattoo",
@@ -24874,7 +24608,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew_lead_/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew_lead_/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrew_tattooer",
@@ -24898,7 +24632,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew_tattooer/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew_tattooer/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewlopez.tattoos",
@@ -24948,7 +24682,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew.maciel/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrew.maciel/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrew.marrow.tattoos",
@@ -24998,7 +24732,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewmatela/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewmatela/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewmirfin",
@@ -25046,7 +24780,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewmontoyatattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewmontoyatattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewmooreart",
@@ -25221,29 +24955,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "andrem.tt",
-    "name": "Andrew Steven",
-    "location": {
-      "city": "Barcelona",
-      "country": "Spain"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andrem.tt/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrem.tt/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
-  },
-  {
     "id": "andrewstortz",
     "name": "Andrew Stortz",
     "location": {
@@ -25265,7 +24976,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewstortz/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewstortz/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewwatkinstattoos",
@@ -25296,7 +25007,7 @@
   },
   {
     "id": "andrewwheeler",
-    "name": "Andrew Wheeler",
+    "name": "Andrew Wheeler - Tattooer",
     "location": {
       "city": "Hamilton",
       "country": "Canada"
@@ -25316,7 +25027,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewwheeler/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewwheeler/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andrewwhite",
@@ -25391,6 +25102,28 @@
     "updated_at": "2026-03-05"
   },
   {
+    "id": "andrewjohnsmith",
+    "name": "AndrewJohnSmith",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "styles": [
+      "traditional",
+      "neotraditional",
+      "blackwork"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/andrewjohnsmith"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewjohnsmith/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewjohnsmith/thumb/001.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "alick666",
     "name": "Andrey",
     "location": {
@@ -25415,6 +25148,30 @@
     ],
     "bio": "Step into the artistic realm of Devil Tattoo Studio in Kyiv, Ukraine, where the fusion of floral elegance, tribal vigor, and the timeless shades of black & gray come to life under the skilled hand of Andrey. For a personalized tattoo experience, message us on Viber at (0509555839) and let your skin become a canvas for Andrey's masterful artistry.\nPrice: $\nCurrent location: Kyiv, Ukraine",
     "updated_at": "2026-03-03"
+  },
+  {
+    "id": "andrey_kolbasin",
+    "name": "Andrey  Kolbasin",
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    "styles": [
+      "realism",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andrey_kolbasin/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "biserovandrey",
@@ -25461,51 +25218,6 @@
     ],
     "bio": "Andrey Bla is a highly proficient black&gray tattoo artist who operates out of Counts Tattoo in Las Vegas, United States. Known for their exceptional attention to detail and professional conduct, Andrey is dedicated to ensuring that every piece they create meets the highest standards of artistry and hygiene. Their professionalism is matched only by the stunning intricacy of their work, making Andrey a sought-after artist in the vibrant Las Vegas tattoo scene.\nPrice: $\nCurrent location: Las Vegas, Nevada, United States",
     "updated_at": "2026-03-05"
-  },
-  {
-    "id": "andrey_kolbasin",
-    "name": "Andrey Kolbasin",
-    "location": {
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andrey_kolbasin/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-05"
-  },
-  {
-    "id": "andreykolbasin",
-    "name": "Andrey Kolbasin",
-    "location": {
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/andreykolbasin"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreykolbasin/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreykolbasin/thumb/001.webp"
-    ],
-    "updated_at": "2026-03-07"
   },
   {
     "id": "andreyl.tattoo",
@@ -25575,7 +25287,7 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreylukovnikov/thumb/001.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "94hours",
@@ -25766,6 +25478,31 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "andredecamargo",
+    "name": "André de Camargo",
+    "location": {
+      "city": "Sao Paulo",
+      "country": "Brazil"
+    },
+    "styles": [
+      "fineline",
+      "floral",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andredecamargo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andredecamargo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "andre_meleiro",
     "name": "André Meleiro",
     "location": {
@@ -25840,28 +25577,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "andrerodrigues",
-    "name": "André Rodrigues",
-    "location": {
-      "city": "São Paulo",
-      "country": "Unknown"
-    },
-    "styles": [
-      "neotraditional",
-      "realism"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/andrerodrigues"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrerodrigues/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrerodrigues/thumb/001.webp"
-    ],
-    "bio": "WORKPLACE Lado B Estúdio Para Tatuadores São Paulo",
-    "updated_at": "2026-03-07"
-  },
-  {
     "id": "andrerosaf",
     "name": "André Rosaf",
     "location": {
@@ -25909,30 +25624,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresampaio.tattoink/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresampaio.tattoink/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
-  },
-  {
-    "id": "andresilva.tattooer",
-    "name": "André Silva",
-    "location": {
-      "city": "Porto",
-      "country": "Portugal"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/andresilva.tattooer/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andretravassostattoo",
@@ -26034,7 +25726,7 @@
   },
   {
     "id": "andresbrown",
-    "name": "Andrés Brown",
+    "name": "Andrés Brown Pérez",
     "location": {
       "city": "Seville",
       "country": "Italy"
@@ -26052,7 +25744,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresbrown/thumb/001.webp"
     ],
     "bio": "WORKPLACE Asura Tattoo Studio Seville",
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "andysbodyelectric",
@@ -73268,31 +72960,6 @@
     "updated_at": "2026-03-02"
   },
   {
-    "id": "americanvintageoc",
-    "name": "Chris de Armas",
-    "location": {
-      "city": "Orange",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "black&gray",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/americanvintageoc/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "chris_de_armas",
     "name": "Chris de Armas",
     "location": {
@@ -83989,7 +83656,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/american_art_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/american_art_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "bigdave_tattooartist",
@@ -92619,6 +92286,30 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "am_tattooo",
+    "name": "Freehand TattooArt",
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    "styles": [
+      "sketch",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/am_tattooo/"
+    },
+    "tattoo_count": 47,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "freulein_fux",
     "name": "Freulein Fux",
     "location": {
@@ -97603,7 +97294,7 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almagro/thumb/001.webp"
     ],
-    "updated_at": "2026-03-07"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "brother.israel",
@@ -98851,6 +98542,31 @@
     ],
     "bio": "Jana Gràcia is a highly skilled tattoo artist based in Barcelona, Spain specializing in 'fineline' tattoo style. Known for her fantasy tattoos and intricate designs of flying creatures, her work boasts exceptional details that come to life on the skin. Her professional demeanor, combined with her commitment to creating high-quality art, ensures that clients receive a unique and carefully crafted piece of art.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain",
     "updated_at": "2026-03-08"
+  },
+  {
+    "id": "amiratattoos",
+    "name": "Janelle Ewing Orlando Tattoo Artist",
+    "location": {
+      "city": "Orlando",
+      "country": "United States"
+    },
+    "styles": [
+      "floral",
+      "fineline",
+      "sketch"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amiratattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amiratattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "_janirose",
@@ -100484,31 +100200,6 @@
     ],
     "bio": "Artists\nSuppliers\nAbout\nJulien Lapostattooer, based in the vibrant city of Toulouse, France, is a revered tattoo studio celebrated for its intricate geometric and black & gray designs. Home to an exceptional line-up of resident artists, the studio provides a unique, creative environment where each piece of art is precisely crafted, turning your body into a canvas.\nPrice: $$\nCurrent location: Toulouse, Occitanie, France",
     "updated_at": "2026-03-07"
-  },
-  {
-    "id": "alma_de_julio",
-    "name": "Julio Viadel",
-    "location": {
-      "city": "Valencia",
-      "country": "Spain"
-    },
-    "styles": [
-      "black&gray",
-      "watercolor",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/alma_de_julio/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-04"
   },
   {
     "id": "badntatted808_hctc",
@@ -103225,7 +102916,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrezzotattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrezzotattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-05"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "cacotattoo",
@@ -104071,28 +103762,25 @@
     "updated_at": "2026-03-06"
   },
   {
-    "id": "am_tattooo",
-    "name": "Max Sugrob",
+    "id": "amayra",
+    "name": "Mayra Alejandra",
     "location": {
-      "city": "Saint Petersburg",
-      "country": "Russia"
+      "city": "Santa Cruz de Tenerife",
+      "country": "Italy"
     },
     "styles": [
-      "sketch",
-      "dotwork"
+      "realism",
+      "black&gray"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/am_tattooo/"
+      "instagram": "https://instagram.com/amayra"
     },
-    "tattoo_count": 47,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/001.webp",
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amayra/thumb/001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/am_tattooo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amayra/thumb/001.webp"
     ],
-    "updated_at": "2026-03-03"
+    "updated_at": "2026-03-09"
   },
   {
     "id": "elske",
@@ -104760,30 +104448,6 @@
     ],
     "bio": "Mike Riveley is a highly skilled tattoo artist specializing in the intricate and vibrant Japanese style of tattooing. His studio, located at 1819 Woodbridge Ave in Edison, NJ, operates on an appointment-only basis, ensuring that each client receives his undivided attention and a professionally tailored experience. To book a session with Mike, you can contact him directly through his Instagram handle @mike_riveley, or reach out to the studio @vvxtattoos to witness his expert craftsmanship firsthand.\nPrice: $\nCurrent location:",
     "updated_at": "2026-03-09"
-  },
-  {
-    "id": "amp_tattoo",
-    "name": "Mike Smith",
-    "location": {
-      "city": "Philadelphia",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amp_tattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
   },
   {
     "id": "ainguratattoo",
@@ -107097,6 +106761,29 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artbypops/thumb/004.webp"
     ],
     "updated_at": "2026-03-05"
+  },
+  {
+    "id": "andresilva.tattooer",
+    "name": "Porto Tattoo 🕸️ André Silva",
+    "location": {
+      "city": "Porto",
+      "country": "Portugal"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andresilva.tattooer/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresilva.tattooer/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "bombshellbodyworks",
@@ -109653,6 +109340,31 @@
     "updated_at": "2026-03-02"
   },
   {
+    "id": "americaninktattoocompany",
+    "name": "Shane",
+    "location": {
+      "city": "Fayetteville",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray",
+      "trashpolka",
+      "realism"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/americaninktattoocompany/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americaninktattoocompany/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "acidinkstattoo",
     "name": "Shane Rankin",
     "location": {
@@ -110494,31 +110206,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "amazingtattoohk",
-    "name": "Sunny",
-    "location": {
-      "city": "Yau Tsim Mong",
-      "country": "China"
-    },
-    "styles": [
-      "newschool",
-      "illustrative",
-      "anime"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/amazingtattoohk/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-03"
-  },
-  {
     "id": "_susannapaul",
     "name": "Susanna Paul",
     "location": {
@@ -110712,6 +110399,31 @@
     ],
     "bio": "Sydney Drew is renowned in Boise, Idaho for their exceptional skill in creating illustrative tattoos that are both intricate and captivating. With a keen eye for detail and a masterful approach to design, clients can expect to leave with a tattoo that truly embodies their vision. Renowned for their professionalism, Sydney ensures that every session is conducted with the utmost care and attention to quality.\nPrice: $\nCurrent location: Boise, Idaho, United States",
     "updated_at": "2026-03-07"
+  },
+  {
+    "id": "andrade_tattoo",
+    "name": "Sylvio Andrade / Tatuador",
+    "location": {
+      "city": "Jaboatão Dos Guararapes",
+      "country": "Brazil"
+    },
+    "styles": [
+      "fineline",
+      "illustrative",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andrade_tattoo/"
+    },
+    "tattoo_count": 21,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrade_tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "boutique_ink",
@@ -111032,31 +110744,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/__tattooforaweek/thumb/002.webp"
     ],
     "updated_at": "2026-03-09"
-  },
-  {
-    "id": "ami",
-    "name": "Tattooist Ami",
-    "location": {
-      "city": "Suncheon",
-      "country": "Italy"
-    },
-    "styles": [
-      "illustrative",
-      "minimalist",
-      "fineline"
-    ],
-    "links": {
-      "instagram": "https://instagram.com/ami"
-    },
-    "tattoo_count": 23,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ami/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-07"
   },
   {
     "id": "dal",
@@ -113849,6 +113536,51 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "andreykolbasin",
+    "name": "Андрей Колбасин",
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    "styles": [
+      "realism",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/andreykolbasin"
+    },
+    "tattoo_count": 1,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreykolbasin/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreykolbasin/thumb/001.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "andreichernovalov",
+    "name": "Андрей Черновалов",
+    "location": {
+      "city": "Brest",
+      "country": "Belarus"
+    },
+    "styles": [
+      "blackwork",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://instagram.com/andreichernovalov"
+    },
+    "tattoo_count": 31,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreichernovalov/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "botvichtattoo",
     "name": "Ботвич Николай",
     "location": {
@@ -113923,6 +113655,29 @@
     ],
     "bio": "Сандо Серьожев is a highly skilled tattoo artist based in Sofia, Bulgaria, specializing in realism and black&gray styles. As the owner of the Artanes Tattoo shop, his high level of professionalism is displayed not only in his intricate tattoo designs but also in his well-run business. Whether you're booking an appointment in Sofia or during his guest sessions in London and Idar Oberstein, you're guaranteed a top-notch service.\nPrice: $$\nCurrent location: Sofia, Bulgaria",
     "updated_at": "2026-03-05"
+  },
+  {
+    "id": "amos_tattooer",
+    "name": "Тату в Одессе",
+    "location": {
+      "city": "Odesa",
+      "country": "Ukraine"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amos_tattooer/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
   },
   {
     "id": "adri_maluquer",
@@ -114160,6 +113915,55 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "amp_tattoo",
+    "name": "⚙️ 𝗔𝗿𝘁 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻𝘀 ⚙️",
+    "location": {
+      "city": "Philadelphia",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amp_tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amp_tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "amaro_tattoos",
+    "name": "✧ AMARO ✧ ANIME NEOTRADITIONAL TATTOO",
+    "location": {
+      "city": "Bologna",
+      "country": "Italy"
+    },
+    "styles": [
+      "neotraditional",
+      "illustrative",
+      "newschool"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amaro_tattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "alexbaenstattoo",
     "name": "✧ 𝐀𝐋𝐄𝐗 𝐁𝐀𝐄𝐍𝐒 ✧ 𝐁𝐀𝐑𝐂𝐄𝐋𝐎𝐍𝐀 ✧",
     "location": {
@@ -114181,6 +113985,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexbaenstattoo/thumb/002.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexbaenstattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexbaenstattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "alvarolaratattoo",
+    "name": "✴️𝕬𝖑𝖛𝖆𝖗𝖔 𝕷𝖆𝖗𝖆",
+    "location": {
+      "city": "Popayan",
+      "country": "Colombia"
+    },
+    "styles": [
+      "black&gray",
+      "realism",
+      "neotraditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/alvarolaratattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
@@ -114468,6 +114297,31 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "ame__tattoo",
+    "name": "𝐀𝐌𝐄",
+    "location": {
+      "city": "Genoa",
+      "country": "Italy"
+    },
+    "styles": [
+      "traditional",
+      "neotraditional",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ame__tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ame__tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "alefrankensteinart",
     "name": "𝐀𝐥𝐞 𝐅𝐫𝐚𝐧𝐤𝐞𝐧𝐬𝐭𝐞𝐢𝐧 👩‍🎨",
     "location": {
@@ -114487,6 +114341,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alefrankensteinart/thumb/002.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alefrankensteinart/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alefrankensteinart/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "amazingtattoohk",
+    "name": "𝐀𝐦𝐚𝐳𝐢𝐧𝐠 @ 𝐒𝐮𝐧 𝐧𝐢𝐧𝐢",
+    "location": {
+      "city": "Yau Tsim Mong",
+      "country": "China"
+    },
+    "styles": [
+      "newschool",
+      "illustrative",
+      "anime"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/amazingtattoohk/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
@@ -114511,6 +114390,55 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tattooart/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ak_tattooart/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "alma_de_julio",
+    "name": "𝓙𝓾𝓵𝓲𝓸 𝓥𝓲𝓪𝓭𝓮𝓵",
+    "location": {
+      "city": "Valencia",
+      "country": "Spain"
+    },
+    "styles": [
+      "black&gray",
+      "watercolor",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/alma_de_julio/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alma_de_julio/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "anastasiagrichina",
+    "name": "𝔄𝔫𝔞𝔰𝔱𝔞𝔰𝔦𝔞 𝔊𝔯𝔦𝔠𝔥𝔦𝔫𝔞",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "styles": [
+      "sketch",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/anastasiagrichina/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anastasiagrichina/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
@@ -114580,6 +114508,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/002.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/allegramaeva/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "anagiltattoo",
+    "name": "𝔸𝕟𝕒 𝔾𝕚𝕝",
+    "location": {
+      "city": "Jerez De La Frontera",
+      "country": "Spain"
+    },
+    "styles": [
+      "dotwork",
+      "watercolor",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/anagiltattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anagiltattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
@@ -114719,6 +114672,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "andrearoseti_tattoo",
+    "name": "🇮🇹Andrea Roseti ITALY🇮🇹",
+    "location": {
+      "city": "Terni",
+      "country": "Italy"
+    },
+    "styles": [
+      "illustrative",
+      "fineline"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andrearoseti_tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
     "id": "adrian_kramsky",
     "name": "🌙KRAMS✨",
     "location": {
@@ -114783,6 +114760,29 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alabama.tattoo/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alabama.tattoo/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-09"
+  },
+  {
+    "id": "andrewclaysontattoo",
+    "name": "🔺️",
+    "location": {
+      "city": "Portland",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/andrewclaysontattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrewclaysontattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
   },
