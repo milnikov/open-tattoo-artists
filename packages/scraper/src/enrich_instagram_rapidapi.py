@@ -528,6 +528,56 @@ def enrich_one(
     }
 
 
+def enrich_one_skip_profile(
+    api_key: str,
+    username: str,
+    existing_data: dict,
+    endpoint_posts: str | None = None,
+    fetch_30_posts: bool = True,
+) -> dict:
+    """When artist already has follower_count: skip step 1 (profile API), only fetch 30 posts if >1000."""
+    existing_ig = existing_data.get("instagram_enriched") or {}
+    follower_count = existing_ig.get("follower_count")
+    if follower_count is None:
+        return None  # caller should do full enrich_one
+    try:
+        follower_count = int(follower_count)
+    except (TypeError, ValueError):
+        return None
+
+    user_data = {
+        "id": existing_ig.get("id"),
+        "pk": existing_ig.get("id"),
+        "full_name": existing_data.get("name"),
+        "follower_count": follower_count,
+        "following_count": existing_ig.get("following_count"),
+        "media_count": existing_ig.get("media_count"),
+        "profile_pic_url": existing_ig.get("profile_pic_url"),
+    }
+    following_list = existing_ig.get("following") or []
+
+    posts_30_urls = []
+    if fetch_30_posts and endpoint_posts and follower_count > 1000:
+        print(f"  [30posts] Fetching for @{username} (follower_count={follower_count}, skip profile) ...", file=sys.stderr)
+        posts_30_urls = fetch_up_to_30_post_image_urls(
+            api_key, username, endpoint=endpoint_posts
+        )
+        if posts_30_urls:
+            print(f"  [30posts] @{username}: got {len(posts_30_urls)} post URLs", file=sys.stderr)
+        else:
+            print(f"  [30posts] @{username}: 0 images", file=sys.stderr)
+        time.sleep(0.3)
+
+    return {
+        "username": username,
+        "user_data": user_data,
+        "user_posts": [],
+        "following": following_list,
+        "posts_30_urls": posts_30_urls,
+        "_raw_user_info": {},
+    }
+
+
 def _profile_pic_url(user_data: dict) -> str | None:
     if not user_data:
         return None
@@ -674,8 +724,8 @@ def build_instagram_enriched_and_meta(
             try:
                 from images import _process_image
                 from r2 import upload_image
-            except ImportError:
-                pass
+            except ImportError as e:
+                print(f"  [30posts] Skipping image upload (missing module): {e}", file=sys.stderr)
             else:
                 base = (public_url_base or "").rstrip("/")
                 for i, url in enumerate(posts_30_urls[:30], start=1):
@@ -864,18 +914,34 @@ def main():
                 r2_public_url = r2_cfg.get("public_url", "")
 
         for i, (idx, artist_id, username) in enumerate(todo):
-            print(f"[{i+1}/{len(todo)}] {artist_id} (@{username})")
-            enriched = enrich_one(
-                api_key,
-                username,
-                posts_count=args.posts,
-                endpoint_user_info=endpoint_user_info,
-                endpoint_following=endpoint_following,
-                endpoint_posts=endpoint_posts,
-                following_pagination_param=following_pagination_param,
-                skip_following=args.skip_following,
-                fetch_30_posts=not args.no_30_posts,
-            )
+            artist_path = data_artists / f"{artist_id}.json"
+            with open(artist_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+
+            existing_follower_count = (data.get("instagram_enriched") or {}).get("follower_count")
+            if existing_follower_count is not None:
+                print(f"[{i+1}/{len(todo)}] {artist_id} (@{username}) [skip profile, follower_count={existing_follower_count}]")
+                enriched = enrich_one_skip_profile(
+                    api_key,
+                    username,
+                    data,
+                    endpoint_posts=endpoint_posts,
+                    fetch_30_posts=not args.no_30_posts,
+                )
+            else:
+                print(f"[{i+1}/{len(todo)}] {artist_id} (@{username})")
+                enriched = enrich_one(
+                    api_key,
+                    username,
+                    posts_count=args.posts,
+                    endpoint_user_info=endpoint_user_info,
+                    endpoint_following=endpoint_following,
+                    endpoint_posts=endpoint_posts,
+                    following_pagination_param=following_pagination_param,
+                    skip_following=args.skip_following,
+                    fetch_30_posts=not args.no_30_posts,
+                )
+
             slim, name_override, updated_at, bio_append, new_tattoos_front = (
                 build_instagram_enriched_and_meta(
                     enriched,
@@ -886,9 +952,6 @@ def main():
                     skip_r2=args.no_r2,
                 )
             )
-            artist_path = data_artists / f"{artist_id}.json"
-            with open(artist_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
             data["updated_at"] = updated_at
             if name_override:
                 data["name"] = name_override
