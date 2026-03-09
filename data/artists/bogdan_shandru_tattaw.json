@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bogdan_shandru_tattaw",
-  "name": "Bogdan Shandru",
+  "name": "Bogdan Șandru Tattaw (Hassan)",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3025257572",
+    "follower_count": 674,
+    "following_count": 340,
+    "media_count": 448,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bogdan_shandru_tattaw/instagram/profile.jpg"
+  }
 }

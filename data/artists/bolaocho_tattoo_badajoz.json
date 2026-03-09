@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bolaocho_tattoo_badajoz",
-  "name": "Bolaocho Tattoo Badajoz",
+  "name": "Juan Pedro_ Bolaocho",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2320480462",
+    "follower_count": 1366,
+    "following_count": 803,
+    "media_count": 291,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bolaocho_tattoo_badajoz/instagram/profile.jpg"
+  }
 }

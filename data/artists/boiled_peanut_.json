@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "boiled_peanut_",
-  "name": "Boiled Peanut",
+  "name": "Kimber Fowler",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4579743071",
+    "follower_count": 28720,
+    "following_count": 4469,
+    "media_count": 413,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boiled_peanut_/instagram/profile.jpg"
+  }
 }

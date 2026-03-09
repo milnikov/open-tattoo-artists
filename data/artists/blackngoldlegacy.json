@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackngoldlegacy",
-  "name": "Black N Gold Legacy",
+  "name": "Black n' Gold Legacy",
   "location": {
     "city": "Norwich",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1447118218",
+    "follower_count": 12069,
+    "following_count": 6293,
+    "media_count": 3146,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackngoldlegacy/instagram/profile.jpg"
+  }
 }

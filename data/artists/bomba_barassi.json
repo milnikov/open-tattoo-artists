@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bomba_barassi",
-  "name": "Bomba Barassi",
+  "name": "Bomba Barassi Tatuador",
   "location": {
     "city": "Buenos Aires City",
     "country": "Argentina"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4105879984",
+    "follower_count": 20950,
+    "following_count": 2429,
+    "media_count": 430,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bomba_barassi/instagram/profile.jpg"
+  }
 }

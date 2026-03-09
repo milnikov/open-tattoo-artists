@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bloody_blue_tattoo",
-  "name": "Jan Kučera",
+  "name": "Bloody Blue Tattoo",
   "location": {
     "city": "Prague",
     "country": "Czech Republic"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "6898782709",
+    "follower_count": 3615,
+    "following_count": 180,
+    "media_count": 978,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bloody_blue_tattoo/instagram/profile.jpg"
+  }
 }

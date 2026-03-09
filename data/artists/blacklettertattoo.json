@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blacklettertattoo",
-  "name": "Shaun BLTC",
+  "name": "Black Letter Tattoo Company | Gloucester, UK",
   "location": {
     "city": "Gloucester",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "452590252",
+    "follower_count": 14248,
+    "following_count": 67,
+    "media_count": 718,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacklettertattoo/instagram/profile.jpg"
+  }
 }

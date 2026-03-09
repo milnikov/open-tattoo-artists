@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackmarkettattooco",
-  "name": "Black Market Tattoo Co",
+  "name": "BlackMarket Tattoo Co.",
   "location": {
     "city": "Gold Coast",
     "country": "Australia"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2114091500",
+    "follower_count": 38329,
+    "following_count": 874,
+    "media_count": 5507,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackmarkettattooco/instagram/profile.jpg"
+  }
 }

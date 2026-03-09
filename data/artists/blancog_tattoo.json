@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blancog_tattoo",
-  "name": "Gonzalo Blanco",
+  "name": "• Nerea Blanco •",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "12100088433",
+    "follower_count": 5457,
+    "following_count": 1260,
+    "media_count": 188,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blancog_tattoo/instagram/profile.jpg"
+  }
 }

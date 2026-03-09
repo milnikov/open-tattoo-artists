@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bohuntattoo",
-  "name": "Bohuntattoo",
+  "name": "Bo Hun",
   "location": {
     "city": "Wroclaw",
     "country": "Poland"
@@ -557,5 +557,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "54457361",
+    "follower_count": 5965,
+    "following_count": 993,
+    "media_count": 147,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bohuntattoo/instagram/profile.jpg"
+  }
 }

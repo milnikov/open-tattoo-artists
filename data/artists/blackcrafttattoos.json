@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackcrafttattoos",
-  "name": "Black Craft Tattoo Collective",
+  "name": "Miami Tattoo Studio • Black Craft Tattoo Collective",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "8452564371",
+    "follower_count": 9538,
+    "following_count": 3930,
+    "media_count": 862,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackcrafttattoos/instagram/profile.jpg"
+  }
 }

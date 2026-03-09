@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bone_etcher",
-  "name": "Bone Etcher",
+  "name": "Bone Etcher ( Lee Denham )",
   "location": {
     "city": "Doncaster",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "31167433",
+    "follower_count": 5765,
+    "following_count": 1113,
+    "media_count": 1099,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bone_etcher/instagram/profile.jpg"
+  }
 }

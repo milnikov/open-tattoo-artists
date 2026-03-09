@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blanquitatattoo",
-  "name": "Blanquita",
+  "name": "ᴋ   ɪ   ᴍ      ꜰ   ᴄ   ʜ   ʀ",
   "location": {
     "city": "Repentigny",
     "country": "Canada"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "45097071338",
+    "follower_count": 14102,
+    "following_count": 351,
+    "media_count": 309,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blanquitatattoo/instagram/profile.jpg"
+  }
 }

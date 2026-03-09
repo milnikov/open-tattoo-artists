@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blkngray",
-  "name": "Cachetes",
+  "name": "Antonio",
   "location": {
     "city": "Madison",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "34033386",
+    "follower_count": 8201,
+    "following_count": 2674,
+    "media_count": 849,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkngray/instagram/profile.jpg"
+  }
 }

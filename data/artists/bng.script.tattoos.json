@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bng.script.tattoos",
-  "name": "BNG Script Tattoos",
+  "name": "I•See•The•World•In•Black&Grey",
   "location": {
     "city": "Folsom",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1533055248",
+    "follower_count": 22470,
+    "following_count": 2051,
+    "media_count": 618,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bng.script.tattoos/instagram/profile.jpg"
+  }
 }

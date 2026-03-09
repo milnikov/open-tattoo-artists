@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bold_n_solid",
-  "name": "Bold'n'Solid",
+  "name": "BOLD'N'SOLID Tattoo Göttingen",
   "location": {
     "city": "Göttingen",
     "country": "Germany"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "13449570",
+    "follower_count": 2707,
+    "following_count": 914,
+    "media_count": 921,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bold_n_solid/instagram/profile.jpg"
+  }
 }

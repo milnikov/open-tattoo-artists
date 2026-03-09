@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bobby_serna",
-  "name": "Bobby Serna",
+  "name": "B Serna",
   "location": {
     "city": "Covina",
     "country": "United States"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "23465542",
+    "follower_count": 67345,
+    "following_count": 2142,
+    "media_count": 387,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bobby_serna/instagram/profile.jpg"
+  }
 }

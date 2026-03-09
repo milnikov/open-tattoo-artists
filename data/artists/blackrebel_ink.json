@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackrebel_ink",
-  "name": "Black Rebel",
+  "name": "𝘉𝘭𝘢𝘤𝘬 𝘙𝘦𝘣𝘦𝘭 | 𝘍𝘪𝘯𝘦 𝘭𝘪𝘯𝘦 𝘢𝘯𝘥 𝘔𝘪𝘤𝘳𝘰 𝘛𝘢𝘵𝘵𝘰𝘰𝘴 💖✨",
   "location": {
     "city": "Naples",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "497049962",
+    "follower_count": 21361,
+    "following_count": 741,
+    "media_count": 143,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackrebel_ink/instagram/profile.jpg"
+  }
 }

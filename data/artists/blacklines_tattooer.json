@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blacklines_tattooer",
-  "name": "Li Blacklines",
+  "name": "Blacklines Tattooer | Liliana Azevedo",
   "location": {
     "city": "Porto",
     "country": "Portugal"
@@ -535,5 +535,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2230648606",
+    "follower_count": 9734,
+    "following_count": 776,
+    "media_count": 224,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacklines_tattooer/instagram/profile.jpg"
+  }
 }

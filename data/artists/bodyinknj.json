@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bodyinknj",
-  "name": "Body Ink",
+  "name": "Body Ink - Tattoo and Piercing Studio",
   "location": {
     "city": "Harrison",
     "country": "United States"
@@ -89,5 +89,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1463883684",
+    "follower_count": 13460,
+    "following_count": 7235,
+    "media_count": 1188,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyinknj/instagram/profile.jpg"
+  }
 }

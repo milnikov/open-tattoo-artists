@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackraintattoo",
-  "name": "Alena",
+  "name": "Alyona Tattoo Bucharest",
   "location": {
     "city": "Odesa",
     "country": "Ukraine"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5416714977",
+    "follower_count": 1472,
+    "following_count": 1707,
+    "media_count": 235,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackraintattoo/instagram/profile.jpg"
+  }
 }

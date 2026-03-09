@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bonnevilletattoo",
-  "name": "Jerry Roberts",
+  "name": "Bonneville Tattoo | Utah Tattoo Shop",
   "location": {
     "city": "South Jordan",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3671476913",
+    "follower_count": 2837,
+    "following_count": 242,
+    "media_count": 365,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bonnevilletattoo/instagram/profile.jpg"
+  }
 }

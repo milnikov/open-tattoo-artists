@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blacknimbustattoo",
-  "name": "Marcos da Silva",
+  "name": "BLACK NIMBUS TATTOO ®",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "12421068139",
+    "follower_count": 120764,
+    "following_count": 581,
+    "media_count": 1293,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacknimbustattoo/instagram/profile.jpg"
+  }
 }

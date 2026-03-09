@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackstone_tattoo",
-  "name": "Ciro Belushi",
+  "name": "Black Stone Tattoo",
   "location": {
     "city": "Torre Del Greco",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4240472427",
+    "follower_count": 2251,
+    "following_count": 2535,
+    "media_count": 442,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackstone_tattoo/instagram/profile.jpg"
+  }
 }

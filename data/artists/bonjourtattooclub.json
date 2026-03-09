@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bonjourtattooclub",
-  "name": "Jean Andre",
+  "name": "Bon Jour Tattoo Club",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "6904272770",
+    "follower_count": 69767,
+    "following_count": 965,
+    "media_count": 1686,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bonjourtattooclub/instagram/profile.jpg"
+  }
 }
