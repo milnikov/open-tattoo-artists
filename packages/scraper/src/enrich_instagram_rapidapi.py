@@ -29,8 +29,8 @@ from _repo_root import repo_path
 
 # Default endpoint paths (override in config.yaml if your subscription uses different paths)
 BASE_URL = "https://instagram-scraper-stable-api.p.rapidapi.com"
-DEFAULT_ENDPOINT_USER_INFO = "get_ig_user_info.php"
-DEFAULT_ENDPOINT_FOLLOWING = "get_ig_user_following.php"
+DEFAULT_ENDPOINT_USER_INFO = "ig_get_fb_profile_hover.php"
+DEFAULT_ENDPOINT_FOLLOWING = "get_ig_user_followers_v2.php"
 DEFAULT_ENDPOINT_POSTS = "get_ig_user_posts.php"
 
 DEFAULT_HEADERS = {
