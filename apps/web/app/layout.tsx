@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter, Spectral } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
@@ -16,6 +16,14 @@ const spectral = Spectral({
 export const metadata: Metadata = {
   title: "Open Tattoo Artists",
   description: "Open-source tattoo artist directory",
+};
+
+/** Prevents iOS from zooming on input focus; allows small font in form fields. */
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+  userScalable: false,
 };
 
 export default function RootLayout({
