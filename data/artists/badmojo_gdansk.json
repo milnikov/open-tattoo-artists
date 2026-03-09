@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "badmojo_gdansk",
-  "name": "Bad Mojo Tattoo Gdańsk",
+  "name": "Tattoo & piercing Gdańsk,Wrzeszcz| studio tatuażu Trójmiasto",
   "location": {
     "city": "Gdansk",
     "country": "Poland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4147152982",
+    "follower_count": 12838,
+    "following_count": 1613,
+    "media_count": 2134,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/badmojo_gdansk/instagram/profile.jpg"
+  }
 }

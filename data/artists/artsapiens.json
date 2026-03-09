@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artsapiens",
-  "name": "Carlinhos Sapiens",
+  "name": "Carlinhos Sapiens | Tatuador Realista",
   "location": {
     "city": "Recife",
     "country": "Brazil"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "242396474",
+    "follower_count": 13321,
+    "following_count": 5498,
+    "media_count": 952,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artsapiens/instagram/profile.jpg"
+  }
 }

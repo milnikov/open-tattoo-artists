@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atlanticotattoo",
-  "name": "Atlantico Tattoo",
+  "name": "Atlántico Tattoo",
   "location": {
     "city": "A Coruña",
     "country": "Spain"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1365438007",
+    "follower_count": 7385,
+    "following_count": 4975,
+    "media_count": 491,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atlanticotattoo/instagram/profile.jpg"
+  }
 }

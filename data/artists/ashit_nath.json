@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ashit_nath",
-  "name": "Ashit Nath",
+  "name": "ashit nath",
   "location": {
     "city": "Rajarhat",
     "country": "India"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2068534063",
+    "follower_count": 998,
+    "following_count": 1383,
+    "media_count": 439,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ashit_nath/instagram/profile.jpg"
+  }
 }

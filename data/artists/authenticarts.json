@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "authenticarts",
-  "name": "Authentic Arts",
+  "name": "𝙰𝚞𝚝𝚑𝚎𝚗𝚝𝚒𝚌 𝙰𝚛𝚝𝚜 ⓉⒶⓉⓉⓄⓄ",
   "location": {
     "city": "Smithtown",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "201557950",
+    "follower_count": 16717,
+    "following_count": 1626,
+    "media_count": 1857,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/authenticarts/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "austin_nesnah",
-  "name": "Austin Nesnah",
+  "name": "Austin Nesnah Traditional Tattoos",
   "location": {
     "city": "Haslet",
     "country": "United States"
@@ -460,5 +460,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "47915859",
+    "follower_count": 21742,
+    "following_count": 1987,
+    "media_count": 97,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/austin_nesnah/instagram/profile.jpg"
+  }
 }

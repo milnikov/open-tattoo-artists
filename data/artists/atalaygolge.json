@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atalaygolge",
-  "name": "Atalay Gölge",
+  "name": "Murat Atalay",
   "location": {
     "city": "Izmir",
     "country": "Turkey"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "534507426",
+    "follower_count": 47012,
+    "following_count": 1526,
+    "media_count": 398,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atalaygolge/instagram/profile.jpg"
+  }
 }

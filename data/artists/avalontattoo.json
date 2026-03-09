@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "avalontattoo",
-  "name": "Avalon Westcott",
+  "name": "Avalon Todaro🐓",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "9544628",
+    "follower_count": 58255,
+    "following_count": 1778,
+    "media_count": 2220,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/avalontattoo/instagram/profile.jpg"
+  }
 }

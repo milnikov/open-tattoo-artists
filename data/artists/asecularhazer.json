@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "asecularhazer",
-  "name": "Morgan Hazer",
+  "name": "Morgan Hazer Tattoos",
   "location": {
     "city": "Dubuque",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "50588649",
+    "follower_count": 1565,
+    "following_count": 2293,
+    "media_count": 477,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/asecularhazer/instagram/profile.jpg"
+  }
 }

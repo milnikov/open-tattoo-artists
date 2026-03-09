@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artofwarroy",
-  "name": "Chrysand Tattoos",
+  "name": "chrys @art of war tattoo",
   "location": {
     "city": "Roy",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1441376628",
+    "follower_count": 15634,
+    "following_count": 743,
+    "media_count": 3270,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artofwarroy/instagram/profile.jpg"
+  }
 }

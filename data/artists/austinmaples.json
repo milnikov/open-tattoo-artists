@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "austinmaples",
-  "name": "Austin Maples",
+  "name": "𝖆𝖚𝖘𝖙𝖎𝖓 𝖒𝖆𝖕𝖑𝖊𝖘",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Idle Hand Tattoo San Francisco"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Idle Hand Tattoo San Francisco",
+  "instagram_enriched": {
+    "id": "5203299",
+    "follower_count": 147643,
+    "following_count": 1068,
+    "media_count": 460,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/austinmaples/instagram/profile.jpg"
+  }
 }

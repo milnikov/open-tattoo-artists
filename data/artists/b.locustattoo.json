@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "b.locustattoo",
-  "name": "B Locus Tattoo",
+  "name": "Victor • Beicim • B.locus",
   "location": {
     "city": "Goiânia",
     "country": "Brazil"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1594135204",
+    "follower_count": 7823,
+    "following_count": 1189,
+    "media_count": 330,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/b.locustattoo/instagram/profile.jpg"
+  }
 }

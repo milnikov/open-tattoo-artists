@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "barcelonatattooexpo",
-  "name": "Barcelona Tattoo Expo",
+  "name": "barcelonatattooexpo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "382598281",
+    "follower_count": 59033,
+    "following_count": 3198,
+    "media_count": 5585,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/barcelonatattooexpo/instagram/profile.jpg"
+  }
 }

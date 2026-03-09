@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "assassin_tattoo_nyc",
-  "name": "Assassin Tattoo NYC",
+  "name": "Mingqi Sun",
   "location": {
     "city": "Flushing",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "295179084",
+    "follower_count": 47970,
+    "following_count": 6183,
+    "media_count": 2025,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/assassin_tattoo_nyc/instagram/profile.jpg"
+  }
 }

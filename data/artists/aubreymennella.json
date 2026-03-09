@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aubreymennella",
-  "name": "Aubrey Mennella",
+  "name": "𝐀𝐮𝐛𝐫𝐞𝐲 𝐌𝐞𝐧𝐧𝐞𝐥𝐥𝐚 ᵀᴬᵀᵀᴼᴼᴵˢᵀ",
   "location": {
     "city": "North Conway",
     "country": "United States"
@@ -185,5 +185,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "556229115",
+    "follower_count": 7802,
+    "following_count": 782,
+    "media_count": 233,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aubreymennella/instagram/profile.jpg"
+  }
 }

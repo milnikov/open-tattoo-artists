@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ashleyluka",
-  "name": "Ashley Luka",
+  "name": "Ashley Luka 🌱",
   "location": {
     "city": "Birmingham",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1364917",
+    "follower_count": 42281,
+    "following_count": 1557,
+    "media_count": 3317,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ashleyluka/instagram/profile.jpg"
+  }
 }

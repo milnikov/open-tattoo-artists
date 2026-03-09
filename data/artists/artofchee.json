@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artofchee",
-  "name": "Tone Chee",
+  "name": "TONE CHEE",
   "location": {
     "city": "Phoenix",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "202905899",
+    "follower_count": 10251,
+    "following_count": 5077,
+    "media_count": 3211,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artofchee/instagram/profile.jpg"
+  }
 }

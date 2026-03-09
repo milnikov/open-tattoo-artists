@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "awangardtattoo",
-  "name": "Awangard Tattoo Legnica",
+  "name": "Awangard Tattoo",
   "location": {
     "city": "Legnica",
     "country": "Poland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "6107757837",
+    "follower_count": 1716,
+    "following_count": 313,
+    "media_count": 755,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/awangardtattoo/instagram/profile.jpg"
+  }
 }

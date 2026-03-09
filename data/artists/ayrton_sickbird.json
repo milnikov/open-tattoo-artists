@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ayrton_sickbird",
-  "name": "Ayrton Sickbird",
+  "name": "Ayrton Sickbird Tatouages",
   "location": {
     "city": "Bordeaux",
     "country": "France"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "309251445",
+    "follower_count": 13657,
+    "following_count": 1359,
+    "media_count": 472,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ayrton_sickbird/instagram/profile.jpg"
+  }
 }

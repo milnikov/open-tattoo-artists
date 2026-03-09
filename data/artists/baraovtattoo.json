@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "baraovtattoo",
-  "name": "Barão David",
+  "name": "𝔅𝔞𝔯𝔞𝔬 𝔇𝔞𝔳𝔦𝔡 ⚡️ 𝔏𝔢𝔦𝔯𝔦𝔞 𝔈𝔩𝔢𝔠𝔱𝔯𝔦𝔠 𝔗𝔞𝔱𝔱𝔬𝔬",
   "location": {
     "city": "Leiria",
     "country": "Portugal"
@@ -497,5 +497,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1421532948",
+    "follower_count": 5801,
+    "following_count": 793,
+    "media_count": 686,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/baraovtattoo/instagram/profile.jpg"
+  }
 }

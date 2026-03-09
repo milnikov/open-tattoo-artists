@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artofsteve",
-  "name": "Steve",
+  "name": "BKS Tattoos 💉🇨🇦",
   "location": {
     "city": "Markham",
     "country": "Canada"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "39810513",
+    "follower_count": 24564,
+    "following_count": 523,
+    "media_count": 895,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artofsteve/instagram/profile.jpg"
+  }
 }

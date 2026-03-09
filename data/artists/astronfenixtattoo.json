@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "astronfenixtattoo",
-  "name": "Danilo Oliveira",
+  "name": "Dan Fênix",
   "location": {
     "city": "Juiz De Fora",
     "country": "Brazil"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2871919916",
+    "follower_count": 8539,
+    "following_count": 4545,
+    "media_count": 1307,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/astronfenixtattoo/instagram/profile.jpg"
+  }
 }

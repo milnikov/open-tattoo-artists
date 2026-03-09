@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aune.tattoo",
-  "name": "Aga Kot",
+  "name": "✷ 𝕒𝕘𝕒 𝕜𝕠𝕥 𝕥𝕒𝕥𝕥𝕠𝕠 ✷",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "348917461",
+    "follower_count": 15271,
+    "following_count": 2008,
+    "media_count": 798,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aune.tattoo/instagram/profile.jpg"
+  }
 }

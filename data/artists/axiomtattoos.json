@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "axiomtattoos",
-  "name": "Axiom Tattoo",
+  "name": "Axiom Tattoo San Diego",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "8597380842",
+    "follower_count": 34949,
+    "following_count": 778,
+    "media_count": 1023,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/axiomtattoos/instagram/profile.jpg"
+  }
 }
