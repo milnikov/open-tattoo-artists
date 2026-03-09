@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "absolut_ink_tattoo",
-  "name": "Skin Korpus",
+  "name": "Absolut Ink Tattoo",
   "location": {
     "city": "Luxembourg",
     "country": "Luxembourg"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1805732616",
+    "follower_count": 2512,
+    "following_count": 710,
+    "media_count": 505,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/absolut_ink_tattoo/instagram/profile.jpg"
+  }
 }

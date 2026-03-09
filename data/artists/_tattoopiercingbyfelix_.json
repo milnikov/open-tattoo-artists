@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_tattoopiercingbyfelix_",
-  "name": "Felix",
+  "name": "Tattoo & Piercing by Felix",
   "location": {
     "city": "Augsburg",
     "country": "Germany"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2142676173",
+    "follower_count": 7298,
+    "following_count": 2860,
+    "media_count": 124,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_tattoopiercingbyfelix_/instagram/profile.jpg"
+  }
 }

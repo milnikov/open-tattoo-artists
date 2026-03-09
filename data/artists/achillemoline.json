@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "achillemoline",
-  "name": "Achille Molinè",
+  "name": "Molinè Achille",
   "location": {
     "city": "Lovere",
     "country": "Italy"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Area Industriale Tattoo Lovere"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Area Industriale Tattoo Lovere",
+  "instagram_enriched": {
+    "id": "1544033269",
+    "follower_count": 21418,
+    "following_count": 483,
+    "media_count": 125,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/achillemoline/instagram/profile.jpg"
+  }
 }

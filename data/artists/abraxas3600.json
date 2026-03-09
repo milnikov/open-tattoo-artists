@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "abraxas3600",
-  "name": "Abraxas",
+  "name": "ABRAXAS tattoo & piercing",
   "location": {
     "city": "Genk",
     "country": "Belgium"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4084382205",
+    "follower_count": 5487,
+    "following_count": 1315,
+    "media_count": 2428,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abraxas3600/instagram/profile.jpg"
+  }
 }

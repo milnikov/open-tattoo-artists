@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adampeerstattoo",
-  "name": "Adam Peer",
+  "name": "𝗔𝗗𝗔𝗠 𝗣𝗘𝗘𝗥𝗦 𝗧𝗔𝗧𝗧𝗢𝗢 𝗔𝗥𝗧𝗜𝗦𝗧",
   "location": {
     "city": "Willenhall",
     "country": "United Kingdom"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "847726814",
+    "follower_count": 19010,
+    "following_count": 1386,
+    "media_count": 267,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adampeerstattoo/instagram/profile.jpg"
+  }
 }

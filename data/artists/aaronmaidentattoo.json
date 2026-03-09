@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aaronmaidentattoo",
-  "name": "Aaron Maiden",
+  "name": "Tatuador realismo Aaron Martínez",
   "location": {
     "city": "Valladolid",
     "country": "Spain"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1269760014",
+    "follower_count": 22956,
+    "following_count": 606,
+    "media_count": 314,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aaronmaidentattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "abel_rdt",
-  "name": "Abel Sanchez",
+  "name": "Abel Sanchez | South Houston Tattoo Artist",
   "location": {
     "city": "Houston",
     "country": "United States"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3141620",
+    "follower_count": 27146,
+    "following_count": 1370,
+    "media_count": 1026,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abel_rdt/instagram/profile.jpg"
+  }
 }

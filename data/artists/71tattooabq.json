@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "71tattooabq",
-  "name": "Marty Williams",
+  "name": "71 Tattoo",
   "location": {
     "city": "Albuquerque",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2032924504",
+    "follower_count": 2482,
+    "following_count": 652,
+    "media_count": 1270,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/71tattooabq/instagram/profile.jpg"
+  }
 }

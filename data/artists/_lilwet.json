@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_lilwet",
-  "name": "Lil Wet",
+  "name": "🇨🇳",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3299888780",
+    "follower_count": 2356,
+    "following_count": 160,
+    "media_count": 400,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_lilwet/instagram/profile.jpg"
+  }
 }

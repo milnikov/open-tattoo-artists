@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "acmetim",
-  "name": "Tim Forbus",
+  "name": "Poopoocanoe.com",
   "location": {
     "city": "Staunton",
     "country": "United States"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2018057",
+    "follower_count": 3112,
+    "following_count": 819,
+    "media_count": 1101,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acmetim/instagram/profile.jpg"
+  }
 }

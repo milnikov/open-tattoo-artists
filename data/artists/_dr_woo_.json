@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_dr_woo_",
-  "name": "Doctor Woo",
+  "name": "Doc Woo",
   "location": {
     "city": "Arzachena",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4818967",
+    "follower_count": 1665451,
+    "following_count": 3330,
+    "media_count": 5489,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_dr_woo_/instagram/profile.jpg"
+  }
 }

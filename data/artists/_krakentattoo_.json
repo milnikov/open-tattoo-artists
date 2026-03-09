@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_krakentattoo_",
-  "name": "Kraken Tattoo",
+  "name": "Diego Alvarez",
   "location": {
     "city": "Valdés",
     "country": "Spain"
@@ -40,5 +40,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "188102289",
+    "follower_count": 19060,
+    "following_count": 1364,
+    "media_count": 575,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_krakentattoo_/instagram/profile.jpg"
+  }
 }

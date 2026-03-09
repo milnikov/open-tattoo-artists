@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_billy_blue_tattoo",
-  "name": "Billy Blue",
+  "name": "BILLY BLUE",
   "location": {
     "city": "Antwerp",
     "country": "Belgium"
@@ -220,5 +220,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2911060829",
+    "follower_count": 2117,
+    "following_count": 1052,
+    "media_count": 223,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_billy_blue_tattoo/instagram/profile.jpg"
+  }
 }

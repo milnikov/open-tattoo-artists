@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_yap9_",
-  "name": "Yap9",
+  "name": "❈ 𝕐𝔸ℙ𝟡 𝕋𝔸𝕋𝕋𝕆𝕆 ❈",
   "location": {
     "city": "Toulouse",
     "country": "France"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "566247419",
+    "follower_count": 9113,
+    "following_count": 2075,
+    "media_count": 974,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_yap9_/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "abis.one",
-  "name": "Abyss",
+  "name": "Fourty8.15",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "212360081",
+    "follower_count": 66401,
+    "following_count": 782,
+    "media_count": 710,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abis.one/instagram/profile.jpg"
+  }
 }

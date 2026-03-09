@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adamobrien_art",
-  "name": "Adam OBrien",
+  "name": "Adam OBrien • Tattoo Artist • ATX",
   "location": {
     "city": "Austin",
     "country": "United States"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3478159045",
+    "follower_count": 17671,
+    "following_count": 1075,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamobrien_art/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adaorosa",
-  "name": "Adão Rosa",
+  "name": "Adao Rosa",
   "location": {
     "city": "Santos",
     "country": "Unknown"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Adão is one of the most famous tattoo artists in Brazil. read more"
+  "updated_at": "2026-03-09",
+  "bio": "Adão is one of the most famous tattoo artists in Brazil. read more",
+  "instagram_enriched": {
+    "id": "291704884",
+    "follower_count": 285,
+    "following_count": 6678,
+    "media_count": 145,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adaorosa/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "above_all_tattoo",
-  "name": "Above All Tattoo Ⓡ",
+  "name": "𝗔𝗕𝗢𝗩𝗘 𝗔𝗟𝗟 𝗧𝗔𝗧𝗧𝗢𝗢",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "28224839",
+    "follower_count": 12102,
+    "following_count": 205,
+    "media_count": 91,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/above_all_tattoo/instagram/profile.jpg"
+  }
 }

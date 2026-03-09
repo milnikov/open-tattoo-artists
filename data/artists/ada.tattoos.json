@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ada.tattoos",
-  "name": "Adrianna",
+  "name": "Studio Tatuażu KRAKÓW",
   "location": {
     "city": "Cracow",
     "country": "Poland"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "4464886831",
+    "follower_count": 2958,
+    "following_count": 644,
+    "media_count": 610,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ada.tattoos/instagram/profile.jpg"
+  }
 }

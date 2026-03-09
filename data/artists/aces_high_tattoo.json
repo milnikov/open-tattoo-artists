@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aces_high_tattoo",
-  "name": "Aces High Tattoo",
+  "name": "♠️Aces High Tattoo♠️",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "7107059265",
+    "follower_count": 7033,
+    "following_count": 145,
+    "media_count": 800,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aces_high_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "893tattoos",
-  "name": "893 Tattoos",
+  "name": "𝔗𝔞𝔱𝔱𝔬𝔬𝔰 𝔟𝔶 𝔊𝔦𝔩",
   "location": {
     "city": "Odivelas",
     "country": "Portugal"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5346410895",
+    "follower_count": 1876,
+    "following_count": 411,
+    "media_count": 612,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/893tattoos/instagram/profile.jpg"
+  }
 }

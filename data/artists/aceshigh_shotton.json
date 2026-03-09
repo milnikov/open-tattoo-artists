@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aceshigh_shotton",
-  "name": "Suicycocharlie",
+  "name": "🤍𝕬𝖈𝖊𝖘 𝕳𝖎𝖌𝖍 𝕱𝖆𝖒𝖎𝖑𝖞🤍",
   "location": {
     "city": "Deeside",
     "country": "United Kingdom"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "7846828",
+    "follower_count": 1629,
+    "following_count": 4257,
+    "media_count": 4982,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aceshigh_shotton/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_warlocktattoo_",
-  "name": "Victor Marquez",
+  "name": "Víctor Márquez",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2977814201",
+    "follower_count": 446,
+    "following_count": 179,
+    "media_count": 77,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_warlocktattoo_/instagram/profile.jpg"
+  }
 }

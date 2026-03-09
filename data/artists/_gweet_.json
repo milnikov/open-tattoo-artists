@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_gweet_",
-  "name": "Zac Fawcett",
+  "name": "Gweet",
   "location": {
     "city": "Wilmington",
     "country": "United States"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "12718700",
+    "follower_count": 6990,
+    "following_count": 83,
+    "media_count": 170,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_gweet_/instagram/profile.jpg"
+  }
 }

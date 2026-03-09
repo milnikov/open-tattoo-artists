@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "a.ink.tattoo",
-  "name": "Aileen Ink Tattoo",
+  "name": "Seattle tattoo shop a ink tattoo",
   "location": {
     "city": "Seattle",
     "country": "United States"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "29299391724",
+    "follower_count": 17817,
+    "following_count": 56,
+    "media_count": 2770,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a.ink.tattoo/instagram/profile.jpg"
+  }
 }

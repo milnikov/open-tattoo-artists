@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "acos_tattoo",
-  "name": "A Cos",
+  "name": "Antonio Cos \\ A cos",
   "location": {
     "city": "Murcia",
     "country": "Spain"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1621426235",
+    "follower_count": 11691,
+    "following_count": 1221,
+    "media_count": 994,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/acos_tattoo/instagram/profile.jpg"
+  }
 }

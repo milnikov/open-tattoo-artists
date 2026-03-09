@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aber_tattooer",
-  "name": "Achilleas Aber",
+  "name": "❋ ACHILLEAS ABER ❋",
   "location": {
     "city": "Kallithea",
     "country": "Greece"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-01"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2006599172",
+    "follower_count": 26923,
+    "following_count": 1304,
+    "media_count": 619,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aber_tattooer/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "_barnhill_",
-  "name": "Michael Barnhill",
+  "name": "Michael Barnhill Tattoo Artist",
   "location": {
     "city": "Charlotte",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-02"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1414946227",
+    "follower_count": 4325,
+    "following_count": 1769,
+    "media_count": 435,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_barnhill_/instagram/profile.jpg"
+  }
 }
