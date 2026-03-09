@@ -2,8 +2,8 @@ import Link from "next/link";
 import { SiteFooter } from "@/components/site-footer";
 
 export const metadata = {
-  title: "Terms of Service — Open Tattoo Artists",
-  description: "Terms of use for the Open Tattoo Artists directory.",
+  title: "Terms of Service — thetattoo.world",
+  description: "Terms of use for thetattoo.world directory.",
 };
 
 export default function TermsPage() {
@@ -30,7 +30,7 @@ export default function TermsPage() {
               Acceptance
             </h2>
             <p>
-              By using Open Tattoo Artists (“the site”), you agree to these
+              By using thetattoo.world (“the site”), you agree to these
               terms. If you do not agree, please do not use the site.
             </p>
           </section>
@@ -40,7 +40,7 @@ export default function TermsPage() {
               What the site is
             </h2>
             <p>
-              Open Tattoo Artists is a free, open-source directory of tattoo
+              thetattoo.world is a free, open-source directory of tattoo
               artists and their work. It is built for discovery, research, and
               community contribution. The catalogue data (artist metadata) is
               open and versioned in a public repository; images are hosted for

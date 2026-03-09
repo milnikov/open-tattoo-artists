@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="flex flex-col gap-2 text-xs text-muted-foreground w-full max-w-md md:max-w-none">
         <div className="max-w-[400px]">
           <p>
-            Open Tattoo Artists is a free, open-source index of tattoo artists —
+            thetattoo.world is a free, open-source index of tattoo artists —
             built for discovery, research, and community contribution.
           </p>
         </div>

@@ -2,7 +2,7 @@ import Link from "next/link";
 import { SiteFooter } from "@/components/site-footer";
 
 export const metadata = {
-  title: "Privacy Policy — Open Tattoo Artists",
+  title: "Privacy Policy — thetattoo.world",
   description: "What data we collect and where it is stored.",
 };
 
@@ -28,7 +28,7 @@ export default function PrivacyPage() {
               Overview
             </h2>
             <p>
-              Open Tattoo Artists is an open-source tattoo artist directory. We
+              thetattoo.world is an open-source tattoo artist directory. We
               minimise the data we collect and keep catalogue data (artist
               names, locations, styles, links) open and public. Your personal
               data is stored only when you use optional features (sign-in,

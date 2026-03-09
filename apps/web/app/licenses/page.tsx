@@ -2,8 +2,8 @@ import Link from "next/link";
 import { SiteFooter } from "@/components/site-footer";
 
 export const metadata = {
-  title: "Licenses — Open Tattoo Artists",
-  description: "Code, data, and image licenses for the Open Tattoo Artists directory.",
+  title: "Licenses — thetattoo.world",
+  description: "Code, data, and image licenses for thetattoo.world directory.",
 };
 
 export default function LicensesPage() {
@@ -70,7 +70,7 @@ export default function LicensesPage() {
             </ul>
             <p className="mb-2">
               Under the following term: you must give appropriate credit to
-              “Open Tattoo Artists Directory”, provide a link to the project,
+              thetattoo.world, provide a link to the project,
               and indicate if changes were made.
             </p>
             <p>
