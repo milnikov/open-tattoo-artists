@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "angelo_nicolella",
-  "name": "Angelo Nicolella",
+  "name": "Angelo  Nicolella",
   "location": {
     "city": "Giugliano In Campania",
     "country": "Italy"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "28267600",
+    "follower_count": 70040,
+    "following_count": 695,
+    "media_count": 1404,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/angelo_nicolella/instagram/profile.jpg"
+  }
 }

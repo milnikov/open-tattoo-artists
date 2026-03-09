@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andybeswick",
-  "name": "Andy Beswick",
+  "name": "Andy Beswick T/L",
   "location": {
     "city": "Bend",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "210179838",
+    "follower_count": 6971,
+    "following_count": 1135,
+    "media_count": 219,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andybeswick/instagram/profile.jpg"
+  }
 }

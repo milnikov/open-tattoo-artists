@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anthriller_montana",
-  "name": "Anthony Thriller",
+  "name": "ANTHRILLER / NYC TATTOO ARTIST",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -304,5 +304,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3147976203",
+    "follower_count": 51880,
+    "following_count": 1064,
+    "media_count": 122,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthriller_montana/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "armadillo_ink",
-  "name": "Shorti Tattoo",
+  "name": "Armadillo Ink Emporium",
   "location": {
     "city": "Royston",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1504096797",
+    "follower_count": 1626,
+    "following_count": 199,
+    "media_count": 2252,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/armadillo_ink/instagram/profile.jpg"
+  }
 }

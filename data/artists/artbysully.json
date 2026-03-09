@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artbysully",
-  "name": "Chris Sullivan (artbysully)",
+  "name": "Chris Sullivan",
   "location": {
     "city": "Des Moines",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "249681611",
+    "follower_count": 3375,
+    "following_count": 2973,
+    "media_count": 1002,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artbysully/instagram/profile.jpg"
+  }
 }

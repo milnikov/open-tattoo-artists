@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anthonyromerotattooer",
-  "name": "Anthony Romero",
+  "name": "Anthony Romero /Arizona Tattoo Artist",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "14999461",
+    "follower_count": 3922,
+    "following_count": 830,
+    "media_count": 341,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anthonyromerotattooer/instagram/profile.jpg"
+  }
 }

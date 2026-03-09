@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arkotrece",
-  "name": "Arko Trece",
+  "name": "Arko 13 Tattoo",
   "location": {
     "city": "Gavà",
     "country": "Italy"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Trece Vidas Tattoo Gavà"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Trece Vidas Tattoo Gavà",
+  "instagram_enriched": {
+    "id": "289764910",
+    "follower_count": 87,
+    "following_count": 79,
+    "media_count": 91,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arkotrece/instagram/profile.jpg"
+  }
 }

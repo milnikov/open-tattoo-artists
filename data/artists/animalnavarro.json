@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "animalnavarro",
-  "name": "Adán \"ANIMAL\" Navarro",
+  "name": "Adan Navarro",
   "location": {
     "city": "Metepec",
     "country": "Mexico"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3607796355",
+    "follower_count": 7946,
+    "following_count": 515,
+    "media_count": 357,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/animalnavarro/instagram/profile.jpg"
+  }
 }

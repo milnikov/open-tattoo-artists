@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arthurkimtattooer",
-  "name": "Arthur Kim",
+  "name": "Arthur Kim Tattooer",
   "location": {
     "city": "Badung",
     "country": "Indonesia"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "44708192",
+    "follower_count": 12035,
+    "following_count": 1664,
+    "media_count": 676,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arthurkimtattooer/instagram/profile.jpg"
+  }
 }

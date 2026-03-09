@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anisimovtattoo",
-  "name": "Ilya Anisimov",
+  "name": "Tattoo•Artist•",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1131046383",
+    "follower_count": 44921,
+    "following_count": 6,
+    "media_count": 555,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anisimovtattoo/instagram/profile.jpg"
+  }
 }

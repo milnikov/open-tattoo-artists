@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "area51tatuagem",
-  "name": "Área 51 Tattoo",
+  "name": "Área 51 Tattoo | Estúdio de tatuagem",
   "location": {
     "city": "Taubaté",
     "country": "Brazil"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "21688048871",
+    "follower_count": 721,
+    "following_count": 26,
+    "media_count": 169,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/area51tatuagem/instagram/profile.jpg"
+  }
 }

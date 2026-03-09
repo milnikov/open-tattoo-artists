@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "art_ashleykay",
-  "name": "Ashley Kay",
+  "name": "A S H L E Y K A Y🌙",
   "location": {
     "city": "Buffalo",
     "country": "United States"
@@ -448,5 +448,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1472070031",
+    "follower_count": 4642,
+    "following_count": 2474,
+    "media_count": 769,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/art_ashleykay/instagram/profile.jpg"
+  }
 }

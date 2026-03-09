@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arlington_ink",
-  "name": "Arlington Ink",
+  "name": "𝕬𝖗𝖑𝖎𝖓𝖌𝖙𝖔𝖓 𝕿𝖓𝖐 𝕿𝖆𝖙𝖙𝖔𝖔 𝕾𝖙𝖚𝖉𝖎𝖔",
   "location": {
     "city": "Arlington",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "228047278",
+    "follower_count": 26687,
+    "following_count": 5460,
+    "media_count": 6494,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arlington_ink/instagram/profile.jpg"
+  }
 }

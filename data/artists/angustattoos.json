@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "angustattoos",
-  "name": "Angus Byers",
+  "name": "Angus! outpost13",
   "location": {
     "city": "Montreal",
     "country": "Canada"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "309736435",
+    "follower_count": 8112,
+    "following_count": 3639,
+    "media_count": 897,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/angustattoos/instagram/profile.jpg"
+  }
 }

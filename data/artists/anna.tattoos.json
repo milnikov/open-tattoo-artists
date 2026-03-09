@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anna.tattoos",
-  "name": "Anna Kowacka",
+  "name": "𝒮𝑜𝓃𝒾𝒶 𝒜𝓃𝓃𝒶 𝒦𝑜𝓌𝒶𝒸𝓀𝒶",
   "location": {
     "city": "Colchester",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "22574750",
+    "follower_count": 21374,
+    "following_count": 2531,
+    "media_count": 1639,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anna.tattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "angell_so_fly",
-  "name": "Angell Dominguez",
+  "name": "Angell Tattoo Artist",
   "location": {
     "city": "Arvada",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "243497079",
+    "follower_count": 19958,
+    "following_count": 6947,
+    "media_count": 804,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/angell_so_fly/instagram/profile.jpg"
+  }
 }

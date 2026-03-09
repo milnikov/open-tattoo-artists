@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artcollectortattoo",
-  "name": "Art Collector Tattoo Shop",
+  "name": "Tattoo Los Angeles • Art Collector Tattoo Studio",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -100,5 +100,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "49161586573",
+    "follower_count": 11574,
+    "following_count": 840,
+    "media_count": 329,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artcollectortattoo/instagram/profile.jpg"
+  }
 }

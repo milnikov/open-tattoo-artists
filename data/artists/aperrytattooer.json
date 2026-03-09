@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aperrytattooer",
-  "name": "Avery Perry",
+  "name": "Alexander Perry",
   "location": {
     "city": "North Lima",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "182803505",
+    "follower_count": 20131,
+    "following_count": 398,
+    "media_count": 367,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aperrytattooer/instagram/profile.jpg"
+  }
 }

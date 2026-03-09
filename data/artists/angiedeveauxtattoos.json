@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "angiedeveauxtattoos",
-  "name": "angiedeveauxtattoos",
+  "name": "𝐀𝐍𝐆𝐈𝐄 𝐃𝐄𝐕𝐄𝐀𝐔𝐗",
   "location": {
     "city": "Monterey",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "224201137",
+    "follower_count": 2316,
+    "following_count": 1007,
+    "media_count": 394,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/angiedeveauxtattoos/instagram/profile.jpg"
+  }
 }

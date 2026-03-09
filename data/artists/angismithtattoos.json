@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "angismithtattoos",
-  "name": "Angi Smith",
+  "name": "Angi",
   "location": {
     "city": "Jacksonville",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "48029350",
+    "follower_count": 1501,
+    "following_count": 423,
+    "media_count": 486,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/angismithtattoos/instagram/profile.jpg"
+  }
 }

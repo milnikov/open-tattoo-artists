@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anna_belle_tattoo",
-  "name": "Annabelle Tattoo",
+  "name": "Anna mcfarlane",
   "location": {
     "city": "Wodonga",
     "country": "Australia"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "177219326",
+    "follower_count": 58362,
+    "following_count": 937,
+    "media_count": 2750,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anna_belle_tattoo/instagram/profile.jpg"
+  }
 }

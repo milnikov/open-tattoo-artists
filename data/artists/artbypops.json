@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artbypops",
-  "name": "Pops the Hispanic Hammer",
+  "name": "Popsthehispanichammer",
   "location": {
     "city": "Santa Paula",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "14599035",
+    "follower_count": 8087,
+    "following_count": 3284,
+    "media_count": 2771,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artbypops/instagram/profile.jpg"
+  }
 }

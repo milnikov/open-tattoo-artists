@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ariana",
-  "name": "Ariana",
+  "name": "𝐀𝐑𝐈𝐀𝐍𝐀",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "8819329",
+    "follower_count": 5645270,
+    "following_count": 288,
+    "media_count": 3043,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ariana/instagram/profile.jpg"
+  }
 }

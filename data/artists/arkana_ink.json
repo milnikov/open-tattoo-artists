@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arkana_ink",
-  "name": "Anna Chinaglia",
+  "name": "Arkana",
   "location": {
     "city": "Bologna",
     "country": "Italy"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "996736257",
+    "follower_count": 3492,
+    "following_count": 1484,
+    "media_count": 271,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arkana_ink/instagram/profile.jpg"
+  }
 }

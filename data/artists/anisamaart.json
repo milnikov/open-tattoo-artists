@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anisamaart",
-  "name": "Ani",
+  "name": "Ani Beckert",
   "location": {
     "city": "Dresden",
     "country": "Germany"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1364247457",
+    "follower_count": 682,
+    "following_count": 1151,
+    "media_count": 385,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anisamaart/instagram/profile.jpg"
+  }
 }

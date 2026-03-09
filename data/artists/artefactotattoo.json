@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artefactotattoo",
-  "name": "Leticia Molera Vasquez",
+  "name": "Artefacto Tattoo London",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -89,5 +89,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1576992278",
+    "follower_count": 3540,
+    "following_count": 3106,
+    "media_count": 581,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artefactotattoo/instagram/profile.jpg"
+  }
 }

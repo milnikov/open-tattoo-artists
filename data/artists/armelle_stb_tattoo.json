@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "armelle_stb_tattoo",
-  "name": "Armelle STB",
+  "name": "🌿Armelle Stb🌿",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "241129165",
+    "follower_count": 46992,
+    "following_count": 958,
+    "media_count": 844,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/armelle_stb_tattoo/instagram/profile.jpg"
+  }
 }

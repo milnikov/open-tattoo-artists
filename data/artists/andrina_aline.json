@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrina_aline",
-  "name": "Andrina Mehr",
+  "name": "andrina aline",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2814289359",
+    "follower_count": 717,
+    "following_count": 2205,
+    "media_count": 227,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrina_aline/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arthurdiogo.tattoo",
-  "name": "Arthur Diogo",
+  "name": "Arthur Diogo | Tatuador Campina Grande",
   "location": {
     "city": "Campina Grande",
     "country": "Brazil"
@@ -64,5 +64,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "11164107263",
+    "follower_count": 8252,
+    "following_count": 776,
+    "media_count": 218,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arthurdiogo.tattoo/instagram/profile.jpg"
+  }
 }
