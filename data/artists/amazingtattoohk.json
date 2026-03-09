@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amazingtattoohk",
-  "name": "Sunny",
+  "name": "𝐀𝐦𝐚𝐳𝐢𝐧𝐠 @ 𝐒𝐮𝐧 𝐧𝐢𝐧𝐢",
   "location": {
     "city": "Yau Tsim Mong",
     "country": "China"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "144425750",
+    "follower_count": 24176,
+    "following_count": 1428,
+    "media_count": 2505,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amazingtattoohk/instagram/profile.jpg"
+  }
 }

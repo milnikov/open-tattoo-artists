@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amos_tattooer",
-  "name": "Amos Tattooer",
+  "name": "Тату в Одессе",
   "location": {
     "city": "Odesa",
     "country": "Ukraine"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "267531900",
+    "follower_count": 7659,
+    "following_count": 778,
+    "media_count": 705,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amos_tattooer/instagram/profile.jpg"
+  }
 }

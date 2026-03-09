@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aloetattoo",
-  "name": "Aloe Tattoo",
+  "name": "Aloetattoo",
   "location": {
     "city": "Pamplona",
     "country": "Spain"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1510764485",
+    "follower_count": 71997,
+    "following_count": 1807,
+    "media_count": 1806,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aloetattoo/instagram/profile.jpg"
+  }
 }

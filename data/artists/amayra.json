@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amayra",
-  "name": "Amayra",
+  "name": "Mayra Alejandra",
   "location": {
     "city": "Santa Cruz de Tenerife",
     "country": "Italy"
@@ -29,5 +29,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1476071907",
+    "follower_count": 583,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amayra/instagram/profile.jpg"
+  }
 }

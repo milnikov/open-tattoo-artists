@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alyona_demeneva",
-  "name": "Alyona Demeneva",
+  "name": "Alyona | Tattoo artist  🥀",
   "location": {
     "city": "Kyiv",
     "country": "Ukraine"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "254036661",
+    "follower_count": 13758,
+    "following_count": 306,
+    "media_count": 1339,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alyona_demeneva/instagram/profile.jpg"
+  }
 }

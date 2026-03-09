@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amandaclemes",
-  "name": "Amanda Clemes",
+  "name": "Amanda Clemes | Tattoo",
   "location": {
     "city": "Joinville",
     "country": "Brazil"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "144212575",
+    "follower_count": 5171,
+    "following_count": 2583,
+    "media_count": 533,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amandaclemes/instagram/profile.jpg"
+  }
 }

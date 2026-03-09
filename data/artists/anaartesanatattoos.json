@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anaartesanatattoos",
-  "name": "Ana Hiro",
+  "name": "Ana • Tattoo Ilustrativo • Lima, Perú",
   "location": {
     "city": "Miraflores",
     "country": "Peru"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "328641415",
+    "follower_count": 26327,
+    "following_count": 1906,
+    "media_count": 1417,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaartesanatattoos/instagram/profile.jpg"
+  }
 }

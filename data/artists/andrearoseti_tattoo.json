@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrearoseti_tattoo",
-  "name": "Andrea Roseti",
+  "name": "🇮🇹Andrea Roseti ITALY🇮🇹",
   "location": {
     "city": "Terni",
     "country": "Italy"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2130535008",
+    "follower_count": 2570,
+    "following_count": 2026,
+    "media_count": 787,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrearoseti_tattoo/instagram/profile.jpg"
+  }
 }

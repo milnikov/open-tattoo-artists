@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amaro_tattoos",
-  "name": "Amaro",
+  "name": "✧ AMARO ✧ ANIME NEOTRADITIONAL TATTOO",
   "location": {
     "city": "Bologna",
     "country": "Italy"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "778821611",
+    "follower_count": 12629,
+    "following_count": 2167,
+    "media_count": 304,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amaro_tattoos/instagram/profile.jpg"
+  }
 }

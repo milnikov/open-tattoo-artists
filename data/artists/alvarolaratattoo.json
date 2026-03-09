@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alvarolaratattoo",
-  "name": "Alvaro Lara",
+  "name": "✴️𝕬𝖑𝖛𝖆𝖗𝖔 𝕷𝖆𝖗𝖆",
   "location": {
     "city": "Popayan",
     "country": "Colombia"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3422648829",
+    "follower_count": 17730,
+    "following_count": 898,
+    "media_count": 118,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvarolaratattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alydolltattoo",
-  "name": "Aly W",
+  "name": "Aly Doll",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -593,5 +593,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3168097399",
+    "follower_count": 10540,
+    "following_count": 4363,
+    "media_count": 1036,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alydolltattoo/instagram/profile.jpg"
+  }
 }

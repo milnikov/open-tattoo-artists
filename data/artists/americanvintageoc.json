@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "americanvintageoc",
-  "name": "Chris de Armas",
+  "name": "American Vintage Tattoo",
   "location": {
     "city": "Orange",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "18800962594",
+    "follower_count": 6575,
+    "following_count": 436,
+    "media_count": 1245,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americanvintageoc/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrerodrigues",
-  "name": "André Rodrigues",
+  "name": "Andre Rodrigues",
   "location": {
     "city": "São Paulo",
     "country": "Unknown"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Lado B Estúdio Para Tatuadores São Paulo"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Lado B Estúdio Para Tatuadores São Paulo",
+  "instagram_enriched": {
+    "id": "52471352329",
+    "follower_count": 193,
+    "following_count": 53,
+    "media_count": 17,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrerodrigues/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "almaundschwarz",
-  "name": "Alma Schwarz",
+  "name": "Alma und Schwarz",
   "location": {
     "city": "Jena",
     "country": "Germany"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "7109204283",
+    "follower_count": 1181,
+    "following_count": 535,
+    "media_count": 174,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/almaundschwarz/instagram/profile.jpg"
+  }
 }

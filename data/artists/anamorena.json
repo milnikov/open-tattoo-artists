@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anamorena",
-  "name": "Ana Morena",
+  "name": "Ana Isabel",
   "location": {
     "city": "Medellin",
     "country": "Colombia"
@@ -257,5 +257,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "22504619",
+    "follower_count": 1205,
+    "following_count": 2189,
+    "media_count": 562,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anamorena/instagram/profile.jpg"
+  }
 }

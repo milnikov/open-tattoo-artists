@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alstattoo",
-  "name": "Alstattoo",
+  "name": "Alessio Als Perna",
   "location": {
     "city": "Perugia",
     "country": "Italy"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "177253357",
+    "follower_count": 14656,
+    "following_count": 7496,
+    "media_count": 567,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alstattoo/instagram/profile.jpg"
+  }
 }

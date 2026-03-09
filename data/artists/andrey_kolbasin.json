@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrey_kolbasin",
-  "name": "Andrey Kolbasin",
+  "name": "Andrey  Kolbasin",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1500571407",
+    "follower_count": 92666,
+    "following_count": 1782,
+    "media_count": 958,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrey_kolbasin/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amulettattoos",
-  "name": "Amulet",
+  "name": "AMULET TATTOOS",
   "location": {
     "city": "St Petersburg",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-03"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1337249033",
+    "follower_count": 20914,
+    "following_count": 995,
+    "media_count": 1911,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amulettattoos/instagram/profile.jpg"
+  }
 }

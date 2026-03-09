@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amyvsavage",
-  "name": "Amy Savage",
+  "name": "AMY V SAVAGE Bury St Edmunds Tattooing",
   "location": {
     "city": "Bury St Edmunds",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2356422",
+    "follower_count": 47559,
+    "following_count": 3145,
+    "media_count": 5044,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amyvsavage/instagram/profile.jpg"
+  }
 }

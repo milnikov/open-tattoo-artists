@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrei_aivazian",
-  "name": "Andrei Aivazian",
+  "name": "Andrei Aivazian | Tattoo tbilisi",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-04"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "393614428",
+    "follower_count": 48003,
+    "following_count": 3365,
+    "media_count": 770,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrei_aivazian/instagram/profile.jpg"
+  }
 }
