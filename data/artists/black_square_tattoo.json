@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black_square_tattoo",
-  "name": "Black Square Tattoo Shoppe",
+  "name": "◾️BLACK SQUARE TATTOO SHOPPE◾️",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "577017494",
+    "follower_count": 12741,
+    "following_count": 1835,
+    "media_count": 2606,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_square_tattoo/instagram/profile.jpg"
+  }
 }

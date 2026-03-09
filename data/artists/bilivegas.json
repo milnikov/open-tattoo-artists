@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bilivegas",
-  "name": "Bilivegas",
+  "name": "Bili Vegas",
   "location": {
     "city": "Huntington",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "12164199",
+    "follower_count": 58540,
+    "following_count": 2799,
+    "media_count": 544,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bilivegas/instagram/profile.jpg"
+  }
 }

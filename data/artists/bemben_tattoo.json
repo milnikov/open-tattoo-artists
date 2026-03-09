@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bemben_tattoo",
-  "name": "bemben_tattoo",
+  "name": "Piotr Bemben Tatuaż / TATTOO ARTIST KRAKÓW",
   "location": {
     "city": "Cracow",
     "country": "Poland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1806041266",
+    "follower_count": 132708,
+    "following_count": 1222,
+    "media_count": 1086,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bemben_tattoo/instagram/profile.jpg"
+  }
 }

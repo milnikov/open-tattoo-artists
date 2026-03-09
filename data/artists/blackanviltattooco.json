@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackanviltattooco",
-  "name": "John Watts",
+  "name": "The Black Anvil Tattoo Company",
   "location": {
     "city": "Clarkesville",
     "country": "United States"
@@ -592,5 +592,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "299712724",
+    "follower_count": 7753,
+    "following_count": 3509,
+    "media_count": 273,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackanviltattooco/instagram/profile.jpg"
+  }
 }

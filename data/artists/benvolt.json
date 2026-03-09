@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "benvolt",
-  "name": "Ben Volt",
+  "name": "BEN VOLT",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -30,6 +30,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE FORM8 Tattoo San Francisco"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE FORM8 Tattoo San Francisco",
+  "instagram_enriched": {
+    "id": "26907297",
+    "follower_count": 76082,
+    "following_count": 4,
+    "media_count": 768,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benvolt/instagram/profile.jpg"
+  }
 }

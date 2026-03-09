@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bea.iglesias.tattoo",
-  "name": "Bea Iglesias",
+  "name": "⋆✧ 𝔹𝕖𝕒 𝕀𝕘𝕝𝕖𝕤𝕚𝕒𝕤 ✧⋆",
   "location": {
     "city": "Granada",
     "country": "Spain"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3986930837",
+    "follower_count": 9252,
+    "following_count": 2019,
+    "media_count": 1332,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bea.iglesias.tattoo/instagram/profile.jpg"
+  }
 }

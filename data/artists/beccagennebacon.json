@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "beccagennebacon",
-  "name": "Becca Genné-Bacon",
+  "name": "becca genné-bacon",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Hand of Glory Tattoo Brooklyn"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Hand of Glory Tattoo Brooklyn",
+  "instagram_enriched": {
+    "id": "16891067",
+    "follower_count": 89090,
+    "following_count": 2585,
+    "media_count": 766,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beccagennebacon/instagram/profile.jpg"
+  }
 }

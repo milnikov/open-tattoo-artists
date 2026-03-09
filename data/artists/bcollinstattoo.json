@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bcollinstattoo",
-  "name": "Brandon Collins",
+  "name": "Brandon Collins 彫 水",
   "location": {
     "city": "Reno",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "3063548",
+    "follower_count": 8782,
+    "following_count": 1111,
+    "media_count": 1073,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bcollinstattoo/instagram/profile.jpg"
+  }
 }

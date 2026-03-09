@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bigsteve",
-  "name": "Big Steve",
+  "name": "Stephen McDonald",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -30,6 +30,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Fun City Tattoo Manhattan"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Fun City Tattoo Manhattan",
+  "instagram_enriched": {
+    "id": "195246",
+    "follower_count": 98,
+    "following_count": 2,
+    "media_count": 16,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bigsteve/instagram/profile.jpg"
+  }
 }

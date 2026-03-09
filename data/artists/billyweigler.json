@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "billyweigler",
-  "name": "Billy Weigler",
+  "name": "William Weigler",
   "location": {
     "city": "Dallas",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "168270",
+    "follower_count": 30493,
+    "following_count": 1431,
+    "media_count": 658,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/billyweigler/instagram/profile.jpg"
+  }
 }

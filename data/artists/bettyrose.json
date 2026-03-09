@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bettyrose",
-  "name": "Betty Rose",
+  "name": "Bethany Peschar",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Eight of Swords Tattoo Brooklyn"
+  "updated_at": "2026-03-09",
+  "bio": "WORKPLACE Eight of Swords Tattoo Brooklyn",
+  "instagram_enriched": {
+    "id": "1846889",
+    "follower_count": 108,
+    "following_count": 2532,
+    "media_count": 531,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bettyrose/instagram/profile.jpg"
+  }
 }

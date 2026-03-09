@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bedstuytattoo",
-  "name": "The Bed-Stuy Tattooing Co",
+  "name": "The Bed-Stuy Tattooing Co.",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5810922111",
+    "follower_count": 6731,
+    "following_count": 7,
+    "media_count": 327,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bedstuytattoo/instagram/profile.jpg"
+  }
 }

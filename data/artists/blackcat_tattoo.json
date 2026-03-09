@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackcat_tattoo",
-  "name": "Melanie Smith",
+  "name": "Black Cat Tattoo",
   "location": {
     "city": "Schwerzenbach",
     "country": "Switzerland"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "2862739821",
+    "follower_count": 7368,
+    "following_count": 1905,
+    "media_count": 794,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackcat_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackandwhitetattoos",
-  "name": "Dave",
+  "name": "Black and White Tattoo Studio",
   "location": {
     "city": "Randburg",
     "country": "South Africa"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "1240178820",
+    "follower_count": 12636,
+    "following_count": 268,
+    "media_count": 1232,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackandwhitetattoos/instagram/profile.jpg"
+  }
 }

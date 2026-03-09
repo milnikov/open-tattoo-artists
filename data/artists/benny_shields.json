@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "benny_shields",
-  "name": "Benny Shields",
+  "name": "BENNY SHIELDS",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -52,5 +52,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "6048356762",
+    "follower_count": 9433,
+    "following_count": 615,
+    "media_count": 102,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benny_shields/instagram/profile.jpg"
+  }
 }

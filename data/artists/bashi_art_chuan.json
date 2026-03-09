@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bashi_art_chuan",
-  "name": "Chuan Yi",
+  "name": "上海八識刺青-川",
   "location": {
     "city": "Unknown",
     "country": "China"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-05"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "211228922",
+    "follower_count": 5387,
+    "following_count": 885,
+    "media_count": 419,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bashi_art_chuan/instagram/profile.jpg"
+  }
 }

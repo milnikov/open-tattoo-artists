@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "beauxbrady",
-  "name": "Beaux Brady",
+  "name": "B E A U   B R A D Y",
   "location": {
     "city": "Tustin",
     "country": "United States"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "10470469",
+    "follower_count": 28463,
+    "following_count": 1956,
+    "media_count": 3175,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beauxbrady/instagram/profile.jpg"
+  }
 }

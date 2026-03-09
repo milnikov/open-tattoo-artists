@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "belmontetattoo",
-  "name": "Meyk Belmonte",
+  "name": "Meyk Belmonte / New York Tattoo 🌠",
   "location": {
     "city": "Madrid",
     "country": "Unknown"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "5788096256",
+    "follower_count": 79179,
+    "following_count": 1241,
+    "media_count": 318,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/belmontetattoo/instagram/profile.jpg"
+  }
 }

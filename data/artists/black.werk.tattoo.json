@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black.werk.tattoo",
-  "name": "Krusty Tattoo",
+  "name": "𝚋𝚕𝚊𝚌𝚔.𝚠𝚎𝚛𝚔.𝚝𝚊𝚝𝚝𝚘𝚘",
   "location": {
     "city": "Vienna",
     "country": "Austria"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-06"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "7774240073",
+    "follower_count": 5024,
+    "following_count": 273,
+    "media_count": 210,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black.werk.tattoo/instagram/profile.jpg"
+  }
 }

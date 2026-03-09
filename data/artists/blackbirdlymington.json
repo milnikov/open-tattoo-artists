@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackbirdlymington",
-  "name": "Britney Beale",
+  "name": "BLACKBIRD LYMINGTON",
   "location": {
     "city": "Lymington",
     "country": "United Kingdom"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "7330725707",
+    "follower_count": 4253,
+    "following_count": 689,
+    "media_count": 1195,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackbirdlymington/instagram/profile.jpg"
+  }
 }

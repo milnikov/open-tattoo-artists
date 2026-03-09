@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackbubblegum.tattoo",
-  "name": "BlackBubbleGum",
+  "name": "Eloise Jerard",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -448,5 +448,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-09",
+  "instagram_enriched": {
+    "id": "24702790",
+    "follower_count": 27255,
+    "following_count": 1852,
+    "media_count": 142,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackbubblegum.tattoo/instagram/profile.jpg"
+  }
 }
