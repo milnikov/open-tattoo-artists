@@ -50,6 +50,15 @@ JUNK_STYLES = {
     "tattooeverythingsupplies",
     "total_immortal_tattoos",
     "balm_tattoo",
+    # Sponsor/brand strings from new artist data
+    "venomink.com",
+    "bluebirdneedles",
+    "paulocruzes",
+    "barber_dts",
+    "z00tatt00",
+    "h2oceanloyalty",
+    "tropicaldermoficial",
+    "fusion_ink",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
