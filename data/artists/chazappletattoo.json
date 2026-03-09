@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "chazappletattoo",
+  "name": "Chaz Apple",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/chazappletattoo",
+    "instagram": "https://www.instagram.com/chazappletattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chazappletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chazappletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chazappletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chazappletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Chaz Apple is a highly skilled tattoo artist specializing in black & gray, dotwork, and fineline styles that exude meticulous detail and artistic finesse. Clients can view their impressive portfolio and arrange bookings by messaging the studio, finding them at Black Heart Tattoo Epsom from Thursday to Saturday and at Timebomb Croydon on Mondays and Tuesdays. Chaz’s work reflects a deep commitment to cleanliness, ensuring each tattoo is not only a work of art but also completed in a hygienic environment.\nPrice: $\nCurrent location:"
+}

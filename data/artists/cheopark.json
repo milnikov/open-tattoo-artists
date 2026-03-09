@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "cheopark",
+  "name": "Cheo Park",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cheopark",
+    "instagram": "https://www.instagram.com/cheopark/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cheopark/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cheopark/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cheopark/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cheopark/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Cheo Park specializes in geometric, fineline, and dotwork tattoo designs, creating intricate pieces that showcase his superior skill level. As an artist at East Side Ink in NYC, he meticulously combines precision and creativity in his work, ensuring each tattoo is a masterpiece. His ability to bring ideas to life through his unique styles places him at the top tier of the city's tattoo artists.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "collingwoodtattoocompany",
+  "name": "Collingwood Tattoo Company",
+  "location": {
+    "city": "Collingwood",
+    "country": "Canada"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://tattooswizard.com/artists/collingwoodtattoocompany",
+    "instagram": "https://www.instagram.com/collingwoodtattoocompany/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/collingwoodtattoocompany/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/collingwoodtattoocompany/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Discover the artistry of Collingwood Tattoo Company, nestled in the creative heart of Collingwood, Canada. Welcoming walk-ins with open arms, our award-winning artists, including the likes of @omriamartattoos and @jakemacqueentattoos, craft bespoke tattoos in a vibrant and inclusive environment. Step into a space where skill meets imagination and leave with a timeless piece of art.\nPrice: $$\nCurrent location: Collingwood, Ontario, Canada"
+}

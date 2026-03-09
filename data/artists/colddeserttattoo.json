@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "colddeserttattoo",
+  "name": "Cold Desert Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/colddeserttattoo",
+    "instagram": "https://www.instagram.com/colddeserttattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/colddeserttattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/colddeserttattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/colddeserttattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/colddeserttattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Embark on a unique ink journey at Cold Desert Tattoo, where creativity flows like paint on a canvas. Specializing in vibrant watercolor and dynamic newschool styles, our artists transform your vision into a living masterpiece. Visit us at our WM & Monroe, LA locations, and experience a boutique atmosphere that blends artistic flair with personalized care—call 318-654-7640 to book your session or connect with us on Facebook!\nPrice: $\nCurrent location:"
+}

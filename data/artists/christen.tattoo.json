@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "christen.tattoo",
+  "name": "Christen Kleinfelter",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/christen.tattoo",
+    "instagram": "https://www.instagram.com/christen.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/christen.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/christen.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/christen.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/christen.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-09",
+  "bio": "Christen Kleinfelter is a highly skilled tattoo artist specializing in floral designs, fineline art, and intricate dotwork. With a reputation for maintaining an immaculate and professional environment, her private studio, Equinox New Albany, reflects her commitment to cleanliness and the well-being of her clients. Currently on maternity leave, fans and clients eagerly anticipate her return and can stay informed through her newsletter for updates on her booking availability.\nPrice: $\nCurrent location:"
+}
