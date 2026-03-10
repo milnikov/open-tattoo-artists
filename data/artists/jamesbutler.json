@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jamesbutler",
-  "name": "James Butler",
+  "name": "jamesbutler",
   "location": {
     "city": "Leeds",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE P Easy Tiger Tattoo Co."
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE P Easy Tiger Tattoo Co.\n\nThe ultimate detective/genius",
+  "instagram_enriched": {
+    "id": "5954580",
+    "follower_count": 553,
+    "following_count": 647,
+    "media_count": 442,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamesbutler/instagram/profile.jpg"
+  }
 }

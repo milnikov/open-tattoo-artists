@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jakedanielson",
-  "name": "Jake Danielson",
+  "name": "Jakob Danielson",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -50,5 +50,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "233915230",
+    "follower_count": 242,
+    "following_count": 433,
+    "media_count": 221,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakedanielson/instagram/profile.jpg"
+  }
 }
