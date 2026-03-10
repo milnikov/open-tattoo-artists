@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "craventattooer",
+  "name": "Craven Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/craventattooer",
+    "instagram": "https://www.instagram.com/craventattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craventattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craventattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craventattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craventattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Craven Tattooer is a highly skilled artist, renowned for his fineline, dotwork, and black&gray styles. With an impressive follower base of around 53,000 on Instagram, his creative prowess speaks for itself. You're welcome to place bookings via Craveninks@hotmail.co.uk, but please note that DM bookings aren't accepted. Set to astonish clients in Crewe, Cheshire and Worcester, expect nothing but top-tier artistry from Craven Tattooer.\nPrice: $$\nCurrent location:"
+}

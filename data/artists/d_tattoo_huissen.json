@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "d_tattoo_huissen",
+  "name": "Dicky",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/d_tattoo_huissen",
+    "instagram": "https://www.instagram.com/d_tattoo_huissen/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/d_tattoo_huissen/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/d_tattoo_huissen/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/d_tattoo_huissen/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/d_tattoo_huissen/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "With a keen eye for detail and mastery in his craft, Dicky is renowned for his exceptional skill level in black & gray and tribal tattoos. His artistry not only captivates but ensures each piece he creates is a timeless embodiment of both precision and style. Clients leave his studio not only with a piece of art but a testament to Dicky's unparalleled expertise in the tattoo world.\nPrice: $\nCurrent location:"
+}

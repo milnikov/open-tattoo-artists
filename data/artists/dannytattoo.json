@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "dannytattoo",
+  "name": "Danny Sun",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "floral",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dannytattoo",
+    "instagram": "https://www.instagram.com/dannytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Danny Sun is a remarkably skilled tattoo artist, specializing in illustrative, floral, and tribal styles that breathe life onto the skin with expert precision and creativity. Based in the vibrant cities of SF, San Jose, and Sunnyvale in California, Danny is known for their impeccable craftsmanship and commitment to delivering custom pieces that exceed clients' expectations. To experience Danny's artistry, booking an appointment is efficiently handled via email, ensuring a professional service tailored to your unique tattoo journey.\nPrice: $\nCurrent location:"
+}

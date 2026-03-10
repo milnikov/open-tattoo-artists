@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "dachtattoos",
+  "name": "Carlinda Cheff",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dachtattoos",
+    "instagram": "https://www.instagram.com/dachtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dachtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dachtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dachtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dachtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Carlinda Cheff is a highly skilled tattoo artist who specializes in traditional styles, operating out of No Man's Land Tattoo in the heart of Perth, Western Australia. Known for her exceptional professionalism, she maintains a clean and safe environment to provide an excellent tattoo experience. To arrange an appointment, you can contact her via email at carlindacheff@hotmail.com.\nPrice: $$\nCurrent location:"
+}

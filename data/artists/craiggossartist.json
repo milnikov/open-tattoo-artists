@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "craiggossartist",
+  "name": "Craig Goss",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "watercolor",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/craiggossartist",
+    "instagram": "https://www.instagram.com/craiggossartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craiggossartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craiggossartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craiggossartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craiggossartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Craig Goss is a renowned tattoo artist operating out of Method Art Collective in Brendale, Brisbane, known for his exceptional skill level in various styles, including black & gray, watercolor, and realism. His artistic talent is evident in each intricately inked piece, whether it's a lifelike portrait or a vibrant, watercolor-inspired design. Patrons repeatedly praise Craig for transforming their ideas into stunning works of body art with meticulous attention to detail.\nPrice: $\nCurrent location:"
+}
