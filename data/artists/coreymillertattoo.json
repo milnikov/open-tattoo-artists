@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "coreymillertattoo",
+  "name": "Corey Miller",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "minimalist",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/coreymillertattoo",
+    "instagram": "https://www.instagram.com/coreymillertattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coreymillertattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coreymillertattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coreymillertattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coreymillertattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Corey Miller, an incredibly skillful tattoo artist, specializes in the styles of realism, minimalist, and black & gray. With an impressive following of approximately 160k on Instagram, it's clear that his mastery of his craft is widely recognized and admired. His unique interpretation of each style and meticulous attention to details has made him a prominent figure in the world of tattoo artistry. Miller's work embodies his extraordinary talent, making every tattoo a masterpiece.\nPrice: $$$\nCurrent location:"
+}

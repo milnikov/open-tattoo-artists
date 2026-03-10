@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "danieljooho",
+  "name": "Daniel Joo Ho",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/danieljooho",
+    "instagram": "https://www.instagram.com/danieljooho/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danieljooho/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danieljooho/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danieljooho/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danieljooho/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Daniel Joo Ho is a distinguished tattoo artist based in Aarhus, Denmark, specialized in 'black&gray' styles. He exhibits an exemplary skill level, turning each piece into an intricate masterpiece that speaks volumes about his mastery over the art form. You can reach him for appointments via WhatsApp or email.\nPrice: $$\nCurrent location:"
+}

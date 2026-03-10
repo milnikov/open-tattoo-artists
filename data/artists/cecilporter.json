@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cecilporter",
-  "name": "Cecil Porter",
+  "name": "cecilporter",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Cecil Porter Tattoos Portland"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Cecil Porter Tattoos Portland\n\nI love chooch!!!!! She is the best cousin ever!!!!!",
+  "instagram_enriched": {
+    "id": "278846045",
+    "follower_count": 13,
+    "following_count": 3,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cecilporter/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "callyjo",
-  "name": "Cally Jo",
+  "name": "Cassiopeia",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "Travel, music festivals, occasional science, neon eyeshadow and an incredible abundance of glitter. ❤️ Now with corgi content!",
+  "instagram_enriched": {
+    "id": "6662216",
+    "follower_count": 171,
+    "following_count": 383,
+    "media_count": 1126,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/callyjo/instagram/profile.jpg"
+  }
 }

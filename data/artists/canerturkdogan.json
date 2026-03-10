@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "canerturkdogan",
-  "name": "Caner Türkdoğan",
+  "name": "Caner soydan",
   "location": {
     "city": "Istanbul",
     "country": "Italy"
@@ -116,5 +116,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "herkes kaderini yaşar",
+  "instagram_enriched": {
+    "id": "6364807571",
+    "follower_count": 2,
+    "following_count": 7,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/canerturkdogan/instagram/profile.jpg"
+  }
 }
