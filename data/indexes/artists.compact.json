@@ -82290,6 +82290,31 @@
     "updated_at": "2026-03-10"
   },
   {
+    "id": "cousto_tattoo",
+    "name": "Cousto",
+    "location": {
+      "city": "Metz",
+      "country": "France"
+    },
+    "styles": [
+      "traditional",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/cousto_tattoo/"
+    },
+    "tattoo_count": 43,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cousto_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cousto_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cousto_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cousto_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cousto_tattoo/thumb/004.webp"
+    ],
+    "bio": "Cousto, the owner of La Fonderie Tattoo Shop in Metz, France, is an immensely skilled tattoo artist specializing in traditional and geometric styles. Not only is their craft finely honed, but Cousto's workspace reflects an exceptional level of cleanliness, bolstering a professional environment where one can feel comfortable and safe. Despite their impressive talents, Cousto remains approachable and friendly, making each tattoo session an enjoyable experience.\nPrice: $$\nCurrent location: Metz, Grand Est, France",
+    "updated_at": "2026-03-10"
+  },
+  {
     "id": "addictivetattooing",
     "name": "Craig Davies",
     "location": {
@@ -85549,6 +85574,31 @@
     ],
     "bio": "Dan Mayerhofer, based in Graz, Austria, specializes in black&gray, trashpolka, and coverup styles of tattooing. Known for his incredible skill level, Dan's proficient execution of detailed designs and his deft ability to offer truly unique coverups have earned him sponsorships from renowned brands like IntenzeTattooInk. A tattoo from Dan is a testament to his mastery of the art form.\nPrice: $$\nCurrent location: Graz, Styria, Austria",
     "updated_at": "2026-03-09"
+  },
+  {
+    "id": "danmcwilliamsart",
+    "name": "Dan McWilliams",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "styles": [
+      "newschool",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/danmcwilliamsart/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmcwilliamsart/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmcwilliamsart/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmcwilliamsart/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmcwilliamsart/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danmcwilliamsart/thumb/004.webp"
+    ],
+    "bio": "Dan McWilliams is a proficient tattoo artist based in Los Angeles, specializing in newschool and black&gray styles. His exceptional work has granted him an impressive following of over 100,000 on Instagram. Alongside his stunning artistry, Dan's dedication to cleanliness and professionalism is mirrored in his partnership with industry-leading brands like Radiant Colors Ink and Atlas Cartridges. For bookings, reach out to him directly through tattoosbydan@outlook.com.\nPrice: $$$\nCurrent location: Los Angeles, California, United States",
+    "updated_at": "2026-03-10"
   },
   {
     "id": "danmolloy",
@@ -98982,6 +99032,30 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "cysen_goldeniron",
+    "name": "Golden Iron",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "styles": [
+      "black&gray",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/cysen_goldeniron/"
+    },
+    "tattoo_count": 20,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cysen_goldeniron/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cysen_goldeniron/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cysen_goldeniron/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cysen_goldeniron/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cysen_goldeniron/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-10"
+  },
+  {
     "id": "goldilox",
     "name": "Goldilox · Clare Deen",
     "location": {
@@ -105096,6 +105170,30 @@
     ],
     "bio": "Jean Balzer, hailing from Curitiba, Brasil, is a tattoo artist renowned for their exceptional skill in fineline, floral, and sketch-style tattoos. They take pride in delivering intricately detailed designs that showcase their adeptness with fineline and blackwork, as well as their proficiency in black and gray realism. Their work is a testament to an unwavering commitment to the art form, creating tattoos that truly stand the test of time.\nPrice: $\nCurrent location:",
     "updated_at": "2026-03-06"
+  },
+  {
+    "id": "coutinho.tattoo.artista",
+    "name": "Jean Coutinho",
+    "location": {
+      "city": "Maringá",
+      "country": "Brazil"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/coutinho.tattoo.artista/"
+    },
+    "tattoo_count": 23,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coutinho.tattoo.artista/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coutinho.tattoo.artista/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coutinho.tattoo.artista/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coutinho.tattoo.artista/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coutinho.tattoo.artista/thumb/004.webp"
+    ],
+    "bio": "Jean Coutinho is a highly skilled tattoo artist specializing in black & gray realism, fine line, and blackwork styles, based in Maringá, Brazil. With 13 certifications under their belt, Jean exudes a level of professionalism that is reflected in both the meticulous detail of their tattoos and the impeccable operation of their own establishment, Coutinho Tattoo Studio. Clients can expect a professional experience that matches the incredible art they receive.\nPrice: $\nCurrent location: Maringá, Parana, Brazil",
+    "updated_at": "2026-03-10"
   },
   {
     "id": "jeanleroux",
