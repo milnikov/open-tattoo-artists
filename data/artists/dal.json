@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dal",
-  "name": "Tattooist Dal",
+  "name": ":D ♥",
   "location": {
     "city": "Seoul",
     "country": "Unknown"
@@ -17,6 +17,54 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_003",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/full/ig_003.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/thumb/ig_003.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_004",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/full/ig_004.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/thumb/ig_004.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
     {
       "image_id": "001",
       "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/full/001.webp",
@@ -618,5 +666,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "51189",
+    "follower_count": 4010,
+    "following_count": 7,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dal/instagram/profile.jpg"
+  }
 }

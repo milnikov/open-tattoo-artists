@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davecummings",
-  "name": "Dave Cummings",
+  "name": "David Cummings",
   "location": {
     "city": "Montreal",
     "country": "Unknown"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE PSC Tattoo · Tatouage Pointe St Charles Montreal"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE PSC Tattoo · Tatouage Pointe St Charles Montreal",
+  "instagram_enriched": {
+    "id": "52119852",
+    "follower_count": 284,
+    "following_count": 484,
+    "media_count": 33,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davecummings/instagram/profile.jpg"
+  }
 }

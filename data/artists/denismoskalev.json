@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "denismoskalev",
-  "name": "Denis Moskalev",
+  "name": "Денис Москалёв",
   "location": {
     "city": "Krasnodar",
     "country": "Russia"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE NBK Tattoo Colletive Krasnodar"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE NBK Tattoo Colletive Krasnodar\n\nRussia, Saint- Petersburg.",
+  "instagram_enriched": {
+    "id": "193942128",
+    "follower_count": 173,
+    "following_count": 622,
+    "media_count": 116,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denismoskalev/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "darick",
-  "name": "Darick",
+  "name": "Darick Ng",
   "location": {
     "city": "Paris",
     "country": "Unknown"
@@ -29,5 +29,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "401177",
+    "follower_count": 160,
+    "following_count": 461,
+    "media_count": 88,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darick/instagram/profile.jpg"
+  }
 }

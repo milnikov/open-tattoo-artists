@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davidmora",
-  "name": "David Mora",
+  "name": "David Peña",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -29,6 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Mao & Cathy Callao Madrid"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Mao & Cathy Callao Madrid",
+  "instagram_enriched": {
+    "id": "1644610700",
+    "follower_count": 362,
+    "following_count": 369,
+    "media_count": 106,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davidmora/instagram/profile.jpg"
+  }
 }

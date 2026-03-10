@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davepaulo",
-  "name": "Dave Paulo",
+  "name": "Dave Paulo Cortez",
   "location": {
     "city": "Mira",
     "country": "Portugal"
@@ -124,5 +124,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "284320074",
+    "follower_count": 346,
+    "following_count": 394,
+    "media_count": 181,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davepaulo/instagram/profile.jpg"
+  }
 }
