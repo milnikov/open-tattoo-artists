@@ -78,19 +78,21 @@ export function SiteHeader() {
             {!isMapPage && (
               <Link
                 href="/map"
-                className="flex items-center gap-1.5 h-[26px] text-xs rounded bg-black text-white border border-transparent px-3 hover:bg-black/80 transition-colors whitespace-nowrap"
+                className="header-icon-btn flex items-center justify-center gap-1.5 h-[26px] w-auto px-3 text-xs rounded bg-black text-white border border-transparent hover:bg-black/80 transition-colors whitespace-nowrap"
+                aria-label="On Map"
               >
                 <GlobeIcon className="w-3.5 h-3.5 shrink-0" />
-                On Map
+                <span className="header-icon-btn-label">On Map</span>
               </Link>
             )}
             <button
               type="button"
               onClick={() => setSuggestOpen(true)}
-              className="flex items-center gap-1.5 h-[26px] text-xs rounded border border-border px-3 text-foreground hover:bg-secondary transition-colors whitespace-nowrap"
+              className="header-icon-btn flex items-center justify-center gap-1.5 h-[26px] w-auto px-3 text-xs rounded border border-border text-foreground hover:bg-secondary transition-colors whitespace-nowrap"
+              aria-label="Add Artist"
             >
               <PlusIcon className="w-3 h-3 shrink-0" />
-              Add Artist
+              <span className="header-icon-btn-label">Add Artist</span>
             </button>
             {user ? (
               <Link
