@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black_rose_tattoo_berlin",
-  "name": "Black Rose Tattoo Berlin",
+  "name": "House of Parthenos Tattoo & Creative Studio",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -618,12 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
+  "updated_at": "2026-03-10",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "6668619427",
+    "follower_count": 2349,
+    "following_count": 800,
+    "media_count": 128,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_rose_tattoo_berlin/instagram/profile.jpg"
+  },
+  "bio": "FLASH DAY 13.03.\nUnique Tattoo Designs and Art\nSeeking tattoo residents, guest artists & designers\nDM"
 }
