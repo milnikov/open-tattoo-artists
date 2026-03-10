@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brandon_tattooworks",
-  "name": "Brandon Davenport",
+  "name": "BRANDON DAVENPORT TATTOO ART",
   "location": {
     "city": "Waco",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "Professional tattooer/owner @iron_oak_tattoo \nEmail brandontattooworks@gmail.com\n@goatsrustattoos Proteam\n@worldwideinkmag proteam",
+  "instagram_enriched": {
+    "id": "310398369",
+    "follower_count": 5354,
+    "following_count": 5385,
+    "media_count": 1641,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brandon_tattooworks/instagram/profile.jpg"
+  }
 }

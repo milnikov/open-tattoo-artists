@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bradleykinneytattooer",
-  "name": "Bradley Kinney",
+  "name": "bradley kinney",
   "location": {
     "city": "Dana Point",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "bradleykinneytattooer is now @b.d.kinney",
+  "instagram_enriched": {
+    "id": "60007893720",
+    "follower_count": 55,
+    "following_count": 12,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradleykinneytattooer/instagram/profile.jpg"
+  }
 }
