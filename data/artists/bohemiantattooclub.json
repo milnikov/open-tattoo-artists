@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bohemiantattooclub",
-  "name": "Bohemian Tattoo Club",
+  "name": "The Bohemian Tattoo Club | Tattoo Studio",
   "location": {
     "city": "Kokomo",
     "country": "United States"
@@ -618,12 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
+  "updated_at": "2026-03-10",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "211797480",
+    "follower_count": 18292,
+    "following_count": 188,
+    "media_count": 2642,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bohemiantattooclub/instagram/profile.jpg"
+  },
+  "bio": "KOKOMO, INDIANA📍\nProfessional Tattoo Artists | various styles\n⚜️ Est. 2012 \nClick the link for a consultation \n👇🏼 Booking for 2026/2027"
 }

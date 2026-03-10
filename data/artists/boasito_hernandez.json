@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "boasito_hernandez",
-  "name": "Boas Hernandez",
+  "name": "Josemigué",
   "location": {
     "city": "Cuenca",
     "country": "Spain"
@@ -617,12 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
+  "updated_at": "2026-03-10",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "1430683507",
+    "follower_count": 5867,
+    "following_count": 2095,
+    "media_count": 127,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boasito_hernandez/instagram/profile.jpg"
+  },
+  "bio": "Wacky tattoos\nLORQUI🌴MURCIA\n🥸Empleado del mes en @manekitattoopalace                                                   \n💌Info o citas: 678242721"
 }
