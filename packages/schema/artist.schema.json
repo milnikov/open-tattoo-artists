@@ -122,8 +122,8 @@
         "properties": {
           "image_id": {
             "type": "string",
-            "pattern": "^[0-9]{3,6}$",
-            "description": "Zero-padded incremental ID like 001, 002..."
+            "pattern": "^(?:[0-9]{3,6}|ig_[0-9]{3})$",
+            "description": "Numeric ID (001, 002...) or Instagram-enriched (ig_001..ig_030)"
           },
           "image_full": {
             "type": "string",
