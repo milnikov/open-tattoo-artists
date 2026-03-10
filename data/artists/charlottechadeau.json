@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "charlottechadeau",
-  "name": "Charlotte Chadeau",
+  "name": "Cha... Painting",
   "location": {
     "city": "Marseille",
     "country": "Unknown"
@@ -31,6 +31,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE La Bobine Tattoo Club Marseille"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE La Bobine Tattoo Club Marseille\n\nArtiste. Marseille. Dessins, Peintures ... \nJe réalise aussi des commandes.\nN'hésitez pas à  me contacter en privé pour plus d'infos.",
+  "instagram_enriched": {
+    "id": "12858701238",
+    "follower_count": 330,
+    "following_count": 707,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/charlottechadeau/instagram/profile.jpg"
+  }
 }

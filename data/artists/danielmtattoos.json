@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "danielmtattoos",
+  "name": "Daniel M",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "watercolor",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/danielmtattoos",
+    "instagram": "https://www.instagram.com/danielmtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielmtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielmtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielmtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielmtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Daniel M is a gifted tattoo artist with a knack for creating stunning pieces in floral, watercolor, and geometric styles. Since establishing their tattoo studio in Pfungstadt in 2012, Daniel has earned a reputation for maintaining an exceptionally clean and hygienic work environment, ensuring every client's safety and peace of mind during the tattooing process. Clients can easily reach out via WhatsApp or follow Daniel's journey and portfolio on Instagram at @dercolonel.\nPrice: $\nCurrent location:"
+}

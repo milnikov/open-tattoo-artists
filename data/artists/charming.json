@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "charming",
-  "name": "Charming",
+  "name": "Colin",
   "location": {
     "city": "Seoul",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "Слава Україні 🇺🇦\n3x cross country 🇺🇸",
+  "instagram_enriched": {
+    "id": "7017804322",
+    "follower_count": 1050,
+    "following_count": 137,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/charming/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "claramoncho",
-  "name": "Clara Moncho",
+  "name": "CLARA♡",
   "location": {
     "city": "Valencia",
     "country": "Italy"
@@ -74,5 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07"
+  "updated_at": "2026-03-10",
+  "bio": "@peralba.brand",
+  "instagram_enriched": {
+    "id": "29798871146",
+    "follower_count": 501,
+    "following_count": 4022,
+    "media_count": 35,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/claramoncho/instagram/profile.jpg"
+  }
 }
