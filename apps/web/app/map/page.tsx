@@ -185,7 +185,7 @@ export default function MapPage() {
       globe.hexBinMerge(false); // keep false so hover/tooltips work
       globe.enablePointerInteraction(true);
 
-      const controls = globe.controls() as {
+      const controls = globe.controls() as unknown as {
         autoRotate: boolean;
         autoRotateSpeed: number;
         addEventListener: (event: string, fn: () => void) => void;
@@ -227,7 +227,7 @@ export default function MapPage() {
       const handlers = controlsHandlersRef.current;
       if (globe && handlers) {
         try {
-          const ctrl = globe.controls() as { removeEventListener?: (event: string, fn: () => void) => void };
+          const ctrl = globe.controls() as unknown as { removeEventListener?: (event: string, fn: () => void) => void };
           if (typeof ctrl.removeEventListener === "function") {
             ctrl.removeEventListener("start", handlers.start);
             ctrl.removeEventListener("end", handlers.end);
