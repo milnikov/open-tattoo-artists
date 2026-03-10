@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "likuprina",
-  "name": "Li Kuprina",
+  "name": "🦊",
   "location": {
     "city": "Moscow",
     "country": "Moscow Oblast LINE ARTFINE LINEILLUSTRATIVEMINIMALISTSINGLE NEEDLE"
@@ -614,5 +614,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "3526278951",
+    "follower_count": 431,
+    "following_count": 128,
+    "media_count": 24,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/likuprina/instagram/profile.jpg"
+  }
 }

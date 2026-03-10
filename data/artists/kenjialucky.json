@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kenjialucky",
-  "name": "Kenji Alucky",
+  "name": "tattoo",
   "location": {
     "city": "Sapporo",
     "country": "Hokkaido BLACKWORKSACRED GEOMETRYOP ART"
@@ -74,5 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "bio": "Ser você mesmo em um mundo que está constantemente tentando fazer de você outra coisa é a maior realizaçãoa",
+  "instagram_enriched": {
+    "id": "38539221178",
+    "follower_count": 190,
+    "following_count": 1440,
+    "media_count": 49,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kenjialucky/instagram/profile.jpg"
+  }
 }

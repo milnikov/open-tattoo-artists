@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kevinpaul",
-  "name": "Kevin Paul",
+  "name": "Kevin Paul Ledamo",
   "location": {
     "city": "Derby",
     "country": "Derbyshire"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Celebrity tattoo artist Kevin Paul has come a long way since his early life of crime. read more"
+  "updated_at": "2026-03-10",
+  "bio": "Celebrity tattoo artist Kevin Paul has come a long way since his early life of crime. read more",
+  "instagram_enriched": {
+    "id": "496999743",
+    "follower_count": 419,
+    "following_count": 593,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kevinpaul/instagram/profile.jpg"
+  }
 }

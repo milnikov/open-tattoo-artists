@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "corvo.poke",
-  "name": "Johnny Corvo",
+  "name": "johnny corvo",
   "location": {
     "city": "Porto",
     "country": "Portugal"
@@ -401,5 +401,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-10",
+  "bio": "My handpokes only!!!\nElectric tattoos here: @johnnycorvo.tattoo\nSelf, music and design here: @johnnycorvo\nPorto 📍 Portugal 🇵🇹",
+  "instagram_enriched": {
+    "id": "9265379749",
+    "follower_count": 720,
+    "following_count": 165,
+    "media_count": 61,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/corvo.poke/instagram/profile.jpg"
+  }
 }

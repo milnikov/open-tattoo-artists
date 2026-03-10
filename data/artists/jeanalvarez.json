@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jeanalvarez",
-  "name": "Jean Alvarez",
+  "name": "Jean Aviz Alvarez",
   "location": {
     "city": "Miami",
     "country": "Miami-Dade County WATERCOLORSKETCH WORKILLUSTRATIVE"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "bio": "Pai do Fernando, da Liz e do Ricardo.\nFe.Liz.ardo",
+  "instagram_enriched": {
+    "id": "12121242",
+    "follower_count": 559,
+    "following_count": 995,
+    "media_count": 807,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeanalvarez/instagram/profile.jpg"
+  }
 }

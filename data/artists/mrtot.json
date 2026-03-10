@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "mrtot",
+  "name": "Mr TOT",
+  "location": {
+    "city": "Nantes",
+    "country": "Arrondissement de Nantes HAND POKED"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/mrtot",
+    "instagram": "https://instagram.com/mrtot",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtot/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtot/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Hand poke tattoo craftsman - machine-free. When I'm not on the road, you can find me at Studio 54 in Angers and Nantes."
+}

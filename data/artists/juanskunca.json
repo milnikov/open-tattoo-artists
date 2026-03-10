@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "juanskunca",
-  "name": "Juan Pablo Skunca",
+  "name": "Juan Ignacio Skunca",
   "location": {
     "city": "Buenos Aires",
     "country": "Buenos Aires Province BLACK AND GREYILLUSTRATIVE 1 TATTOO"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Golden Ink Tattoo and Piercing Buenos Aires"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Golden Ink Tattoo and Piercing Buenos Aires",
+  "instagram_enriched": {
+    "id": "856545828",
+    "follower_count": 128,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juanskunca/instagram/profile.jpg"
+  }
 }

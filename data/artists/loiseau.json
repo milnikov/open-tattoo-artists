@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "loiseau",
-  "name": "L'oiseau · Franck Soler",
+  "name": "Maria",
   "location": {
     "city": "Collioure",
     "country": "Arrondissement de Céret SKETCH WORK"
@@ -98,6 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE P Faubourg Tattoo Club"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE P Faubourg Tattoo Club",
+  "instagram_enriched": {
+    "id": "2877549",
+    "follower_count": 299,
+    "following_count": 582,
+    "media_count": 4571,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/loiseau/instagram/profile.jpg"
+  }
 }

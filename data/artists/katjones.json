@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "katjones",
-  "name": "Katherine Jones",
+  "name": "Kat Jones",
   "location": {
     "city": "Port Hueneme",
     "country": "Ventura County 1 TATTOO"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Inkfatuation Inc Tattoos Port Hueneme"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Inkfatuation Inc Tattoos Port Hueneme",
+  "instagram_enriched": {
+    "id": "483398",
+    "follower_count": 50,
+    "following_count": 102,
+    "media_count": 175,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katjones/instagram/profile.jpg"
+  }
 }

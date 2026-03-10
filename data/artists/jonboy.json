@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jonboy",
-  "name": "JonBoy",
+  "name": "Jon Boy",
   "location": {
     "city": "Manhattan",
     "country": "New York City MINIMALISTLETTERINGLINE ARTFINE LINE"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Jonathan Valena aka JonBoy, celebrity tattoo artist specialized in delicate small tattoos."
+  "updated_at": "2026-03-10",
+  "bio": "Jonathan Valena aka JonBoy, celebrity tattoo artist specialized in delicate small tattoos.",
+  "instagram_enriched": {
+    "id": "7248718496",
+    "follower_count": 60,
+    "following_count": 29,
+    "media_count": 28,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonboy/instagram/profile.jpg"
+  }
 }

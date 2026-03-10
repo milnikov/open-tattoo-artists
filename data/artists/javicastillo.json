@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "javicastillo",
-  "name": "Javi Castillo",
+  "name": "Javiera",
   "location": {
     "city": "San Pedro",
     "country": "San José Province BLACK AND GREYBLACKWORK"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Stattoos San Pedro"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Stattoos San Pedro\n\nEnfermera",
+  "instagram_enriched": {
+    "id": "30801165",
+    "follower_count": 271,
+    "following_count": 191,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/javicastillo/instagram/profile.jpg"
+  }
 }

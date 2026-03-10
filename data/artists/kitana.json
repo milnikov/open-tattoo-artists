@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kitana",
-  "name": "Kitana",
+  "name": "franferreira",
   "location": {
     "city": "Barcelona",
     "country": "Barcelona Province  1 TATTOO"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Barcelona Spain"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Barcelona Spain",
+  "instagram_enriched": {
+    "id": "1614445883",
+    "follower_count": 371,
+    "following_count": 722,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kitana/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liyang",
-  "name": "Li Yang",
+  "name": "liyang",
   "location": {
     "city": "Chengdu",
     "country": "Sichuan ILLUSTRATIVENEOTRADITIONAL"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Li Yang Tattoo Chengdu"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Li Yang Tattoo Chengdu\n\nit's me",
+  "instagram_enriched": {
+    "id": "2526",
+    "follower_count": 646,
+    "following_count": 125,
+    "media_count": 18,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liyang/instagram/profile.jpg"
+  }
 }

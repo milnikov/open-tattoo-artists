@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "id": "matthunt",
+  "name": "Matt Hunt",
+  "location": {
+    "city": "Birmingham",
+    "country": "West Midlands County GRAPHICILLUSTRATIVE"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/matthunt",
+    "instagram": "https://instagram.com/matthunt",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "003",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/full/003.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthunt/thumb/003.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Modern Body Art Birmingham"
+}

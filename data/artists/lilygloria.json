@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lilygloria",
-  "name": "Lily Gloria",
+  "name": "Lilygloria Tu",
   "location": {
     "city": "Melbourne",
     "country": "Victoria HAND POKED"
@@ -614,6 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Sayagata Tattoo Melbourne"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Sayagata Tattoo Melbourne",
+  "instagram_enriched": {
+    "id": "194203430",
+    "follower_count": 19,
+    "following_count": 508,
+    "media_count": 90,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lilygloria/instagram/profile.jpg"
+  }
 }

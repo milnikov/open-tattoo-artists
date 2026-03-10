@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lipaandrzej",
-  "name": "Lipa Andrzej",
+  "name": "andrzej lipa",
   "location": {
     "city": "Warsaw",
     "country": "Masovian Voivodeship BLACKWORKILLUSTRATIVE"
@@ -38,5 +38,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "9127809942",
+    "follower_count": 105,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lipaandrzej/instagram/profile.jpg"
+  }
 }

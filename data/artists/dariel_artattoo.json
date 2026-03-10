@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dariel_artattoo",
-  "name": "Dariel Artattoo",
+  "name": "Dariel Negrin",
   "location": {
     "city": "Hialeah",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-10",
+  "bio": "OWNER @scratch_tattoo_studio \nMIAMI FL",
+  "instagram_enriched": {
+    "id": "2078932995",
+    "follower_count": 39731,
+    "following_count": 964,
+    "media_count": 1290,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dariel_artattoo/instagram/profile.jpg"
+  }
 }

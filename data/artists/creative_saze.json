@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "creative_saze",
-  "name": "Devon Stevenson",
+  "name": "Creative Saze",
   "location": {
     "city": "Grand Junction",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-10",
+  "bio": "Creative Saze\n#creativesaze\nMurals and paintings\nTattoo page: @tampatattoos",
+  "instagram_enriched": {
+    "id": "26171250954",
+    "follower_count": 116,
+    "following_count": 172,
+    "media_count": 72,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/creative_saze/instagram/profile.jpg"
+  }
 }

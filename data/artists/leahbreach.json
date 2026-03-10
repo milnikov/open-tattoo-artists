@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leahbreach",
-  "name": "Leah Breach",
+  "name": "Leah",
   "location": {
     "city": "Ramsgate",
     "country": "Kent BLACK AND GREYREALISM"
@@ -434,6 +434,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Fine Art Tattoo Ramsgate"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Fine Art Tattoo Ramsgate",
+  "instagram_enriched": {
+    "id": "63577145593",
+    "follower_count": 54,
+    "following_count": 58,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leahbreach/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kirkjones",
-  "name": "Kirk Jones",
+  "name": "kirkjones",
   "location": {
     "city": "Melbourne",
     "country": "Victoria NEOTRADITIONALTRADITIONAL"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Good Luck Tattoo Melbourne"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Good Luck Tattoo Melbourne",
+  "instagram_enriched": {
+    "id": "4085798",
+    "follower_count": 233,
+    "following_count": 226,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kirkjones/instagram/profile.jpg"
+  }
 }

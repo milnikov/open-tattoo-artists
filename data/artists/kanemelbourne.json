@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kanemelbourne",
-  "name": "Kane Melbourne",
+  "name": "kane",
   "location": {
     "city": "Melbourne",
     "country": "WE CONSIDER THAT YOU AGREE TO ITS USE. LEARN MORE ABOUT COOKIE POLICY. HIDE THIS"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Yokai City Tattoo Melbourne"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Yokai City Tattoo Melbourne",
+  "instagram_enriched": {
+    "id": "3981579571",
+    "follower_count": 5,
+    "following_count": 12,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kanemelbourne/instagram/profile.jpg"
+  }
 }

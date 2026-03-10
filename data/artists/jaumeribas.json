@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jaumeribas",
-  "name": "Jaume Ribas · Rezo",
+  "name": "Jaume Ribas Salamó",
   "location": {
     "city": "El Prat de Llobregat",
     "country": "Barcelona Province"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Bloodline Tattoos Barcelona El Prat de Llobregat"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Bloodline Tattoos Barcelona El Prat de Llobregat",
+  "instagram_enriched": {
+    "id": "216719809",
+    "follower_count": 549,
+    "following_count": 581,
+    "media_count": 86,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaumeribas/instagram/profile.jpg"
+  }
 }

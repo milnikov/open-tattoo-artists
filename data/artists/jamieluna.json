@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jamieluna",
-  "name": "Jamie Luna",
+  "name": "Jamie Pearl",
   "location": {
     "city": "Kraków",
     "country": "Lesser Poland Voivodeship"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Tattooist, Designer, Illustrator from Kiev, Ukraine"
+  "updated_at": "2026-03-10",
+  "bio": "Tattooist, Designer, Illustrator from Kiev, Ukraine",
+  "instagram_enriched": {
+    "id": "18768111",
+    "follower_count": 351,
+    "following_count": 2810,
+    "media_count": 1321,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamieluna/instagram/profile.jpg"
+  }
 }

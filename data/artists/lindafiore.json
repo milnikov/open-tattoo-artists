@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lindafiore",
-  "name": "Linda Fiore",
+  "name": "Linda",
   "location": {
     "city": "Milan",
     "country": "Province of Milan CARTOON"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Trafficanti D'arte Milan"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Trafficanti D'arte Milan\n\n⭐️non so nulla con certezza ma la vista delle stelle mi fa sognare 💭",
+  "instagram_enriched": {
+    "id": "180742566",
+    "follower_count": 1236,
+    "following_count": 4898,
+    "media_count": 1083,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lindafiore/instagram/profile.jpg"
+  }
 }

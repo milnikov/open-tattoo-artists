@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maik",
-  "name": "Maik Romero",
+  "name": "maik",
   "location": {
     "city": "Madrid",
     "country": "Community of Madrid LETTERING"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Black Indian Tattoo Madrid"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Black Indian Tattoo Madrid\n\ndesigned by maik.",
+  "instagram_enriched": {
+    "id": "7711894102",
+    "follower_count": 2087,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maik/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joblack",
-  "name": "Jo Miss · Jo Black",
+  "name": "Jo Black",
   "location": {
     "city": "Frome",
     "country": "Somerset NEOTRADITIONALILLUSTRATIVE"
@@ -86,6 +86,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Black Moon Tattoos Frome"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Black Moon Tattoos Frome",
+  "instagram_enriched": {
+    "id": "23975",
+    "follower_count": 118,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joblack/instagram/profile.jpg"
+  }
 }

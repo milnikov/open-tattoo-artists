@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "juliansiebert",
-  "name": "Julian Siebert · Corpsepainter",
+  "name": "Julian Siebert",
   "location": {
     "city": "Munich",
     "country": "Kreisfreie Stadt München REALISMBIOMECHANICALBLACK AND GREY"
@@ -170,6 +170,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Corpsepainter Tattoo Munich"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Corpsepainter Tattoo Munich",
+  "instagram_enriched": {
+    "id": "21672324488",
+    "follower_count": 66,
+    "following_count": 74,
+    "media_count": 83,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliansiebert/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joaquinganga",
-  "name": "Joaquin Ganga",
+  "name": "Joaquín Ganga Gonzalez",
   "location": {
     "city": "Los Angeles",
     "country": "Los Angeles County BLACK AND GREYREALISM"
@@ -518,6 +518,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Ganga Tattoo Studio LA Los Angeles"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Ganga Tattoo Studio LA Los Angeles",
+  "instagram_enriched": {
+    "id": "4559938334",
+    "follower_count": 2,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joaquinganga/instagram/profile.jpg"
+  }
 }

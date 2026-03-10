@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "id": "oashrodriguez",
+  "name": "Oash Rodriguez",
+  "location": {
+    "city": "Parla",
+    "country": "Spain"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/oashrodriguez",
+    "instagram": "https://instagram.com/oashrodriguez",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oashrodriguez/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oashrodriguez/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oashrodriguez/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oashrodriguez/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE La Cosa Nostra Tattoo Parla"
+}

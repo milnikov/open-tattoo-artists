@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "karinacuba",
-  "name": "Karina Cuba",
+  "name": "Karina Arenas Torres",
   "location": {
     "city": "Omsk",
     "country": "Omsk Oblast BLACK AND GREYREALISMPORTRAIT"
@@ -86,5 +86,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "232330593",
+    "follower_count": 204,
+    "following_count": 282,
+    "media_count": 114,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karinacuba/instagram/profile.jpg"
+  }
 }

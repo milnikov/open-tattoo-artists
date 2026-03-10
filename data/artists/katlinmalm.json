@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "katlinmalm",
-  "name": "Kätlin Malm (Laas)",
+  "name": "katlinmalm",
   "location": {
     "city": "Tallinn",
     "country": "Harju County"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE P Studio Malm Tattoo"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE P Studio Malm Tattoo",
+  "instagram_enriched": {
+    "id": "75221825897",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katlinmalm/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joaquinforero",
-  "name": "Joaquin Forero · Joako",
+  "name": "Joaquin G. Forero Martinez",
   "location": {
     "city": "Madrid",
     "country": "Community of Madrid NEW SCHOOL"
@@ -98,6 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE HumanFly Tattoo Madrid"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE HumanFly Tattoo Madrid",
+  "instagram_enriched": {
+    "id": "1460832351",
+    "follower_count": 219,
+    "following_count": 252,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joaquinforero/instagram/profile.jpg"
+  }
 }

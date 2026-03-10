@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "craig.woodtattoo",
-  "name": "Craig Wood",
+  "name": "Craig wood",
   "location": {
     "city": "Liverpool",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-10",
+  "bio": "Tattoo Artist UK, LIverpool",
+  "instagram_enriched": {
+    "id": "76983525402",
+    "follower_count": 121,
+    "following_count": 418,
+    "media_count": 60,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/craig.woodtattoo/instagram/profile.jpg"
+  }
 }

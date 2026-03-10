@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "larissa",
-  "name": "Larissa",
+  "name": "Lalis",
   "location": {
     "city": "Lommel",
     "country": "Arrondissement Maaseik LINE ARTFINE LINE"
@@ -74,5 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "bio": "Larissa Machado",
+  "instagram_enriched": {
+    "id": "19388764275",
+    "follower_count": 149,
+    "following_count": 161,
+    "media_count": 49,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larissa/instagram/profile.jpg"
+  }
 }

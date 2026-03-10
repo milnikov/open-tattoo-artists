@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "katpaine",
-  "name": "Kat Paine",
+  "name": "katpaine",
   "location": {
     "city": "Belfast",
     "country": "County Antrim ILLUSTRATIVECARTOONWATERCOLOR"
@@ -74,6 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Belfast City Skinworks Belfast"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Belfast City Skinworks Belfast",
+  "instagram_enriched": {
+    "id": "39493190",
+    "follower_count": 855,
+    "following_count": 4876,
+    "media_count": 486,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katpaine/instagram/profile.jpg"
+  }
 }

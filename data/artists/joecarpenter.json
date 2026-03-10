@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joecarpenter",
-  "name": "Joe Carpenter",
+  "name": "joe carpenter",
   "location": {
     "city": "Norwich",
     "country": "Norfolk"
@@ -50,5 +50,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "1923074821",
+    "follower_count": 5,
+    "following_count": 17,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joecarpenter/instagram/profile.jpg"
+  }
 }

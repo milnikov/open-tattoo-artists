@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kaiyuhuang",
-  "name": "Kaiyu Huang · Normal Carrey",
+  "name": "黃凱玉",
   "location": {
     "city": "New York City",
     "country": "New York GRAPHICREALISM"
@@ -350,6 +350,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "KAIYU HUANG · NORMAL CARREY"
+  "updated_at": "2026-03-10",
+  "bio": "KAIYU HUANG · NORMAL CARREY",
+  "instagram_enriched": {
+    "id": "2062851308",
+    "follower_count": 55,
+    "following_count": 48,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaiyuhuang/instagram/profile.jpg"
+  }
 }

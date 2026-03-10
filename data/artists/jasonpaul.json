@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jasonpaul",
-  "name": "Jason Paul",
+  "name": "J P",
   "location": {
     "city": "Los Angeles",
     "country": "WE CONSIDER THAT YOU AGREE TO ITS USE. LEARN MORE ABOUT COOKIE POLICY. HIDE THIS"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Tattooing since ‘97, from Los Angeles, CA. JASON PAUL"
+  "updated_at": "2026-03-10",
+  "bio": "Tattooing since ‘97, from Los Angeles, CA. JASON PAUL",
+  "instagram_enriched": {
+    "id": "43125",
+    "follower_count": 51,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jasonpaul/instagram/profile.jpg"
+  }
 }

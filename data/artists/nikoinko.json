@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "nikoinko",
+  "name": "Niko Inko",
+  "location": {
+    "city": "Argelès-sur-Mer",
+    "country": "Arrondissement de Céret GRAPHIC"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/nikoinko",
+    "instagram": "https://instagram.com/nikoinko",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikoinko/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikoinko/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE L' Encrophage Argelès-sur-Mer"
+}

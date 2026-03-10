@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lukestewart",
-  "name": "Luke Stewart",
+  "name": "Luke",
   "location": {
     "city": "San Francisco",
     "country": "WE CONSIDER THAT YOU AGREE TO ITS USE. LEARN MORE ABOUT COOKIE POLICY. HIDE THIS"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Owner of Seventh Son Tattoo."
+  "updated_at": "2026-03-10",
+  "bio": "Owner of Seventh Son Tattoo.",
+  "instagram_enriched": {
+    "id": "569299791",
+    "follower_count": 0,
+    "following_count": 3,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lukestewart/instagram/profile.jpg"
+  }
 }

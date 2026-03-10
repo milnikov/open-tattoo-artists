@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luahills",
-  "name": "Lua Hills",
+  "name": "Lua",
   "location": {
     "city": "Miami",
     "country": "Miami-Dade County DOTWORKILLUSTRATIVELINE ARTFINE LINE 1 TATTOO"
@@ -50,5 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "bio": "𝕿𝖆𝖙𝖙𝖔𝖔 𝕻𝖆𝖌𝖊: @luahills.tattoos \n Links below for music + ⬇️",
+  "instagram_enriched": {
+    "id": "18688487",
+    "follower_count": 3470,
+    "following_count": 1791,
+    "media_count": 43,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luahills/instagram/profile.jpg"
+  }
 }

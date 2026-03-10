@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leandrocuri",
-  "name": "Leandro Curi",
+  "name": "莉莉",
   "location": {
     "city": "Buenos Aires",
     "country": "Buenos Aires Province BLACK AND GREYSKETCH WORKWATERCOLORREALISM"
@@ -74,6 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE P Raff Tattoo Studio"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE P Raff Tattoo Studio",
+  "instagram_enriched": {
+    "id": "211057153",
+    "follower_count": 93,
+    "following_count": 0,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leandrocuri/instagram/profile.jpg"
+  }
 }

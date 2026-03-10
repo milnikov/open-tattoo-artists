@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "dark.spectrum.tattoo",
+  "name": "Sebastian Ursache",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dark.spectrum.tattoo",
+    "instagram": "https://www.instagram.com/dark.spectrum.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dark.spectrum.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dark.spectrum.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dark.spectrum.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dark.spectrum.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Welcome to the Sebastian Ursache's Dark Spectrum Tattoo, an artist-owned bastion of creativity nestled in the heart of Shrewsbury, UK. Specializing in black & gray and realism, our studio takes pride in crafting unique, personalized designs that resonate with the individuality of each client. For a bespoke tattoo experience, connect with us at info@darkspectrumtattoo.co.uk, where art meets personal expression.\nPrice: $\nCurrent location:"
+}

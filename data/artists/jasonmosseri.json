@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jasonmosseri",
-  "name": "Jason Mosseri",
+  "name": "Jasonmosseri",
   "location": {
     "city": "Brighton",
     "country": "East Sussex TRADITIONALJAPANESE · IREZUMIBLACKWORK"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE 1770 Tattoo Brighton"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE 1770 Tattoo Brighton",
+  "instagram_enriched": {
+    "id": "3153205123",
+    "follower_count": 18,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jasonmosseri/instagram/profile.jpg"
+  }
 }

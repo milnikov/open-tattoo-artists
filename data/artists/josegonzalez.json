@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "josegonzalez",
-  "name": "Jose Gonzalez",
+  "name": "José González",
   "location": {
     "city": "Marbella",
     "country": "Province of Málaga REALISMBLACK AND GREY"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Ink In Tattoo Marbella"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Ink In Tattoo Marbella",
+  "instagram_enriched": {
+    "id": "39033992480",
+    "follower_count": 82,
+    "following_count": 176,
+    "media_count": 28,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josegonzalez/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jennabouma",
-  "name": "Jenna Bouma · Slower Black",
+  "name": "Jenna Bouma",
   "location": {
     "city": "Brooklyn",
     "country": "New York City HAND POKEDBLACKWORKTRADITIONAL"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE East River Tattoo Brooklyn"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE East River Tattoo Brooklyn",
+  "instagram_enriched": {
+    "id": "77344318879",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jennabouma/instagram/profile.jpg"
+  }
 }

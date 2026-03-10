@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lineanera",
-  "name": "Linea Nera",
+  "name": "Nando Silvestri",
   "location": {
     "city": "Rivarolo Canavese",
     "country": "Province of Turin NEW SCHOOLCARTOONREALISM"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Nuova Era Tattoo Studio Rivarolo Canavese"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Nuova Era Tattoo Studio Rivarolo Canavese",
+  "instagram_enriched": {
+    "id": "6341254879",
+    "follower_count": 61,
+    "following_count": 22,
+    "media_count": 23,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lineanera/instagram/profile.jpg"
+  }
 }

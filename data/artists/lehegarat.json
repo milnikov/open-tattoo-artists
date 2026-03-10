@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lehegarat",
-  "name": "Juliette Paupiette · Le Hégarat",
+  "name": "Jimmy",
   "location": {
     "city": "London",
     "country": "Greater London BLACKWORKILLUSTRATIVE"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Kids Love Ink East store_mall_directory RESIDENT"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Kids Love Ink East store_mall_directory RESIDENT",
+  "instagram_enriched": {
+    "id": "336207371",
+    "follower_count": 336,
+    "following_count": 428,
+    "media_count": 527,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lehegarat/instagram/profile.jpg"
+  }
 }

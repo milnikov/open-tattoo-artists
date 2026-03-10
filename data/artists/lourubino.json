@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lourubino",
-  "name": "Lou Rubino",
+  "name": "Louise Eleanor Rubino",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -194,5 +194,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "344750766",
+    "follower_count": 320,
+    "following_count": 935,
+    "media_count": 673,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lourubino/instagram/profile.jpg"
+  }
 }

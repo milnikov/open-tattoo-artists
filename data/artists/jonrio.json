@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jonrio",
-  "name": "Jon Rio",
+  "name": "jon rio boinsera",
   "location": {
     "city": "Bloomington",
     "country": "Monroe County 1 TATTOO"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Evil by the Needle Bloomington"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Evil by the Needle Bloomington",
+  "instagram_enriched": {
+    "id": "4508648646",
+    "follower_count": 63,
+    "following_count": 86,
+    "media_count": 17,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonrio/instagram/profile.jpg"
+  }
 }

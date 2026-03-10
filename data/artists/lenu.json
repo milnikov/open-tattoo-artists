@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lenu",
-  "name": "Andrzej Lenu Lenczuk",
+  "name": "Lena Fridman",
   "location": {
     "city": "Wałbrzych",
     "country": "Silesian Voivodeship REALISMBLACK AND GREY"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Alien Tattoo Studio Wałbrzych"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Alien Tattoo Studio Wałbrzych",
+  "instagram_enriched": {
+    "id": "1915314",
+    "follower_count": 76,
+    "following_count": 180,
+    "media_count": 255,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lenu/instagram/profile.jpg"
+  }
 }

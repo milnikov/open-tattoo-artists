@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lukaszsokolowski",
-  "name": "Łukasz Sokołowski ·",
+  "name": "Łukasz Sokołowski",
   "location": {
     "city": "Katowice",
     "country": "Silesian Voivodeship SURREALISMABSTRACTCONTEMPORARY"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Pajęczyna Tattoo Katowice"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Pajęczyna Tattoo Katowice",
+  "instagram_enriched": {
+    "id": "9065366526",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lukaszsokolowski/instagram/profile.jpg"
+  }
 }

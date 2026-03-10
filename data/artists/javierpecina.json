@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "javierpecina",
-  "name": "Javier Peciña",
+  "name": "JPH",
   "location": {
     "city": "Donostia - San Sebastián",
     "country": "Gipuzkoa - Guipúzcoa LINE ARTILLUSTRATIVEBLACKWORK"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE True Black Tattoo Donostia - San Sebastián"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE True Black Tattoo Donostia - San Sebastián",
+  "instagram_enriched": {
+    "id": "255843745",
+    "follower_count": 270,
+    "following_count": 1424,
+    "media_count": 1675,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/javierpecina/instagram/profile.jpg"
+  }
 }

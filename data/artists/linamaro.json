@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "linamaro",
-  "name": "Lina Maro",
+  "name": "Linda",
   "location": {
     "city": "Graz",
     "country": "Graz Stadt ILLUSTRATIVELINE ARTNEOTRADITIONAL"
@@ -98,6 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Austrian based tattoo artist Lina Maro creates neotraditional pieces at her lovely private studio in the city of Graz."
+  "updated_at": "2026-03-10",
+  "bio": "Austrian based tattoo artist Lina Maro creates neotraditional pieces at her lovely private studio in the city of Graz.",
+  "instagram_enriched": {
+    "id": "312010470",
+    "follower_count": 260,
+    "following_count": 374,
+    "media_count": 1244,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linamaro/instagram/profile.jpg"
+  }
 }

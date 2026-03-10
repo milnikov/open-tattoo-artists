@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liubasoroka",
-  "name": "Liubov Soroka",
+  "name": "Любов Сорока",
   "location": {
     "city": "Kiev",
     "country": "Kiev Oblast GRAPHICCONTEMPORARYDOTWORKLINE ART"
@@ -110,6 +110,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE BLVCK LIMIT® Kiev"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE BLVCK LIMIT® Kiev",
+  "instagram_enriched": {
+    "id": "2521325926",
+    "follower_count": 366,
+    "following_count": 217,
+    "media_count": 11,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liubasoroka/instagram/profile.jpg"
+  }
 }
