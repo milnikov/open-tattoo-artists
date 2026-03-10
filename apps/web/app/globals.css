@@ -29,5 +29,17 @@
   html {
     zoom: 1.25;
   }
+}
 
+/* On Map and Add Artist: square icon-only on narrow viewports */
+@media (max-width: 767px) {
+  .header-icon-btn .header-icon-btn-label {
+    display: none !important;
+  }
+  .header-icon-btn {
+    width: 26px !important;
+    min-width: 26px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
 }
