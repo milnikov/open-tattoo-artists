@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "evanyud",
-  "name": "Evan Yu D.",
+  "name": "RESTAURANTE Y PESCA",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "bio": "PESCA DEPORTIVA 🎣\nRESTAURANTE 🍽️👩‍🍳\n📍FRONTINO 📍\n📍VEREDA CABRITAS📍\nUN EXCELENTE LUGAR PARA COMPARTIR EN FAMILIA 👨‍👩‍👧‍👧",
+  "instagram_enriched": {
+    "id": "67467662319",
+    "follower_count": 29,
+    "following_count": 108,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evanyud/instagram/profile.jpg"
+  }
 }

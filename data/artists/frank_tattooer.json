@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "frank_tattooer",
-  "name": "Frank tattoer",
+  "name": "Frankie13",
   "location": {
     "city": "Athens",
     "country": "Greece"
@@ -50,5 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "bio": "Tattoo Artist\nMoscow\nзапись на сеанс, консультация в лс🦇\nтелега - @FrankieH666",
+  "instagram_enriched": {
+    "id": "57332762679",
+    "follower_count": 37,
+    "following_count": 20,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frank_tattooer/instagram/profile.jpg"
+  }
 }

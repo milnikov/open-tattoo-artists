@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabee",
-  "name": "Fabee",
+  "name": "fabeee",
   "location": {
     "city": "Stuttgart",
     "country": "Germany"
@@ -542,5 +542,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "3192256927",
+    "follower_count": 19,
+    "following_count": 43,
+    "media_count": 62,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabee/instagram/profile.jpg"
+  }
 }

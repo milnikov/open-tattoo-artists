@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ernestokalum",
-  "name": "Ernesto Kalum",
+  "name": "ernesto kalum sawing",
   "location": {
     "city": "Kuching Division",
     "country": "Malaysia"
@@ -62,5 +62,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "200328560",
+    "follower_count": 325,
+    "following_count": 463,
+    "media_count": 183,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ernestokalum/instagram/profile.jpg"
+  }
 }

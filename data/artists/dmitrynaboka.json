@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dmitrynaboka",
-  "name": "Dmitry Naboka",
+  "name": "Dmitry  Naboka",
   "location": {
     "city": "Krasnodar",
     "country": "Russia"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE NBK Tattoo Colletive Krasnodar"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE NBK Tattoo Colletive Krasnodar",
+  "instagram_enriched": {
+    "id": "4265928375",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dmitrynaboka/instagram/profile.jpg"
+  }
 }

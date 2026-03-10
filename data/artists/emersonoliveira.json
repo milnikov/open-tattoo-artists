@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "emersonoliveira",
-  "name": "Emerson Oliveira · Japa Artwork",
+  "name": "Emerson Bertoldo de Oliveira",
   "location": {
     "city": "Brasília",
     "country": "Brazil"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Live Tattoo Brasília"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Live Tattoo Brasília\n\nHomem de fé, marido, pai, nerd, apaixonado por tecnologia, desenvolvimento de software e inovações!",
+  "instagram_enriched": {
+    "id": "17443017",
+    "follower_count": 611,
+    "following_count": 850,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emersonoliveira/instagram/profile.jpg"
+  }
 }

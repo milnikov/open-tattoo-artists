@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "eluf",
-  "name": "El Uf",
+  "name": "𝗔𝗟𝗜 𝗙𝗘𝗥𝗔𝗦",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Ondo Tattoo Barcelona"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Ondo Tattoo Barcelona",
+  "instagram_enriched": {
+    "id": "9235324042",
+    "follower_count": 17106,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eluf/instagram/profile.jpg"
+  }
 }
