@@ -33,4 +33,8 @@ apps/web/.env.local
 # Personal reference (VM/git cheatsheet)
 docs/VM_AND_GIT_COMMANDS.md
 
+# Map script caches (downloaded by build_city_coords.py)
+data/indexes/cities-source.json
+data/indexes/country-iso2.json
+
 ui-update/
