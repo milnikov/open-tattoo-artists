@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "henryanglas",
-  "name": "Henry Anglas",
+  "name": "Henry Anglas Soto",
   "location": {
     "city": "Buenos Aires",
     "country": "Argentina"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Free Mind Tattoo Buenos Aires"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Free Mind Tattoo Buenos Aires",
+  "instagram_enriched": {
+    "id": "7454983062",
+    "follower_count": 65,
+    "following_count": 139,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henryanglas/instagram/profile.jpg"
+  }
 }

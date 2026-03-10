@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ganjibang",
-  "name": "Ganji Bang",
+  "name": "방간지",
   "location": {
     "city": "Tokyo",
     "country": "Japan"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Three Tides Tattoo Tokyo Tokyo"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Three Tides Tattoo Tokyo Tokyo",
+  "instagram_enriched": {
+    "id": "3078110089",
+    "follower_count": 1,
+    "following_count": 5,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ganjibang/instagram/profile.jpg"
+  }
 }

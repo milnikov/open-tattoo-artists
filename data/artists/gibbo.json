@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gibbo",
-  "name": "Michael Gibson · Gibbo",
+  "name": "PG",
   "location": {
     "city": "Leeds",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Northern Reign Tattoo Leeds"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Northern Reign Tattoo Leeds",
+  "instagram_enriched": {
+    "id": "75477",
+    "follower_count": 30,
+    "following_count": 16,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gibbo/instagram/profile.jpg"
+  }
 }

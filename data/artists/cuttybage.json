@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "cuttybage",
+  "name": "Oliver Smith",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/cuttybage",
+    "instagram": "https://www.instagram.com/cuttybage/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cuttybage/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cuttybage/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cuttybage/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cuttybage/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-10",
+  "bio": "Oliver Smith's Hollow Moon Tattoo Studio, located in Boone NC, manifests an ambiance of intricate beauty and gritty elegance. Specializing in delicate fineline, intricate floral, and raw sketch styles, this studio intertwines artistry and precision, truly encapsulating the sentiment '🖤⛓🖤'.\nPrice: $$\nCurrent location:"
+}

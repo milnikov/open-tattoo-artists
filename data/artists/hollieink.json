@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hollieink",
-  "name": "Hollie",
+  "name": "HollieInk",
   "location": {
     "city": "Nottingham",
     "country": "United Kingdom"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "bio": "Artist. Geek. Writer. All around weirdo. \nCheck out my website: www.hollieink.au",
+  "instagram_enriched": {
+    "id": "48768972468",
+    "follower_count": 377,
+    "following_count": 193,
+    "media_count": 364,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hollieink/instagram/profile.jpg"
+  }
 }

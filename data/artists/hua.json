@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hua",
-  "name": "Hua",
+  "name": "Fang Hua",
   "location": {
     "city": "Kaohsiung",
     "country": "Taiwan"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE East Tattoo Kaohsiung"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE East Tattoo Kaohsiung",
+  "instagram_enriched": {
+    "id": "16444",
+    "follower_count": 17,
+    "following_count": 1,
+    "media_count": 66,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hua/instagram/profile.jpg"
+  }
 }

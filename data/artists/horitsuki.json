@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horitsuki",
-  "name": "Dust Wu · Horitsuki",
+  "name": "ほりっきー",
   "location": {
     "city": "Hong Kong",
     "country": "China"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Galaxy Tattoo III Hong Kong"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Galaxy Tattoo III Hong Kong",
+  "instagram_enriched": {
+    "id": "4138809206",
+    "follower_count": 13,
+    "following_count": 7,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horitsuki/instagram/profile.jpg"
+  }
 }

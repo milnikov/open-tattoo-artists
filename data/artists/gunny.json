@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gunny",
-  "name": "Gunny",
+  "name": "David Martinez",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Sacred Tattoo Manhattan"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Sacred Tattoo Manhattan\n\nSDA 👆🏼\nPSU Chemistry Alumni🧪",
+  "instagram_enriched": {
+    "id": "466086695",
+    "follower_count": 377,
+    "following_count": 391,
+    "media_count": 19,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gunny/instagram/profile.jpg"
+  }
 }

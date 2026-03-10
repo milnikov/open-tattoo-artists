@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "holliemay",
-  "name": "Hollie May",
+  "name": "🍃H O L L I E    W E L L S 🍃",
   "location": {
     "city": "Leek",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE The Old Smithy Tattoo Parlour Leek"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE The Old Smithy Tattoo Parlour Leek",
+  "instagram_enriched": {
+    "id": "3086184",
+    "follower_count": 416,
+    "following_count": 1340,
+    "media_count": 1466,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/holliemay/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goranmicic",
-  "name": "Goran Mićić",
+  "name": "Goran Micic",
   "location": {
     "city": "Skopje",
     "country": "North Macedonia"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE MG Tattoo Skopje"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE MG Tattoo Skopje",
+  "instagram_enriched": {
+    "id": "846749747",
+    "follower_count": 218,
+    "following_count": 750,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goranmicic/instagram/profile.jpg"
+  }
 }

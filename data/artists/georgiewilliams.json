@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "georgiewilliams",
-  "name": "Georgie Williams",
+  "name": "Georgiepoppyellasadiecharlotte",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -458,5 +458,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "instagram_enriched": {
+    "id": "311918018",
+    "follower_count": 13,
+    "following_count": 43,
+    "media_count": 101,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/georgiewilliams/instagram/profile.jpg"
+  }
 }

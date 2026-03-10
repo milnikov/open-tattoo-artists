@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ivanantonyshev",
-  "name": "Ivan Antonyshev",
+  "name": "иван антонышев",
   "location": {
     "city": "Austin",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Mainstay Tattoo Austin"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Mainstay Tattoo Austin",
+  "instagram_enriched": {
+    "id": "4287896511",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivanantonyshev/instagram/profile.jpg"
+  }
 }

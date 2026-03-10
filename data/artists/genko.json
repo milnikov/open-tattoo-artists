@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "genko",
-  "name": "Genko",
+  "name": "Andrea",
   "location": {
     "city": "Nagoya",
     "country": "Japan"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Genko Tattoo Nagoya"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Genko Tattoo Nagoya",
+  "instagram_enriched": {
+    "id": "1555931",
+    "follower_count": 1,
+    "following_count": 14,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/genko/instagram/profile.jpg"
+  }
 }

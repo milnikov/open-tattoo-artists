@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "helenxu",
-  "name": "Helen Xu",
+  "name": "Helen",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Golden Iron Tattoo Studio Toronto"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Golden Iron Tattoo Studio Toronto",
+  "instagram_enriched": {
+    "id": "339928953",
+    "follower_count": 2,
+    "following_count": 8,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/helenxu/instagram/profile.jpg"
+  }
 }

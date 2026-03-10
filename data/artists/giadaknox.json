@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "giadaknox",
-  "name": "Giada Knox",
+  "name": "Giadaknox",
   "location": {
     "city": "Padua",
     "country": "Italy"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08"
+  "updated_at": "2026-03-10",
+  "bio": "This is my private/introverted profile, for my extrovert content please contact me at : @giada_knox 🌸 @lomaril.italy",
+  "instagram_enriched": {
+    "id": "9178479073",
+    "follower_count": 352,
+    "following_count": 68,
+    "media_count": 152,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/giadaknox/instagram/profile.jpg"
+  }
 }

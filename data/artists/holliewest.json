@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "holliewest",
-  "name": "Hollie West",
+  "name": "H 🍒",
   "location": {
     "city": "Norwich",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Indigo Tattoo Norwich"
+  "updated_at": "2026-03-10",
+  "bio": "WORKPLACE Indigo Tattoo Norwich",
+  "instagram_enriched": {
+    "id": "1443455987",
+    "follower_count": 5026,
+    "following_count": 764,
+    "media_count": 184,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/holliewest/instagram/profile.jpg"
+  }
 }
