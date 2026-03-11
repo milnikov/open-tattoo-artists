@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "denisenko_tattoo",
+  "name": "Denisenko",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/denisenko_tattoo",
+    "instagram": "https://www.instagram.com/denisenko_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denisenko_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denisenko_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denisenko_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denisenko_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Denisenko, a talented artist at NBK Tattoo Collective, is highly renowned for his mastery in the 'black&gray' tattoo style. Not just his exceptional skill level, but also his professionalism, cleanliness and friendliness make him stand out in the industry, promising a comfortable and fulfilling tattoo experience. Regardless of the complexities, the brilliance of his work is evident in every stroke, which is meticulously crafted with precision and dedication.\nPrice: $$\nCurrent location:"
+}

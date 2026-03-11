@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "delarkivo",
+  "name": "Del Arkivo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/delarkivo",
+    "instagram": "https://www.instagram.com/delarkivo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delarkivo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delarkivo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delarkivo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delarkivo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Del Arkivo is a talented tattoo artist with a specialization in watercolor and lettering styles. His exceptional skill level is demonstrated through his intricate and unique designs that bring his clients' visions to life in a stunningly vibrant way. With Del Arkivo, you can expect a piece of art that speaks volumes of his creativity and finesse.\nPrice: $$\nCurrent location:"
+}

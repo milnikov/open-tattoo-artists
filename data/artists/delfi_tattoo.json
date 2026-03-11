@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "delfi_tattoo",
+  "name": "Delfina Ferraro",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/delfi_tattoo",
+    "instagram": "https://www.instagram.com/delfi_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delfi_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delfi_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delfi_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/delfi_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Delfina Ferraro is a masterful tattoo artist based in Berlin, specializing in the art of black & gray, intricate floral designs, and cover-ups. Holding a position at the esteemed ArtVisionStattoo studio, Delfina maintains a high standard of cleanliness, ensuring a safe and sterile environment for all her clients.Booking inquiries can be made directly for available slots in January and February, as Delfina is excited to transform your ideas into stunning ink creations.\nPrice: $\nCurrent location:"
+}

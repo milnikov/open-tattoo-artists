@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "daveqtattoo",
+  "name": "Dave Q",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/daveqtattoo",
+    "instagram": "https://www.instagram.com/daveqtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daveqtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daveqtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daveqtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daveqtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Dave Q is a masterful tattoo artist renowned for his fineline and sketch styles, capturing the essence of poetic imagery with each design. Clients consistently praise his professionalism, which is evident from the meticulous care he takes in both his artistry and maintaining a clean, safe environment at Inkhaus Creative Studios. If you're seeking an expert to bring your vision to life with precision and grace, look no further than Dave's booking information in his bio.\nPrice: $$\nCurrent location:"
+}

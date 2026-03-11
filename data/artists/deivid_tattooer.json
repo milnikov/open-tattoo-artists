@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "deivid_tattooer",
+  "name": "Deivid Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "sponsor:",
+    "hardcraftcompany"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/deivid_tattooer",
+    "instagram": "https://www.instagram.com/deivid_tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deivid_tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deivid_tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deivid_tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deivid_tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Deivid Tattooer is a respected tattoo artist known for mastering the traditional style, leaving each client with a timeless piece of art. His impeccable cleanliness stands out in the industry, ensuring a safe and sterile environment for every tattoo session. If you're looking for a traditional tattoo in Barcelona, Deivid's meticulous attention to hygiene combined with his artistic talent makes him a top choice for your next ink.\nPrice: $\nCurrent location:"
+}

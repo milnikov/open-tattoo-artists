@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "diegoborba_tattoo",
+  "name": "Diego Borba",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/diegoborba_tattoo",
+    "instagram": "https://www.instagram.com/diegoborba_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diegoborba_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diegoborba_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diegoborba_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diegoborba_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Diego Borba is a highly skilled tattoo artist, specializing in black & gray and new school styles. His portfolio showcases an impeccable attention to detail and a masterful use of shading, earning him a reputation for creating stunning, lifelike tattoos. Clients consistently praise Diego's artistry and the precision with which he brings their visions to life on the skin.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "diamondclubtattoo",
+  "name": "Junii Diamond",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/diamondclubtattoo",
+    "instagram": "https://www.instagram.com/diamondclubtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondclubtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondclubtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondclubtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondclubtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Junii Diamond Tattoo Studio, a beacon of Japanese style tattoos since 1991, offers an intimately private setting where artistry and tradition merge. Run by Junii Diamond and a skilled team, clients receive customized body art by appointment only, delivering a personalized and meticulous approach. Sublime designs and vibrant ink resonate with echoes from the universe, making this place a hidden gem amongst connoisseurs in know.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "1991"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "dave_racci_tattoo",
+  "name": "Dave Racci",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dave_racci_tattoo",
+    "instagram": "https://www.instagram.com/dave_racci_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dave_racci_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dave_racci_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dave_racci_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dave_racci_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Dave Racci, renowned for his exceptional skills in black and gray realism tattoos, consistently surpasses his previous achievements with every piece of art he creates. Clients not only admire the intricate details and stunning life-like quality of his tattoos but also his unwavering commitment to professionalism throughout the tattooing process. Dave ensures a top-tier experience by adhering to the highest standards of cleanliness and best practices in his studio.\nPrice: $\nCurrent location:"
+}

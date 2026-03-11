@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "diamondsandrusttattoo",
+  "name": "Lena Richter",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/diamondsandrusttattoo",
+    "instagram": "https://www.instagram.com/diamondsandrusttattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondsandrusttattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondsandrusttattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondsandrusttattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diamondsandrusttattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Lena Richter is a tattoo artist whose mastery in the fineline and dotwork styles sets her apart. She maintains an immaculate studio environment, ensuring that every client's experience is not only artistically fulfilling but also held to the highest standards of cleanliness. Based in Germany, Lena's commitment to a pristine workspace is reflected in the intricate and precise nature of her tattoo artistry, captivating the attention of clients and followers on her Instagram (@lenarichter_art).\nPrice: $\nCurrent location:"
+}
