@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "deathless_tattoos",
+  "name": "deathless_tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/deathless_tattoos",
+    "instagram": "https://www.instagram.com/deathless_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deathless_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deathless_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deathless_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deathless_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Step into the world of ink at Deathless Tattoos, where artistry meets immortality. Specializing in bold neotraditional and elegant black & gray designs, our team of skilled artists, including @tylerisahoare, @remi.saint.roch, and others, awaits to bring your visions to life. To consult with our creative minds, reach out to us on Facebook, or slide into our DMs for a bespoke tattoo experience that defies time.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "darkwhitetattoos",
+  "name": "Enrique Valdes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/darkwhitetattoos",
+    "instagram": "https://www.instagram.com/darkwhitetattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darkwhitetattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darkwhitetattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darkwhitetattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darkwhitetattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Enrique Valdes, a master tattoo artist at Death or Glory Tattoo, specializes in traditional, neotraditional, and dotwork styles that showcase his incredible skill level. Clients often praise Enrique for his exceptional professionalism, ensuring every session is not just about the art, but also about the experience. With Enrique, you can expect a tattoo masterpiece crafted with precision and dedication.\nPrice: $\nCurrent location:"
+}

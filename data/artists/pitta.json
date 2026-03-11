@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "pitta",
+  "name": "Pitta",
+  "location": {
+    "city": "Seoul",
+    "country": "South Korea ILLUSTRATIVECONTEMPORARY 1 TATTOO"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/pitta",
+    "instagram": "https://instagram.com/pitta",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pitta/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pitta/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "WORKPLACE P Mizangwon"
+}
