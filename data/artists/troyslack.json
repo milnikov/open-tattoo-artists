@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "troyslack",
+  "name": "Troy Slack",
+  "location": {
+    "city": "Mount Barker",
+    "country": "South Australia CARTOONCOMIC"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/troyslack",
+    "instagram": "https://instagram.com/troyslack",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troyslack/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troyslack/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "WORKPLACE Sashiko Tattoo Mount Barker"
+}
