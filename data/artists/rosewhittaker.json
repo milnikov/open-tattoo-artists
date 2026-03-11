@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "rosewhittaker",
+  "name": "Rose Whittaker",
+  "location": {
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/rosewhittaker",
+    "instagram": "https://instagram.com/rosewhittaker",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosewhittaker/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosewhittaker/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "WORKPLACE Haunted Tattoos London"
+}
