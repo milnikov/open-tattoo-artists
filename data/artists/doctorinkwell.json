@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "doctorinkwell",
+  "name": "Simon Hook",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/doctorinkwell",
+    "instagram": "https://www.instagram.com/doctorinkwell/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doctorinkwell/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doctorinkwell/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doctorinkwell/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doctorinkwell/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Simon Hook, based in Leeds, UK, is a highly skilled tattoo artist specializing in the 'newschool' style, artistically fusing elements of Tattoo-Graffiti-Airbrush-Cartoons and Comics into his designs. An evident expert in his craft, Simon can be contacted for appointments at doctorinkwell@gmail.com.\nPrice: $$\nCurrent location:"
+}

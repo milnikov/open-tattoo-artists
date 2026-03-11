@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "donmcdonaldtattoo",
+  "name": "Don McDonald",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "newschool",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/donmcdonaldtattoo",
+    "instagram": "https://www.instagram.com/donmcdonaldtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donmcdonaldtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donmcdonaldtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donmcdonaldtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donmcdonaldtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Don McDonald is a skilled tattoo artist an expert in a variety of styles, namely Tribal, New School, and Japanese tattoos. His exceptional talent is displayed through his precise, intricate designs and a strong understanding of artistic elements. He delivers detailed, personalized tattoos which show his level of creativity and mastery within his line of work.\nPrice: $$\nCurrent location:"
+}

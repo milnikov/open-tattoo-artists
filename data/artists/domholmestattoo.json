@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "domholmestattoo",
+  "name": "Dom Holmes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/domholmestattoo",
+    "instagram": "https://www.instagram.com/domholmestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domholmestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domholmestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domholmestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domholmestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Dom Holmes is a renowned tattoo artist best known for their distinct, award-winning geometric style. As well as their acclaimed artistic ability, they are recognized for their professionalism, dedicating significant time to research and writing on the intersection of tattoos and gender. Holmes fosters a clean and respectful working environment and has been particularly influential as a queer activist and founder of @she.her.they.them.\nPrice: $$\nCurrent location:"
+}
