@@ -59,6 +59,16 @@ JUNK_STYLES = {
     "h2oceanloyalty",
     "tropicaldermoficial",
     "fusion_ink",
+    "hardliferotaries",
+    "radiantcolorsink",
+    "worldfamousink",
+    "live.co.uk",
+    "killers.kings",
+    "axysrotary",
+    "sheacare4u",
+    "sickcartridges",
+    "sumuntattoo",
+    "yayofamilia",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -364,6 +374,21 @@ REGION_TO_COUNTRY = {
     "Distrito de Viseu": "Portugal",
     "Sintra": "Portugal",
     "Skopje Statistical Region": "North Macedonia",
+    # More regions from validation
+    "Kreisfreie Stadt Braunschweig": "Germany",
+    "Opole Voivodeship": "Poland",
+    "Western Australia": "Australia",
+    "South Australia": "Australia",
+    "San José Province": "Costa Rica",
+    "Province of Málaga": "Spain",
+    "Province of Seville": "Spain",
+    "Union County": "United States",
+    "Jefferson County": "United States",
+    "Oregon": "United States",
+    "Arrondissement d'Albertville": "France",
+    "Arrondissement d\u2019Albertville": "France",
+    "Somerset": "United Kingdom",
+    "Frankfurt am Main": "Germany",
 }
 
 
