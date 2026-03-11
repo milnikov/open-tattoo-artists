@@ -69,6 +69,11 @@ JUNK_STYLES = {
     "sickcartridges",
     "sumuntattoo",
     "yayofamilia",
+    "hooligancarts",
+    "jetpackwireless",
+    "hardcraftcompany",
+    "grupo_amazon",
+    "ronintattoocare",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -389,6 +394,29 @@ REGION_TO_COUNTRY = {
     "Arrondissement d\u2019Albertville": "France",
     "Somerset": "United Kingdom",
     "Frankfurt am Main": "Germany",
+    # More regions from validation
+    "Oberbergischer Kreis": "Germany",
+    "Morges District": "Switzerland",
+    "West Sussex": "United Kingdom",
+    "Province of Neuquén": "Argentina",
+    "San Bernardino County": "United States",
+    "Sonora": "Mexico",
+    "Hennepin County": "United States",
+    "Province of Cádiz": "Spain",
+    "Suffolk County": "United States",
+    "Arrondissement de Cosne-Cours-sur-Loire": "France",
+    "Kreisfreie Stadt Leverkusen": "Germany",
+    "Lesser Poland Voivodeship": "Poland",
+    "Lausanne District": "Switzerland",
+    "Eisenstadt Stadt": "Austria",
+    "Arrondissement de Mulhouse": "France",
+    "Arrondissement d'Épinal": "France",
+    "Arrondissement d\u2019Épinal": "France",
+    "Osceola County": "United States",
+    "Trnava Region": "Slovakia",
+    "West Midlands County": "United Kingdom",
+    "Northamptonshire": "United Kingdom",
+    "Cornwall": "United Kingdom",
 }
 
 
