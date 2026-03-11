@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "robertolopeztattoo",
+  "name": "Roberto López",
+  "location": {
+    "city": "Buenos Aires",
+    "country": "Buenos Aires Province"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://www.tattoofilter.com/artists/robertolopeztattoo",
+    "instagram": "https://instagram.com/robertolopeztattoo",
+    "website": "https://plus.google.com/communities/109122987850631167221"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/robertolopeztattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/robertolopeztattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "WORKPLACE Denim Demon Tattoo Buenos Aires"
+}
