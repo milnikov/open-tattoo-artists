@@ -19155,6 +19155,21 @@
     "normalized": "darkwater tattoo shop"
   },
   {
+    "id": "darlansena.tattoo",
+    "name": "DARLAN",
+    "normalized": "darlan"
+  },
+  {
+    "id": "darlanred",
+    "name": "Darlan Red",
+    "normalized": "darlan red"
+  },
+  {
+    "id": "darqwebb",
+    "name": "Darq Webb",
+    "normalized": "darq webb"
+  },
+  {
     "id": "darrenrosa",
     "name": "darren rosa",
     "normalized": "darren rosa"
@@ -19595,9 +19610,24 @@
     "normalized": "debora cherrys"
   },
   {
+    "id": "debora_sass",
+    "name": "Debora Sass",
+    "normalized": "debora sass"
+  },
+  {
     "id": "deborahnecci",
     "name": "Deborah Necci",
     "normalized": "deborah necci"
+  },
+  {
+    "id": "deborahpowtattoos",
+    "name": "Deborah Pow",
+    "normalized": "deborah pow"
+  },
+  {
+    "id": "debrartattoos",
+    "name": "Debra Rossi",
+    "normalized": "debra rossi"
   },
   {
     "id": "areyouacopx",
@@ -19813,6 +19843,21 @@
     "id": "dezdelreytattoo",
     "name": "Dez deLrey",
     "normalized": "dez delrey"
+  },
+  {
+    "id": "dhalsim_rabiscko",
+    "name": "Dhalsim Rabiscko",
+    "normalized": "dhalsim rabiscko"
+  },
+  {
+    "id": "dharmatattoaria",
+    "name": "Dharma Tattoaria",
+    "normalized": "dharma tattoaria"
+  },
+  {
+    "id": "dharmatattoolondon",
+    "name": "Dharma Tattoo",
+    "normalized": "dharma tattoo"
   },
   {
     "id": "ink_di",
@@ -24755,6 +24800,11 @@
     "normalized": "kieran williams"
   },
   {
+    "id": "dharma.arte.tattoo",
+    "name": "Kiko Fouchy",
+    "normalized": "kiko fouchy"
+  },
+  {
     "id": "kiku",
     "name": "kiku yamazaki",
     "normalized": "kiku yamazaki"
@@ -28215,6 +28265,11 @@
     "normalized": "nick morte"
   },
   {
+    "id": "nicknoonan",
+    "name": "Nick Noonan",
+    "normalized": "nick noonan"
+  },
+  {
     "id": "nickuittenbogaard",
     "name": "Nick Uittenbogaard",
     "normalized": "nick uittenbogaard"
@@ -29965,6 +30020,31 @@
     "normalized": "rob admiraal"
   },
   {
+    "id": "robgreen",
+    "name": "Rob Green",
+    "normalized": "rob green"
+  },
+  {
+    "id": "robmcelroy",
+    "name": "Rob McElroy",
+    "normalized": "rob mcelroy"
+  },
+  {
+    "id": "robmopar",
+    "name": "Rob Mopar",
+    "normalized": "rob mopar"
+  },
+  {
+    "id": "robnoseworthy",
+    "name": "Rob Noseworthy",
+    "normalized": "rob noseworthy"
+  },
+  {
+    "id": "robrichardson",
+    "name": "Rob Richardson",
+    "normalized": "rob richardson"
+  },
+  {
     "id": "robbiera",
     "name": "Robbie Ra",
     "normalized": "robbie ra"
@@ -29990,9 +30070,49 @@
     "normalized": "robert atkinson"
   },
   {
+    "id": "roberthernandez",
+    "name": "Robert Hernández",
+    "normalized": "robert hernández"
+  },
+  {
+    "id": "robertkane",
+    "name": "Robert Kane",
+    "normalized": "robert kane"
+  },
+  {
+    "id": "robertpho",
+    "name": "Robert Pho",
+    "normalized": "robert pho"
+  },
+  {
+    "id": "robertwitczuk",
+    "name": "Robert Witczuk",
+    "normalized": "robert witczuk"
+  },
+  {
+    "id": "robertzyla",
+    "name": "Robert Zyla",
+    "normalized": "robert zyla"
+  },
+  {
     "id": "darklighttattoo",
     "name": "Roberta Cappelli",
     "normalized": "roberta cappelli"
+  },
+  {
+    "id": "robertoborsi",
+    "name": "Roberto Borsi · Horibudo I",
+    "normalized": "roberto borsi · horibudo i"
+  },
+  {
+    "id": "robertogalbiati",
+    "name": "Roberto Galbiati",
+    "normalized": "roberto galbiati"
+  },
+  {
+    "id": "robertolopeztattoo",
+    "name": "Roberto López",
+    "normalized": "roberto lópez"
   },
   {
     "id": "chapsolvera",
@@ -30000,9 +30120,29 @@
     "normalized": "roberto olvera"
   },
   {
+    "id": "robertorocha",
+    "name": "Roberto Rocha · Skip",
+    "normalized": "roberto rocha · skip"
+  },
+  {
     "id": "cougartooth",
     "name": "Roberto Sanchez",
     "normalized": "roberto sanchez"
+  },
+  {
+    "id": "robincarpio",
+    "name": "Robin Carpio",
+    "normalized": "robin carpio"
+  },
+  {
+    "id": "robinraby",
+    "name": "Robin Raby",
+    "normalized": "robin raby"
+  },
+  {
+    "id": "robinson_de_los_santos",
+    "name": "Robinson De Los Santos",
+    "normalized": "robinson de los santos"
   },
   {
     "id": "bigislandtattoo",
@@ -30013,6 +30153,11 @@
     "id": "cool_time_13",
     "name": "Rocky Lasure",
     "normalized": "rocky lasure"
+  },
+  {
+    "id": "rodneypiper",
+    "name": "Rodney Piper",
+    "normalized": "rodney piper"
   },
   {
     "id": "cholitosplakasitos",
@@ -31318,6 +31463,11 @@
     "id": "blvqwulph",
     "name": "Wulph",
     "normalized": "wulph"
+  },
+  {
+    "id": "darling_tattoo",
+    "name": "Xavier Darling",
+    "normalized": "xavier darling"
   },
   {
     "id": "chibi.ink",
