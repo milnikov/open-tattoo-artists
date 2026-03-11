@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "doc_basil",
+  "name": "Doc Basil",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/doc_basil",
+    "instagram": "https://www.instagram.com/doc_basil/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doc_basil/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doc_basil/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doc_basil/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doc_basil/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Doc Basil is a highly skilled tattoo artist, specializing in traditional styles that truly resonate and leave a lasting impression. Displaying a professionalism that is second to none, he always ensures the utmost cleanliness and hygiene during each session. His images extend beyond the skin, immersing both himself and his clients in the rich tapestry of their designs.\nPrice: $$\nCurrent location:"
+}

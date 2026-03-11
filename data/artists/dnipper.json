@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "dnipper",
+  "name": "Nipper",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dnipper",
+    "instagram": "https://www.instagram.com/dnipper/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dnipper/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dnipper/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dnipper/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dnipper/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Nipper, a co-owner at Bridgend tattoo studio, is highly acclaimed for his exceptional skill in black and gray realism tattoos. His work displays an impressive attention to detail and a masterful control of shading, ensuring that each piece is a true work of art. Clients consistently praise his professionalism, not only in his artistic ability but also in maintaining a clean and hygienic environment, guaranteeing a safe and comfortable tattooing experience.\nPrice: $$\nCurrent location:"
+}
