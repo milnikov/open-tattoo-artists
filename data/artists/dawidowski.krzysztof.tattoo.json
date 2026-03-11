@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "dawidowski.krzysztof.tattoo",
+  "name": "Krzysztof Dawidowski",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dawidowski.krzysztof.tattoo",
+    "instagram": "https://www.instagram.com/dawidowski.krzysztof.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dawidowski.krzysztof.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dawidowski.krzysztof.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dawidowski.krzysztof.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dawidowski.krzysztof.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Krzysztof Dawidowski is a highly proficient tattoo artist, specializing in realism, black and gray, and trash polka styles. His attention to detail and shading techniques has earned him recognition in the tattoo community. Clients also appreciate Krzysztof's commitment to maintaining a clean and hygienic workspace, ensuring a safe and professional experience for every session.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "dbqtattooclub",
+  "name": "Dubuque Tattoo Club",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "illustrative",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dbqtattooclub",
+    "instagram": "https://www.instagram.com/dbqtattooclub/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dbqtattooclub/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dbqtattooclub/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dbqtattooclub/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dbqtattooclub/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Step into Dubuque Tattoo Club, where art meets skin in a vibrant symphony of dotwork, illustrative, and newschool styles. Nestled at 1085B University Avenue in the heart of Dubuque, Iowa, this full-custom studio is a sanctuary for creativity, offering a unique and personalized tattooing experience. Join the club where each intricate design and piercing reflects your individuality in an environment that celebrates self-expression.\nPrice: $\nCurrent location:"
+}

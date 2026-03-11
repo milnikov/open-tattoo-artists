@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "divinci_tattoo",
+  "name": "Divinci Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/divinci_tattoo",
+    "instagram": "https://www.instagram.com/divinci_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/divinci_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/divinci_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/divinci_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/divinci_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Divinci Tattoo is a masterful tattoo artist, whose spectacular prowess in realism, black&gray, and neotraditional styles has earned him a devoted followership of over 93,000 on Instagram. Working out of mobile locations across Orlando, Miami, and West Palm Beach, Divinci pairs his exceptional artistic capabilities with consummate professionalism. As a well-traveled artist, he enriches his work through an infusion of diverse global influences, ensuring every piece he creates is not just a tattoo, but a compelling narrative in ink.\nPrice: $$$\nCurrent location:"
+}

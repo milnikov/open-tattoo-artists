@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "diversifiedink",
+  "name": "Diversified Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/diversifiedink",
+    "instagram": "https://www.instagram.com/diversifiedink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diversifiedink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diversifiedink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diversifiedink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diversifiedink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-11",
+  "bio": "Step into the creative realm of Diversified Ink Tattoo, where the bold artistry of trashpolka tattoos transforms skin into a canvas of dynamic expression. Nestled in the heart of Bangor, ME, our professional studio caters to custom designs with precision and passion, exclusively by appointment to ensure your experience is as unique as your ink. Start your journey with us by requesting a quote on our website, and join the symphony of satisfied canvases adorned with unparalleled artistry.\nPrice: $\nCurrent location:"
+}
