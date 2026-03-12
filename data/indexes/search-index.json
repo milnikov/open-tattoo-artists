@@ -7515,6 +7515,11 @@
     "normalized": "aseptic"
   },
   {
+    "id": "dotworkboss",
+    "name": "Ash Bosse",
+    "normalized": "ash bosse"
+  },
+  {
     "id": "ashcrack",
     "name": "Ash Cox",
     "normalized": "ash cox"
@@ -9565,6 +9570,11 @@
     "normalized": "bianca || goodlifeprincessa"
   },
   {
+    "id": "dorfkind_bibi",
+    "name": "Bibi",
+    "normalized": "bibi"
+  },
+  {
     "id": "bigben_tattooist",
     "name": "Big Ben",
     "normalized": "big ben"
@@ -9643,6 +9653,11 @@
     "id": "bigtoptatts",
     "name": "Big Top Tattoos",
     "normalized": "big top tattoos"
+  },
+  {
+    "id": "dovme.tr",
+    "name": "Big_Tattoo",
+    "normalized": "big_tattoo"
   },
   {
     "id": "bigchecho",
@@ -13850,6 +13865,11 @@
     "normalized": "carson yip"
   },
   {
+    "id": "dotsandlinestattoo",
+    "name": "Carsten Saal",
+    "normalized": "carsten saal"
+  },
+  {
     "id": "cloventattoo",
     "name": "Carter",
     "normalized": "carter"
@@ -14463,6 +14483,11 @@
     "id": "chadillac_green",
     "name": "Chadillac Green",
     "normalized": "chadillac green"
+  },
+  {
+    "id": "dotstolines",
+    "name": "Chaim Machlev",
+    "normalized": "chaim machlev"
   },
   {
     "id": "chaimmachlev_dotstolines",
@@ -15350,6 +15375,16 @@
     "normalized": "chris de armas"
   },
   {
+    "id": "dorroughtattooer",
+    "name": "Chris Dorrough",
+    "normalized": "chris dorrough"
+  },
+  {
+    "id": "dowleytattoo",
+    "name": "Chris Dowley",
+    "normalized": "chris dowley"
+  },
+  {
     "id": "chris_dykestattoos",
     "name": "Chris Dykes",
     "normalized": "chris dykes"
@@ -15455,6 +15490,11 @@
     "normalized": "chris jones"
   },
   {
+    "id": "dinerotattoos",
+    "name": "Chris Jordan Da Silva",
+    "normalized": "chris jordan da silva"
+  },
+  {
     "id": "chricosci_tattoo",
     "name": "Chris Kater",
     "normalized": "chris kater"
@@ -15463,6 +15503,11 @@
     "id": "chriskeaslertattooer",
     "name": "Chris Keasler",
     "normalized": "chris keasler"
+  },
+  {
+    "id": "dorfkind_chris_keule",
+    "name": "Chris Keule",
+    "normalized": "chris keule"
   },
   {
     "id": "chrissyleetattoo",
@@ -18725,6 +18770,11 @@
     "normalized": "daniel park"
   },
   {
+    "id": "dpatricktattoo",
+    "name": "Daniel Patrick",
+    "normalized": "daniel patrick"
+  },
+  {
     "id": "aloha_tattoo_karlsruhe",
     "name": "Daniel Pavlik",
     "normalized": "daniel pavlik"
@@ -18788,6 +18838,11 @@
     "id": "danielthegardener",
     "name": "Daniel the Gardener",
     "normalized": "daniel the gardener"
+  },
+  {
+    "id": "dorfkind_daniel_timmer",
+    "name": "Daniel Timmer",
+    "normalized": "daniel timmer"
   },
   {
     "id": "danieltucci",
@@ -21690,6 +21745,11 @@
     "normalized": "dmitry naboka"
   },
   {
+    "id": "dparamonov",
+    "name": "Dmitry Paramonov",
+    "normalized": "dmitry paramonov"
+  },
+  {
     "id": "dmitryvision",
     "name": "Dmitry Rusky · Dmitry Vision",
     "normalized": "dmitry rusky · dmitry vision"
@@ -22080,9 +22140,29 @@
     "normalized": "dopeink tattoo"
   },
   {
+    "id": "dorstockertattoos",
+    "name": "Dor Stocker",
+    "normalized": "dor stocker"
+  },
+  {
     "id": "do.artink",
     "name": "Dora Ahuuu",
     "normalized": "dora ahuuu"
+  },
+  {
+    "id": "doritattoo",
+    "name": "Dori",
+    "normalized": "dori"
+  },
+  {
+    "id": "dorian.bakalov",
+    "name": "Dorian Bakalov",
+    "normalized": "dorian bakalov"
+  },
+  {
+    "id": "dorotea.easter",
+    "name": "Dorotea Easter",
+    "normalized": "dorotea easter"
   },
   {
     "id": "dorothylyczek",
@@ -22095,14 +22175,54 @@
     "normalized": "dos"
   },
   {
+    "id": "dotbydottattoo",
+    "name": "Dot by Dot",
+    "normalized": "dot by dot"
+  },
+  {
+    "id": "dot.tattoo",
+    "name": "Dot Tattoo",
+    "normalized": "dot tattoo"
+  },
+  {
     "id": "_dotmatrixx_",
     "name": "Dotmatrixx",
     "normalized": "dotmatrixx"
   },
   {
+    "id": "dotsanddaggerstattoo",
+    "name": "Dots & Daggers Tattoo",
+    "normalized": "dots & daggers tattoo"
+  },
+  {
+    "id": "dotted_lines",
+    "name": "Dotted Lines",
+    "normalized": "dotted lines"
+  },
+  {
+    "id": "dottheglob",
+    "name": "Dottheglob",
+    "normalized": "dottheglob"
+  },
+  {
+    "id": "dotty_ginger",
+    "name": "Dotty Ginger",
+    "normalized": "dotty ginger"
+  },
+  {
     "id": "dotwork_damian",
     "name": "Dotwork Damian · Damian Foreman",
     "normalized": "dotwork damian · damian foreman"
+  },
+  {
+    "id": "double_rayon_",
+    "name": "Double Rayon",
+    "normalized": "double rayon"
+  },
+  {
+    "id": "dougdefarias_tattoo",
+    "name": "Doug de Farias",
+    "normalized": "doug de farias"
   },
   {
     "id": "doughardy",
@@ -22115,14 +22235,69 @@
     "normalized": "doug holt"
   },
   {
+    "id": "doug203",
+    "name": "Doug K",
+    "normalized": "doug k"
+  },
+  {
+    "id": "dougpooletattoo",
+    "name": "Doug Poole",
+    "normalized": "doug poole"
+  },
+  {
+    "id": "douglas_elliot",
+    "name": "Douglas Elliot",
+    "normalized": "douglas elliot"
+  },
+  {
+    "id": "doug.tattoo",
+    "name": "Douglas Henriques",
+    "normalized": "douglas henriques"
+  },
+  {
+    "id": "douglasdark",
+    "name": "Douglas Martins Silva",
+    "normalized": "douglas martins silva"
+  },
+  {
+    "id": "douglasprudentetattoo",
+    "name": "Douglas Prudente",
+    "normalized": "douglas prudente"
+  },
+  {
     "id": "doouglastattoo",
     "name": "Douglas Shaz",
     "normalized": "douglas shaz"
   },
   {
+    "id": "douglastattoopiercing",
+    "name": "Douglas Tattoo Piercing",
+    "normalized": "douglas tattoo piercing"
+  },
+  {
+    "id": "dovetailtattoo",
+    "name": "Dovetail Tattoo",
+    "normalized": "dovetail tattoo"
+  },
+  {
+    "id": "downtown.tattoo",
+    "name": "Downtown Tattoo Jena",
+    "normalized": "downtown tattoo jena"
+  },
+  {
+    "id": "downtowntattoosnola",
+    "name": "Downtown Tattoos Nola",
+    "normalized": "downtown tattoos nola"
+  },
+  {
     "id": "doy",
     "name": "Doy",
     "normalized": "doy"
+  },
+  {
+    "id": "dpmtattoo",
+    "name": "DPM Tattoo",
+    "normalized": "dpm tattoo"
   },
   {
     "id": "drclaw",
@@ -22298,6 +22473,11 @@
     "id": "ebrumiradeniz",
     "name": "Ebru Mira Deniz",
     "normalized": "ebru mira deniz"
+  },
+  {
+    "id": "doquem",
+    "name": "EBS",
+    "normalized": "ebs"
   },
   {
     "id": "edperdomo",
@@ -23878,6 +24058,11 @@
     "id": "goldilox",
     "name": "Goldilox · Clare Deen",
     "normalized": "goldilox · clare deen"
+  },
+  {
+    "id": "dot.creativegroup",
+    "name": "Goldy Z",
+    "normalized": "goldy z"
   },
   {
     "id": "demogordogon",
@@ -26235,6 +26420,11 @@
     "normalized": "jph"
   },
   {
+    "id": "downtoearthtattoos",
+    "name": "jromeskee",
+    "normalized": "jromeskee"
+  },
+  {
     "id": "artistryking",
     "name": "JT Ngo",
     "normalized": "jt ngo"
@@ -26303,6 +26493,11 @@
     "id": "jubsslili",
     "name": "Jubss Lili",
     "normalized": "jubss lili"
+  },
+  {
+    "id": "dourlover",
+    "name": "Judd Lucius Miller",
+    "normalized": "judd lucius miller"
   },
   {
     "id": "judyparker",
@@ -29445,6 +29640,11 @@
     "normalized": "michael williams"
   },
   {
+    "id": "dotsonskin",
+    "name": "Michaela",
+    "normalized": "michaela"
+  },
+  {
     "id": "michaeltaguet",
     "name": "Michaël Taguet",
     "normalized": "michaël taguet"
@@ -30318,6 +30518,11 @@
     "id": "nathananderson",
     "name": "Nathan Anderson",
     "normalized": "nathan anderson"
+  },
+  {
+    "id": "dovatattoo",
+    "name": "Nathan Cordova",
+    "normalized": "nathan cordova"
   },
   {
     "id": "nathanevans",
@@ -31343,6 +31548,11 @@
     "id": "pavelangel",
     "name": "Pavel Arefyev · Angel",
     "normalized": "pavel arefyev · angel"
+  },
+  {
+    "id": "dpktattoos",
+    "name": "Pavel Dombrovskiy",
+    "normalized": "pavel dombrovskiy"
   },
   {
     "id": "badass.tattoo",
@@ -33120,6 +33330,11 @@
     "normalized": "sarah doe"
   },
   {
+    "id": "dougietattoo",
+    "name": "Sarah Douglas",
+    "normalized": "sarah douglas"
+  },
+  {
     "id": "saraheurie",
     "name": "Sarah Eurie Kim",
     "normalized": "sarah eurie kim"
@@ -33253,6 +33468,11 @@
     "id": "doneritetattoos",
     "name": "Scott, Chris, Brock, or Mike",
     "normalized": "scott, chris, brock, or mike"
+  },
+  {
+    "id": "doubledeucetattoo",
+    "name": "Scotty Nails",
+    "normalized": "scotty nails"
   },
   {
     "id": "bozemanstattooalley",
@@ -33633,6 +33853,11 @@
     "id": "sid",
     "name": "Sid",
     "normalized": "sid"
+  },
+  {
+    "id": "dotsbysigma",
+    "name": "Sigma Pierce",
+    "normalized": "sigma pierce"
   },
   {
     "id": "siiliufau",
@@ -34518,6 +34743,11 @@
     "id": "artcollectortattoo",
     "name": "Tattoo Los Angeles • Art Collector Tattoo Studio",
     "normalized": "tattoo los angeles • art collector tattoo studio"
+  },
+  {
+    "id": "dozerinktattoos",
+    "name": "Tattoo Mark",
+    "normalized": "tattoo mark"
   },
   {
     "id": "tattoo_mike",
@@ -35523,6 +35753,11 @@
     "id": "dogmanoir",
     "name": "Uls",
     "normalized": "uls"
+  },
+  {
+    "id": "dosetattoo",
+    "name": "Ultra Instinct Tattoo",
+    "normalized": "ultra instinct tattoo"
   },
   {
     "id": "unaibanez",
