@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "embaertattoo",
+  "name": "Emma Baer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/embaertattoo",
+    "instagram": "https://www.instagram.com/embaertattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/embaertattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/embaertattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/embaertattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/embaertattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Emma Baer, a talented tattoo apprentice specializing in 'fineline' styles, works meticulously at Stronghold Tattoo Studio. She maintains an impeccable standard of cleanliness throughout her practice, ensuring a safe and hygienic environment for every client. Don't hesitate to reach out to Emma with any questions—she's more than willing to help guide you through your tattoo journey.\nPrice: $\nCurrent location:"
+}

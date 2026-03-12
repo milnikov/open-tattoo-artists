@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "duncanxtattoos",
+  "name": "Duncan X",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "geometric",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/duncanxtattoos",
+    "instagram": "https://www.instagram.com/duncanxtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duncanxtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duncanxtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duncanxtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duncanxtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Duncan X is a skilled tattoo artist known for his compelling dotwork, geometric, and tribal styles. With a considerable fan base around 80,000 followers on Instagram, it's clear that his unique expertise and artistic vision are highly admired. His distinctive tattooing techniques are not only innovative but also extremely precise, making each masterpiece a sight to behold. Duncan X is not just an artist, but also a trendsetter in the tattoo industry.\nPrice: $$$\nCurrent location:"
+}

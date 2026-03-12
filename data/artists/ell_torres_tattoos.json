@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ell_torres_tattoos",
+  "name": "Ell Torres",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ell_torres_tattoos",
+    "instagram": "https://www.instagram.com/ell_torres_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ell_torres_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ell_torres_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ell_torres_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ell_torres_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Ell Torres is a highly skilled tattoo artist specializing in the neotraditional style, operating out of Gold Room Tattoo in Leeds, UK. Their work showcases a deep understanding of the unique intricacies of neotraditional designs, ensuring that every piece is not only beautiful but also a testament to their technical prowess. Clients can expect to receive tattoos that are both aesthetically stunning and executed with the utmost professionalism.\nPrice: $\nCurrent location:"
+}

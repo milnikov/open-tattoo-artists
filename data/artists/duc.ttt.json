@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "duc.ttt",
+  "name": "Duc TTT",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "sketch",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/duc.ttt",
+    "instagram": "https://www.instagram.com/duc.ttt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duc.ttt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duc.ttt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duc.ttt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duc.ttt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Duc TTT is an exceptional tattoo artist based in Lyon, specializing in the specific styles of fineline, sketch, and dotwork. He is highly professional, boasting a busy schedule with appointments that are often fully booked well in advance, showing the demand and respect he has in his field.\nPrice: $$\nCurrent location:"
+}

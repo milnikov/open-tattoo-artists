@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "dropinshop_tattoo_piercing",
+  "name": "Dropin Shop",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "trashpolka",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dropinshop_tattoo_piercing",
+    "instagram": "https://www.instagram.com/dropinshop_tattoo_piercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dropinshop_tattoo_piercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dropinshop_tattoo_piercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dropinshop_tattoo_piercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dropinshop_tattoo_piercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Welcome to Dropin Shop, your exclusive destination for avant-garde body art and beauty. Specializing in the intricacies of geometric, the bold contrasts of trashpolka, and the delicate precision of fineline tattoos, our private studio offers a unique fusion of tattooing, piercing, and hair styling services within a chic beauty lounge. Connect with us at info@dropinshop.ch or call 076/273.76.27 for an immersive experience in personal aesthetics.\nPrice: $\nCurrent location:"
+}

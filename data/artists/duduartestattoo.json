@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "duduartestattoo",
+  "name": "Dudu Artes RJ",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/duduartestattoo",
+    "instagram": "https://www.instagram.com/duduartestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duduartestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duduartestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duduartestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duduartestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Dudu Artes RJ is an incredibly skilled tattoo artist, specializing in the styles of realism and black & gray. With a strong Instagram following of around 58,000, his expertise is admired by many. Operating out of Jacarepaguá, Anil in RJ, Dudu exhibits a master's hand in delivering supremely detailed and striking tattoo pieces, leaving indelible marks of his craftsmanship on the canvas of skin. His extensive portfolio justifies his specialty in both color and monochrome realism.\nPrice: $$\nCurrent location:"
+}

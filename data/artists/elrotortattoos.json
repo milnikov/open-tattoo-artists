@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "elrotortattoos",
+  "name": "Elro Tor",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/elrotortattoos",
+    "instagram": "https://www.instagram.com/elrotortattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elrotortattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elrotortattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elrotortattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elrotortattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Elro Tor is an accomplished tattoo artist based in Barcelona, specializing in traditional and illustrative styles. His work speaks for his high level of skill and commitment, which is evident in the intricate details and vibrant colors that define his tattoos. Committed to maintaining professionalism, Elro ensures a smooth, efficient booking process via direct messages for his prospective clients.\nPrice: $$\nCurrent location:"
+}

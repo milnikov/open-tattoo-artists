@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "elmoteale",
+  "name": "Elmo Tea Le",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/elmoteale",
+    "instagram": "https://www.instagram.com/elmoteale/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elmoteale/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elmoteale/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elmoteale/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elmoteale/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Elmo Tea Le is a proficient tattoo artist, specializing in traditional, neotraditional, and illustrative styles. Apart from demonstrating remarkable skill in his craft, he maintains a professional demeanor through all his interactions. With his books always open for appointments, he is serious about his work and committed to delivering the highest quality of service to his clients.\nPrice: $$\nCurrent location:"
+}

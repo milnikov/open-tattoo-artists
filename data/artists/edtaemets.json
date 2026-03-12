@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "edtaemets",
+  "name": "Dread Taemets",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/edtaemets",
+    "instagram": "https://www.instagram.com/edtaemets/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edtaemets/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edtaemets/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edtaemets/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edtaemets/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Dread Taemets is an accomplished tattoo artist specializing in sketch, dotwork, and fineline styles. Known for their professionalism, they maintain a clean and welcoming environment, ensuring clients have a comfortable and positive experiences. They operate in the Gold Coast and Brisbane, diligently handling bookings from October through December.\nPrice: $$\nCurrent location:"
+}
