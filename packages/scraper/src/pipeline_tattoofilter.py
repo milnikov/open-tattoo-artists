@@ -2,10 +2,27 @@
 """
 Pipeline for TattooFilter: load URLs from tattoofilter_new_artists.json,
 parse with parse_tattoofilter, download images, R2, write data/artists.
+Writes JSON even when 0 images (name, styles, instagram, etc.).
 Uses separate state file scrape_state_tattoofilter.json (and _tattoofilter_w0 for workers).
 
 Run from repo root: python packages/scraper/src/pipeline_tattoofilter.py
 Or via: scripts/run_daily_parallel_tattoofilter.sh
+
+To create JSONs for artists that were skipped (no images), generate a list of missing handles
+and run with --only-handles-file (or --only-urls-file with a list of URLs). State is not updated.
+
+  python3 -c "
+  import json, re
+  from pathlib import Path
+  def slug_to_handle(url): slug = url.rstrip('/').split('/')[-1]; return re.sub(r'[^a-z0-9._-]', '', slug.lower().replace('-', '_'))[:30] or 'unknown'
+  urls = json.load(open('packages/scraper/tattoofilter_new_artists.json')).get('artists', [])
+  expected = {slug_to_handle(u) for u in urls}
+  existing = {p.stem for p in Path('data/artists').glob('*.json')}
+  missing = sorted(expected - existing)
+  json.dump(missing, open('packages/scraper/tattoofilter_missing_handles.json', 'w'), indent=0)
+  print(len(missing), 'missing handles -> packages/scraper/tattoofilter_missing_handles.json')
+  "
+  python3 packages/scraper/src/pipeline_tattoofilter.py --only-handles-file packages/scraper/tattoofilter_missing_handles.json --no-r2
 """
 
 import argparse
@@ -36,6 +53,13 @@ DISCOVERY_FILE = "packages/scraper/tattoofilter_new_artists.json"
 STATE_SUFFIX = "_tattoofilter"
 
 
+def _url_to_handle(url: str) -> str:
+    """Same logic as parse_tattoofilter: slug -> safe handle for filename."""
+    import re
+    slug = url.rstrip("/").split("/")[-1]
+    return re.sub(r"[^a-z0-9._-]", "", slug.lower().replace("-", "_"))[:30] or "unknown"
+
+
 def _main_state_path() -> Path:
     return repo_path("packages", "scraper", f"scrape_state{STATE_SUFFIX}.json")
 
@@ -57,9 +81,97 @@ def load_urls(discovery_file: str) -> list:
     return data.get("artists", [])
 
 
-def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
+def load_urls_from_file(path: str) -> list:
+    """Load URLs from a file: JSON array, JSON {artists: [...]}, or one URL per line."""
+    p = Path(path) if Path(path).is_absolute() else repo_path(path)
+    if not p.exists():
+        return []
+    text = p.read_text().strip()
+    if not text:
+        return []
+    # Try JSON first
+    try:
+        data = json.loads(text)
+        if isinstance(data, list):
+            return [u for u in data if isinstance(u, str) and u.strip().startswith("http")]
+        if isinstance(data, dict) and "artists" in data:
+            return [u for u in data["artists"] if isinstance(u, str) and u.strip().startswith("http")]
+    except json.JSONDecodeError:
+        pass
+    # One URL per line
+    return [line.strip() for line in text.splitlines() if line.strip().startswith("http")]
+
+
+def load_handles_from_file(path: str) -> set:
+    """Load handles from a file: JSON array, or one handle per line."""
+    p = Path(path) if Path(path).is_absolute() else repo_path(path)
+    if not p.exists():
+        return set()
+    text = p.read_text().strip()
+    if not text:
+        return set()
+    try:
+        data = json.loads(text)
+        if isinstance(data, list):
+            return {str(h).strip() for h in data if h}
+        return set()
+    except json.JSONDecodeError:
+        pass
+    return {line.strip() for line in text.splitlines() if line.strip()}
+
+
+def _run_parallel(config: dict, urls: list, limit: int | None, args, only_mode: bool = False) -> None:
     n = args.workers
     batch_size = args.batch_size or config.get("batch_size") or 100
+    script_dir = repo_path("packages", "scraper", "src")
+    env = os.environ.copy()
+    env["PYTHONPATH"] = str(script_dir) + (os.pathsep + env.get("PYTHONPATH", "")) if env.get("PYTHONPATH") else str(script_dir)
+
+    if only_mode:
+        # Write filtered URLs to temp file; workers load it and take their slice via --start-index/--limit
+        import tempfile
+        fd, only_urls_path = tempfile.mkstemp(suffix=".json", prefix="tattoofilter_only_")
+        try:
+            os.close(fd)
+            with open(only_urls_path, "w") as f:
+                json.dump({"artists": urls}, f)
+            total = len(urls)
+            chunk_size = (total + n - 1) // n
+            ranges = []
+            for i in range(n):
+                lo = i * chunk_size
+                hi = min(lo + chunk_size, total)
+                if lo < hi:
+                    ranges.append((lo, hi - lo))
+            if not ranges:
+                return
+            cmd_base = [
+                sys.executable,
+                str(repo_path("packages", "scraper", "src", "pipeline_tattoofilter.py")),
+                "--only-urls-file", only_urls_path,
+                "--batch-size", str(batch_size),
+            ]
+            if args.no_r2:
+                cmd_base.append("--no-r2")
+            if args.no_git:
+                cmd_base.append("--no-git")
+            procs = []
+            for i, (lo, cnt) in enumerate(ranges):
+                cmd = cmd_base + ["--start-index", str(lo), "--limit", str(cnt)]
+                p = subprocess.Popen(cmd, cwd=str(repo_path()), env=env)
+                procs.append((i, p))
+                print(f"   Worker {i}: indices {lo}-{lo + cnt - 1} ({cnt} URLs) (PID {p.pid})")
+            for i, p in procs:
+                p.wait()
+                if p.returncode != 0:
+                    print(f"   Worker {i} exited with code {p.returncode}")
+        finally:
+            try:
+                os.unlink(only_urls_path)
+            except Exception:
+                pass
+        return
+
     main_state_path = _main_state_path()
     state = load_state(main_state_path)
     last = state["last_index"]
@@ -85,10 +197,6 @@ def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
     if not ranges:
         print("   No ranges to assign.")
         return
-
-    script_dir = repo_path("packages", "scraper", "src")
-    env = os.environ.copy()
-    env["PYTHONPATH"] = str(script_dir) + (os.pathsep + env.get("PYTHONPATH", "")) if env.get("PYTHONPATH") else str(script_dir)
 
     cmd_base = [
         sys.executable,
@@ -180,18 +288,31 @@ def main():
     parser.add_argument("--no-git", action="store_true", help="Do not commit/push")
     parser.add_argument("--state-suffix", type=str, default=STATE_SUFFIX, help=f"State file suffix (default: {STATE_SUFFIX})")
     parser.add_argument("--workers", type=int, default=1, help="Run N workers in parallel")
+    parser.add_argument("--only-urls-file", type=str, default=None, help="Process only URLs from this file (JSON array or one per line); write JSON even with 0 images; do not update main state")
+    parser.add_argument("--only-handles-file", type=str, default=None, help="Process only artists whose handle is in this file (from discovery list); same as --only-urls-file but filter by handles")
     args = parser.parse_args()
 
     config = load_config()
     urls = load_urls(DISCOVERY_FILE)
+    only_mode = False
+    if args.only_urls_file:
+        only_urls = load_urls_from_file(args.only_urls_file)
+        if only_urls:
+            urls = only_urls
+            only_mode = True
+    elif args.only_handles_file:
+        handles = load_handles_from_file(args.only_handles_file)
+        if handles:
+            urls = [u for u in urls if _url_to_handle(u) in handles]
+            only_mode = True
 
     limit = args.limit
-    if limit is None and config.get("max_artists_per_run") is not None:
+    if limit is None and config.get("max_artists_per_run") is not None and not only_mode:
         limit = config["max_artists_per_run"]
         print(f"   Using config max_artists_per_run: {limit}")
 
     if args.workers > 1:
-        _run_parallel(config, urls, limit, args)
+        _run_parallel(config, urls, limit, args, only_mode=only_mode)
         return
 
     state_path = repo_path("packages", "scraper", f"scrape_state{args.state_suffix}.json")
@@ -199,14 +320,27 @@ def main():
 
     batch_size = args.batch_size or config.get("batch_size") or 100
 
-    last = state["last_index"]
-    start = max(last + 1, args.start_index) if last >= 0 else args.start_index
-    if start >= len(urls):
-        print("   All artists processed. Exiting.")
-        sys.exit(EXIT_ALL_DONE)
-    end = start + limit if limit is not None else len(urls)
-    end = min(end, len(urls))
-    urls_to_process = urls[start:end]
+    if only_mode:
+        # Single run: process all; worker run: parent passed --start-index and --limit for this slice
+        if args.start_index > 0 or (args.limit is not None and args.limit < len(urls)):
+            start = args.start_index
+            end = min(args.start_index + (args.limit or len(urls)), len(urls))
+            urls_to_process = urls[start:end]
+            print(f"   Only-mode worker: slice {start}..{end} ({len(urls_to_process)} URLs)")
+        else:
+            start = 0
+            end = len(urls)
+            urls_to_process = urls
+            print(f"   Only-mode: processing {len(urls)} URLs (write JSON even with 0 images, state not updated)")
+    else:
+        last = state["last_index"]
+        start = max(last + 1, args.start_index) if last >= 0 else args.start_index
+        if start >= len(urls):
+            print("   All artists processed. Exiting.")
+            sys.exit(EXIT_ALL_DONE)
+        end = start + limit if limit is not None else len(urls)
+        end = min(end, len(urls))
+        urls_to_process = urls[start:end]
 
     r2_config = config.get("r2") if not args.no_r2 else None
     if not r2_config and not args.no_r2:
@@ -239,7 +373,7 @@ def main():
 
     for i, url in enumerate(urls_to_process):
         idx = start + i
-        print(f"\n[{idx+1}/{len(urls)}] {url}")
+        print(f"\n[{idx+1}/{len(urls_to_process)}] {url}")
 
         try:
             parsed = parse_artist_page(url, headless=True, max_images=max_images)
@@ -252,12 +386,41 @@ def main():
             continue
 
         handle = parsed.instagram_handle
-        if is_completed(handle, state):
+        if not only_mode and is_completed(handle, state):
             print(f"  ⏭️ Already completed: {handle}")
             continue
 
         if not parsed.image_urls:
-            print("  ⏭️ No images found")
+            # Write JSON with whatever we have (name, styles, instagram, etc.) and empty tattoos
+            data = build_artist_json(
+                handle=handle,
+                name=parsed.name,
+                city=parsed.city,
+                country=parsed.country,
+                styles=parsed.styles,
+                instagram_url=parsed.instagram_url,
+                website=parsed.website,
+                source_url=parsed.source_url,
+                tattoos=[],
+                bio=parsed.bio,
+                tattooing_since=parsed.tattooing_since,
+            )
+            write_artist(handle, data)
+            if not only_mode:
+                mark_completed(handle, state, idx, state_path)
+            success_count += 1
+            print(f"  ✅ {handle} (0 images, metadata only)")
+            if i < len(urls_to_process) - 1:
+                delay = random.uniform(delay_min, delay_max)
+                print(f"  ⏸ Waiting {delay:.1f}s before next artist...")
+                time.sleep(delay)
+                if success_count > 0 and success_count % delay_every_n == 0:
+                    extra = random.uniform(delay_extra * 0.7, delay_extra * 1.3)
+                    print(f"  ⏸ Extended pause {extra:.1f}s (every {delay_every_n} artists)...")
+                    time.sleep(extra)
+            if not args.no_git and success_count > 0 and success_count % batch_size == 0:
+                if git_commit_and_push(message=f"chore: add {batch_size} scraped artists (TattooFilter)"):
+                    committed += batch_size
             continue
 
         try:
@@ -304,7 +467,8 @@ def main():
             tattooing_since=parsed.tattooing_since,
         )
         write_artist(handle, data)
-        mark_completed(handle, state, idx, state_path)
+        if not only_mode:
+            mark_completed(handle, state, idx, state_path)
         success_count += 1
         print(f"  ✅ {handle} ({len(tattoos)} images)")
 
