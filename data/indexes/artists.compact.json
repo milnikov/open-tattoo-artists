@@ -40154,6 +40154,30 @@
     "updated_at": "2026-03-06"
   },
   {
+    "id": "drag_ink",
+    "name": "Bang Bang",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "fineline",
+      "minimalist",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/drag_ink/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/thumb/002.webp"
+    ],
+    "bio": "Bang Bang is a highly skilled tattoo artist, known for their adeptness in fineline, minimalist, and dotwork styles. With nearly half a million followers on Instagram, their expertise and unique talent are admired and sought after by many. Not only are they popular within the digital realm, but their standing in New York's competitive scene is highly esteemed, making them a reputable choice for quality, sleek designs.\nPrice: $$$\nCurrent location:",
+    "updated_at": "2026-03-12"
+  },
+  {
     "id": "bangbangbodyarts",
     "name": "Bang Bang Body Arts",
     "location": {
@@ -90189,6 +90213,32 @@
     "updated_at": "2026-03-10"
   },
   {
+    "id": "dracultattoo",
+    "name": "Daniel Dracul Tattoo",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "styles": [
+      "realism",
+      "black&gray",
+      "floral",
+      "coverup"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dracultattoo/"
+    },
+    "tattoo_count": 7,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracultattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracultattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracultattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracultattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracultattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-12"
+  },
+  {
     "id": "daniel.ekdahl",
     "name": "Daniel Ekdahl",
     "location": {
@@ -90582,6 +90632,30 @@
     ],
     "bio": "Daniel Jones is a highly skilled tattoo artist based in Arlington, United States, known for their expertise in illustrative and floral designs that often incorporate bold neotraditional and vibrant color elements. Clients consistently praise Jones's professionalism, both in the stunning execution of their artwork and the meticulous attention to operational aspects of their service, including stringent cleanliness practices. A deposit is required to secure an appointment, ensuring commitment and preparation for each personalized tattoo session.\nPrice: $\nCurrent location: Arlington, Texas, United States",
     "updated_at": "2026-03-11"
+  },
+  {
+    "id": "dr_daniel_jones",
+    "name": "Daniel Jones",
+    "location": {
+      "city": "Roanoke",
+      "country": "United States"
+    },
+    "styles": [
+      "realism"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr_daniel_jones/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_daniel_jones/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_daniel_jones/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_daniel_jones/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_daniel_jones/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_daniel_jones/thumb/004.webp"
+    ],
+    "bio": "Daniel Jones is a highly skilled tattoo artist specializing in realism, bringing incredible detail and life to every piece he creates. Based out of Asylum Studios Tattoos in Roanoke, VA, Daniel combines his impressive talent with a professional demeanor that ensures each client's experience is as flawless as his artwork. His dedication to his craft is evident in the stunning, lifelike tattoos he produces, making him a sought-after artist in the Roanoke region.\nPrice: $\nCurrent location: Roanoke, Virginia, United States",
+    "updated_at": "2026-03-12"
   },
   {
     "id": "danieljooho",
@@ -108208,6 +108282,154 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "dr_inktattoo",
+    "name": "Dr Ink Tattoo",
+    "location": {
+      "city": "San Giorgio A Cremano",
+      "country": "Italy"
+    },
+    "styles": [
+      "black&gray",
+      "dotwork",
+      "fineline",
+      "coverup"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr_inktattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_inktattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_inktattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_inktattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_inktattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_inktattoo/thumb/004.webp"
+    ],
+    "bio": "Welcome to Dr Ink Tattoo, the premier destination for artistry and craftsmanship nestled in the heart of San Giorgio a Cremano, Italy. Specializing in black & gray, dotwork, fineline, and expert coverups, our studio is renowned for transforming skin into stunning canvases with meticulous attention to detail. Connect with us for a free consultation and discover the pinnacle of tattooing and piercing elegance.\nPrice: $\nCurrent location: San Giorgio A Cremano, Campania, Italy",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dr.inktattoos",
+    "name": "Dr Ink Tattoos",
+    "location": {
+      "city": "Myrtle Beach",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray",
+      "illustrative",
+      "neotraditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr.inktattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.inktattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.inktattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.inktattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.inktattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.inktattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dr_jekink_tattoo",
+    "name": "Dr Jek'ink",
+    "location": {
+      "city": "Orleans",
+      "country": "France"
+    },
+    "styles": [
+      "tribal"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr_jekink_tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_jekink_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_jekink_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_jekink_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_jekink_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_jekink_tattoo/thumb/004.webp"
+    ],
+    "bio": "Dr. Jek'ink of @la_manufacture_des_arts is renowned in Orleans, France for their exceptional talent in crafting tribal tattoos. Their dedication to cleanliness is unparalleled, ensuring that every client's experience not only meets but exceeds the highest standards for hygiene and safety in the industry. With a steadfast commitment to cleanliness, Dr. Jek'ink has earned a reputation for excellence and trustworthiness.\nPrice: $\nCurrent location: Orleans, Centre-val De Loire, France",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dr.k_tattooartist",
+    "name": "Dr K (Roland)",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "realism",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr.k_tattooartist/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/thumb/002.webp"
+    ],
+    "bio": "Dr K (Roland) is renowned for his exceptional skill in crafting tattoos with a focus on realism and black & gray. With a dedicated passion for the art form, he not only creates stunning tattoos but also shares his extensive knowledge through online tutorials, making him a respected artist and teacher within the tattoo community. His professionalism is further exemplified by maintaining high standards of cleanliness, ensuring a safe and hygienic experience for all his clients.\nPrice: $\nCurrent location:",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dr.loyaltyink",
+    "name": "Dr Loyaltyink",
+    "location": {
+      "city": "Alicante",
+      "country": "Spain"
+    },
+    "styles": [
+      "black&gray",
+      "realism",
+      "sponsor:",
+      "sumuntattoo"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr.loyaltyink/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.loyaltyink/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.loyaltyink/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.loyaltyink/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.loyaltyink/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.loyaltyink/thumb/004.webp"
+    ],
+    "bio": "Dr Loyaltyink, owner of @dr.nolimits tattoo studio in Zürich and currently stationed in Alicante, Spain, is a highly skilled tattoo artist specializing in black & gray and realism styles. Known for his unique and meticulous technique, he maintains an elevated level of professionalism and artistic integrity, ensuring each piece of art is an authentic masterpiece. Clients can make appointments with him via email or direct message.\nPrice: $$\nCurrent location: Alicante, Valencian Community, Spain",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dr.pottertattooing",
+    "name": "Dr Potter",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr.pottertattooing/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/thumb/002.webp"
+    ],
+    "bio": "Dr. Potter is a highly skilled tattoo artist, renowned for their mastery in the illustrative style. Their studio is a beacon of cleanliness, where every procedure is carried out with the utmost attention to hygiene, ensuring a safe and immaculate environment for every client. Along with technical prowess, Dr. Potter's dedication to maintaining a sterile workspace puts clients at ease, making the tattooing experience both memorable and enjoyable.\nPrice: $\nCurrent location:",
+    "updated_at": "2026-03-12"
+  },
+  {
     "id": "drclaw",
     "name": "Dr. Claw",
     "location": {
@@ -108252,6 +108474,33 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "dracol33",
+    "name": "Draco Lee",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "black&gray",
+      "realism",
+      "trashpolka",
+      "coverup",
+      "sponsor:",
+      "crocarttattoocare"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dracol33/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracol33/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracol33/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dracol33/thumb/002.webp"
+    ],
+    "bio": "Draco Lee is a master tattoo artist renowned for his remarkable skill in black & gray, realism, trash polka, and cover-ups. His meticulous attention to detail and artistry is brought to life at Precision Ink International Tattoo Studio, where he ensures every piece is a stunning work of art. Sponsored by CrocArt Tattoo Care, Draco's commitment to excellence solidifies his status as a #crocarteliteartist, and clients leave not only with impressive tattoos but also with admiration for his profound professionalism.\nPrice: $\nCurrent location:",
+    "updated_at": "2026-03-12"
+  },
+  {
     "id": "drag",
     "name": "Drag",
     "location": {
@@ -108272,6 +108521,82 @@
     ],
     "bio": "WORKPLACE Bang Bang Tattoo Manhattan",
     "updated_at": "2026-03-08"
+  },
+  {
+    "id": "dragonlilytattoo",
+    "name": "Dragon Lily Tattoo",
+    "location": {
+      "city": "Wilton Manors",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "traditional",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dragonlilytattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonlilytattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonlilytattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonlilytattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonlilytattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonlilytattoo/thumb/004.webp"
+    ],
+    "bio": "Embrace the artistry of ink at Dragon Lily Tattoo, an award-winning studio nestled in the heart of Wilton Manors, Fort Lauderdale, Florida. Specializing in illustrative, traditional, and geometric styles, our talented artists transform your visions into breathtaking body art. Connect with us to craft your next masterpiece: text 636-234-3794, call 954-533-0374, or follow our journey on Instagram @Dragonlilytattoo. #Dragonlilytattoo\nPrice: $\nCurrent location: Wilton Manors, Florida, United States",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dragontattooco",
+    "name": "Dragon Tattoo Co",
+    "location": {
+      "city": "Melbourne",
+      "country": "Australia"
+    },
+    "styles": [
+      "watercolor"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dragontattooco/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragontattooco/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragontattooco/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragontattooco/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragontattooco/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragontattooco/thumb/004.webp"
+    ],
+    "bio": "Experience the vibrant fusion of artistry and color at Dragon Tattoo Co, Melbourne's premier watercolor tattoo studio. Nestled in the creative heart of Mount Evelyn at 5 York Road, our expert tattooists masterfully bring your visions to life with vivid hues and fluid designs. Call 8288 2031 to book an appointment and let your skin become the canvas for a breathtaking masterpiece. 🎨🐉\nPrice: $\nCurrent location: Melbourne, Victoria, Australia",
+    "updated_at": "2026-03-12"
+  },
+  {
+    "id": "dragonsriopreto",
+    "name": "Dragons Tattoo",
+    "location": {
+      "city": "São José Do Rio Preto",
+      "country": "Brazil"
+    },
+    "styles": [
+      "black&gray",
+      "tribal",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dragonsriopreto/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonsriopreto/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonsriopreto/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonsriopreto/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonsriopreto/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonsriopreto/thumb/004.webp"
+    ],
+    "bio": "Dragons Tattoo\nSTUDIO\nSão José Do Rio Preto, Sao Paulo, Brazil\n30.1k\nAdd\nMessage\nblack&gray\ntribal\nfloral",
+    "updated_at": "2026-03-12"
   },
   {
     "id": "dravenheart",
@@ -111319,6 +111644,31 @@
     ],
     "bio": "WORKPLACE Rudos Tatuajes Coacalco",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "dr_visser",
+    "name": "Ernesto Visser",
+    "location": {
+      "city": "The Hague",
+      "country": "Netherlands"
+    },
+    "styles": [
+      "illustrative",
+      "fineline",
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr_visser/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_visser/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_visser/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_visser/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_visser/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr_visser/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-12"
   },
   {
     "id": "eros_saviano",
@@ -125467,6 +125817,30 @@
     ],
     "bio": "MADRID📍LAS ROZAS\n📍Propietario del @dolorestattoomadrid      \n📞 658562320 (+34)                                     \n✈️ Ginebra🇨🇭 @crazygenevainktattoo",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "drac_tattoo",
+    "name": "Jose",
+    "location": {
+      "city": "Valencia",
+      "country": "Spain"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/drac_tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drac_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drac_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drac_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drac_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drac_tattoo/thumb/004.webp"
+    ],
+    "bio": "Jose, hailing from Valencia, Spain, is a master tattoo artist specializing in the intricate and nuanced black & gray style. Regarded for meticulous cleanliness, every client can expect a sterile environment that meets the highest standards, ensuring a safe and hygienic tattoo experience. Renowned in Guillem de Castro 138, his commitment to cleanliness is as remarkable as his artistic talent.\nPrice: $\nCurrent location: Valencia, Valencian Community, Spain",
+    "updated_at": "2026-03-12"
   },
   {
     "id": "arriaga_artworks",
@@ -148120,6 +148494,27 @@
     ],
     "bio": "WORKPLACE Pat Fish's LuckyFish, Inc. Santa Barbara",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "dragonhearttattoo",
+    "name": "Patrizio Romolo",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "minimalist"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dragonhearttattoo/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonhearttattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonhearttattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dragonhearttattoo/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-12"
   },
   {
     "id": "patrykhilton",
