@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Spectral } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 
@@ -66,6 +67,7 @@ export default function RootLayout({
         <SiteHeader />
         {children}
         <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
