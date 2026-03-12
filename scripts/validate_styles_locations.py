@@ -79,6 +79,9 @@ JUNK_STYLES = {
     "inkedout_uk",
     "fantasiaartsupply",
     "crocarttattoocare",
+    "atlastattoosupplies",
+    "meaculpairons",
+    "wildcatbarcelona",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
