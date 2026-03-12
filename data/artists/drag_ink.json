@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "drag_ink",
+  "name": "Bang Bang",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "minimalist",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/drag_ink",
+    "instagram": "https://www.instagram.com/drag_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drag_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Bang Bang is a highly skilled tattoo artist, known for their adeptness in fineline, minimalist, and dotwork styles. With nearly half a million followers on Instagram, their expertise and unique talent are admired and sought after by many. Not only are they popular within the digital realm, but their standing in New York's competitive scene is highly esteemed, making them a reputable choice for quality, sleek designs.\nPrice: $$$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "dr.pottertattooing",
+  "name": "Dr Potter",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dr.pottertattooing",
+    "instagram": "https://www.instagram.com/dr.pottertattooing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.pottertattooing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Dr. Potter is a highly skilled tattoo artist, renowned for their mastery in the illustrative style. Their studio is a beacon of cleanliness, where every procedure is carried out with the utmost attention to hygiene, ensuring a safe and immaculate environment for every client. Along with technical prowess, Dr. Potter's dedication to maintaining a sterile workspace puts clients at ease, making the tattooing experience both memorable and enjoyable.\nPrice: $\nCurrent location:"
+}

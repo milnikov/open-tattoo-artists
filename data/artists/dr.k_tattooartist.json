@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "dr.k_tattooartist",
+  "name": "Dr K (Roland)",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dr.k_tattooartist",
+    "instagram": "https://www.instagram.com/dr.k_tattooartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.k_tattooartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-12",
+  "bio": "Dr K (Roland) is renowned for his exceptional skill in crafting tattoos with a focus on realism and black & gray. With a dedicated passion for the art form, he not only creates stunning tattoos but also shares his extensive knowledge through online tutorials, making him a respected artist and teacher within the tattoo community. His professionalism is further exemplified by maintaining high standards of cleanliness, ensuring a safe and hygienic experience for all his clients.\nPrice: $\nCurrent location:"
+}
