@@ -108183,6 +108183,31 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "dr.ink_tattoo_",
+    "name": "Dr Ink",
+    "location": {
+      "city": "Kitzingen",
+      "country": "Germany"
+    },
+    "styles": [
+      "realism",
+      "black&gray",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/dr.ink_tattoo_/"
+    },
+    "tattoo_count": 8,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.ink_tattoo_/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.ink_tattoo_/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.ink_tattoo_/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.ink_tattoo_/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dr.ink_tattoo_/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-12"
+  },
+  {
     "id": "drclaw",
     "name": "Dr. Claw",
     "location": {
