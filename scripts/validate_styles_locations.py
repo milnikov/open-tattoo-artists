@@ -74,6 +74,11 @@ JUNK_STYLES = {
     "hardcraftcompany",
     "grupo_amazon",
     "ronintattoocare",
+    "peakneedles",
+    "goliathneedles",
+    "inkedout_uk",
+    "fantasiaartsupply",
+    "crocarttattoocare",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -417,6 +422,21 @@ REGION_TO_COUNTRY = {
     "West Midlands County": "United Kingdom",
     "Northamptonshire": "United Kingdom",
     "Cornwall": "United Kingdom",
+    # More regions
+    "Geary County": "United States",
+    "Province of Trieste": "Italy",
+    "Fulton County": "United States",
+    "Antalya Province": "Turkey",
+    "Nassau County": "United States",
+    "Suffolk": "United Kingdom",
+    "Province of Palermo": "Italy",
+    "Arrondissement du Puy": "France",
+    "Province of Bologna": "Italy",
+    "Upper Carniola": "Slovenia",
+    "Gloucestershire": "United Kingdom",
+    "Arrondissement de Mons": "Belgium",
+    "Province of Modena": "Italy",
+    "Province of Almería": "Spain",
 }
 
 
