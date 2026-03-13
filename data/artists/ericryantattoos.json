@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ericryantattoos",
+  "name": "Eric Ryan",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ericryantattoos",
+    "instagram": "https://www.instagram.com/ericryantattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericryantattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericryantattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericryantattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericryantattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Eric Ryan is a highly skilled tattoo artist who excels in black&gray, realism, and neotraditional styles. Artist and owner at Ink Elephant, his work is a reflection of his technical proficiency and creative vision. With an undying commitment to craft, Eric’s work resonates with impeccable attention to detail and vibrant artistry.\nPrice: $$\nCurrent location:"
+}
