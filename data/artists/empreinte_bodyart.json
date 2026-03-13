@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "empreinte_bodyart",
+  "name": "Empreinte Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "floral",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/empreinte_bodyart",
+    "instagram": "https://www.instagram.com/empreinte_bodyart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/empreinte_bodyart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/empreinte_bodyart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/empreinte_bodyart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/empreinte_bodyart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Empreinte Tattoo is an avant-garde tattoo studio specializing in intricate dotwork, delicate floral designs, and captivating black & gray tattoos. Known for its artistic precision and dedication to craftsmanship, the studio fosters a welcoming environment that celebrates individual expression. They also offer professional piercing services under the handle @empreintepiercing.\nPrice: $$\nCurrent location:"
+}

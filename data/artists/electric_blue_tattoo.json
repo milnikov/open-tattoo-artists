@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "electric_blue_tattoo",
+  "name": "MJ",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/electric_blue_tattoo",
+    "instagram": "https://www.instagram.com/electric_blue_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_blue_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_blue_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_blue_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_blue_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Immerse yourself in the vibrant and artistic ambiance at Electric Blue Tattoo, where MJ's mastery in watercolor and illustrative styles brings your skin to life. Nestled in the heart of Raleigh at 8408 Six Forks Rd, our premier custom tattoo salon offers a welcoming, spotless environment for a unique, personalized ink experience. Come create your masterpiece with us, where your vision and our passion merge.\nPrice: $\nCurrent location:"
+}
