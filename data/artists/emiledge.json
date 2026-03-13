@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "emiledge",
+  "name": "Emil Edge",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/emiledge",
+    "instagram": "https://www.instagram.com/emiledge/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiledge/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiledge/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiledge/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiledge/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Emil Edge is an extraordinarily skilled tattoo artist, specializing in the unique styles of 'newschool' and 'vegan' tattoos. Honored as Sweden's Tattooer of the Year in 2017, his remarkable portfolio extends beyond tattoos to sketches, sculptures, and paintings. In addition to his artistic talents, he has a passion for creating hotrods, showcased at his @emiledgefabrication page.\nPrice: $$\nCurrent location:"
+}

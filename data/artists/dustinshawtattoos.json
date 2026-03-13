@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "dustinshawtattoos",
+  "name": "Dustin Shaw",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dustinshawtattoos",
+    "instagram": "https://www.instagram.com/dustinshawtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dustinshawtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dustinshawtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dustinshawtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dustinshawtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Dustin Shaw is a highly talented tattoo artist specializing in traditional and illustrative styles, bringing each client's vision to life with exceptional skill and artistry. He maintains a pristine work environment, ensuring every client's comfort and safety with his unwavering commitment to cleanliness. To schedule a session with Dustin, potential clients are encouraged to visit Boundbychaos.com or send a text to (559) 382-3344, as he prefers not to handle bookings through direct messages.\nPrice: $\nCurrent location:"
+}
