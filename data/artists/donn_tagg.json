@@ -18,6 +18,42 @@
   },
   "tattoos": [
     {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_003",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/full/ig_003.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/thumb/ig_003.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
       "image_id": "001",
       "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/full/001.webp",
       "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/thumb/001.webp",
@@ -618,5 +654,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "bio": "Tattooer @Tattooagogonola  New Orleans   @nutria_loaf for non-tattoo related artwork, zines, comics etc",
+  "instagram_enriched": {
+    "id": "4384213",
+    "follower_count": 2635,
+    "following_count": 1539,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donn_tagg/instagram/profile.jpg"
+  }
 }

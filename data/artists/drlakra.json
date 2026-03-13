@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "drlakra",
-  "name": "Dr Lakra",
+  "name": "Dr. Lakra",
   "location": {
     "city": "Mexico City",
     "country": "Mexico"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "Dr. Lakra (Mexican, b.1972) is an artist and tattooist living and working in Oaxaca, Mexico.",
+  "instagram_enriched": {
+    "id": "14010979081",
+    "follower_count": 51,
+    "following_count": 36,
+    "media_count": 12,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drlakra/instagram/profile.jpg"
+  }
 }
