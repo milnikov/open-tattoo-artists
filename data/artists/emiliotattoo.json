@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "emiliotattoo",
+  "name": "Emilio Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "sponsor:",
+    "grupo_amazon"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/emiliotattoo",
+    "instagram": "https://www.instagram.com/emiliotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiliotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiliotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiliotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emiliotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Emilio Tattoo, based in São Paulo, Brazil, is a master tattoo artist who specializes in 'black&gray' style. Communicating directly through WhatsApp, Emilio has gained a renowned reputation for his uncanny attention to detail, elevating the intricate nuances of his chosen style. The skill level he exhibits is truly breathtaking, bringing clients' visions to life with precision and finesse that few artists can match.\nPrice: $$\nCurrent location:"
+}

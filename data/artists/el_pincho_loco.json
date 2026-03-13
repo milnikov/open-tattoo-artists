@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "el_pincho_loco",
+  "name": "El Pincho Loco",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "lettering",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/el_pincho_loco",
+    "instagram": "https://www.instagram.com/el_pincho_loco/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_pincho_loco/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_pincho_loco/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_pincho_loco/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_pincho_loco/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "El Pincho Loco is a renowned tattoo artist known for their impeccable skill in black & gray, lettering, and tribal styles. Operating out of Werdohl, Germany, they maintain the highest standards of cleanliness in their studio, ensuring a safe and hygienic experience for every client. El Pincho Loco's commitment to a clean work environment matches the precision and excellence of their tattoo artistry.\nPrice: $\nCurrent location:"
+}
