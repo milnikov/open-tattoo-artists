@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brokk",
-  "name": "Brokk",
+  "name": "Stikk Brokk",
   "location": {
     "city": "Manchester",
     "country": "Greater Manchester"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Sacred Knot Tattoo"
+  "bio": "WORKPLACE P Sacred Knot Tattoo",
+  "instagram_enriched": {
+    "id": "1211058445",
+    "follower_count": 133,
+    "following_count": 5,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brokk/instagram/profile.jpg"
+  }
 }

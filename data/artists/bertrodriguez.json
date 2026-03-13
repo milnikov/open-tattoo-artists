@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bertrodriguez",
-  "name": "Bert Rodriguez",
+  "name": "master_bert.rodriguez",
   "location": {
     "city": "Kelseyville",
     "country": "Lake County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Bert's Tattoo Kelseyville"
+  "bio": "WORKPLACE Bert's Tattoo Kelseyville\n\nAuthor, of Power Thoughts- Motivational Fuel for Success and Face Fear Create Courage, personal trainer, motivational speaker. Life Coach.",
+  "instagram_enriched": {
+    "id": "2234813124",
+    "follower_count": 501,
+    "following_count": 1871,
+    "media_count": 1849,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bertrodriguez/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "benlopez",
-  "name": "Ben Lopez",
+  "name": "Benjamin Lopez",
   "location": {
     "city": "Melbourne",
     "country": "Victoria"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Sacred Serpent Tattoo Melbourne"
+  "bio": "WORKPLACE Sacred Serpent Tattoo Melbourne",
+  "instagram_enriched": {
+    "id": "185434620",
+    "follower_count": 276,
+    "following_count": 374,
+    "media_count": 86,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benlopez/instagram/profile.jpg"
+  }
 }

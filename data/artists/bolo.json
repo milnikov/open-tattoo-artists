@@ -12,7 +12,28 @@
     "instagram": "https://instagram.com/bolo",
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
-  "tattoos": [],
+  "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bolo/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bolo/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Inkaholik Tattoos West Miami Miami"
+  "bio": "WORKPLACE Inkaholik Tattoos West Miami Miami",
+  "instagram_enriched": {
+    "id": "965457",
+    "follower_count": 3159,
+    "following_count": 0,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bolo/instagram/profile.jpg"
+  }
 }

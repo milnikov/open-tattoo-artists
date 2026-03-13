@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "benogrady",
-  "name": "Ben O'Grady",
+  "name": "Ben",
   "location": {
     "city": "Sydney",
     "country": "New South Wales"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Lighthouse Tattoo Sydney"
+  "bio": "WORKPLACE Lighthouse Tattoo Sydney",
+  "instagram_enriched": {
+    "id": "856260658",
+    "follower_count": 1093,
+    "following_count": 2607,
+    "media_count": 60,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benogrady/instagram/profile.jpg"
+  }
 }

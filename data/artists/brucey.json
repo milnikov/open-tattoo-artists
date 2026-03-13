@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brucey",
-  "name": "Andrew Brucey Turnbull · ThreeEyedWolf",
+  "name": "Bruce Bunn",
   "location": {
     "city": "Hobart",
     "country": "Tasmania SINGLE NEEDLETRADITIONAL"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tahiti Felix's Master Tattoo Hobart"
+  "bio": "WORKPLACE Tahiti Felix's Master Tattoo Hobart",
+  "instagram_enriched": {
+    "id": "256987",
+    "follower_count": 30,
+    "following_count": 3,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brucey/instagram/profile.jpg"
+  }
 }

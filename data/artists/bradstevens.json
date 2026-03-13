@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bradstevens",
-  "name": "Brad Stevens",
+  "name": "Ruth",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE New York Adorned Manhattan"
+  "bio": "WORKPLACE New York Adorned Manhattan\n\nhttps://t.me/temo59",
+  "instagram_enriched": {
+    "id": "63148842528",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradstevens/instagram/profile.jpg"
+  }
 }
