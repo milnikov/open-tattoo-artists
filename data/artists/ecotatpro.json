@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ecotatpro",
+  "name": "ECOTAT",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "floral",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ecotatpro",
+    "instagram": "https://www.instagram.com/ecotatpro/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ecotatpro/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ecotatpro/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ecotatpro/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ecotatpro/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "ECOTAT is a highly skilled tattoo artist renowned for their mastery in sketch, floral, and neotraditional styles. They are committed to professionalism not only in their art but also in their dedication to sustainability, providing plant-based alternatives to traditional single-use plastic products in their tattooing process. Their clientele appreciates the cleanliness of their workspace, ensuring every tattoo is created in a pristine and eco-conscious environment.\nPrice: $\nCurrent location:"
+}
