@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "babyray",
-  "name": "Baby Ray",
+  "name": "Nicolò Zarcone",
   "location": {
     "city": "Los Angeles",
     "country": "Los Angeles County TRADITIONALBLACK AND GREY"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Working by appointments only."
+  "bio": "Working by appointments only.",
+  "instagram_enriched": {
+    "id": "323311",
+    "follower_count": 14,
+    "following_count": 0,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/babyray/instagram/profile.jpg"
+  }
 }

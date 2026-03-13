@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artemy",
-  "name": "Artemy",
+  "name": "Artem",
   "location": {
     "city": "Kiev",
     "country": "Kiev Oblast LINE ARTFINE LINEILLUSTRATIVESINGLE NEEDLE"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "7369337",
+    "follower_count": 356,
+    "following_count": 1617,
+    "media_count": 1682,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artemy/instagram/profile.jpg"
+  }
 }

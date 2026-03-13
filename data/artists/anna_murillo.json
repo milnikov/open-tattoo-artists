@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anna_murillo",
-  "name": "Anna Murillo",
+  "name": "Anna isabel",
   "location": {
     "city": "Barcelona",
     "country": "Barcelona Province"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Anna se unió a nuestro equipo cuando abrimos nuestro estudio en Barcelona. read more"
+  "bio": "Anna se unió a nuestro equipo cuando abrimos nuestro estudio en Barcelona. read more",
+  "instagram_enriched": {
+    "id": "1652784676",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anna_murillo/instagram/profile.jpg"
+  }
 }

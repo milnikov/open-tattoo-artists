@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bartoszzielinski",
-  "name": "Bartosz Zieliński · Broda",
+  "name": "Bartosz Zieliński",
   "location": {
     "city": "Warsaw",
     "country": "Masovian Voivodeship NEW SCHOOL"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Starababa Tattoo Warsaw"
+  "bio": "WORKPLACE Starababa Tattoo Warsaw",
+  "instagram_enriched": {
+    "id": "506924900",
+    "follower_count": 16,
+    "following_count": 12,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bartoszzielinski/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anniemess",
-  "name": "Annie Mess",
+  "name": "Ann Marie Messmer",
   "location": {
     "city": "Austin",
     "country": "Travis County BLACKWORKILLUSTRATIVEDOTWORKLINE ART"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Golden Age Tattoo Austin"
+  "bio": "WORKPLACE Golden Age Tattoo Austin",
+  "instagram_enriched": {
+    "id": "46093077841",
+    "follower_count": 94,
+    "following_count": 591,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anniemess/instagram/profile.jpg"
+  }
 }

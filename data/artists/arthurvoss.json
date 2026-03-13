@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arthurvoss",
-  "name": "Arthur Voss",
+  "name": "FTM® XYZ",
   "location": {
     "city": "Cologne",
     "country": "Kreisfreie Stadt Köln"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "I don't know... I just work here.",
+  "instagram_enriched": {
+    "id": "196825467",
+    "follower_count": 4982,
+    "following_count": 120,
+    "media_count": 188,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arthurvoss/instagram/profile.jpg"
+  }
 }

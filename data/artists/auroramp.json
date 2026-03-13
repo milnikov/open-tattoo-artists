@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "auroramp",
-  "name": "Aurora M.P",
+  "name": "Aurora MP",
   "location": {
     "city": "Porto",
     "country": "Grande Porto  · IREZUMI"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Heavy Handers Tattoo Porto"
+  "bio": "WORKPLACE Heavy Handers Tattoo Porto",
+  "instagram_enriched": {
+    "id": "2270818836",
+    "follower_count": 224,
+    "following_count": 570,
+    "media_count": 83,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/auroramp/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artemtkachenko",
-  "name": "Artem Tkachenko",
+  "name": "Ткаченко  Артем",
   "location": {
     "city": "Kharkiv",
     "country": "Kharkiv Oblast BLACKWORKLINE ARTILLUSTRATIVE"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Merkaba Tattoo Studio Kharkiv"
+  "bio": "WORKPLACE Merkaba Tattoo Studio Kharkiv",
+  "instagram_enriched": {
+    "id": "2290829783",
+    "follower_count": 8,
+    "following_count": 6,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artemtkachenko/instagram/profile.jpg"
+  }
 }

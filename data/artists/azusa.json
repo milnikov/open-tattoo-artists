@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "azusa",
-  "name": "Azusa",
+  "name": "Yagita Azusa",
   "location": {
     "city": "Tokyo",
     "country": "Kantō region SINGLE NEEDLELINE ARTFINE LINEILLUSTRATIVE"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Three Tides Tattoo Tokyo Tokyo"
+  "bio": "WORKPLACE Three Tides Tattoo Tokyo Tokyo",
+  "instagram_enriched": {
+    "id": "55013",
+    "follower_count": 109,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/azusa/instagram/profile.jpg"
+  }
 }

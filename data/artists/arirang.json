@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arirang",
-  "name": "Arirang",
+  "name": "bread",
   "location": {
     "city": "Seoul",
     "country": "South Korea ILLUSTRATIVEWATERCOLOR"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "all’s fair in love and war",
+  "instagram_enriched": {
+    "id": "45989343609",
+    "follower_count": 0,
+    "following_count": 5,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arirang/instagram/profile.jpg"
+  }
 }

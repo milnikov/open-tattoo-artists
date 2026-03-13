@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "avalonrose",
-  "name": "Avalon Rose",
+  "name": "L_Rose",
   "location": {
     "city": "Wolverhampton",
     "country": "West Midlands County CARTOONKAWAIIILLUSTRATIVE"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Cult of the Sphynx Wolverhampton"
+  "bio": "WORKPLACE Cult of the Sphynx Wolverhampton",
+  "instagram_enriched": {
+    "id": "30382179",
+    "follower_count": 48,
+    "following_count": 630,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/avalonrose/instagram/profile.jpg"
+  }
 }

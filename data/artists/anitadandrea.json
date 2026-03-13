@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anitadandrea",
-  "name": "Anita D'Andrea",
+  "name": "Anita DAndrea",
   "location": {
     "city": "Buenos Aires",
     "country": "Buenos Aires Province ILLUSTRATIVEWATERCOLOR"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Iris Tattoo"
+  "bio": "WORKPLACE P Iris Tattoo",
+  "instagram_enriched": {
+    "id": "993092517",
+    "follower_count": 1002,
+    "following_count": 921,
+    "media_count": 28,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anitadandrea/instagram/profile.jpg"
+  }
 }

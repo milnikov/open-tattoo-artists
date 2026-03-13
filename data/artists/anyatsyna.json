@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anyatsyna",
-  "name": "Anya Tsyna",
+  "name": "Аня",
   "location": {
     "city": "London",
     "country": "Greater London SINGLE NEEDLEREALISM"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE NR Studio London London"
+  "bio": "WORKPLACE NR Studio London London",
+  "instagram_enriched": {
+    "id": "6974798285",
+    "follower_count": 1,
+    "following_count": 1,
+    "media_count": 334,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anyatsyna/instagram/profile.jpg"
+  }
 }
