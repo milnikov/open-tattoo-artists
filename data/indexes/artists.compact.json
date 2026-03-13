@@ -139785,6 +139785,30 @@
     "updated_at": "2026-03-10"
   },
   {
+    "id": "ethan.tattoos",
+    "name": "Ethan Albert",
+    "location": {
+      "city": "Toronto",
+      "country": "Canada"
+    },
+    "styles": [
+      "dotwork",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ethan.tattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethan.tattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethan.tattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethan.tattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethan.tattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethan.tattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "etbennett_tattoo",
     "name": "Ethan Bennett",
     "location": {
@@ -139805,6 +139829,53 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/004.webp"
     ],
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "ethanjonestattoo",
+    "name": "Ethan Jones",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "dotwork",
+      "traditional",
+      "sketch"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ethanjonestattoo/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethanjonestattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethanjonestattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ethanjonestattoo/thumb/002.webp"
+    ],
+    "bio": "Ethan Jones is an exceptionally skilled tattoo artist specializing in dotwork, traditional, and sketch styles. He exhibits remarkable professionalism, conducting his craft in a private, spotlessly clean studio, The Stray Club. His dedication to cleanliness and order strongly illustrates his commitment to providing an excellent and safe service for his clients.\nPrice: $$\nCurrent location:",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "etheartist",
+    "name": "Etheartist",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "minimalist",
+      "lettering"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/etheartist/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/thumb/002.webp"
+    ],
+    "bio": "Etheartist is a highly skilled tattoo artist specializing in the minimalist and lettering styles that embody sleek, modern aesthetics. Their professionalism is reflected in the meticulous attention to detail and precision in each design, ensuring every client leaves with a wearable piece of art that exceeds expectations. Etheartist's commitment to their craft is evident in the stunning, crisp results of their work.\nPrice: $\nCurrent location:",
     "updated_at": "2026-03-13"
   },
   {
@@ -158793,6 +158864,23 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "justjen",
+    "name": "Jen Crawford",
+    "location": {
+      "city": "Edinburgh",
+      "country": "United Kingdom"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/justjen"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Den of Iniquity Tattoo Parlour Edinburgh\n\nElementary Art Teacher / Amatuer Photographer / Fun Adventures Seeker / Dog Lover / Enjoyer of Life",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "jenlee",
     "name": "Jen Lee",
     "location": {
@@ -165562,7 +165650,7 @@
   },
   {
     "id": "judevesvarut",
-    "name": "Jude Vesvarut",
+    "name": "Jude",
     "location": {
       "city": "Seattle",
       "country": "United States"
@@ -165574,7 +165662,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "Tattooer. QTPOC. They/them.",
+    "bio": "Tattooer. QTPOC. They/them.\n\nPersonal account. \nFor tattoo @judeletronik and @lilithtattooseattle",
     "updated_at": "2026-03-13"
   },
   {
@@ -165599,7 +165687,7 @@
   },
   {
     "id": "juju",
-    "name": "Juju",
+    "name": "JuJu Smith-Schuster",
     "location": {
       "city": "Brooklyn",
       "country": "United States"
@@ -165608,9 +165696,15 @@
     "links": {
       "instagram": "https://instagram.com/juju"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juju/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juju/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juju/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juju/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juju/thumb/ig_004.webp"
+    ],
+    "bio": "Child of God 🇼🇸\nBusiness: Teamjujubusiness@gmail.com @afi.fire",
     "updated_at": "2026-03-13"
   },
   {
@@ -165634,7 +165728,7 @@
   },
   {
     "id": "julefunk",
-    "name": "Jule Funk",
+    "name": "JULE",
     "location": {
       "city": "Leipzig",
       "country": "Kreisfreie Stadt Leipzig"
@@ -165743,15 +165837,15 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "juliabicudo",
-    "name": "Julia Bicudo",
+    "id": "juliajio",
+    "name": "julia",
     "location": {
-      "city": "São Paulo",
-      "country": "Brazil"
+      "city": "Berlin",
+      "country": "Germany"
     },
     "styles": [],
     "links": {
-      "instagram": "https://instagram.com/juliabicudo"
+      "instagram": "https://instagram.com/juliajio"
     },
     "tattoo_count": 0,
     "thumb": null,
@@ -165862,22 +165956,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "juliajio",
-    "name": "Julia Jio",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/juliajio"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "juliamaison",
     "name": "Julia Maison · Julia Sweet Needle",
     "location": {
@@ -165907,22 +165985,6 @@
     "styles": [],
     "links": {
       "instagram": "https://instagram.com/juliamerlin"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "juliamikhaylova",
-    "name": "Julia Mikhaylova",
-    "location": {
-      "city": "Saint Petersburg",
-      "country": "Russia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/juliamikhaylova"
     },
     "tattoo_count": 0,
     "thumb": null,
@@ -166030,7 +166092,7 @@
   },
   {
     "id": "julianbogdan",
-    "name": "Julian Bogdan · Noir Corpus",
+    "name": "Julian Bogdan",
     "location": {
       "city": "Melbourne",
       "country": "Australia"
@@ -166129,9 +166191,15 @@
     "links": {
       "instagram": "https://instagram.com/julianllouve"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julianllouve/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julianllouve/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julianllouve/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julianllouve/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julianllouve/thumb/ig_004.webp"
+    ],
+    "bio": "Now Booking New York City\n.\nplease use contact form\nDM’s broken",
     "updated_at": "2026-03-13"
   },
   {
@@ -166275,10 +166343,15 @@
     "links": {
       "instagram": "https://instagram.com/juliebolene"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Thunderbird Tattoo Los Angeles",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliebolene/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliebolene/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliebolene/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliebolene/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliebolene/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Thunderbird Tattoo Los Angeles\n\n✨Tattooer @slavetotheneedle #seattle to book contact  the shop sttnwest@gmail.com (206)789-2618 ✨ for travel dates email jbolene@mac.com❤️@levioner",
     "updated_at": "2026-03-13"
   },
   {
@@ -166339,9 +166412,15 @@
     "links": {
       "instagram": "https://instagram.com/julimrosa"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julimrosa/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julimrosa/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julimrosa/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julimrosa/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julimrosa/thumb/ig_004.webp"
+    ],
+    "bio": "• weekly sound sessions on “schedule” highlight ⬇️\n• find me at @vision.studio.berlin\n• tattoos @julimdistortion",
     "updated_at": "2026-03-13"
   },
   {
@@ -166394,15 +166473,20 @@
     "links": {
       "instagram": "https://instagram.com/juncha"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Lowrider Tattoo Studio Fountain Valley",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juncha/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juncha/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juncha/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juncha/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juncha/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Lowrider Tattoo Studio Fountain Valley\n\n🥷🏼 Tattoo artist\n♠️ Black & grey realism \n🏴‍☠️ Los Angeles, California",
     "updated_at": "2026-03-13"
   },
   {
     "id": "junchihara",
-    "name": "Jun Chihara",
+    "name": "Jun chihara",
     "location": {
       "city": "Barcelona",
       "country": "Spain"
@@ -166411,10 +166495,15 @@
     "links": {
       "instagram": "https://instagram.com/junchihara"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE VOID Barcelona Barcelona",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junchihara/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junchihara/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junchihara/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junchihara/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junchihara/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE VOID Barcelona Barcelona\n\nBased in Barcelona @blackship.bcn\nukihakojio@gmail.com\nMar. Fukuoka, Osaka, Tokyo \nApr. Barcelona",
     "updated_at": "2026-03-13"
   },
   {
@@ -166473,22 +166562,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "junior",
-    "name": "Junior",
-    "location": {
-      "city": "La Rochelle",
-      "country": "Arrondissement de La Rochelle"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/junior"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "juniorconflito",
     "name": "Junior Conflito",
     "location": {
@@ -166528,6 +166601,28 @@
     "updated_at": "2026-03-10"
   },
   {
+    "id": "junior",
+    "name": "Junior Mendonza",
+    "location": {
+      "city": "La Rochelle",
+      "country": "Arrondissement de La Rochelle"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/junior"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junior/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junior/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junior/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junior/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/junior/thumb/ig_004.webp"
+    ],
+    "bio": "Personal Account                                                                       Fifa Football Agent - @reasonfootball",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "85tattoo",
     "name": "Junior Silva",
     "location": {
@@ -166562,23 +166657,6 @@
     ],
     "bio": "WORKPLACE Diamond Club Tattoo San Francisco",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "junzy",
-    "name": "Junzy Tattooer",
-    "location": {
-      "city": "Anyang",
-      "country": "South Korea"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/junzy"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE P All Day Tattoo",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "jurewerber",
@@ -166637,25 +166715,8 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "justjen",
-    "name": "Just Jen · Jen Wood",
-    "location": {
-      "city": "Edinburgh",
-      "country": "United Kingdom"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/justjen"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Den of Iniquity Tattoo Parlour Edinburgh",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "justinacca",
-    "name": "Justin Acca",
+    "name": "JUSTIN ACCA TATTOO",
     "location": {
       "city": "Melbourne",
       "country": "Australia"
@@ -166664,10 +166725,15 @@
     "links": {
       "instagram": "https://instagram.com/justinacca"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Devils Ink Tattoo Melbourne",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justinacca/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justinacca/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justinacca/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justinacca/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justinacca/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Devils Ink Tattoo Melbourne\n\njustinaccatattoo@gmail.com                             Neo traditional tattoo",
     "updated_at": "2026-03-13"
   },
   {
@@ -166813,7 +166879,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Art Realm Tattoo Austin",
+    "bio": "WORKPLACE Art Realm Tattoo Austin\n\nFor Humanity\n#fttb🏈❤️💛\n🚁",
     "updated_at": "2026-03-13"
   },
   {
@@ -166965,6 +167031,23 @@
     "updated_at": "2026-03-05"
   },
   {
+    "id": "juliabicudo",
+    "name": "Júlia Bicudo",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/juliabicudo"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "Rio de janeiro",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "ju.linhas",
     "name": "Júlia Paiva",
     "location": {
@@ -167023,40 +167106,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaycraig/thumb/ig_004.webp"
     ],
     "bio": "WORKPLACE Tora Sumi Sydney\n\nChicago",
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "kbrown",
-    "name": "K Brown",
-    "location": {
-      "city": "Los Angeles",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/kbrown"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE NORM's Love Letters Tattoo Los Angeles",
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "kadaverism",
-    "name": "Kadaverism · Maria Kadaver",
-    "location": {
-      "city": "Vienna",
-      "country": "Austria"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/kadaverism"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Sissi Got Inked Tattoo Atelier Vienna",
     "updated_at": "2026-03-13"
   },
   {
@@ -167175,7 +167224,7 @@
   },
   {
     "id": "kalawa",
-    "name": "Kalawa",
+    "name": "kalawakmphirim.@facebook.com",
     "location": {
       "city": "Éguilles",
       "country": "Arrondissement d’Aix-en-Provence"
@@ -167232,7 +167281,7 @@
   },
   {
     "id": "kalo",
-    "name": "Kalo Acosta Rojas",
+    "name": "Kalo",
     "location": {
       "city": "Berlin",
       "country": "Germany"
@@ -167401,7 +167450,7 @@
   },
   {
     "id": "kamilakyrr",
-    "name": "Kamila Kyrr",
+    "name": "Kamila Kyrr 🦋",
     "location": {
       "city": "Vilnius",
       "country": "Vilnius County"
@@ -167410,10 +167459,15 @@
     "links": {
       "instagram": "https://instagram.com/kamilakyrr"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Jungle Street Vilnius",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kamilakyrr/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kamilakyrr/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kamilakyrr/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kamilakyrr/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kamilakyrr/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Jungle Street Vilnius\n\nBOOKINGS VIA PM 💌\n✱ 𝖆 𝖗 𝖙 𝖎 𝖘 𝖙 ✱ ⋅ 𝓼 𝓱 𝓲 𝓻 𝓸 𝓲 ⋅ 𝓪 𝓴 𝓾 𝓶 𝓪 ⋅\ndoing magic at @truetattoolt  💒✨\n📍 Vilnius, Lithuania 🌲🦋⚡️🦖🌈🌶️🕷️💕✨",
     "updated_at": "2026-03-13"
   },
   {
@@ -167637,23 +167691,6 @@
     "updated_at": "2026-03-10"
   },
   {
-    "id": "ke",
-    "name": "Karina E. · KE",
-    "location": {
-      "city": "Novosibirsk",
-      "country": "Russia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/ke"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE KE Black Tattoo Novosibirsk",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "karlberringer",
     "name": "Karl Berringer · Kbtat2",
     "location": {
@@ -167715,56 +167752,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "karlmarc",
-    "name": "Karl Marc",
-    "location": {
-      "city": "Paris",
-      "country": "France"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/karlmarc"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Handmade Fine Tattoo Paris",
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "karlmarks",
-    "name": "Karl Marks",
-    "location": {
-      "city": "Montreal",
-      "country": "Canada"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/karlmarks"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "karleesabrina",
-    "name": "Karlee Sabrina",
-    "location": {
-      "city": "Brisbane",
-      "country": "Australia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/karleesabrina"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Garage Ink Tattoo Brisbane",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "karlosherreros",
     "name": "Karlos Herreros",
     "location": {
@@ -167809,23 +167796,6 @@
     "updated_at": "2026-03-06"
   },
   {
-    "id": "karmarianna",
-    "name": "Karmarianna · Mariana Camacho",
-    "location": {
-      "city": "Mexico City",
-      "country": "Mexico"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/karmarianna"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE P Eighty Nine Tattoo Studio",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "karodame",
     "name": "Karo Dame",
     "location": {
@@ -167844,23 +167814,6 @@
     ],
     "bio": "WORKPLACE Anarchist Tattoo Collective Heidelberg",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "karoldias",
-    "name": "Karol Dias",
-    "location": {
-      "city": "São Paulo",
-      "country": "Brazil"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/karoldias"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Led's Tattoo São Paulo",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "karolrybakowski",
@@ -167932,7 +167885,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE P Primitive Tattoo",
+    "bio": "WORKPLACE P Primitive Tattoo\n\n📍Gdańsk, Poland\n🐻 @n_holtyn",
     "updated_at": "2026-03-13"
   },
   {
@@ -167960,6 +167913,23 @@
     ],
     "bio": "Karolina Motyli is a supremely talented tattoo artist based in Lodz, Poland who specializes in floral, geometric and minimalist designs. At the Horyzont Tattoo studio and as an equipment enthusiast at Inkez Tattoo Equipment, she effortlessly showcases her profound skill level, creating intricate and visually stunning pieces with an elegant finesse.\nPrice: $$\nCurrent location: Lodz, Woj. Łódzkie, Poland",
     "updated_at": "2026-03-06"
+  },
+  {
+    "id": "karoldias",
+    "name": "Karoline",
+    "location": {
+      "city": "São Paulo",
+      "country": "Brazil"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/karoldias"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Led's Tattoo São Paulo\n\n✝️ Registered Nurse 🩺🇦🇺",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "black.medusa_tattoo",
@@ -168086,23 +168056,6 @@
     "updated_at": "2026-03-05"
   },
   {
-    "id": "katabdy",
-    "name": "Kat Abdy",
-    "location": {
-      "city": "London",
-      "country": "United Kingdom"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/katabdy"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Cloak and Dagger Tattoo Parlour London",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "katjones",
     "name": "Kat Jones",
     "location": {
@@ -168195,10 +168148,15 @@
     "links": {
       "instagram": "https://instagram.com/katweir"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE P Hot Copper Studio",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katweir/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katweir/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katweir/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katweir/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katweir/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE P Hot Copper Studio\n\nBooks open - 💕 @hotcopperstudio \nNaarm / Melbourne - Australia \nEnquires - katweir@gmail.com 💌\n✨no DMs please✨\n@schnitty_v_crumb 🐶 @katweirpainting 🎨",
     "updated_at": "2026-03-13"
   },
   {
@@ -168248,9 +168206,15 @@
     "links": {
       "instagram": "https://instagram.com/katakankabin"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katakankabin/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katakankabin/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katakankabin/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katakankabin/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katakankabin/thumb/ig_004.webp"
+    ],
+    "bio": "2026 waiting list: email me\nAbstract & lines & nature tattoo since 2013.\n🐚 @ilot.tattoo , Montreal.\nkatakankabin(a)gmail.com (FR or EN)",
     "updated_at": "2026-03-13"
   },
   {
@@ -168293,23 +168257,6 @@
     "updated_at": "2026-03-10"
   },
   {
-    "id": "kateholley",
-    "name": "Kate Holley",
-    "location": {
-      "city": "Vancouver",
-      "country": "Canada"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/kateholley"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE The Moon Tree Tattoo Vancouver",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "katemackaygill",
     "name": "Kate Mackay Gill",
     "location": {
@@ -168337,10 +168284,15 @@
     "links": {
       "instagram": "https://instagram.com/katememphis"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "Formerly Hokus Pokeus KATE MEMPHIS",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katememphis/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katememphis/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katememphis/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katememphis/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katememphis/thumb/ig_004.webp"
+    ],
+    "bio": "Formerly Hokus Pokeus KATE MEMPHIS\n\nToronto | Making weekends special @millpondcabin ✨ \nbook a tattoo with the link below 💌",
     "updated_at": "2026-03-13"
   },
   {
@@ -168405,20 +168357,20 @@
     "updated_at": "2026-03-10"
   },
   {
-    "id": "katerinab",
-    "name": "Katerina B",
+    "id": "kateholley",
+    "name": "Katelynn Kocher",
     "location": {
-      "city": "Odessa",
-      "country": "Ukraine"
+      "city": "Vancouver",
+      "country": "Canada"
     },
     "styles": [],
     "links": {
-      "instagram": "https://instagram.com/katerinab"
+      "instagram": "https://instagram.com/kateholley"
     },
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Cartel Tattoo Odessa",
+    "bio": "WORKPLACE The Moon Tree Tattoo Vancouver",
     "updated_at": "2026-03-13"
   },
   {
@@ -168463,23 +168415,6 @@
     ],
     "bio": "Kath is a consummate professional tattoo artist based in Montreal, Canada, known for their exceptional work in black & gray, trashpolka, and realism styles. They maintain a strict standard of cleanliness, ensuring each client's experience is not only artistically superb but also hygienic and safe. To book an appointment with Kath, clients are encouraged to follow the provided link or send an email, as they do not accept bookings via direct messages.\nPrice: $\nCurrent location: Montreal, Quebec, Canada",
     "updated_at": "2026-03-12"
-  },
-  {
-    "id": "katha.ink",
-    "name": "Katha Tancredi",
-    "location": {
-      "city": "Barcelona",
-      "country": "Spain"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/katha.ink"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "Venezolana viviendo en España, lleva 4 años como artista del tatuaje. read more",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "catloewe.ink",
@@ -168546,6 +168481,45 @@
     "updated_at": "2026-03-10"
   },
   {
+    "id": "katha.ink",
+    "name": "Katherine Tancredi Suarez",
+    "location": {
+      "city": "Barcelona",
+      "country": "Spain"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/katha.ink"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katha.ink/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katha.ink/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katha.ink/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katha.ink/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katha.ink/thumb/ig_004.webp"
+    ],
+    "bio": "Venezolana viviendo en España, lleva 4 años como artista del tatuaje. read more\n\n🧿\nTENERIFE 🇮🇨                 \nRESIDENTE en @sajotattoostudio",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "katerinab",
+    "name": "Katheryna Kat",
+    "location": {
+      "city": "Odessa",
+      "country": "Ukraine"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/katerinab"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Cartel Tattoo Odessa",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "atelier_rosengarten",
     "name": "Kathi Rosengarten",
     "location": {
@@ -168573,6 +168547,23 @@
     "updated_at": "2026-03-06"
   },
   {
+    "id": "kbrown",
+    "name": "Kathleen Browm",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/kbrown"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE NORM's Love Letters Tattoo Los Angeles",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "kathrynursula",
     "name": "Kathryn Ursula",
     "location": {
@@ -168583,10 +168574,15 @@
     "links": {
       "instagram": "https://instagram.com/kathrynursula"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Handsome Devil Tattoo London",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kathrynursula/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kathrynursula/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kathrynursula/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kathrynursula/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kathrynursula/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Handsome Devil Tattoo London\n\n🍒TAKING BOOKINGS FOR APRIL 🍒\nLondon @modernclassictattoo\n✨DM me to book or email✨ 👇🏻\n💌  kathryntattoo@hotmail.com  💌",
     "updated_at": "2026-03-13"
   },
   {
@@ -168695,7 +168691,7 @@
   },
   {
     "id": "katieso",
-    "name": "Katie So",
+    "name": "Katie So Dachtler",
     "location": {
       "city": "Vancouver",
       "country": "Canada"
@@ -168707,7 +168703,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Black Medicine Tattoo Vancouver",
+    "bio": "WORKPLACE Black Medicine Tattoo Vancouver\n\n@intersectionalresources \nJames 2:14-17 // Proverbs 16:8",
     "updated_at": "2026-03-13"
   },
   {
@@ -168934,6 +168930,22 @@
     "updated_at": "2026-03-01"
   },
   {
+    "id": "katyakrasnova",
+    "name": "Katya",
+    "location": {
+      "city": "Kiev",
+      "country": "Ukraine"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/katyakrasnova"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "katyageta",
     "name": "Katya Geta",
     "location": {
@@ -168943,22 +168955,6 @@
     "styles": [],
     "links": {
       "instagram": "https://instagram.com/katyageta"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "katyakrasnova",
-    "name": "Katya Krasnova",
-    "location": {
-      "city": "Kiev",
-      "country": "Ukraine"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/katyakrasnova"
     },
     "tattoo_count": 0,
     "thumb": null,
@@ -169051,7 +169047,7 @@
   },
   {
     "id": "kaya",
-    "name": "Kaya",
+    "name": "Kaya Turski",
     "location": {
       "city": "Toronto",
       "country": "Canada"
@@ -169060,10 +169056,15 @@
     "links": {
       "instagram": "https://instagram.com/kaya"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Chronic Ink Tattoos Toronto",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaya/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaya/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaya/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaya/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaya/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Chronic Ink Tattoos Toronto\n\nStudent of life. Honoring truth. Committing to flight.\n~ FLY ALWAYS\nSpeaker | Mindset Coach @findingmastery | Analyst @cbcolympics | 8x @xgames🥇| Oly🎿",
     "updated_at": "2026-03-13"
   },
   {
@@ -169464,7 +169465,7 @@
   },
   {
     "id": "kellikikcio",
-    "name": "Kelli Kikcio",
+    "name": "kelli kikcio",
     "location": {
       "city": "Brooklyn",
       "country": "United States"
@@ -169473,9 +169474,15 @@
     "links": {
       "instagram": "https://instagram.com/kellikikcio"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellikikcio/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellikikcio/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellikikcio/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellikikcio/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellikikcio/thumb/ig_004.webp"
+    ],
+    "bio": "machine-free tattoos & other things i made by hand  \n🔗 booking info below\n📍toronto / NY",
     "updated_at": "2026-03-13"
   },
   {
@@ -169589,7 +169596,7 @@
   },
   {
     "id": "kellyrico",
-    "name": "Kelly Rico",
+    "name": "Kelly Pellegrin Rico",
     "location": {
       "city": "Guadalajara",
       "country": "Mexico"
@@ -169675,7 +169682,7 @@
   },
   {
     "id": "kelvingabriel",
-    "name": "Kelvin Gabriel",
+    "name": "kelvin",
     "location": {
       "city": "Taubaté",
       "country": "Brazil"
@@ -169843,7 +169850,7 @@
   },
   {
     "id": "kerryirvine",
-    "name": "Kerry Irvine",
+    "name": "Kerry Kellogg Irvine",
     "location": {
       "city": "Birmingham",
       "country": "United Kingdom"
@@ -170167,7 +170174,7 @@
   },
   {
     "id": "kevinplane",
-    "name": "Kevin Plane",
+    "name": "Kevin Plenh-Romero",
     "location": {
       "city": "Aix-en-Provence",
       "country": "Arrondissement d’Aix-en-Provence"
@@ -170179,7 +170186,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE BSA Tattoo Aix-en-Provence",
+    "bio": "WORKPLACE BSA Tattoo Aix-en-Provence\n\n•🇰🇭🇲🇽•",
     "updated_at": "2026-03-13"
   },
   {
@@ -170294,23 +170301,6 @@
     ],
     "bio": "Khan is a highly skilled tattoo artist based in Orange, United States, renowned for their expertise in creating intricate geometric and tribal designs. They have a keen eye for detail and precision, which is evident in every tattoo they craft, ensuring each piece is a unique and stunning work of art. Clients appreciate Khan's dedication to their craft, making them a sought-after artist for those seeking exceptional geometric and tribal tattoos.\nPrice: $\nCurrent location: Orange, California, United States",
     "updated_at": "2026-03-06"
-  },
-  {
-    "id": "khimz_tattooer",
-    "name": "Khimz Tattooer",
-    "location": {
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/khimz_tattooer"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE XK Tattoo Moscow",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "ces_tattoo",
@@ -181088,6 +181078,28 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "karlmarc",
+    "name": "Marc Alexander Holtz | Entwicklungshelfer & Musterbrecher",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/karlmarc"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karlmarc/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karlmarc/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karlmarc/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karlmarc/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karlmarc/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Handmade Fine Tattoo Paris\n\nZu verlieren hast du nichts. Nur dich. Die Erlaubnis das Eigene zu gestalten, macht Angst. Den Umgang hat nicht jeder gelernt.",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "marcbonin",
     "name": "Marc Bonin",
     "location": {
@@ -182937,6 +182949,28 @@
     ],
     "bio": "Mariangela Bacala is a highly skilled tattoo artist based in Freiburg, Germany, renowned for her expertly crafted minimalist tattoo designs. Her commitment to professionalism is evident in every precise line and shade she inks, ensuring that each client's vision is brought to life with elegance and clarity. Mariangela’s reputation in the Madrid tattoo community precedes her, with a mantra that speaks to her dedication: \"Don't stop!\"\nPrice: $\nCurrent location: Freiburg, Baden-wurttemberg, Germany",
     "updated_at": "2026-03-06"
+  },
+  {
+    "id": "karmarianna",
+    "name": "Marianna Camacho",
+    "location": {
+      "city": "Mexico City",
+      "country": "Mexico"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/karmarianna"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karmarianna/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karmarianna/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karmarianna/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karmarianna/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karmarianna/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE P Eighty Nine Tattoo Studio\n\nFINE LINE ✨\nBOOKING  LINK UNDER 👇🏽\nCITAS LINK ABAJO 👇🏽 \n📍 @buju_tattoo SD 🇺🇸",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "mariannaddking",
@@ -199334,6 +199368,31 @@
     "thumbs": [],
     "bio": "WORKPLACE Green Rabbit Tattoo Studio Katowice",
     "updated_at": "2026-03-12"
+  },
+  {
+    "id": "eternografia",
+    "name": "Omar Mancini",
+    "location": {
+      "city": "Lucca",
+      "country": "Italy"
+    },
+    "styles": [
+      "black&gray",
+      "traditional",
+      "sketch"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/eternografia/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eternografia/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eternografia/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eternografia/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eternografia/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eternografia/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-13"
   },
   {
     "id": "artofomarr",
@@ -219583,6 +219642,31 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "etherveils",
+    "name": "Silvia C",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "styles": [
+      "fineline",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/etherveils/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etherveils/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etherveils/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etherveils/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etherveils/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etherveils/thumb/004.webp"
+    ],
+    "bio": "Silvia C is a talented tattoo artist based in Berlin, Germany, known for her expertise in fineline and dotwork styles. Crafting each piece with meticulous detail, Silvia ensures that her clients are adorned with unique and intricate designs. Her work is a testament to her skill level, imbuing elements of the dark and gloomy, yet executed with an elegance that only a master of her craft can achieve.\nPrice: $\nCurrent location: Berlin, Berlin, Germany",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "silviapretto",
     "name": "Silvia Pretto",
     "location": {
@@ -236301,6 +236385,28 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "khimz_tattooer",
+    "name": "Warszawa traditional",
+    "location": {
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/khimz_tattooer"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khimz_tattooer/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khimz_tattooer/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khimz_tattooer/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khimz_tattooer/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khimz_tattooer/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE XK Tattoo Moscow\n\n❋ TWÓJ TRADYCYJNY ARTYSTA TATUAŻU ❋  \nWARSZAWA 🇵🇱 @juniorink.pl \nTRIBAL PAGE ➰ @khimz_tribalo \n📧 khimztattooer@gmail.com",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "washingtonbrasil",
     "name": "Washington Brasil",
     "location": {
@@ -241730,6 +241836,22 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "karlmarks",
+    "name": "Карл Маркс",
+    "location": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/karlmarks"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "alexanderatrix",
     "name": "Катя М",
     "location": {
@@ -241907,6 +242029,28 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Pepper Inker Tattoo Bangkok\n\n⚖️ 01.10.1991",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "juliamikhaylova",
+    "name": "Юлия Михайлова",
+    "location": {
+      "city": "Saint Petersburg",
+      "country": "Russia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/juliamikhaylova"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliamikhaylova/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliamikhaylova/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliamikhaylova/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliamikhaylova/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juliamikhaylova/thumb/ig_004.webp"
+    ],
+    "bio": "Исполнительница и соавтор терапевтических колыбельных для всей семьи! Нас слушают более 9 млн!  Послушать здесь 👇🏻",
     "updated_at": "2026-03-13"
   },
   {
@@ -243676,6 +243820,28 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "katabdy",
+    "name": "❖ 𝕶𝖆𝖙 𝕬𝖇𝖉𝖞 ❖",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/katabdy"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katabdy/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katabdy/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katabdy/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katabdy/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katabdy/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Cloak and Dagger Tattoo Parlour London\n\nBookings Closed\nkat.abdy.art@gmail.com\n@kat.abdy \n📍@abrakadavratattoo UK\nSponsor @kwadron",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "ai_tattoo_",
     "name": "❤︎ Linda",
     "location": {
@@ -243749,6 +243915,23 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dustinburtart/thumb/ig_004.webp"
     ],
     "bio": "➕➕➕Space cowboy➕➕➕\n@thedarkmattergallery  \n@empireinks @vladbladirons pro team",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "ke",
+    "name": "⠀ ⠀  ᴋᴛᴍᴀɴ",
+    "location": {
+      "city": "Novosibirsk",
+      "country": "Russia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ke"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE KE Black Tattoo Novosibirsk\n\nPersonal Account\nActive January 2026",
     "updated_at": "2026-03-13"
   },
   {
@@ -244091,6 +244274,23 @@
     ],
     "bio": "WORKPLACE Grit N Glory Manhattan\n\n爱女排，爱秋月",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "junzy",
+    "name": "川越 順二",
+    "location": {
+      "city": "Anyang",
+      "country": "South Korea"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/junzy"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE P All Day Tattoo",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "horikaka",
@@ -245370,6 +245570,28 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "karleesabrina",
+    "name": "𝓚𝓪𝓻𝓵𝓮𝓮 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 💖 𝓣𝓪𝓽𝓽𝓸𝓸 • 𝓖𝓸𝓵𝓭 𝓒𝓸𝓪𝓼𝓽",
+    "location": {
+      "city": "Brisbane",
+      "country": "Australia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/karleesabrina"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karleesabrina/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karleesabrina/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karleesabrina/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karleesabrina/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karleesabrina/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Garage Ink Tattoo Brisbane\n\n🖤𝒷𝓁𝒶𝒸𝓀 & 𝑔𝓇𝑒𝓎 𝚃𝙰𝚃𝚃𝙾𝙾𝙴𝚁🖤📍𝙶𝚘𝚕𝚍 𝙲𝚘𝚊𝚜𝚝\n𝚜𝚊𝚋𝚛𝚒𝚗𝚊𝚟𝚝𝚊𝚝𝚝𝚘𝚘@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖 𝚏𝚘𝚛 𝒷𝑜𝑜𝓀𝒾𝓃𝑔 𝒻𝑜𝓇𝓂 💕🇦🇺\n🖤\n🌙𝚂𝚝𝚊𝚢 𝚆𝚎𝚒𝚛𝚍✨@sabrinasnackz 🍔",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "livaink",
     "name": "𝓛𝓲𝓿𝓪 𝓘𝓷𝓴 • Tattoo Artist",
     "location": {
@@ -246102,6 +246324,28 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnnygloom/thumb/ig_004.webp"
     ],
     "bio": "WORKPLACE P Dans La Maison Noire\n\nHoly-Flesh-Mecanic ✝️⚙️\n🇫🇷 Tattoos 40mn from Paris 📍 all year \n🇬🇧 London 📍 May-June\nDm for Booking \nflashbook @johnnygloom2",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "kadaverism",
+    "name": "𝕸𝖆𝖗𝖎𝖆 𝕶𝖆𝖉𝖆𝖛𝖊𝖗 𝕿𝖆𝖙𝖙𝖔𝖔",
+    "location": {
+      "city": "Vienna",
+      "country": "Austria"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/kadaverism"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kadaverism/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kadaverism/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kadaverism/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kadaverism/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kadaverism/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Sissi Got Inked Tattoo Atelier Vienna\n\n✖ black tattoos-private space\n✖ send a mail for apptmnts in may/june \n✖ 💌 kadaverism.ttt@gmail.com",
     "updated_at": "2026-03-13"
   },
   {

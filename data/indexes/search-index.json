@@ -700,6 +700,11 @@
     "normalized": "Julio Viadel"
   },
   {
+    "id": "karleesabrina",
+    "name": "𝓚𝓪𝓻𝓵𝓮𝓮 𝓢𝓪𝓫𝓻𝓲𝓷𝓪 💖 𝓣𝓪𝓽𝓽𝓸𝓸 • 𝓖𝓸𝓵𝓭 𝓒𝓸𝓪𝓼𝓽",
+    "normalized": "Karlee Sabrina 💖 Tattoo • Gold Coast"
+  },
+  {
     "id": "diegofustar",
     "name": "𝙇𝙀𝙏𝙏𝙀𝙍𝙄𝙉𝙂 𝙏𝘼𝙏𝙏𝙊𝙊",
     "normalized": "LETTERING TATTOO"
@@ -713,6 +718,11 @@
     "id": "lizvenom",
     "name": "𝕃𝕚𝕫  𝕍𝕖𝕟𝕠𝕞",
     "normalized": "Liz Venom"
+  },
+  {
+    "id": "kadaverism",
+    "name": "𝕸𝖆𝖗𝖎𝖆 𝕶𝖆𝖉𝖆𝖛𝖊𝖗 𝕿𝖆𝖙𝖙𝖔𝖔",
+    "normalized": "Maria Kadaver Tattoo"
   },
   {
     "id": "line.art.tattoo",
@@ -30075,9 +30085,24 @@
     "normalized": "ethan"
   },
   {
+    "id": "ethan.tattoos",
+    "name": "Ethan Albert",
+    "normalized": "ethan albert"
+  },
+  {
     "id": "etbennett_tattoo",
     "name": "Ethan Bennett",
     "normalized": "ethan bennett"
+  },
+  {
+    "id": "ethanjonestattoo",
+    "name": "Ethan Jones",
+    "normalized": "ethan jones"
+  },
+  {
+    "id": "etheartist",
+    "name": "Etheartist",
+    "normalized": "etheartist"
   },
   {
     "id": "cejitasbyetta",
@@ -34795,6 +34820,11 @@
     "normalized": "jeffery weng"
   },
   {
+    "id": "justjen",
+    "name": "Jen Crawford",
+    "normalized": "jen crawford"
+  },
+  {
     "id": "jenlee",
     "name": "Jen Lee",
     "normalized": "jen lee"
@@ -36456,8 +36486,8 @@
   },
   {
     "id": "judevesvarut",
-    "name": "Jude Vesvarut",
-    "normalized": "jude vesvarut"
+    "name": "Jude",
+    "normalized": "jude"
   },
   {
     "id": "judyparker",
@@ -36466,8 +36496,8 @@
   },
   {
     "id": "juju",
-    "name": "Juju",
-    "normalized": "juju"
+    "name": "JuJu Smith-Schuster",
+    "normalized": "juju smith-schuster"
   },
   {
     "id": "jukan_unter_strom",
@@ -36476,8 +36506,8 @@
   },
   {
     "id": "julefunk",
-    "name": "Jule Funk",
-    "normalized": "jule funk"
+    "name": "JULE",
+    "normalized": "jule"
   },
   {
     "id": "julenegiguren",
@@ -36505,9 +36535,9 @@
     "normalized": "juli hamilton"
   },
   {
-    "id": "juliabicudo",
-    "name": "Julia Bicudo",
-    "normalized": "julia bicudo"
+    "id": "juliajio",
+    "name": "julia",
+    "normalized": "julia"
   },
   {
     "id": "brunander",
@@ -36535,11 +36565,6 @@
     "normalized": "julia de oliveira"
   },
   {
-    "id": "juliajio",
-    "name": "Julia Jio",
-    "normalized": "julia jio"
-  },
-  {
     "id": "juliamaison",
     "name": "Julia Maison · Julia Sweet Needle",
     "normalized": "julia maison · julia sweet needle"
@@ -36548,11 +36573,6 @@
     "id": "juliamerlin",
     "name": "Julia Merlin",
     "normalized": "julia merlin"
-  },
-  {
-    "id": "juliamikhaylova",
-    "name": "Julia Mikhaylova",
-    "normalized": "julia mikhaylova"
   },
   {
     "id": "julia_rehme",
@@ -36581,8 +36601,8 @@
   },
   {
     "id": "julianbogdan",
-    "name": "Julian Bogdan · Noir Corpus",
-    "normalized": "julian bogdan · noir corpus"
+    "name": "Julian Bogdan",
+    "normalized": "julian bogdan"
   },
   {
     "id": "julianbusing",
@@ -36676,7 +36696,7 @@
   },
   {
     "id": "junchihara",
-    "name": "Jun Chihara",
+    "name": "Jun chihara",
     "normalized": "jun chihara"
   },
   {
@@ -36695,11 +36715,6 @@
     "normalized": "junio matsui"
   },
   {
-    "id": "junior",
-    "name": "Junior",
-    "normalized": "junior"
-  },
-  {
     "id": "juniorconflito",
     "name": "Junior Conflito",
     "normalized": "junior conflito"
@@ -36710,6 +36725,11 @@
     "normalized": "junior goussain"
   },
   {
+    "id": "junior",
+    "name": "Junior Mendonza",
+    "normalized": "junior mendonza"
+  },
+  {
     "id": "85tattoo",
     "name": "Junior Silva",
     "normalized": "junior silva"
@@ -36718,11 +36738,6 @@
     "id": "junkoshimada",
     "name": "Junko Shimada",
     "normalized": "junko shimada"
-  },
-  {
-    "id": "junzy",
-    "name": "Junzy Tattooer",
-    "normalized": "junzy tattooer"
   },
   {
     "id": "jurewerber",
@@ -36740,14 +36755,9 @@
     "normalized": "jusseppe ivars prats"
   },
   {
-    "id": "justjen",
-    "name": "Just Jen · Jen Wood",
-    "normalized": "just jen · jen wood"
-  },
-  {
     "id": "justinacca",
-    "name": "Justin Acca",
-    "normalized": "justin acca"
+    "name": "JUSTIN ACCA TATTOO",
+    "normalized": "justin acca tattoo"
   },
   {
     "id": "justinburnout",
@@ -36820,6 +36830,11 @@
     "normalized": "jörn"
   },
   {
+    "id": "juliabicudo",
+    "name": "Júlia Bicudo",
+    "normalized": "júlia bicudo"
+  },
+  {
     "id": "ju.linhas",
     "name": "Júlia Paiva",
     "normalized": "júlia paiva"
@@ -36833,16 +36848,6 @@
     "id": "jaycraig",
     "name": "J⭐️",
     "normalized": "j⭐️"
-  },
-  {
-    "id": "kbrown",
-    "name": "K Brown",
-    "normalized": "k brown"
-  },
-  {
-    "id": "kadaverism",
-    "name": "Kadaverism · Maria Kadaver",
-    "normalized": "kadaverism · maria kadaver"
   },
   {
     "id": "kademack",
@@ -36876,8 +36881,8 @@
   },
   {
     "id": "kalawa",
-    "name": "Kalawa",
-    "normalized": "kalawa"
+    "name": "kalawakmphirim.@facebook.com",
+    "normalized": "kalawakmphirim.@facebook.com"
   },
   {
     "id": "kali",
@@ -36891,8 +36896,8 @@
   },
   {
     "id": "kalo",
-    "name": "Kalo Acosta Rojas",
-    "normalized": "kalo acosta rojas"
+    "name": "Kalo",
+    "normalized": "kalo"
   },
   {
     "id": "kalula",
@@ -36936,8 +36941,8 @@
   },
   {
     "id": "kamilakyrr",
-    "name": "Kamila Kyrr",
-    "normalized": "kamila kyrr"
+    "name": "Kamila Kyrr 🦋",
+    "normalized": "kamila kyrr 🦋"
   },
   {
     "id": "kanae",
@@ -36995,11 +37000,6 @@
     "normalized": "karina arenas torres"
   },
   {
-    "id": "ke",
-    "name": "Karina E. · KE",
-    "normalized": "karina e. · ke"
-  },
-  {
     "id": "karlberringer",
     "name": "Karl Berringer · Kbtat2",
     "normalized": "karl berringer · kbtat2"
@@ -37015,21 +37015,6 @@
     "normalized": "karl frey"
   },
   {
-    "id": "karlmarc",
-    "name": "Karl Marc",
-    "normalized": "karl marc"
-  },
-  {
-    "id": "karlmarks",
-    "name": "Karl Marks",
-    "normalized": "karl marks"
-  },
-  {
-    "id": "karleesabrina",
-    "name": "Karlee Sabrina",
-    "normalized": "karlee sabrina"
-  },
-  {
     "id": "karlosherreros",
     "name": "Karlos Herreros",
     "normalized": "karlos herreros"
@@ -37040,19 +37025,9 @@
     "normalized": "karma in'k"
   },
   {
-    "id": "karmarianna",
-    "name": "Karmarianna · Mariana Camacho",
-    "normalized": "karmarianna · mariana camacho"
-  },
-  {
     "id": "karodame",
     "name": "Karo Dame",
     "normalized": "karo dame"
-  },
-  {
-    "id": "karoldias",
-    "name": "Karol Dias",
-    "normalized": "karol dias"
   },
   {
     "id": "karolrybakowski",
@@ -37078,6 +37053,11 @@
     "id": "bazgrole",
     "name": "Karolina Motyli",
     "normalized": "karolina motyli"
+  },
+  {
+    "id": "karoldias",
+    "name": "Karoline",
+    "normalized": "karoline"
   },
   {
     "id": "karolynkilmister",
@@ -37108,11 +37088,6 @@
     "id": "apex_kat_tats",
     "name": "Kat",
     "normalized": "kat"
-  },
-  {
-    "id": "katabdy",
-    "name": "Kat Abdy",
-    "normalized": "kat abdy"
   },
   {
     "id": "katjones",
@@ -37165,11 +37140,6 @@
     "normalized": "kate collins"
   },
   {
-    "id": "kateholley",
-    "name": "Kate Holley",
-    "normalized": "kate holley"
-  },
-  {
     "id": "katemackaygill",
     "name": "Kate Mackay Gill",
     "normalized": "kate mackay gill"
@@ -37195,9 +37165,9 @@
     "normalized": "katelyn shay"
   },
   {
-    "id": "katerinab",
-    "name": "Katerina B",
-    "normalized": "katerina b"
+    "id": "kateholley",
+    "name": "Katelynn Kocher",
+    "normalized": "katelynn kocher"
   },
   {
     "id": "katerinamikkyvolkova",
@@ -37208,11 +37178,6 @@
     "id": "duskrosetattoo",
     "name": "Kath",
     "normalized": "kath"
-  },
-  {
-    "id": "katha.ink",
-    "name": "Katha Tancredi",
-    "normalized": "katha tancredi"
   },
   {
     "id": "catloewe.ink",
@@ -37230,9 +37195,24 @@
     "normalized": "katherine santiago"
   },
   {
+    "id": "katha.ink",
+    "name": "Katherine Tancredi Suarez",
+    "normalized": "katherine tancredi suarez"
+  },
+  {
+    "id": "katerinab",
+    "name": "Katheryna Kat",
+    "normalized": "katheryna kat"
+  },
+  {
     "id": "atelier_rosengarten",
     "name": "Kathi Rosengarten",
     "normalized": "kathi rosengarten"
+  },
+  {
+    "id": "kbrown",
+    "name": "Kathleen Browm",
+    "normalized": "kathleen browm"
   },
   {
     "id": "kathrynursula",
@@ -37266,8 +37246,8 @@
   },
   {
     "id": "katieso",
-    "name": "Katie So",
-    "normalized": "katie so"
+    "name": "Katie So Dachtler",
+    "normalized": "katie so dachtler"
   },
   {
     "id": "boo_ink",
@@ -37320,14 +37300,14 @@
     "normalized": "katy & nick"
   },
   {
+    "id": "katyakrasnova",
+    "name": "Katya",
+    "normalized": "katya"
+  },
+  {
     "id": "katyageta",
     "name": "Katya Geta",
     "normalized": "katya geta"
-  },
-  {
-    "id": "katyakrasnova",
-    "name": "Katya Krasnova",
-    "normalized": "katya krasnova"
   },
   {
     "id": "152tattoo",
@@ -37351,8 +37331,8 @@
   },
   {
     "id": "kaya",
-    "name": "Kaya",
-    "normalized": "kaya"
+    "name": "Kaya Turski",
+    "normalized": "kaya turski"
   },
   {
     "id": "borrowedparticles",
@@ -37451,7 +37431,7 @@
   },
   {
     "id": "kellikikcio",
-    "name": "Kelli Kikcio",
+    "name": "kelli kikcio",
     "normalized": "kelli kikcio"
   },
   {
@@ -37481,8 +37461,8 @@
   },
   {
     "id": "kellyrico",
-    "name": "Kelly Rico",
-    "normalized": "kelly rico"
+    "name": "Kelly Pellegrin Rico",
+    "normalized": "kelly pellegrin rico"
   },
   {
     "id": "kelly_violet",
@@ -37501,8 +37481,8 @@
   },
   {
     "id": "kelvingabriel",
-    "name": "Kelvin Gabriel",
-    "normalized": "kelvin gabriel"
+    "name": "kelvin",
+    "normalized": "kelvin"
   },
   {
     "id": "fausto",
@@ -37546,8 +37526,8 @@
   },
   {
     "id": "kerryirvine",
-    "name": "Kerry Irvine",
-    "normalized": "kerry irvine"
+    "name": "Kerry Kellogg Irvine",
+    "normalized": "kerry kellogg irvine"
   },
   {
     "id": "kerste_diston",
@@ -37626,8 +37606,8 @@
   },
   {
     "id": "kevinplane",
-    "name": "Kevin Plane",
-    "normalized": "kevin plane"
+    "name": "Kevin Plenh-Romero",
+    "normalized": "kevin plenh-romero"
   },
   {
     "id": "kevinrosenkjaer",
@@ -37653,11 +37633,6 @@
     "id": "beautybykhan",
     "name": "Khan",
     "normalized": "khan"
-  },
-  {
-    "id": "khimz_tattooer",
-    "name": "Khimz Tattooer",
-    "normalized": "khimz tattooer"
   },
   {
     "id": "ces_tattoo",
@@ -40385,6 +40360,11 @@
     "normalized": "maracucho tattoo ink · jhonathan hernandez"
   },
   {
+    "id": "karlmarc",
+    "name": "Marc Alexander Holtz | Entwicklungshelfer & Musterbrecher",
+    "normalized": "marc alexander holtz | entwicklungshelfer & musterbrecher"
+  },
+  {
     "id": "marcbonin",
     "name": "Marc Bonin",
     "normalized": "marc bonin"
@@ -40853,6 +40833,11 @@
     "id": "bacalaoink",
     "name": "Mariangela Bacala",
     "normalized": "mariangela bacala"
+  },
+  {
+    "id": "karmarianna",
+    "name": "Marianna Camacho",
+    "normalized": "marianna camacho"
   },
   {
     "id": "mariannaddking",
@@ -45033,6 +45018,11 @@
     "id": "olyalevchenko",
     "name": "Olya Levchenko",
     "normalized": "olya levchenko"
+  },
+  {
+    "id": "eternografia",
+    "name": "Omar Mancini",
+    "normalized": "omar mancini"
   },
   {
     "id": "artofomarr",
@@ -50200,6 +50190,11 @@
     "normalized": "silver fawkes"
   },
   {
+    "id": "etherveils",
+    "name": "Silvia C",
+    "normalized": "silvia c"
+  },
+  {
     "id": "silviapretto",
     "name": "Silvia Pretto",
     "normalized": "silvia pretto"
@@ -54415,6 +54410,11 @@
     "normalized": "warren morissens · mxw"
   },
   {
+    "id": "khimz_tattooer",
+    "name": "Warszawa traditional",
+    "normalized": "warszawa traditional"
+  },
+  {
     "id": "washingtonbrasil",
     "name": "Washington Brasil",
     "normalized": "washington brasil"
@@ -55780,6 +55780,11 @@
     "normalized": "ирина локтионова"
   },
   {
+    "id": "karlmarks",
+    "name": "Карл Маркс",
+    "normalized": "карл маркс"
+  },
+  {
     "id": "alexanderatrix",
     "name": "Катя М",
     "normalized": "катя м"
@@ -55823,6 +55828,11 @@
     "id": "chacha",
     "name": "Чача Константин",
     "normalized": "чача константин"
+  },
+  {
+    "id": "juliamikhaylova",
+    "name": "Юлия Михайлова",
+    "normalized": "юлия михайлова"
   },
   {
     "id": "hoode",
@@ -56165,6 +56175,11 @@
     "normalized": "❋ achilleas aber ❋"
   },
   {
+    "id": "katabdy",
+    "name": "❖ 𝕶𝖆𝖙 𝕬𝖇𝖉𝖞 ❖",
+    "normalized": "❖ Kat Abdy ❖"
+  },
+  {
     "id": "ai_tattoo_",
     "name": "❤︎ Linda",
     "normalized": "❤︎ linda"
@@ -56178,6 +56193,11 @@
     "id": "dustinburtart",
     "name": "➕D U S T I N   C H A R L E S➕",
     "normalized": "➕d u s t i n c h a r l e s➕"
+  },
+  {
+    "id": "ke",
+    "name": "⠀ ⠀  ᴋᴛᴍᴀɴ",
+    "normalized": "⠀ ⠀ ᴋᴛᴍᴀɴ"
   },
   {
     "id": "irenesamsa",
@@ -56258,6 +56278,11 @@
     "id": "joicewang",
     "name": "小呆瓜",
     "normalized": "小呆瓜"
+  },
+  {
+    "id": "junzy",
+    "name": "川越 順二",
+    "normalized": "川越 順二"
   },
   {
     "id": "horikaka",
