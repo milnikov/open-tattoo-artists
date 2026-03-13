@@ -90,14 +90,6 @@ export function SuggestArtistModal({ onClose, open }: Props) {
         <p className="text-muted-foreground mb-4">
           We’ll create a GitHub issue. Once the artist is added to the directory, it will appear in your Contributions.
         </p>
-        {result?.ok && (
-          <div className="mb-4 p-3 rounded-lg bg-green-50 dark:bg-green-950/30 text-green-800 dark:text-green-200">
-            Issue created.{" "}
-            <a href={result.issueUrl} target="_blank" rel="noopener noreferrer" className="underline">
-              Open issue
-            </a>
-          </div>
-        )}
         {result && !result.ok && (
           <div className="mb-4 p-3 rounded-lg bg-red-50 dark:bg-red-950/30 text-red-700 dark:text-red-300">
             {result.error}
