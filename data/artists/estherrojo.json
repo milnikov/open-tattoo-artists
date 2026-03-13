@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "estherrojo",
-  "name": "Esther Rojo",
+  "name": "Esther Rojo Valero",
   "location": {
     "city": "Barakaldo",
-    "country": "Spain"
+    "country": "Bizkaia - Vizcaya"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Clockwork Tattoo Studio Barakaldo"
+  "bio": "WORKPLACE Clockwork Tattoo Studio Barakaldo",
+  "instagram_enriched": {
+    "id": "198994212",
+    "follower_count": 512,
+    "following_count": 2579,
+    "media_count": 612,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estherrojo/instagram/profile.jpg"
+  }
 }

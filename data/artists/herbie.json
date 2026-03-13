@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "herbie",
-  "name": "Herbie",
+  "name": "羽根田 幹也",
   "location": {
     "city": "Madrid",
-    "country": "Spain"
+    "country": "Community of Madrid HAND POKED"
   },
   "styles": [],
   "links": {
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-13",
+  "bio": "Photo&Video Grapher. \nBased in Osaka. JAPAN.\nCanon Professional Services Membership\nPosts about daily&family",
+  "instagram_enriched": {
+    "id": "661070",
+    "follower_count": 752,
+    "following_count": 759,
+    "media_count": 1187,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/herbie/instagram/profile.jpg"
+  }
 }

@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "garyburns",
-  "name": "Gary Burns",
+  "name": "Gary",
   "location": {
     "city": "Brighton",
-    "country": "United Kingdom"
+    "country": "East Sussex BLACKWORKILLUSTRATIVEENGRAVINGS"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tattoo Workshop Brighton"
+  "bio": "WORKPLACE Tattoo Workshop Brighton",
+  "instagram_enriched": {
+    "id": "19842917",
+    "follower_count": 978,
+    "following_count": 1079,
+    "media_count": 56,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garyburns/instagram/profile.jpg"
+  }
 }

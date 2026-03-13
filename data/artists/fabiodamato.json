@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "fabiodamato",
-  "name": "Fabio D'Amato",
+  "name": "Fabio",
   "location": {
     "city": "São Paulo",
-    "country": "Brazil"
+    "country": "São Paulo State DOTWORKSACRED GEOMETRYTRIBALPOLYNESIANMAORI"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Nautica Tattoo São Paulo São Paulo"
+  "bio": "WORKPLACE Nautica Tattoo São Paulo São Paulo",
+  "instagram_enriched": {
+    "id": "1790508600",
+    "follower_count": 167,
+    "following_count": 307,
+    "media_count": 95,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabiodamato/instagram/profile.jpg"
+  }
 }

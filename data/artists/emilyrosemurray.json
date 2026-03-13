@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "emilyrosemurray",
-  "name": "Emily Rose Murray",
+  "name": "Emily Murray",
   "location": {
     "city": "Melbourne",
-    "country": "Australia"
+    "country": "Victoria"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Emily Rose Murray Tattoo"
+  "bio": "WORKPLACE P Emily Rose Murray Tattoo",
+  "instagram_enriched": {
+    "id": "326611862",
+    "follower_count": 145,
+    "following_count": 271,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emilyrosemurray/instagram/profile.jpg"
+  }
 }

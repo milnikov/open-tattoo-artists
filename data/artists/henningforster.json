@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "henningforster",
-  "name": "Henning Forster",
+  "name": "Henning Förster",
   "location": {
     "city": "Brunswick",
-    "country": "Germany"
+    "country": "Kreisfreie Stadt Braunschweig  · IREZUMI"
   },
   "styles": [],
   "links": {
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE White Fox Gallery Brunswick"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE White Fox Gallery Brunswick",
+  "instagram_enriched": {
+    "id": "59658403419",
+    "follower_count": 14,
+    "following_count": 26,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henningforster/instagram/profile.jpg"
+  }
 }

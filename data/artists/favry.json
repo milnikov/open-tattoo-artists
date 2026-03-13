@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "favry",
-  "name": "Laura Favry",
+  "name": "Fabrizio Spanu",
   "location": {
     "city": "Paris",
-    "country": "France"
+    "country": "Île-de-France"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P L'Encrerie"
+  "bio": "WORKPLACE P L'Encrerie",
+  "instagram_enriched": {
+    "id": "213469448",
+    "follower_count": 274,
+    "following_count": 605,
+    "media_count": 36,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/favry/instagram/profile.jpg"
+  }
 }

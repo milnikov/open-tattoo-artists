@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "enotwartattoocan",
-  "name": "enotwartattoocan",
+  "name": "⚓тату",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "4019884189",
+    "follower_count": 930,
+    "following_count": 344,
+    "media_count": 789,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enotwartattoocan/instagram/profile.jpg"
+  }
 }

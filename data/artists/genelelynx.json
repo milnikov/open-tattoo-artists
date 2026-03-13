@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "genelelynx",
-  "name": "Gene Le Lynx",
+  "name": "LE LYNX",
   "location": {
     "city": "Katowice",
-    "country": "Poland"
+    "country": "Silesian Voivodeship"
   },
   "styles": [],
   "links": {
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "graphic enthusiast ~ \nalchemy ambassador ~\nornamental tattooer ~\ngenelelynx@gmail.com",
+  "instagram_enriched": {
+    "id": "2127366160",
+    "follower_count": 409,
+    "following_count": 270,
+    "media_count": 69,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/genelelynx/instagram/profile.jpg"
+  }
 }

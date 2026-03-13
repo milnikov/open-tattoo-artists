@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "evgeniytkachenko",
-  "name": "Evgeniy Tkachenko",
+  "name": "Evgeniy",
   "location": {
     "city": "Kiev",
-    "country": "Ukraine"
+    "country": "Kiev Oblast ABSTRACT"
   },
   "styles": [],
   "links": {
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "489451560",
+    "follower_count": 379,
+    "following_count": 6,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evgeniytkachenko/instagram/profile.jpg"
+  }
 }

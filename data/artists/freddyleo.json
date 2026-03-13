@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "freddyleo",
-  "name": "Freddy Leo",
+  "name": "freddy",
   "location": {
     "city": "Buenos Aires",
-    "country": "Argentina"
+    "country": "Buenos Aires Province  · IREZUMI"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Estudio privado en Nuñez, Buenos Aires. FREDDY LEO"
+  "bio": "Estudio privado en Nuñez, Buenos Aires. FREDDY LEO",
+  "instagram_enriched": {
+    "id": "1531465049",
+    "follower_count": 831,
+    "following_count": 3292,
+    "media_count": 33,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/freddyleo/instagram/profile.jpg"
+  }
 }

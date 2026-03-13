@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "ericabae",
-  "name": "Erica Bae",
+  "name": "erica",
   "location": {
     "city": "Los Angeles",
-    "country": "United States"
+    "country": "Los Angeles County LINE ARTFINE LINELETTERINGMINIMALISTILLUSTRATIVE"
   },
   "styles": [],
   "links": {
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE BLKINK213 Tattoo & Co. Los Angeles"
+  "bio": "WORKPLACE BLKINK213 Tattoo & Co. Los Angeles",
+  "instagram_enriched": {
+    "id": "68622148265",
+    "follower_count": 62,
+    "following_count": 77,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericabae/instagram/profile.jpg"
+  }
 }
