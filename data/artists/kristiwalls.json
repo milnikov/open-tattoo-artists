@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kristiwalls",
-  "name": "Kristi Walls",
+  "name": "Kristi Green Walls",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Bang Bang Tattoo Manhattan"
+  "bio": "WORKPLACE Bang Bang Tattoo Manhattan",
+  "instagram_enriched": {
+    "id": "18473238",
+    "follower_count": 76,
+    "following_count": 613,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kristiwalls/instagram/profile.jpg"
+  }
 }

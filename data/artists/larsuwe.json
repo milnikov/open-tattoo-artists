@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "larsuwe",
-  "name": "Lars Uwe · Lu's Lips",
+  "name": "lars",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Loxodrom Tattoo Berlin"
+  "bio": "WORKPLACE Loxodrom Tattoo Berlin",
+  "instagram_enriched": {
+    "id": "231757395",
+    "follower_count": 18,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larsuwe/instagram/profile.jpg"
+  }
 }

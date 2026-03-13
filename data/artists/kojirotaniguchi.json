@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kojirotaniguchi",
-  "name": "Kojiro Taniguchi",
+  "name": "谷口 幸治郎",
   "location": {
     "city": "Lomita",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE My Old Tattoo Parlor Lomita"
+  "bio": "WORKPLACE My Old Tattoo Parlor Lomita",
+  "instagram_enriched": {
+    "id": "6604093380",
+    "follower_count": 79,
+    "following_count": 113,
+    "media_count": 18,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kojirotaniguchi/instagram/profile.jpg"
+  }
 }

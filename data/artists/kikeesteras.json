@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kikeesteras",
-  "name": "Kike Esteras",
+  "name": "kike esteras",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Black Ship Tattoo BCN Barcelona"
+  "bio": "WORKPLACE Black Ship Tattoo BCN Barcelona\n\n16. Ins vedruna",
+  "instagram_enriched": {
+    "id": "5623481900",
+    "follower_count": 0,
+    "following_count": 18,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kikeesteras/instagram/profile.jpg"
+  }
 }

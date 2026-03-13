@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "etientattoo",
+  "name": "Etien Stratta",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "floral",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/etientattoo",
+    "instagram": "https://www.instagram.com/etientattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etientattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etientattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etientattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etientattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Etien Stratta is a highly skilled tattoo artist known for their expert lettering, intricate floral designs, and unique illustrative tattoos. With an impeccable eye for detail and a steady hand, Etien transforms skin into a canvas of breathtaking artistry. Their studio in Ivrea is a testament to their commitment to cleanliness and professional service, ensuring a safe and welcoming experience for all clients.\nPrice: $\nCurrent location:"
+}

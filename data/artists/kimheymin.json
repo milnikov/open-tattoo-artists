@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kimheymin",
-  "name": "Kim HeyMin · Dot and kime",
+  "name": "하경란",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Brown Peanut Tattoo Seoul"
+  "bio": "WORKPLACE Brown Peanut Tattoo Seoul",
+  "instagram_enriched": {
+    "id": "352324730",
+    "follower_count": 2,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kimheymin/instagram/profile.jpg"
+  }
 }

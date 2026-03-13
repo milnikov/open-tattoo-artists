@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kozik",
-  "name": "Matthew Kozik",
+  "name": "Marcin Koza",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Sanctum Studio"
+  "bio": "WORKPLACE P Sanctum Studio\n\nBielsko-Biała, Poland",
+  "instagram_enriched": {
+    "id": "365756",
+    "follower_count": 287,
+    "following_count": 295,
+    "media_count": 253,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kozik/instagram/profile.jpg"
+  }
 }

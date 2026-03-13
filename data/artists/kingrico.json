@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kingrico",
-  "name": "King Rico",
+  "name": "Austin Garcia",
   "location": {
     "city": "Bronx",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Ink Studio Tattoos Bronx"
+  "bio": "WORKPLACE Ink Studio Tattoos Bronx",
+  "instagram_enriched": {
+    "id": "6996200",
+    "follower_count": 143,
+    "following_count": 200,
+    "media_count": 190,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kingrico/instagram/profile.jpg"
+  }
 }

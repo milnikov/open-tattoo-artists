@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lauraaetaylor",
-  "name": "Laura AE Taylor",
+  "name": "Laura Taylor",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Old Crow Tattoo Oakland"
+  "bio": "WORKPLACE Old Crow Tattoo Oakland",
+  "instagram_enriched": {
+    "id": "683329810",
+    "follower_count": 313,
+    "following_count": 623,
+    "media_count": 65,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lauraaetaylor/instagram/profile.jpg"
+  }
 }

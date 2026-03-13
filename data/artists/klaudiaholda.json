@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "klaudiaholda",
-  "name": "Klaudia Hołda",
+  "name": "Klaudia Hoład",
   "location": {
     "city": "Kraków",
     "country": "Poland"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE 9th Circle Kraków"
+  "bio": "WORKPLACE 9th Circle Kraków",
+  "instagram_enriched": {
+    "id": "6627693255",
+    "follower_count": 5,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/klaudiaholda/instagram/profile.jpg"
+  }
 }

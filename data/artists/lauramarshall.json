@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lauramarshall",
-  "name": "Laura \"Miss\" Marshall",
+  "name": "Laura Marshall",
   "location": {
     "city": "Gold Coast",
     "country": "Australia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Morphic Resonance Tattoos Gold Coast"
+  "bio": "WORKPLACE Morphic Resonance Tattoos Gold Coast",
+  "instagram_enriched": {
+    "id": "53727829058",
+    "follower_count": 1,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lauramarshall/instagram/profile.jpg"
+  }
 }

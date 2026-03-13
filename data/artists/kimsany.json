@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kimsany",
-  "name": "Sany Kim · Kimsany",
+  "name": "Kim San Yap",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Hybrid INK"
+  "bio": "WORKPLACE P Hybrid INK",
+  "instagram_enriched": {
+    "id": "53237172836",
+    "follower_count": 9,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kimsany/instagram/profile.jpg"
+  }
 }
