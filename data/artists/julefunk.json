@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "julefunk",
-  "name": "Jule Funk",
+  "name": "JULE",
   "location": {
     "city": "Leipzig",
     "country": "Kreisfreie Stadt Leipzig"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "997362053",
+    "follower_count": 688,
+    "following_count": 445,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/julefunk/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kelvingabriel",
-  "name": "Kelvin Gabriel",
+  "name": "kelvin",
   "location": {
     "city": "Taubaté",
     "country": "Brazil"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Black House Tattoo Taubaté"
+  "bio": "WORKPLACE Black House Tattoo Taubaté",
+  "instagram_enriched": {
+    "id": "240244693",
+    "follower_count": 47,
+    "following_count": 13,
+    "media_count": 26,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kelvingabriel/instagram/profile.jpg"
+  }
 }

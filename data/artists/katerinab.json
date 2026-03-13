@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "katerinab",
-  "name": "Katerina B",
+  "name": "Katheryna Kat",
   "location": {
     "city": "Odessa",
     "country": "Ukraine"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Cartel Tattoo Odessa"
+  "bio": "WORKPLACE Cartel Tattoo Odessa",
+  "instagram_enriched": {
+    "id": "2179264417",
+    "follower_count": 203,
+    "following_count": 327,
+    "media_count": 8,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katerinab/instagram/profile.jpg"
+  }
 }

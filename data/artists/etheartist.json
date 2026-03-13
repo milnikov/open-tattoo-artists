@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "etheartist",
+  "name": "Etheartist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/etheartist",
+    "instagram": "https://www.instagram.com/etheartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etheartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Etheartist is a highly skilled tattoo artist specializing in the minimalist and lettering styles that embody sleek, modern aesthetics. Their professionalism is reflected in the meticulous attention to detail and precision in each design, ensuring every client leaves with a wearable piece of art that exceeds expectations. Etheartist's commitment to their craft is evident in the stunning, crisp results of their work.\nPrice: $\nCurrent location:"
+}

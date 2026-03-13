@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "justjen",
-  "name": "Just Jen · Jen Wood",
+  "name": "Jen Crawford",
   "location": {
     "city": "Edinburgh",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Den of Iniquity Tattoo Parlour Edinburgh"
+  "bio": "WORKPLACE Den of Iniquity Tattoo Parlour Edinburgh\n\nElementary Art Teacher / Amatuer Photographer / Fun Adventures Seeker / Dog Lover / Enjoyer of Life",
+  "instagram_enriched": {
+    "id": "558630",
+    "follower_count": 68,
+    "following_count": 42,
+    "media_count": 619,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/justjen/instagram/profile.jpg"
+  }
 }

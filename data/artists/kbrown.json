@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kbrown",
-  "name": "K Brown",
+  "name": "Kathleen Browm",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE NORM's Love Letters Tattoo Los Angeles"
+  "bio": "WORKPLACE NORM's Love Letters Tattoo Los Angeles",
+  "instagram_enriched": {
+    "id": "309677",
+    "follower_count": 51,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kbrown/instagram/profile.jpg"
+  }
 }
