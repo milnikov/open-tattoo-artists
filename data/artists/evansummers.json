@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "evansummers",
-  "name": "Evan Summers",
+  "name": "Evan K. Summers",
   "location": {
     "city": "Los Angeles",
     "country": "Los Angeles County GRAPHICMICRO-REALISMBLACK AND GREY"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "[Disclaimer: The views I express are strictly my own and not necessarily those of my employer or related to my position as a public official.]",
+  "instagram_enriched": {
+    "id": "8147366",
+    "follower_count": 440,
+    "following_count": 691,
+    "media_count": 308,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evansummers/instagram/profile.jpg"
+  }
 }

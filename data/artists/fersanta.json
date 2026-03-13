@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fersanta",
-  "name": "Fersanta",
+  "name": "Fernando",
   "location": {
     "city": "Mexico City",
     "country": "Mexico"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "\" 𝚅𝚎𝚗𝚌𝚎𝚛 𝚜𝚒𝚗 𝚙𝚎𝚕𝚒𝚐𝚛𝚘 𝚎𝚜 𝚐𝚊𝚗𝚊𝚛 𝚜𝚒𝚗 𝚐𝚕𝚘𝚛𝚒𝚊.\"",
+  "instagram_enriched": {
+    "id": "64016630903",
+    "follower_count": 577,
+    "following_count": 482,
+    "media_count": 17,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fersanta/instagram/profile.jpg"
+  }
 }

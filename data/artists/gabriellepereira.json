@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gabriellepereira",
-  "name": "Gabi Pereira",
+  "name": "Gabrielle Pereira",
   "location": {
     "city": "Curitiba",
     "country": "Paraná State"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Full Color Tattoo Curitiba"
+  "bio": "WORKPLACE Full Color Tattoo Curitiba",
+  "instagram_enriched": {
+    "id": "41100074",
+    "follower_count": 610,
+    "following_count": 1795,
+    "media_count": 93,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gabriellepereira/instagram/profile.jpg"
+  }
 }

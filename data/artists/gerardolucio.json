@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gerardolucio",
-  "name": "Gerardo Lucio",
+  "name": "gerardo",
   "location": {
     "city": "Rota",
     "country": "Province of Cádiz"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Padre del joven tatuador Gerardo Lucio"
+  "bio": "Padre del joven tatuador Gerardo Lucio",
+  "instagram_enriched": {
+    "id": "276605592",
+    "follower_count": 5,
+    "following_count": 0,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gerardolucio/instagram/profile.jpg"
+  }
 }

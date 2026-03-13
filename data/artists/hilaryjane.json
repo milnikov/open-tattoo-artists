@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hilaryjane",
-  "name": "Hilary Jane",
+  "name": "Hilary Jane Turpin",
   "location": {
     "city": "Montreal",
     "country": "Quebec NEOTRADITIONALILLUSTRATIVE"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "I am an artist from Montreal, Canada. I also do freelance illustration and design for clothing companies, bands and books."
+  "updated_at": "2026-03-13",
+  "bio": "I am an artist from Montreal, Canada. I also do freelance illustration and design for clothing companies, bands and books.",
+  "instagram_enriched": {
+    "id": "65219290481",
+    "follower_count": 8,
+    "following_count": 11,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hilaryjane/instagram/profile.jpg"
+  }
 }

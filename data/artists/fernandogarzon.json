@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fernandogarzon",
-  "name": "Fernando Garzón",
+  "name": "Fernando Garzon",
   "location": {
     "city": "Cancún",
     "country": "Quintana Roo"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Ganesh Studio Mexico City"
+  "bio": "WORKPLACE Ganesh Studio Mexico City",
+  "instagram_enriched": {
+    "id": "478327140",
+    "follower_count": 197,
+    "following_count": 485,
+    "media_count": 20,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fernandogarzon/instagram/profile.jpg"
+  }
 }

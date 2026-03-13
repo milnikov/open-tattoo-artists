@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "henrikhorvath",
-  "name": "Henrik Horváth",
+  "name": "Horvath Henrik",
   "location": {
     "city": "Domat/Ems",
     "country": "Region Imboden"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Stichkultur Domat/Ems"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Stichkultur Domat/Ems",
+  "instagram_enriched": {
+    "id": "183839417",
+    "follower_count": 3,
+    "following_count": 48,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henrikhorvath/instagram/profile.jpg"
+  }
 }

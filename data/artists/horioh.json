@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horioh",
-  "name": "Horioh",
+  "name": "oriyomi",
   "location": {
     "city": "Tokyo",
     "country": "Kantō region  · IREZUMI"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Shangri-La Tattoo Tokyo"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Shangri-La Tattoo Tokyo",
+  "instagram_enriched": {
+    "id": "1748265540",
+    "follower_count": 16,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horioh/instagram/profile.jpg"
+  }
 }

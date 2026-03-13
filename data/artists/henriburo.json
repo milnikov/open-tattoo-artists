@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "henriburo",
-  "name": "Henri Buro",
+  "name": "Henriburo",
   "location": {
     "city": "Paris",
     "country": "Île-de-France ILLUSTRATIVEREALISM"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE La SiGNATURE Tattoo Paris"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE La SiGNATURE Tattoo Paris",
+  "instagram_enriched": {
+    "id": "15036654474",
+    "follower_count": 8,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henriburo/instagram/profile.jpg"
+  }
 }

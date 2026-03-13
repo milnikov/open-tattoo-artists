@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "howdy",
-  "name": "Howdy",
+  "name": "howdy",
   "location": {
     "city": "Seoul",
     "country": "South Korea LINE ARTFINE LINEMINIMALIST"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "Hongdae, Seoul, Korea. HOWDY"
+  "updated_at": "2026-03-13",
+  "bio": "Hongdae, Seoul, Korea. HOWDY\n\nConfuse the enemy",
+  "instagram_enriched": {
+    "id": "8139057814",
+    "follower_count": 14244,
+    "following_count": 100,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/howdy/instagram/profile.jpg"
+  }
 }
