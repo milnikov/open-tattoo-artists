@@ -145,6 +145,11 @@
     "normalized": "2雞"
   },
   {
+    "id": "aru",
+    "name": "3",
+    "normalized": "3"
+  },
+  {
     "id": "3daggerstattoopb",
     "name": "3 Daggers Tattoo",
     "normalized": "3 daggers tattoo"
@@ -683,6 +688,11 @@
     "id": "ana.almagro.tattoo",
     "name": "A N A    A L M A G R O",
     "normalized": "a n a a l m a g r o"
+  },
+  {
+    "id": "ariadnabatllori",
+    "name": "A R I A D N A",
+    "normalized": "a r i a d n a"
   },
   {
     "id": "art_ashleykay",
@@ -5695,11 +5705,6 @@
     "normalized": "ana flavia botelho"
   },
   {
-    "id": "anitahony",
-    "name": "Ana G. Rosario · Anita Hony",
-    "normalized": "ana g. rosario · anita hony"
-  },
-  {
     "id": "anagurrea",
     "name": "Ana Gurrea",
     "normalized": "ana gurrea"
@@ -5728,6 +5733,11 @@
     "id": "anamacedo_tattoo",
     "name": "Ana Macedo",
     "normalized": "ana macedo"
+  },
+  {
+    "id": "anitafer",
+    "name": "ana maria fernandez",
+    "normalized": "ana maria fernandez"
   },
   {
     "id": "anamaturana",
@@ -6991,7 +7001,7 @@
   },
   {
     "id": "angeladerosette",
-    "name": "Angela De Rosette",
+    "name": "Angela de Rosette",
     "normalized": "angela de rosette"
   },
   {
@@ -7021,7 +7031,7 @@
   },
   {
     "id": "angeliquehoutkamp",
-    "name": "Angelique Houtkamp",
+    "name": "ANGELIQUE HOUTKAMP",
     "normalized": "angelique houtkamp"
   },
   {
@@ -7191,8 +7201,13 @@
   },
   {
     "id": "anitadandrea",
-    "name": "Anita D'Andrea",
-    "normalized": "anita d'andrea"
+    "name": "Anita DAndrea",
+    "normalized": "anita dandrea"
+  },
+  {
+    "id": "anitahony",
+    "name": "Anita Hony",
+    "normalized": "anita hony"
   },
   {
     "id": "anita_la_sainte_tattoo",
@@ -7213,11 +7228,6 @@
     "id": "anitarossitattoo",
     "name": "Anita Rossi",
     "normalized": "anita rossi"
-  },
-  {
-    "id": "anitafer",
-    "name": "Anitafer",
-    "normalized": "anitafer"
   },
   {
     "id": "anitafer_tattoo",
@@ -7290,6 +7300,11 @@
     "normalized": "ann lilya"
   },
   {
+    "id": "anniemess",
+    "name": "Ann Marie Messmer",
+    "normalized": "ann marie messmer"
+  },
+  {
     "id": "annmonterroso_tattoo",
     "name": "Ann Monterroso",
     "normalized": "ann monterroso"
@@ -7335,11 +7350,6 @@
     "normalized": "anna botyk"
   },
   {
-    "id": "annabravo",
-    "name": "Anna Bravo",
-    "normalized": "anna bravo"
-  },
-  {
     "id": "anna_candalija",
     "name": "Anna Candalija Ruiz",
     "normalized": "anna candalija ruiz"
@@ -7355,14 +7365,14 @@
     "normalized": "anna day"
   },
   {
-    "id": "annadeabajo",
-    "name": "Anna de Abajo",
-    "normalized": "anna de abajo"
-  },
-  {
     "id": "annaenola",
     "name": "Anna Enola",
     "normalized": "anna enola"
+  },
+  {
+    "id": "annatwiggy",
+    "name": "ANNA FEDENKO",
+    "normalized": "anna fedenko"
   },
   {
     "id": "annafelkatattoo",
@@ -7385,6 +7395,11 @@
     "normalized": "anna inkers"
   },
   {
+    "id": "anna_murillo",
+    "name": "Anna isabel",
+    "normalized": "anna isabel"
+  },
+  {
     "id": "dearpony",
     "name": "Anna Ivanova",
     "normalized": "anna ivanova"
@@ -7400,14 +7415,14 @@
     "normalized": "anna luiza schramm"
   },
   {
+    "id": "annabravo",
+    "name": "Anna María Bravo",
+    "normalized": "anna maría bravo"
+  },
+  {
     "id": "anna_belle_tattoo",
     "name": "Anna mcfarlane",
     "normalized": "anna mcfarlane"
-  },
-  {
-    "id": "anna_murillo",
-    "name": "Anna Murillo",
-    "normalized": "anna murillo"
   },
   {
     "id": "annaneudecker",
@@ -7420,11 +7435,6 @@
     "normalized": "anna rogers"
   },
   {
-    "id": "annaryapolova",
-    "name": "Anna Ryapolova",
-    "normalized": "anna ryapolova"
-  },
-  {
     "id": "annastrait_",
     "name": "Anna Strait",
     "normalized": "anna strait"
@@ -7433,11 +7443,6 @@
     "id": "anna_trubina_tattoo",
     "name": "Anna Trubina",
     "normalized": "anna trubina"
-  },
-  {
-    "id": "annatwiggy",
-    "name": "Anna Twiggy",
-    "normalized": "anna twiggy"
   },
   {
     "id": "annaustrehova",
@@ -7483,11 +7488,6 @@
     "id": "annie_lloyd",
     "name": "Annie Lloyd",
     "normalized": "annie lloyd"
-  },
-  {
-    "id": "anniemess",
-    "name": "Annie Mess",
-    "normalized": "annie mess"
   },
   {
     "id": "anniemesstattoo",
@@ -7890,11 +7890,6 @@
     "normalized": "anya gladun"
   },
   {
-    "id": "anyatsyna",
-    "name": "Anya Tsyna",
-    "normalized": "anya tsyna"
-  },
-  {
     "id": "anythingspossibletattoo",
     "name": "Anything's Possible Tattoo",
     "normalized": "anything's possible tattoo"
@@ -8060,11 +8055,6 @@
     "normalized": "aria ackermann"
   },
   {
-    "id": "ariadnabatllori",
-    "name": "Ariadna Batllori",
-    "normalized": "ariadna batllori"
-  },
-  {
     "id": "blush_ink",
     "name": "Ariadna Pradera",
     "normalized": "ariadna pradera"
@@ -8123,11 +8113,6 @@
     "id": "1r915s",
     "name": "Arios",
     "normalized": "arios"
-  },
-  {
-    "id": "arirang",
-    "name": "Arirang",
-    "normalized": "arirang"
   },
   {
     "id": "deadroseink",
@@ -8460,6 +8445,11 @@
     "normalized": "artem"
   },
   {
+    "id": "artemy",
+    "name": "Artem",
+    "normalized": "artem"
+  },
+  {
     "id": "arty_c_",
     "name": "Artem",
     "normalized": "artem"
@@ -8470,19 +8460,9 @@
     "normalized": "artem bugin"
   },
   {
-    "id": "artemkorobov",
-    "name": "Artem Korobov",
-    "normalized": "artem korobov"
-  },
-  {
     "id": "arttattoo_pl",
     "name": "Artem Polyukhovic",
     "normalized": "artem polyukhovic"
-  },
-  {
-    "id": "artemtkachenko",
-    "name": "Artem Tkachenko",
-    "normalized": "artem tkachenko"
   },
   {
     "id": "artemisbodyart",
@@ -8493,11 +8473,6 @@
     "id": "artemistattoos",
     "name": "Artemis",
     "normalized": "artemis"
-  },
-  {
-    "id": "artemy",
-    "name": "Artemy",
-    "normalized": "artemy"
   },
   {
     "id": "artemyneumoin",
@@ -8550,11 +8525,6 @@
     "normalized": "arthur kim tattooer"
   },
   {
-    "id": "arthurlopes",
-    "name": "Arthur Lopes",
-    "normalized": "arthur lopes"
-  },
-  {
     "id": "arthur.mfo",
     "name": "Arthur MFO",
     "normalized": "arthur mfo"
@@ -8581,11 +8551,6 @@
   },
   {
     "id": "arthur_voss",
-    "name": "Arthur Voss",
-    "normalized": "arthur voss"
-  },
-  {
-    "id": "arthurvoss",
     "name": "Arthur Voss",
     "normalized": "arthur voss"
   },
@@ -8735,14 +8700,14 @@
     "normalized": "artyom chugunov"
   },
   {
+    "id": "artemkorobov",
+    "name": "Artyom Korobov",
+    "normalized": "artyom korobov"
+  },
+  {
     "id": "aime.ttt",
     "name": "Artêra Tattoo",
     "normalized": "artêra tattoo"
-  },
-  {
-    "id": "aru",
-    "name": "Aru",
-    "normalized": "aru"
   },
   {
     "id": "electrifiedtattoo",
@@ -8805,6 +8770,11 @@
     "normalized": "aseptic"
   },
   {
+    "id": "ash",
+    "name": "ASH",
+    "normalized": "ash"
+  },
+  {
     "id": "ashboss",
     "name": "Ash Boss",
     "normalized": "ash boss"
@@ -8828,11 +8798,6 @@
     "id": "ashhickmantattoo",
     "name": "Ash Hickman",
     "normalized": "ash hickman"
-  },
-  {
-    "id": "ashhigham",
-    "name": "Ash Higham",
-    "normalized": "ash higham"
   },
   {
     "id": "ashhighamtattoo",
@@ -8885,11 +8850,6 @@
     "normalized": "ash wilkinson"
   },
   {
-    "id": "ash",
-    "name": "Ash · Wadulisi Woman",
-    "normalized": "ash · wadulisi woman"
-  },
-  {
     "id": "asher",
     "name": "Asher",
     "normalized": "asher"
@@ -8925,6 +8885,11 @@
     "normalized": "ashley"
   },
   {
+    "id": "ashleydale",
+    "name": "Ashley Bush",
+    "normalized": "ashley bush"
+  },
+  {
     "id": "ashleydalestudio",
     "name": "Ashley Dale",
     "normalized": "ashley dale"
@@ -8933,6 +8898,11 @@
     "id": "ashleyevanstattoos",
     "name": "Ashley Evans",
     "normalized": "ashley evans"
+  },
+  {
+    "id": "ashhigham",
+    "name": "Ashley Higham",
+    "normalized": "ashley higham"
   },
   {
     "id": "ashleyhorncastle",
@@ -8978,11 +8948,6 @@
     "id": "cicadatattootacoma",
     "name": "Ashley, Will, Avina, or Raye",
     "normalized": "ashley, will, avina, or raye"
-  },
-  {
-    "id": "ashleydale",
-    "name": "Ashley-Dale",
-    "normalized": "ashley-dale"
   },
   {
     "id": "ashtonallentattoo",
@@ -9296,13 +9261,13 @@
   },
   {
     "id": "audreyglass",
-    "name": "Audrey Glass",
+    "name": "audrey glass",
     "normalized": "audrey glass"
   },
   {
     "id": "audreymuller",
-    "name": "Audrey Muller · Ripley",
-    "normalized": "audrey muller · ripley"
+    "name": "Audrey Muller",
+    "normalized": "audrey muller"
   },
   {
     "id": "audrey.scaramus",
@@ -9376,8 +9341,8 @@
   },
   {
     "id": "auroramp",
-    "name": "Aurora M.P",
-    "normalized": "aurora m.p"
+    "name": "Aurora MP",
+    "normalized": "aurora mp"
   },
   {
     "id": "aurora_tattoo_studio",
@@ -9480,11 +9445,6 @@
     "normalized": "avalon lewis"
   },
   {
-    "id": "avalonrose",
-    "name": "Avalon Rose",
-    "normalized": "avalon rose"
-  },
-  {
     "id": "avalontattoo_2",
     "name": "Avalon Tattoo 2",
     "normalized": "avalon tattoo 2"
@@ -9550,11 +9510,6 @@
     "normalized": "axel alcazar"
   },
   {
-    "id": "axelejsmont",
-    "name": "Axel Ejsmont",
-    "normalized": "axel ejsmont"
-  },
-  {
     "id": "axel_mercier",
     "name": "Axel Mercier",
     "normalized": "axel mercier"
@@ -9571,8 +9526,8 @@
   },
   {
     "id": "aya",
-    "name": "Aya Vovk",
-    "normalized": "aya vovk"
+    "name": "Aya Faisal آية فيصل 🌙",
+    "normalized": "aya faisal آية فيصل 🌙"
   },
   {
     "id": "ayako666",
@@ -9606,7 +9561,7 @@
   },
   {
     "id": "ayelopadalino",
-    "name": "Ayelo Padalino",
+    "name": "Ayelo padalino",
     "normalized": "ayelo padalino"
   },
   {
@@ -9680,11 +9635,6 @@
     "normalized": "azulejo tattoos | portuguese tiles lisbon"
   },
   {
-    "id": "azusa",
-    "name": "Azusa",
-    "normalized": "azusa"
-  },
-  {
     "id": "annpokes",
     "name": "Aɴɴᴀ 𓆏",
     "normalized": "aɴɴᴀ 𓆏"
@@ -9738,11 +9688,6 @@
     "id": "babyghost_tattoo",
     "name": "Baby Ghost Tattoo",
     "normalized": "baby ghost tattoo"
-  },
-  {
-    "id": "babyray",
-    "name": "Baby Ray",
-    "normalized": "baby ray"
   },
   {
     "id": "babylontattooshop",
@@ -9800,11 +9745,6 @@
     "normalized": "bad luck tattoo"
   },
   {
-    "id": "badtongue",
-    "name": "Bad Tongue",
-    "normalized": "bad tongue"
-  },
-  {
     "id": "badabink_vlc_tattoo",
     "name": "Badabink Tattoo",
     "normalized": "badabink tattoo"
@@ -9815,14 +9755,14 @@
     "normalized": "badderink"
   },
   {
-    "id": "bae",
-    "name": "Bae",
-    "normalized": "bae"
+    "id": "badtongue",
+    "name": "BadTongue™ Official",
+    "normalized": "badtongueTM official"
   },
   {
-    "id": "baekwoon",
-    "name": "BaekWoon",
-    "normalized": "baekwoon"
+    "id": "bae",
+    "name": "bae",
+    "normalized": "bae"
   },
   {
     "id": "baganosrichard",
@@ -9935,11 +9875,6 @@
     "normalized": "baltimore street tattoo"
   },
   {
-    "id": "bambam",
-    "name": "Bam Bam · Łukasz Kaczmarek",
-    "normalized": "bam bam · łukasz kaczmarek"
-  },
-  {
     "id": "bambi_tattoo_art",
     "name": "BAMBI tattoo/art",
     "normalized": "bambi tattoo/art"
@@ -10050,6 +9985,11 @@
     "normalized": "barbara alt"
   },
   {
+    "id": "barbara.tattooer",
+    "name": "Barbara J.",
+    "normalized": "barbara j."
+  },
+  {
     "id": "babs.keller",
     "name": "Barbara Keller",
     "normalized": "barbara keller"
@@ -10108,11 +10048,6 @@
     "id": "barbaraswingaling_tattoos",
     "name": "Barbara Swingaling",
     "normalized": "barbara swingaling"
-  },
-  {
-    "id": "barbara.tattooer",
-    "name": "Barbara Tattooer",
-    "normalized": "barbara tattooer"
   },
   {
     "id": "barbe_rousse",
@@ -10235,11 +10170,6 @@
     "normalized": "bart balboa"
   },
   {
-    "id": "bartbingham",
-    "name": "Bart Bingham",
-    "normalized": "bart bingham"
-  },
-  {
     "id": "bartjanus",
     "name": "Bart Janus",
     "normalized": "bart janus"
@@ -10258,6 +10188,11 @@
     "id": "bartwillistattoo",
     "name": "Bart Willis",
     "normalized": "bart willis"
+  },
+  {
+    "id": "bartbingham",
+    "name": "bartbingham",
+    "normalized": "bartbingham"
   },
   {
     "id": "bartekbaro",
@@ -10286,8 +10221,8 @@
   },
   {
     "id": "bartosz",
-    "name": "Bartosz Jakub Namiotko",
-    "normalized": "bartosz jakub namiotko"
+    "name": "Bartosz Karol Wogórka",
+    "normalized": "bartosz karol wogórka"
   },
   {
     "id": "bartosz.mitek.tattoo",
@@ -10321,8 +10256,8 @@
   },
   {
     "id": "bartoszzielinski",
-    "name": "Bartosz Zieliński · Broda",
-    "normalized": "bartosz zieliński · broda"
+    "name": "Bartosz Zieliński",
+    "normalized": "bartosz zieliński"
   },
   {
     "id": "bartt",
@@ -13733,6 +13668,11 @@
     "id": "bre_inside.ink",
     "name": "Bre Inside Ink",
     "normalized": "bre inside ink"
+  },
+  {
+    "id": "arirang",
+    "name": "bread",
+    "normalized": "bread"
   },
   {
     "id": "breakingink",
@@ -31085,6 +31025,11 @@
     "normalized": "fräulein klecks"
   },
   {
+    "id": "arthurvoss",
+    "name": "FTM® XYZ",
+    "normalized": "ftm® xyz"
+  },
+  {
     "id": "fuki",
     "name": "Fuki/Fukari · Judyta Murawska",
     "normalized": "fuki/fukari · judyta murawska"
@@ -32805,11 +32750,6 @@
     "normalized": "horikaka"
   },
   {
-    "id": "asakusahorikazu",
-    "name": "Horikazu II",
-    "normalized": "horikazu ii"
-  },
-  {
     "id": "horikei",
     "name": "HoriKei · Keiichi Matsuda",
     "normalized": "horikei · keiichi matsuda"
@@ -33828,6 +33768,11 @@
     "id": "jaclynrehe",
     "name": "Jaclyn Réhe",
     "normalized": "jaclyn réhe"
+  },
+  {
+    "id": "bambam",
+    "name": "Jacob Bamdas",
+    "normalized": "jacob bamdas"
   },
   {
     "id": "jacobjgardner",
@@ -38370,6 +38315,11 @@
     "normalized": "l.m.knight"
   },
   {
+    "id": "avalonrose",
+    "name": "L_Rose",
+    "normalized": "l_rose"
+  },
+  {
     "id": "casadeitatuaggi",
     "name": "La Casa dei Tatuaggi",
     "normalized": "la casa dei tatuaggi"
@@ -41243,6 +41193,11 @@
     "id": "darkmaa_tattooer",
     "name": "Marta Matt",
     "normalized": "marta matt"
+  },
+  {
+    "id": "axelejsmont",
+    "name": "Marta Slawinska",
+    "normalized": "marta slawinska"
   },
   {
     "id": "marthaellensmith",
@@ -44365,6 +44320,11 @@
     "normalized": "nicolás piccoto"
   },
   {
+    "id": "babyray",
+    "name": "Nicolò Zarcone",
+    "normalized": "nicolò zarcone"
+  },
+  {
     "id": "nicozbalboa",
     "name": "Nicoz Balboa",
     "normalized": "nicoz balboa"
@@ -45853,6 +45813,11 @@
     "id": "pedroalvarez",
     "name": "Pedro Alvarez",
     "normalized": "pedro alvarez"
+  },
+  {
+    "id": "arthurlopes",
+    "name": "Pedro Arthur",
+    "normalized": "pedro arthur"
   },
   {
     "id": "pedrobielsa",
@@ -54860,6 +54825,11 @@
     "normalized": "xuong ka tattoo artist"
   },
   {
+    "id": "azusa",
+    "name": "Yagita Azusa",
+    "normalized": "yagita azusa"
+  },
+  {
     "id": "yaizarubio",
     "name": "Yaiza Rubio Castillejos",
     "normalized": "yaiza rubio castillejos"
@@ -55515,6 +55485,11 @@
     "normalized": "zzizzi boy"
   },
   {
+    "id": "annadeabajo",
+    "name": "·CLASSIC TATTOO·",
+    "normalized": "·classic tattoo·"
+  },
+  {
     "id": "alvarocontreras",
     "name": "Álvaro Contreras · Buffonetti",
     "normalized": "álvaro contreras · buffonetti"
@@ -55650,6 +55625,11 @@
     "normalized": "андрей черновалов"
   },
   {
+    "id": "anyatsyna",
+    "name": "Аня",
+    "normalized": "аня"
+  },
+  {
     "id": "botvichtattoo",
     "name": "Ботвич Николай",
     "normalized": "ботвич николай"
@@ -55695,6 +55675,11 @@
     "normalized": "любов сорока"
   },
   {
+    "id": "annaryapolova",
+    "name": "Ряполова Анна",
+    "normalized": "ряполова анна"
+  },
+  {
     "id": "artanes_tattoo",
     "name": "Сандо Серьожев",
     "normalized": "сандо серьожев"
@@ -55708,6 +55693,11 @@
     "id": "amos_tattooer",
     "name": "Тату в Одессе",
     "normalized": "тату в одессе"
+  },
+  {
+    "id": "artemtkachenko",
+    "name": "Ткаченко  Артем",
+    "normalized": "ткаченко артем"
   },
   {
     "id": "hoode",
@@ -56050,6 +56040,11 @@
     "normalized": "桃園刺青《橡果刺青店- 寇拉coras》"
   },
   {
+    "id": "asakusahorikazu",
+    "name": "浅草  彫和",
+    "normalized": "浅草 彫和"
+  },
+  {
     "id": "canglongtattoo",
     "name": "苍龙 (Canglong)",
     "normalized": "苍龙 (canglong)"
@@ -56098,6 +56093,11 @@
     "id": "adela_tattooer",
     "name": "아델라 🦋 Owner Of Adelier Ink",
     "normalized": "아델라 🦋 owner of adelier ink"
+  },
+  {
+    "id": "baekwoon",
+    "name": "유백운",
+    "normalized": "유백운"
   },
   {
     "id": "dat.tattoo",
