@@ -127126,15 +127126,16 @@
     "links": {
       "instagram": "https://www.instagram.com/eddiezavala.arte/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddiezavala.arte/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Tattooer/Co-owner: @darkwatercollectivetattoo \n552 Searls Ave. nevada city, CA \nhablo español,ASL🤟🏼, apprendre le français",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "eddylou",
@@ -127255,7 +127256,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddylabel.tattoo/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddylabel.tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "eddy.margres",
@@ -127304,8 +127305,25 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "eddy_egidijus_perminovas",
+    "name": "Eddy-Egidijus Perminovas",
+    "location": {
+      "city": "Vilnius",
+      "country": "Vilnius County"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/eddy-egidijus-perminovas"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Eddy Tattoo Art Studio Vilnius",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "eddy_perminovas",
-    "name": "Eddy Perminovas",
+    "name": "Eddy-Egidijus Perminovas",
     "location": {
       "city": "Vilnius",
       "country": "Lithuania"
@@ -127325,23 +127343,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddy_perminovas/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddy_perminovas/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "eddy_egidijus_perminovas",
-    "name": "Eddy-Egidijus Perminovas",
-    "location": {
-      "city": "Vilnius",
-      "country": "Vilnius County"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/eddy-egidijus-perminovas"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Eddy Tattoo Art Studio Vilnius",
+    "bio": "@ministryoftattoos.official supported by @lithuanian_irons         Lithuania. Vilnius - Vytenio 13",
     "updated_at": "2026-03-13"
   },
   {
@@ -127542,7 +127544,7 @@
   },
   {
     "id": "edgarmarquez",
-    "name": "Edgar Marquez · Ediablo",
+    "name": "Edgar Márquez",
     "location": {
       "city": "Long Beach",
       "country": "United States"
@@ -131782,6 +131784,31 @@
     ],
     "bio": "Elizabeth Proink is a highly skilled tattoo artist specializing in black and gray and sketch-style tattoos. Based in Saint Petersburg, Russia, her attention to detail and professional approach assures clients of a pristine work environment during their tattoo experience. Known for her ability to intricate both delicate florals and formidable monsters into her designs, Elizabeth's artistry has garnered a dedicated client base.\nPrice: $$\nCurrent location: Saint Petersburg, Northwestern Federal District, Russia",
     "updated_at": "2026-03-12"
+  },
+  {
+    "id": "estriverside",
+    "name": "Elizabeth St Tattoo",
+    "location": {
+      "city": "Riverside",
+      "country": "United States"
+    },
+    "styles": [
+      "dotwork",
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/estriverside/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estriverside/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estriverside/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estriverside/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estriverside/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estriverside/thumb/004.webp"
+    ],
+    "bio": "Elizabeth St Tattoo\nSTUDIO\nRiverside, California, United States\n12.5k\nAdd\nMessage\ndotwork\ntraditional",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elizetattoo",
@@ -139414,6 +139441,31 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Clockwork Tattoo Studio Barakaldo",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "estheredelvalley",
+    "name": "Esthere del Valley",
+    "location": {
+      "city": "Sant Cugat Del Vallès",
+      "country": "Spain"
+    },
+    "styles": [
+      "black&gray",
+      "dotwork",
+      "tribal"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/estheredelvalley/"
+    },
+    "tattoo_count": 34,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estheredelvalley/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estheredelvalley/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estheredelvalley/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estheredelvalley/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/estheredelvalley/thumb/004.webp"
+    ],
     "updated_at": "2026-03-13"
   },
   {
