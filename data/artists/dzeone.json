@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "dzeone",
+  "name": "Donavan",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/dzeone",
+    "instagram": "https://www.instagram.com/dzeone/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dzeone/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dzeone/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dzeone/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dzeone/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Experience the fusion of time-honored artistry and modern flair at Donavan's InkBomb Tattoos, where traditional, newschool, and neotraditional styles collide. Nestled at 2111 S. Alma School Road in Mesa, Arizona, our welcoming studio is a sanctuary for creativity, where each design is crafted with precision and a passion for self-expression. Join us at InkBomb and leave with a masterpiece that embodies your unique spirit.\nPrice: $\nCurrent location:"
+}
