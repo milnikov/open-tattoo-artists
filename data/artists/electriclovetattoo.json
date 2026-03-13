@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "electriclovetattoo",
-  "name": "ELECTRIC LOVE TATTOO",
+  "name": "Belatriz Tattoos",
   "location": {
     "city": "Brasilia",
     "country": "Brazil"
@@ -149,14 +149,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "📍Estúdio privado \n    Asa Norte - Brasília\n🔮 Tatuadoras: \n✨ @belatriztattoos \n✨ @bruh_tattoos \n✨ @mandiocatatu",
-  "instagram_enriched": {
-    "id": "10365608076",
-    "follower_count": 698,
-    "following_count": 121,
-    "media_count": 48,
-    "following": [],
-    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/instagram/profile.jpg"
-  }
+  "updated_at": "2026-03-13"
 }

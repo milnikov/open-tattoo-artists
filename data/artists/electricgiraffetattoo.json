@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "electricgiraffetattoo",
-  "name": "EGT•Collective",
+  "name": "Electric Giraffe Tattooer",
   "location": {
     "city": "Tulare",
     "country": "United States"
@@ -172,14 +172,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "We be Travelin’. Bold Lines, Saturated Color @daggerknows @rafaelrtattoo",
-  "instagram_enriched": {
-    "id": "1241691234",
-    "follower_count": 999,
-    "following_count": 67,
-    "media_count": 42,
-    "following": [],
-    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/instagram/profile.jpg"
-  }
+  "updated_at": "2026-03-13"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "edoardo.gabriele",
-  "name": "Gabriele Edoardo",
+  "name": "Dodo Tattoo",
   "location": {
     "city": "Lucca",
     "country": "Italy"
@@ -616,14 +616,5 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Autista 118",
-  "instagram_enriched": {
-    "id": "6421050939",
-    "follower_count": 311,
-    "following_count": 3897,
-    "media_count": 363,
-    "following": [],
-    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/instagram/profile.jpg"
-  }
+  "updated_at": "2026-03-12"
 }

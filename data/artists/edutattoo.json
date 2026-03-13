@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "edutattoo",
-  "name": "Edutattoo",
+  "name": "Edu Tattoo",
   "location": {
     "city": "Porto Alegre",
-    "country": "Rio Grande do Sul BLACKWORKILLUSTRATIVE"
+    "country": "Brazil"
   },
   "styles": [],
   "links": {
@@ -14,13 +14,5 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Edu Tattoo Blood & Bazaar Porto Alegre\n\n🎨 Tatuador\n🖤 Dynamic Ink | Ventas & distribución\n📚 Cursos de formación en tatuaje\n📩 Agenda & pedidos aquí",
-  "instagram_enriched": {
-    "id": "58394646521",
-    "follower_count": 104,
-    "following_count": 21,
-    "media_count": 43,
-    "following": [],
-    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edutattoo/instagram/profile.jpg"
-  }
+  "bio": "WORKPLACE Edu Tattoo Blood & Bazaar Porto Alegre"
 }

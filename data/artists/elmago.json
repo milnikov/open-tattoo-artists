@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "elmago",
-  "name": "nicolas",
+  "name": "El Mago",
   "location": {
     "city": "Mislata",
-    "country": "Valencian Community REALISMPORTRAIT"
+    "country": "Valencian Community"
   },
   "styles": [],
   "links": {
@@ -14,13 +14,5 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE 12 Lágrimas Tattoo Mislata",
-  "instagram_enriched": {
-    "id": "5434084889",
-    "follower_count": 14,
-    "following_count": 136,
-    "media_count": 3,
-    "following": [],
-    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elmago/instagram/profile.jpg"
-  }
+  "bio": "WORKPLACE 12 Lágrimas Tattoo Mislata"
 }
