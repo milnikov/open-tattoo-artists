@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "edovan",
-  "name": "Edovan",
+  "name": "Edovan Gonzalez",
   "location": {
     "city": "Capoterra",
     "country": "Italy"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Edovan Tattoo Atelier Capoterra"
+  "bio": "WORKPLACE Edovan Tattoo Atelier Capoterra\n\nMédico - USCO",
+  "instagram_enriched": {
+    "id": "360991569",
+    "follower_count": 294,
+    "following_count": 220,
+    "media_count": 276,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edovan/instagram/profile.jpg"
+  }
 }
