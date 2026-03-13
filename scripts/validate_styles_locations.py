@@ -82,6 +82,7 @@ JUNK_STYLES = {
     "atlastattoosupplies",
     "meaculpairons",
     "wildcatbarcelona",
+    "kingpintattoosupply",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -440,6 +441,14 @@ REGION_TO_COUNTRY = {
     "Arrondissement de Mons": "Belgium",
     "Province of Modena": "Italy",
     "Province of Almería": "Spain",
+    "West Pomeranian Voivodeship": "Poland",
+    "Kreisfreie Stadt Bonn": "Germany",
+    "Essex County": "United States",
+    "Arrondissement de Nancy": "France",
+    "Napa County": "United States",
+    "Province of Vicenza": "Italy",
+    "North Yorkshire": "United Kingdom",
+    "Surrey": "United Kingdom",
 }
 
 
