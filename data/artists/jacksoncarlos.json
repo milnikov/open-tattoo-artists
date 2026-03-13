@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jacksoncarlos",
-  "name": "Jackson Carlos",
+  "name": "Jackson Ramalho",
   "location": {
     "city": "Lajedo",
     "country": "Pernambuco"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Studio Alive Ink Tattoo Lajedo"
+  "bio": "WORKPLACE Studio Alive Ink Tattoo Lajedo",
+  "instagram_enriched": {
+    "id": "221522824",
+    "follower_count": 286,
+    "following_count": 648,
+    "media_count": 23,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacksoncarlos/instagram/profile.jpg"
+  }
 }

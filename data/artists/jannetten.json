@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jannetten",
-  "name": "Jan Netten",
+  "name": "jannetten",
   "location": {
     "city": "Helmond",
     "country": "Netherlands"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Classic Tattoo Helmond Helmond"
+  "bio": "WORKPLACE Classic Tattoo Helmond Helmond",
+  "instagram_enriched": {
+    "id": "208050808",
+    "follower_count": 245,
+    "following_count": 299,
+    "media_count": 475,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jannetten/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "janmraz",
-  "name": "Jan Mráz",
+  "name": "Jano Mraz",
   "location": {
     "city": "Prague",
     "country": "Czech Republic"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "193822727",
+    "follower_count": 107,
+    "following_count": 328,
+    "media_count": 379,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/janmraz/instagram/profile.jpg"
+  }
 }

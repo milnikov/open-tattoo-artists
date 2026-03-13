@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "izaelmendes",
-  "name": "Izael Mendes",
+  "name": "izael mendes",
   "location": {
     "city": "Gravataí",
     "country": "Brazil"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tatuaria Mendes Gravataí"
+  "bio": "WORKPLACE Tatuaria Mendes Gravataí",
+  "instagram_enriched": {
+    "id": "280054360",
+    "follower_count": 138,
+    "following_count": 11,
+    "media_count": 11,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/izaelmendes/instagram/profile.jpg"
+  }
 }

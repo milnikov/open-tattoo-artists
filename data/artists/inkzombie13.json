@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkzombie13",
-  "name": "Ed, aka TAINO",
+  "name": "Taino",
   "location": {
     "city": "Bronx",
     "country": "United States"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "6787419897",
+    "follower_count": 732,
+    "following_count": 949,
+    "media_count": 300,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkzombie13/instagram/profile.jpg"
+  }
 }

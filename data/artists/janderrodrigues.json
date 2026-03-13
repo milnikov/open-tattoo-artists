@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "janderrodrigues",
-  "name": "Jander Rodrigues",
+  "name": "jander & anna",
   "location": {
     "city": "Goiânia",
     "country": "Brazil"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Jander Tattoo Goiânia"
+  "bio": "WORKPLACE Jander Tattoo Goiânia",
+  "instagram_enriched": {
+    "id": "359912873",
+    "follower_count": 68,
+    "following_count": 55,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/janderrodrigues/instagram/profile.jpg"
+  }
 }
