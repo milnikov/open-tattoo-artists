@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "claudiobenvenuti",
-  "name": "Claudio “Skinscrawler” Benvenuti",
+  "name": "Claudio Benvenuti",
   "location": {
     "city": "Follonica",
     "country": "Province of Grosseto"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tatuaggi da Claudio Follonica"
+  "bio": "WORKPLACE Tatuaggi da Claudio Follonica",
+  "instagram_enriched": {
+    "id": "70162393088",
+    "follower_count": 7,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/claudiobenvenuti/instagram/profile.jpg"
+  }
 }

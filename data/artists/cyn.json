@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cyn",
-  "name": "Cyn",
+  "name": "Cyn Guitart",
   "location": {
     "city": "Barcelona",
     "country": "Barcelona Province"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Red Van Tattoo Barcelona"
+  "bio": "WORKPLACE Red Van Tattoo Barcelona",
+  "instagram_enriched": {
+    "id": "315532700",
+    "follower_count": 345,
+    "following_count": 933,
+    "media_count": 548,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cyn/instagram/profile.jpg"
+  }
 }

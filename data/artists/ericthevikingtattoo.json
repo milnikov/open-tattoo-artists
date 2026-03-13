@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ericthevikingtattoo",
+  "name": "Eric the Viking",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "black&gray",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ericthevikingtattoo",
+    "instagram": "https://www.instagram.com/ericthevikingtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericthevikingtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericthevikingtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericthevikingtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericthevikingtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Eric the Viking, known for his exquisite geometric, black & gray, and dotwork tattoos, is not only a master of his craft but also upholds the utmost standards of professionalism. As the co-owner of King of Hearts, he ensures each client's experience is treated with the respect and dedication it deserves. To witness Eric's remarkable talent and professional service firsthand, bookings and inquiries can be directed to kingofheartslondon@gmail.com.\nPrice: $\nCurrent location:"
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chrisconn",
-  "name": "Christopher Conn Askew",
+  "name": "Chris Conn",
   "location": {
     "city": "Los Angeles",
     "country": "Los Angeles County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "CHRISTOPHER CONN ASKEW"
+  "bio": "CHRISTOPHER CONN ASKEW\n\n32",
+  "instagram_enriched": {
+    "id": "10261432",
+    "follower_count": 335,
+    "following_count": 1167,
+    "media_count": 85,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chrisconn/instagram/profile.jpg"
+  }
 }

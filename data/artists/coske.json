@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "coske",
-  "name": "el Niño Coske",
+  "name": "Coske",
   "location": {
     "city": "Jerez de la Frontera",
     "country": "Province of Cádiz NEOTRADITIONALBLACK AND GREY"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Piki Tattoo Jerez de la Frontera"
+  "bio": "WORKPLACE Piki Tattoo Jerez de la Frontera",
+  "instagram_enriched": {
+    "id": "4726813216",
+    "follower_count": 3,
+    "following_count": 4,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/coske/instagram/profile.jpg"
+  }
 }

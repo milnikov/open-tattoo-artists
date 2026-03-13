@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "clarelambert",
-  "name": "Clare La-La Lambert",
+  "name": "Clare Lambert",
   "location": {
     "city": "Leicester",
     "country": "Leicestershire"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Sakura Tattoo Leicester Leicester"
+  "bio": "WORKPLACE Sakura Tattoo Leicester Leicester",
+  "instagram_enriched": {
+    "id": "29674199",
+    "follower_count": 1037,
+    "following_count": 1259,
+    "media_count": 389,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarelambert/instagram/profile.jpg"
+  }
 }

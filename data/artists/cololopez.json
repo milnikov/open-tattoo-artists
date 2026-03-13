@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cololopez",
-  "name": "Colo López",
+  "name": "Colo Lopez Sanchez",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Veneno Tattoo Madrid"
+  "bio": "WORKPLACE Veneno Tattoo Madrid",
+  "instagram_enriched": {
+    "id": "251437256",
+    "follower_count": 59,
+    "following_count": 25,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cololopez/instagram/profile.jpg"
+  }
 }

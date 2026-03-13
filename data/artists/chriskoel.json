@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chriskoel",
-  "name": "Chris Koel",
+  "name": "chris",
   "location": {
     "city": "Vienna",
     "country": "Austria REALISMGRAPHIC"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tattoo Werk Vienna"
+  "bio": "WORKPLACE Tattoo Werk Vienna",
+  "instagram_enriched": {
+    "id": "2227377912",
+    "follower_count": 1,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chriskoel/instagram/profile.jpg"
+  }
 }
