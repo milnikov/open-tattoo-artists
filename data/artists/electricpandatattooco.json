@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "electricpandatattooco",
+  "name": "Electric Panda Tattoo Company",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/electricpandatattooco",
+    "instagram": "https://www.instagram.com/electricpandatattooco/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricpandatattooco/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricpandatattooco/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricpandatattooco/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricpandatattooco/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Discover the artistry at Electric Panda Tattoo Company, where striking minimalism meets vivid realism and bold trashpolka in a canvas of skin. Led by a multifaceted shop owner who's not only a master tattoo artist but also a renowned recording artist, this studio resonates with creative energy. Step inside for an inspired tattoo experience that's as unforgettable as the ink that adorns your body.\nPrice: $\nCurrent location:"
+}
