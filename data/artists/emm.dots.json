@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "emm.dots",
+  "name": "Emma Watson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "geometric",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/emm.dots",
+    "instagram": "https://www.instagram.com/emm.dots/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emm.dots/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emm.dots/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emm.dots/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emm.dots/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Emma Watson is an exceptionally skilled tattoo artist based in Manchester, UK, specializing in intricately designed floral, geometric, and fine line tattoos. The co-owner of BLKCoral Collective, Emma is known for her remarkable precision and artistic flair that brings each client's vision to life with stunning clarity. Her professionalism is apparent not only in her breathtaking work but also in the meticulous manner she manages her business and client communications.\nPrice: $\nCurrent location:"
+}
