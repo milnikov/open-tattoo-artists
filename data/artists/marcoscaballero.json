@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcoscaballero",
-  "name": "Marcos Caballero",
+  "name": "marcos caballero",
   "location": {
     "city": "Hattingen",
     "country": "Ennepe-Ruhr-Kreis"
@@ -158,6 +158,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Marlin Art Tattoo - Smoke ink Hattingen"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Marlin Art Tattoo - Smoke ink Hattingen",
+  "instagram_enriched": {
+    "id": "346094297",
+    "follower_count": 720,
+    "following_count": 932,
+    "media_count": 48,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcoscaballero/instagram/profile.jpg"
+  }
 }

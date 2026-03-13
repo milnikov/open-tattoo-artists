@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manufarrarons",
-  "name": "Manu Farrarons",
+  "name": "Koka Gaming",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -13,6 +13,30 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
     {
       "image_id": "001",
       "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/full/001.webp",
@@ -26,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE P Mana'o Tattoo - Los Angeles"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE P Mana'o Tattoo - Los Angeles\n\nSub my channel for new videos...\nMessage main acc @_itskoka_  58k to play with me.",
+  "instagram_enriched": {
+    "id": "2959711054",
+    "follower_count": 1863,
+    "following_count": 5423,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manufarrarons/instagram/profile.jpg"
+  }
 }

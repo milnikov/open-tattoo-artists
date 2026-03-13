@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marceloco",
-  "name": "Marceloco",
+  "name": "Marcelo Garcia",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Oink Farm Tattoo Milan"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Oink Farm Tattoo Milan\n\nLos amo, aunque no les escribo 🎶",
+  "instagram_enriched": {
+    "id": "4782447",
+    "follower_count": 855,
+    "following_count": 1961,
+    "media_count": 490,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marceloco/instagram/profile.jpg"
+  }
 }

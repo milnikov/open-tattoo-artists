@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manoelmachado",
-  "name": "Manoel Machado",
+  "name": "Manoel de Paula Machado",
   "location": {
     "city": "Porto Alegre",
     "country": "Brazil"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tattoo Mawh Porto Alegre"
+  "bio": "WORKPLACE Tattoo Mawh Porto Alegre\n\nlive and let die",
+  "instagram_enriched": {
+    "id": "213336410",
+    "follower_count": 523,
+    "following_count": 613,
+    "media_count": 76,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manoelmachado/instagram/profile.jpg"
+  }
 }

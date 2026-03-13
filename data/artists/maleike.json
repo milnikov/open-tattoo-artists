@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maleike",
-  "name": "Maleike",
+  "name": "Christian Maleike-Fitza",
   "location": {
     "city": "Steyr",
     "country": "Steyr Stadt"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Color Mission Tattoo Steyr"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Color Mission Tattoo Steyr",
+  "instagram_enriched": {
+    "id": "41685467",
+    "follower_count": 184,
+    "following_count": 296,
+    "media_count": 213,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maleike/instagram/profile.jpg"
+  }
 }

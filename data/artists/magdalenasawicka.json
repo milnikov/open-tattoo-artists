@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "magdalenasawicka",
-  "name": "Magdalena Sawicka · Sick Rose",
+  "name": "Magdalena Sawicka",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Gulestus Tattoo Warsaw"
+  "bio": "WORKPLACE Gulestus Tattoo Warsaw",
+  "instagram_enriched": {
+    "id": "1338960940",
+    "follower_count": 13,
+    "following_count": 35,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magdalenasawicka/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcmestre",
-  "name": "Marc Mestre",
+  "name": "Marc Mestre Honrubia",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Asimètric Tattoo and Gallery"
+  "bio": "WORKPLACE P Asimètric Tattoo and Gallery",
+  "instagram_enriched": {
+    "id": "212929033",
+    "follower_count": 641,
+    "following_count": 7490,
+    "media_count": 398,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcmestre/instagram/profile.jpg"
+  }
 }

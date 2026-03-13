@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcocondor",
-  "name": "Marco Condor",
+  "name": "Marco C Ch Condor Chipana",
   "location": {
     "city": "Padua",
     "country": "Italy"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Self Made Tattoo Parlour Padua"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Self Made Tattoo Parlour Padua",
+  "instagram_enriched": {
+    "id": "1492674801",
+    "follower_count": 130,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocondor/instagram/profile.jpg"
+  }
 }

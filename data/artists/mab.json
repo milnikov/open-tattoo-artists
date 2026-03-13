@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mab",
-  "name": "Mab Matiere Noire",
+  "name": "Matt",
   "location": {
     "city": "Brussels",
     "country": "Belgium"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "2277569085",
+    "follower_count": 1453,
+    "following_count": 19,
+    "media_count": 41,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mab/instagram/profile.jpg"
+  }
 }
