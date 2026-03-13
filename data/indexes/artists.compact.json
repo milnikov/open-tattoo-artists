@@ -136183,6 +136183,31 @@
     "updated_at": "2026-03-11"
   },
   {
+    "id": "enso_tattoo",
+    "name": "Enso Tattoo",
+    "location": {
+      "city": "Columbus",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional",
+      "japanese",
+      "newschool"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/enso_tattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enso_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enso_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enso_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enso_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enso_tattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "entouane",
     "name": "Entouane",
     "location": {
@@ -143674,6 +143699,23 @@
     ],
     "bio": "Exclusive tattoo artist specialized in fine line based in Monterrey, Mexico.",
     "updated_at": "2026-03-08"
+  },
+  {
+    "id": "gerardo_lucio",
+    "name": "Gerardo Lucio",
+    "location": {
+      "city": "Rota",
+      "country": "Province of Cádiz"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/gerardo-lucio"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "Hijo del veterano tatuador Gerardo Lucio",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "waz",
@@ -189675,6 +189717,23 @@
     ],
     "bio": "WORKPLACE Signs and Wonders Tattoo Studio Berlin",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "morganejeane",
+    "name": "Mo · Morgane Jeane",
+    "location": {
+      "city": "Toulouse",
+      "country": "Arrondissement de Toulouse"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/morganejeane"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "Née à Lille, Mo a fait ses études de graphisme/illustration en Belgique (Tournai). read more",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "moay",
