@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alenasativa",
-  "name": "Alena Sativa",
+  "name": "AlenaSativaPutri",
   "location": {
     "city": "Kraków",
     "country": "Lesser Poland Voivodeship"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE 9th Circle Kraków"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE 9th Circle Kraków",
+  "instagram_enriched": {
+    "id": "2230659092",
+    "follower_count": 1,
+    "following_count": 22,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alenasativa/instagram/profile.jpg"
+  }
 }

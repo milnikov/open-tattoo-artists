@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adamknowles",
-  "name": "Adam Knowles",
+  "name": "adam knowles",
   "location": {
     "city": "Salford",
     "country": "Greater Manchester"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Studio IX Tattoo Salford"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Studio IX Tattoo Salford",
+  "instagram_enriched": {
+    "id": "24991630",
+    "follower_count": 77,
+    "following_count": 110,
+    "media_count": 160,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamknowles/instagram/profile.jpg"
+  }
 }

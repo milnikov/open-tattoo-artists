@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aleksandrafifa",
-  "name": "Aleksandra Fifa",
+  "name": "Александра Фифа",
   "location": {
     "city": "Wroclaw",
     "country": "Lower Silesian Voivodeship MINIMALISTLINE ARTFINE LINE"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Redberry Tattoo Studio Wroclaw"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Redberry Tattoo Studio Wroclaw",
+  "instagram_enriched": {
+    "id": "5944423325",
+    "follower_count": 35,
+    "following_count": 67,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aleksandrafifa/instagram/profile.jpg"
+  }
 }

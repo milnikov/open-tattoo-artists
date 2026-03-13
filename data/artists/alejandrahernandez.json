@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alejandrahernandez",
-  "name": "Alejandra Hernández · Lex Tattoos",
+  "name": "Alejandra Hernandez",
   "location": {
     "city": "Mexico City",
     "country": "Mexico"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "ALEJANDRA HERNÁNDEZ · LEX TATTOOS"
+  "updated_at": "2026-03-13",
+  "bio": "ALEJANDRA HERNÁNDEZ · LEX TATTOOS",
+  "instagram_enriched": {
+    "id": "2182831018",
+    "follower_count": 90,
+    "following_count": 140,
+    "media_count": 21,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alejandrahernandez/instagram/profile.jpg"
+  }
 }

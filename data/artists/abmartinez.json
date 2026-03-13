@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "abmartinez",
-  "name": "AB Martinez",
+  "name": "Ab Martinez",
   "location": {
     "city": "Glendale",
     "country": "Maricopa County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Knuckle Head Tattoo Glendale"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Knuckle Head Tattoo Glendale",
+  "instagram_enriched": {
+    "id": "65680182718",
+    "follower_count": 25,
+    "following_count": 5,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/abmartinez/instagram/profile.jpg"
+  }
 }

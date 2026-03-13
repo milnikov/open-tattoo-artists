@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alexandersuvorov",
-  "name": "Alexander Suvorov",
+  "name": "Store",
   "location": {
     "city": "Kiev",
     "country": "Kiev Oblast BLACK AND GREYREALISM"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Tattoo Studio Suvorov Kiev"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Tattoo Studio Suvorov Kiev",
+  "instagram_enriched": {
+    "id": "1515210223",
+    "follower_count": 11,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alexandersuvorov/instagram/profile.jpg"
+  }
 }
