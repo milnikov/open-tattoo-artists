@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "diddytattoo",
-  "name": "PanDiddy",
+  "name": "Diddy",
   "location": {
     "city": "Bardowick",
     "country": "Germany"
@@ -439,5 +439,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "bio": "I'm Diddy 🐼 nice to meet you!\n@pandiddytattoo",
+  "instagram_enriched": {
+    "id": "6958420106",
+    "follower_count": 684,
+    "following_count": 485,
+    "media_count": 119,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diddytattoo/instagram/profile.jpg"
+  }
 }

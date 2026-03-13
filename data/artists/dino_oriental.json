@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dino_oriental",
-  "name": "Dino",
+  "name": "Dino Kim 김동호",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "bio": "Dino Oriental / Los Angeles \n@bydino__ \ndinottbooking@gmail.com",
+  "instagram_enriched": {
+    "id": "1475595805",
+    "follower_count": 80862,
+    "following_count": 853,
+    "media_count": 451,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dino_oriental/instagram/profile.jpg"
+  }
 }

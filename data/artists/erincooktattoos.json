@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "erincooktattoos",
+  "name": "Erin Cook",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "illustrative",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/erincooktattoos",
+    "instagram": "https://www.instagram.com/erincooktattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/erincooktattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/erincooktattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/erincooktattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/erincooktattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Erin Cook is a consummate professional, renowned for her expertise in crafting minimalist, illustrative, and fine line tattoos. Her workspace at Funhouse Tattoo Brisbane is a testament to her dedication to cleanliness, ensuring a safe and pristine environment for all her clients. With an open booking schedule, Erin welcomes tattoo enthusiasts to experience her artistry in a meticulously maintained setting.\nPrice: $\nCurrent location:"
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "diehard_tattoo",
-  "name": "Diego Vazquez Fernandez",
+  "name": "DieHard Tattoo",
   "location": {
     "city": "Santiago De Compostela",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "bio": "Santiago de Compostela 💉💉💉\n- Black and grey\n- Fine line\n- Lettering\nDr Mortiis Tattoo Clinic",
+  "instagram_enriched": {
+    "id": "1699441590",
+    "follower_count": 365,
+    "following_count": 1285,
+    "media_count": 79,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/diehard_tattoo/instagram/profile.jpg"
+  }
 }
