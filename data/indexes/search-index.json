@@ -615,6 +615,21 @@
     "normalized": "Dublin Ink"
   },
   {
+    "id": "edsonjunior",
+    "name": "𝙀𝙙𝙨𝙤𝙣 𝙅𝙪𝙣𝙞𝙤𝙧",
+    "normalized": "Edson Junior"
+  },
+  {
+    "id": "elena.esperanzaink",
+    "name": "𝐸𝓁𝑒𝓃𝒶 - 𝑀𝑜𝓃𝓉𝒸𝓁𝒶𝒾𝓇, 𝒲𝑜𝓂𝒶𝓃 𝑜𝓌𝓃𝑒𝒹 𝒯𝒶𝓉𝓉𝑜𝑜 𝒮𝒽𝑜𝓅",
+    "normalized": "Elena - Montclair, Woman owned Tattoo Shop"
+  },
+  {
+    "id": "elenafortuna",
+    "name": "𝑬𝒍𝒆𝒏𝒂 𝑭𝒐𝒓𝒕𝒖𝒏𝒂",
+    "normalized": "Elena Fortuna"
+  },
+  {
     "id": "chapin1821",
     "name": "𝕰𝖗𝖎𝖈𝖐 𝕲𝖔𝖓𝖟𝖆𝖑𝖊𝖟 🪬",
     "normalized": "Erick Gonzalez 🪬"
@@ -10775,11 +10790,6 @@
     "normalized": "bela hilario"
   },
   {
-    "id": "electriclovetattoo",
-    "name": "Belatriz Tattoos",
-    "normalized": "belatriz tattoos"
-  },
-  {
     "id": "bcskinworks",
     "name": "Belfast City Skinworks",
     "normalized": "belfast city skinworks"
@@ -11348,11 +11358,6 @@
     "id": "bez",
     "name": "Bez",
     "normalized": "bez"
-  },
-  {
-    "id": "egostreetteam",
-    "name": "Bez Triplesix",
-    "normalized": "bez triplesix"
   },
   {
     "id": "bhakta_manoel_neto",
@@ -14390,11 +14395,6 @@
     "normalized": "bruce bunn"
   },
   {
-    "id": "electraart_tattoo",
-    "name": "Bruce Edwards",
-    "normalized": "bruce edwards"
-  },
-  {
     "id": "brucemorgan_horikurohige",
     "name": "Bruce Morgan",
     "normalized": "bruce morgan"
@@ -15125,6 +15125,11 @@
     "normalized": "c gomez"
   },
   {
+    "id": "electricfresco",
+    "name": "C H R I S T O P H E R",
+    "normalized": "c h r i s t o p h e r"
+  },
+  {
     "id": "conradoribeiro",
     "name": "C O N R A D O   R I B E I R O",
     "normalized": "c o n r a d o r i b e i r o"
@@ -15368,6 +15373,11 @@
     "id": "calledatattoo",
     "name": "CALLEDA TATTOO",
     "normalized": "calleda tattoo"
+  },
+  {
+    "id": "ienlevin",
+    "name": "callsign Hasid",
+    "normalized": "callsign hasid"
   },
   {
     "id": "callumdawson",
@@ -15780,6 +15790,11 @@
     "normalized": "carlo coletti"
   },
   {
+    "id": "elcarlotattoos",
+    "name": "Carlo Pavía",
+    "normalized": "carlo pavía"
+  },
+  {
     "id": "carlosohl",
     "name": "Carlo Sohl - ᴅʀᴇꜱᴅᴇɴ ʙᴀꜱᴇᴅ ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪꜱᴛ",
     "normalized": "carlo sohl - ᴅʀᴇꜱᴅᴇɴ ʙᴀꜱᴇᴅ ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪꜱᴛ"
@@ -15933,11 +15948,6 @@
     "id": "carlosmorillo78",
     "name": "Carlos Morillo",
     "normalized": "carlos morillo"
-  },
-  {
-    "id": "elcarlotattoos",
-    "name": "Carlos Pavia",
-    "normalized": "carlos pavia"
   },
   {
     "id": "carlosperez",
@@ -18663,11 +18673,6 @@
     "id": "cris_le_vil",
     "name": "Christophe Doux",
     "normalized": "christophe doux"
-  },
-  {
-    "id": "electricfresco",
-    "name": "Christopher",
-    "normalized": "christopher"
   },
   {
     "id": "christopher",
@@ -25795,11 +25800,6 @@
     "normalized": "dodo"
   },
   {
-    "id": "edoardo.gabriele",
-    "name": "Dodo Tattoo",
-    "normalized": "dodo tattoo"
-  },
-  {
     "id": "dodo_michal_urban",
     "name": "Dodo · Michal Urban",
     "normalized": "dodo · michal urban"
@@ -27020,9 +27020,24 @@
     "normalized": "dövme türkiye️🇹🇷"
   },
   {
+    "id": "eduardoherrero",
+    "name": "E D U  H",
+    "normalized": "e d u h"
+  },
+  {
     "id": "ericjohntattoos",
     "name": "E J Wiesinger",
     "normalized": "e j wiesinger"
+  },
+  {
+    "id": "elbueno_tattooer",
+    "name": "E L  B U E N O",
+    "normalized": "e l b u e n o"
+  },
+  {
+    "id": "etctattoo",
+    "name": "E T C",
+    "normalized": "e t c"
   },
   {
     "id": "ebone.capone",
@@ -27440,11 +27455,6 @@
     "normalized": "edik tattoo"
   },
   {
-    "id": "edinhosantana",
-    "name": "Edinho Santana",
-    "normalized": "edinho santana"
-  },
-  {
     "id": "edipo_renner",
     "name": "Edipo Renner",
     "normalized": "edipo renner"
@@ -27470,13 +27480,18 @@
     "normalized": "edmar"
   },
   {
+    "id": "edinhosantana",
+    "name": "Edno Santana",
+    "normalized": "edno santana"
+  },
+  {
     "id": "edo_sacerdoti_tattoo",
     "name": "Edo Sacerdoti",
     "normalized": "edo sacerdoti"
   },
   {
     "id": "edo_sent_owt",
-    "name": "Edo Sent",
+    "name": "𝖊𝖉𝖔 𝖘𝖊𝖓𝖙",
     "normalized": "edo sent"
   },
   {
@@ -27486,18 +27501,13 @@
   },
   {
     "id": "edovan",
-    "name": "Edovan",
-    "normalized": "edovan"
+    "name": "Edovan Gonzalez",
+    "normalized": "edovan gonzalez"
   },
   {
     "id": "bebetotattoo",
     "name": "Edson de Sousa Xavier",
     "normalized": "edson de sousa xavier"
-  },
-  {
-    "id": "edsonjunior",
-    "name": "Edson JuniorJr Tattoo Valparaiso",
-    "normalized": "edson juniorjr tattoo valparaiso"
   },
   {
     "id": "_eddysaguitattoo",
@@ -27515,19 +27525,9 @@
     "normalized": "edu correa"
   },
   {
-    "id": "educursino",
-    "name": "Edu Cursino",
-    "normalized": "edu cursino"
-  },
-  {
     "id": "edumeca",
-    "name": "Edu Meca",
+    "name": "Edu  Meca",
     "normalized": "edu meca"
-  },
-  {
-    "id": "edutattoo",
-    "name": "Edu Tattoo",
-    "normalized": "edu tattoo"
   },
   {
     "id": "eduvertikal",
@@ -27575,11 +27575,6 @@
     "normalized": "eduardo guimarães"
   },
   {
-    "id": "eduardoherrero",
-    "name": "Eduardo Herrero",
-    "normalized": "eduardo herrero"
-  },
-  {
     "id": "dudalozanotattoo",
     "name": "Eduardo Lozano Barreto",
     "normalized": "eduardo lozano barreto"
@@ -27603,6 +27598,16 @@
     "id": "eduardozombie26",
     "name": "Eduardo Zombie",
     "normalized": "eduardo zombie"
+  },
+  {
+    "id": "educursino",
+    "name": "educursino/tattoo",
+    "normalized": "educursino/tattoo"
+  },
+  {
+    "id": "edutattoo",
+    "name": "Edutattoo",
+    "normalized": "edutattoo"
   },
   {
     "id": "edwardtattooer",
@@ -27710,6 +27715,11 @@
     "normalized": "ego romantic"
   },
   {
+    "id": "egostreetteam",
+    "name": "Ego Street Team",
+    "normalized": "ego street team"
+  },
+  {
     "id": "egon_weiss",
     "name": "Egon Weiss",
     "normalized": "egon weiss"
@@ -27718,6 +27728,11 @@
     "id": "egorkornilov",
     "name": "Egor Kornilov",
     "normalized": "egor kornilov"
+  },
+  {
+    "id": "electricgiraffetattoo",
+    "name": "EGT•Collective",
+    "normalized": "egt•collective"
   },
   {
     "id": "e.hyang.tattoo",
@@ -27730,6 +27745,11 @@
     "normalized": "ei[[e ǝ]]iǝ"
   },
   {
+    "id": "eightsandacestattoo",
+    "name": "Eights And Aces Tattoo",
+    "normalized": "eights and aces tattoo"
+  },
+  {
     "id": "eiji_tattoo",
     "name": "eiji fujisawa",
     "normalized": "eiji fujisawa"
@@ -27738,11 +27758,6 @@
     "id": "eikon_tattoo",
     "name": "Eikon",
     "normalized": "eikon"
-  },
-  {
-    "id": "eikositreis",
-    "name": "Eikosì Trëis",
-    "normalized": "eikosì trëis"
   },
   {
     "id": "eileen_811",
@@ -27761,8 +27776,8 @@
   },
   {
     "id": "eine_liebe_tattoo",
-    "name": "Eine Liebe Tätowiergeschäft",
-    "normalized": "eine liebe tätowiergeschäft"
+    "name": "Eine Liebe Tätowiergeschäft / Salle",
+    "normalized": "eine liebe tätowiergeschäft / salle"
   },
   {
     "id": "ejitattoo",
@@ -27805,16 +27820,6 @@
     "normalized": "el bueno"
   },
   {
-    "id": "elbueno_tattooer",
-    "name": "El Bueno Tattooer",
-    "normalized": "el bueno tattooer"
-  },
-  {
-    "id": "el_carnicer0",
-    "name": "El Carnicero",
-    "normalized": "el carnicero"
-  },
-  {
     "id": "elchorroarts",
     "name": "El Chorro Arts",
     "normalized": "el chorro arts"
@@ -27836,8 +27841,8 @@
   },
   {
     "id": "elflacotattoo_ibiza",
-    "name": "El Flaco Tattoo",
-    "normalized": "el flaco tattoo"
+    "name": "El Flaco Tattoo | Tatuador en Ibiza",
+    "normalized": "el flaco tattoo | tatuador en ibiza"
   },
   {
     "id": "el_jerome_",
@@ -27925,14 +27930,19 @@
     "normalized": "el-e mags"
   },
   {
+    "id": "el_rey_tattoo",
+    "name": "El_rey_tattoo",
+    "normalized": "el_rey_tattoo"
+  },
+  {
     "id": "eladio.pinto.tattoos",
     "name": "Eladio Pinto",
     "normalized": "eladio pinto"
   },
   {
     "id": "elainenerowskiart",
-    "name": "Elaine Nerowski",
-    "normalized": "elaine nerowski"
+    "name": "Elaine Nerowski ☾",
+    "normalized": "elaine nerowski ☾"
   },
   {
     "id": "elbig.one",
@@ -27960,6 +27970,11 @@
     "normalized": "elea"
   },
   {
+    "id": "electraart_tattoo",
+    "name": "Electra Art Tattoo",
+    "normalized": "electra art tattoo"
+  },
+  {
     "id": "electratattoo360",
     "name": "Electra Tattoo",
     "normalized": "electra tattoo"
@@ -27985,14 +28000,14 @@
     "normalized": "electric circus tattoo"
   },
   {
-    "id": "electricgiraffetattoo",
-    "name": "Electric Giraffe Tattooer",
-    "normalized": "electric giraffe tattooer"
+    "id": "electriccitytattoo",
+    "name": "Electric City Tattoo & Piercing Scranton",
+    "normalized": "electric city tattoo & piercing scranton"
   },
   {
     "id": "electricgoldtattooco",
-    "name": "Electric Gold Tattoo Co",
-    "normalized": "electric gold tattoo co"
+    "name": "Electric Gold Tattoo Co.⚡️",
+    "normalized": "electric gold tattoo co.⚡️"
   },
   {
     "id": "electric.hand.tattoo",
@@ -28006,13 +28021,23 @@
   },
   {
     "id": "electricladytattoos",
-    "name": "Electric Lady",
-    "normalized": "electric lady"
+    "name": "Electric Lady Tattoo Studio",
+    "normalized": "electric lady tattoo studio"
   },
   {
     "id": "armslikewings",
     "name": "Electric Leopard Tattoo",
     "normalized": "electric leopard tattoo"
+  },
+  {
+    "id": "electriclotustattoo",
+    "name": "Electric Lotus Tattoo",
+    "normalized": "electric lotus tattoo"
+  },
+  {
+    "id": "electriclovetattoo",
+    "name": "ELECTRIC LOVE TATTOO",
+    "normalized": "electric love tattoo"
   },
   {
     "id": "enrtattoos",
@@ -28050,19 +28075,9 @@
     "normalized": "electric soul tattoo"
   },
   {
-    "id": "electricstreettattoo",
-    "name": "Electric Street Tattoo",
-    "normalized": "electric street tattoo"
-  },
-  {
-    "id": "electric_tattooing_by_sushi",
-    "name": "Electric Sushi",
-    "normalized": "electric sushi"
-  },
-  {
-    "id": "electricwizard_tx",
-    "name": "Electric Wizard",
-    "normalized": "electric wizard"
+    "id": "electric07_tattoo",
+    "name": "Electric07 Tattoo By Sissy_Ink",
+    "normalized": "electric07 tattoo by sissy_ink"
   },
   {
     "id": "electrick_moon",
@@ -28070,14 +28085,14 @@
     "normalized": "electrick moon tattoo"
   },
   {
+    "id": "electricwizard_tx",
+    "name": "ElectricWizard_TX",
+    "normalized": "electricwizard_tx"
+  },
+  {
     "id": "electromagnetictattoo",
     "name": "Electromagnetic Tattoo",
     "normalized": "electromagnetic tattoo"
-  },
-  {
-    "id": "electrumsupply",
-    "name": "Electrum Tattoo Products",
-    "normalized": "electrum tattoo products"
   },
   {
     "id": "eleftheria.body.art",
@@ -28110,16 +28125,6 @@
     "normalized": "elena cannella"
   },
   {
-    "id": "elena.esperanzaink",
-    "name": "Elena Esperanza",
-    "normalized": "elena esperanza"
-  },
-  {
-    "id": "elenafortuna",
-    "name": "Elena Fortuna",
-    "normalized": "elena fortuna"
-  },
-  {
     "id": "elenagarciatattoo",
     "name": "Elena García",
     "normalized": "elena garcía"
@@ -28141,8 +28146,8 @@
   },
   {
     "id": "elevatedtattooandpiercing",
-    "name": "Elevate Sean",
-    "normalized": "elevate sean"
+    "name": "Elevated Tattoo And Piercing",
+    "normalized": "elevated tattoo and piercing"
   },
   {
     "id": "11rtattoo",
@@ -28160,11 +28165,6 @@
     "normalized": "eli goldjunge"
   },
   {
-    "id": "eliklugari",
-    "name": "Eli Klugari",
-    "normalized": "eli klugari"
-  },
-  {
     "id": "eliluciitattoos",
     "name": "Eli Lucii",
     "normalized": "eli lucii"
@@ -28173,11 +28173,6 @@
     "id": "eliquinters",
     "name": "Eli Quinters",
     "normalized": "eli quinters"
-  },
-  {
-    "id": "elitatts",
-    "name": "Eli Tatts",
-    "normalized": "eli tatts"
   },
   {
     "id": "elia_leonardi_tattooer",
@@ -28196,13 +28191,13 @@
   },
   {
     "id": "eliehammond",
-    "name": "Elie Hammond",
-    "normalized": "elie hammond"
+    "name": "Elie Hammond ✷ Mystical & Mythological tattoos",
+    "normalized": "elie hammond ✷ mystical & mythological tattoos"
   },
   {
     "id": "eliellmendes",
-    "name": "Eliell Mendes",
-    "normalized": "eliell mendes"
+    "name": "Eliel Mendes",
+    "normalized": "eliel mendes"
   },
   {
     "id": "elijah_p_tattoo",
@@ -28210,9 +28205,14 @@
     "normalized": "elijah pashby"
   },
   {
+    "id": "eliklugari",
+    "name": "Elik Lugari ◇ エリック・ルガリ",
+    "normalized": "elik lugari ◇ エリック・ルガリ"
+  },
+  {
     "id": "elinlowen",
-    "name": "Elin Lowen",
-    "normalized": "elin lowen"
+    "name": "Elin",
+    "normalized": "elin"
   },
   {
     "id": "atelier_vaya",
@@ -28221,8 +28221,8 @@
   },
   {
     "id": "elioespana",
-    "name": "Elio Espana",
-    "normalized": "elio espana"
+    "name": "Elio España",
+    "normalized": "elio españa"
   },
   {
     "id": "eliotkohek",
@@ -28350,9 +28350,9 @@
     "normalized": "ella storm"
   },
   {
-    "id": "ellawinchestertattoo",
-    "name": "Ella Winchester",
-    "normalized": "ella winchester"
+    "id": "ellemental",
+    "name": "Elle",
+    "normalized": "elle"
   },
   {
     "id": "e.bayala",
@@ -28380,24 +28380,29 @@
     "normalized": "elle webb"
   },
   {
+    "id": "ellem",
+    "name": "Ellem",
+    "normalized": "ellem"
+  },
+  {
     "id": "ellenheald_tattoo",
     "name": "Ellen Heald",
     "normalized": "ellen heald"
   },
   {
     "id": "ellensalmontattoo",
-    "name": "Ellen Salmon",
-    "normalized": "ellen salmon"
+    "name": "Ellen Salmon Tattoo • Norwich UK",
+    "normalized": "ellen salmon tattoo • norwich uk"
+  },
+  {
+    "id": "elliejoliv",
+    "name": "Ellie (Jo) Livingston",
+    "normalized": "ellie (jo) livingston"
   },
   {
     "id": "elliedutt13",
     "name": "Ellie Dutton",
     "normalized": "ellie dutton"
-  },
-  {
-    "id": "elliejoliv",
-    "name": "Ellie Gill",
-    "normalized": "ellie gill"
   },
   {
     "id": "ellietaylor.tattoos",
@@ -28408,11 +28413,6 @@
     "id": "elliethompson",
     "name": "Ellie Thompson",
     "normalized": "ellie thompson"
-  },
-  {
-    "id": "ellemental",
-    "name": "Ellie Van Rose · Ellemental",
-    "normalized": "ellie van rose · ellemental"
   },
   {
     "id": "elliotmaskertattooing",
@@ -28673,6 +28673,11 @@
     "id": "embody_art",
     "name": "Embody Art Tattoo Studio",
     "normalized": "embody art tattoo studio"
+  },
+  {
+    "id": "etctat2",
+    "name": "Embrace The Chaos (ETC)",
+    "normalized": "embrace the chaos (etc)"
   },
   {
     "id": "eme__tattoo",
@@ -30000,6 +30005,16 @@
     "normalized": "eszter david"
   },
   {
+    "id": "eszterdavidtattoo",
+    "name": "Eszter David",
+    "normalized": "eszter david"
+  },
+  {
+    "id": "etatuator.pl",
+    "name": "Etatuator",
+    "normalized": "etatuator"
+  },
+  {
     "id": "eterno",
     "name": "Eterno · Indomito Spirit",
     "normalized": "eterno · indomito spirit"
@@ -30010,9 +30025,9 @@
     "normalized": "ethan"
   },
   {
-    "id": "eightsandacestattoo",
-    "name": "Ethan Jones",
-    "normalized": "ethan jones"
+    "id": "etbennett_tattoo",
+    "name": "Ethan Bennett",
+    "normalized": "ethan bennett"
   },
   {
     "id": "cejitasbyetta",
@@ -31278,6 +31293,11 @@
     "id": "gabrielecardosi",
     "name": "Gabriele Cardosi · Slogart",
     "normalized": "gabriele cardosi · slogart"
+  },
+  {
+    "id": "edoardo.gabriele",
+    "name": "Gabriele Edoardo",
+    "normalized": "gabriele edoardo"
   },
   {
     "id": "gabrielepais",
@@ -33045,11 +33065,6 @@
     "normalized": "iditch"
   },
   {
-    "id": "ienlevin",
-    "name": "Ien Levin",
-    "normalized": "ien levin"
-  },
-  {
     "id": "cachotattoo",
     "name": "Ignacio Suarez",
     "normalized": "ignacio suarez"
@@ -33098,11 +33113,6 @@
     "id": "ildooh",
     "name": "Ildo Oh",
     "normalized": "ildo oh"
-  },
-  {
-    "id": "iliazharkov",
-    "name": "Ilia Zharkov",
-    "normalized": "ilia zharkov"
   },
   {
     "id": "iljahummel",
@@ -33868,11 +33878,6 @@
     "id": "inkbyjade",
     "name": "Jade Sperry",
     "normalized": "jade sperry"
-  },
-  {
-    "id": "electriclotustattoo",
-    "name": "Jae Connor",
-    "normalized": "jae connor"
   },
   {
     "id": "jefreenaderali",
@@ -36263,6 +36268,11 @@
     "id": "joshyhislop",
     "name": "Joshy Hislop",
     "normalized": "joshy hislop"
+  },
+  {
+    "id": "electricstreettattoo",
+    "name": "Josh⚡️Electric Street Tattoo",
+    "normalized": "josh⚡️electric street tattoo"
   },
   {
     "id": "josiesexton",
@@ -39771,8 +39781,8 @@
   },
   {
     "id": "el_lapicero_errante",
-    "name": "Luison Tattoo",
-    "normalized": "luison tattoo"
+    "name": "Luison",
+    "normalized": "luison"
   },
   {
     "id": "_luiztattooart",
@@ -40363,6 +40373,11 @@
     "id": "manuelzellkern",
     "name": "Manuel Zellkern",
     "normalized": "manuel zellkern"
+  },
+  {
+    "id": "ellawinchestertattoo",
+    "name": "Manuela Dietrich",
+    "normalized": "manuela dietrich"
   },
   {
     "id": "manuelamedina",
@@ -46900,11 +46915,6 @@
     "normalized": "randy engelhard"
   },
   {
-    "id": "el_rey_tattoo",
-    "name": "Randy Janson",
-    "normalized": "randy janson"
-  },
-  {
     "id": "alteregotattoos",
     "name": "Randy Johnson",
     "normalized": "randy johnson"
@@ -50355,11 +50365,6 @@
     "normalized": "sissou"
   },
   {
-    "id": "electric07_tattoo",
-    "name": "Sissy Ink",
-    "normalized": "sissy ink"
-  },
-  {
     "id": "sito",
     "name": "Sito",
     "normalized": "sito"
@@ -52541,8 +52546,8 @@
   },
   {
     "id": "electric_traditionals",
-    "name": "Tilo",
-    "normalized": "tilo"
+    "name": "TILO // TATTOOER • NEOTRADITIONAL",
+    "normalized": "tilo // tattooer • neotraditional"
   },
   {
     "id": "timbeijsens",
@@ -54725,11 +54730,6 @@
     "normalized": "woody hills"
   },
   {
-    "id": "electriccitytattoo",
-    "name": "Woody Wodock",
-    "normalized": "woody wodock"
-  },
-  {
     "id": "woodz",
     "name": "Woodz",
     "normalized": "woodz"
@@ -55590,11 +55590,6 @@
     "normalized": "çağlar kepenekli"
   },
   {
-    "id": "ellem",
-    "name": "Èllëm",
-    "normalized": "èllëm"
-  },
-  {
     "id": "eric_viking",
     "name": "éRic the Viking",
     "normalized": "éric the viking"
@@ -55743,6 +55738,11 @@
     "id": "ivanantonyshev",
     "name": "иван антонышев",
     "normalized": "иван антонышев"
+  },
+  {
+    "id": "iliazharkov",
+    "name": "Илья Жарков",
+    "normalized": "илья жарков"
   },
   {
     "id": "alexanderatrix",
@@ -55945,6 +55945,11 @@
     "normalized": "♠️jedi♠️"
   },
   {
+    "id": "elitatts",
+    "name": "♡ Eli Tatts ♡",
+    "normalized": "♡ eli tatts ♡"
+  },
+  {
     "id": "chibi_blacktatts",
     "name": "♡✦  ㄥ卂    匚卄丨乃丨 ✦♡ • Scarlet Silva •",
     "normalized": "♡✦ ㄥ卂 匚卄丨乃丨 ✦♡ • scarlet silva •"
@@ -55968,6 +55973,11 @@
     "id": "amp_tattoo",
     "name": "⚙️ 𝗔𝗿𝘁 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻𝘀 ⚙️",
     "normalized": "⚙️ Art Machine Productions ⚙️"
+  },
+  {
+    "id": "el_carnicer0",
+    "name": "⚜️ 𝕮𝖆𝖗𝖓𝖎𝖈𝖊𝖗𝖔 ⚜️",
+    "normalized": "⚜️ Carnicero ⚜️"
   },
   {
     "id": "davidetacconelli_",
@@ -56000,9 +56010,19 @@
     "normalized": "⚡dave t ritchie ⚡"
   },
   {
+    "id": "electrumsupply",
+    "name": "⚡️ELECTRUM SUPPLY⚡️",
+    "normalized": "⚡️electrum supply⚡️"
+  },
+  {
     "id": "dominic_achilles",
     "name": "⚹ DOMINIC ACHILLES ⚹ 𝗡𝗲𝗼𝘁𝗿𝗮𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹",
     "normalized": "⚹ dominic achilles ⚹ Neotraditional"
+  },
+  {
+    "id": "electric_tattooing_by_sushi",
+    "name": "⛧ 𝕾𝖚𝖇𝖈𝖚𝖑𝖙𝖚𝖗𝖊 𝕿𝖆𝖙𝖙𝖔𝖔𝖘 ⛧",
+    "normalized": "⛧ Subculture Tattoos ⛧"
   },
   {
     "id": "d.ink_tattoo",
@@ -56403,6 +56423,11 @@
     "id": "_pauljebian_",
     "name": "🏴‍☠️Paul Jebian",
     "normalized": "🏴‍☠️paul jebian"
+  },
+  {
+    "id": "eikositreis",
+    "name": "👹",
+    "normalized": "👹"
   },
   {
     "id": "austinxjones",

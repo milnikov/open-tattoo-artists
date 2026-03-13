@@ -21,7 +21,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edsandersart/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edsandersart/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "cryptictattoo",
@@ -48869,30 +48869,6 @@
     "updated_at": "2026-03-06"
   },
   {
-    "id": "electriclovetattoo",
-    "name": "Belatriz Tattoos",
-    "location": {
-      "city": "Brasilia",
-      "country": "Brazil"
-    },
-    "styles": [
-      "traditional",
-      "floral"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electriclovetattoo/"
-    },
-    "tattoo_count": 11,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "bcskinworks",
     "name": "Belfast City Skinworks",
     "location": {
@@ -51525,29 +51501,6 @@
     ],
     "bio": "WORKPLACE Triplesix Studios Sunderland",
     "updated_at": "2026-03-07"
-  },
-  {
-    "id": "egostreetteam",
-    "name": "Bez Triplesix",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "realism",
-      "newschool",
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/egostreetteam/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-12"
   },
   {
     "id": "bhakta_manoel_neto",
@@ -66179,29 +66132,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "electraart_tattoo",
-    "name": "Bruce Edwards",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "illustrative",
-      "dotwork",
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electraart_tattoo/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "brucemorgan_horikurohige",
     "name": "Bruce Morgan",
     "location": {
@@ -69649,6 +69579,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "electricfresco",
+    "name": "C H R I S T O P H E R",
+    "location": {
+      "city": "Portland",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electricfresco/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/ig_004.webp"
+    ],
+    "bio": "Booking ⤵️",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "conradoribeiro",
     "name": "C O N R A D O   R I B E I R O",
     "location": {
@@ -70811,6 +70765,28 @@
     ],
     "bio": "▪️TATTOO | PIERCING \n     ▪️ Realismo • Fineline • Old School • Blackwork\n📍Campolim | Sorocaba - SP\n📲 Orçamentos via WhatsApp ⬇️",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "ienlevin",
+    "name": "callsign Hasid",
+    "location": {
+      "city": "Kiev",
+      "country": "Ukraine"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ienlevin"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ienlevin/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ienlevin/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ienlevin/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ienlevin/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ienlevin/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Atelier Noir Kiev\n\nGet to da choppa",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "callumdawson",
@@ -72789,6 +72765,31 @@
     "updated_at": "2026-03-01"
   },
   {
+    "id": "elcarlotattoos",
+    "name": "Carlo Pavía",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "traditional",
+      "tribal"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/elcarlotattoos/"
+    },
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/ig_004.webp"
+    ],
+    "bio": "@x.carlo.pavia.x    @defenders_of.the_faith @eclipsetattoobarcelona \nelcarlotattoos@gmail.com\nEclipse Tattoo Barcelona \nTorrent de l'olla 53\n08012\nBCN",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "carlosohl",
     "name": "Carlo Sohl - ᴅʀᴇꜱᴅᴇɴ ʙᴀꜱᴇᴅ ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪꜱᴛ",
     "location": {
@@ -73509,28 +73510,6 @@
     ],
     "bio": "Carlos Morillo's Tattoo Studio, situated in the heart of Caracas, Venezuela, is renowned for its striking realism style tattoos. Endorsed by heavy-hitters such as @jconly_official, this elite tattoo studio has captivated over 50,000 followers on Instagram with its intricate and lifelike designs. Step into a world where art meets skin and every tattoo is a masterpiece to be cherished.\nPrice: $$\nCurrent location: Caracas, Capital District, Venezuela",
     "updated_at": "2026-03-08"
-  },
-  {
-    "id": "elcarlotattoos",
-    "name": "Carlos Pavia",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "traditional",
-      "tribal"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/elcarlotattoos/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elcarlotattoos/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-13"
   },
   {
     "id": "carlosperez",
@@ -86427,29 +86406,6 @@
     ],
     "bio": "Christophe Doux is a tattoo artist renowned for their impeccable professionalism in Lyon, France. Specializing in black & gray, traditional, and dotwork styles, Christophe upholds the highest standards of cleanliness in their practice, ensuring a safe and hygienic environment for every client at the Red Medicine Tattoo Shop. Whether you're looking for intricate patterns or bold classic designs, you can trust Christophe to deliver with precision and care.\nPrice: $\nCurrent location: Lyon, Auvergne-rhone-alpes, France",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "electricfresco",
-    "name": "Christopher",
-    "location": {
-      "city": "Portland",
-      "country": "United States"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electricfresco/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricfresco/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
   },
   {
     "id": "christopher",
@@ -120043,29 +119999,6 @@
     "updated_at": "2026-03-11"
   },
   {
-    "id": "edoardo.gabriele",
-    "name": "Dodo Tattoo",
-    "location": {
-      "city": "Lucca",
-      "country": "Italy"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/edoardo.gabriele/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
-  },
-  {
     "id": "dodo_michal_urban",
     "name": "Dodo · Michal Urban",
     "location": {
@@ -125747,6 +125680,23 @@
     "updated_at": "2026-03-07"
   },
   {
+    "id": "eduardoherrero",
+    "name": "E D U  H",
+    "location": {
+      "city": "Vitoria - Gasteiz",
+      "country": "Araba - Álava"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/eduardoherrero"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE No Limits Tattoo Vitoria - Gasteiz\n\n\"Sticks and stones may break my bones but words will never hurt me\"🐊",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "ericjohntattoos",
     "name": "E J Wiesinger",
     "location": {
@@ -125767,6 +125717,55 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericjohntattoos/thumb/002.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericjohntattoos/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ericjohntattoos/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "elbueno_tattooer",
+    "name": "E L  B U E N O",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/elbueno_tattooer/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/ig_004.webp"
+    ],
+    "bio": "OUTSIDER  /  CLIMBER  / Tattooing in Madrid soy de caracter soñador @climbingtattoo and @galilea_nomads // contesto DM de 8:00AM a 6:00PM //",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "etctattoo",
+    "name": "E T C",
+    "location": {
+      "city": "Wroclaw",
+      "country": "Poland"
+    },
+    "styles": [
+      "illustrative",
+      "dotwork",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/etctattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-13"
   },
@@ -126645,7 +126644,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE P Parliament Tattoo",
+    "bio": "WORKPLACE P Parliament Tattoo\n\nBrighton",
     "updated_at": "2026-03-13"
   },
   {
@@ -126756,7 +126755,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Moloko Tattoo Studio Berlin",
+    "bio": "WORKPLACE Moloko Tattoo Studio Berlin\n\nBerlin based\nMy new account: @notedzlotin \nFor appointments contact via notedzlotin@gmail.com",
     "updated_at": "2026-03-13"
   },
   {
@@ -127683,7 +127682,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edicontreras_/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edicontreras_/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "edi_tattoo",
@@ -127735,23 +127734,6 @@
     ],
     "bio": "Edik Tattoo is an immensely skilled tattoo artist, specializing in black&gray and realism styles, based in Badung, Indonesia. Their adept ability in detailing and nuances pushes boundaries in traditional artistry, turning every tattoo canvas into a masterpiece of realism.\nPrice: $$\nCurrent location: Badung, Indonesia",
     "updated_at": "2026-03-12"
-  },
-  {
-    "id": "edinhosantana",
-    "name": "Edinho Santana",
-    "location": {
-      "city": "Vila Velha",
-      "country": "Espírito Santo"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/edinhosantana"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Edinho Santana Tattoo Vila Velha",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "edipo_renner",
@@ -127877,6 +127859,23 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "edinhosantana",
+    "name": "Edno Santana",
+    "location": {
+      "city": "Vila Velha",
+      "country": "Espírito Santo"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/edinhosantana"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Edinho Santana Tattoo Vila Velha",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "edo_sacerdoti_tattoo",
     "name": "Edo Sacerdoti",
     "location": {
@@ -127902,29 +127901,6 @@
     "updated_at": "2026-03-12"
   },
   {
-    "id": "edo_sent_owt",
-    "name": "Edo Sent",
-    "location": {
-      "city": "Melzo",
-      "country": "Italy"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/edo_sent_owt/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
-  },
-  {
     "id": "edoardotabacchi",
     "name": "Edoardo Tabacchi",
     "location": {
@@ -127938,12 +127914,12 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Toy Tattoo Parlour Milan",
+    "bio": "WORKPLACE Toy Tattoo Parlour Milan\n\n🇮🇹 🐻 👓⛵️🏎",
     "updated_at": "2026-03-13"
   },
   {
     "id": "edovan",
-    "name": "Edovan",
+    "name": "Edovan Gonzalez",
     "location": {
       "city": "Capoterra",
       "country": "Italy"
@@ -127955,7 +127931,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "WORKPLACE Edovan Tattoo Atelier Capoterra",
+    "bio": "WORKPLACE Edovan Tattoo Atelier Capoterra\n\nMédico - USCO",
     "updated_at": "2026-03-13"
   },
   {
@@ -127983,23 +127959,6 @@
     ],
     "bio": "Edson de Sousa Xavier is a master tattoo artist based in Sao Paulo, Brazil, specializing in black & gray, realism, and illustrative tattoos. His commitment to professionalism is evident in every aspect of his work, from the initial consultation to the final, stunning piece of art on the skin. Clients can expect a highly professional experience that commands respect for his meticulous attention to detail and consistency in delivering exceptional tattoos.\nPrice: $\nCurrent location: Sao Paulo, Sao Paulo, Brazil",
     "updated_at": "2026-03-06"
-  },
-  {
-    "id": "edsonjunior",
-    "name": "Edson JuniorJr Tattoo Valparaiso",
-    "location": {
-      "city": "Brasília",
-      "country": "Brazil"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/edsonjunior"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Tattoo Mob Brasília",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "_eddysaguitattoo",
@@ -128050,6 +128009,31 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "edumeca",
+    "name": "Edu  Meca",
+    "location": {
+      "city": "Curitiba",
+      "country": "Brazil"
+    },
+    "styles": [
+      "realism",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/edumeca/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/ig_004.webp"
+    ],
+    "bio": "Since 1998                                                                     📍Curitiba Pr\n🏆Premiado\n⚜️Realismo\n⚜️Neo Traditional\nCEO @goldcoastcwb",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "educorrea_tattoo",
     "name": "Edu Correa",
     "location": {
@@ -128072,72 +128056,6 @@
     ],
     "bio": "Edu Correa is a highly skilled tattoo artist based in Belém, Brazil, known for his exceptional work in tribal tattoos. His dedication to the art form is reflected in the intricate designs and precise lines of each piece he creates. Clients appreciate not only Edu's artistic talent but also the professional and clean environment he maintains in his studio, ensuring a safe and welcoming experience for everyone.\nPrice: $\nCurrent location: Belém, Para, Brazil",
     "updated_at": "2026-03-12"
-  },
-  {
-    "id": "educursino",
-    "name": "Edu Cursino",
-    "location": {
-      "city": "Santo André",
-      "country": "Brazil"
-    },
-    "styles": [
-      "fineline",
-      "floral",
-      "minimalist"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/educursino/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "edumeca",
-    "name": "Edu Meca",
-    "location": {
-      "city": "Curitiba",
-      "country": "Brazil"
-    },
-    "styles": [
-      "realism",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/edumeca/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edumeca/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "edutattoo",
-    "name": "Edu Tattoo",
-    "location": {
-      "city": "Porto Alegre",
-      "country": "Brazil"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/edutattoo"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Edu Tattoo Blood & Bazaar Porto Alegre",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "eduvertikal",
@@ -128354,23 +128272,6 @@
     "updated_at": "2026-03-12"
   },
   {
-    "id": "eduardoherrero",
-    "name": "Eduardo Herrero",
-    "location": {
-      "city": "Vitoria - Gasteiz",
-      "country": "Araba - Álava"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/eduardoherrero"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE No Limits Tattoo Vitoria - Gasteiz",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "dudalozanotattoo",
     "name": "Eduardo Lozano Barreto",
     "location": {
@@ -128459,15 +128360,16 @@
     "links": {
       "instagram": "https://www.instagram.com/eduardotrigueiro/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardotrigueiro/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "• Orçamentos via wpp \n• 11 97624-6871 SP-Brasil",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "eduardozombie26",
@@ -128493,7 +128395,50 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardozombie26/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eduardozombie26/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "educursino",
+    "name": "educursino/tattoo",
+    "location": {
+      "city": "Santo André",
+      "country": "Brazil"
+    },
+    "styles": [
+      "fineline",
+      "floral",
+      "minimalist"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/educursino/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/educursino/thumb/ig_004.webp"
+    ],
+    "bio": "▪️ Tatuagens exclusivas em Fine line & Black work\n▪️ São Caetano - ABC / SP - BR\n▪️ Orçamentos por Whats ou DM\n🎵 @sapobanjo / @banda_lamar \nContato 👇🏼",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "edutattoo",
+    "name": "Edutattoo",
+    "location": {
+      "city": "Porto Alegre",
+      "country": "Brazil"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/edutattoo"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Edu Tattoo Blood & Bazaar Porto Alegre\n\n🎨 Tatuador\n🖤 Dynamic Ink | Ventas & distribución\n📚 Cursos de formación en tatuaje\n📩 Agenda & pedidos aquí",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "edwardtattooer",
@@ -128781,13 +128726,16 @@
     "links": {
       "instagram": "https://www.instagram.com/eetu_nurmi/"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eetu_nurmi/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Kalenteri auki! 🗓️\nForssa, Finland 🇫🇮\n📧 eetu.ajanvaraus@gmail.com \nHollow Bones",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "effedots",
@@ -128800,10 +128748,15 @@
     "links": {
       "instagram": "https://instagram.com/effedots"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Independent Tattoo San Marino",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/effedots/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/effedots/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/effedots/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/effedots/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/effedots/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Independent Tattoo San Marino\n\nFor info and appointments:\neffedots@gmail.com",
     "updated_at": "2026-03-13"
   },
   {
@@ -128891,7 +128844,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egeonatgezer/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egeonatgezer/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "For appointments and info ✉️egeonatgezertattoo@gmail.com                               \nNew York City 🔹@atelier.eva",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "egeebeezee",
@@ -128985,6 +128939,30 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "egostreetteam",
+    "name": "Ego Street Team",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "realism",
+      "newschool",
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/egostreetteam/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/thumb/002.webp"
+    ],
+    "bio": "Show case of tattoos made exclusively with ego tattoo machines and products designed by bez Triplesix..",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "egon_weiss",
     "name": "Egon Weiss",
     "location": {
@@ -129024,6 +129002,30 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Attack Tattoo Saint Petersburg",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "electricgiraffetattoo",
+    "name": "EGT•Collective",
+    "location": {
+      "city": "Tulare",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electricgiraffetattoo/"
+    },
+    "tattoo_count": 13,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/004.webp"
+    ],
+    "bio": "We be Travelin’. Bold Lines, Saturated Color @daggerknows @rafaelrtattoo",
     "updated_at": "2026-03-13"
   },
   {
@@ -129077,6 +129079,31 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "eightsandacestattoo",
+    "name": "Eights And Aces Tattoo",
+    "location": {
+      "city": "Santa Cruz",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/eightsandacestattoo/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/ig_004.webp"
+    ],
+    "bio": "@adrianaguayotattoo",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "eiji_tattoo",
     "name": "eiji fujisawa",
     "location": {
@@ -129125,23 +129152,6 @@
     ],
     "bio": "Eikon: a minimalist haven for body art nestled in the heart of Granollers, Spain. This modern oasis, best known for its clean lines and understated elegance, offers a transformative experience in tattooing and piercing. Step into Eikon and leave with a timeless piece of art, tailored just for you—your before and after awaits. Book your appointment today and join the Eikon legacy.\nPrice: $\nCurrent location: Granollers, Catalonia, Spain",
     "updated_at": "2026-03-12"
-  },
-  {
-    "id": "eikositreis",
-    "name": "Eikosì Trëis",
-    "location": {
-      "city": "Donostia - San Sebastián",
-      "country": "Spain"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/eikositreis"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Shibumi Tattoo Donostia - San Sebastián",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "eileen_811",
@@ -129223,7 +129233,7 @@
   },
   {
     "id": "eine_liebe_tattoo",
-    "name": "Eine Liebe Tätowiergeschäft",
+    "name": "Eine Liebe Tätowiergeschäft / Salle",
     "location": {
       "city": "Bochum",
       "country": "Germany"
@@ -129235,14 +129245,15 @@
     "links": {
       "instagram": "https://www.instagram.com/eine_liebe_tattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eine_liebe_tattoo/thumb/ig_004.webp"
     ],
+    "bio": "All Style Traditional Tattoos / Ruhrgebiet / Bochum / Custom , Flash & Wanna Do / Cover ups / salle@eine-liebe-tattoo.de",
     "updated_at": "2026-03-13"
   },
   {
@@ -129403,14 +129414,15 @@
     "links": {
       "instagram": "https://www.instagram.com/elbonaloveandpride/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbonaloveandpride/thumb/ig_004.webp"
     ],
+    "bio": "@love_and_pride_tattoo",
     "updated_at": "2026-03-13"
   },
   {
@@ -129427,52 +129439,6 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "elbueno_tattooer",
-    "name": "El Bueno Tattooer",
-    "location": {
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/elbueno_tattooer/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elbueno_tattooer/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "el_carnicer0",
-    "name": "El Carnicero",
-    "location": {
-      "city": "Lévis",
-      "country": "Canada"
-    },
-    "styles": [
-      "tribal"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/el_carnicer0/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/004.webp"
-    ],
     "updated_at": "2026-03-13"
   },
   {
@@ -129576,7 +129542,7 @@
   },
   {
     "id": "elflacotattoo_ibiza",
-    "name": "El Flaco Tattoo",
+    "name": "El Flaco Tattoo | Tatuador en Ibiza",
     "location": {
       "city": "Eivissa",
       "country": "Spain"
@@ -129588,15 +129554,16 @@
     "links": {
       "instagram": "https://www.instagram.com/elflacotattoo_ibiza/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elflacotattoo_ibiza/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "🖊️ Tatuajes personalizados & fine line \n❤️‍🔥 + 20 años creando arte en la piel \n👇🏻 Reserva tu cita aquí 👇🏻",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "el_jerome_",
@@ -129967,6 +129934,27 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "el_rey_tattoo",
+    "name": "El_rey_tattoo",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/el_rey_tattoo/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "eladio.pinto.tattoos",
     "name": "Eladio Pinto",
     "location": {
@@ -129994,7 +129982,7 @@
   },
   {
     "id": "elainenerowskiart",
-    "name": "Elaine Nerowski",
+    "name": "Elaine Nerowski ☾",
     "location": {
       "city": "Brownstown",
       "country": "United States"
@@ -130007,14 +129995,15 @@
     "links": {
       "instagram": "https://www.instagram.com/elainenerowskiart/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elainenerowskiart/thumb/ig_004.webp"
     ],
+    "bio": "Tattoo Artist\n•. Owner @thegallowstattoostudio .•\n•. Books closed until May 1st, 2026 ✨.•\n⤹ No DMs please/submit here",
     "updated_at": "2026-03-13"
   },
   {
@@ -130140,6 +130129,32 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "electraart_tattoo",
+    "name": "Electra Art Tattoo",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "illustrative",
+      "dotwork",
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electraart_tattoo/"
+    },
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electraart_tattoo/thumb/ig_004.webp"
+    ],
+    "bio": "•Open Everyday 11-9 \n• Walk-ins Welcome for Tattoos & Piercings\n•Bruce Edwards - Owner & Tattooer \n•Corpus Christi, TX. Est.1982",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "electratattoo360",
     "name": "Electra Tattoo",
     "location": {
@@ -130253,42 +130268,46 @@
     "links": {
       "instagram": "https://www.instagram.com/electric_circus_tattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_circus_tattoo/thumb/ig_004.webp"
     ],
+    "bio": "📞062143729125\n🕰️Öffnungszeiten nach Absprache \n❤️‍🔥Just Tattooing\n❌no Piercing\n🧙‍♂️@erkan_keser",
     "updated_at": "2026-03-13"
   },
   {
-    "id": "electricgiraffetattoo",
-    "name": "Electric Giraffe Tattooer",
+    "id": "electriccitytattoo",
+    "name": "Electric City Tattoo & Piercing Scranton",
     "location": {
-      "city": "Tulare",
+      "city": "Scranton",
       "country": "United States"
     },
     "styles": [
-      "traditional"
+      "traditional",
+      "dotwork",
+      "geometric"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/electricgiraffetattoo/"
+      "instagram": "https://www.instagram.com/electriccitytattoo/"
     },
-    "tattoo_count": 13,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgiraffetattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/ig_004.webp"
     ],
+    "bio": "Scranton PA\nWalk-ins always welcome \nPiercings Mon-Tue-Thur-Fri\n@tattoosbypetefarrell\n@bobshock\n@bucketstattoo\n@elijahbirtel\n@tattoos_by_woody_wodock",
     "updated_at": "2026-03-13"
   },
   {
     "id": "electricgoldtattooco",
-    "name": "Electric Gold Tattoo Co",
+    "name": "Electric Gold Tattoo Co.⚡️",
     "location": {
       "city": "St Petersburg",
       "country": "United States"
@@ -130301,14 +130320,15 @@
     "links": {
       "instagram": "https://www.instagram.com/electricgoldtattooco/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricgoldtattooco/thumb/ig_004.webp"
     ],
+    "bio": "𝓒𝓾𝓼𝓽𝓸𝓶 𝓣𝓪𝓽𝓽𝓸𝓸𝓲𝓷𝓰\nCheck out our artists in the highlights/posts.\nPlease contact them directly as all artist handle their own booking",
     "updated_at": "2026-03-13"
   },
   {
@@ -130364,7 +130384,7 @@
   },
   {
     "id": "electricladytattoos",
-    "name": "Electric Lady",
+    "name": "Electric Lady Tattoo Studio",
     "location": {
       "city": "Reading",
       "country": "United Kingdom"
@@ -130376,14 +130396,15 @@
     "links": {
       "instagram": "https://www.instagram.com/electricladytattoos/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricladytattoos/thumb/ig_004.webp"
     ],
+    "bio": "@adamwilliamstattoos \n@blaine_tattoos \n@paulville_tattoos\n@notgemmac_tattoos \n@miss_shiv_tattoo\n@zackfarleytattoo \n@electric_jackk",
     "updated_at": "2026-03-13"
   },
   {
@@ -130410,6 +130431,57 @@
     ],
     "bio": "Electric Leopard Tattoo is a highly skilled artist specializing in the unique styles of newschool and illustritive tattoos. Based in Belfast, Northern Ireland, they co-operate the renowned Electric Leopard Tattoo, where they consistently impress clientele with their artistic ingenuity.\nPrice: $$\nCurrent location: Belfast, Northern Ireland, United Kingdom",
     "updated_at": "2026-03-05"
+  },
+  {
+    "id": "electriclotustattoo",
+    "name": "Electric Lotus Tattoo",
+    "location": {
+      "city": "Brooklyn",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional",
+      "illustrative",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electriclotustattoo/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/ig_004.webp"
+    ],
+    "bio": "✯ Classic Tattoo Shop ✯\n Park Slope 🪷⚡️Brooklyn \n@jaeconnor @electriclotus_julius \n💥World Class Tattooing💥\n 💎 Walk-Ins Welcome 💎\nGOOD 👁💎👁 VIBES",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "electriclovetattoo",
+    "name": "ELECTRIC LOVE TATTOO",
+    "location": {
+      "city": "Brasilia",
+      "country": "Brazil"
+    },
+    "styles": [
+      "traditional",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electriclovetattoo/"
+    },
+    "tattoo_count": 11,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclovetattoo/thumb/004.webp"
+    ],
+    "bio": "📍Estúdio privado \n    Asa Norte - Brasília\n🔮 Tatuadoras: \n✨ @belatriztattoos \n✨ @bruh_tattoos \n✨ @mandiocatatu",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "enrtattoos",
@@ -130590,73 +130662,27 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "electricstreettattoo",
-    "name": "Electric Street Tattoo",
+    "id": "electric07_tattoo",
+    "name": "Electric07 Tattoo By Sissy_Ink",
     "location": {
-      "city": "Wilton Manors",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electricstreettattoo/"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/001.webp"
-    ],
-    "bio": "Electric Street Tattoo, based in the vibrant area of Wilton Manors, United States, is your go-to traditional tattoo studio renowned since 2015. This premier establishment enlivens a comfortable and artistic ambiance, curating bespoke designs that uphold the timeless authenticity of traditional tattoo artistry.\nPrice: $$\nCurrent location: Wilton Manors, Florida, United States",
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "electric_tattooing_by_sushi",
-    "name": "Electric Sushi",
-    "location": {
-      "city": "Arnstadt",
+      "city": "Wald-michelbach",
       "country": "Germany"
     },
     "styles": [
-      "black&gray",
-      "dotwork"
+      "black&gray"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/electric_tattooing_by_sushi/"
+      "instagram": "https://www.instagram.com/electric07_tattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "electricwizard_tx",
-    "name": "Electric Wizard",
-    "location": {
-      "city": "New Braunfels",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "japanese",
-      "illustrative"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electricwizard_tx/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/004.webp"
-    ],
+    "bio": "📍 Wald-Michelbach ODW\n⚜️ @sissy_ink\n⚜️ @valentin.bortos \n⚜️ @nikitamittattoos \n⚜️ @stephiegast.tattoo\n⚜️ @noelle_mondoloni",
     "updated_at": "2026-03-13"
   },
   {
@@ -130684,6 +130710,32 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "electricwizard_tx",
+    "name": "ElectricWizard_TX",
+    "location": {
+      "city": "New Braunfels",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional",
+      "japanese",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electricwizard_tx/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricwizard_tx/thumb/ig_004.webp"
+    ],
+    "bio": "⛓️‍💥 Custom Tattoo Shop in New Braunfels TX\n♣️ Walk In’s Always Welcome!\n♦️ 12pm-8pm Tuesday-Sun\n♠️ Call 830-207-6740\n❤️ DM artists to book",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "electromagnetictattoo",
     "name": "Electromagnetic Tattoo",
     "location": {
@@ -130707,31 +130759,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electromagnetictattoo/thumb/004.webp"
     ],
     "bio": "Welcome to Electromagnetic Tattoo, where striking ink meets timeless style in the heart of Chesapeake. Specializing in traditional, neotraditional, and tribal designs, our collective of renowned artists, including the talented Annette LaRulez and Tiberi Tattoo, channel their passion into every detailed piece. Step into an electric atmosphere where artistry and heritage blend on skin.\nPrice: $\nCurrent location: Chesapeake, Virginia, United States",
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "electrumsupply",
-    "name": "Electrum Tattoo Products",
-    "location": {
-      "city": "Elkhart",
-      "country": "United States"
-    },
-    "styles": [
-      "realism",
-      "newschool",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electrumsupply/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/004.webp"
-    ],
     "updated_at": "2026-03-13"
   },
   {
@@ -130869,47 +130896,6 @@
     "updated_at": "2026-03-08"
   },
   {
-    "id": "elena.esperanzaink",
-    "name": "Elena Esperanza",
-    "location": {
-      "city": "Montclair",
-      "country": "United States"
-    },
-    "styles": [
-      "illustrative",
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/elena.esperanzaink/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
-    "id": "elenafortuna",
-    "name": "Elena Fortuna",
-    "location": {
-      "city": "Rome",
-      "country": "Italy"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/elenafortuna"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Area Industriale Tattoo Rome",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "elenagarciatattoo",
     "name": "Elena García",
     "location": {
@@ -131001,7 +130987,7 @@
   },
   {
     "id": "elevatedtattooandpiercing",
-    "name": "Elevate Sean",
+    "name": "Elevated Tattoo And Piercing",
     "location": {
       "city": "Aledo",
       "country": "United States"
@@ -131013,15 +130999,16 @@
     "links": {
       "instagram": "https://www.instagram.com/elevatedtattooandpiercing/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elevatedtattooandpiercing/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "@elevaseantattoos \n@samelevatedpiercing \n@kalaariana \n@pnky_farrelly \n@frontline.tattoo \n@kyzerjmtattoos \n@jake.denham.tattoo\n@amber.paints.tattoos",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "11rtattoo",
@@ -131095,33 +131082,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eli_goldjungetattoostube/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eli_goldjungetattoostube/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "eliklugari",
-    "name": "Eli Klugari",
-    "location": {
-      "city": "Unknown",
-      "country": "Mexico"
-    },
-    "styles": [
-      "neotraditional",
-      "newschool",
-      "illustrative",
-      "anime"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/eliklugari/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "eliluciitattoos",
@@ -131168,32 +131129,6 @@
     ],
     "bio": "WORKPLACE Smith St. Tattoo Parlour Brooklyn\n\n@smithstreetrodandgunclub Brooklyn NY Call 718-522-2132 Tuesday through Sunday to book an appointment. \nDM with any questions.",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "elitatts",
-    "name": "Eli Tatts",
-    "location": {
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    "styles": [
-      "fineline",
-      "floral",
-      "dotwork",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/elitatts/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
   },
   {
     "id": "elia_leonardi_tattooer",
@@ -131263,7 +131198,7 @@
   },
   {
     "id": "eliehammond",
-    "name": "Elie Hammond",
+    "name": "Elie Hammond ✷ Mystical & Mythological tattoos",
     "location": {
       "city": "Paris",
       "country": "France"
@@ -131272,14 +131207,20 @@
     "links": {
       "instagram": "https://instagram.com/eliehammond"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliehammond/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliehammond/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliehammond/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliehammond/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliehammond/thumb/ig_004.webp"
+    ],
+    "bio": "✸ Tailleuse d’Aura ✸\nOwner of @arcane.tts 📍 Montreuil (93)\nJe transforme tes idées en ton projet tattoo de rêve ✨\nÉcris moi ici👇",
     "updated_at": "2026-03-13"
   },
   {
     "id": "eliellmendes",
-    "name": "Eliell Mendes",
+    "name": "Eliel Mendes",
     "location": {
       "city": "Sao Paulo",
       "country": "Brazil"
@@ -131292,15 +131233,16 @@
     "links": {
       "instagram": "https://www.instagram.com/eliellmendes/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliellmendes/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Artista e tatuador\n \nSão Paulo - Moema \nPara agenda e informações preencha \no formulário 👇🏾",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elijah_p_tattoo",
@@ -131317,19 +131259,47 @@
     "links": {
       "instagram": "https://www.instagram.com/elijah_p_tattoo/"
     },
-    "tattoo_count": 28,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/001.webp",
+    "tattoo_count": 52,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elijah_p_tattoo/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Detailed fine-line, color, large-scale blackwork and  multi-style tattoos. I also make clothing and jewelry. 3D modeling, printing +",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "eliklugari",
+    "name": "Elik Lugari ◇ エリック・ルガリ",
+    "location": {
+      "city": "Unknown",
+      "country": "Mexico"
+    },
+    "styles": [
+      "neotraditional",
+      "newschool",
+      "illustrative",
+      "anime"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/eliklugari/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eliklugari/thumb/ig_004.webp"
+    ],
+    "bio": "彫九 瑠狩 •333•\nSponsor: @emalla.official\nAnime & Neojapanese tattoos & illustrations.\nBased in 🇲🇽",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elinlowen",
-    "name": "Elin Lowen",
+    "name": "Elin",
     "location": {
       "city": "Lund",
       "country": "Sweden"
@@ -131338,10 +131308,15 @@
     "links": {
       "instagram": "https://instagram.com/elinlowen"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Hand & Hjärta Tatuering Lund",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elinlowen/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elinlowen/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elinlowen/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elinlowen/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elinlowen/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Hand & Hjärta Tatuering Lund\n\n10-12/4 Nijmegen🇳🇱\n@tattoo_conventie_numaga \n8-9/5 Borås🇸🇪\n@lostandfoundmassan \n10-11/7 Höganäs\n @hoganas_tato_fest_ \nelinlowen@hotmail.com",
     "updated_at": "2026-03-13"
   },
   {
@@ -131372,7 +131347,7 @@
   },
   {
     "id": "elioespana",
-    "name": "Elio Espana",
+    "name": "Elio España",
     "location": {
       "city": "Constable",
       "country": "Franklin County"
@@ -131510,15 +131485,16 @@
     "links": {
       "instagram": "https://www.instagram.com/elisa_tattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisa_tattoo/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Tattoo artist/owner at Morning Fern Tattoo in Coon Rapids\n•BOOKS OPEN•\nMorningferntattoo@gmail.com\nWww.elisatattoos.com",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elisatreg",
@@ -131581,10 +131557,15 @@
     "links": {
       "instagram": "https://instagram.com/elisabethepires"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE P Chez Mémé",
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisabethepires/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisabethepires/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisabethepires/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisabethepires/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elisabethepires/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE P Chez Mémé\n\nTattoo artist >>>@atl.ttt \n❤️ elisabethe.ink@gmail.com ❤️",
     "updated_at": "2026-03-13"
   },
   {
@@ -131651,15 +131632,16 @@
     "links": {
       "instagram": "https://www.instagram.com/elitetattooing/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitetattooing/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "Palm Coast, Fl. 🏝 Tattoos & Piercings! We have 4 professional, experienced artists all specializing in different styles! Appointments are recommended",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elite_ink_tattoos",
@@ -131700,15 +131682,16 @@
     "links": {
       "instagram": "https://www.instagram.com/edibois/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/001.webp",
+    "tattoo_count": 73,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edibois/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "🎏DM or Call the shop to book!🎏\n⚔️King St Tattoo, Cocoa FL⚔️\n321.504.9683",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elizabethftattoos",
@@ -131824,15 +131807,16 @@
     "links": {
       "instagram": "https://www.instagram.com/elizetattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elizetattoo/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "✨ Agenda aberta Mar/Abr ✨\n📍 Jaraguá do Sul - SC \n✉️ Agenda para São Paulo \n📩 Contato por DM ou link abaixo",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "ell_torres_tattoos",
@@ -131978,29 +131962,21 @@
     "updated_at": "2026-03-08"
   },
   {
-    "id": "ellawinchestertattoo",
-    "name": "Ella Winchester",
+    "id": "ellemental",
+    "name": "Elle",
     "location": {
-      "city": "Munich",
+      "city": "Berlin",
       "country": "Germany"
     },
-    "styles": [
-      "fineline",
-      "dotwork",
-      "floral"
-    ],
+    "styles": [],
     "links": {
-      "instagram": "https://www.instagram.com/ellawinchestertattoo/"
+      "instagram": "https://instagram.com/ellemental"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-12"
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Black to the Rose Berlin",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "e.bayala",
@@ -132111,6 +132087,23 @@
     "updated_at": "2026-03-12"
   },
   {
+    "id": "ellem",
+    "name": "Ellem",
+    "location": {
+      "city": "Paris",
+      "country": "France"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/ellem"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "I am a french-marocan handpoker and acupuncturist.Puncturing and inking is for me a ritual and i work mainly with people intents or needs.In traditional Chinese medicine the skin is the doo read more\n\nMelody+Lyrics, Anti-Marginalization, Tiny-Wildling Tamer, Beerthday Brainchild, Wine Inclined, Studio Rat, Barefoot Star Gazer. Always Tea, CAKE&LOVE.",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "ellenheald_tattoo",
     "name": "Ellen Heald",
     "location": {
@@ -132138,7 +132131,7 @@
   },
   {
     "id": "ellensalmontattoo",
-    "name": "Ellen Salmon",
+    "name": "Ellen Salmon Tattoo • Norwich UK",
     "location": {
       "city": "Norwich",
       "country": "United Kingdom"
@@ -132150,15 +132143,41 @@
     "links": {
       "instagram": "https://www.instagram.com/ellensalmontattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellensalmontattoo/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "🌿Tattoo Artist @cavalrytattoostudio Norwich UK🌿\n📖Books Open🙌\n✨TAP LINK BELOW FOR NEW ENQUIRIES✨\nSponsored by @tattooeverythingsupplies @butterluxe_uk",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "elliejoliv",
+    "name": "Ellie (Jo) Livingston",
+    "location": {
+      "city": "Richmond",
+      "country": "United States"
+    },
+    "styles": [
+      "neotraditional",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/elliejoliv/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/ig_004.webp"
+    ],
+    "bio": "⚔️Fantasy Illustrator//Tattooer @richmondtattooclub \n✨Richmond, VA \n🖤 Buy prints here👇🏼 Tattoo books closed!",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "elliedutt13",
@@ -132181,30 +132200,6 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliedutt13/thumb/002.webp"
     ],
     "bio": "Ellie Dutton, the tattooist and proud owner of Elliedstattoos in Leigh, UK, is renowned for her exceptional professionalism in the industry. Specializing in illustrative and floral styles, she consistently ensures every aspect of the tattooing process meets the highest standards, from initial design to the finished piece. Clients can expect a seamless experience characterized by meticulous attention to detail, both in her art and her business dealings, making bookings exclusively through her official website.\nPrice: $\nCurrent location:",
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "elliejoliv",
-    "name": "Ellie Gill",
-    "location": {
-      "city": "Richmond",
-      "country": "United States"
-    },
-    "styles": [
-      "neotraditional",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/elliejoliv/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elliejoliv/thumb/004.webp"
-    ],
     "updated_at": "2026-03-12"
   },
   {
@@ -132251,23 +132246,6 @@
     ],
     "bio": "WORKPLACE Three Kings Tattoo East Village Manhattan",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "ellemental",
-    "name": "Ellie Van Rose · Ellemental",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/ellemental"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Black to the Rose Berlin",
-    "updated_at": "2026-03-13"
   },
   {
     "id": "elliotmaskertattooing",
@@ -133451,6 +133429,32 @@
     ],
     "bio": "Embrace your unique expression at Embody Art Tattoo Studio, Tifton's premier destination for distinctive ink and body art. Specializing in black & gray, traditional, watercolor, and expert cover-ups, our studio provides a vibrant, creative space to bring your vision to life. Visit us Tuesday through Saturday for a transformative experience at the hands of skilled artists who are passionate about their craft.\nPrice: $\nCurrent location: Tifton, Georgia, United States",
     "updated_at": "2026-03-12"
+  },
+  {
+    "id": "etctat2",
+    "name": "Embrace The Chaos (ETC)",
+    "location": {
+      "city": "Waco",
+      "country": "United States"
+    },
+    "styles": [
+      "black&gray",
+      "watercolor",
+      "illustrative"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/etctat2/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/thumb/004.webp"
+    ],
+    "bio": "Welcome to Embrace The Chaos (ETC), a veteran-owned tattoo studio nestled in the heart of Waco, Texas. Specializing in captivating black & gray, vibrant watercolor, and intricate illustrative tattoos, we provide a unique canvas for your self-expression. Step into our exclusive tattoo-only studio where creativity thrives amidst order and serenity.\nPrice: $\nCurrent location: Waco, Texas, United States",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "eme__tattoo",
@@ -139529,6 +139533,54 @@
     "updated_at": "2026-03-08"
   },
   {
+    "id": "eszterdavidtattoo",
+    "name": "Eszter David",
+    "location": {
+      "city": "London",
+      "country": "United Kingdom"
+    },
+    "styles": [
+      "geometric",
+      "fineline",
+      "sketch"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/eszterdavidtattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eszterdavidtattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eszterdavidtattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eszterdavidtattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eszterdavidtattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eszterdavidtattoo/thumb/004.webp"
+    ],
+    "bio": "Eszter David is a highly skilled tattoo artist based in London, United Kingdom, specializing in geometric, fineline, and sketch styles. With her distinct artistic technique, she creates unique and meticulous designs that leave her clients in awe. She maintains a high degree of professionalism, taking all appointments through her email: eszterdavidtattoo@gmail.com.\nPrice: $$\nCurrent location: London, England, United Kingdom",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "etatuator.pl",
+    "name": "Etatuator",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "watercolor"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/etatuator.pl/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etatuator.pl/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etatuator.pl/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etatuator.pl/thumb/002.webp"
+    ],
+    "bio": "\"Etatuator is a cutting-edge tattoo studio nestled in the heart of Poland, renowned for its exquisite watercolor tattoos that blend vibrant hues with fluid forms. This creative oasis not only offers a catalog of inspired designs but also educates clients with an extensive blog covering tattoo artistry, from aftercare to style explorations. To immerse yourself in an artistic journey or to book a session with our masterful artists, reach us at biuro@etatuator.pl.\"\nPrice: $\nCurrent location:",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "eterno",
     "name": "Eterno · Indomito Spirit",
     "location": {
@@ -139565,28 +139617,27 @@
     "updated_at": "2026-03-10"
   },
   {
-    "id": "eightsandacestattoo",
-    "name": "Ethan Jones",
+    "id": "etbennett_tattoo",
+    "name": "Ethan Bennett",
     "location": {
-      "city": "Santa Cruz",
+      "city": "Portland",
       "country": "United States"
     },
     "styles": [
-      "traditional",
-      "illustrative"
+      "traditional"
     ],
     "links": {
-      "instagram": "https://www.instagram.com/eightsandacestattoo/"
+      "instagram": "https://www.instagram.com/etbennett_tattoo/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/001.webp",
+    "tattoo_count": 6,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eightsandacestattoo/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etbennett_tattoo/thumb/004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "cejitasbyetta",
@@ -139822,15 +139873,16 @@
     "links": {
       "instagram": "https://www.instagram.com/efka_tattooart/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/efka_tattooart/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-12"
+    "bio": "⚡️Guest spot: 🇬🇧London,uk 16-22 March ⚡️ Message me for tattoo/art enquiries 📍Vilnius/ Lithuania 🇱🇹 evaldasgulbinas@yahoo.co.uk⚡️",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "artandsuchevan",
@@ -144667,6 +144719,30 @@
     ],
     "bio": "WORKPLACE The Circle London London",
     "updated_at": "2026-03-08"
+  },
+  {
+    "id": "edoardo.gabriele",
+    "name": "Gabriele Edoardo",
+    "location": {
+      "city": "Lucca",
+      "country": "Italy"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/edoardo.gabriele/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edoardo.gabriele/thumb/004.webp"
+    ],
+    "bio": "Autista 118",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "gabrielepais",
@@ -151585,10 +151661,16 @@
     "links": {
       "instagram": "https://instagram.com/ibirothe"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-12"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ibirothe/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ibirothe/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ibirothe/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ibirothe/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ibirothe/thumb/ig_004.webp"
+    ],
+    "bio": "Gentle Wiper/Spaghetti Typer\nLeipzig/Germany",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "ichihatano",
@@ -151605,7 +151687,7 @@
     "thumb": null,
     "thumbs": [],
     "bio": "Hori-Ichi tattooist since 1998",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "ickabrams",
@@ -151680,7 +151762,7 @@
     "thumb": null,
     "thumbs": [],
     "bio": "Idexa has worked in different mediums but finds working on skin exhilarating, as only tattooing allows her to work with unique bodies and stories. read more",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "iditch",
@@ -151703,23 +151785,6 @@
     ],
     "bio": "iditch.tattoo@gmail.com \nTattoo - @lamegisserie Graulhet\nMusic - @gasparacomet",
     "updated_at": "2026-03-10"
-  },
-  {
-    "id": "ienlevin",
-    "name": "Ien Levin",
-    "location": {
-      "city": "Kiev",
-      "country": "Ukraine"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/ienlevin"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Atelier Noir Kiev",
-    "updated_at": "2026-03-12"
   },
   {
     "id": "cachotattoo",
@@ -151761,7 +151826,7 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Luna Negra Tattoo Buenos Aires",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "69comanche",
@@ -151850,7 +151915,7 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE C Moro Studio Tatuażu Lublin",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "igorpesic",
@@ -151932,23 +151997,7 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Hana Tattoo Studio Seoul",
-    "updated_at": "2026-03-12"
-  },
-  {
-    "id": "iliazharkov",
-    "name": "Ilia Zharkov",
-    "location": {
-      "city": "Moscow",
-      "country": "Russia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/iliazharkov"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-13"
   },
   {
     "id": "iljahummel",
@@ -151961,11 +152010,16 @@
     "links": {
       "instagram": "https://instagram.com/iljahummel"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Glaube Liebe Hoffnung Tattooing Essen",
-    "updated_at": "2026-03-12"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iljahummel/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iljahummel/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iljahummel/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iljahummel/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iljahummel/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Glaube Liebe Hoffnung Tattooing Essen\n\nTattooing\n@glaube_liebe_hoffnung_tattoo , the oldest tattoo shop in Essen, Germany\nQuestions & Appointments? \nDM or email\nilja@glaubeliebehoffnung.com",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "illyagruenwald",
@@ -155004,31 +155058,6 @@
     ],
     "bio": "Fine line and Single needle Tattoo Artist in Lanzarote, Canary Islands. read more JADE SPERRY",
     "updated_at": "2026-03-08"
-  },
-  {
-    "id": "electriclotustattoo",
-    "name": "Jae Connor",
-    "location": {
-      "city": "Brooklyn",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "illustrative",
-      "vegan"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electriclotustattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriclotustattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
   },
   {
     "id": "jefreenaderali",
@@ -164481,6 +164510,30 @@
     ],
     "bio": "WORKPLACE Blind Eye Tattoo Company Leeds",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "electricstreettattoo",
+    "name": "Josh⚡️Electric Street Tattoo",
+    "location": {
+      "city": "Wilton Manors",
+      "country": "United States"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electricstreettattoo/"
+    },
+    "tattoo_count": 25,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electricstreettattoo/thumb/ig_004.webp"
+    ],
+    "bio": "Electric Street Tattoo, based in the vibrant area of Wilton Manors, United States, is your go-to traditional tattoo studio renowned since 2015. This premier establishment enlivens a comfortable and artistic ambiance, curating bespoke designs that uphold the timeless authenticity of traditional tattoo artistry.\nPrice: $$\nCurrent location: Wilton Manors, Florida, United States\n\n•𝓕𝓵𝓸𝓻𝓲𝓭𝓪‘𝓼  𝓕𝓲𝓷𝓮𝓼𝓽•\nEstablished 2015",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "josiesexton",
@@ -178378,7 +178431,7 @@
   },
   {
     "id": "el_lapicero_errante",
-    "name": "Luison Tattoo",
+    "name": "Luison",
     "location": {
       "city": "Torre-pacheco",
       "country": "Spain"
@@ -178391,14 +178444,15 @@
     "links": {
       "instagram": "https://www.instagram.com/el_lapicero_errante/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_lapicero_errante/thumb/ig_004.webp"
     ],
+    "bio": "-Tatuador / Anillador: @luison_tattoo \n-Tlf: 620-51-92-86\n- Av. Juan Carlos 1º,n° 52 ,A\n•Torre Pacheco (Murcia)",
     "updated_at": "2026-03-13"
   },
   {
@@ -180698,6 +180752,32 @@
     "thumb": null,
     "thumbs": [],
     "bio": "WORKPLACE Vienna Electric Tattoo Vienna",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "ellawinchestertattoo",
+    "name": "Manuela Dietrich",
+    "location": {
+      "city": "Munich",
+      "country": "Germany"
+    },
+    "styles": [
+      "fineline",
+      "dotwork",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/ellawinchestertattoo/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellawinchestertattoo/thumb/ig_004.webp"
+    ],
+    "bio": "❈ I do tattoos ❈ @vonfischernundhalunken ❈ Germany, Weilheim in Oberbayern ❈ \nFür Termine: E-Mail/DM 💌 Books open 💘 Spnsrd by @jconly_official",
     "updated_at": "2026-03-13"
   },
   {
@@ -206323,27 +206403,6 @@
     "updated_at": "2026-03-11"
   },
   {
-    "id": "el_rey_tattoo",
-    "name": "Randy Janson",
-    "location": {
-      "city": "Unknown",
-      "country": "Unknown"
-    },
-    "styles": [
-      "dotwork"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/el_rey_tattoo/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_rey_tattoo/thumb/002.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "alteregotattoos",
     "name": "Randy Johnson",
     "location": {
@@ -219847,29 +219906,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "electric07_tattoo",
-    "name": "Sissy Ink",
-    "location": {
-      "city": "Wald-michelbach",
-      "country": "Germany"
-    },
-    "styles": [
-      "black&gray"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electric07_tattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric07_tattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "sito",
     "name": "Sito",
     "location": {
@@ -228591,7 +228627,7 @@
   },
   {
     "id": "electric_traditionals",
-    "name": "Tilo",
+    "name": "TILO // TATTOOER • NEOTRADITIONAL",
     "location": {
       "city": "Worms",
       "country": "Germany"
@@ -228604,14 +228640,15 @@
     "links": {
       "instagram": "https://www.instagram.com/electric_traditionals/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_traditionals/thumb/ig_004.webp"
     ],
+    "bio": "WORMS // CUSTOM DESIGNS\n✨NEOTRAD / BLCKWRK\n🌿VEGAN🌿\nTermine • 0176 80109816",
     "updated_at": "2026-03-13"
   },
   {
@@ -228688,14 +228725,15 @@
     "links": {
       "instagram": "https://www.instagram.com/eisentraeger_/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eisentraeger_/thumb/ig_004.webp"
     ],
+    "bio": "🛠️ Traditional Tattooing - Kassel / Gö\n👉🏼 Books open!",
     "updated_at": "2026-03-13"
   },
   {
@@ -237187,31 +237225,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "electriccitytattoo",
-    "name": "Woody Wodock",
-    "location": {
-      "city": "Scranton",
-      "country": "United States"
-    },
-    "styles": [
-      "traditional",
-      "dotwork",
-      "geometric"
-    ],
-    "links": {
-      "instagram": "https://www.instagram.com/electriccitytattoo/"
-    },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electriccitytattoo/thumb/004.webp"
-    ],
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "woodz",
     "name": "Woodz",
     "location": {
@@ -240668,23 +240681,6 @@
     "updated_at": "2026-03-08"
   },
   {
-    "id": "ellem",
-    "name": "Èllëm",
-    "location": {
-      "city": "Paris",
-      "country": "France"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/ellem"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "I am a french-marocan handpoker and acupuncturist.Puncturing and inking is for me a ritual and i work mainly with people intents or needs.In traditional Chinese medicine the skin is the doo read more",
-    "updated_at": "2026-03-13"
-  },
-  {
     "id": "eric_viking",
     "name": "éRic the Viking",
     "location": {
@@ -241309,6 +241305,22 @@
     ],
     "bio": "WORKPLACE Mainstay Tattoo Austin",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "iliazharkov",
+    "name": "Илья Жарков",
+    "location": {
+      "city": "Moscow",
+      "country": "Russia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/iliazharkov"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "updated_at": "2026-03-13"
   },
   {
     "id": "alexanderatrix",
@@ -242327,6 +242339,33 @@
     "updated_at": "2026-03-04"
   },
   {
+    "id": "elitatts",
+    "name": "♡ Eli Tatts ♡",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "styles": [
+      "fineline",
+      "floral",
+      "dotwork",
+      "vegan"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/elitatts/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elitatts/thumb/ig_004.webp"
+    ],
+    "bio": "⭐️ MADRID TRADITIONAL TATTOO ARTIST ⭐️\nMENORCA ABRIL \nBERLÍN MAY \n📍 @greentigertattoo \nsponsor @ambition.tattooequipment \nwhatsapp +34 634 326 663 dm",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "chibi_blacktatts",
     "name": "♡✦  ㄥ卂    匚卄丨乃丨 ✦♡ • Scarlet Silva •",
     "location": {
@@ -242454,6 +242493,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "el_carnicer0",
+    "name": "⚜️ 𝕮𝖆𝖗𝖓𝖎𝖈𝖊𝖗𝖔 ⚜️",
+    "location": {
+      "city": "Lévis",
+      "country": "Canada"
+    },
+    "styles": [
+      "tribal"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/el_carnicer0/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_carnicer0/thumb/ig_004.webp"
+    ],
+    "bio": "⚜️ BOOKING OPEN 2026 ⚜️\nOwner ⚒️ @moonshinersmfg ⚒️\n@hustlebutterdeluxe\n@bigsleepsink @pachucodepot",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "davidetacconelli_",
     "name": "⚜️Davide Tacconelli⚜️ • Realistic tattooer",
     "location": {
@@ -242577,6 +242640,32 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "electrumsupply",
+    "name": "⚡️ELECTRUM SUPPLY⚡️",
+    "location": {
+      "city": "Elkhart",
+      "country": "United States"
+    },
+    "styles": [
+      "realism",
+      "newschool",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electrumsupply/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electrumsupply/thumb/ig_004.webp"
+    ],
+    "bio": "⚡️Premium Tattoo Supplies Made For Artists, By Artists.\n20% off every order with the INSIDERS\n👇 Stock your station.",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "blackrosetattooers",
     "name": "⚡ＢＬＡＣＫ ＲＯＳＥ ＴＡＴＴＯＯＥＲＳ⚡",
     "location": {
@@ -242624,6 +242713,31 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dominic_achilles/thumb/ig_004.webp"
     ],
     "bio": "𝐍𝐞𝐨𝐭𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐈𝐥𝐥𝐮𝐬𝐭𝐫𝐚𝐭𝐢𝐯𝐞 𝐓𝐚𝐭𝐭𝐨𝐨𝐬\n📍Bold as Love Tattoo | Stuttgart\n🛒 Online Shop ↓",
+    "updated_at": "2026-03-13"
+  },
+  {
+    "id": "electric_tattooing_by_sushi",
+    "name": "⛧ 𝕾𝖚𝖇𝖈𝖚𝖑𝖙𝖚𝖗𝖊 𝕿𝖆𝖙𝖙𝖔𝖔𝖘 ⛧",
+    "location": {
+      "city": "Arnstadt",
+      "country": "Germany"
+    },
+    "styles": [
+      "black&gray",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/electric_tattooing_by_sushi/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electric_tattooing_by_sushi/thumb/ig_004.webp"
+    ],
+    "bio": "HEAVY METAL ART\nRaw Punk Tattooing \nOwner @aeltestetaetowierstube \nDM FOR BOOKING 🤝\n@tat2fanzine",
     "updated_at": "2026-03-13"
   },
   {
@@ -244439,6 +244553,31 @@
     "updated_at": "2026-03-13"
   },
   {
+    "id": "elena.esperanzaink",
+    "name": "𝐸𝓁𝑒𝓃𝒶 - 𝑀𝑜𝓃𝓉𝒸𝓁𝒶𝒾𝓇, 𝒲𝑜𝓂𝒶𝓃 𝑜𝓌𝓃𝑒𝒹 𝒯𝒶𝓉𝓉𝑜𝑜 𝒮𝒽𝑜𝓅",
+    "location": {
+      "city": "Montclair",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/elena.esperanzaink/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elena.esperanzaink/thumb/ig_004.webp"
+    ],
+    "bio": "𝒯𝒶𝓉𝓉𝑜𝑜𝒾𝓃𝑔 𝑀𝑜𝓂𝓂𝒶✨Montclair, CA\nCover-ups | Floral | Realism | Neo-Trad\nTattoo Artíst/Owner @esperanzainktattoos \nBooking Mar✨For appts, use links or DM",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "helenafernandes",
     "name": "𝐻𝑒𝑙𝑒𝑛𝑎 𝐹𝑒𝑟𝑛𝑎𝑛𝑑𝑒𝑠",
     "location": {
@@ -244532,6 +244671,23 @@
     ],
     "bio": "Da 10 anni genuine walk-in tattoo & piercing studio\n📍Tutti i giorni dalle 11.00 alle 20.00\n📱Priority +39 3440689786",
     "updated_at": "2026-03-10"
+  },
+  {
+    "id": "elenafortuna",
+    "name": "𝑬𝒍𝒆𝒏𝒂 𝑭𝒐𝒓𝒕𝒖𝒏𝒂",
+    "location": {
+      "city": "Rome",
+      "country": "Italy"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/elenafortuna"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Area Industriale Tattoo Rome\n\n📍𝑅𝑜𝑚𝑎 \n• 𝑃𝑠𝑖𝑐𝑜𝑙𝑜𝑔𝑎 👩🏼‍⚕️\n•𝐷𝑜𝑐𝑒𝑛𝑡𝑒 𝑠𝑐𝑢𝑜𝑙𝑒 𝑠𝑢𝑝𝑒𝑟𝑖𝑜𝑟𝑖 👩🏼‍🏫📚\n•𝑇𝑒𝑎𝑡𝑟𝑜 🎭",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "line.art.tattoo",
@@ -245436,6 +245592,30 @@
     "updated_at": "2026-03-09"
   },
   {
+    "id": "edo_sent_owt",
+    "name": "𝖊𝖉𝖔 𝖘𝖊𝖓𝖙",
+    "location": {
+      "city": "Melzo",
+      "country": "Italy"
+    },
+    "styles": [
+      "traditional"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/edo_sent_owt/"
+    },
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edo_sent_owt/thumb/ig_004.webp"
+    ],
+    "bio": "Old ways all days... \nOwner/Tattooer at @oldwaystattoo",
+    "updated_at": "2026-03-13"
+  },
+  {
     "id": "grisaceos",
     "name": "𝖌 𝖗 𝖎 𝖘 𝖆 𝖈 𝖊 𝖔 𝖘",
     "location": {
@@ -245648,6 +245828,23 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/baron.noir.tattoo/thumb/004.webp"
     ],
     "updated_at": "2026-03-09"
+  },
+  {
+    "id": "edsonjunior",
+    "name": "𝙀𝙙𝙨𝙤𝙣 𝙅𝙪𝙣𝙞𝙤𝙧",
+    "location": {
+      "city": "Brasília",
+      "country": "Brazil"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/edsonjunior"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE Tattoo Mob Brasília\n\n♌️🦁 \n🇧🇷 São Paulo\n🧔🏻Pai do Guy, Anna e Rocco\nSupply Chain (IT / Telecom)",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "diegofustar",
@@ -246254,6 +246451,28 @@
     ],
     "bio": "Tattooist ♠️Painter ♠️Collector \nPurveyor of the Past\nAs Ancient as Time & as Modern as Tomorrow \n@theoldtobaccohouse",
     "updated_at": "2026-03-09"
+  },
+  {
+    "id": "eikositreis",
+    "name": "👹",
+    "location": {
+      "city": "Donostia - San Sebastián",
+      "country": "Spain"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/eikositreis"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eikositreis/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eikositreis/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eikositreis/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eikositreis/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eikositreis/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Shibumi Tattoo Donostia - San Sebastián\n\n💥 Otros estilos en @shibumitattoo \n💥 Pinturas en @kirezumi \n⛩️ @luckyhorse.tattoo - Donostia\n💌 eikositreistattoo@gmail.com",
+    "updated_at": "2026-03-13"
   },
   {
     "id": "austinxjones",
