@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "egostreetteam",
-  "name": "Bez Triplesix",
+  "name": "Ego Street Team",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-13",
+  "bio": "Show case of tattoos made exclusively with ego tattoo machines and products designed by bez Triplesix..",
+  "instagram_enriched": {
+    "id": "1340299987",
+    "follower_count": 490,
+    "following_count": 26,
+    "media_count": 197,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/egostreetteam/instagram/profile.jpg"
+  }
 }

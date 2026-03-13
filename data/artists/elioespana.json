@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "elioespana",
-  "name": "Elio Espana",
+  "name": "Elio España",
   "location": {
     "city": "Constable",
     "country": "Franklin County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P ADK Tattoo Shop"
+  "bio": "WORKPLACE P ADK Tattoo Shop",
+  "instagram_enriched": {
+    "id": "65853220669",
+    "follower_count": 13,
+    "following_count": 186,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elioespana/instagram/profile.jpg"
+  }
 }

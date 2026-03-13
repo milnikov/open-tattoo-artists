@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "eddy_perminovas",
-  "name": "Eddy Perminovas",
+  "name": "Eddy-Egidijus Perminovas",
   "location": {
     "city": "Vilnius",
     "country": "Lithuania"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-13",
+  "bio": "@ministryoftattoos.official supported by @lithuanian_irons         Lithuania. Vilnius - Vytenio 13",
+  "instagram_enriched": {
+    "id": "207942554",
+    "follower_count": 15296,
+    "following_count": 1549,
+    "media_count": 443,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddy_perminovas/instagram/profile.jpg"
+  }
 }

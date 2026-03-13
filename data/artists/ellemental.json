@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ellemental",
-  "name": "Ellie Van Rose · Ellemental",
+  "name": "Elle",
   "location": {
     "city": "Berlin",
     "country": "Germany BLACKWORKLINE ARTSACRED GEOMETRY"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Black to the Rose Berlin"
+  "bio": "WORKPLACE Black to the Rose Berlin",
+  "instagram_enriched": {
+    "id": "194301811",
+    "follower_count": 14,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellemental/instagram/profile.jpg"
+  }
 }
