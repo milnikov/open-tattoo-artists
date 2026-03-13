@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jonblack",
-  "name": "Jon Black",
+  "name": "Jonathan Black",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Miami Tattoo Co. Miami"
+  "bio": "WORKPLACE Miami Tattoo Co. Miami",
+  "instagram_enriched": {
+    "id": "8043579",
+    "follower_count": 527,
+    "following_count": 529,
+    "media_count": 434,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonblack/instagram/profile.jpg"
+  }
 }

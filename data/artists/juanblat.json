@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "juanblat",
-  "name": "Juan Blat",
+  "name": "Juan Blume La Torre",
   "location": {
     "city": "Paterna",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Juan Blat Tatuajes Valencia"
+  "bio": "WORKPLACE P Juan Blat Tatuajes Valencia",
+  "instagram_enriched": {
+    "id": "3504392759",
+    "follower_count": 259,
+    "following_count": 632,
+    "media_count": 94,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juanblat/instagram/profile.jpg"
+  }
 }

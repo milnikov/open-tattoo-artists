@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jonsilva",
-  "name": "Jon Silva",
+  "name": "Jonathan Silva",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Aus Liebe zur Kunst Tattoo Berlin"
+  "bio": "WORKPLACE Aus Liebe zur Kunst Tattoo Berlin\n\nAutomation Engineer",
+  "instagram_enriched": {
+    "id": "8923049",
+    "follower_count": 479,
+    "following_count": 749,
+    "media_count": 188,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonsilva/instagram/profile.jpg"
+  }
 }

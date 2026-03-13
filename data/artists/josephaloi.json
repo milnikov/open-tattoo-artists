@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "josephaloi",
-  "name": "JK5 · Joseph Aloi",
+  "name": "Joe Aloi",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Three Kings Tattoo · Brooklyn Brooklyn"
+  "bio": "WORKPLACE Three Kings Tattoo · Brooklyn Brooklyn",
+  "instagram_enriched": {
+    "id": "555052497",
+    "follower_count": 104,
+    "following_count": 124,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josephaloi/instagram/profile.jpg"
+  }
 }

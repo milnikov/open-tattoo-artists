@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jonasbodker",
-  "name": "Jonas Bødker",
+  "name": "Jonas Bødker-Iversen",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Authent/Ink Tattoo Studio Sydney"
+  "bio": "WORKPLACE Authent/Ink Tattoo Studio Sydney",
+  "instagram_enriched": {
+    "id": "478696140",
+    "follower_count": 608,
+    "following_count": 1095,
+    "media_count": 12,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonasbodker/instagram/profile.jpg"
+  }
 }

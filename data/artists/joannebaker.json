@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joannebaker",
-  "name": "Joanne Baker",
+  "name": "Joanne\tBaker",
   "location": {
     "city": "Coventry",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Grizzlys Art Coventry"
+  "bio": "WORKPLACE Grizzlys Art Coventry",
+  "instagram_enriched": {
+    "id": "67455846851",
+    "follower_count": 0,
+    "following_count": 9,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joannebaker/instagram/profile.jpg"
+  }
 }

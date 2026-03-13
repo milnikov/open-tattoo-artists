@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jorgegonzalez",
-  "name": "Jorge González",
+  "name": "Jorge Gonzalez",
   "location": {
     "city": "Logroño",
     "country": "La Rioja"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Pintxo Tattoo Logroño"
+  "bio": "WORKPLACE Pintxo Tattoo Logroño\n\nSocio en Espira Tecnologías Web",
+  "instagram_enriched": {
+    "id": "1582876",
+    "follower_count": 147,
+    "following_count": 51,
+    "media_count": 212,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jorgegonzalez/instagram/profile.jpg"
+  }
 }

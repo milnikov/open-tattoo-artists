@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joeyfoote",
-  "name": "Joey Foote",
+  "name": "joeyfoote",
   "location": {
     "city": "Garden Grove",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Hidden Los Angeles Tattoo Los Angeles"
+  "bio": "WORKPLACE Hidden Los Angeles Tattoo Los Angeles",
+  "instagram_enriched": {
+    "id": "2062155225",
+    "follower_count": 49,
+    "following_count": 77,
+    "media_count": 18,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joeyfoote/instagram/profile.jpg"
+  }
 }

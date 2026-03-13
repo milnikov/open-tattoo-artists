@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "josehateslife",
-  "name": "Jose Hates Life · Jose Vigers",
+  "name": "Jose",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "JOSE HATES LIFE · JOSE VIGERS"
+  "bio": "JOSE HATES LIFE · JOSE VIGERS",
+  "instagram_enriched": {
+    "id": "5740804823",
+    "follower_count": 6,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josehateslife/instagram/profile.jpg"
+  }
 }
