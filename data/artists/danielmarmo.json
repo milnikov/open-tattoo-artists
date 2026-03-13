@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "danielmarmo",
-  "name": "Daniel Marmo",
+  "name": "𝔻𝕒𝕟𝕚𝕖𝕝 𝕄𝕒𝕣𝕞𝕠",
   "location": {
     "city": "Phillipsburg",
     "country": "Warren County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Welchy's Tattoo Studio Phillipsburg"
+  "bio": "WORKPLACE Welchy's Tattoo Studio Phillipsburg",
+  "instagram_enriched": {
+    "id": "406987959",
+    "follower_count": 599,
+    "following_count": 978,
+    "media_count": 215,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielmarmo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "danielsnoeks",
-  "name": "Daniel Snoeks",
+  "name": "Daniel Snoeks 팬스타그램 (not real)",
   "location": {
     "city": "Melbourne",
     "country": "Victoria"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Third Eye Tattoo Melbourne"
+  "bio": "WORKPLACE Third Eye Tattoo Melbourne",
+  "instagram_enriched": {
+    "id": "285480214",
+    "follower_count": 191,
+    "following_count": 1,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielsnoeks/instagram/profile.jpg"
+  }
 }

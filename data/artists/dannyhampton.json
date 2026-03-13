@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dannyhampton",
-  "name": "Danny Tweek Hampton",
+  "name": "Danny Hampton",
   "location": {
     "city": "Aldershot",
     "country": "Hampshire SACRED GEOMETRYBLACK AND GREY"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE C Thirteen Sins Tattoo"
+  "bio": "WORKPLACE C Thirteen Sins Tattoo",
+  "instagram_enriched": {
+    "id": "1528822510",
+    "follower_count": 533,
+    "following_count": 341,
+    "media_count": 209,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannyhampton/instagram/profile.jpg"
+  }
 }

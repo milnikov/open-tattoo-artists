@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "danielhartley",
-  "name": "Daniel Hartley",
+  "name": "Dan",
   "location": {
     "city": "Sunderland",
     "country": "Tyne and Wear"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Triplesix Studios Sunderland"
+  "bio": "WORKPLACE Triplesix Studios Sunderland\n\n25",
+  "instagram_enriched": {
+    "id": "768117878",
+    "follower_count": 321,
+    "following_count": 302,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/danielhartley/instagram/profile.jpg"
+  }
 }

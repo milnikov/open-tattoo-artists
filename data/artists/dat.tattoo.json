@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dat.tattoo",
-  "name": "타투이스트 닻별 ✶ 창원타투 ✶",
+  "name": "닻별",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -618,5 +618,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "22910725656",
+    "follower_count": 361,
+    "following_count": 111,
+    "media_count": 168,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dat.tattoo/instagram/profile.jpg"
+  }
 }
