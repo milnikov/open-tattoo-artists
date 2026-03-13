@@ -67,7 +67,7 @@ export function ReportProblemModal({
   if (!open) return null;
 
   const cancelButtonClass =
-    "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap";
+    "flex items-center justify-center h-[26px] text-xs rounded border border-border px-3 text-foreground hover:bg-secondary transition-colors whitespace-nowrap";
   const submitButtonClass =
     "text-xs rounded border px-3 py-1 whitespace-nowrap transition-colors disabled:cursor-not-allowed " +
     "enabled:bg-foreground enabled:text-background enabled:border-foreground enabled:hover:opacity-90 " +

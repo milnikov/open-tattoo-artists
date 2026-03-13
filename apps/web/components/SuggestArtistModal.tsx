@@ -30,11 +30,45 @@ export function SuggestArtistModal({ onClose, open }: Props) {
   if (!open) return null;
 
   const cancelButtonClass =
-    "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap";
+    "flex items-center justify-center h-[26px] text-xs rounded border border-border px-3 text-foreground hover:bg-secondary transition-colors whitespace-nowrap";
   const submitButtonClass =
     "text-xs rounded border px-3 py-1 whitespace-nowrap transition-colors disabled:cursor-not-allowed " +
     "enabled:bg-foreground enabled:text-background enabled:border-foreground enabled:hover:opacity-90 " +
     "disabled:opacity-50 disabled:bg-transparent disabled:text-foreground disabled:border-border";
+
+  if (result?.ok) {
+    return (
+      <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50" onClick={onClose}>
+        <div
+          className="bg-background text-foreground rounded-lg shadow-xl max-w-sm w-full px-4 py-4 border border-border text-xs"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <div className="flex justify-between items-center mb-3">
+            <h2 className="text-sm font-bold text-foreground">Request submitted</h2>
+            <button
+              type="button"
+              onClick={onClose}
+              className="rounded text-muted-foreground hover:text-foreground transition-colors"
+              aria-label="Close"
+            >
+              <X className="h-3.5 w-3.5" />
+            </button>
+          </div>
+          <p className="text-muted-foreground mb-4">
+            Your update request was submitted successfully. We will process it soon.
+          </p>
+          <div className="flex gap-2 justify-end">
+            <a href="/profile" className={cancelButtonClass}>
+              Show in profile
+            </a>
+            <button type="button" onClick={onClose} className={cancelButtonClass}>
+              Great
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50" onClick={onClose}>
