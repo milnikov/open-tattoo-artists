@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andreisulim",
-  "name": "Andrei Sulim",
+  "name": "Андрей Сулим",
   "location": {
     "city": "Helsinki",
     "country": "Uusimaa ILLUSTRATIVEBLACKWORKLINE ART"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Koditon Perhe Helsinki"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Koditon Perhe Helsinki",
+  "instagram_enriched": {
+    "id": "4873574949",
+    "follower_count": 8,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreisulim/instagram/profile.jpg"
+  }
 }

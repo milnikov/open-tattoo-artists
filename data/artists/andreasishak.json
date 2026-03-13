@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andreasishak",
-  "name": "Andreas Ishak",
+  "name": "Andreas ishak",
   "location": {
     "city": "Linköping",
     "country": "Östergötland County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Studio S Tattoo Linköping"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Studio S Tattoo Linköping",
+  "instagram_enriched": {
+    "id": "7121466061",
+    "follower_count": 32,
+    "following_count": 73,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreasishak/instagram/profile.jpg"
+  }
 }

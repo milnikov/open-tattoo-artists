@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andreykoen",
-  "name": "Andrey Koen",
+  "name": "Андрей",
   "location": {
     "city": "Saint Petersburg",
     "country": "Leningrad Oblast"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-13",
+  "instagram_enriched": {
+    "id": "1746734793",
+    "follower_count": 9,
+    "following_count": 32,
+    "media_count": 49,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreykoen/instagram/profile.jpg"
+  }
 }

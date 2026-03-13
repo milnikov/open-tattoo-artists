@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alvina",
-  "name": "Alvina",
+  "name": "Alvina Wong",
   "location": {
     "city": "Auckland",
     "country": "Auckland Region MINIMALISTILLUSTRATIVELINE ARTFINE LINE"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Chapter Two Studio Auckland"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE Chapter Two Studio Auckland",
+  "instagram_enriched": {
+    "id": "49714",
+    "follower_count": 191,
+    "following_count": 427,
+    "media_count": 511,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alvina/instagram/profile.jpg"
+  }
 }
