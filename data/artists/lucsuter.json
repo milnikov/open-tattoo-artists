@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucsuter",
-  "name": "Luc Suter",
+  "name": "Suter Luc",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Black Diamond Tattoo Los Angeles"
+  "bio": "WORKPLACE Black Diamond Tattoo Los Angeles",
+  "instagram_enriched": {
+    "id": "62345273214",
+    "follower_count": 7,
+    "following_count": 27,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucsuter/instagram/profile.jpg"
+  }
 }

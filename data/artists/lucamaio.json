@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucamaio",
-  "name": "Luca Maio Quagliotti",
+  "name": "Luca Maio",
   "location": {
     "city": "Lonato del Garda",
     "country": "Italy"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Don't Panic Tattoo Lonato del Garda"
+  "bio": "WORKPLACE Don't Panic Tattoo Lonato del Garda",
+  "instagram_enriched": {
+    "id": "6274108733",
+    "follower_count": 1455,
+    "following_count": 1477,
+    "media_count": 1156,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucamaio/instagram/profile.jpg"
+  }
 }

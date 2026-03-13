@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lizmason",
-  "name": "Liz Mason",
+  "name": "lizmason",
   "location": {
     "city": "Worcester",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Blue Lotus Tattoo Studio Worcester"
+  "bio": "WORKPLACE Blue Lotus Tattoo Studio Worcester\n\nDaughter of God. Wife of @brandonmason. Momma of S, A, R & W. Lover of life.",
+  "instagram_enriched": {
+    "id": "16040244",
+    "follower_count": 208,
+    "following_count": 335,
+    "media_count": 1033,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizmason/instagram/profile.jpg"
+  }
 }

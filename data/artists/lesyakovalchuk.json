@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lesyakovalchuk",
-  "name": "Lesya Kovalchuk",
+  "name": "Lesia Kovalchuk",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Sasha Tattooing Studio Saint Petersburg"
+  "bio": "WORKPLACE Sasha Tattooing Studio Saint Petersburg",
+  "instagram_enriched": {
+    "id": "7982556054",
+    "follower_count": 87,
+    "following_count": 1559,
+    "media_count": 36,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lesyakovalchuk/instagram/profile.jpg"
+  }
 }

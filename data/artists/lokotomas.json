@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lokotomas",
-  "name": "Loko Tomas",
+  "name": "loko tomáš",
   "location": {
     "city": "Absecon",
     "country": "Atlantic County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Club 44 Tattoo Absecon"
+  "bio": "WORKPLACE Club 44 Tattoo Absecon\n\nJeden z malá chalanou. (Nemilovaní 😭 )",
+  "instagram_enriched": {
+    "id": "29911776693",
+    "follower_count": 0,
+    "following_count": 5,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lokotomas/instagram/profile.jpg"
+  }
 }

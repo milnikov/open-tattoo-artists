@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucalitz",
-  "name": "Lu Calitz",
+  "name": "luca...litz",
   "location": {
     "city": "Port Elizabeth",
     "country": "Eastern Cape"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Otherworld Tattoo Studio Port Elizabeth"
+  "bio": "WORKPLACE Otherworld Tattoo Studio Port Elizabeth",
+  "instagram_enriched": {
+    "id": "4049237380",
+    "follower_count": 2,
+    "following_count": 26,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucalitz/instagram/profile.jpg"
+  }
 }

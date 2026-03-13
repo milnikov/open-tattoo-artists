@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lukeedwards",
-  "name": "Luke Edwards · Lucas Edwardo",
+  "name": "Luke Edwards",
   "location": {
     "city": "Leigh-on-Sea",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Exile Tattoo Leigh-on-Sea"
+  "bio": "WORKPLACE Exile Tattoo Leigh-on-Sea",
+  "instagram_enriched": {
+    "id": "2230688",
+    "follower_count": 101,
+    "following_count": 258,
+    "media_count": 399,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lukeedwards/instagram/profile.jpg"
+  }
 }

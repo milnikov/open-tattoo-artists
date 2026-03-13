@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liudmilvasilev",
-  "name": "Liudmil Vasilev",
+  "name": "Людмил Василев",
   "location": {
     "city": "Sofia",
     "country": "Bulgaria"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Magic Needle Tattoo Sofia"
+  "bio": "WORKPLACE Magic Needle Tattoo Sofia",
+  "instagram_enriched": {
+    "id": "3534847617",
+    "follower_count": 109,
+    "following_count": 178,
+    "media_count": 27,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liudmilvasilev/instagram/profile.jpg"
+  }
 }

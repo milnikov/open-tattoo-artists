@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucaswagner",
-  "name": "Lucas Wagner",
+  "name": "Wagner Lucas",
   "location": {
     "city": "Mannheim",
     "country": "Germany"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Truly Yours Tattoo Mannheim"
+  "bio": "WORKPLACE Truly Yours Tattoo Mannheim",
+  "instagram_enriched": {
+    "id": "55477910555",
+    "follower_count": 39,
+    "following_count": 13,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucaswagner/instagram/profile.jpg"
+  }
 }

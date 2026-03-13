@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lukebraniff",
-  "name": "Luke Braniff",
+  "name": "luke braniff",
   "location": {
     "city": "Gold Coast",
     "country": "Australia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Gold Coast Tattoos Gold Coast"
+  "bio": "WORKPLACE Gold Coast Tattoos Gold Coast",
+  "instagram_enriched": {
+    "id": "2103457503",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lukebraniff/instagram/profile.jpg"
+  }
 }

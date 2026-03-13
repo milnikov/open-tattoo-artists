@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lluisfigueras",
-  "name": "Lluís Figueras",
+  "name": "Lluís Figueras Moya",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE StaDemonia Tattoo Barcelona"
+  "bio": "WORKPLACE StaDemonia Tattoo Barcelona",
+  "instagram_enriched": {
+    "id": "350634156",
+    "follower_count": 187,
+    "following_count": 483,
+    "media_count": 174,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lluisfigueras/instagram/profile.jpg"
+  }
 }
