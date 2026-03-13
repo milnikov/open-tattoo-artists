@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dcyoung",
-  "name": "DC Young",
+  "name": "Drew Cylus Young",
   "location": {
     "city": "Wollongong",
     "country": "New South Wales"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Distinktion Tattoo Wollongong"
+  "bio": "WORKPLACE Distinktion Tattoo Wollongong",
+  "instagram_enriched": {
+    "id": "2216450931",
+    "follower_count": 42,
+    "following_count": 6,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dcyoung/instagram/profile.jpg"
+  }
 }

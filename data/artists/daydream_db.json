@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "daydream_db",
-  "name": "Dani Benite",
+  "name": "DB",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-13",
+  "bio": "AmateurPhotography 🌸\n- Animals 🐾\n- Nature 🌿\n- Landscape 🏞\n- Food 🍴\n--> Picture of the day 📸",
+  "instagram_enriched": {
+    "id": "50378464913",
+    "follower_count": 510,
+    "following_count": 155,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daydream_db/instagram/profile.jpg"
+  }
 }

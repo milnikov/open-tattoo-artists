@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davidedak",
-  "name": "Davide Dak",
+  "name": "David Edak",
   "location": {
     "city": "Milan",
     "country": "Province of Milan"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Dak Tattoo Milan"
+  "bio": "WORKPLACE Dak Tattoo Milan",
+  "instagram_enriched": {
+    "id": "65199824061",
+    "follower_count": 3,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davidedak/instagram/profile.jpg"
+  }
 }

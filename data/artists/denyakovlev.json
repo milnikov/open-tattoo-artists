@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "denyakovlev",
-  "name": "Den Yakovlev",
+  "name": "Den",
   "location": {
     "city": "Moscow",
     "country": "Moscow Oblast REALISMBLACK AND GREYPORTRAIT"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Negative Karma"
+  "bio": "WORKPLACE P Negative Karma",
+  "instagram_enriched": {
+    "id": "5573687111",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/denyakovlev/instagram/profile.jpg"
+  }
 }
