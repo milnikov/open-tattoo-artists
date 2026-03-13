@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jesskoala",
-  "name": "Jess Koala",
+  "name": "Jessie",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Castro Tattoo San Francisco"
+  "bio": "WORKPLACE Castro Tattoo San Francisco",
+  "instagram_enriched": {
+    "id": "8122511841",
+    "follower_count": 161,
+    "following_count": 316,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jesskoala/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jeffcooper",
-  "name": "Jeff Cooper",
+  "name": "Jeff",
   "location": {
     "city": "Yucca Valley",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Liquid Tattoo Yucca Valley"
+  "bio": "WORKPLACE Liquid Tattoo Yucca Valley\n\n⚡️ oakville • muskoka ⚡️",
+  "instagram_enriched": {
+    "id": "15586379",
+    "follower_count": 951,
+    "following_count": 937,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffcooper/instagram/profile.jpg"
+  }
 }

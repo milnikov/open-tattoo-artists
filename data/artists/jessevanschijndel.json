@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jessevanschijndel",
-  "name": "Jesse van Schijndel",
+  "name": "Jesse",
   "location": {
     "city": "Oss",
     "country": "Netherlands"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Six Feet Under Tattoo Oss"
+  "bio": "WORKPLACE Six Feet Under Tattoo Oss\n\nHere's the story of my life after the beep.\n...\n*beep*",
+  "instagram_enriched": {
+    "id": "191450708",
+    "follower_count": 384,
+    "following_count": 865,
+    "media_count": 115,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jessevanschijndel/instagram/profile.jpg"
+  }
 }

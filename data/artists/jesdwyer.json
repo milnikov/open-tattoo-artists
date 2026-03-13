@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jesdwyer",
-  "name": "Jes Dwyer",
+  "name": "Jes",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Nice Tattoo Parlor Brooklyn"
+  "bio": "WORKPLACE Nice Tattoo Parlor Brooklyn",
+  "instagram_enriched": {
+    "id": "27453403",
+    "follower_count": 328,
+    "following_count": 711,
+    "media_count": 410,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jesdwyer/instagram/profile.jpg"
+  }
 }

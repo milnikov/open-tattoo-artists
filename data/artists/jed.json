@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jed",
-  "name": "JED · Jonathan Earl De Pyper",
+  "name": "Jed Stephenson",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "JED · JONATHAN EARL DE PYPER"
+  "bio": "JED · JONATHAN EARL DE PYPER",
+  "instagram_enriched": {
+    "id": "512937936",
+    "follower_count": 1543,
+    "following_count": 208,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jed/instagram/profile.jpg"
+  }
 }

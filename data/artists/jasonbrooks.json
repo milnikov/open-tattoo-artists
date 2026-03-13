@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jasonbrooks",
-  "name": "Jason Brooks",
+  "name": "If Life Is What You Make It,",
   "location": {
     "city": "Austin",
     "country": "United States"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Great Wave Tattoo Austin"
+  "bio": "WORKPLACE Great Wave Tattoo Austin",
+  "instagram_enriched": {
+    "id": "5511027",
+    "follower_count": 890,
+    "following_count": 2076,
+    "media_count": 2860,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jasonbrooks/instagram/profile.jpg"
+  }
 }

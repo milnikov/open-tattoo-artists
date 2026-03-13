@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jayhutton",
-  "name": "Jay Hutton",
+  "name": "jay hutton",
   "location": {
     "city": "Ellesmere Port",
     "country": "Cheshire"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Adrenaline Tattoo Studio Ellesmere Port"
+  "bio": "WORKPLACE Adrenaline Tattoo Studio Ellesmere Port",
+  "instagram_enriched": {
+    "id": "3429149765",
+    "follower_count": 27,
+    "following_count": 45,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jayhutton/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jimmyscribble",
-  "name": "Jimmy Scribble",
+  "name": "JimmyScribble",
   "location": {
     "city": "Leeds",
     "country": "United Kingdom"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "I'm a photographer and designer in mixed media. Expect a little bit of everything!😏 jimmyscribble@hotmail.co.uk",
+  "instagram_enriched": {
+    "id": "15035738",
+    "follower_count": 349,
+    "following_count": 588,
+    "media_count": 601,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimmyscribble/instagram/profile.jpg"
+  }
 }

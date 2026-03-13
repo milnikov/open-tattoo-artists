@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jensbergstrom",
-  "name": "Jens Bergström",
+  "name": "Jens Bergstrøm",
   "location": {
     "city": "Åkersberga",
     "country": "Stockholm County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Heavenly Ink Tattoo Åkersberga"
+  "bio": "WORKPLACE Heavenly Ink Tattoo Åkersberga",
+  "instagram_enriched": {
+    "id": "53325294337",
+    "follower_count": 18,
+    "following_count": 18,
+    "media_count": 23,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jensbergstrom/instagram/profile.jpg"
+  }
 }
