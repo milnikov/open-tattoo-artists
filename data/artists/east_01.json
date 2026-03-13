@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "east_01",
+  "name": "Eastoneline",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/east_01",
+    "instagram": "https://www.instagram.com/east_01/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/east_01/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/east_01/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/east_01/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/east_01/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-13",
+  "bio": "Eastoneline is a premier tattoo artist specializing in the clean and precise styles of minimalist, lettering, and fineline. His ability to deliver intricate designs with absolute precision underlines his exceptional skill level in the artistry of tattooing. If you're seeking an expert in these unique styles, Eastoneline is the artist to turn to.\nPrice: $$\nCurrent location:"
+}
