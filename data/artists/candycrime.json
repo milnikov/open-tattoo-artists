@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "candycrime",
-  "name": "Candy Crime",
+  "name": "Lisa Li",
   "location": {
     "city": "Hamburg",
     "country": "Germany"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "Ich bin Hobbybäcker und\nerfreue gern andere Menschen \nmit meinem Gebäck. \nDiese Profil wird geführt \nmit Herz von \n@julchenpauline .\n👩🏼‍🍳🤍",
+  "instagram_enriched": {
+    "id": "46090989511",
+    "follower_count": 202,
+    "following_count": 31,
+    "media_count": 22,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/candycrime/instagram/profile.jpg"
+  }
 }

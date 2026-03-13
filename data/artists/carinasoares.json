@@ -12,7 +12,28 @@
     "instagram": "https://instagram.com/carinasoares",
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
-  "tattoos": [],
+  "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carinasoares/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carinasoares/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Holy Mountain Tattoos Massamá"
+  "bio": "WORKPLACE Holy Mountain Tattoos Massamá",
+  "instagram_enriched": {
+    "id": "188896483",
+    "follower_count": 2004,
+    "following_count": 4,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carinasoares/instagram/profile.jpg"
+  }
 }

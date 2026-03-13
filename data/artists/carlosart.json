@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "carlosart",
-  "name": "Carlos Art Tattoo",
+  "name": "Carlos Art",
   "location": {
     "city": "Estepona",
     "country": "Province of Málaga REALISMBLACK AND GREY"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Estepona Spain"
+  "bio": "WORKPLACE Estepona Spain\n\nSoy un hombre de negocio \nArtesano",
+  "instagram_enriched": {
+    "id": "3193524480",
+    "follower_count": 43,
+    "following_count": 6,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlosart/instagram/profile.jpg"
+  }
 }

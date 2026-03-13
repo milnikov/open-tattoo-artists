@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "carloslopes",
-  "name": "Carlos Lopes",
+  "name": "CHL",
   "location": {
     "city": "Porto Alegre",
     "country": "Rio Grande do Sul"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Coringa Tattoo Studio Porto Alegre"
+  "bio": "WORKPLACE Coringa Tattoo Studio Porto Alegre\n\n💍@Franvillis",
+  "instagram_enriched": {
+    "id": "209993169",
+    "follower_count": 324,
+    "following_count": 844,
+    "media_count": 137,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carloslopes/instagram/profile.jpg"
+  }
 }

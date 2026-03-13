@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "carlosrubio",
-  "name": "Carlos Rubio",
+  "name": "Carlos Barreto",
   "location": {
     "city": "Chandler",
     "country": "Arizona"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Disciple Tattoo Chandler"
+  "bio": "WORKPLACE Disciple Tattoo Chandler\n\nHola",
+  "instagram_enriched": {
+    "id": "70838195572",
+    "follower_count": 25,
+    "following_count": 19,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlosrubio/instagram/profile.jpg"
+  }
 }
