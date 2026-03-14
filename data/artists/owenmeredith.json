@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "owenmeredith",
-  "name": "Owen Meredith",
+  "name": "Owen Rhys Meredith",
   "location": {
     "city": "Norwich",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Black Dog Tattoos Norwich"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Black Dog Tattoos Norwich",
+  "instagram_enriched": {
+    "id": "51219306",
+    "follower_count": 167,
+    "following_count": 180,
+    "media_count": 634,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/owenmeredith/instagram/profile.jpg"
+  }
 }

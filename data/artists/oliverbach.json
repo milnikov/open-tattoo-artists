@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oliverbach",
-  "name": "Oliver Bach",
+  "name": "Oliver Bach Larsen",
   "location": {
     "city": "Chelmsford",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Duke Street Tattoo Chelmsford"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Duke Street Tattoo Chelmsford",
+  "instagram_enriched": {
+    "id": "173643262",
+    "follower_count": 335,
+    "following_count": 468,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliverbach/instagram/profile.jpg"
+  }
 }

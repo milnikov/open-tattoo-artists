@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oliverkenton",
-  "name": "Oliver Kenton",
+  "name": "Kenton Oliver",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE P Temperance Tattoo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Temperance Tattoo",
+  "instagram_enriched": {
+    "id": "2211783155",
+    "follower_count": 27,
+    "following_count": 6,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliverkenton/instagram/profile.jpg"
+  }
 }

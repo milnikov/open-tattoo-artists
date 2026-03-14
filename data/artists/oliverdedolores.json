@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oliverdedolores",
-  "name": "Oliver de Dolores",
+  "name": "ODD",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE La Tatuajeria Barcelona"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE La Tatuajeria Barcelona\n\nTatuando desde 1997\nCampeón Europa 2007 \nInstructor: Eskrima filipina y medieval. Wing Tsun tradicional, Wing revolution.\nLuchador Brazilian Jiujitsu.",
+  "instagram_enriched": {
+    "id": "2226123673",
+    "follower_count": 1121,
+    "following_count": 1038,
+    "media_count": 405,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliverdedolores/instagram/profile.jpg"
+  }
 }

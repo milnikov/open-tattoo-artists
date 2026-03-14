@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oilburner",
-  "name": "Oil Burner",
+  "name": "RC 132",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-14",
+  "bio": "restroom attendant\n@deadlock_coatings",
+  "instagram_enriched": {
+    "id": "18809624",
+    "follower_count": 3459,
+    "following_count": 782,
+    "media_count": 357,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oilburner/instagram/profile.jpg"
+  }
 }

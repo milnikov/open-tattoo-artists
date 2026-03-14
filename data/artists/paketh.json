@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "paketh",
-  "name": "Paketh",
+  "name": "Nicholus Paketh",
   "location": {
     "city": "Buenos Aires",
     "country": "Argentina"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE P Black Gate 101 Tattoo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Black Gate 101 Tattoo",
+  "instagram_enriched": {
+    "id": "8229115228",
+    "follower_count": 149,
+    "following_count": 354,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paketh/instagram/profile.jpg"
+  }
 }

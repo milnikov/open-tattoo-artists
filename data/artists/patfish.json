@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "patfish",
-  "name": "Pat Fish",
+  "name": "Pat Beahen",
   "location": {
     "city": "Santa Barbara",
     "country": "Santa Barbara County"
@@ -98,6 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Pat Fish's LuckyFish, Inc. Santa Barbara"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Pat Fish's LuckyFish, Inc. Santa Barbara\n\nLicensed British Columbia Steelhead ,Trout and Salmon Fly Fishing Guide . Dean River ,Skeena Country & Whistler / Squamish Contact patfish50@yahoo.ca",
+  "instagram_enriched": {
+    "id": "23474187",
+    "follower_count": 1290,
+    "following_count": 1518,
+    "media_count": 194,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/patfish/instagram/profile.jpg"
+  }
 }

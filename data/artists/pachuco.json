@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pachuco",
-  "name": "Pachuco Villaseñor",
+  "name": "Alejandro Cruz Vildósola",
   "location": {
     "city": "Morelia",
     "country": "Michoacán"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Equinoccio Tattoo Morelia"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Equinoccio Tattoo Morelia\n\n• Chúpale pichón •",
+  "instagram_enriched": {
+    "id": "1925761",
+    "follower_count": 524,
+    "following_count": 506,
+    "media_count": 846,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pachuco/instagram/profile.jpg"
+  }
 }
