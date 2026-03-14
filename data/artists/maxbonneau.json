@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxbonneau",
-  "name": "Max Bonneau",
+  "name": "Maxime Bonneau",
   "location": {
     "city": "Quebec City",
     "country": "Canada"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE P Enlight Tattoo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Enlight Tattoo\n\nIsfeld",
+  "instagram_enriched": {
+    "id": "52656835584",
+    "follower_count": 326,
+    "following_count": 412,
+    "media_count": 8,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxbonneau/instagram/profile.jpg"
+  }
 }

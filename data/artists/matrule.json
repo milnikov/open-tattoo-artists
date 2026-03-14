@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "matrule",
-  "name": "Mat Rule",
+  "name": "Mat Ruler",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -62,5 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "Conceptual profile that brings together music, storytelling and photos\nI catch the light, I love the light.  All photos/stories are mine\nw/ 🌹 & magic",
+  "instagram_enriched": {
+    "id": "72838820806",
+    "follower_count": 391,
+    "following_count": 200,
+    "media_count": 79,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matrule/instagram/profile.jpg"
+  }
 }

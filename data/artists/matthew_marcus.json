@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "matthew_marcus",
-  "name": "Matthew Marcus",
+  "name": "matthew_marcus",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Three Kings Tattoo · Brooklyn Brooklyn"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Three Kings Tattoo · Brooklyn Brooklyn",
+  "instagram_enriched": {
+    "id": "5966338",
+    "follower_count": 129,
+    "following_count": 995,
+    "media_count": 14,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matthew_marcus/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattpehrson",
-  "name": "Matt Pehrson",
+  "name": "mattpehrson",
   "location": {
     "city": "St. George",
     "country": "Washington County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Zion Tattoo St. George"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Zion Tattoo St. George",
+  "instagram_enriched": {
+    "id": "246513523",
+    "follower_count": 309,
+    "following_count": 415,
+    "media_count": 66,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattpehrson/instagram/profile.jpg"
+  }
 }

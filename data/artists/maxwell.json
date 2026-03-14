@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxwell",
-  "name": "Max Well",
+  "name": "Maxwell",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -12,6 +12,28 @@
     "instagram": "https://instagram.com/maxwell",
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
-  "tattoos": [],
-  "updated_at": "2026-03-13"
+  "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxwell/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxwell/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "follow the sacred screenplay in your path",
+  "instagram_enriched": {
+    "id": "30579491",
+    "follower_count": 1086312,
+    "following_count": 0,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxwell/instagram/profile.jpg"
+  }
 }

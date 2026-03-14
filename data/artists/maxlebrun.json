@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxlebrun",
-  "name": "Max Lebrun Etienne",
+  "name": "Max Le Brun",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -614,5 +614,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "5635105373",
+    "follower_count": 92,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxlebrun/instagram/profile.jpg"
+  }
 }

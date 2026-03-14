@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "meduzza",
-  "name": "Meduzza",
+  "name": "Галина",
   "location": {
     "city": "Tongoy",
     "country": "Coquimbo Region"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Meduzza Tattoos Tongoy Tongoy"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Meduzza Tattoos Tongoy Tongoy\n\nЗдесь не та Meduza, которую вы ожидали увидеть. Расходимся😉",
+  "instagram_enriched": {
+    "id": "1459988",
+    "follower_count": 342,
+    "following_count": 392,
+    "media_count": 643,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meduzza/instagram/profile.jpg"
+  }
 }

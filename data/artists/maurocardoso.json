@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maurocardoso",
-  "name": "Mauro Cardoso",
+  "name": "Cardoso Mauro",
   "location": {
     "city": "São Paulo",
     "country": "Brazil"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Tattooing since '98 MAURO CARDOSO"
+  "updated_at": "2026-03-14",
+  "bio": "Tattooing since '98 MAURO CARDOSO",
+  "instagram_enriched": {
+    "id": "17648732",
+    "follower_count": 227,
+    "following_count": 437,
+    "media_count": 13,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maurocardoso/instagram/profile.jpg"
+  }
 }

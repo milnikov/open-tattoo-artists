@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "memor.inks",
-  "name": "Memor.inks",
+  "name": "memor.inks",
   "location": {
     "city": "Bogotá",
     "country": "Colombia"
@@ -62,5 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "*new account\nmtl 🇨🇦📍@velours.studio                @mundo.abstrakto booking Nov-Dec",
+  "instagram_enriched": {
+    "id": "66622889864",
+    "follower_count": 68,
+    "following_count": 4,
+    "media_count": 34,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/memor.inks/instagram/profile.jpg"
+  }
 }
