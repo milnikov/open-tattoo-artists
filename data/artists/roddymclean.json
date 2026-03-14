@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "roddymclean",
-  "name": "Roddy McLean",
+  "name": "Roddy",
   "location": {
     "city": "Glasgow",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Timeless Tattoo Glasgow"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Timeless Tattoo Glasgow\n\nFirst Lady of the British Sedimentological Research Group",
+  "instagram_enriched": {
+    "id": "16121543",
+    "follower_count": 432,
+    "following_count": 412,
+    "media_count": 77,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roddymclean/instagram/profile.jpg"
+  }
 }

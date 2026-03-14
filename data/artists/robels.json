@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "robels",
-  "name": "Rob Els",
+  "name": "Betty Robles",
   "location": {
     "city": "Gevelsberg",
     "country": "Ennepe-Ruhr-Kreis"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Rigor Mortis Tattoo Shop Gevelsberg"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Rigor Mortis Tattoo Shop Gevelsberg",
+  "instagram_enriched": {
+    "id": "17260893",
+    "follower_count": 33,
+    "following_count": 148,
+    "media_count": 47,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/robels/instagram/profile.jpg"
+  }
 }

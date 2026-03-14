@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ricardobaiano",
-  "name": "Ricardo Baiano",
+  "name": "Ricardo Costa",
   "location": {
     "city": "Salvador",
     "country": "Brazil"
@@ -62,5 +62,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "269614890",
+    "follower_count": 59,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ricardobaiano/instagram/profile.jpg"
+  }
 }

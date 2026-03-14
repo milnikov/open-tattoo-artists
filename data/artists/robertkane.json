@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "robertkane",
-  "name": "Robert Kane",
+  "name": "robertkane",
   "location": {
     "city": "Boston",
     "country": "United States"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "𝕽𝖆𝖉",
+  "instagram_enriched": {
+    "id": "703951",
+    "follower_count": 728,
+    "following_count": 1506,
+    "media_count": 871,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/robertkane/instagram/profile.jpg"
+  }
 }
