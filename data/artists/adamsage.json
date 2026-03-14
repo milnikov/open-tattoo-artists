@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "adamsage",
-  "name": "Adam Sage",
+  "name": "Adam Arana",
   "location": {
     "city": "Brighton",
     "country": "Unknown"
@@ -67,6 +67,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "All the tattoos you see here are hand crafted without the aid of electricity."
+  "updated_at": "2026-03-14",
+  "bio": "All the tattoos you see here are hand crafted without the aid of electricity.",
+  "instagram_enriched": {
+    "id": "5171353",
+    "follower_count": 242,
+    "following_count": 241,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/adamsage/instagram/profile.jpg"
+  }
 }
