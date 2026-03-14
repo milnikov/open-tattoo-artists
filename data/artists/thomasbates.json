@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "thomasbates",
-  "name": "Thomas Bates",
+  "name": "Tom Bates",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Five Keys Tattoo Norwich"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Five Keys Tattoo Norwich",
+  "instagram_enriched": {
+    "id": "27282700",
+    "follower_count": 157,
+    "following_count": 171,
+    "media_count": 46,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomasbates/instagram/profile.jpg"
+  }
 }
