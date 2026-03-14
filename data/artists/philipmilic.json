@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "philipmilic",
-  "name": "Philip Milić",
+  "name": "philip milic",
   "location": {
     "city": "Oakland",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Oldcrow Tattoo Oakland"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Oldcrow Tattoo Oakland",
+  "instagram_enriched": {
+    "id": "50455238876",
+    "follower_count": 1,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/philipmilic/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pissaro",
-  "name": "Pis Saro",
+  "name": "Sergey",
   "location": {
     "city": "Sevastopol",
     "country": "Ukraine"
@@ -614,5 +614,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "349735023",
+    "follower_count": 2,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pissaro/instagram/profile.jpg"
+  }
 }

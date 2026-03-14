@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pedroparras",
-  "name": "Pedro Parras · Peri",
+  "name": "Pedro Parras",
   "location": {
     "city": "Torredonjimeno",
     "country": "Province of Jaén"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Mala Vida Tattoo Torredonjimeno"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Mala Vida Tattoo Torredonjimeno",
+  "instagram_enriched": {
+    "id": "315054280",
+    "follower_count": 69,
+    "following_count": 323,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pedroparras/instagram/profile.jpg"
+  }
 }

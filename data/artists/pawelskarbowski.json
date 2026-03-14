@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pawelskarbowski",
-  "name": "Pawel Skarbowski",
+  "name": "Paweł Skarbowski",
   "location": {
     "city": "Oslo",
     "country": "Norway"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Timeless Tattoo Oslo Oslo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Timeless Tattoo Oslo Oslo",
+  "instagram_enriched": {
+    "id": "3804577675",
+    "follower_count": 120,
+    "following_count": 303,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pawelskarbowski/instagram/profile.jpg"
+  }
 }

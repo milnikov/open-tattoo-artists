@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pinkerbell",
-  "name": "Pinkerbell",
+  "name": "Charlotte Burgoyne",
   "location": {
     "city": "Bodrum",
     "country": "Muğla Province"
@@ -230,6 +230,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "read more PINKERBELL"
+  "updated_at": "2026-03-14",
+  "bio": "read more PINKERBELL\n\nWelcome to the awesome world of me. This is snapshots of my life in photo form. Family,friends, laughs and a hint of sparkle.    💙💗💗💙💗",
+  "instagram_enriched": {
+    "id": "3289083",
+    "follower_count": 218,
+    "following_count": 1100,
+    "media_count": 3416,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pinkerbell/instagram/profile.jpg"
+  }
 }

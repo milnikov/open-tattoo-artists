@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "paulclave",
-  "name": "Paul Clavé · King of Bones",
+  "name": "Clave Paul",
   "location": {
     "city": "Glasgow",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Memento Mori Tattoos Glasgow"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Memento Mori Tattoos Glasgow\n\nsimple",
+  "instagram_enriched": {
+    "id": "6354993840",
+    "follower_count": 18,
+    "following_count": 38,
+    "media_count": 22,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulclave/instagram/profile.jpg"
+  }
 }

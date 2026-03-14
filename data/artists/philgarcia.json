@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "philgarcia",
-  "name": "Phil Garcia",
+  "name": "Philip Garcia",
   "location": {
     "city": "Port Hueneme",
     "country": "Ventura County"
@@ -134,6 +134,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Eight Thirty Eight Gallery Port Hueneme"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Eight Thirty Eight Gallery Port Hueneme\n\nI express my insanity one picture at a time... Recently, bringing you photos from around Winnipeg, Manitoba, and wherever. #Pixel #Google",
+  "instagram_enriched": {
+    "id": "18480938",
+    "follower_count": 278,
+    "following_count": 1348,
+    "media_count": 478,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/philgarcia/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "philsims",
-  "name": "Phil Sims",
+  "name": "Quincy Sims",
   "location": {
     "city": "Tucson",
     "country": "United States"
@@ -50,5 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "I Love Life!!! C.C. Thunder!!",
+  "instagram_enriched": {
+    "id": "36336264",
+    "follower_count": 1711,
+    "following_count": 2449,
+    "media_count": 608,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/philsims/instagram/profile.jpg"
+  }
 }

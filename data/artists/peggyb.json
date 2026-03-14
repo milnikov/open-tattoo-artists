@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "peggyb",
-  "name": "Peggy B",
+  "name": "Peggy Behrens",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Femme Fatale Tattoo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Femme Fatale Tattoo",
+  "instagram_enriched": {
+    "id": "2929465",
+    "follower_count": 10,
+    "following_count": 7,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/peggyb/instagram/profile.jpg"
+  }
 }
