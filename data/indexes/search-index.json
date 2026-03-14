@@ -30,6 +30,11 @@
     "normalized": "*ملوكة*"
   },
   {
+    "id": "romansunico",
+    "name": "- Roman Sunico - REALISMO -",
+    "normalized": "- roman sunico - realismo -"
+  },
+  {
     "id": "a.rae.tattoo",
     "name": "-Ally Rae-",
     "normalized": "-ally rae-"
@@ -5475,6 +5480,11 @@
     "normalized": "amanda"
   },
   {
+    "id": "evoltattoo",
+    "name": "Amanda (based on their email)",
+    "normalized": "amanda (based on their email)"
+  },
+  {
     "id": "bregs",
     "name": "Amanda Abrego · Bregs",
     "normalized": "amanda abrego · bregs"
@@ -9948,6 +9958,11 @@
     "id": "annpokes",
     "name": "Aɴɴᴀ 𓆏",
     "normalized": "aɴɴᴀ 𓆏"
+  },
+  {
+    "id": "saeleeb",
+    "name": "B",
+    "normalized": "b"
   },
   {
     "id": "beauxbrady",
@@ -30685,6 +30700,11 @@
     "normalized": "evo erk"
   },
   {
+    "id": "evoketattoos",
+    "name": "Evoke Tattoos",
+    "normalized": "evoke tattoos"
+  },
+  {
     "id": "ewasroka",
     "name": "Ewa Sroka",
     "normalized": "ewa sroka"
@@ -31140,6 +31160,11 @@
     "normalized": "fernando giehl"
   },
   {
+    "id": "evolution.machine",
+    "name": "Fernando Nietto",
+    "normalized": "fernando nietto"
+  },
+  {
     "id": "fernandoshimizu",
     "name": "Fernando Shimizu",
     "normalized": "fernando shimizu"
@@ -31246,8 +31271,8 @@
   },
   {
     "id": "sadstab",
-    "name": "Fion Liu — a.k.a. Sadstab",
-    "normalized": "fion liu — a.k.a. sadstab"
+    "name": "FION aka sadstab",
+    "normalized": "fion aka sadstab"
   },
   {
     "id": "firstjing",
@@ -34178,6 +34203,11 @@
     "id": "bng.script.tattoos",
     "name": "I•See•The•World•In•Black&Grey",
     "normalized": "i•see•the•world•in•black&grey"
+  },
+  {
+    "id": "rosasmarin",
+    "name": "J M Marla Rosas Marin",
+    "normalized": "j m marla rosas marin"
   },
   {
     "id": "jasonpaul",
@@ -40425,6 +40455,11 @@
     "normalized": "madeleine doll | tätowierungen | kassel"
   },
   {
+    "id": "ruffkid",
+    "name": "madi ruff",
+    "normalized": "madi ruff"
+  },
+  {
     "id": "mady",
     "name": "Mady Bajor",
     "normalized": "mady bajor"
@@ -42518,6 +42553,11 @@
     "id": "mesutbayraktar",
     "name": "Mesut Bayraktar",
     "normalized": "mesut bayraktar"
+  },
+  {
+    "id": "ryanmettz",
+    "name": "METTZ",
+    "normalized": "mettz"
   },
   {
     "id": "mewollama",
@@ -45590,6 +45630,11 @@
     "normalized": "pat beck"
   },
   {
+    "id": "rytang",
+    "name": "Patcharaporn Premgerd",
+    "normalized": "patcharaporn premgerd"
+  },
+  {
     "id": "patriciamadden",
     "name": "Patricia Madden",
     "normalized": "patricia madden"
@@ -46650,6 +46695,11 @@
     "normalized": "r a n d y e n g e l h a r d ®"
   },
   {
+    "id": "ryanussher",
+    "name": "Ｒ Ｙ Ａ Ｎ    Ｕ Ｓ Ｓ Ｈ Ｅ Ｒ",
+    "normalized": "r y a n u s s h e r"
+  },
+  {
     "id": "rachainsworth",
     "name": "rachainsworth",
     "normalized": "rachainsworth"
@@ -46933,11 +46983,6 @@
     "id": "rj_tattoo",
     "name": "Rapahael Justolin · RJ Tattoo",
     "normalized": "rapahael justolin · rj tattoo"
-  },
-  {
-    "id": "ruffkid",
-    "name": "Raphael Buehlmann · RUFFKID",
-    "normalized": "raphael buehlmann · ruffkid"
   },
   {
     "id": "raphael",
@@ -47580,11 +47625,6 @@
     "normalized": "rk ⟡ handpoke ✥ machine tattoos"
   },
   {
-    "id": "rotattoo",
-    "name": "RO. · Robert Pavez",
-    "normalized": "ro. · robert pavez"
-  },
-  {
     "id": "blackducktattoocompany",
     "name": "Rob & Dianna White",
     "normalized": "rob & dianna white"
@@ -47885,9 +47925,19 @@
     "normalized": "rodrigo garcia delgadillo"
   },
   {
+    "id": "rodrigonasa",
+    "name": "Rodrigo Gasparini",
+    "normalized": "rodrigo gasparini"
+  },
+  {
     "id": "rodrigokalaka",
     "name": "Rodrigo Gebelin",
     "normalized": "rodrigo gebelin"
+  },
+  {
+    "id": "rotattoo",
+    "name": "rodrigo hernandez",
+    "normalized": "rodrigo hernandez"
   },
   {
     "id": "rodrigomelo",
@@ -47903,11 +47953,6 @@
     "id": "rodrigomuinhos",
     "name": "Rodrigo Muinhos",
     "normalized": "rodrigo muinhos"
-  },
-  {
-    "id": "rodrigonasa",
-    "name": "Rodrigo Nasa",
-    "normalized": "rodrigo nasa"
   },
   {
     "id": "rodrigopacheco",
@@ -47931,8 +47976,8 @@
   },
   {
     "id": "rodrigosalcedo",
-    "name": "Rodrigo Salcedo Velarca",
-    "normalized": "rodrigo salcedo velarca"
+    "name": "Rodrigo Salcedo",
+    "normalized": "rodrigo salcedo"
   },
   {
     "id": "rodrigosalomao",
@@ -47943,6 +47988,11 @@
     "id": "didigotattoo",
     "name": "Rodrigo Silvera",
     "normalized": "rodrigo silvera"
+  },
+  {
+    "id": "rodsjimenez",
+    "name": "Rodrigo Soriano Jimenez",
+    "normalized": "rodrigo soriano jimenez"
   },
   {
     "id": "rodrigosouto",
@@ -47958,11 +48008,6 @@
     "id": "rodrigotas",
     "name": "Rodrigo Tas",
     "normalized": "rodrigo tas"
-  },
-  {
-    "id": "rodsjimenez",
-    "name": "Rods Jimenez",
-    "normalized": "rods jimenez"
   },
   {
     "id": "cholitosplakasitos",
@@ -47986,8 +48031,8 @@
   },
   {
     "id": "rojo",
-    "name": "Rojo",
-    "normalized": "rojo"
+    "name": "RoJo ひ",
+    "normalized": "rojo ひ"
   },
   {
     "id": "sana.ink",
@@ -48005,14 +48050,19 @@
     "normalized": "rom tattoo"
   },
   {
+    "id": "roma",
+    "name": "Roma",
+    "normalized": "roma"
+  },
+  {
+    "id": "romanboyko",
+    "name": "Roma Boyko",
+    "normalized": "roma boyko"
+  },
+  {
     "id": "romabroslavskiy",
     "name": "Roma Broslavskiy",
     "normalized": "roma broslavskiy"
-  },
-  {
-    "id": "roma",
-    "name": "Roma Ink",
-    "normalized": "roma ink"
   },
   {
     "id": "romanesvetov",
@@ -48026,8 +48076,8 @@
   },
   {
     "id": "romaseverov",
-    "name": "Roma Severov",
-    "normalized": "roma severov"
+    "name": "Roma_Severov",
+    "normalized": "roma_severov"
   },
   {
     "id": "romainblackspirit",
@@ -48036,13 +48086,13 @@
   },
   {
     "id": "romainkew",
-    "name": "Romain Kew",
-    "normalized": "romain kew"
+    "name": "ROMAIN KEW / Vilnius tattoo",
+    "normalized": "romain kew / vilnius tattoo"
   },
   {
     "id": "romainpareja",
-    "name": "Romain Pareja",
-    "normalized": "romain pareja"
+    "name": "Romain Pareja / paris tattoo artist / freehand tattoo",
+    "normalized": "romain pareja / paris tattoo artist / freehand tattoo"
   },
   {
     "id": "romaintriptik",
@@ -48055,19 +48105,9 @@
     "normalized": "roman abrego"
   },
   {
-    "id": "romanboyko",
-    "name": "Roman Boyko",
-    "normalized": "roman boyko"
-  },
-  {
     "id": "elchangofeo",
     "name": "Roman Casillas",
     "normalized": "roman casillas"
-  },
-  {
-    "id": "romankuznetsov",
-    "name": "Roman Kuznetsov",
-    "normalized": "roman kuznetsov"
   },
   {
     "id": "romanmateutsa",
@@ -48078,11 +48118,6 @@
     "id": "romanmelnikov",
     "name": "Roman Melnikov · Plebey Boy",
     "normalized": "roman melnikov · plebey boy"
-  },
-  {
-    "id": "romansunico",
-    "name": "Roman Sunico",
-    "normalized": "roman sunico"
   },
   {
     "id": "romeolacoste",
@@ -48100,14 +48135,14 @@
     "normalized": "román martínez"
   },
   {
+    "id": "ronstoppable",
+    "name": "Ron Odedra",
+    "normalized": "ron odedra"
+  },
+  {
     "id": "ronrusso",
     "name": "Ron Russo",
     "normalized": "ron russo"
-  },
-  {
-    "id": "ronstoppable",
-    "name": "Ron-Brian Garsuta · Ronstoppable",
-    "normalized": "ron-brian garsuta · ronstoppable"
   },
   {
     "id": "akuma.ronald",
@@ -48130,11 +48165,6 @@
     "normalized": "ronny lee reyes uribe"
   },
   {
-    "id": "rorofrose",
-    "name": "RoRofRose · R.Roseana Gerhan",
-    "normalized": "rorofrose · r.roseana gerhan"
-  },
-  {
     "id": "rorykeating",
     "name": "Rory Keating",
     "normalized": "rory keating"
@@ -48145,29 +48175,24 @@
     "normalized": "rory pickersgill"
   },
   {
-    "id": "rosasmarin",
-    "name": "Rosas Marin",
-    "normalized": "rosas marin"
-  },
-  {
-    "id": "rose_correia",
-    "name": "Rose Correia",
-    "normalized": "rose correia"
-  },
-  {
     "id": "rosehardy",
     "name": "Rose Hardy",
     "normalized": "rose hardy"
   },
   {
-    "id": "roseharley",
-    "name": "Rose Harley",
-    "normalized": "rose harley"
+    "id": "rosewhittaker",
+    "name": "Rose W",
+    "normalized": "rose w"
   },
   {
-    "id": "rosewhittaker",
-    "name": "Rose Whittaker",
-    "normalized": "rose whittaker"
+    "id": "rose_correia",
+    "name": "rose_correia",
+    "normalized": "rose_correia"
+  },
+  {
+    "id": "roseharley",
+    "name": "roseharley",
+    "normalized": "roseharley"
   },
   {
     "id": "rosemaryvandyke",
@@ -48185,14 +48210,14 @@
     "normalized": "rosie roo"
   },
   {
-    "id": "rosshell",
-    "name": "Ross Hell",
-    "normalized": "ross hell"
+    "id": "rosskjones",
+    "name": "Ross K. Jones Tattoos",
+    "normalized": "ross k. jones tattoos"
   },
   {
-    "id": "rosskjones",
-    "name": "Ross K Jones",
-    "normalized": "ross k jones"
+    "id": "rosshell",
+    "name": "Rosshell may",
+    "normalized": "rosshell may"
   },
   {
     "id": "wontutattoo",
@@ -48216,8 +48241,8 @@
   },
   {
     "id": "roxyryder",
-    "name": "Roxy Ryder",
-    "normalized": "roxy ryder"
+    "name": "Roxy and Ryder",
+    "normalized": "roxy and ryder"
   },
   {
     "id": "royaljafarov",
@@ -48235,14 +48260,9 @@
     "normalized": "ruan pablo dalas"
   },
   {
-    "id": "rubenbarahona",
-    "name": "Ruben Barahona",
-    "normalized": "ruben barahona"
-  },
-  {
-    "id": "ruben",
-    "name": "Ruben Jordan Langsted",
-    "normalized": "ruben jordan langsted"
+    "id": "rubendelaani",
+    "name": "RUBEN  DELAANI",
+    "normalized": "ruben delaani"
   },
   {
     "id": "rubenreza",
@@ -48275,14 +48295,14 @@
     "normalized": "ruby quilter"
   },
   {
+    "id": "rubenbarahona",
+    "name": "Rubén Barahona Valverde",
+    "normalized": "rubén barahona valverde"
+  },
+  {
     "id": "barbero",
     "name": "Rubén Barbero",
     "normalized": "rubén barbero"
-  },
-  {
-    "id": "rubendelaani",
-    "name": "Rubén Delaani",
-    "normalized": "rubén delaani"
   },
   {
     "id": "chuligonzalez",
@@ -48295,9 +48315,9 @@
     "normalized": "rubén ruiz"
   },
   {
-    "id": "ruddeluca",
-    "name": "Rud De Luca",
-    "normalized": "rud de luca"
+    "id": "ruben",
+    "name": "Rubén Santiago",
+    "normalized": "rubén santiago"
   },
   {
     "id": "rudydeamicis",
@@ -48335,11 +48355,6 @@
     "normalized": "ruslan abusev"
   },
   {
-    "id": "ruslantsvetnov",
-    "name": "Ruslan Tsvetnov",
-    "normalized": "ruslan tsvetnov"
-  },
-  {
     "id": "russabbott",
     "name": "Russ Abbott",
     "normalized": "russ abbott"
@@ -48373,11 +48388,6 @@
     "id": "crash_tattooink",
     "name": "Ruy Bzrra",
     "normalized": "ruy bzrra"
-  },
-  {
-    "id": "rytang",
-    "name": "Ry Tang",
-    "normalized": "ry tang"
   },
   {
     "id": "nayr",
@@ -48421,8 +48431,8 @@
   },
   {
     "id": "ryangagne",
-    "name": "Ryan Gagné",
-    "normalized": "ryan gagné"
+    "name": "Ryan Gagne",
+    "normalized": "ryan gagne"
   },
   {
     "id": "ryangatsbygatt",
@@ -48458,11 +48468,6 @@
     "id": "ryanmason",
     "name": "Ryan Mason",
     "normalized": "ryan mason"
-  },
-  {
-    "id": "ryanmettz",
-    "name": "Ryan Mettz",
-    "normalized": "ryan mettz"
   },
   {
     "id": "ryanmullins",
@@ -48515,11 +48520,6 @@
     "normalized": "ryan tews"
   },
   {
-    "id": "ryanussher",
-    "name": "Ryan Ussher",
-    "normalized": "ryan ussher"
-  },
-  {
     "id": "bry.tattoo",
     "name": "Ryan Woodrup",
     "normalized": "ryan woodrup"
@@ -48540,14 +48540,14 @@
     "normalized": "ryo niitsuma"
   },
   {
+    "id": "ryuji",
+    "name": "Ryu Ji hyun",
+    "normalized": "ryu ji hyun"
+  },
+  {
     "id": "ryugen",
     "name": "Ryugen",
     "normalized": "ryugen"
-  },
-  {
-    "id": "ryuji",
-    "name": "Ryuji",
-    "normalized": "ryuji"
   },
   {
     "id": "art_tattoo.grenoble",
@@ -48571,7 +48571,7 @@
   },
   {
     "id": "sabha",
-    "name": "Sabha",
+    "name": "sabha",
     "normalized": "sabha"
   },
   {
@@ -48591,12 +48591,12 @@
   },
   {
     "id": "sachamadewithlove",
-    "name": "Sacha Madewithlove",
-    "normalized": "sacha madewithlove"
+    "name": "Sacha",
+    "normalized": "sacha"
   },
   {
     "id": "sadamish",
-    "name": "Sad Amish",
+    "name": "sad amish",
     "normalized": "sad amish"
   },
   {
@@ -48606,8 +48606,8 @@
   },
   {
     "id": "sadhuleserbe",
-    "name": "Sadhu Le Serbe",
-    "normalized": "sadhu le serbe"
+    "name": "sadhuleserbe",
+    "normalized": "sadhuleserbe"
   },
   {
     "id": "saegeem",
@@ -48615,24 +48615,19 @@
     "normalized": "saegeem"
   },
   {
-    "id": "saeleeb",
-    "name": "Saeleeb · Brian",
-    "normalized": "saeleeb · brian"
-  },
-  {
     "id": "saem",
-    "name": "Saem",
-    "normalized": "saem"
+    "name": "Saeko Shitara",
+    "normalized": "saeko shitara"
   },
   {
     "id": "saemkim",
-    "name": "Saem Kim",
-    "normalized": "saem kim"
+    "name": "Saem Kim | DMV Realtor",
+    "normalized": "saem kim | dmv realtor"
   },
   {
     "id": "safwan",
-    "name": "Safwan",
-    "normalized": "safwan"
+    "name": "Safwan Faaza",
+    "normalized": "safwan faaza"
   },
   {
     "id": "sagaanderson",
@@ -48656,8 +48651,8 @@
   },
   {
     "id": "sailorkea",
-    "name": "Sailor Kea · Bruno Kea",
-    "normalized": "sailor kea · bruno kea"
+    "name": "Sailor Kea",
+    "normalized": "sailor kea"
   },
   {
     "id": "sailorraffy",
@@ -49665,6 +49660,11 @@
     "normalized": "seran kim"
   },
   {
+    "id": "rorofrose",
+    "name": "SEREN ESKICIRAK",
+    "normalized": "seren eskicirak"
+  },
+  {
     "id": "serenacaponera",
     "name": "Serena Caponera",
     "normalized": "serena caponera"
@@ -49713,6 +49713,11 @@
     "id": "sergeybuslay",
     "name": "Sergey Buslay",
     "normalized": "sergey buslay"
+  },
+  {
+    "id": "evoktattooer",
+    "name": "Sergey Chernavsky",
+    "normalized": "sergey chernavsky"
   },
   {
     "id": "sergeygas",
@@ -52518,6 +52523,11 @@
     "id": "thornwalker",
     "name": "Thorn Walker",
     "normalized": "thorn walker"
+  },
+  {
+    "id": "evolution_ink_germany",
+    "name": "Thorsten Hahn",
+    "normalized": "thorsten hahn"
   },
   {
     "id": "kodi",
@@ -55920,6 +55930,16 @@
     "normalized": "ольга сергеева"
   },
   {
+    "id": "romankuznetsov",
+    "name": "Роман Кузнецов",
+    "normalized": "роман кузнецов"
+  },
+  {
+    "id": "ruslantsvetnov",
+    "name": "РУСЛАН ЦВЕТНОВ",
+    "normalized": "руслан цветнов"
+  },
+  {
     "id": "annaryapolova",
     "name": "Ряполова Анна",
     "normalized": "ряполова анна"
@@ -56768,6 +56788,11 @@
     "id": "austinxjones",
     "name": "👻✦ 🅐🅤🅢🅣🅘🅝🅧🅙🅞🅝🅔🅢 ✦👻",
     "normalized": "👻✦ 🅐🅤🅢🅣🅘🅝🅧🅙🅞🅝🅔🅢 ✦👻"
+  },
+  {
+    "id": "ruddeluca",
+    "name": "👿",
+    "normalized": "👿"
   },
   {
     "id": "drmortiis",
