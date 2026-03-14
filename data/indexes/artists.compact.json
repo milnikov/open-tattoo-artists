@@ -21072,27 +21072,6 @@
     "updated_at": "2026-03-03"
   },
   {
-    "id": "totemica",
-    "name": "Alice Totemica",
-    "location": {
-      "city": "Brescia",
-      "country": "Italy"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/totemica"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/003.webp"
-    ],
-    "bio": "WORKPLACE Area Industriale Tattoo Brescia",
-    "updated_at": "2026-03-11"
-  },
-  {
     "id": "alicesb",
     "name": "Alice 🎀",
     "location": {
@@ -67719,6 +67698,27 @@
     "thumbs": [],
     "bio": "WORKPLACE Nice Tattoo Parlor Brooklyn\n\nAll we do is think about the secrets we hide",
     "updated_at": "2026-03-13",
+    "follower_count": 1
+  },
+  {
+    "id": "vincentbrun",
+    "name": "Brun",
+    "location": {
+      "city": "Montreal",
+      "country": "Canada"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/vincentbrun"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/002.webp"
+    ],
+    "bio": "Tattoo artist based in Montréal Canada.-Please note I have a manager aswering and booking for me- read more",
+    "updated_at": "2026-03-14",
     "follower_count": 1
   },
   {
@@ -200143,6 +200143,28 @@
     "follower_count": 2226
   },
   {
+    "id": "zanestevens",
+    "name": "motocross12",
+    "location": {
+      "city": "Melbourne",
+      "country": "Unknown"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/zanestevens"
+    },
+    "tattoo_count": 3,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/003.webp"
+    ],
+    "bio": "With over 24 years of experience, Zane is seasoned artist, whom is responsible for founding Royal Ink Tattooing. read more",
+    "updated_at": "2026-03-14",
+    "follower_count": 19
+  },
+  {
     "id": "moufidishak",
     "name": "Moufid Ishark",
     "location": {
@@ -231944,6 +231966,28 @@
     "follower_count": 15262
   },
   {
+    "id": "tonycolon",
+    "name": "T Colon Rosado",
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/tonycolon"
+    },
+    "tattoo_count": 3,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/003.webp"
+    ],
+    "bio": "WORKPLACE Black Mass Tattoo Austin\n\nMirando la vida por el retrovisor... ✌🏼",
+    "updated_at": "2026-03-14",
+    "follower_count": 290
+  },
+  {
     "id": "tassio",
     "name": "T5 ⚡️",
     "location": {
@@ -238261,7 +238305,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonicebolla/thumb/002.webp"
     ],
     "bio": "WORKPLACE Dulce Dolor Tattoo Valencia",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "tonidonaire",
@@ -238338,7 +238382,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toninova/thumb/002.webp"
     ],
     "bio": "WORKPLACE Nova Tinta Tattoo Igualada",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "toniarts",
@@ -238462,27 +238506,6 @@
     "follower_count": 449
   },
   {
-    "id": "tonycolon",
-    "name": "Tony Colón",
-    "location": {
-      "city": "Austin",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/tonycolon"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonycolon/thumb/003.webp"
-    ],
-    "bio": "WORKPLACE Black Mass Tattoo Austin",
-    "updated_at": "2026-03-11"
-  },
-  {
     "id": "tonydannessa",
     "name": "Tony D'Annessa",
     "location": {
@@ -238539,7 +238562,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tonynastro/thumb/002.webp"
     ],
     "bio": "WORKPLACE Maraye Tattoo Sorrento",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14",
+    "follower_count": 237
   },
   {
     "id": "tonynilsson",
@@ -238895,6 +238919,29 @@
     "follower_count": 3254
   },
   {
+    "id": "totemica",
+    "name": "Totemica",
+    "location": {
+      "city": "Brescia",
+      "country": "Italy"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/totemica"
+    },
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/totemica/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Area Industriale Tattoo Brescia\n\nVerona | Italy ⚫️ tattooing\n@buio.omega.tattoo",
+    "updated_at": "2026-03-14",
+    "follower_count": 18819
+  },
+  {
     "id": "toto",
     "name": "TOTO",
     "location": {
@@ -238947,15 +238994,17 @@
     "links": {
       "instagram": "https://instagram.com/toxycxlr"
     },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/001.webp",
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/003.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toxycxlr/thumb/ig_004.webp"
     ],
     "bio": "WORKPLACE Autopsy Tattoo Austin",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14",
+    "follower_count": 96388
   },
   {
     "id": "autopsy.tattoo.studio",
@@ -239227,14 +239276,17 @@
     "links": {
       "instagram": "https://instagram.com/traviscadeau"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/traviscadeau/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Grim City Tattoo Club Hamilton",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE Grim City Tattoo Club Hamilton\n\nNow booking may 2026",
+    "updated_at": "2026-03-14",
+    "follower_count": 44747
   },
   {
     "id": "closedcaskettattoos",
@@ -239587,7 +239639,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troydenning/thumb/002.webp"
     ],
     "bio": "WORKPLACE Invisible NYC Manhattan",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "troyradecki",
@@ -239628,7 +239680,7 @@
   },
   {
     "id": "troytimpel",
-    "name": "Troy Timpel · The Tatooed Kingpin",
+    "name": "Troy Timpel",
     "location": {
       "city": "Philadelphia",
       "country": "United States"
@@ -239637,16 +239689,17 @@
     "links": {
       "instagram": "https://instagram.com/troytimpel"
     },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/001.webp",
+    "tattoo_count": 28,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/troytimpel/thumb/ig_004.webp"
     ],
-    "bio": "TROY TIMPEL · THE TATOOED KINGPIN",
-    "updated_at": "2026-03-11"
+    "bio": "TROY TIMPEL · THE TATOOED KINGPIN\n\nVillainarts.com",
+    "updated_at": "2026-03-14",
+    "follower_count": 8600
   },
   {
     "id": "eltrudix",
@@ -239908,7 +239961,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/twistletrange/thumb/002.webp"
     ],
     "bio": "WORKPLACE Kids Love Ink East London",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "twix",
@@ -240248,7 +240301,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/uffe_berenth_wolfe/thumb/002.webp"
     ],
     "bio": "WORKPLACE Kunsten På Kroppen Copenhagen",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "ufuksimsek",
@@ -240486,8 +240539,9 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/uncleallan/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/uncleallan/thumb/002.webp"
     ],
-    "bio": "WORKPLACE P Conspiracy Inc.",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE P Conspiracy Inc.\n\n267 | 🇼🇸",
+    "updated_at": "2026-03-14",
+    "follower_count": 301
   },
   {
     "id": "uncle_arlo",
@@ -240742,6 +240796,51 @@
     "updated_at": "2026-03-14"
   },
   {
+    "id": "valentinaiacono",
+    "name": "V&F💍",
+    "location": {
+      "city": "Rome",
+      "country": "Italy"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/valentinaiacono"
+    },
+    "tattoo_count": 3,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/003.webp"
+    ],
+    "bio": "WORKPLACE Camdentown Tattoo Studio Rome\n\n📍Napoli 🌋\nSagittario ♐",
+    "updated_at": "2026-03-14",
+    "follower_count": 193
+  },
+  {
+    "id": "vasilysuvorov",
+    "name": "V.Suvorov",
+    "location": {
+      "city": "Yekaterinburg",
+      "country": "Russia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/vasilysuvorov"
+    },
+    "tattoo_count": 4,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/004.webp"
+    ],
+    "bio": "WORKPLACE Tattoo Suvorov Yekaterinburg",
+    "updated_at": "2026-03-14",
+    "follower_count": 0
+  },
+  {
     "id": "vagnerazevedo",
     "name": "vagner azevedo",
     "location": {
@@ -240867,27 +240966,6 @@
     "thumbs": [],
     "bio": "WORKPLACE Novecento Tattoo Studio Grumello del Monte",
     "updated_at": "2026-03-14"
-  },
-  {
-    "id": "valentinaiacono",
-    "name": "Valentina Iacono · Kamomilla Snail",
-    "location": {
-      "city": "Rome",
-      "country": "Italy"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/valentinaiacono"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valentinaiacono/thumb/003.webp"
-    ],
-    "bio": "WORKPLACE Camdentown Tattoo Studio Rome",
-    "updated_at": "2026-03-11"
   },
   {
     "id": "valentinerouz",
@@ -241200,7 +241278,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/valerio_serpetti/thumb/003.webp"
     ],
     "bio": "WORKPLACE Blood Colour Tattoo Studio Rome",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "bumer",
@@ -241440,28 +241518,6 @@
     "bio": "🏳️‍🌈🇬🇷Tkaronto 🍉 \nall skin tones\nBooks closed",
     "updated_at": "2026-03-14",
     "follower_count": 23122
-  },
-  {
-    "id": "vasilysuvorov",
-    "name": "Vasily Suvorov",
-    "location": {
-      "city": "Yekaterinburg",
-      "country": "Russia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/vasilysuvorov"
-    },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vasilysuvorov/thumb/004.webp"
-    ],
-    "bio": "WORKPLACE Tattoo Suvorov Yekaterinburg",
-    "updated_at": "2026-03-11"
   },
   {
     "id": "kativaughn",
@@ -242201,7 +242257,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victorwhitmill/thumb/003.webp"
     ],
     "bio": "WORKPLACE Paradox Studios & Gallery Waynesville",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "victorzanotto",
@@ -242296,7 +242352,7 @@
   },
   {
     "id": "victoriafierro",
-    "name": "Victoria Fierro · Cahualo Ink",
+    "name": "Victoria Fierro",
     "location": {
       "city": "Mexico City",
       "country": "Mexico"
@@ -242313,8 +242369,9 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victoriafierro/thumb/003.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victoriafierro/thumb/004.webp"
     ],
-    "bio": "VICTORIA FIERRO · CAHUALO INK",
-    "updated_at": "2026-03-11"
+    "bio": "VICTORIA FIERRO · CAHUALO INK\n\nNashville, TN",
+    "updated_at": "2026-03-14",
+    "follower_count": 1286
   },
   {
     "id": "_victoriaguimaraes_",
@@ -242641,26 +242698,6 @@
     "follower_count": 17
   },
   {
-    "id": "vincentbrun",
-    "name": "Vincent Brun",
-    "location": {
-      "city": "Montreal",
-      "country": "Canada"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/vincentbrun"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentbrun/thumb/002.webp"
-    ],
-    "bio": "Tattoo artist based in Montréal Canada.-Please note I have a manager aswering and booking for me- read more",
-    "updated_at": "2026-03-11"
-  },
-  {
     "id": "vincentdenis",
     "name": "Vincent Denis",
     "location": {
@@ -242764,7 +242801,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincentzattera/thumb/002.webp"
     ],
     "bio": "WORKPLACE Bloodline Tattoo Castelfranco Véneto",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "cruvinel.tattoo",
@@ -243109,14 +243146,17 @@
     "links": {
       "instagram": "https://instagram.com/virginiaelwood"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/virginiaelwood/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Saved Tattoo Brooklyn",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE Saved Tattoo Brooklyn\n\nTattoo Lifer 🫶 I just love em’, can’t help it, and wouldn’t want to. \n*Now booking in NY & LA*\nBooking —> Co:Create.Ink\n🌞🌈 Link ⤵️ Info 🌈🌞",
+    "updated_at": "2026-03-14",
+    "follower_count": 49931
   },
   {
     "id": "virginiahicks",
@@ -243393,7 +243433,7 @@
   },
   {
     "id": "vivienvamosi",
-    "name": "Vivien Vamosi",
+    "name": "Vivien Vámosi",
     "location": {
       "city": "London",
       "country": "United Kingdom"
@@ -243409,7 +243449,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vivienvamosi/thumb/002.webp"
     ],
     "bio": "Tattoo apprentice at Cross the Line",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14",
+    "follower_count": 0
   },
   {
     "id": "veight.tattoo",
@@ -243758,6 +243799,27 @@
     "follower_count": 47830
   },
   {
+    "id": "washun",
+    "name": "Wa Shun",
+    "location": {
+      "city": "Tokyo",
+      "country": "Japan"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/washun"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/002.webp"
+    ],
+    "bio": "WORKPLACE Last Gate Tattoo Tokyo\n\n群馬出身　94年生\nインドア\n21年01二輪免許取得\nninja250r→z400\n#グルメ好きな人と繋がりたい #バイク好きな人と繋がりたい \n#バイクツーリング　#バイク男子  #バイクのある風景  #遊戯王　 #バイク初心者　 #バイクのある生活 #グルメ #群馬 #観光スポット #観光",
+    "updated_at": "2026-03-14",
+    "follower_count": 98
+  },
+  {
     "id": "wawong",
     "name": "Wa Wong",
     "location": {
@@ -243859,7 +243921,7 @@
   },
   {
     "id": "waldodelrocca",
-    "name": "Waldo del Rocca",
+    "name": "Waldo Binneman",
     "location": {
       "city": "Cape Town",
       "country": "South Africa"
@@ -243868,15 +243930,17 @@
     "links": {
       "instagram": "https://instagram.com/waldodelrocca"
     },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/001.webp",
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/003.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waldodelrocca/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Cape Electric Tattoo Cape Town",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE Cape Electric Tattoo Cape Town\n\nCPT/NYC/SFO/ATX\nOwner / Tattooer\n✣ @capeelectrictattoo\n✣ @sa_tattooconvention\n✣ @african_overland\n☎️ +2721 423 7646\n🌹⛓for bookings link below⛓🌹",
+    "updated_at": "2026-03-14",
+    "follower_count": 7861
   },
   {
     "id": "walterbianco",
@@ -244002,26 +244066,6 @@
     "bio": "WORKPLACE Brasil Tattoo Foz do Iguaçu",
     "updated_at": "2026-03-14",
     "follower_count": 553
-  },
-  {
-    "id": "washun",
-    "name": "Washun",
-    "location": {
-      "city": "Tokyo",
-      "country": "Japan"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/washun"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/washun/thumb/002.webp"
-    ],
-    "bio": "WORKPLACE Last Gate Tattoo Tokyo",
-    "updated_at": "2026-03-11"
   },
   {
     "id": "waterpro_of",
@@ -244171,7 +244215,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wendypham/thumb/002.webp"
     ],
     "bio": "WORKPLACE P Double Happy Tattoo Studio",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14",
+    "follower_count": 12
   },
   {
     "id": "sambarber",
@@ -245013,7 +245058,7 @@
   },
   {
     "id": "wimpas",
-    "name": "Wimpas · Marcos Sosa",
+    "name": "Wim Pas",
     "location": {
       "city": "San Pedro",
       "country": "Belize"
@@ -245031,11 +245076,12 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wimpas/thumb/004.webp"
     ],
     "bio": "WORKPLACE Belizean Ink San Pedro",
-    "updated_at": "2026-03-11"
+    "updated_at": "2026-03-14",
+    "follower_count": 23
   },
   {
     "id": "winabrasil",
-    "name": "Wina Brasil",
+    "name": "WINA",
     "location": {
       "city": "Foz do Iguaçu",
       "country": "Brazil"
@@ -245044,14 +245090,17 @@
     "links": {
       "instagram": "https://instagram.com/winabrasil"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/winabrasil/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Estúdio Wina Foz do Iguaçu",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE Estúdio Wina Foz do Iguaçu\n\n• Especialista em tatuagens exclusivas \n• + de 10.077 tatuagens em 26anos\n• Confira os estilos nos destaques\n• Primeira tatuadora em Foz",
+    "updated_at": "2026-03-14",
+    "follower_count": 12815
   },
   {
     "id": "windleberry",
@@ -245280,26 +245329,8 @@
     "updated_at": "2026-03-12"
   },
   {
-    "id": "monkeybob",
-    "name": "Wonhyung Kwon · Monkey Bob",
-    "location": {
-      "city": "Sydney",
-      "country": "Australia"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/monkeybob"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE The Darling Parlour Tattoo Sydney",
-    "updated_at": "2026-03-14",
-    "follower_count": 3
-  },
-  {
     "id": "wonka",
-    "name": "Wonka · William Peña",
+    "name": "Wong Wonka",
     "location": {
       "city": "Madrid",
       "country": "Spain"
@@ -245316,7 +245347,26 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wonka/thumb/003.webp"
     ],
     "bio": "WORKPLACE HumanFly Tattoo Madrid",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14",
+    "follower_count": 0
+  },
+  {
+    "id": "monkeybob",
+    "name": "Wonhyung Kwon · Monkey Bob",
+    "location": {
+      "city": "Sydney",
+      "country": "Australia"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/monkeybob"
+    },
+    "tattoo_count": 0,
+    "thumb": null,
+    "thumbs": [],
+    "bio": "WORKPLACE The Darling Parlour Tattoo Sydney",
+    "updated_at": "2026-03-14",
+    "follower_count": 3
   },
   {
     "id": "wonseok",
@@ -245682,7 +245732,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/xedlehead/thumb/004.webp"
     ],
     "bio": "Known as the \"Dotfather\", is one of the undisputed masters of blackwork and dotwork tattooing. read more",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "xeve",
@@ -246299,26 +246349,6 @@
     "follower_count": 19173
   },
   {
-    "id": "yeono",
-    "name": "Yeono",
-    "location": {
-      "city": "Los Angeles",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/yeono"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/002.webp"
-    ],
-    "bio": "WORKPLACE 10KF Hollywood Tattoo Studio Los Angeles",
-    "updated_at": "2026-03-12"
-  },
-  {
     "id": "arango_art",
     "name": "YESSE ARANGO - ANIME TATTOO",
     "location": {
@@ -246450,14 +246480,17 @@
     "links": {
       "instagram": "https://instagram.com/yingyoungterk"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yingyoungterk/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Ying Youngterk Tattoo Bangkok",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE Ying Youngterk Tattoo Bangkok\n\nFB: Panistnunt Nimnuan\nFB Page: Ying youngterk tattoo studio\nOrganizer @thailandtattooexpo since 2017-2025  (+66)898819713.               Line: 👇",
+    "updated_at": "2026-03-14",
+    "follower_count": 29512
   },
   {
     "id": "sammyinks",
@@ -246511,8 +246544,9 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ynnopya/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ynnopya/thumb/002.webp"
     ],
-    "bio": "WORKPLACE Isometric Gallery Tattoo Zaragoza",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE Isometric Gallery Tattoo Zaragoza\n\nTattoo Artist• @pilar_azurite",
+    "updated_at": "2026-03-14",
+    "follower_count": 22
   },
   {
     "id": "yobbo",
@@ -246532,7 +246566,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yobbo/thumb/002.webp"
     ],
     "bio": "WORKPLACE The Black Hole Tattoo Hamburg",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14",
+    "follower_count": 8
   },
   {
     "id": "yohannantignac",
@@ -246917,8 +246952,9 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ypso/thumb/001.webp",
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ypso/thumb/002.webp"
     ],
-    "bio": "WORKPLACE Gypsy Garden Tattoo Barcelona",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE Gypsy Garden Tattoo Barcelona\n\nGo with the flow 🌴",
+    "updated_at": "2026-03-14",
+    "follower_count": 177
   },
   {
     "id": "bckstgspb",
@@ -247137,7 +247173,7 @@
   },
   {
     "id": "yutaro",
-    "name": "Yutaro Sakai · Warriorism",
+    "name": "Yutaro",
     "location": {
       "city": "London",
       "country": "United Kingdom"
@@ -247146,16 +247182,17 @@
     "links": {
       "instagram": "https://instagram.com/yutaro"
     },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/001.webp",
+    "tattoo_count": 28,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yutaro/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Red Point Tattoo London",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE Red Point Tattoo London\n\n1992.05.07 \nKanagawa",
+    "updated_at": "2026-03-14",
+    "follower_count": 3574
   },
   {
     "id": "yuuz",
@@ -247361,14 +247398,40 @@
     "links": {
       "instagram": "https://instagram.com/zachdonn"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zachdonn/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE All Sacred Tattoo Studio Edgewater",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE All Sacred Tattoo Studio Edgewater\n\n@allsacredtattoo\nBooks Closed. \nDenver, CO\n@stephhdonn",
+    "updated_at": "2026-03-14",
+    "follower_count": 49583
+  },
+  {
+    "id": "zwowhorn",
+    "name": "Zach Lowhorn",
+    "location": {
+      "city": "New Castle",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/zwowhorn"
+    },
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Underdogs Tattoo Gallery New Castle\n\nFollow @alien_earth_tattoos ! Owner and Artist at Alien Earth Tattoo Studio. 10 N Foote St. Cambridge City IN 47327",
+    "updated_at": "2026-03-14",
+    "follower_count": 2661
   },
   {
     "id": "zachnelligan",
@@ -247481,27 +247544,6 @@
     "updated_at": "2026-03-14"
   },
   {
-    "id": "zwowhorn",
-    "name": "Zachary Wayne Lowhorn",
-    "location": {
-      "city": "New Castle",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/zwowhorn"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zwowhorn/thumb/003.webp"
-    ],
-    "bio": "WORKPLACE Underdogs Tattoo Gallery New Castle",
-    "updated_at": "2026-03-12"
-  },
-  {
     "id": "_zackruben",
     "name": "zack garnica",
     "location": {
@@ -247537,16 +247579,17 @@
     "links": {
       "instagram": "https://instagram.com/zacksinger"
     },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/001.webp",
+    "tattoo_count": 28,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zacksinger/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Perception Fine Body Art Dallas",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE Perception Fine Body Art Dallas\n\n🇨🇦🏳️‍🌈 Producer-videographer, musician, recreational body-builder, outdoorsman, glass blower, soap maker @eastvansoapery, and artist. #blm",
+    "updated_at": "2026-03-14",
+    "follower_count": 2341
   },
   {
     "id": "zacktaylor",
@@ -247652,27 +247695,6 @@
     "updated_at": "2026-03-14"
   },
   {
-    "id": "zanestevens",
-    "name": "Zane Stevens",
-    "location": {
-      "city": "Melbourne",
-      "country": "Unknown"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://instagram.com/zanestevens"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/thumb/003.webp"
-    ],
-    "bio": "With over 24 years of experience, Zane is seasoned artist, whom is responsible for founding Royal Ink Tattooing. read more",
-    "updated_at": "2026-03-12"
-  },
-  {
     "id": "zarasolava",
     "name": "Zara Ilana Solava",
     "location": {
@@ -247690,7 +247712,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zarasolava/thumb/002.webp"
     ],
     "bio": "WORKPLACE Opal Tattoo Studio Los Angeles",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "zayahastra",
@@ -248211,7 +248233,7 @@
   },
   {
     "id": "zlatakolomoyskaya",
-    "name": "Zlata Kolomoyskaya · Goldy Z",
+    "name": "zlata kolomoyskaya",
     "location": {
       "city": "Manhattan",
       "country": "United States"
@@ -248229,7 +248251,8 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zlatakolomoyskaya/thumb/004.webp"
     ],
     "bio": "WORKPLACE P Dot. Creative Group",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14",
+    "follower_count": 7
   },
   {
     "id": "_heartlesstattoos",
@@ -248373,14 +248396,17 @@
     "links": {
       "instagram": "https://instagram.com/zoeytaylor"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zoeytaylor/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE The Warren Tattoo West Hollywood",
-    "updated_at": "2026-03-12"
+    "bio": "WORKPLACE The Warren Tattoo West Hollywood\n\n4653 lankershim blvd, North Hollywood, ca, 91602\n@shoeboxtattoo",
+    "updated_at": "2026-03-14",
+    "follower_count": 20634
   },
   {
     "id": "adorjan_tattoo",
@@ -248511,7 +248537,7 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zsofiabelteczky/thumb/002.webp"
     ],
     "bio": "WORKPLACE The Tattoo Shop Budapest",
-    "updated_at": "2026-03-12"
+    "updated_at": "2026-03-14"
   },
   {
     "id": "zulimatorne",
@@ -254700,6 +254726,27 @@
     "bio": "WORKPLACE P Raff Tattoo Studio",
     "updated_at": "2026-03-10",
     "follower_count": 93
+  },
+  {
+    "id": "yeono",
+    "name": "葉小野",
+    "location": {
+      "city": "Los Angeles",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://instagram.com/yeono"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/thumb/002.webp"
+    ],
+    "bio": "WORKPLACE 10KF Hollywood Tattoo Studio Los Angeles\n\n令人深思的傢伙",
+    "updated_at": "2026-03-14",
+    "follower_count": 53
   },
   {
     "id": "sakim",
