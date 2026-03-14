@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vansouza",
-  "name": "Van Souza",
+  "name": "Vanessa Souza",
   "location": {
     "city": "Rio de Janeiro",
     "country": "Brazil"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Arte na Pele Rio de Janeiro"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Arte na Pele Rio de Janeiro",
+  "instagram_enriched": {
+    "id": "10680546",
+    "follower_count": 1283,
+    "following_count": 2719,
+    "media_count": 29,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vansouza/instagram/profile.jpg"
+  }
 }

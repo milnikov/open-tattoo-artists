@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vanessadong",
-  "name": "Vanessa Dong",
+  "name": "谷雪纯",
   "location": {
     "city": "Vancouver",
     "country": "Canada"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "Vanessa is a tattoo artist based in Vancouver, BC. She specializes in floral/botanical black and grey work. read more VANESSA DONG"
+  "updated_at": "2026-03-14",
+  "bio": "Vanessa is a tattoo artist based in Vancouver, BC. She specializes in floral/botanical black and grey work. read more VANESSA DONG",
+  "instagram_enriched": {
+    "id": "1247193578",
+    "follower_count": 0,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vanessadong/instagram/profile.jpg"
+  }
 }

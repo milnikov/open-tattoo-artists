@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vitalymorozov",
-  "name": "Vitaly Morozov",
+  "name": "vitalymorozov",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "191481908",
+    "follower_count": 180,
+    "following_count": 203,
+    "media_count": 66,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vitalymorozov/instagram/profile.jpg"
+  }
 }

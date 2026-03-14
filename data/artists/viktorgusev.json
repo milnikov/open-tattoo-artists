@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "viktorgusev",
-  "name": "Viktor Gusev",
+  "name": "Виктор Гусев",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tattoo Camp Saint Petersburg"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Tattoo Camp Saint Petersburg",
+  "instagram_enriched": {
+    "id": "331155038",
+    "follower_count": 144,
+    "following_count": 118,
+    "media_count": 130,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/viktorgusev/instagram/profile.jpg"
+  }
 }

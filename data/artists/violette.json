@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "violette",
-  "name": "Violette Lovecat",
+  "name": "Violette",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P L'Encrerie"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P L'Encrerie",
+  "instagram_enriched": {
+    "id": "184142324",
+    "follower_count": 789,
+    "following_count": 1447,
+    "media_count": 375,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/violette/instagram/profile.jpg"
+  }
 }
