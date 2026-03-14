@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zhenja",
-  "name": "Zhenja",
+  "name": "Zhenja Antochin",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -38,5 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-14",
+  "bio": "Listen to my mixtapes 👇🏼",
+  "instagram_enriched": {
+    "id": "2547590",
+    "follower_count": 134,
+    "following_count": 187,
+    "media_count": 58,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zhenja/instagram/profile.jpg"
+  }
 }

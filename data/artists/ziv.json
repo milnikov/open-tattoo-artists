@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ziv",
-  "name": "Ziv",
+  "name": "Ziv Tesng",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-14",
+  "bio": "Don't ask account again.",
+  "instagram_enriched": {
+    "id": "130887",
+    "follower_count": 204,
+    "following_count": 0,
+    "media_count": 17,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ziv/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yusteelias",
-  "name": "Yuste Elias",
+  "name": "Yuste",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Inksignia Tattoo Madrid"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Inksignia Tattoo Madrid",
+  "instagram_enriched": {
+    "id": "510242072",
+    "follower_count": 1,
+    "following_count": 12,
+    "media_count": 14,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yusteelias/instagram/profile.jpg"
+  }
 }
