@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "aliceburke",
-  "name": "Alice Burke",
+  "name": "aliceburke",
   "location": {
     "city": "Neath",
     "country": "United Kingdom"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Stallions And Galleons Tattoo Neath"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Stallions And Galleons Tattoo Neath\n\n🫶🏻",
+  "instagram_enriched": {
+    "id": "22552071",
+    "follower_count": 320,
+    "following_count": 607,
+    "media_count": 50,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/aliceburke/instagram/profile.jpg"
+  }
 }

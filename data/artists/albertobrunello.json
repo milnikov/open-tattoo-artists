@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "albertobrunello",
-  "name": "Alberto Brunello",
+  "name": "Alberto",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -64,6 +64,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Old Habits Tattoo London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Old Habits Tattoo London",
+  "instagram_enriched": {
+    "id": "332142102",
+    "follower_count": 478,
+    "following_count": 565,
+    "media_count": 63,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/albertobrunello/instagram/profile.jpg"
+  }
 }
