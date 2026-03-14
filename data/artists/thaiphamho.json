@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "thaiphamho",
-  "name": "Thai Pham Ho",
+  "name": "thái phạm hồ quyên",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Trash Ink Bomber Berlin"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Trash Ink Bomber Berlin",
+  "instagram_enriched": {
+    "id": "11673180920",
+    "follower_count": 26,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thaiphamho/instagram/profile.jpg"
+  }
 }

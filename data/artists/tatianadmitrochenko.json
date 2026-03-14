@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tatianadmitrochenko",
-  "name": "Tatiana Dmitrochenko",
+  "name": "Татьяна Дмитроченко",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Tania Tattoo Valencia"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Tania Tattoo Valencia",
+  "instagram_enriched": {
+    "id": "3632088186",
+    "follower_count": 25,
+    "following_count": 71,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatianadmitrochenko/instagram/profile.jpg"
+  }
 }

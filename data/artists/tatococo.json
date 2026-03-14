@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tatococo",
-  "name": "Tato Coco · Chris Magnusson",
+  "name": "Oscar",
   "location": {
     "city": "Stockholm",
     "country": "Stockholm County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Deepwood Tattoo Stockholm"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Deepwood Tattoo Stockholm",
+  "instagram_enriched": {
+    "id": "238574193",
+    "follower_count": 9,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatococo/instagram/profile.jpg"
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "exoticpleasurestattoo",
+  "name": "Exotic Pleasures Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/exoticpleasurestattoo",
+    "instagram": "https://www.instagram.com/exoticpleasurestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/exoticpleasurestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/exoticpleasurestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/exoticpleasurestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/exoticpleasurestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Exotic Pleasures Tattoo, nestled in the heart of Glen Burnie, MD, has been mastering the art of illustrative ink for over two decades. Our seasoned team of artists brings a diverse range of styles and experiences to the table, ensuring that each client's vision is transformed into a stunning tattoo masterpiece with a personal touch. Step into our studio and let your skin become the canvas for exquisite designs that tell your unique story.\nPrice: $\nCurrent location:"
+}

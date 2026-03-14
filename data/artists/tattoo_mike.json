@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattoo_mike",
-  "name": "Tattoo Mike",
+  "name": "Chevy Mike",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -38,5 +38,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "176044762",
+    "follower_count": 110,
+    "following_count": 9,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_mike/instagram/profile.jpg"
+  }
 }

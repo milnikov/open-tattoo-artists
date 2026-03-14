@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "thaotran",
-  "name": "Thao Tran",
+  "name": "Thảo",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Seven Tails Tattoo Melbourne"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Seven Tails Tattoo Melbourne\n\nSaigonese in 🇸🇬",
+  "instagram_enriched": {
+    "id": "3238888",
+    "follower_count": 812,
+    "following_count": 917,
+    "media_count": 348,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thaotran/instagram/profile.jpg"
+  }
 }
