@@ -41,8 +41,15 @@ def is_artist_hidden(
     if str(country).strip().lower() not in allowed_countries:
         return True
     bio = artist.get("bio")
-    if bio is None or (isinstance(bio, str) and not bio.strip()):
-        return True
+    bio_ok = bio is not None and isinstance(bio, str) and bool(bio.strip())
+    if not bio_ok:
+        fc = artist.get("follower_count")
+        try:
+            fc = int(fc) if fc is not None else 0
+        except (TypeError, ValueError):
+            fc = 0
+        if not (count > 5 and fc > 1000):
+            return True
     return False
 
 

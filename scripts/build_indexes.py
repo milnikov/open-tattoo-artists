@@ -67,6 +67,10 @@ def build_compact(artists: list[dict]) -> list[dict]:
             entry["bio"] = a["bio"]
         if a.get("updated_at"):
             entry["updated_at"] = a["updated_at"]
+        ie = a.get("instagram_enriched") or {}
+        fc = ie.get("follower_count")
+        if fc is not None and isinstance(fc, (int, float)):
+            entry["follower_count"] = int(fc)
         out.append(entry)
     return sorted(out, key=lambda x: x["name"].lower())
 

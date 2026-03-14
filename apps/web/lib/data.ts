@@ -38,18 +38,22 @@ function isEmptyAbout(bio: string | null | undefined): boolean {
   return typeof bio !== "string" || bio.trim() === "";
 }
 
-/** True if the artist should be hidden: only 1 image, strange country, or empty about. */
+/** True if the artist should be hidden: only 1 image, strange country, or empty about (unless >5 images and >1000 followers). */
 function isArtistHidden(artist: {
   tattoo_count?: number;
   tattoos?: unknown[];
   location: { country: string };
   bio?: string | null;
+  follower_count?: number;
 }): boolean {
   const count =
     artist.tattoo_count ?? (Array.isArray(artist.tattoos) ? artist.tattoos.length : 0);
   if (count <= 1) return true;
   if (isStrangeCountry(artist.location?.country)) return true;
-  if (isEmptyAbout(artist.bio)) return true;
+  if (isEmptyAbout(artist.bio)) {
+    const fc = artist.follower_count ?? 0;
+    if (!(count > 5 && fc > 1000)) return true;
+  }
   return false;
 }
 
@@ -67,6 +71,8 @@ export interface CompactArtist {
   bio?: string | null;
   /** When artist info was last updated (e.g. "2026-03-06"). */
   updated_at?: string;
+  /** Instagram follower count (from instagram_enriched); used to show artists with no bio when >1000. */
+  follower_count?: number;
 }
 
 export interface SearchIndexEntry {
