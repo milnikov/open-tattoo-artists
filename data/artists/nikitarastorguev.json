@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nikitarastorguev",
-  "name": "Nikita Rastorguev",
+  "name": "Nikitarastorguev",
   "location": {
     "city": "Novosibirsk",
     "country": "Russia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE KE Black Tattoo Novosibirsk"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE KE Black Tattoo Novosibirsk",
+  "instagram_enriched": {
+    "id": "1919084861",
+    "follower_count": 2,
+    "following_count": 7,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikitarastorguev/instagram/profile.jpg"
+  }
 }

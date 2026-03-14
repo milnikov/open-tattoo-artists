@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "noelgarcia",
-  "name": "Noel Garcia",
+  "name": "Noel García",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -50,5 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "World's Best Boss ☕️",
+  "instagram_enriched": {
+    "id": "53056",
+    "follower_count": 637,
+    "following_count": 1619,
+    "media_count": 285,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noelgarcia/instagram/profile.jpg"
+  }
 }

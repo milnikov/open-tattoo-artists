@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nicholewithanh",
-  "name": "Nichole With An H",
+  "name": "N",
   "location": {
     "city": "Cape Town",
     "country": "South Africa"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "📸: beer, travel, etc. #springbreakforever #porquenolostodos                                             htown til I drown 🤘🏻🤘🏻🤘🏻",
+  "instagram_enriched": {
+    "id": "19042700",
+    "follower_count": 655,
+    "following_count": 6330,
+    "media_count": 2529,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nicholewithanh/instagram/profile.jpg"
+  }
 }

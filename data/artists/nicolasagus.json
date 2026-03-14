@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nicolasagus",
-  "name": "Nicolas Agus",
+  "name": "Agus Nicolas",
   "location": {
     "city": "Perugia",
     "country": "Province of Perugia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Borà Tattoo Perugia"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Borà Tattoo Perugia",
+  "instagram_enriched": {
+    "id": "1470535755",
+    "follower_count": 15,
+    "following_count": 6,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nicolasagus/instagram/profile.jpg"
+  }
 }

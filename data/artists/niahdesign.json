@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "niahdesign",
-  "name": "Niah",
+  "name": "NA Design Printing",
   "location": {
     "city": "City of Bluffdale",
     "country": "Salt Lake County"
@@ -74,5 +74,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "Melayani cetak undangan, print dokumen dan tugas kuliah.",
+  "instagram_enriched": {
+    "id": "16860979575",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/niahdesign/instagram/profile.jpg"
+  }
 }

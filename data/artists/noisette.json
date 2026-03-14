@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "noisette",
-  "name": "Noisette",
+  "name": "noisette",
   "location": {
     "city": "Toulouse",
     "country": "France"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE La Cour des Miracles Toulouse"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE La Cour des Miracles Toulouse\n\nGirl from Toulouse ☀. 100 % iphone, 100 % addicted !",
+  "instagram_enriched": {
+    "id": "19393953",
+    "follower_count": 213,
+    "following_count": 555,
+    "media_count": 1516,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noisette/instagram/profile.jpg"
+  }
 }
