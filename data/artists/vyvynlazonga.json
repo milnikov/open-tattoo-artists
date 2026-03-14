@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vyvynlazonga",
-  "name": "Vyvyn Lazonga",
+  "name": "vyvyn lazonga",
   "location": {
     "city": "Seattle",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "Pioneer in the modern world of tattooing since 1972. read more"
+  "updated_at": "2026-03-14",
+  "bio": "Pioneer in the modern world of tattooing since 1972. read more",
+  "instagram_enriched": {
+    "id": "541092187",
+    "follower_count": 46,
+    "following_count": 2,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vyvynlazonga/instagram/profile.jpg"
+  }
 }

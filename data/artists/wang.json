@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "wang",
-  "name": "Pang Chi Wang",
+  "name": "Eric Wang",
   "location": {
     "city": "Hong Kong",
     "country": "China"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Fridays Tattoo HK Hong Kong"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Fridays Tattoo HK Hong Kong",
+  "instagram_enriched": {
+    "id": "592952358",
+    "follower_count": 6500,
+    "following_count": 808,
+    "media_count": 45,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wang/instagram/profile.jpg"
+  }
 }

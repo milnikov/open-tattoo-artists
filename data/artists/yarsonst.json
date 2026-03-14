@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yarsonst",
-  "name": "Yarson St",
+  "name": "Yarson,ST",
   "location": {
     "city": "Aberdeen",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Sailor Max Tattoo Parlour Aberdeen"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Sailor Max Tattoo Parlour Aberdeen",
+  "instagram_enriched": {
+    "id": "15038626955",
+    "follower_count": 41,
+    "following_count": 24,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yarsonst/instagram/profile.jpg"
+  }
 }

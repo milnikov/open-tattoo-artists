@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "whatidid",
-  "name": "What I Did",
+  "name": "What I did anonymously",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "Anonymously inbox us with your wild crazy stories 😜",
+  "instagram_enriched": {
+    "id": "55601983435",
+    "follower_count": 4,
+    "following_count": 93,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/whatidid/instagram/profile.jpg"
+  }
 }

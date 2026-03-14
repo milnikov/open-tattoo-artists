@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "xam",
-  "name": "Xam the Spaniard",
+  "name": "Xam",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "For appointments please contact the shop. For custom machines and other queries email me."
+  "updated_at": "2026-03-14",
+  "bio": "For appointments please contact the shop. For custom machines and other queries email me.\n\nGraduado Canivete, Abada Capoeira.",
+  "instagram_enriched": {
+    "id": "37129",
+    "follower_count": 282,
+    "following_count": 553,
+    "media_count": 288,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/xam/instagram/profile.jpg"
+  }
 }

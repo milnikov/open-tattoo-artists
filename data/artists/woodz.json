@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "woodz",
-  "name": "Woodz",
+  "name": "Ian Wood",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Magic Cobra Tattoo Society Brooklyn"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Magic Cobra Tattoo Society Brooklyn\n\nHusband • Dad • Utah\nHomes & loans, now & later\n@ianwoodhomesandloans",
+  "instagram_enriched": {
+    "id": "5431600",
+    "follower_count": 416,
+    "following_count": 644,
+    "media_count": 252,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/woodz/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "willsoares",
-  "name": "Will Soares",
+  "name": "𝑾𝒊𝒍𝒍 𝑺𝒐𝒂𝒓𝒆𝒔",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-14",
+  "bio": "Prepare-se para o pior, espere o melhor e claro, aceite o que vier",
+  "instagram_enriched": {
+    "id": "1969188",
+    "follower_count": 1112,
+    "following_count": 2535,
+    "media_count": 1148,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/willsoares/instagram/profile.jpg"
+  }
 }

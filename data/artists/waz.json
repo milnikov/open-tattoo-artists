@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "waz",
-  "name": "Gerardo Waz",
+  "name": "لوكا𖤍.",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -12,7 +12,52 @@
     "instagram": "https://instagram.com/waz",
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
-  "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Equilattera"
+  "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_003",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/full/ig_003.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/thumb/ig_003.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Equilattera\n\n\"‎ ‏قربك يرد الرُوح وأنت ادرىُ\"\nAljouf,Saudi Arabia🇸🇦.",
+  "instagram_enriched": {
+    "id": "2249511480",
+    "follower_count": 37152,
+    "following_count": 2600,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waz/instagram/profile.jpg"
+  }
 }

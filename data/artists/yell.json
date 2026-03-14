@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yell",
-  "name": "Yell Tattooer",
+  "name": "صادق محمد",
   "location": {
     "city": "Daejeon",
     "country": "South Chungcheong Province"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-14",
+  "bio": "🐆 Started from the bottom \n#TMT",
+  "instagram_enriched": {
+    "id": "1947691740",
+    "follower_count": 15368,
+    "following_count": 846,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yell/instagram/profile.jpg"
+  }
 }

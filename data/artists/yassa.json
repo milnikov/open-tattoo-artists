@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yassa",
-  "name": "Yassa",
+  "name": "Yasufumi Sunouchi",
   "location": {
     "city": "City of Redondo Beach",
     "country": "Los Angeles County COSMETIC TATTOOINGFRECKLES"
@@ -62,5 +62,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-12"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "242030",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yassa/instagram/profile.jpg"
+  }
 }

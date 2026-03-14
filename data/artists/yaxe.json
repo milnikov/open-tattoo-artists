@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yaxe",
-  "name": "Yaxe Ekc",
+  "name": "Yasin Balta",
   "location": {
     "city": "Puebla City",
     "country": "Puebla"
@@ -98,6 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE El Kubo Tattoo Puebla City"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE El Kubo Tattoo Puebla City",
+  "instagram_enriched": {
+    "id": "4140858",
+    "follower_count": 469,
+    "following_count": 908,
+    "media_count": 338,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yaxe/instagram/profile.jpg"
+  }
 }
