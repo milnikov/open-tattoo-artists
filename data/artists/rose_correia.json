@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rose_correia",
-  "name": "Rose Correia",
+  "name": "rose_correia",
   "location": {
     "city": "Piracicaba",
     "country": "Brazil"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "Responsável Comercial PDG vendas! ☎88229942",
+  "instagram_enriched": {
+    "id": "267685972",
+    "follower_count": 26,
+    "following_count": 67,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rose_correia/instagram/profile.jpg"
+  }
 }

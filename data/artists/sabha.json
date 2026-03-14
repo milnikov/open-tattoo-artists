@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sabha",
-  "name": "Sabha",
+  "name": "sabha",
   "location": {
     "city": "Toulouse",
     "country": "France"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE La Cour des Miracles Toulouse"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE La Cour des Miracles Toulouse\n\ns|z|e🫶🍉",
+  "instagram_enriched": {
+    "id": "18938274",
+    "follower_count": 526,
+    "following_count": 1020,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sabha/instagram/profile.jpg"
+  }
 }

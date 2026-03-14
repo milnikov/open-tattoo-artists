@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rubenbarahona",
-  "name": "Ruben Barahona",
+  "name": "Rubén Barahona Valverde",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -26,5 +26,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "5768149638",
+    "follower_count": 247,
+    "following_count": 379,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rubenbarahona/instagram/profile.jpg"
+  }
 }

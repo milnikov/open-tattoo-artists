@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ryangagne",
-  "name": "Ryan Gagné",
+  "name": "Ryan Gagne",
   "location": {
     "city": "Parksville",
     "country": "Canada"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Parksville Tattoo Parksville"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Parksville Tattoo Parksville\n\nLiving life in Tbay",
+  "instagram_enriched": {
+    "id": "1539232239",
+    "follower_count": 175,
+    "following_count": 283,
+    "media_count": 52,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ryangagne/instagram/profile.jpg"
+  }
 }

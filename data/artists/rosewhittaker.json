@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rosewhittaker",
-  "name": "Rose Whittaker",
+  "name": "Rose W",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Haunted Tattoos London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Haunted Tattoos London",
+  "instagram_enriched": {
+    "id": "13372423",
+    "follower_count": 76,
+    "following_count": 115,
+    "media_count": 189,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosewhittaker/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "roxyryder",
-  "name": "Roxy Ryder",
+  "name": "Roxy and Ryder",
   "location": {
     "city": "Wigan",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Alchemy Tattoo Studio Wigan"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Alchemy Tattoo Studio Wigan\n\nTwo puppies who love swimming, playing in the mud, and driving our parents crazy!🐾🐶💗",
+  "instagram_enriched": {
+    "id": "77005739557",
+    "follower_count": 7,
+    "following_count": 6,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roxyryder/instagram/profile.jpg"
+  }
 }

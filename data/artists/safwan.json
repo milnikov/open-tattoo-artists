@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "safwan",
-  "name": "Safwan",
+  "name": "Safwan Faaza",
   "location": {
     "city": "Montreal",
     "country": "Canada"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Imago Tattoo Montreal"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Imago Tattoo Montreal",
+  "instagram_enriched": {
+    "id": "46167111270",
+    "follower_count": 7364,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/safwan/instagram/profile.jpg"
+  }
 }
