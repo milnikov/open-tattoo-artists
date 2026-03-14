@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rafapadilla",
-  "name": "Rafa Padilla",
+  "name": "rafa",
   "location": {
     "city": "Cartagena",
     "country": "Spain"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Captain Tattoo Cartagena"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Captain Tattoo Cartagena",
+  "instagram_enriched": {
+    "id": "4947670",
+    "follower_count": 243,
+    "following_count": 1348,
+    "media_count": 665,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafapadilla/instagram/profile.jpg"
+  }
 }

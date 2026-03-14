@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "raphaellopes",
-  "name": "Raphael Lopes",
+  "name": "raphaellopes",
   "location": {
     "city": "Rio de Janeiro",
     "country": "Brazil"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Metamorphosis Tattoo Rio de Janeiro"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Metamorphosis Tattoo Rio de Janeiro",
+  "instagram_enriched": {
+    "id": "26700803",
+    "follower_count": 422,
+    "following_count": 320,
+    "media_count": 92,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raphaellopes/instagram/profile.jpg"
+  }
 }

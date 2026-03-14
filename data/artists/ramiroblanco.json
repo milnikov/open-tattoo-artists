@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ramiroblanco",
-  "name": "Ramiro Blanco Gamboa",
+  "name": "ramiro blanco",
   "location": {
     "city": "Buenos Aires",
     "country": "Argentina"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE P Homeless Tattoo Club"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Homeless Tattoo Club",
+  "instagram_enriched": {
+    "id": "9701868330",
+    "follower_count": 4,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/instagram/profile.jpg"
+  }
 }

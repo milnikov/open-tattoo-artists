@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "prykas",
-  "name": "Grzegorz Prykas",
+  "name": "Eugeniusz Wyka",
   "location": {
     "city": "Rybnik",
     "country": "Poland"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Prykas Tattoo Studio Rybnik"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Prykas Tattoo Studio Rybnik",
+  "instagram_enriched": {
+    "id": "8395754930",
+    "follower_count": 13,
+    "following_count": 3,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prykas/instagram/profile.jpg"
+  }
 }

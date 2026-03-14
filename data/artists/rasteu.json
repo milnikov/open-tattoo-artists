@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rasteu",
-  "name": "Rasteu",
+  "name": "Raul Rasteu",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE La Mano Zurda Madrid"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE La Mano Zurda Madrid",
+  "instagram_enriched": {
+    "id": "2301311997",
+    "follower_count": 70,
+    "following_count": 129,
+    "media_count": 24,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rasteu/instagram/profile.jpg"
+  }
 }

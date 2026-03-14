@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rafajurado",
-  "name": "Rafa Jurado",
+  "name": "rafa",
   "location": {
     "city": "Ourense",
     "country": "Province of Ourense"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Serie Z Tattoo Ourense"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Serie Z Tattoo Ourense",
+  "instagram_enriched": {
+    "id": "512782064",
+    "follower_count": 103,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafajurado/instagram/profile.jpg"
+  }
 }

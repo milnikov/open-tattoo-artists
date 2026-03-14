@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "quangsta",
-  "name": "Quang Sta",
+  "name": "Quang Duong",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Cabramatta Ink Sydney"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Cabramatta Ink Sydney",
+  "instagram_enriched": {
+    "id": "37371759",
+    "follower_count": 306,
+    "following_count": 1497,
+    "media_count": 83,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/quangsta/instagram/profile.jpg"
+  }
 }

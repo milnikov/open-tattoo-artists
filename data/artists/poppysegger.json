@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "poppysegger",
-  "name": "Poppy Segger",
+  "name": "🍂Sweater Weather🍂",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Femme Fatale Tattoo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Femme Fatale Tattoo",
+  "instagram_enriched": {
+    "id": "1540862570",
+    "follower_count": 12,
+    "following_count": 41,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/poppysegger/instagram/profile.jpg"
+  }
 }
