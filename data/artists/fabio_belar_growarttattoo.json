@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "fabio_belar_growarttattoo",
+  "name": "Fabio Belar",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "floral",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fabio_belar_growarttattoo",
+    "instagram": "https://www.instagram.com/fabio_belar_growarttattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabio_belar_growarttattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabio_belar_growarttattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabio_belar_growarttattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabio_belar_growarttattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Fabio Belar is a highly regarded tattoo artist, particularly known for their expertise in lettering, floral, and minimalist styles. With a keen eye for detail and a steady hand, Fabio's precision is evident in the intricate lines and delicate shadings of their impressive portfolio, making them a sought-after professional for anyone seeking a tattoo in these specific styles.\nPrice: $$\nCurrent location:"
+}
