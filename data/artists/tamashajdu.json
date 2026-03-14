@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tamashajdu",
-  "name": "Tamás Hajdú",
+  "name": "Hajdu Tamas",
   "location": {
     "city": "Szolnok",
     "country": "Jász-Nagykun-Szolnok County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Tony Tattoo Szolnok"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Tony Tattoo Szolnok",
+  "instagram_enriched": {
+    "id": "1512837733",
+    "follower_count": 527,
+    "following_count": 725,
+    "media_count": 103,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tamashajdu/instagram/profile.jpg"
+  }
 }

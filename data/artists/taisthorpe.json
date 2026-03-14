@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "taisthorpe",
-  "name": "Taís Thorpe",
+  "name": "Tom Aisthorpe",
   "location": {
     "city": "Rio de Janeiro",
     "country": "Brazil"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Rio Ink Tattoo Studio Rio de Janeiro"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Rio Ink Tattoo Studio Rio de Janeiro",
+  "instagram_enriched": {
+    "id": "181732714",
+    "follower_count": 7,
+    "following_count": 0,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/taisthorpe/instagram/profile.jpg"
+  }
 }

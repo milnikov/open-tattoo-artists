@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tangmentattoo",
-  "name": "Tangmentattoo",
+  "name": "彫辰",
   "location": {
     "city": "Xiamen",
     "country": "Fujian"
@@ -98,5 +98,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "一针一心",
+  "instagram_enriched": {
+    "id": "27289516756",
+    "follower_count": 126,
+    "following_count": 0,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tangmentattoo/instagram/profile.jpg"
+  }
 }

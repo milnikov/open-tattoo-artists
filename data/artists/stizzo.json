@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "stizzo",
-  "name": "Stizzo",
+  "name": "Stizzo™",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Best Of Times Tattoo Milan"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Best Of Times Tattoo Milan\n\n🐻🌎\nest. 2020\nlimited availability on @grailed",
+  "instagram_enriched": {
+    "id": "2843297779",
+    "follower_count": 696,
+    "following_count": 117,
+    "media_count": 37,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stizzo/instagram/profile.jpg"
+  }
 }
