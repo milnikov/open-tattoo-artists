@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monicapham",
-  "name": "Monica Pham · mo.money.mart",
+  "name": "Monica",
   "location": {
     "city": "Vancouver",
     "country": "Canada"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Studio Artisphere Vancouver"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Studio Artisphere Vancouver\n\nLiterally the real MVP",
+  "instagram_enriched": {
+    "id": "4933887",
+    "follower_count": 746,
+    "following_count": 932,
+    "media_count": 92,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monicapham/instagram/profile.jpg"
+  }
 }

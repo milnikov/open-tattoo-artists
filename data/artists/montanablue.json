@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "montanablue",
-  "name": "Montana Blue",
+  "name": "Montana Blue Cunningham",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "I am a wiggle butt. I love long walks, playing with my toys, and sleeping with my humans. Follow along for the journey.",
+  "instagram_enriched": {
+    "id": "29057596018",
+    "follower_count": 22,
+    "following_count": 10,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/montanablue/instagram/profile.jpg"
+  }
 }

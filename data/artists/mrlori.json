@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrlori",
-  "name": "Mr. Lori",
+  "name": "Alex R",
   "location": {
     "city": "Setúbal",
     "country": "Península de Setúbal"
@@ -86,6 +86,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Mr. LORI Tattoo Setúbal"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Mr. LORI Tattoo Setúbal\n\nWelcome",
+  "instagram_enriched": {
+    "id": "2959035688",
+    "follower_count": 0,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrlori/instagram/profile.jpg"
+  }
 }

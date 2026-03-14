@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nathananderson",
-  "name": "Nathan Anderson",
+  "name": "Nathan Mark Anderson",
   "location": {
     "city": "San Diego",
     "country": "San Diego County"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Bearcat Tattoo San Diego"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Bearcat Tattoo San Diego\n\nI'm the worst, best person you'll ever meet.",
+  "instagram_enriched": {
+    "id": "13230593",
+    "follower_count": 443,
+    "following_count": 334,
+    "media_count": 1098,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nathananderson/instagram/profile.jpg"
+  }
 }

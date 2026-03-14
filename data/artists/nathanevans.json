@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nathanevans",
-  "name": "Nathan Evans",
+  "name": "nathanevans",
   "location": {
     "city": "Tallmadge",
     "country": "Summit County"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Killjoy Tattoo Tallmadge"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Killjoy Tattoo Tallmadge",
+  "instagram_enriched": {
+    "id": "4599108",
+    "follower_count": 189,
+    "following_count": 346,
+    "media_count": 723,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nathanevans/instagram/profile.jpg"
+  }
 }

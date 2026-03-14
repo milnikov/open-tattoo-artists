@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "natashacope",
-  "name": "Natasha Cope",
+  "name": "Natasha",
   "location": {
     "city": "Chesterfield",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE Cave Inc. Tattoo Chesterfield"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Cave Inc. Tattoo Chesterfield",
+  "instagram_enriched": {
+    "id": "277124422",
+    "follower_count": 59,
+    "following_count": 169,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/natashacope/instagram/profile.jpg"
+  }
 }

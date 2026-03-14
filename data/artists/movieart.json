@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "movieart",
-  "name": "Movie Art",
+  "name": "Zach",
   "location": {
     "city": "Seongnam",
     "country": "South Korea"
@@ -38,5 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "bio": "Hi! I like to draw movies /videogames/you tubers /misc \r\n\r\nAmmmm request are welcome !",
+  "instagram_enriched": {
+    "id": "229574686",
+    "follower_count": 3,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/movieart/instagram/profile.jpg"
+  }
 }
