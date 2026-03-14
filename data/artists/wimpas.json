@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "wimpas",
-  "name": "Wimpas · Marcos Sosa",
+  "name": "Wim Pas",
   "location": {
     "city": "San Pedro",
     "country": "Belize"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Belizean Ink San Pedro"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Belizean Ink San Pedro",
+  "instagram_enriched": {
+    "id": "9963283625",
+    "follower_count": 23,
+    "following_count": 63,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wimpas/instagram/profile.jpg"
+  }
 }

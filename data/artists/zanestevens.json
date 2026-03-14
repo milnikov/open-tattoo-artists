@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zanestevens",
-  "name": "Zane Stevens",
+  "name": "motocross12",
   "location": {
     "city": "Melbourne",
     "country": "Unknown"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "With over 24 years of experience, Zane is seasoned artist, whom is responsible for founding Royal Ink Tattooing. read more"
+  "updated_at": "2026-03-14",
+  "bio": "With over 24 years of experience, Zane is seasoned artist, whom is responsible for founding Royal Ink Tattooing. read more",
+  "instagram_enriched": {
+    "id": "647747887",
+    "follower_count": 19,
+    "following_count": 24,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zanestevens/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yeono",
-  "name": "Yeono",
+  "name": "葉小野",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "WORKPLACE 10KF Hollywood Tattoo Studio Los Angeles"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE 10KF Hollywood Tattoo Studio Los Angeles\n\n令人深思的傢伙",
+  "instagram_enriched": {
+    "id": "51035161",
+    "follower_count": 53,
+    "following_count": 26,
+    "media_count": 26,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yeono/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "victoriafierro",
-  "name": "Victoria Fierro · Cahualo Ink",
+  "name": "Victoria Fierro",
   "location": {
     "city": "Mexico City",
     "country": "Mexico"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "VICTORIA FIERRO · CAHUALO INK"
+  "updated_at": "2026-03-14",
+  "bio": "VICTORIA FIERRO · CAHUALO INK\n\nNashville, TN",
+  "instagram_enriched": {
+    "id": "223711402",
+    "follower_count": 1286,
+    "following_count": 613,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victoriafierro/instagram/profile.jpg"
+  }
 }
