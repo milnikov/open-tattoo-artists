@@ -10,6 +10,11 @@
     "normalized": "#carlosmacias"
   },
   {
+    "id": "snot",
+    "name": "$NOT",
+    "normalized": "$not"
+  },
+  {
     "id": "brinditattoo",
     "name": "'Brindi Tattoo'",
     "normalized": "'brindi tattoo'"
@@ -823,6 +828,11 @@
     "id": "sashawoland",
     "name": "𝕾𝖆𝖘𝖍𝖆 𝖂𝖔𝖑𝖆𝖓𝖉",
     "normalized": "Sasha Woland"
+  },
+  {
+    "id": "simonerl",
+    "name": "𝕾𝖎𝖒𝖔𝖓 𝕰𝖗𝖑",
+    "normalized": "Simon Erl"
   },
   {
     "id": "anna.tattoos",
@@ -17540,6 +17550,11 @@
     "normalized": "charlotte harris"
   },
   {
+    "id": "stepemberton",
+    "name": "Charlotte Pemberton",
+    "normalized": "charlotte pemberton"
+  },
+  {
     "id": "charlotte.tattoos",
     "name": "Charlotte Peters",
     "normalized": "charlotte peters"
@@ -21103,6 +21118,11 @@
     "id": "cs7ink",
     "name": "CS7INK",
     "normalized": "cs7ink"
+  },
+  {
+    "id": "exanimotattoo",
+    "name": "Csaba Bányai",
+    "normalized": "csaba bányai"
   },
   {
     "id": "csabakolozsvari",
@@ -25660,6 +25680,11 @@
     "normalized": "dingo tattoo artist"
   },
   {
+    "id": "slowdown",
+    "name": "Dinh Phan",
+    "normalized": "dinh phan"
+  },
+  {
     "id": "dinitattoo_",
     "name": "Dini",
     "normalized": "dini"
@@ -28210,6 +28235,11 @@
     "normalized": "el toro body shop"
   },
   {
+    "id": "el_veso",
+    "name": "El Veso",
+    "normalized": "el veso"
+  },
+  {
     "id": "el_whyner",
     "name": "El Whyner",
     "normalized": "el whyner"
@@ -30710,6 +30740,11 @@
     "normalized": "evgeny kopanov"
   },
   {
+    "id": "ewgeny_parsamyan",
+    "name": "Evgeny Parsamyan",
+    "normalized": "evgeny parsamyan"
+  },
+  {
     "id": "evi.szolnoki",
     "name": "Evi Szolnoki",
     "normalized": "evi szolnoki"
@@ -30783,6 +30818,11 @@
     "id": "ewagamboa.ttt",
     "name": "Ewa Gamboa",
     "normalized": "ewa gamboa"
+  },
+  {
+    "id": "ewowska",
+    "name": "Ewa Linkiewicz",
+    "normalized": "ewa linkiewicz"
   },
   {
     "id": "ewasroka",
@@ -36875,6 +36915,11 @@
     "normalized": "josé gonzález"
   },
   {
+    "id": "spillo",
+    "name": "José María Ferreira",
+    "normalized": "josé maría ferreira"
+  },
+  {
     "id": "joseprieto",
     "name": "José Prieto",
     "normalized": "josé prieto"
@@ -40365,6 +40410,11 @@
     "normalized": "luke kean"
   },
   {
+    "id": "spookos",
+    "name": "Luke Martin",
+    "normalized": "luke martin"
+  },
+  {
     "id": "scourgeart",
     "name": "Luke Mills · Scourgeart",
     "normalized": "luke mills · scourgeart"
@@ -40808,11 +40858,6 @@
     "id": "manuelamedina",
     "name": "Manuela Medina",
     "normalized": "manuela medina"
-  },
-  {
-    "id": "soto",
-    "name": "Manuela Soto Sosa",
-    "normalized": "manuela soto sosa"
   },
   {
     "id": "marescola",
@@ -41908,11 +41953,6 @@
     "id": "matz",
     "name": "Matas L",
     "normalized": "matas l"
-  },
-  {
-    "id": "spendlo",
-    "name": "Matej Martius · Spendlo",
-    "normalized": "matej martius · spendlo"
   },
   {
     "id": "mateuswilsinski",
@@ -43780,6 +43820,11 @@
     "normalized": "mr j best"
   },
   {
+    "id": "smallpaul",
+    "name": "Mr Monkey 🙈 🙉 🙊 Est 1996",
+    "normalized": "mr monkey 🙈 🙉 🙊 est 1996"
+  },
+  {
     "id": "mrtot",
     "name": "Mr TOT",
     "normalized": "mr tot"
@@ -45453,11 +45498,6 @@
     "id": "oskar",
     "name": "OSKAR BREWITZ",
     "normalized": "oskar brewitz"
-  },
-  {
-    "id": "startwithapen",
-    "name": "Oskar · Start With A Pen",
-    "normalized": "oskar · start with a pen"
   },
   {
     "id": "otchinkha",
@@ -47440,6 +47480,11 @@
     "normalized": "ricardo (cardo)"
   },
   {
+    "id": "spyder",
+    "name": "Ricardo - Director",
+    "normalized": "ricardo - director"
+  },
+  {
     "id": "ricardobraga",
     "name": "Ricardo Braga",
     "normalized": "ricardo braga"
@@ -48670,6 +48715,11 @@
     "normalized": "rüştü arslan"
   },
   {
+    "id": "sissou",
+    "name": "s",
+    "normalized": "s"
+  },
+  {
     "id": "sabha",
     "name": "sabha",
     "normalized": "sabha"
@@ -49625,6 +49675,11 @@
     "normalized": "sebastiano perazzetta"
   },
   {
+    "id": "smbousille",
+    "name": "Sebastien mathieu",
+    "normalized": "sebastien mathieu"
+  },
+  {
     "id": "sebamartinez",
     "name": "Sebastián Martínez",
     "normalized": "sebastián martínez"
@@ -50200,11 +50255,6 @@
     "normalized": "simon cooke"
   },
   {
-    "id": "simonerl",
-    "name": "Simon Erl",
-    "normalized": "simon erl"
-  },
-  {
     "id": "castleofpaintattoo",
     "name": "Simon Grill",
     "normalized": "simon grill"
@@ -50218,11 +50268,6 @@
     "id": "doctorinkwell",
     "name": "Simon Hook",
     "normalized": "simon hook"
-  },
-  {
-    "id": "simonmora",
-    "name": "Simon Mora",
-    "normalized": "simon mora"
   },
   {
     "id": "comi_caturist",
@@ -50270,11 +50315,6 @@
     "normalized": "simone klimmeck"
   },
   {
-    "id": "simoneloseto",
-    "name": "Simone Loseto",
-    "normalized": "simone loseto"
-  },
-  {
     "id": "simonemariotti",
     "name": "Simone Mariotti",
     "normalized": "simone mariotti"
@@ -50310,14 +50350,19 @@
     "normalized": "simonetta lara"
   },
   {
+    "id": "simonmora",
+    "name": "Simón Mora",
+    "normalized": "simón mora"
+  },
+  {
     "id": "akkurat_tattoo",
     "name": "Sina Schütz",
     "normalized": "sina schütz"
   },
   {
     "id": "sindybrito",
-    "name": "Sindy Brito",
-    "normalized": "sindy brito"
+    "name": "Sindy Brito / Fine Line / Microrealismo",
+    "normalized": "sindy brito / fine line / microrealismo"
   },
   {
     "id": "siobhansbeard",
@@ -50330,19 +50375,14 @@
     "normalized": "sir twice · david valle"
   },
   {
-    "id": "sissou",
-    "name": "Sissou",
-    "normalized": "sissou"
-  },
-  {
     "id": "sito",
     "name": "Sito",
     "normalized": "sito"
   },
   {
     "id": "sivanski",
-    "name": "Sivanski Shushan",
-    "normalized": "sivanski shushan"
+    "name": "sivanski",
+    "normalized": "sivanski"
   },
   {
     "id": "sixo",
@@ -50405,11 +50445,6 @@
     "normalized": "slava jangle"
   },
   {
-    "id": "slavakononov",
-    "name": "Slava Kononov",
-    "normalized": "slava kononov"
-  },
-  {
     "id": "slavashatovkin",
     "name": "Slava Shatovkin",
     "normalized": "slava shatovkin"
@@ -50423,21 +50458,6 @@
     "id": "slipy",
     "name": "Slipy",
     "normalized": "slipy"
-  },
-  {
-    "id": "slowdown",
-    "name": "Slow Down",
-    "normalized": "slow down"
-  },
-  {
-    "id": "smbousille",
-    "name": "SM Bousille",
-    "normalized": "sm bousille"
-  },
-  {
-    "id": "smallpaul",
-    "name": "Small Paul",
-    "normalized": "small paul"
   },
   {
     "id": "smelwink",
@@ -50455,24 +50475,9 @@
     "normalized": "sneaky mitch"
   },
   {
-    "id": "snot",
-    "name": "Snot",
-    "normalized": "snot"
-  },
-  {
-    "id": "snuffy",
-    "name": "Snuffy",
-    "normalized": "snuffy"
-  },
-  {
     "id": "sojungyeon",
     "name": "So Jung Yeon",
     "normalized": "so jung yeon"
-  },
-  {
-    "id": "sobo",
-    "name": "Sobo",
-    "normalized": "sobo"
   },
   {
     "id": "dear.sxphie",
@@ -50491,8 +50496,13 @@
   },
   {
     "id": "sofiaspiral",
-    "name": "Sofía Spiral",
+    "name": "Sofía Spiral",
     "normalized": "sofía spiral"
+  },
+  {
+    "id": "sophiesoho",
+    "name": "Soho",
+    "normalized": "soho"
   },
   {
     "id": "sojinhan",
@@ -50501,8 +50511,8 @@
   },
   {
     "id": "sol",
-    "name": "Sol",
-    "normalized": "sol"
+    "name": "Sol Khan",
+    "normalized": "sol khan"
   },
   {
     "id": "soltattoo",
@@ -50511,7 +50521,7 @@
   },
   {
     "id": "soleaznar",
-    "name": "Sole Aznar",
+    "name": "sole aznar",
     "normalized": "sole aznar"
   },
   {
@@ -50556,13 +50566,8 @@
   },
   {
     "id": "sopxlee",
-    "name": "Sop Lee",
-    "normalized": "sop lee"
-  },
-  {
-    "id": "sop_tattoo",
-    "name": "Sop Tattoo",
-    "normalized": "sop tattoo"
+    "name": "Sop Lee ・ Fine Line Tattoo & Art",
+    "normalized": "sop lee ・ fine line tattoo & art"
   },
   {
     "id": "sophiabaughan",
@@ -50573,11 +50578,6 @@
     "id": "sophie",
     "name": "Sophie",
     "normalized": "sophie"
-  },
-  {
-    "id": "sophiebee",
-    "name": "Sophie Bee",
-    "normalized": "sophie bee"
   },
   {
     "id": "sophiecandrikapethers",
@@ -50595,14 +50595,14 @@
     "normalized": "sophie jess"
   },
   {
-    "id": "sophielee",
-    "name": "Sophie Lee",
-    "normalized": "sophie lee"
-  },
-  {
     "id": "sophielewis",
     "name": "Sophie Lewis",
     "normalized": "sophie lewis"
+  },
+  {
+    "id": "sophielee",
+    "name": "Sophie Malone",
+    "normalized": "sophie malone"
   },
   {
     "id": "__sophie_sharp_tattoos",
@@ -50610,14 +50610,19 @@
     "normalized": "sophie sharp"
   },
   {
-    "id": "sophiesoho",
-    "name": "Sophie Soho",
-    "normalized": "sophie soho"
+    "id": "sophiebee",
+    "name": "Sophie Sylvia",
+    "normalized": "sophie sylvia"
   },
   {
     "id": "cambodiancupcake",
     "name": "Sophorn Long",
     "normalized": "sophorn long"
+  },
+  {
+    "id": "soto",
+    "name": "SOTO",
+    "normalized": "soto"
   },
   {
     "id": "sou",
@@ -50660,24 +50665,14 @@
     "normalized": "spencer watson"
   },
   {
-    "id": "spillo",
-    "name": "Spillo",
-    "normalized": "spillo"
-  },
-  {
-    "id": "spookos",
-    "name": "Spookos · Julian Does",
-    "normalized": "spookos · julian does"
+    "id": "spendlo",
+    "name": "spendLO",
+    "normalized": "spendlo"
   },
   {
     "id": "spot",
     "name": "Spot",
     "normalized": "spot"
-  },
-  {
-    "id": "spyder",
-    "name": "Spyder · Jethaniel Peterka",
-    "normalized": "spyder · jethaniel peterka"
   },
   {
     "id": "squidyu",
@@ -50690,11 +50685,6 @@
     "normalized": "sr panitattoo"
   },
   {
-    "id": "staceyann",
-    "name": "Stacey Ann",
-    "normalized": "stacey ann"
-  },
-  {
     "id": "artofstaceydickson",
     "name": "Stacey Dickson",
     "normalized": "stacey dickson"
@@ -50705,14 +50695,14 @@
     "normalized": "stacey martin smith"
   },
   {
+    "id": "staceyann",
+    "name": "staceyann",
+    "normalized": "staceyann"
+  },
+  {
     "id": "creature_of_insomnia",
     "name": "Stacy Tvorit",
     "normalized": "stacy tvorit"
-  },
-  {
-    "id": "stanleeray",
-    "name": "Stan Leeray",
-    "normalized": "stan leeray"
   },
   {
     "id": "stanislavgromov",
@@ -50730,19 +50720,19 @@
     "normalized": "stanislava pinchuk"
   },
   {
+    "id": "stanleeray",
+    "name": "STANLEERAY | ART",
+    "normalized": "stanleeray | art"
+  },
+  {
     "id": "stanleystorm",
     "name": "Stanley Storm",
     "normalized": "stanley storm"
   },
   {
-    "id": "stepemberton",
-    "name": "Ste Pemberton",
-    "normalized": "ste pemberton"
-  },
-  {
-    "id": "stefbastian",
-    "name": "Stef Bastiàn",
-    "normalized": "stef bastiàn"
+    "id": "startwithapen",
+    "name": "START WITH A PEN",
+    "normalized": "start with a pen"
   },
   {
     "id": "stefdess",
@@ -50750,14 +50740,14 @@
     "normalized": "stef dess"
   },
   {
-    "id": "stefholl",
-    "name": "Stef Holl",
-    "normalized": "stef holl"
-  },
-  {
     "id": "stefkrief",
     "name": "Stef Krief",
     "normalized": "stef krief"
+  },
+  {
+    "id": "stefholl",
+    "name": "stefan",
+    "normalized": "stefan"
   },
   {
     "id": "stefandinu",
@@ -50781,8 +50771,8 @@
   },
   {
     "id": "stefaniacamelia",
-    "name": "Stefania Camelia",
-    "normalized": "stefania camelia"
+    "name": "Stefania Camelia Vlaicu",
+    "normalized": "stefania camelia vlaicu"
   },
   {
     "id": "stefanoabagnale",
@@ -50825,9 +50815,14 @@
     "normalized": "stefano tognoni"
   },
   {
+    "id": "stefbastian",
+    "name": "Stefbastian",
+    "normalized": "stefbastian"
+  },
+  {
     "id": "steff_ink",
-    "name": "Steff INK IT",
-    "normalized": "steff ink it"
+    "name": "Steff │ clean fineline tattoos │ Augsburg",
+    "normalized": "steff │ clean fineline tattoos │ augsburg"
   },
   {
     "id": "stellaluo",
@@ -50836,8 +50831,8 @@
   },
   {
     "id": "stellarius",
-    "name": "Stella Rius",
-    "normalized": "stella rius"
+    "name": "Stellar",
+    "normalized": "stellar"
   },
   {
     "id": "stepankolodyazhny",
@@ -50853,6 +50848,11 @@
     "id": "stephd",
     "name": "Steph Dé",
     "normalized": "steph dé"
+  },
+  {
+    "id": "stephanietamez",
+    "name": "Steph Tamez",
+    "normalized": "steph tamez"
   },
   {
     "id": "stephwhite",
@@ -50875,19 +50875,9 @@
     "normalized": "stephanie brown"
   },
   {
-    "id": "stephaniehanlon",
-    "name": "Stephanie Hanlon",
-    "normalized": "stephanie hanlon"
-  },
-  {
     "id": "stephaniemelbourne",
     "name": "Stephanie Melbourne",
     "normalized": "stephanie melbourne"
-  },
-  {
-    "id": "stephanietamez",
-    "name": "Stephanie Tamez",
-    "normalized": "stephanie tamez"
   },
   {
     "id": "stephaniewhite",
@@ -50896,8 +50886,8 @@
   },
   {
     "id": "stephanos",
-    "name": "Stephanos",
-    "normalized": "stephanos"
+    "name": "Stephen",
+    "normalized": "stephen"
   },
   {
     "id": "sketchporter",
@@ -50973,6 +50963,11 @@
     "id": "stevelamantia",
     "name": "Steve LaMantia",
     "normalized": "steve lamantia"
+  },
+  {
+    "id": "snuffy",
+    "name": "Steve Lee",
+    "normalized": "steve lee"
   },
   {
     "id": "5himp",
@@ -51453,6 +51448,11 @@
     "id": "slawomirnitschke",
     "name": "Sławomir Nitschke",
     "normalized": "sławomir nitschke"
+  },
+  {
+    "id": "stephaniehanlon",
+    "name": "S͓̽H͓̽",
+    "normalized": "s͓̽h͓̽"
   },
   {
     "id": "sandinho",
@@ -55625,6 +55625,11 @@
     "normalized": "|| missy donaire || tattoo artist - porto"
   },
   {
+    "id": "simoneloseto",
+    "name": "§łmıļæñ",
+    "normalized": "§łmıļæñ"
+  },
+  {
     "id": "raphcemo",
     "name": "®️RAPHCEMO©️",
     "normalized": "®️raphcemo©️"
@@ -55728,6 +55733,11 @@
     "id": "johnbrass",
     "name": "ɪᴠᴀɴ ᴀɴᴅʀᴏꜱᴏᴠ • ᴛᴀᴛᴛᴏᴏ ɴᴊ",
     "normalized": "ɪᴠᴀɴ ᴀɴᴅʀᴏꜱᴏᴠ • ᴛᴀᴛᴛᴏᴏ ɴᴊ"
+  },
+  {
+    "id": "sobo",
+    "name": "ʀʜʏᴛʜᴍ",
+    "normalized": "ʀʜʏᴛʜᴍ"
   },
   {
     "id": "ezequielromankiu",
@@ -55968,6 +55978,11 @@
     "id": "lem.serghei",
     "name": "Сережа Лемиш",
     "normalized": "сережа лемиш"
+  },
+  {
+    "id": "slavakononov",
+    "name": "слава кононов",
+    "normalized": "слава кононов"
   },
   {
     "id": "amos_tattooer",
@@ -56628,6 +56643,11 @@
     "id": "brownpeanut",
     "name": "브라운 피넛",
     "normalized": "브라운 피넛"
+  },
+  {
+    "id": "sop_tattoo",
+    "name": "솝타투 Sop tattoo • 미니타투,라인타투,얇은타투,finelinetattoo",
+    "normalized": "솝타투 sop tattoo • 미니타투,라인타투,얇은타투,finelinetattoo"
   },
   {
     "id": "shinseongtak",
