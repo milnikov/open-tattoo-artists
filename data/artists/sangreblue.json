@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sangreblue",
-  "name": "Sangre Blue",
+  "name": "Hector Vazquez",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Antonio, Sangre Blue, is a self-taught artist. read more"
+  "updated_at": "2026-03-14",
+  "bio": "Antonio, Sangre Blue, is a self-taught artist. read more",
+  "instagram_enriched": {
+    "id": "391321016",
+    "follower_count": 0,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sangreblue/instagram/profile.jpg"
+  }
 }

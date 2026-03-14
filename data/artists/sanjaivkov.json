@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sanjaivkov",
-  "name": "Sanja Vernački",
+  "name": "Sanja Radanović",
   "location": {
     "city": "Novi Sad",
     "country": "Vojvodina"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Mysterarium Tattoo Novi Sad"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Mysterarium Tattoo Novi Sad",
+  "instagram_enriched": {
+    "id": "3491986521",
+    "follower_count": 840,
+    "following_count": 2140,
+    "media_count": 99,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sanjaivkov/instagram/profile.jpg"
+  }
 }

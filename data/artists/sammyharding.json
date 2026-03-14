@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sammyharding",
-  "name": "Sammy Harding",
+  "name": "Sam Harding",
   "location": {
     "city": "Exeter",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Songbird Tattoo Studio Exeter"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Songbird Tattoo Studio Exeter",
+  "instagram_enriched": {
+    "id": "5566292",
+    "follower_count": 10,
+    "following_count": 16,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sammyharding/instagram/profile.jpg"
+  }
 }

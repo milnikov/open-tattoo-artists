@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "salaman",
-  "name": "Salaman",
+  "name": "salu ny",
   "location": {
     "city": "Poznań",
     "country": "Greater Poland Voivodeship"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Salaman Dotwork Rituals Poznań"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Salaman Dotwork Rituals Poznań",
+  "instagram_enriched": {
+    "id": "31584976265",
+    "follower_count": 318,
+    "following_count": 16,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/salaman/instagram/profile.jpg"
+  }
 }

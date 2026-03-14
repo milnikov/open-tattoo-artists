@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sakim",
-  "name": "Sakim",
+  "name": "蔡先",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-14",
+  "bio": "🥤奶茶控\n🖋文具控\n🔅喜歡畫畫🔅",
+  "instagram_enriched": {
+    "id": "1403173592",
+    "follower_count": 616,
+    "following_count": 201,
+    "media_count": 36,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sakim/instagram/profile.jpg"
+  }
 }

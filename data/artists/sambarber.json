@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sambarber",
-  "name": "Sam Barber",
+  "name": "Wesam Khano",
   "location": {
     "city": "Manchester",
     "country": "United Kingdom"
@@ -122,5 +122,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "@blurryfadestoronto Book now!!",
+  "instagram_enriched": {
+    "id": "1507847872",
+    "follower_count": 908,
+    "following_count": 379,
+    "media_count": 8,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sambarber/instagram/profile.jpg"
+  }
 }

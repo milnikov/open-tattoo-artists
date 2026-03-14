@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sarahlo",
-  "name": "Sarah Lo",
+  "name": "sarah",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Inked Miami Miami"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Inked Miami Miami",
+  "instagram_enriched": {
+    "id": "649959326",
+    "follower_count": 144,
+    "following_count": 62,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarahlo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "savasdogan",
-  "name": "Savaş Doğan · Inktotalart",
+  "name": "savasdogan",
   "location": {
     "city": "Istanbul",
     "country": "Turkey"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Matkap Tattoo Istanbul"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Matkap Tattoo Istanbul",
+  "instagram_enriched": {
+    "id": "204861683",
+    "follower_count": 105,
+    "following_count": 115,
+    "media_count": 33,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/savasdogan/instagram/profile.jpg"
+  }
 }
