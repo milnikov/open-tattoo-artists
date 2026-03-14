@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maryguijarro",
-  "name": "Mary Guijarro",
+  "name": "Mary L Guijarro",
   "location": {
     "city": "Bilbao",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Bilbotattoo Bilbao"
+  "bio": "WORKPLACE Bilbotattoo Bilbao",
+  "instagram_enriched": {
+    "id": "60660237004",
+    "follower_count": 0,
+    "following_count": 1,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maryguijarro/instagram/profile.jpg"
+  }
 }

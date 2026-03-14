@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "masonpreece",
-  "name": "Mason Preece",
+  "name": "Mason Reid Preece",
   "location": {
     "city": "Shipley",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE The Drop Of Ink Shipley"
+  "updated_at": "2026-03-13",
+  "bio": "WORKPLACE The Drop Of Ink Shipley\n\nLooks fine to me",
+  "instagram_enriched": {
+    "id": "41209682",
+    "follower_count": 260,
+    "following_count": 345,
+    "media_count": 30,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/masonpreece/instagram/profile.jpg"
+  }
 }

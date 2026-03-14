@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "markbester",
-  "name": "Mark Bester",
+  "name": "markbester",
   "location": {
     "city": "Stockton-on-Tees",
     "country": "United Kingdom"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Marked for Life Tattoo Studio Stockton-on-Tees"
+  "bio": "WORKPLACE Marked for Life Tattoo Studio Stockton-on-Tees",
+  "instagram_enriched": {
+    "id": "241500153",
+    "follower_count": 1,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markbester/instagram/profile.jpg"
+  }
 }

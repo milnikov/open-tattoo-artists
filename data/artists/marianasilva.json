@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marianasilva",
-  "name": "Mariana Silva",
+  "name": "Mariana da Silva",
   "location": {
     "city": "São Paulo",
     "country": "Brazil"
@@ -13,5 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-13",
+  "bio": "bdmv 💫\n📍🇲🇾",
+  "instagram_enriched": {
+    "id": "7345368",
+    "follower_count": 1919,
+    "following_count": 1306,
+    "media_count": 75,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marianasilva/instagram/profile.jpg"
+  }
 }

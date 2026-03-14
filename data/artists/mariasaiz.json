@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariasaiz",
-  "name": "Maria Saiz",
+  "name": "* m a r Í a    s á i z *",
   "location": {
     "city": "Seville",
     "country": "Spain"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Tatuadora/propietaria en MAMBO TATTOO"
+  "bio": "Tatuadora/propietaria en MAMBO TATTOO",
+  "instagram_enriched": {
+    "id": "3120994",
+    "follower_count": 213,
+    "following_count": 1249,
+    "media_count": 677,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariasaiz/instagram/profile.jpg"
+  }
 }

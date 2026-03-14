@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marutattoo",
-  "name": "Maru Tattoo",
+  "name": "Erik Manco",
   "location": {
     "city": "Osaka",
     "country": "Osaka Prefecture"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P No Line No Gain"
+  "bio": "WORKPLACE P No Line No Gain",
+  "instagram_enriched": {
+    "id": "3322468203",
+    "follower_count": 498,
+    "following_count": 1447,
+    "media_count": 391,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marutattoo/instagram/profile.jpg"
+  }
 }

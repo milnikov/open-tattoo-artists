@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariette",
-  "name": "Mariette",
+  "name": "Mariette Pettersson",
   "location": {
     "city": "Nantes",
     "country": "Arrondissement de Nantes EMBROIDERYCROSS STITCH"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Turbo Zero Nantes"
+  "bio": "WORKPLACE Turbo Zero Nantes",
+  "instagram_enriched": {
+    "id": "234979463",
+    "follower_count": 254,
+    "following_count": 448,
+    "media_count": 260,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariette/instagram/profile.jpg"
+  }
 }

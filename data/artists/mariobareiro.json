@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariobareiro",
-  "name": "Mario Bareiro",
+  "name": "mario bareiro",
   "location": {
     "city": "Tristán Suárez",
     "country": "Argentina"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Oveja Negra Tattoo Tristán Suárez"
+  "bio": "WORKPLACE Oveja Negra Tattoo Tristán Suárez",
+  "instagram_enriched": {
+    "id": "398344286",
+    "follower_count": 37,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariobareiro/instagram/profile.jpg"
+  }
 }

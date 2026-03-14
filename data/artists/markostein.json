@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "markostein",
-  "name": "Mark Ostein",
+  "name": "Markostein Amaral",
   "location": {
     "city": "Lisboa",
     "country": "Portugal"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Pure Luxury Tattoo"
+  "bio": "WORKPLACE P Pure Luxury Tattoo\n\nFind me out...",
+  "instagram_enriched": {
+    "id": "798887734",
+    "follower_count": 724,
+    "following_count": 973,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markostein/instagram/profile.jpg"
+  }
 }

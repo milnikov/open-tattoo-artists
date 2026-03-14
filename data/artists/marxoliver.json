@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marxoliver",
-  "name": "Marx Oliver",
+  "name": "Oliver Marx",
   "location": {
     "city": "Sámara",
     "country": "Guanacaste Province"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Nirvana Tattoo Playa Sámara Sámara"
+  "bio": "WORKPLACE Nirvana Tattoo Playa Sámara Sámara",
+  "instagram_enriched": {
+    "id": "1354555168",
+    "follower_count": 53,
+    "following_count": 107,
+    "media_count": 13,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marxoliver/instagram/profile.jpg"
+  }
 }

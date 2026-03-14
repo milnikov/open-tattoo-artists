@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "martinaekenberg",
-  "name": "Martina Ekenberg",
+  "name": "Martina Wenner Ekenberg",
   "location": {
     "city": "Gävle",
     "country": "Gävleborg County"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Pretty Electric Tattoo Gävle"
+  "bio": "WORKPLACE Pretty Electric Tattoo Gävle",
+  "instagram_enriched": {
+    "id": "221892626",
+    "follower_count": 167,
+    "following_count": 810,
+    "media_count": 260,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinaekenberg/instagram/profile.jpg"
+  }
 }

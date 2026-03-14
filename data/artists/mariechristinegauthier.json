@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariechristinegauthier",
-  "name": "Marie-Christine Gauthier",
+  "name": "Marie-christine Gauthier",
   "location": {
     "city": "Montreal",
     "country": "Canada"
@@ -14,5 +14,13 @@
   },
   "tattoos": [],
   "updated_at": "2026-03-13",
-  "bio": "Vegan Feminist Montreal Tattoo artist. Crazy cat lady. Pour rendez-vous ou information écrivez nous sur Facebook."
+  "bio": "Vegan Feminist Montreal Tattoo artist. Crazy cat lady. Pour rendez-vous ou information écrivez nous sur Facebook.",
+  "instagram_enriched": {
+    "id": "2223479457",
+    "follower_count": 32,
+    "following_count": 56,
+    "media_count": 13,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariechristinegauthier/instagram/profile.jpg"
+  }
 }
