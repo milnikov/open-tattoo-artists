@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ewers_tattoos",
+  "name": "Josh Ewers",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ewers_tattoos",
+    "instagram": "https://www.instagram.com/ewers_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ewers_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ewers_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ewers_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ewers_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Josh Ewers, a dedicated tattoo artist based in the UK Midlands, specializes in the intricate 'dotwork' tattoo style. Known for his remarkable artistry, Josh extends a warm welcome to both flash and custom styles. He operates out of @thewillowrosetattoo, maintaining the utmost professionalism and cleanliness always.\nPrice: $$\nCurrent location:"
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "simoncooke",
-  "name": "Simon Cooke · Cookie",
+  "name": "Simon Cooke",
   "location": {
     "city": "Newcastle-under-Lyme",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE The Ink Spot Newcastle-under-Lyme"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE The Ink Spot Newcastle-under-Lyme",
+  "instagram_enriched": {
+    "id": "30790425",
+    "follower_count": 234,
+    "following_count": 549,
+    "media_count": 62,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/simoncooke/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "silviapretto",
-  "name": "Silvia Pretto",
+  "name": "Silvia",
   "location": {
     "city": "Forlì",
     "country": "Province of Forlì-Cesena"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Princess Tattoo Forlì"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Princess Tattoo Forlì",
+  "instagram_enriched": {
+    "id": "3752012304",
+    "follower_count": 251,
+    "following_count": 274,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/silviapretto/instagram/profile.jpg"
+  }
 }

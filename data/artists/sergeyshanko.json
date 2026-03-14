@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sergeyshanko",
-  "name": "Sergey Shanko",
+  "name": "sergey shanko",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -38,5 +38,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "4575311890",
+    "follower_count": 75,
+    "following_count": 10,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sergeyshanko/instagram/profile.jpg"
+  }
 }
