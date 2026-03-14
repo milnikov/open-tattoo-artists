@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikesteve",
-  "name": "Mike Steve",
+  "name": "Samson Chu",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE American Electric Tattoo Company Los Angeles"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE American Electric Tattoo Company Los Angeles",
+  "instagram_enriched": {
+    "id": "16322417",
+    "follower_count": 4,
+    "following_count": 7,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikesteve/instagram/profile.jpg"
+  }
 }

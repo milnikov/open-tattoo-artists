@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "philtworavens",
-  "name": "Phil Tworavens · lustandconsume",
+  "name": "Phil",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "PHIL TWORAVENS · LUSTANDCONSUME"
+  "updated_at": "2026-03-14",
+  "bio": "PHIL TWORAVENS · LUSTANDCONSUME\n\nOther stuff",
+  "instagram_enriched": {
+    "id": "60278546126",
+    "follower_count": 3,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/philtworavens/instagram/profile.jpg"
+  }
 }

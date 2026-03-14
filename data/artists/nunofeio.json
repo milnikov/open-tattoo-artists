@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nunofeio",
-  "name": "Nuno Feio",
+  "name": "Nuno",
   "location": {
     "city": "Lisboa",
     "country": "Portugal"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Graveyart Tattoo Studio Lisboa"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Graveyart Tattoo Studio Lisboa",
+  "instagram_enriched": {
+    "id": "47913957297",
+    "follower_count": 1,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nunofeio/instagram/profile.jpg"
+  }
 }

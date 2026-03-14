@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "opieortiz",
-  "name": "Opie Gibran Ortiz",
+  "name": "Ophelia Ortiz",
   "location": {
     "city": "Seal Beach",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Still Life Tattoo Seal Beach"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Still Life Tattoo Seal Beach\n\nMs boss",
+  "instagram_enriched": {
+    "id": "328266352",
+    "follower_count": 32,
+    "following_count": 44,
+    "media_count": 13,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/opieortiz/instagram/profile.jpg"
+  }
 }
