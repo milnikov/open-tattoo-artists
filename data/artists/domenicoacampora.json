@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "domenicoacampora",
-  "name": "Domenico Acampora · Mr. Pencil",
+  "name": "Domenico Acampora",
   "location": {
     "city": "Naples",
     "country": "Italy"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE WildInk Tattoo Crew Naples"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE WildInk Tattoo Crew Naples",
+  "instagram_enriched": {
+    "id": "2249830574",
+    "follower_count": 116,
+    "following_count": 306,
+    "media_count": 193,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domenicoacampora/instagram/profile.jpg"
+  }
 }

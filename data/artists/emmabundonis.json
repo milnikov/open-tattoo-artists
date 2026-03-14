@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "emmabundonis",
-  "name": "Emma Bundonis",
+  "name": "Emma ☊ Bundonis",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Through My Third Eye London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Through My Third Eye London",
+  "instagram_enriched": {
+    "id": "7507638963",
+    "follower_count": 15,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emmabundonis/instagram/profile.jpg"
+  }
 }

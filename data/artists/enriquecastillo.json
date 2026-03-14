@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "enriquecastillo",
-  "name": "Enrique Castillo",
+  "name": "Enrique castillo",
   "location": {
     "city": "Elche",
     "country": "Spain"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Estudiante de diseño gráfico en EASDA. Ningún mar en calma hizo experto a un marinero ENRIQUE CASTILLO"
+  "updated_at": "2026-03-14",
+  "bio": "Estudiante de diseño gráfico en EASDA. Ningún mar en calma hizo experto a un marinero ENRIQUE CASTILLO",
+  "instagram_enriched": {
+    "id": "66833330851",
+    "follower_count": 67,
+    "following_count": 631,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enriquecastillo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "emilyreid",
-  "name": "Emily Reid",
+  "name": "Emily Boyce",
   "location": {
     "city": "Milton",
     "country": "Australia"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Blanc Space Tattoo Studio Milton"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Blanc Space Tattoo Studio Milton",
+  "instagram_enriched": {
+    "id": "9609082",
+    "follower_count": 1020,
+    "following_count": 1192,
+    "media_count": 76,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/emilyreid/instagram/profile.jpg"
+  }
 }

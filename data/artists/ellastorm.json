@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ellastorm",
-  "name": "Ella Storm",
+  "name": "Ella Cudmore",
   "location": {
     "city": "London",
     "country": "Unknown"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE South City Market London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE South City Market London\n\nBris 🎀🤸🏽‍♀️⛵️🎿🧗‍♀️👷🏻‍♀️",
+  "instagram_enriched": {
+    "id": "290742999",
+    "follower_count": 767,
+    "following_count": 504,
+    "media_count": 252,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ellastorm/instagram/profile.jpg"
+  }
 }

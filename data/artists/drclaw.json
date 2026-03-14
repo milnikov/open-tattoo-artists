@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "drclaw",
-  "name": "Dr. Claw",
+  "name": "Reid Traylor",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Diamond Club Tattoo San Francisco"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Diamond Club Tattoo San Francisco\n\nForklift certified, Porsche Driver Coach",
+  "instagram_enriched": {
+    "id": "32507559",
+    "follower_count": 619,
+    "following_count": 528,
+    "media_count": 793,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drclaw/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "duncanx",
-  "name": "Duncan X",
+  "name": "duncanx",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Working every first week of the month on Sang Bleu from November 2016"
+  "updated_at": "2026-03-14",
+  "bio": "Working every first week of the month on Sang Bleu from November 2016\n\nSnapchat - xduncan",
+  "instagram_enriched": {
+    "id": "9205280",
+    "follower_count": 1086,
+    "following_count": 711,
+    "media_count": 1556,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/duncanx/instagram/profile.jpg"
+  }
 }

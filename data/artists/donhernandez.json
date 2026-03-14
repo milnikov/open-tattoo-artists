@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "donhernandez",
-  "name": "Don Hernandez",
+  "name": "Don Chano Hernandez",
   "location": {
     "city": "Mesa",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Visually Speaking Tattoo Mesa"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Visually Speaking Tattoo Mesa",
+  "instagram_enriched": {
+    "id": "49871871",
+    "follower_count": 40,
+    "following_count": 5,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/donhernandez/instagram/profile.jpg"
+  }
 }

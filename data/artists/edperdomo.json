@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "edperdomo",
-  "name": "Ed Perdomo",
+  "name": "Eduardo Perdomo",
   "location": {
     "city": "Winnipeg",
     "country": "Canada"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Kapala Tattoo Inc. Winnipeg"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Kapala Tattoo Inc. Winnipeg",
+  "instagram_enriched": {
+    "id": "175317316",
+    "follower_count": 529,
+    "following_count": 83,
+    "media_count": 58,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edperdomo/instagram/profile.jpg"
+  }
 }
