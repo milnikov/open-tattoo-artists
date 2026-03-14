@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "georgebone",
-  "name": "George Bone",
+  "name": "Jamie Hodge",
   "location": {
     "city": "Ealing",
     "country": "United Kingdom"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE George Bone Tattoos Ealing"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE George Bone Tattoos Ealing",
+  "instagram_enriched": {
+    "id": "238766017",
+    "follower_count": 30,
+    "following_count": 8,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/georgebone/instagram/profile.jpg"
+  }
 }

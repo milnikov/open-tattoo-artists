@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "francismerlyn",
-  "name": "Francis Merlyn Doody",
+  "name": "Merlyn Francis",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Hand drawn and hand made tattoos using just a needle, a chopstick and ink. read more"
+  "updated_at": "2026-03-14",
+  "bio": "Hand drawn and hand made tattoos using just a needle, a chopstick and ink. read more",
+  "instagram_enriched": {
+    "id": "4706803483",
+    "follower_count": 203,
+    "following_count": 136,
+    "media_count": 38,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francismerlyn/instagram/profile.jpg"
+  }
 }

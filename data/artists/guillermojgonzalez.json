@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "guillermojgonzalez",
-  "name": "Guillermo J Gonzalez",
+  "name": "Guillermoj Gonzalez",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Generation 8 Tattoo Tue, Thur, Fri & Sun · Flying Daggers Tattoo parlor . Pomona (909)545-9840 wed. & sat."
+  "updated_at": "2026-03-14",
+  "bio": "Generation 8 Tattoo Tue, Thur, Fri & Sun · Flying Daggers Tattoo parlor . Pomona (909)545-9840 wed. & sat.",
+  "instagram_enriched": {
+    "id": "4285565066",
+    "follower_count": 22,
+    "following_count": 27,
+    "media_count": 17,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guillermojgonzalez/instagram/profile.jpg"
+  }
 }

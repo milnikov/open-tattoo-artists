@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gabrielecardosi",
-  "name": "Gabriele Cardosi · Slogart",
+  "name": "Gabriele Cardosi",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE The Circle London London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE The Circle London London",
+  "instagram_enriched": {
+    "id": "6291492354",
+    "follower_count": 445,
+    "following_count": 623,
+    "media_count": 29,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gabrielecardosi/instagram/profile.jpg"
+  }
 }

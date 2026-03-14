@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horikiku",
-  "name": "Horikiku",
+  "name": "Hori Kiku",
   "location": {
     "city": "Yokohama",
     "country": "Japan"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Horikiku Tattoo Art Yokohama"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Horikiku Tattoo Art Yokohama\n\n✼ 独身 | 25\n✼ 私は狂った女の子です 👙\n✼ あなたが私を探しているなら、ここで私に連絡してください！すべてプライベート ⬇⬇",
+  "instagram_enriched": {
+    "id": "51388763477",
+    "follower_count": 44,
+    "following_count": 64,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horikiku/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gentlejay",
-  "name": "Gentle Jay",
+  "name": "GentleJay Dans",
   "location": {
     "city": "Brooklyn",
     "country": "Unknown"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Best Kept Secret Tattoos Brooklyn"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Best Kept Secret Tattoos Brooklyn",
+  "instagram_enriched": {
+    "id": "17690995",
+    "follower_count": 128,
+    "following_count": 21,
+    "media_count": 46,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gentlejay/instagram/profile.jpg"
+  }
 }
