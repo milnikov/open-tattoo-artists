@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "remifrances",
-  "name": "Remi Francès",
+  "name": "Remi Frances",
   "location": {
     "city": "Épinal",
     "country": "France"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Clockwork Needle Épinal"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Clockwork Needle Épinal",
+  "instagram_enriched": {
+    "id": "8194332800",
+    "follower_count": 6,
+    "following_count": 32,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/instagram/profile.jpg"
+  }
 }

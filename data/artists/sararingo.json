@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sararingo",
-  "name": "Sara Ringo · Sara Botteghi",
+  "name": "Sara Ringo",
   "location": {
     "city": "San Lazzaro di Savena",
     "country": "Italy"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Tattoo Artist since 2005. SARA RINGO · SARA BOTTEGHI"
+  "updated_at": "2026-03-14",
+  "bio": "Tattoo Artist since 2005. SARA RINGO · SARA BOTTEGHI",
+  "instagram_enriched": {
+    "id": "8322225398",
+    "follower_count": 17,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sararingo/instagram/profile.jpg"
+  }
 }

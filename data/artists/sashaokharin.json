@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sashaokharin",
-  "name": "Aleksandr O'kharin · Sasha O'kharin",
+  "name": "Sasha Okharin",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Tattoo artist, since 2012"
+  "updated_at": "2026-03-14",
+  "bio": "Tattoo artist, since 2012\n\nEat pray love",
+  "instagram_enriched": {
+    "id": "958777250",
+    "follower_count": 963,
+    "following_count": 1375,
+    "media_count": 23,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sashaokharin/instagram/profile.jpg"
+  }
 }

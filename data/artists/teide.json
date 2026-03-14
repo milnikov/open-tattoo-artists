@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "teide",
-  "name": "Mario Teide",
+  "name": "teide",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Red Point Tattoo London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Red Point Tattoo London",
+  "instagram_enriched": {
+    "id": "1124760805",
+    "follower_count": 272,
+    "following_count": 734,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/teide/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tapz",
-  "name": "Tapz",
+  "name": "Tapz Pantoja",
   "location": {
     "city": "Hong Kong",
     "country": "China"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE MoFo Tattoo Hong Kong"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE MoFo Tattoo Hong Kong",
+  "instagram_enriched": {
+    "id": "4327422",
+    "follower_count": 706,
+    "following_count": 1362,
+    "media_count": 1700,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tapz/instagram/profile.jpg"
+  }
 }

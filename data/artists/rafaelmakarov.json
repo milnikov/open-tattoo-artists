@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rafaelmakarov",
-  "name": "Rafael Makarov · Dzikson Wildstyle",
+  "name": "Рафаэль Макаров",
   "location": {
     "city": "Kraków",
     "country": "Poland"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Rafael Makarov a.k.a. \"Dzikson Wildstyle\" is a talented Polish artist who combines several techniques and styles within a single tattoo."
+  "updated_at": "2026-03-14",
+  "bio": "Rafael Makarov a.k.a. \"Dzikson Wildstyle\" is a talented Polish artist who combines several techniques and styles within a single tattoo.",
+  "instagram_enriched": {
+    "id": "2870865842",
+    "follower_count": 6,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelmakarov/instagram/profile.jpg"
+  }
 }

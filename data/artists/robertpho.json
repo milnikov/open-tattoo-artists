@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "robertpho",
-  "name": "Robert Pho",
+  "name": "Robert",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Skin Design Tattoos Las Vegas"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Skin Design Tattoos Las Vegas\n\nThe world is yours",
+  "instagram_enriched": {
+    "id": "5428560396",
+    "follower_count": 52,
+    "following_count": 8,
+    "media_count": 16,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/robertpho/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sonjabow",
-  "name": "Sonja Bow",
+  "name": "Sonja Bowling",
   "location": {
     "city": "Adelaide",
     "country": "Australia"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Animalistic Body Art Adelaide"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Animalistic Body Art Adelaide",
+  "instagram_enriched": {
+    "id": "55176112011",
+    "follower_count": 14,
+    "following_count": 14,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sonjabow/instagram/profile.jpg"
+  }
 }

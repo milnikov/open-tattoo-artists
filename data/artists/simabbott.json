@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "simabbott",
-  "name": "Sim Abbott",
+  "name": "Simon Abbott",
   "location": {
     "city": "Colchester",
     "country": "United Kingdom"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Cosmic Tattoo Colchester"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Cosmic Tattoo Colchester",
+  "instagram_enriched": {
+    "id": "581053577",
+    "follower_count": 529,
+    "following_count": 422,
+    "media_count": 137,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/simabbott/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tomislav_magic",
-  "name": "Tomislav Majic",
+  "name": "Tomislav Magić",
   "location": {
     "city": "Zagreb",
     "country": "Unknown"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Tattoo Hardline Zagreb"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Tattoo Hardline Zagreb",
+  "instagram_enriched": {
+    "id": "5955020103",
+    "follower_count": 360,
+    "following_count": 548,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomislav_magic/instagram/profile.jpg"
+  }
 }

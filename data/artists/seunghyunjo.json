@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "seunghyunjo",
-  "name": "Potter Seunghyun Jo",
+  "name": "SeungHyun  Jo",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Forever Young Ink · FY INK Toronto"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Forever Young Ink · FY INK Toronto",
+  "instagram_enriched": {
+    "id": "2248063609",
+    "follower_count": 290,
+    "following_count": 573,
+    "media_count": 14,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/seunghyunjo/instagram/profile.jpg"
+  }
 }
