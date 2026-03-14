@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maximebuchi",
-  "name": "Maxime Buchi",
+  "name": "Maxime Buchi Javier Panis",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Sang Bleu Tattoo London London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Sang Bleu Tattoo London London",
+  "instagram_enriched": {
+    "id": "4841841426",
+    "follower_count": 140,
+    "following_count": 309,
+    "media_count": 103,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maximebuchi/instagram/profile.jpg"
+  }
 }

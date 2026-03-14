@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lionelng",
-  "name": "Lionel NG",
+  "name": "Lionel Ng",
   "location": {
     "city": "Singapore",
     "country": "Singapore"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Traditions Tattooing Singapore"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Traditions Tattooing Singapore\n\nThank you, come again",
+  "instagram_enriched": {
+    "id": "202517881",
+    "follower_count": 470,
+    "following_count": 340,
+    "media_count": 208,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lionelng/instagram/profile.jpg"
+  }
 }

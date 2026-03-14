@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jenlee",
-  "name": "Jen Lee",
+  "name": "jen",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "WORKPLACE Ed Hardy's Tattoo City San Francisco"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Ed Hardy's Tattoo City San Francisco",
+  "instagram_enriched": {
+    "id": "64904",
+    "follower_count": 99,
+    "following_count": 986,
+    "media_count": 50,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jenlee/instagram/profile.jpg"
+  }
 }

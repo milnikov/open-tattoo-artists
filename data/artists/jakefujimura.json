@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jakefujimura",
-  "name": "Jake Fujimura · jakethetattooer",
+  "name": "Kawehi",
   "location": {
     "city": "Murfreesboro",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Red Nimbus Tattoo Club Murfreesboro"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Red Nimbus Tattoo Club Murfreesboro",
+  "instagram_enriched": {
+    "id": "1416081453",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakefujimura/instagram/profile.jpg"
+  }
 }

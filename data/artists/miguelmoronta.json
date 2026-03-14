@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "miguelmoronta",
-  "name": "Miguel Moronta",
+  "name": "© Miguel Moronta ©",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Liquid Skin Studio Manhattan"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Liquid Skin Studio Manhattan\n\n",
+  "instagram_enriched": {
+    "id": "1303419050",
+    "follower_count": 281,
+    "following_count": 167,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguelmoronta/instagram/profile.jpg"
+  }
 }

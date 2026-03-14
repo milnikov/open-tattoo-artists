@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "iwanyug",
-  "name": "Iwan Yug",
+  "name": "Ivan Tot",
   "location": {
     "city": "Feodosia",
     "country": "Ukraine"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Feodosia Ukraine"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Feodosia Ukraine",
+  "instagram_enriched": {
+    "id": "27464835489",
+    "follower_count": 42,
+    "following_count": 50,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iwanyug/instagram/profile.jpg"
+  }
 }

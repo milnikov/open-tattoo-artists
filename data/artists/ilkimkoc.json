@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ilkimkoc",
-  "name": "İlkim Koç",
+  "name": "/ɪlkɪm kɔ:tʃ/",
   "location": {
     "city": "Istanbul",
     "country": "Turkey"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Taste of Ink Tattoo Istanbul"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Taste of Ink Tattoo Istanbul",
+  "instagram_enriched": {
+    "id": "246286107",
+    "follower_count": 1369,
+    "following_count": 377,
+    "media_count": 31,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ilkimkoc/instagram/profile.jpg"
+  }
 }

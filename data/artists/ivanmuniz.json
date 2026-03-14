@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ivanmuniz",
-  "name": "Ivan Muniz",
+  "name": "Ivan Muñiz",
   "location": {
     "city": "Bronx",
     "country": "United States"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Tattoo Seen Bronx"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Tattoo Seen Bronx",
+  "instagram_enriched": {
+    "id": "1499448",
+    "follower_count": 225,
+    "following_count": 1093,
+    "media_count": 177,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivanmuniz/instagram/profile.jpg"
+  }
 }
