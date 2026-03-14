@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "spendlo",
-  "name": "Matej Martius · Spendlo",
+  "name": "spendLO",
   "location": {
     "city": "Trnava",
     "country": "Slovakia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Painapple Tattoo Trnava"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Painapple Tattoo Trnava",
+  "instagram_enriched": {
+    "id": "241940499",
+    "follower_count": 29,
+    "following_count": 8,
+    "media_count": 29,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spendlo/instagram/profile.jpg"
+  }
 }

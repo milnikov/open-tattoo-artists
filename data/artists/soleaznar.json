@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "soleaznar",
-  "name": "Sole Aznar",
+  "name": "sole aznar",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE StaDemonia Tattoo Barcelona"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE StaDemonia Tattoo Barcelona",
+  "instagram_enriched": {
+    "id": "1513832375",
+    "follower_count": 87,
+    "following_count": 521,
+    "media_count": 307,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/soleaznar/instagram/profile.jpg"
+  }
 }

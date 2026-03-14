@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sop_tattoo",
-  "name": "Sop Tattoo",
+  "name": "솝타투 Sop tattoo • 미니타투,라인타투,얇은타투,finelinetattoo",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "Tattoo - @sopxlee",
+  "instagram_enriched": {
+    "id": "75702267594",
+    "follower_count": 36,
+    "following_count": 1,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sop_tattoo/instagram/profile.jpg"
+  }
 }

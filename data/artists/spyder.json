@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "spyder",
-  "name": "Spyder · Jethaniel Peterka",
+  "name": "Ricardo - Director",
   "location": {
     "city": "Seattle",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE P Studio Arcanum"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Studio Arcanum\n\nIMDb:",
+  "instagram_enriched": {
+    "id": "130029",
+    "follower_count": 578,
+    "following_count": 2665,
+    "media_count": 92,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spyder/instagram/profile.jpg"
+  }
 }

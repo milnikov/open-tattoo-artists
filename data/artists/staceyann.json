@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "staceyann",
-  "name": "Stacey Ann",
+  "name": "staceyann",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Third Eye Tattoo Melbourne"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Third Eye Tattoo Melbourne\n\nAlso visit  me on Instagram @GIVEMESOMESUGARSAM\nAnd on Facebook at the link below :)",
+  "instagram_enriched": {
+    "id": "2392387",
+    "follower_count": 520,
+    "following_count": 1621,
+    "media_count": 1089,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/staceyann/instagram/profile.jpg"
+  }
 }

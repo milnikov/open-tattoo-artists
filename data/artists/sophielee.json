@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sophielee",
-  "name": "Sophie Lee",
+  "name": "Sophie Malone",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE AKA Berlin"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE AKA Berlin",
+  "instagram_enriched": {
+    "id": "1775730057",
+    "follower_count": 415,
+    "following_count": 1508,
+    "media_count": 88,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sophielee/instagram/profile.jpg"
+  }
 }

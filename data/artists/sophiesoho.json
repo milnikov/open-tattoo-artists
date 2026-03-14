@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sophiesoho",
-  "name": "Sophie Soho",
+  "name": "Soho",
   "location": {
     "city": "New Caledonia",
     "country": "Unknown"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "read more SOPHIE SOHO"
+  "updated_at": "2026-03-14",
+  "bio": "read more SOPHIE SOHO",
+  "instagram_enriched": {
+    "id": "9954605317",
+    "follower_count": 15,
+    "following_count": 60,
+    "media_count": 56,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sophiesoho/instagram/profile.jpg"
+  }
 }

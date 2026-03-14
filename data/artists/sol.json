@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sol",
-  "name": "Sol",
+  "name": "Sol Khan",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -614,5 +614,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11"
+  "updated_at": "2026-03-14",
+  "bio": "Active 2026",
+  "instagram_enriched": {
+    "id": "56300631830",
+    "follower_count": 189,
+    "following_count": 374,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sol/instagram/profile.jpg"
+  }
 }

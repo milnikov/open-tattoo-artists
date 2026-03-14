@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "stefaniacamelia",
-  "name": "Stefania Camelia",
+  "name": "Stefania Camelia Vlaicu",
   "location": {
     "city": "Alfonsine",
     "country": "Province of Ravenna"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Working Class Tattoo Parlour Alfonsine"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Working Class Tattoo Parlour Alfonsine",
+  "instagram_enriched": {
+    "id": "3599066444",
+    "follower_count": 82,
+    "following_count": 53,
+    "media_count": 5,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stefaniacamelia/instagram/profile.jpg"
+  }
 }
