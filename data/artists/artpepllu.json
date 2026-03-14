@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artpepllu",
-  "name": "Pepllu",
+  "name": "ArtPepllu Tattoo Artist",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Pepllu is a tattoo artist renowned for their exceptional skill level, particularly in the realms of black & gray and realism. Their meticulous attention to detail ensures that every piece of art they create is a true masterpiece. Clients appreciate their clear communication and professional approach, which is evident from the outset whether you contact them through email or direct message.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-14",
+  "bio": "Pepllu is a tattoo artist renowned for their exceptional skill level, particularly in the realms of black & gray and realism. Their meticulous attention to detail ensures that every piece of art they create is a true masterpiece. Clients appreciate their clear communication and professional approach, which is evident from the outset whether you contact them through email or direct message.\nPrice: $\nCurrent location:\n\n🇪🇸 @artpepllu \n- Profesional Tattoo Artist -\n+ de 10 años de experiencia\n- contacto por correo electrónico, WhatsApp o m.p",
+  "instagram_enriched": {
+    "id": "1318028223",
+    "follower_count": 925,
+    "following_count": 509,
+    "media_count": 147,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artpepllu/instagram/profile.jpg"
+  }
 }
