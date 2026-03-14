@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dangold",
-  "name": "Dan Gold",
+  "name": "Dan Goldman",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -64,6 +64,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Monsters Of Art London"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Monsters Of Art London",
+  "instagram_enriched": {
+    "id": "5330012",
+    "follower_count": 400,
+    "following_count": 2965,
+    "media_count": 160,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dangold/instagram/profile.jpg"
+  }
 }

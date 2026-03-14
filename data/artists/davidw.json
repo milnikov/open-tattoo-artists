@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davidw",
-  "name": "David W",
+  "name": "David",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -65,6 +65,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Night School Tattoo Studio Los Angeles"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Night School Tattoo Studio Los Angeles\n\nHusband | Dog Dad | Traveler | Cyclist",
+  "instagram_enriched": {
+    "id": "443065",
+    "follower_count": 14,
+    "following_count": 12,
+    "media_count": 26,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davidw/instagram/profile.jpg"
+  }
 }

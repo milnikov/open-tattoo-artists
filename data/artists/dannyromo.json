@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dannyromo",
-  "name": "Danny Romo",
+  "name": "Danny Romo Leroux",
   "location": {
     "city": "West Hollywood",
     "country": "United States"
@@ -62,6 +62,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE P Shamrock Social Club"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Shamrock Social Club",
+  "instagram_enriched": {
+    "id": "29161148",
+    "follower_count": 120,
+    "following_count": 126,
+    "media_count": 209,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dannyromo/instagram/profile.jpg"
+  }
 }

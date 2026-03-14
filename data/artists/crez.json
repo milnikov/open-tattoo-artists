@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "crez",
-  "name": "Crez · Massimiliano Freguja",
+  "name": "Crez",
   "location": {
     "city": "Venice",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "WORKPLACE Adrenalink Tattooing Venice"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Adrenalink Tattooing Venice",
+  "instagram_enriched": {
+    "id": "283434192",
+    "follower_count": 416,
+    "following_count": 2,
+    "media_count": 25,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/crez/instagram/profile.jpg"
+  }
 }

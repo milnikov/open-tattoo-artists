@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cristinacristo",
-  "name": "Cristina Cristo",
+  "name": "Ana Cristina Cristo",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE P Cristina Cristo's Private Studio"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE P Cristina Cristo's Private Studio",
+  "instagram_enriched": {
+    "id": "179551633",
+    "follower_count": 675,
+    "following_count": 1336,
+    "media_count": 651,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cristinacristo/instagram/profile.jpg"
+  }
 }
