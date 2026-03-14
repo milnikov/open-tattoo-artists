@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "michaelebennett",
-  "name": "Michael E. Bennett",
+  "name": "Michael Bennett",
   "location": {
     "city": "Fresno",
     "country": "Fresno County"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Resistance Tattoo Fresno"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Resistance Tattoo Fresno",
+  "instagram_enriched": {
+    "id": "513629555",
+    "follower_count": 173,
+    "following_count": 55,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/michaelebennett/instagram/profile.jpg"
+  }
 }

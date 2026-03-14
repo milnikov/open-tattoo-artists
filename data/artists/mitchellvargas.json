@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mitchellvargas",
-  "name": "Mitchell Vargas · Miami Inkslinger",
+  "name": "Mitchell Vargas",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "MITCHELL VARGAS · MIAMI INKSLINGER"
+  "updated_at": "2026-03-14",
+  "bio": "MITCHELL VARGAS · MIAMI INKSLINGER",
+  "instagram_enriched": {
+    "id": "48602952361",
+    "follower_count": 2,
+    "following_count": 10,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mitchellvargas/instagram/profile.jpg"
+  }
 }

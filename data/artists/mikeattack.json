@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikeattack",
-  "name": "Mike Attack",
+  "name": "Mike",
   "location": {
     "city": "Chicago",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Taylor Street Tattoo Chicago"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Taylor Street Tattoo Chicago\n\nHello :)",
+  "instagram_enriched": {
+    "id": "2698052",
+    "follower_count": 140,
+    "following_count": 253,
+    "media_count": 50,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeattack/instagram/profile.jpg"
+  }
 }

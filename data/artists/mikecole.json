@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikecole",
-  "name": "Mike Cole",
+  "name": "Michael Cole",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -62,5 +62,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "26603828",
+    "follower_count": 127,
+    "following_count": 187,
+    "media_count": 14,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecole/instagram/profile.jpg"
+  }
 }

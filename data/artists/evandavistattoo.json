@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "evandavistattoo",
+  "name": "Evan Davis",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/evandavistattoo",
+    "instagram": "https://www.instagram.com/evandavistattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evandavistattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evandavistattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evandavistattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evandavistattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Evan Davis is a talented tattoo artist working at Black13Tattoo in Nashville, TN, specializing in floral and geometric styles. His remarkable skill level is evident in every intricate design he etches, displaying a unique blend of artistry and precision.\nPrice: $$\nCurrent location:"
+}

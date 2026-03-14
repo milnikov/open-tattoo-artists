@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "michellesantana",
-  "name": "Michelle Santana",
+  "name": "michellesantana",
   "location": {
     "city": "Manhattan",
     "country": "United States"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Owner of Santana Tattoo, Cali."
+  "updated_at": "2026-03-14",
+  "bio": "Owner of Santana Tattoo, Cali.\n\nUIUC ‘18// ISU SSP ‘24 🤍",
+  "instagram_enriched": {
+    "id": "23182830",
+    "follower_count": 588,
+    "following_count": 488,
+    "media_count": 35,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/michellesantana/instagram/profile.jpg"
+  }
 }

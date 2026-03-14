@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikenassar",
-  "name": "Mike Nassar",
+  "name": "Muhammad Nassar",
   "location": {
     "city": "Vancouver",
     "country": "Canada"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "Owner/Artist at Harbourside Tattoo & Co."
+  "updated_at": "2026-03-14",
+  "bio": "Owner/Artist at Harbourside Tattoo & Co.",
+  "instagram_enriched": {
+    "id": "1541020260",
+    "follower_count": 48,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikenassar/instagram/profile.jpg"
+  }
 }

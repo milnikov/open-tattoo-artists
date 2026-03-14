@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mimimello",
-  "name": "Mimi Mello",
+  "name": "Marina Mello",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -38,5 +38,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-10"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "246358381",
+    "follower_count": 200,
+    "following_count": 338,
+    "media_count": 46,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mimimello/instagram/profile.jpg"
+  }
 }

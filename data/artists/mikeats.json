@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikeats",
-  "name": "Mike ATS",
+  "name": "Mike Story",
   "location": {
     "city": "Toulon",
     "country": "France"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Art Tattoo Studio Toulon"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Art Tattoo Studio Toulon",
+  "instagram_enriched": {
+    "id": "465858407",
+    "follower_count": 278,
+    "following_count": 329,
+    "media_count": 91,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeats/instagram/profile.jpg"
+  }
 }
