@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tomflanagan",
-  "name": "Tom Flanagan",
+  "name": "Tommy Flanagan",
   "location": {
     "city": "Leeds",
     "country": "United Kingdom"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Black Crown Tattoo Leeds"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Black Crown Tattoo Leeds\n\nWellfleet, MA",
+  "instagram_enriched": {
+    "id": "185215951",
+    "follower_count": 181,
+    "following_count": 311,
+    "media_count": 45,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomflanagan/instagram/profile.jpg"
+  }
 }

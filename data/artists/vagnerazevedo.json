@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vagnerazevedo",
-  "name": "Vagner Azevedo",
+  "name": "vagner azevedo",
   "location": {
     "city": "São Leopoldo",
     "country": "Brazil"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Origem Tattoo Studio São Leopoldo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Origem Tattoo Studio São Leopoldo\n\nPublicidade gráfica",
+  "instagram_enriched": {
+    "id": "2056156614",
+    "follower_count": 83,
+    "following_count": 127,
+    "media_count": 31,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vagnerazevedo/instagram/profile.jpg"
+  }
 }

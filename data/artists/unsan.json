@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "unsan",
-  "name": "Unsan",
+  "name": "unsan",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-14",
+  "instagram_enriched": {
+    "id": "5642953",
+    "follower_count": 226,
+    "following_count": 256,
+    "media_count": 2186,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/unsan/instagram/profile.jpg"
+  }
 }

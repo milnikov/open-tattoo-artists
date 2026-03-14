@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "trashflash",
-  "name": "Trashflash",
+  "name": "trash",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Satatttvision Milan"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Satatttvision Milan\n\nGnarly tattoos and flash from all over Instagram.  #trashflash to be featured. Shoutouts are appreciated but not expected.",
+  "instagram_enriched": {
+    "id": "1667628158",
+    "follower_count": 819,
+    "following_count": 2021,
+    "media_count": 69,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/trashflash/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "toshioshimada",
-  "name": "Toshio Shimada",
+  "name": "shimada toshio",
   "location": {
     "city": "São Paulo",
     "country": "Brazil"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE Shimada Tattoo Studio São Paulo"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Shimada Tattoo Studio São Paulo",
+  "instagram_enriched": {
+    "id": "59527010031",
+    "follower_count": 10,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/toshioshimada/instagram/profile.jpg"
+  }
 }

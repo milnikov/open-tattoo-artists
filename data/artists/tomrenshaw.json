@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tomrenshaw",
-  "name": "Tom Renshaw",
+  "name": "tomrenshaw",
   "location": {
     "city": "Troy",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "Tom Renshaw has been tattooing for approximately 20 years. read more"
+  "updated_at": "2026-03-14",
+  "bio": "Tom Renshaw has been tattooing for approximately 20 years. read more\n\nUK",
+  "instagram_enriched": {
+    "id": "2218149911",
+    "follower_count": 9,
+    "following_count": 30,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomrenshaw/instagram/profile.jpg"
+  }
 }
