@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "checrook",
-  "name": "Ché Crook",
+  "name": "Che",
   "location": {
     "city": "Bristol",
     "country": "United Kingdom"
@@ -52,6 +52,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Level Crooks Bristol"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Level Crooks Bristol\n\nKoby✌️ nate👍 max👌 alex 😹siteni😎",
+  "instagram_enriched": {
+    "id": "281194184",
+    "follower_count": 112,
+    "following_count": 147,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/checrook/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cleenrockone",
-  "name": "Cleen Rock One",
+  "name": "Golden Skull",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -15,6 +15,18 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cleenrockone/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cleenrockone/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
     {
       "image_id": "001",
       "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cleenrockone/full/001.webp",
@@ -64,6 +76,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Chrome Gypsy Tattoo Las Vegas"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE Chrome Gypsy Tattoo Las Vegas\n\nMy original account got deleted . I been using @cleenrockoneinsta so go there I do not use this account",
+  "instagram_enriched": {
+    "id": "53095284559",
+    "follower_count": 16532,
+    "following_count": 0,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cleenrockone/instagram/profile.jpg"
+  }
 }

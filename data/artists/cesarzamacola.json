@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cesarzamacola",
-  "name": "César Zamacola",
+  "name": "Cesar",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Lunes y martes, en Tattooarte Toledo, y de miércoles a sábado, en La Manuela Tattoo."
+  "updated_at": "2026-03-14",
+  "bio": "Lunes y martes, en Tattooarte Toledo, y de miércoles a sábado, en La Manuela Tattoo.",
+  "instagram_enriched": {
+    "id": "5414643686",
+    "follower_count": 3,
+    "following_count": 16,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cesarzamacola/instagram/profile.jpg"
+  }
 }
