@@ -880,6 +880,11 @@
     "normalized": "Trip6"
   },
   {
+    "id": "willsoares",
+    "name": "𝑾𝒊𝒍𝒍 𝑺𝒐𝒂𝒓𝒆𝒔",
+    "normalized": "Will Soares"
+  },
+  {
     "id": "clemente.tats",
     "name": "[C]L E M E N T E | Tattoo artist | Hamburg",
     "normalized": "[c]l e m e n t e | tattoo artist | hamburg"
@@ -10700,6 +10705,11 @@
     "normalized": "barış kaya"
   },
   {
+    "id": "wagnerbasei",
+    "name": "Basei Wagner Tattoo Artist Dublin",
+    "normalized": "basei wagner tattoo artist dublin"
+  },
+  {
     "id": "baseltattoo",
     "name": "Basel Tattoo",
     "normalized": "basel tattoo"
@@ -18936,8 +18946,8 @@
   },
   {
     "id": "xinaxiii",
-    "name": "Christina Hock · Xinaxiii",
-    "normalized": "christina hock · xinaxiii"
+    "name": "Christina Hock",
+    "normalized": "christina hock"
   },
   {
     "id": "crystal_ink_",
@@ -30020,6 +30030,11 @@
     "normalized": "eric tyler"
   },
   {
+    "id": "wang",
+    "name": "Eric Wang",
+    "normalized": "eric wang"
+  },
+  {
     "id": "ericeye",
     "name": "Eric.Ye",
     "normalized": "eric.ye"
@@ -30985,9 +31000,19 @@
     "normalized": "eyes cold tattoo"
   },
   {
+    "id": "ezenuneztattoos",
+    "name": "Eze Nunez",
+    "normalized": "eze nunez"
+  },
+  {
     "id": "ezenunez",
     "name": "Eze Nuñez",
     "normalized": "eze nuñez"
+  },
+  {
+    "id": "ezekiel_pierson",
+    "name": "Ezekiel Pierson",
+    "normalized": "ezekiel pierson"
   },
   {
     "id": "conchitattoo",
@@ -31003,6 +31028,11 @@
     "id": "ezequiel_viapiano",
     "name": "Ezequiel Viapiano",
     "normalized": "ezequiel viapiano"
+  },
+  {
+    "id": "ezbtattoo",
+    "name": "Ezra Buccellato",
+    "normalized": "ezra buccellato"
   },
   {
     "id": "fidjit",
@@ -31068,6 +31098,11 @@
     "id": "fabio_mauro",
     "name": "Fabio Mauro",
     "normalized": "fabio mauro"
+  },
+  {
+    "id": "xevion",
+    "name": "Fabio Mazzari",
+    "normalized": "fabio mazzari"
   },
   {
     "id": "fabio_moro",
@@ -31693,11 +31728,6 @@
     "id": "francescogarbuggino",
     "name": "Francesco Garbuggino",
     "normalized": "francesco garbuggino"
-  },
-  {
-    "id": "xevion",
-    "name": "Francesco Scibilia · Xevion",
-    "normalized": "francesco scibilia · xevion"
   },
   {
     "id": "francesco_blackbindu",
@@ -32378,11 +32408,6 @@
     "id": "gerardo_lucio",
     "name": "Gerardo Lucio",
     "normalized": "gerardo lucio"
-  },
-  {
-    "id": "waz",
-    "name": "Gerardo Waz",
-    "normalized": "gerardo waz"
   },
   {
     "id": "gergoaugusztiny",
@@ -33840,6 +33865,11 @@
     "normalized": "ian wiedrick"
   },
   {
+    "id": "woodz",
+    "name": "Ian Wood",
+    "normalized": "ian wood"
+  },
+  {
     "id": "ibirothe",
     "name": "Ibi Rothe",
     "normalized": "ibi rothe"
@@ -34988,6 +35018,11 @@
     "id": "jamiegene",
     "name": "Jamie Stearns",
     "normalized": "jamie stearns"
+  },
+  {
+    "id": "watsonatkinson",
+    "name": "Jamirah watson-atkinson",
+    "normalized": "jamirah watson-atkinson"
   },
   {
     "id": "jpalfonso",
@@ -41810,6 +41845,11 @@
     "normalized": "marlon mtoney"
   },
   {
+    "id": "wolfgore",
+    "name": "marlow",
+    "normalized": "marlow"
+  },
+  {
     "id": "marlenelecidre",
     "name": "Marlène Le Cidre",
     "normalized": "marlène le cidre"
@@ -42713,11 +42753,6 @@
     "id": "meganwilson",
     "name": "Megan Wilson",
     "normalized": "megan wilson"
-  },
-  {
-    "id": "wolfgore",
-    "name": "Megan · Wolfgore",
-    "normalized": "megan · wolfgore"
   },
   {
     "id": "mehaibakaty",
@@ -45875,11 +45910,6 @@
     "normalized": "pancho placas"
   },
   {
-    "id": "wang",
-    "name": "Pang Chi Wang",
-    "normalized": "pang chi wang"
-  },
-  {
     "id": "pantachoi",
     "name": "Panta Choi",
     "normalized": "panta choi"
@@ -48586,8 +48616,8 @@
   },
   {
     "id": "wontutattoo",
-    "name": "Rost W2T · wontutattoo",
-    "normalized": "rost w2t · wontutattoo"
+    "name": "Rost 'Won Tu'",
+    "normalized": "rost 'won tu'"
   },
   {
     "id": "roughhandz",
@@ -54361,7 +54391,7 @@
   },
   {
     "id": "vyvynlazonga",
-    "name": "Vyvyn Lazonga",
+    "name": "vyvyn lazonga",
     "normalized": "vyvyn lazonga"
   },
   {
@@ -54371,8 +54401,8 @@
   },
   {
     "id": "wtnorbert",
-    "name": "W.T. Norbert",
-    "normalized": "w.t. norbert"
+    "name": "W.T.Norbert",
+    "normalized": "w.t.norbert"
   },
   {
     "id": "wawong",
@@ -54383,11 +54413,6 @@
     "id": "bgbfb",
     "name": "wadww",
     "normalized": "wadww"
-  },
-  {
-    "id": "wagnerbasei",
-    "name": "Wagner Basei",
-    "normalized": "wagner basei"
   },
   {
     "id": "lucaswagner",
@@ -54450,11 +54475,6 @@
     "normalized": "waterproof"
   },
   {
-    "id": "watsonatkinson",
-    "name": "Watson Atkinson",
-    "normalized": "watson atkinson"
-  },
-  {
     "id": "drkleetusorgasmus",
     "name": "Wayne Crowther",
     "normalized": "wayne crowther"
@@ -54473,11 +54493,6 @@
     "id": "lonely_weirdo_club",
     "name": "Weirdo",
     "normalized": "weirdo"
-  },
-  {
-    "id": "wellefrangette",
-    "name": "Welle Frangette",
-    "normalized": "welle frangette"
   },
   {
     "id": "welmo",
@@ -54521,8 +54536,8 @@
   },
   {
     "id": "whatidid",
-    "name": "What I Did",
-    "normalized": "what i did"
+    "name": "What I did anonymously",
+    "normalized": "what i did anonymously"
   },
   {
     "id": "rakov",
@@ -54556,8 +54571,8 @@
   },
   {
     "id": "wildflowers.tattoo",
-    "name": "Wildflowers",
-    "normalized": "wildflowers"
+    "name": "Wildflowers | Fine Line Tattoo",
+    "normalized": "wildflowers | fine line tattoo"
   },
   {
     "id": "aldatat2",
@@ -54580,9 +54595,9 @@
     "normalized": "will geary"
   },
   {
-    "id": "willgee",
-    "name": "Will Gee",
-    "normalized": "will gee"
+    "id": "williamlollie",
+    "name": "Will Lollie",
+    "normalized": "will lollie"
   },
   {
     "id": "willpayne",
@@ -54595,9 +54610,9 @@
     "normalized": "will sheldon"
   },
   {
-    "id": "willsoares",
-    "name": "Will Soares",
-    "normalized": "will soares"
+    "id": "willgee",
+    "name": "Willem Gijsels",
+    "normalized": "willem gijsels"
   },
   {
     "id": "willemjansen",
@@ -54633,11 +54648,6 @@
     "id": "4theloveofdub",
     "name": "William Galloway",
     "normalized": "william galloway"
-  },
-  {
-    "id": "williamlollie",
-    "name": "William Lollie",
-    "normalized": "william lollie"
   },
   {
     "id": "williammoskowitz",
@@ -54706,8 +54716,8 @@
   },
   {
     "id": "winigreeni",
-    "name": "winigreeni",
-    "normalized": "winigreeni"
+    "name": "winigreeni | 🇯🇵 tattoo tokyo japan",
+    "normalized": "winigreeni | 🇯🇵 tattoo tokyo japan"
   },
   {
     "id": "winkevans",
@@ -54716,7 +54726,7 @@
   },
   {
     "id": "winstonthewhale",
-    "name": "Winston the Whale",
+    "name": "Winston The Whale",
     "normalized": "winston the whale"
   },
   {
@@ -54735,6 +54745,11 @@
     "normalized": "wiwi schrøder"
   },
   {
+    "id": "woonkim",
+    "name": "WK 운킴 ウンキム",
+    "normalized": "wk 운킴 ウンキム"
+  },
+  {
     "id": "wolfgang",
     "name": "Wolfgang",
     "normalized": "wolfgang"
@@ -54743,11 +54758,6 @@
     "id": "wolfgangtat2",
     "name": "Wolfgang",
     "normalized": "wolfgang"
-  },
-  {
-    "id": "wolfspit",
-    "name": "Wolfspit",
-    "normalized": "wolfspit"
   },
   {
     "id": "wongpuiyee",
@@ -54780,11 +54790,6 @@
     "normalized": "woody hills"
   },
   {
-    "id": "woodz",
-    "name": "Woodz",
-    "normalized": "woodz"
-  },
-  {
     "id": "woo",
     "name": "Woohyun Heo · Woo",
     "normalized": "woohyun heo · woo"
@@ -54795,19 +54800,14 @@
     "normalized": "wookssan"
   },
   {
-    "id": "woonkim",
-    "name": "Woon Kim",
-    "normalized": "woon kim"
-  },
-  {
-    "id": "woori",
-    "name": "Woori · Oddmapper",
-    "normalized": "woori · oddmapper"
-  },
-  {
     "id": "writtenby",
     "name": "Written By",
     "normalized": "written by"
+  },
+  {
+    "id": "wolfspit",
+    "name": "Wulfy",
+    "normalized": "wulfy"
   },
   {
     "id": "blvqwulph",
@@ -54821,7 +54821,7 @@
   },
   {
     "id": "wscieklykot",
-    "name": "Wściekły kot",
+    "name": "Wściekły Kot",
     "normalized": "wściekły kot"
   },
   {
@@ -54836,8 +54836,8 @@
   },
   {
     "id": "xam",
-    "name": "Xam the Spaniard",
-    "normalized": "xam the spaniard"
+    "name": "Xam",
+    "normalized": "xam"
   },
   {
     "id": "xav",
@@ -54868,11 +54868,6 @@
     "id": "xeve",
     "name": "Xeve · Jose Maria Auñon Ortiz",
     "normalized": "xeve · jose maria auñon ortiz"
-  },
-  {
-    "id": "xhomda",
-    "name": "Xhomda",
-    "normalized": "xhomda"
   },
   {
     "id": "xia",
@@ -54951,8 +54946,8 @@
   },
   {
     "id": "yannblack",
-    "name": "Yann Black · Yann Travaille",
-    "normalized": "yann black · yann travaille"
+    "name": "yann black bb",
+    "normalized": "yann black bb"
   },
   {
     "id": "yarafloresta",
@@ -54976,13 +54971,8 @@
   },
   {
     "id": "yarsonst",
-    "name": "Yarson St",
-    "normalized": "yarson st"
-  },
-  {
-    "id": "yas",
-    "name": "YAS",
-    "normalized": "yas"
+    "name": "Yarson,ST",
+    "normalized": "yarson,st"
   },
   {
     "id": "burritoconluces_tattoo",
@@ -54990,19 +54980,19 @@
     "normalized": "yasi"
   },
   {
+    "id": "yaxe",
+    "name": "Yasin Balta",
+    "normalized": "yasin balta"
+  },
+  {
     "id": "yassa",
-    "name": "Yassa",
-    "normalized": "yassa"
+    "name": "Yasufumi Sunouchi",
+    "normalized": "yasufumi sunouchi"
   },
   {
     "id": "yatzilelizalde",
-    "name": "Yatzil Elizalde",
-    "normalized": "yatzil elizalde"
-  },
-  {
-    "id": "yaxe",
-    "name": "Yaxe Ekc",
-    "normalized": "yaxe ekc"
+    "name": "Yatzil ♡",
+    "normalized": "yatzil ♡"
   },
   {
     "id": "_yctc_",
@@ -55018,11 +55008,6 @@
     "id": "yeahdope",
     "name": "yeahdope",
     "normalized": "yeahdope"
-  },
-  {
-    "id": "yell",
-    "name": "Yell Tattooer",
-    "normalized": "yell tattooer"
   },
   {
     "id": "yeono",
@@ -55086,8 +55071,8 @@
   },
   {
     "id": "yomeone",
-    "name": "Yome One",
-    "normalized": "yome one"
+    "name": "Yome",
+    "normalized": "yome"
   },
   {
     "id": "yomicomoremo",
@@ -55106,8 +55091,8 @@
   },
   {
     "id": "yoni",
-    "name": "Yoni Tattooer",
-    "normalized": "yoni tattooer"
+    "name": "yoni",
+    "normalized": "yoni"
   },
   {
     "id": "yonizilber",
@@ -56045,9 +56030,24 @@
     "normalized": "юлия михайлова"
   },
   {
+    "id": "yas",
+    "name": "بدر الشامسي",
+    "normalized": "بدر الشامسي"
+  },
+  {
+    "id": "yell",
+    "name": "صادق محمد",
+    "normalized": "صادق محمد"
+  },
+  {
     "id": "hoode",
     "name": "عهود العنزي 💫",
     "normalized": "عهود العنزي 💫"
+  },
+  {
+    "id": "waz",
+    "name": "لوكا𖤍.",
+    "normalized": "لوكا𖤍."
   },
   {
     "id": "noon",
@@ -56735,6 +56735,16 @@
     "normalized": "아델라 🦋 owner of adelier ink"
   },
   {
+    "id": "xhomda",
+    "name": "안녕하솜다",
+    "normalized": "안녕하솜다"
+  },
+  {
+    "id": "woori",
+    "name": "우리♡",
+    "normalized": "우리♡"
+  },
+  {
     "id": "baekwoon",
     "name": "유백운",
     "normalized": "유백운"
@@ -56798,6 +56808,11 @@
     "id": "ranieropatutiki",
     "name": "🅡🅐🅝🅘🅔🅡🅞 🅟🅐🅣🅤🅣🅘🅚🅘",
     "normalized": "🅡🅐🅝🅘🅔🅡🅞 🅟🅐🅣🅤🅣🅘🅚🅘"
+  },
+  {
+    "id": "wellefrangette",
+    "name": "🅦🅔🅛🅛🅔 🅕🅡🅐🅝🅖🅔🅣🅣🅔",
+    "normalized": "🅦🅔🅛🅛🅔 🅕🅡🅐🅝🅖🅔🅣🅣🅔"
   },
   {
     "id": "caymiles",
