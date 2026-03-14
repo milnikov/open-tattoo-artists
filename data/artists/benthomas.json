@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "benthomas",
-  "name": "Ben Thomas",
+  "name": "ben thomas",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE The Black Mark Tattoo Melbourne"
+  "updated_at": "2026-03-14",
+  "bio": "WORKPLACE The Black Mark Tattoo Melbourne\n\nLife is just like a slice of 🍕",
+  "instagram_enriched": {
+    "id": "2183732",
+    "follower_count": 349,
+    "following_count": 600,
+    "media_count": 465,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/benthomas/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "beemor_honey",
-  "name": "BeeMor",
+  "name": "BeeMor Honey Farm",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -43,6 +43,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "BeeMor is a tattoo artist well-versed in a variety of styles, including illustrative, watercolor, lettering, and expert cover-ups. Clients often note BeeMor's exceptional professionalism, as they consistently provide a comfortable and reassuring experience even for those nervous about the tattooing process. Their attention to detail in both their art and client care makes BeeMor a sought-after artist in the tattoo community.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-14",
+  "bio": "BeeMor is a tattoo artist well-versed in a variety of styles, including illustrative, watercolor, lettering, and expert cover-ups. Clients often note BeeMor's exceptional professionalism, as they consistently provide a comfortable and reassuring experience even for those nervous about the tattooing process. Their attention to detail in both their art and client care makes BeeMor a sought-after artist in the tattoo community.\nPrice: $\nCurrent location:\n\n??Painless?? Tattoo no more.   BeeMor",
+  "instagram_enriched": {
+    "id": "1699762385",
+    "follower_count": 431,
+    "following_count": 106,
+    "media_count": 312,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beemor_honey/instagram/profile.jpg"
+  }
 }

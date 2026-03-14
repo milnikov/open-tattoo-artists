@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "body_art_tattoos_georgetown",
-  "name": "Body Art Georgetown",
+  "name": "Body art Georgetown",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,7 +41,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Step into Body Art Georgetown, where award-winning artists have been perfecting the art of ink since 1986. Specializing in bold tribal patterns and vibrant new school designs, this renowned studio at 1226 Paris Pike offers a creative and welcoming atmosphere for all your tattooing desires. Dial 502-570-5922 to book your session with some of Kentucky's most skilled tattoo artisans.",
-  "tattooing_since": "1986"
+  "updated_at": "2026-03-14",
+  "bio": "Step into Body Art Georgetown, where award-winning artists have been perfecting the art of ink since 1986. Specializing in bold tribal patterns and vibrant new school designs, this renowned studio at 1226 Paris Pike offers a creative and welcoming atmosphere for all your tattooing desires. Dial 502-570-5922 to book your session with some of Kentucky's most skilled tattoo artisans.\n\nBody Art Tattoos ,1226 paris pike georgetown ky, 502-570-5922 tattooing since 1986, award winning artist,",
+  "tattooing_since": "1986",
+  "instagram_enriched": {
+    "id": "1559888601",
+    "follower_count": 459,
+    "following_count": 500,
+    "media_count": 127,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/body_art_tattoos_georgetown/instagram/profile.jpg"
+  }
 }
