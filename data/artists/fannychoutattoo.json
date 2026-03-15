@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "fannychoutattoo",
+  "name": "Fanny Chou",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fannychoutattoo",
+    "instagram": "https://www.instagram.com/fannychoutattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fannychoutattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fannychoutattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fannychoutattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fannychoutattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Fanny Chou is an expert tattoo artist, specialising in floral and fineline styles. She is not only the owner of 'Les maux dans la peau' in France, but also exhibits her creativity at 'La maison de l'intuition'. Her portfolio showcases a beautiful blend of ornamental design, intricate style, and homage to the natural world, ensuring every piece she creates is a unique work of art.\nPrice: $$\nCurrent location:"
+}

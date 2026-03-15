@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "felipe_artattoos",
+  "name": "Felipe Ramos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/felipe_artattoos",
+    "instagram": "https://www.instagram.com/felipe_artattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/felipe_artattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/felipe_artattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/felipe_artattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/felipe_artattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Felipe Ramos is a masterful tattoo artist specializing in the black & gray and tribal styles, his works are a testament to his advanced skill level. Each piece Felipe creates embodies a unique blend of intricate detail and artistic precision, which sets his art apart. His dedication to craft is evident in the clean lines and stunning contrast of every tattoo he inks.\nPrice: $\nCurrent location:"
+}

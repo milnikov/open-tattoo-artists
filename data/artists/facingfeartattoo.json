@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "facingfeartattoo",
+  "name": "Facing Fear Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/facingfeartattoo",
+    "instagram": "https://www.instagram.com/facingfeartattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/facingfeartattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/facingfeartattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/facingfeartattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/facingfeartattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Embark on a transformative journey at Facing Fear Tattoo, a sanctuary where artistry meets healing in the heart of the United States. Specializing in black & gray and watercolor tattoos, our studio takes pride in helping clients reclaim their beauty by skillfully camouflaging scars from life's battles, be it cancer, accidents, or war service. Witness the compassionate embrace of transformation, where you contribute simply the cost of materials plus gratuity.\nPrice: $\nCurrent location:"
+}

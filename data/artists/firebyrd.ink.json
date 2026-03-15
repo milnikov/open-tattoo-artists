@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "firebyrd.ink",
+  "name": "Byrd",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative",
+    "floral",
+    "anime"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/firebyrd.ink",
+    "instagram": "https://www.instagram.com/firebyrd.ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/firebyrd.ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/firebyrd.ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/firebyrd.ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/firebyrd.ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Byrd is a highly skilled tattoo artist based in Lakewood, renowned for their exceptional work in watercolor, illustrative, floral, and anime-inspired tattoos. Their portfolio showcases a diverse and vibrant range of designs, underlining their ability to masterfully translate complex styles to the canvas of the skin. Clients are consistently impressed with Byrd's attention to detail and the artistic flair that they bring to each unique piece they create.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "fliptatts",
+  "name": "Fliptatts Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fliptatts",
+    "instagram": "https://www.instagram.com/fliptatts/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fliptatts/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fliptatts/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fliptatts/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fliptatts/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Discover your next ink masterpiece at Fliptatts Tattoo Studio, where the art of black & gray and trashpolka styles come to life on your skin. Our studio offers a unique, immersive atmosphere where creativity and individuality are celebrated - enhanced by the convenience of both in-store and e-gift cards. Step into Fliptatts Tattoo Studio and leave with a piece of art that truly represents you.\nPrice: $\nCurrent location:"
+}

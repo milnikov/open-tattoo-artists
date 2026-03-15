@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "fimmtattooer",
+  "name": "Fimmtattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fimmtattooer",
+    "instagram": "https://www.instagram.com/fimmtattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fimmtattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fimmtattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fimmtattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fimmtattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Fimmtattooer is a profoundly skilled tattoo artist, showcasing mastery in 'fineline and dotwork' styles. Based in Tel Aviv, Fimmtattooer's work stands out astoundingly in the realm of Micro Blackwork and Pixel art, promoting unique and intricate designs that truly demonstrate their highly advanced level of craftmanship.\nPrice: $$\nCurrent location:"
+}

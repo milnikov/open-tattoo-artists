@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "flutterbytattoo",
+  "name": "Flutterby Effect Tattoo & Art",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/flutterbytattoo",
+    "instagram": "https://www.instagram.com/flutterbytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/flutterbytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/flutterbytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/flutterbytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/flutterbytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Flutterby Effect Tattoo & Art is an incredibly skilled tattoo artist, specializing in 'fineline, floral, vegan' styles. They offer exquisite and intricate designs, with a strong dedication to their work that is evidently reflected in each piece of art they create. Perfectly amalgamating their love for nature and vegan values, their work can be admired at Studio VEGROW.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "francescatattoo",
+  "name": "Francesca",
+  "location": {
+    "city": "Long Beach",
+    "country": "United States"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/francescatattoo",
+    "instagram": "https://www.instagram.com/francescatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francescatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francescatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francescatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francescatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-14",
+  "bio": "Francesca is a masterful tattoo artist based out of Port City Tattoo in Long Beach, United States, specialized in creating intricate 'black&gray' designs. She embodies the blend of raw authenticity and professionalism, working Thursday through Monday from 11-8. To book an appointment, she appreciates direct email communication, ensuring a fuss-free, smooth booking experience for her clients.\nPrice: $$\nCurrent location: Long Beach, California, United States"
+}

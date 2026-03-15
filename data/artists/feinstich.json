@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "feinstich",
+  "name": "Feinstich Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/feinstich",
+    "instagram": "https://www.instagram.com/feinstich/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/feinstich/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/feinstich/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/feinstich/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/feinstich/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Feinstich Tattoo, established in 2005, is a cutting-edge tattoo studio specializing in the unique styles of black&gray and dotwork. Known for its clean, comfortable atmosphere and a detail-oriented approach, we capture personal stories through intricate designs, creating art that lasts a lifetime.\nPrice: $$\nCurrent location:"
+}

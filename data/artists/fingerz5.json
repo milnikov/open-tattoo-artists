@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "fingerz5",
+  "name": "Ink Lexington",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fingerz5",
+    "instagram": "https://www.instagram.com/fingerz5/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fingerz5/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fingerz5/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fingerz5/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fingerz5/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Ink Lexington is a tattoo artist specializing in the distinct styles of realism, black&gray, and tribal. With a no-negotiation policy and strict deposit requirements, their professionalism is unparalleled, ensuring that each transaction is conducted with utmost transparency and fairness.\nPrice: $$\nCurrent location:"
+}

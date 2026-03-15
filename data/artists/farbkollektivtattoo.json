@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "farbkollektivtattoo",
+  "name": "Farbkollektiv",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/farbkollektivtattoo",
+    "instagram": "https://www.instagram.com/farbkollektivtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/farbkollektivtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/farbkollektivtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/farbkollektivtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/farbkollektivtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Nestled in the heart of Hamburg, Farbkollektiv emerges as a sanctuary for the avant-garde skin art. Specializing in vivid watercolor, detailed illustrative, and the edgy trashpolka styles, this studio pulsates with creativity, offering bespoke tattoos that are as unique and expressive as the city itself. Connect with Farbkollektiv's masterful artists exclusively via email for an unforgettable ink experience.\nPrice: $\nCurrent location:"
+}
