@@ -88,6 +88,11 @@ JUNK_STYLES = {
     "xtremtattoo",
     "fkirons",
     "brouktattoosupply",
+    "hushanesthetic",
+    "goldinkcorp",
+    "kwadron",
+    "electrumstencilproducts",
+    "needlejig",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
