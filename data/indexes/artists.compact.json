@@ -155378,6 +155378,30 @@
     "updated_at": "2026-03-15"
   },
   {
+    "id": "frajolatattoo",
+    "name": "Frajola Tattoo",
+    "location": {
+      "city": "Goiânia",
+      "country": "Brazil"
+    },
+    "styles": [
+      "lettering",
+      "minimalist"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/frajolatattoo/"
+    },
+    "tattoo_count": 34,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frajolatattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frajolatattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frajolatattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frajolatattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frajolatattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-15"
+  },
+  {
     "id": "franfernandez",
     "name": "Fran Fernández",
     "location": {
