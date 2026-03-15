@@ -1,7 +1,6 @@
 "use server";
 
 import { createClient } from "@/lib/supabase/server";
-import { revalidatePath } from "next/cache";
 import { REPORT_PROBLEM_OPTIONS } from "@/lib/report-problem-options";
 
 const GITHUB_REPO = process.env.GITHUB_REPO || "milnikov/open-tattoo-artists";
@@ -135,7 +134,5 @@ export async function reportProblem(
     };
   }
 
-  revalidatePath("/profile");
-  revalidatePath(`/artists/${artistId}`);
   return { ok: true, issueUrl };
 }

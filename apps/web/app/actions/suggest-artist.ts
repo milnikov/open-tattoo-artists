@@ -1,7 +1,6 @@
 "use server";
 
 import { createClient } from "@/lib/supabase/server";
-import { revalidatePath } from "next/cache";
 
 const GITHUB_REPO = process.env.GITHUB_REPO || "milnikov/open-tattoo-artists";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
@@ -110,6 +109,5 @@ export async function suggestArtist(
     };
   }
 
-  revalidatePath("/profile");
   return { ok: true, issueUrl };
 }

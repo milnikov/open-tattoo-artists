@@ -2,6 +2,9 @@ import { Suspense } from "react";
 import { getCompactArtists, getAllowedCountryNames } from "@/lib/data";
 import { ArtistListPage } from "@/components/artist-list-page";
 
+/** Cache home page for 1 hour to reduce ISR read usage; content is from static data. */
+export const revalidate = 3600;
+
 function ArtistListPageFallback() {
   return (
     <div className="flex flex-col items-center justify-center py-32 px-4">
