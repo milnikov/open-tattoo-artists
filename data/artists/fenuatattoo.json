@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "fenuatattoo",
+  "name": "Pierre Martinez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fenuatattoo",
+    "instagram": "https://www.instagram.com/fenuatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fenuatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fenuatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fenuatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fenuatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Pierre Martinez is a renowned tattoo artist specializing in tribal and lettering styles, based in Sanary, France. His expertise in Polynesian, Marquesian, Maori, and tribal tattoos is evident in the precision and authenticity of his work. Clients consistently praise Pierre's professionalism, noting his dedication to providing both exceptional artistry and a comfortable, respectful experience in his studio.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "forsakenink",
+  "name": "Forsaken Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/forsakenink",
+    "instagram": "https://www.instagram.com/forsakenink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forsakenink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forsakenink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forsakenink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forsakenink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Step into the edgy realm of Forsaken Ink, where the fusion of black & gray, newschool, and realism comes to life under the steady hands of our visionary artists—Jamie Henderson, Jakub Nadrowski, and Jeff Schick. Nestled in the heart of Milford, PA at 601 West Harford Street, our studio is a haven for those who dare to express their stories through the timeless art of ink. Call (570) 296-0666 to begin your tattoo journey with us.\nPrice: $\nCurrent location:"
+}

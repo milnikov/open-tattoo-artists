@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "fernandobodyarttattoo",
+  "name": "Fernando Ornellas",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/fernandobodyarttattoo",
+    "instagram": "https://www.instagram.com/fernandobodyarttattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fernandobodyarttattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fernandobodyarttattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fernandobodyarttattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fernandobodyarttattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Tattoo artist Fernando Ornellas stands out in the fields of tribal and lettering styles, crafting intricate designs with a distinctive touch. Located in Nova Friburgo-RJ, Fernando is known for maintaining a high standard of cleanliness throughout all stages of the tattooing process, ensuring a safe and hygienic experience for all clients. Contact him via WhatsApp to discuss your tattoo ideas and schedule an appointment.\nPrice: $\nCurrent location:"
+}
