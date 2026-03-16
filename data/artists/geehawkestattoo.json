@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "geehawkestattoo",
+  "name": "Gee Hawkes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/geehawkestattoo",
+    "instagram": "https://www.instagram.com/geehawkestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/geehawkestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/geehawkestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/geehawkestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/geehawkestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Gee Hawkes is a highly skilled tattoo artist known for her distinct styles of floral, fineline, and minimalist tattoos. Proudly carrying an impressive following of roughly 110,000 enthusiasts on Instagram, her work truly speaks for itself in detail and creativity. Amidst her popularity, Gee maintains a level of professionalism by directing all business communication through her specified channels rather in the direct messaging of social media.\nPrice: $$$\nCurrent location:"
+}

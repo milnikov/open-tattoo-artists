@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "grayspacetattoos",
+  "name": "Gray Space",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/grayspacetattoos",
+    "instagram": "https://www.instagram.com/grayspacetattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/grayspacetattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/grayspacetattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/grayspacetattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/grayspacetattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Embrace the artistry of ink at Gray Space, the Sowerby Bridge Tattoo Studio renowned for its exquisite lettering and vibrant floral designs. Step into a serene, creatively charged atmosphere where custom tattoos spring to life, tailored just for you. Reach out with a direct message to embark on your unique body art journey—your skin is the canvas awaiting their masterful touch.\nPrice: $\nCurrent location:"
+}
