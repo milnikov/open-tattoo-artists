@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "gary_h_tattoos",
+  "name": "Gary Hanson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "fineline",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gary_h_tattoos",
+    "instagram": "https://www.instagram.com/gary_h_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gary_h_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gary_h_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gary_h_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gary_h_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Gary Hanson is a masterful tattoo artist specializing in illustrative, fine line, and traditional styles, ensuring each piece is crafted to perfection. His workspace at In Ink We Trust Tattoo on Eltham High Street in London is a testament to his dedication to cleanliness, providing clients with a safe and hygienic environment for their tattoo experiences. To book a session with Gary or make enquiries, simply drop him a direct message or send an email to experience his impeccable artistry first-hand.\nPrice: $\nCurrent location:"
+}

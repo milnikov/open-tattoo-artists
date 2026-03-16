@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "gothika_tattoo_pisa",
+  "name": "Gothika Tattoo Pisa",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gothika_tattoo_pisa",
+    "instagram": "https://www.instagram.com/gothika_tattoo_pisa/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gothika_tattoo_pisa/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gothika_tattoo_pisa/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gothika_tattoo_pisa/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gothika_tattoo_pisa/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Immerse yourself in the artistry of Gothika Tattoo Pisa, a premier tattoo studio nestled in the heart of Pisa at Via Pascoli 3. Renowned for their mastery in tribal patterns and exquisite lettering, our skilled artisans will craft a piece of wearable art tailored to your vision. Open Monday to Saturday, from 10 am to 1 pm and 3 pm to 7 pm, we also specialize in piercing services and offer an impressive collection of piercing jewelry to accentuate your individuality.\nPrice: $\nCurrent location:"
+}
