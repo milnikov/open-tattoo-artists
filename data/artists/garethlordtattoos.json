@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "garethlordtattoos",
+  "name": "Gareth Lord",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "floral",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/garethlordtattoos",
+    "instagram": "https://www.instagram.com/garethlordtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garethlordtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garethlordtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garethlordtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garethlordtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Gareth Lord is a proficient tattoo artist who specializes in traditional, floral, and geometric styles. Working out of Asgard in Southampton from Tuesday to Saturday, Gareth upholds the highest standards of professionalism in his craft. Clients consistently praise him for his dedication to creating stunning tattoo art in a meticulously clean and hygienic environment.\nPrice: $\nCurrent location:"
+}

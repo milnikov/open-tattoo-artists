@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ghostmeadow",
+  "name": "ghostmeadow",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ghostmeadow",
+    "instagram": "https://www.instagram.com/ghostmeadow/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghostmeadow/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghostmeadow/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghostmeadow/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghostmeadow/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Ghostmeadow is a proficient tattoo artist based in Vancouver, BC, who specializes in creating breathtaking floral designs. They maintain a pristine workspace upholding exemplary cleanliness standards. With an approachable demeanor, Ghostmeadow effortlessly blends professionalism and friendliness, making every tattoo session a comfortable and enjoyable experience.\nPrice: $$\nCurrent location:"
+}

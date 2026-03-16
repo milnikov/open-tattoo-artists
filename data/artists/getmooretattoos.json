@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "getmooretattoos",
+  "name": "Steve Moore",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/getmooretattoos",
+    "instagram": "https://www.instagram.com/getmooretattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/getmooretattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/getmooretattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/getmooretattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/getmooretattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Steve Moore is an exceptionally talented tattoo artist specializing in 'newschool' styles, known for his incredible creativity and exceptional precision. He operates from Sacred Heart Tattoo in Vancouver, Canada, communicating with his impressive client base of over 130,000 Instagram followers through his professional email - steve@getmooretattoos.com. Steve's work is not only famous locally, but his high skill level ensures his name is well-respected in the international tattoo community as well.\nPrice: $$$\nCurrent location:"
+}

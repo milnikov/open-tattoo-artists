@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "gerald_tatouage_toulouse",
+  "name": "Gérald Marmillon",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gerald_tatouage_toulouse",
+    "instagram": "https://www.instagram.com/gerald_tatouage_toulouse/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gerald_tatouage_toulouse/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gerald_tatouage_toulouse/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gerald_tatouage_toulouse/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gerald_tatouage_toulouse/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-15",
+  "bio": "Gérald Marmillon is a consummate professional in the field of black and gray tattoo artistry, operating out of his studio on 68 avenue de l'URSS in Toulouse. Clients can expect a seamless blend of impeccable skill and utmost cleanliness, ensuring both stunning results and a health-conscious environment. Gérald's reputation for maintaining high standards in both his craft and workspace makes him a sought-after artist in the tattoo community.\nPrice: $\nCurrent location:"
+}

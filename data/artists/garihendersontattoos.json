@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "garihendersontattoos",
+  "name": "Gari Henderson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/garihendersontattoos",
+    "instagram": "https://www.instagram.com/garihendersontattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garihendersontattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garihendersontattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garihendersontattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/garihendersontattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Gari Henderson is a seasoned tattoo artist who specializes in black&gray and realism styles, always showcasing great skill level in each crafted design. As the proud owner of @masamunetattoos, he maintains a high caliber of professionalism, encouraging clients to reach out via email for appointments or inquiries.\nPrice: $$\nCurrent location:"
+}

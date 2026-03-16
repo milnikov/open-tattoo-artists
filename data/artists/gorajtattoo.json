@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "gorajtattoo",
+  "name": "Marcin Góraj",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gorajtattoo",
+    "instagram": "https://www.instagram.com/gorajtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gorajtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gorajtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gorajtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gorajtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Marcin Góraj is a highly skilled tattoo artist from Poland, specializing in black and gray realism. Known for his remarkable attention to detail, his incisive work boasts intricate patterns and a sense of depth that brings his creations to life, managing to charm every onlooker. From effective shading to precise linework, Marcin's technique exhibits world-class caliber.\nPrice: $$\nCurrent location:"
+}
