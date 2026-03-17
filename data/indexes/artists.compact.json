@@ -179222,6 +179222,32 @@
     "updated_at": "2026-03-16"
   },
   {
+    "id": "hammerheadtattoo",
+    "name": "Hammerhead Tattoo",
+    "location": {
+      "city": "Chicago",
+      "country": "United States"
+    },
+    "styles": [
+      "realism",
+      "newschool",
+      "black&gray"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/hammerheadtattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerheadtattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerheadtattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerheadtattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerheadtattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerheadtattoo/thumb/004.webp"
+    ],
+    "bio": "Immerse yourself in the artful ambiance of Hammerhead Tattoo, Chicago's premier custom tattoo collective, where the mastery of realism, newschool, and black & gray styles come to life on skin. At Hammerhead Tattoo, esteemed artists like @benart13, @chrisrodas, @mekong_lotus, @kathleenthadream, @betty_tattoos, and @seitan_alvarez elevate your ink experience with impeccable precision and a splash of the Windy City's creative spirit. Join the ranks of the authentically adorned at this hub of artistic expression nestled in the heart of Chicago, United States.\nPrice: $\nCurrent location: Chicago, Illinois, United States",
+    "updated_at": "2026-03-17"
+  },
+  {
     "id": "hampuslifestyletattoo",
     "name": "Hampus Lifestyle Tattoo",
     "location": {
