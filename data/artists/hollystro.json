@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "hollystro",
+  "name": "Holly Stro",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hollystro",
+    "instagram": "https://www.instagram.com/hollystro/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hollystro/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hollystro/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hollystro/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hollystro/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Holly Stro is an esteemed tattoo artist specializing in the vibrant and dynamic 'newschool' style as well as the intricate and lifelike 'realism' genre. Operating out of Riverside Tattoo, Holly is renowned for their exceptional professionalism, ensuring that each client's experience is not only comfortable but also exceeds expectations with the highest standards of service. Holly's dedication to their craft is evident in the meticulous attention to detail and the impeccable quality of work they deliver to every client.\nPrice: $\nCurrent location:"
+}

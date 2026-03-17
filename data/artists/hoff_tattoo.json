@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "hoff_tattoo",
+  "name": "Sergei HOFF",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hoff_tattoo",
+    "instagram": "https://www.instagram.com/hoff_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hoff_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hoff_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hoff_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hoff_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Renowned for his exceptional talent in realism tattoos, Sergei Hoff is an artist whose attention to cleanliness in his practice is unparalleled. Whether working out of Pyatigorsk or Moscow, clients consistently praise the immaculate environment of his studio. Sergei's dedication to maintaining a clean and hygienic workspace ensures a safe and professional tattooing experience for everyone who walks through his doors.\nPrice: $\nCurrent location:"
+}

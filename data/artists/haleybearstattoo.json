@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "haleybearstattoo",
+  "name": "Haley Bears",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/haleybearstattoo",
+    "instagram": "https://www.instagram.com/haleybearstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/haleybearstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/haleybearstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/haleybearstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/haleybearstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Haley Bears is a highly skilled tattoo artist operating out of the esteemed Fallen Crow Tattoo studio in Murrieta, CA, renowned for their proficiency in illustrative, newschool, and neotraditional tattooing styles. Sponsored by @peakneedles and recognized for her meticulous attention to detail, Haley's illustrious artistry leaves every client with a remarkable and indelible masterpiece.\nPrice: $$\nCurrent location:"
+}

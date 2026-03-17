@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "hildbrandt",
+  "name": "Hildbrandt Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hildbrandt",
+    "instagram": "https://www.instagram.com/hildbrandt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hildbrandt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hildbrandt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hildbrandt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hildbrandt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Established in 2006, Hildbrandt Tattoo prides itself on being a quintessentially Canadian studio, specializing in meticulous dotwork and refined black & gray tattoos. They cater to professional artists by providing quality supplies, with the perk of sharing your work for a feature and a special discount. With their worldwide shipping, Hildbrandt Tattoo touches every corner of the globe with its commitment to excellence in the ink arts.\nPrice: $\nCurrent location:"
+}

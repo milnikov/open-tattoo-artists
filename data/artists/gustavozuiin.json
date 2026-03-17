@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "gustavozuiin",
+  "name": "Gustavo Zuin",
+  "location": {
+    "city": "Campinas",
+    "country": "Brazil"
+  },
+  "styles": [
+    "realism",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gustavozuiin",
+    "instagram": "https://www.instagram.com/gustavozuiin/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gustavozuiin/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gustavozuiin/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gustavozuiin/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gustavozuiin/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Gustavo Zuin is a highly skilled tattoo artist based in Campinas, Brazil, specializing in realism and fineline styles. His precision in detail and mastery in bringing lifelike representations onto skin sets him apart in the tattooing community. Clients can expect top-notch artwork in a professional setting, ensuring each piece is crafted with the utmost dedication to quality.\nPrice: $\nCurrent location: Campinas, Sao Paulo, Brazil"
+}

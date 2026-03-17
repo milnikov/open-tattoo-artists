@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "hktattoo_tina",
+  "name": "Tina Choi",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hktattoo_tina",
+    "instagram": "https://www.instagram.com/hktattoo_tina/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hktattoo_tina/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hktattoo_tina/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hktattoo_tina/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hktattoo_tina/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Tina Choi is a highly proficient tattoo artist, specializing in minimalistic and illustrative styles. Her skill level is impressively reflected in her delicate, yet bold line work and an aesthetic that can best be described as tasteful simplicity. Serving the Bay Area, she ensures an outstanding level of cleanliness and professionalism during the tattoo process.\nPrice: $$\nCurrent location:"
+}

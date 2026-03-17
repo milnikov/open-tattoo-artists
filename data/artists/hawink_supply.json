@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "hawink_supply",
+  "name": "Hawink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hawink_supply",
+    "instagram": "https://www.instagram.com/hawink_supply/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hawink_supply/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hawink_supply/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hawink_supply/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hawink_supply/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Hawink Tattoo: where artistry meets precision in an eclectic studio brimming with illustrative flair. Our team of professional tattoo artists specializes in bespoke designs that bring your unique visions to life. For a truly collaborative inking experience rooted in creativity, reach out to us and let your skin become the canvas for our masterpieces.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "hdizzletattoo",
+  "name": "Hannah Diaz",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hdizzletattoo",
+    "instagram": "https://www.instagram.com/hdizzletattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hdizzletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hdizzletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hdizzletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hdizzletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Hannah Diaz is an emerging talent specializing in the meticulous dotwork tattoo style, honing her craft as an apprentice at Classic Marking Studio in the UK. Despite her early career stage, her professionalism shines through in every piece she produces, ensuring clients are involved and informed throughout the entire tattooing process. Hannah's commitment to perfecting her skill is evident in the precision and care she takes with every design.\nPrice: $\nCurrent location:"
+}

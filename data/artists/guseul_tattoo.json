@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "guseul_tattoo",
+  "name": "Guseul Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/guseul_tattoo",
+    "instagram": "https://www.instagram.com/guseul_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guseul_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guseul_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guseul_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guseul_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Guseul Tattoo is an exceptional tattoo artist based in Los Angeles, specializing in illustrative, watercolor, and minimalist styles. With a captivating Instagram following of around 76,000 people, Guseul's work speaks for itself in immense skill level. To professionally discuss designs and appointments, they maintain strict communication through emails only. Each interaction and studio visit is complemented with the utmost respect for cleanliness and hygiene standards.\nPrice: $$$\nCurrent location:"
+}
