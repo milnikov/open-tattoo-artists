@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "hanahelizabethtattoo",
+  "name": "Hannah Elizabeth Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "traditional",
+    "neotraditional",
+    "sponsor:",
+    "magnumtattoo"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hanahelizabethtattoo",
+    "instagram": "https://www.instagram.com/hanahelizabethtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanahelizabethtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanahelizabethtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanahelizabethtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanahelizabethtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Hannah Elizabeth Tattoo is a proficient artist specializing in illustrative, traditional, and neotraditional styles. Her work at Black Heart Collective is distinguished by her expert application of vibrant color. Her professionalism shines through in how she manages inquiries, preferring potential clients to reach her through direct message for a personalized response.\nPrice: $$\nCurrent location:"
+}

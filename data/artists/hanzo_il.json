@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "hanzo_il",
+  "name": "Hanzo Il",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hanzo_il",
+    "instagram": "https://www.instagram.com/hanzo_il/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanzo_il/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanzo_il/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanzo_il/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hanzo_il/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Hanzo Il is a master tattoo artist boasting a diverse portfolio in Japanese, Neotraditional, and Newschool styles. Based at Old Salt Tattoo in Bavaria, Germany, Hanzo's immaculate attention to detail and exceptional cleanliness set the standard for an unparalleled tattooing experience. Clients leave not only with spectacular ink but with the assurance of having been in the care of a professional who prioritizes hygiene in every aspect of their work.\nPrice: $\nCurrent location:"
+}

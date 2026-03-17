@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "handitrip",
+  "name": "Tattooist Zio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/handitrip",
+    "instagram": "https://www.instagram.com/handitrip/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handitrip/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handitrip/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handitrip/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handitrip/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Tattooist Zio, renowned for their minimalist style, is often hailed as a prominent figure in the tattoo industry, boasting roughly 78,000 followers on Instagram. Their remarkable talent merges professionalism with artistry, making them highly sought-after not just in their hometown of Busan, Republic of Korea, but globally. Despite their immense following, they maintain a high level of attentiveness towards clients, demonstrating their passion for their craft.\nPrice: $$$\nCurrent location:"
+}

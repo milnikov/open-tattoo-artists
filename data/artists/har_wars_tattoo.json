@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "har_wars_tattoo",
+  "name": "Harley Fezekas",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/har_wars_tattoo",
+    "instagram": "https://www.instagram.com/har_wars_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/har_wars_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/har_wars_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/har_wars_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/har_wars_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Harley Fezekas is a highly skilled tattoo artist, renowned for their expertise in newschool, realism, and black & gray styles. Known for their meticulousness, Harley maintains an exceptional standard of cleanliness in their practice, ensuring a safe and hygienic experience for every client. To discuss your next piece of body art, reach out to Harley at Venture Tattoo via DM or email at har.har@live.com.\nPrice: $\nCurrent location:"
+}

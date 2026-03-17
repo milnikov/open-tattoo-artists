@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "guillaumegustattoo",
+  "name": "Guillaume Couture",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/guillaumegustattoo",
+    "instagram": "https://www.instagram.com/guillaumegustattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guillaumegustattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guillaumegustattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guillaumegustattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guillaumegustattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Guillaume Couture is a highly-skilled tattoo artist specializing in neotraditional and newschool styles, mastering bold lines and vibrant colors. As the owner of Gustattoo Montreal, located at 1387 Mont-Royal Est, his professionalism is reflected in his well-managed studio and the streamlined process for booking appointments through email at gustattoos@gmail.com or by phone at 438-880-5386. Clients value Guillaume's meticulous attention to detail, ensuring each piece is a work of art.\nPrice: $\nCurrent location:"
+}

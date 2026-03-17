@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "hammertattoos_piercings",
+  "name": "Hammer Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hammertattoos_piercings",
+    "instagram": "https://www.instagram.com/hammertattoos_piercings/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammertattoos_piercings/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammertattoos_piercings/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammertattoos_piercings/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammertattoos_piercings/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-16",
+  "bio": "Step into the art-filled ambiance of Hammer Tattoos, where creativity meets precision in the heart of Heilbronn-Biberach. Renowned for striking realism, elegant black & gray, and chic minimalist designs, our studio promises an exclusive inking experience that embodies your personal expression. Connect with us for a masterpiece creation that's as exceptional as you are.\nPrice: $\nCurrent location:"
+}

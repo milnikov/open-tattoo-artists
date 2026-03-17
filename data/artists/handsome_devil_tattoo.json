@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "handsome_devil_tattoo",
+  "name": "Byron Bullets",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "trashpolka",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/handsome_devil_tattoo",
+    "instagram": "https://www.instagram.com/handsome_devil_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handsome_devil_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handsome_devil_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handsome_devil_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handsome_devil_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Byron Bullets is a highly skilled tattoo artist renowned for his mastery in traditional, trashpolka, and black & gray styles. Operating out of Lake Havasu City, AZ, Byron combines artistic precision with professionalism, ensuring clients are not only impressed by the quality of his work but also by the meticulous cleanliness of his studio. His portfolio can be explored on Instagram @byronbullets, where his impressive range of designs speaks to the depth of his talent.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "gueldner_tattoo_und_piercing",
+  "name": "Frank Güldner",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/gueldner_tattoo_und_piercing",
+    "instagram": "https://www.instagram.com/gueldner_tattoo_und_piercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gueldner_tattoo_und_piercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gueldner_tattoo_und_piercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gueldner_tattoo_und_piercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gueldner_tattoo_und_piercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Frank Güldner is a highly skilled tattoo artist specializing in black and gray realism, seamlessly bringing intricate designs to life with expert precision. Clients appreciate not only his exceptional talent but also the utmost cleanliness he maintains in his studio located at Frankfurter Str. 75, 57074 Siegen. Frank’s dedication to a sterile environment ensures a safe and professional tattooing experience for everyone.\nPrice: $\nCurrent location:"
+}
