@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "inkcastle_tattoo",
+  "name": "Ink Castle",
+  "location": {
+    "city": "Pompano Beach",
+    "country": "United States"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkcastle_tattoo",
+    "instagram": "https://www.instagram.com/inkcastle_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkcastle_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkcastle_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "inkabelletattoo",
+  "name": "Karin Bütikofer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkabelletattoo",
+    "instagram": "https://www.instagram.com/inkabelletattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkabelletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkabelletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkabelletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkabelletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Karin Bütikofer is a highly skilled tattoo artist specializing in minimalist, fineline, and lettering styles that cater to a clientele seeking delicate and precise artwork. Known for maintaining an immaculate workspace, clients can trust in the cleanliness of her studio, ensuring a safe and hygienic environment for every tattoo session. Karin's commitment to the highest standards of her craft is evident in the meticulous details of her designs and the care she takes with each piece she creates.\nPrice: $\nCurrent location:"
+}

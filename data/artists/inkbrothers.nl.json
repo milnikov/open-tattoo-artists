@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "inkbrothers.nl",
+  "name": "Inkbrothers",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "realism",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkbrothers.nl",
+    "instagram": "https://www.instagram.com/inkbrothers.nl/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbrothers.nl/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbrothers.nl/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbrothers.nl/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbrothers.nl/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Inkbrothers is a tattoo studio renowned for its impeccable professionalism, which is reflected in the stunning execution of diverse styles including black & gray, geometric, and realism. The artists' dedication to the craft is evident in the detail-oriented vegan tattoos that they create, consistently meeting the expectations of clients seeking originality and precision. The dependability and skilled artistry of Inkbrothers make them a top choice for anyone looking to get inked with intricate designs and realistic works.\nPrice: $$\nCurrent location:"
+}

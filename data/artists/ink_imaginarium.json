@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ink_imaginarium",
+  "name": "Ink Imaginarium",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ink_imaginarium",
+    "instagram": "https://www.instagram.com/ink_imaginarium/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_imaginarium/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_imaginarium/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_imaginarium/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_imaginarium/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Ink Imaginarium, based in Peterborough, UK, is a highly skilled tattoo artist specializing in illustrative and watercolor styles. Their talent for creating vibrant and intricate designs is matched only by their commitment to maintaining a clean and hygienic workspace. Clients can expect not only a stunning piece of body art but also the utmost professionalism in a meticulously maintained environment.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ikklechick",
+  "name": "Ness",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ikklechick",
+    "instagram": "https://www.instagram.com/ikklechick/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ikklechick/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ikklechick/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ikklechick/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ikklechick/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Ness is a highly skilled illustrative tattoo artist whose attention to cleanliness is unparalleled. They operate out of Tattoo FX, located at 32 Middle Village, Bolnore, in West Sussex. Clients rave about the immaculate environment of their studio, ensuring peace of mind for anyone seeking a new piece of art.\nPrice: $\nCurrent location:"
+}

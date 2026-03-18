@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "immortalink_ct",
+  "name": "Dan",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/immortalink_ct",
+    "instagram": "https://www.instagram.com/immortalink_ct/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/immortalink_ct/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/immortalink_ct/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/immortalink_ct/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/immortalink_ct/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Dan is a master of the 'newschool' tattoo style, brandishing over two decades of experience in both tattooing and piercing. Known for maintaining an exceptionally clean workspace, clients can trust in the hygiene and safety practices upheld in every session. His expertise ensures that every piece is not only a work of art but also a testament to the importance he places on a clean and professional tattooing environment.\nPrice: $\nCurrent location:"
+}

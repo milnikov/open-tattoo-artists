@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "inkconceivable",
+  "name": "Ink Conceivable",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkconceivable",
+    "instagram": "https://www.instagram.com/inkconceivable/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkconceivable/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkconceivable/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkconceivable/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkconceivable/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Step into the artistic realm of Ink Conceivable, a studio renowned since 2004 for mastering the fluid charm of watercolor tattoos and the intricate details of illustrative designs. With a legacy of ink artistry, this studio has been a sanctuary for creativity and self-expression. Although currently closed indefinitely, the memories of vibrancy and the strokes of genius on skin linger, marking an indelible impression on the canvas of the tattoo community.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2004"
+}

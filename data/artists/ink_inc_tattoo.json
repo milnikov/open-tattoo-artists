@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ink_inc_tattoo",
+  "name": "Ink Inc Tattoo Artist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ink_inc_tattoo",
+    "instagram": "https://www.instagram.com/ink_inc_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_inc_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_inc_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_inc_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_inc_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Ink Inc Tattoo Artist, situated at the heart of Kingston on 327 Wall St., NY, is a contemporary haven for skin art enthusiasts, specializing in striking neotraditional and black & gray inkwork. Embrace the welcoming atmosphere where both appointments and walk-ins are greeted with equal enthusiasm, available Sunday from 12-5pm and Monday through Saturday from 11-8pm. Step into this artistic domain by calling 845-331-1993 or simply stroll in to begin your tattoo journey."
+}

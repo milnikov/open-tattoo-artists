@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "hongtattooart",
+  "name": "Hong Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hongtattooart",
+    "instagram": "https://www.instagram.com/hongtattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hongtattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hongtattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hongtattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hongtattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-17",
+  "bio": "Hong Tattoo, a masterful artist specializing in black & gray and watercolor tattoos, has earned a reputation for their exceptional skill in creating intricate and vibrant body art. Known for maintaining an immaculate studio environment, cleanliness is at the forefront of Hong Tattoo's practice, ensuring clients feel comfortable and safe while receiving their bespoke tattoos in Beijing, China. Their commitment to a sterile workspace is matched only by their proficiency as a tattoo artist.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "hovas_tattoos",
+  "name": "Hova",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/hovas_tattoos",
+    "instagram": "https://www.instagram.com/hovas_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hovas_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hovas_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hovas_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hovas_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Hova is an exceptionally skilled tattoo artist who specializes in 'realism' style. Located in the heart of Inland Empire, Hova's incredible talent earns him notable sponsorships from distinguished brands like Bishop Rotary, Hustle Butter Deluxe, and Tribal Street Wear. This shows not just his adeptness at his craft, but also the respect and recognition he has garnered in the tattoo industry.\nPrice: $$\nCurrent location:"
+}
