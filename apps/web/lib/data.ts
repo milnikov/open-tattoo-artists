@@ -108,7 +108,23 @@ export function getCompactArtists(): CompactArtist[] {
   const p = path.join(REPO_ROOT, "data", "indexes", "artists.compact.json");
   if (!fs.existsSync(p)) return [];
   const all = JSON.parse(fs.readFileSync(p, "utf-8")) as CompactArtist[];
-  return all.filter((a) => !isArtistHidden(a));
+
+  const visible = all.filter((a) => !isArtistHidden(a));
+
+  // Enrich with verified flag from full artist JSON when available.
+  return visible.map((a) => {
+    try {
+      const fullPath = path.join(REPO_ROOT, "data", "artists", `${a.id}.json`);
+      if (!fs.existsSync(fullPath)) return a;
+      const full = JSON.parse(fs.readFileSync(fullPath, "utf-8")) as Artist;
+      if (full.verified) {
+        return { ...a, verified: full.verified };
+      }
+      return a;
+    } catch {
+      return a;
+    }
+  });
 }
 
 export function getSearchIndex(): SearchIndexEntry[] {
