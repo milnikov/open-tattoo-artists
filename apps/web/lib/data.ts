@@ -75,6 +75,8 @@ export interface CompactArtist {
   follower_count?: number;
   /** Optional moderation flag: "artist" | "studio". Missing = not verified yet. */
   verified?: "artist" | "studio";
+  /** Domain of links.source (e.g. "tattooswizard.com"). */
+  source_domain?: string;
 }
 
 export interface SearchIndexEntry {
@@ -111,16 +113,28 @@ export function getCompactArtists(): CompactArtist[] {
 
   const visible = all.filter((a) => !isArtistHidden(a));
 
-  // Enrich with verified flag from full artist JSON when available.
+  function getDomain(url: string | undefined): string | null {
+    if (!url) return null;
+    try {
+      const u = new URL(url);
+      return u.hostname.replace(/^www\./, "");
+    } catch {
+      return null;
+    }
+  }
+
+  // Enrich with verified/source from full artist JSON when available.
   return visible.map((a) => {
     try {
       const fullPath = path.join(REPO_ROOT, "data", "artists", `${a.id}.json`);
       if (!fs.existsSync(fullPath)) return a;
       const full = JSON.parse(fs.readFileSync(fullPath, "utf-8")) as Artist;
-      if (full.verified) {
-        return { ...a, verified: full.verified };
-      }
-      return a;
+      const sourceDomain = getDomain(full.links?.source);
+      return {
+        ...a,
+        verified: full.verified ?? a.verified,
+        source_domain: sourceDomain ?? a.source_domain,
+      };
     } catch {
       return a;
     }

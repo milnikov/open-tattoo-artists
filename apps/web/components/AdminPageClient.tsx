@@ -17,6 +17,7 @@ type FlattenedTattoo = {
   country: string;
   city: string;
   styles: string[];
+  sourceDomain: string;
 };
 
 interface AdminPageClientProps {
@@ -33,6 +34,7 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
   const [styleFilter, setStyleFilter] = useState("");
   const [countryFilter, setCountryFilter] = useState("");
   const [cityFilter, setCityFilter] = useState("");
+  const [sourceFilter, setSourceFilter] = useState("");
 
   const [artistPage, setArtistPage] = useState(0);
   const [tattooPage, setTattooPage] = useState(0);
@@ -46,23 +48,26 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
 
   const [markdownLog, setMarkdownLog] = useState<string>("# Admin session log\n\n");
 
-  const { styles, countries, citiesInCountry } = useMemo(() => {
+  const { styles, countries, citiesInCountry, sources } = useMemo(() => {
     const styleSet = new Set<string>();
     const countrySet = new Set<string>();
     const cityByCountry = new Map<string, Set<string>>();
+    const sourceSet = new Set<string>();
     for (const a of artists) {
       for (const s of a.styles) styleSet.add(s);
       const c = a.location.country;
       countrySet.add(c);
       if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
       cityByCountry.get(c)!.add(a.location.city);
+      if (a.source_domain) sourceSet.add(a.source_domain);
     }
     const styles = Array.from(styleSet).sort();
     const countries = Array.from(countrySet).sort();
     const citiesInCountry = countryFilter
       ? Array.from(cityByCountry.get(countryFilter) ?? []).sort()
       : [];
-    return { styles, countries, citiesInCountry };
+    const sources = Array.from(sourceSet).sort();
+    return { styles, countries, citiesInCountry, sources };
   }, [artists, countryFilter]);
 
   const filteredArtists = useMemo(() => {
@@ -72,9 +77,10 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       if (styleFilter && !a.styles.includes(styleFilter)) return false;
       if (countryFilter && a.location.country !== countryFilter) return false;
       if (cityFilter && a.location.city !== cityFilter) return false;
+      if (sourceFilter && (a.source_domain ?? "unknown") !== sourceFilter) return false;
       return true;
     });
-  }, [artists, hiddenArtistIds, styleFilter, countryFilter, cityFilter]);
+  }, [artists, hiddenArtistIds, styleFilter, countryFilter, cityFilter, sourceFilter]);
 
   const artistTotalPages = Math.max(
     1,
@@ -95,9 +101,10 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       if (styleFilter && !t.styles.includes(styleFilter)) return false;
       if (countryFilter && t.country !== countryFilter) return false;
       if (cityFilter && t.city !== cityFilter) return false;
+      if (sourceFilter && t.sourceDomain !== sourceFilter) return false;
       return true;
     });
-  }, [tattoos, hiddenTattooKeys, styleFilter, countryFilter, cityFilter]);
+  }, [tattoos, hiddenTattooKeys, styleFilter, countryFilter, cityFilter, sourceFilter]);
 
   const tattooTotalPages = Math.max(
     1,
@@ -248,9 +255,28 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
                   ))}
                 </select>
               </label>
+              <label className="flex items-center gap-2 text-xs">
+                <span className="text-muted-foreground">Source</span>
+                <select
+                  value={sourceFilter}
+                  onChange={(e) => {
+                    setSourceFilter(e.target.value);
+                    setArtistPage(0);
+                    setTattooPage(0);
+                  }}
+                  className="rounded border border-border bg-background px-2 py-1 text-xs"
+                >
+                  <option value="">All</option>
+                  {sources.map((s) => (
+                    <option key={s} value={s}>
+                      {s}
+                    </option>
+                  ))}
+                </select>
+              </label>
               <span className="text-xs text-muted-foreground">
                 {tab === "artists"
-                  ? `${filteredArtists.length} artists`
+                  ? `${filteredArtists.length} artists to check`
                   : `${allTattoos.length} tattoos`}
               </span>
             </div>

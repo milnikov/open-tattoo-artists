@@ -26,6 +26,14 @@ export default async function AdminPage() {
   const tattoos = verifiedArtistIds.flatMap((id) => {
     const full = getArtist(id);
     if (!full) return [];
+    let sourceDomain: string | null = null;
+    try {
+      if (full.links?.source) {
+        sourceDomain = new URL(full.links.source).hostname.replace(/^www\./, "");
+      }
+    } catch {
+      sourceDomain = null;
+    }
     return full.tattoos.map((t) => ({
       artistId: full.id,
       artistName: full.name,
@@ -35,6 +43,7 @@ export default async function AdminPage() {
       country: full.location.country,
       city: full.location.city,
       styles: full.styles,
+      sourceDomain: sourceDomain ?? "unknown",
     }));
   });
 
