@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "inkfusionempire",
+  "name": "Ink Fusion Empire",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "realism",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkfusionempire",
+    "instagram": "https://www.instagram.com/inkfusionempire/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkfusionempire/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkfusionempire/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkfusionempire/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkfusionempire/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Ink Fusion Empire is a legendary tattoo studio that masterfully blends newschool, realism, and illustrative styles into unique body art. It's renowned across the globe for its fusion of pop culture and tattooing, consistently making its mark at entertainment and comic conventions. Experience a dynamic, creative atmosphere where the avant-garde meets the traditional, guaranteeing an exclusive and memorable tattooing encounter."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ianmillerart",
+  "name": "Ian Miller",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ianmillerart",
+    "instagram": "https://www.instagram.com/ianmillerart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ianmillerart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ianmillerart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ianmillerart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ianmillerart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Ian Miller is a highly skilled tattoo artist at Legion Art Collective, specializing in the black and gray, as well as realism styles. Through his intricate and lifelike designs, he has clearly demonstrated his hard-earned proficiency, crafting each tattoo as a unique work of art with sharp attention to detail. His high level of skill is an asset to those who seek a one-of-a-kind tattoo experience.\nPrice: $$\nCurrent location:"
+}

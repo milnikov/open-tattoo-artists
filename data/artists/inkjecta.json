@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "inkjecta",
+  "name": "InkJecta",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkjecta",
+    "instagram": "https://www.instagram.com/inkjecta/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkjecta/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkjecta/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkjecta/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkjecta/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "InkJecta is an extraordinarily skilled realism tattoo artist hailing from Australia where they also build their own tattoo machines. They command a strong following of over 250,000 fans on Instagram, a testament to their extraordinary talent and craft. Infusing a touch of realism into every piece of art they create, InkJecta's work is synonymous with perfection.\nPrice: $$$\nCurrent location:"
+}

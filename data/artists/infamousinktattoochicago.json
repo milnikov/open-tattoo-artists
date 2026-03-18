@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "infamousinktattoochicago",
+  "name": "Infamous Ink Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/infamousinktattoochicago",
+    "instagram": "https://www.instagram.com/infamousinktattoochicago/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infamousinktattoochicago/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infamousinktattoochicago/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infamousinktattoochicago/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infamousinktattoochicago/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Infamous Ink Tattoo Studio specializes in bringing art to life with stunning realism and intricate tribal designs. Located at 1606 W. North Avenue in the heart of Chicago, this premier tattoo parlor prides itself on a clean, professional environment where creativity meets precision. Call (773)252-7422 to book an appointment with some of the city's most talented ink masters.\nPrice: $\nCurrent location:"
+}

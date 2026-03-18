@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "inklounge",
+  "name": "Inklounge",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inklounge",
+    "instagram": "https://www.instagram.com/inklounge/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklounge/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklounge/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklounge/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklounge/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Inklounge is a sophisticated tattoo studio nestled in the heart of Central London that expertly specializes in black and gray realism. Known for welcoming both resident and guest artists, they urge tattoo enthusiasts to either walk in from Monday to Saturday or to reserve an appointment via phone or email. The studio's inclusive and relaxed environment creates a unique experience that mixes the richness of art with the charm of London.\nPrice: $$\nCurrent location:"
+}

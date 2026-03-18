@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ink4life.tattoo",
+  "name": "Ink4Life",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ink4life.tattoo",
+    "instagram": "https://www.instagram.com/ink4life.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink4life.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink4life.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink4life.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink4life.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Welcome to Ink4Life, a sanctuary of elegance where the art of floral tattooing blooms on skin with grace and beauty. With a private and attentive care, Ink4Life invites clients to connect through WhatsApp for personalized consultations and bookings. Join tattoo artists Daniela Moraes and Gabriela for a bespoke inking experience that's as unique as the flourishing designs they masterfully create.\nPrice: $\nCurrent location:"
+}

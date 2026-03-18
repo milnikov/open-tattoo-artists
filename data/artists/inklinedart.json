@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "inklinedart",
+  "name": "Krista Purbaugh",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "watercolor",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inklinedart",
+    "instagram": "https://www.instagram.com/inklinedart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklinedart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklinedart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklinedart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklinedart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Welcome to Krista Purbaugh's boutique tattoo haven, where artistry blooms in strokes of floral elegance, watercolor whimsy, and fineline precision. Our studio prides itself on being an immaculate and serene escape nestled in the heart of Salt Lake City. Experience the fusion of creativity and tranquility—text us to schedule your appointment and transform your vision into exquisite ink.\nPrice: $\nCurrent location:"
+}

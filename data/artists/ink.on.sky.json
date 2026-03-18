@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ink.on.sky",
+  "name": "Ink On Sky",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "sponsor:",
+    "bepantholtattoo"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ink.on.sky",
+    "instagram": "https://www.instagram.com/ink.on.sky/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink.on.sky/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink.on.sky/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink.on.sky/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink.on.sky/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Ink On Sky is a highly talented tattoo artist with an eye for minimalist designs. With a whopping 200k followers on Instagram, their skill and expertise are admired and followed by tattoo enthusiasts from all corners of the globe. They maintain utmost professionalism and cleanliness in their work, and also offer the convenience of online appointment bookings.\nPrice: $$$\nCurrent location:"
+}
