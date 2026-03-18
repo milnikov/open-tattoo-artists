@@ -18,6 +18,7 @@ type FlattenedTattoo = {
   city: string;
   styles: string[];
   sourceDomain: string;
+  instagramEnriched: boolean;
 };
 
 interface AdminPageClientProps {
@@ -35,6 +36,7 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
   const [countryFilter, setCountryFilter] = useState("");
   const [cityFilter, setCityFilter] = useState("");
   const [sourceFilter, setSourceFilter] = useState("");
+  const [instagramEnrichedOnly, setInstagramEnrichedOnly] = useState(false);
 
   const [artistPage, setArtistPage] = useState(0);
   const [tattooPage, setTattooPage] = useState(0);
@@ -78,9 +80,19 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       if (countryFilter && a.location.country !== countryFilter) return false;
       if (cityFilter && a.location.city !== cityFilter) return false;
       if (sourceFilter && (a.source_domain ?? "unknown") !== sourceFilter) return false;
+      const isEnriched = Boolean(a.instagram_enriched);
+      if (instagramEnrichedOnly ? !isEnriched : isEnriched) return false;
       return true;
     });
-  }, [artists, hiddenArtistIds, styleFilter, countryFilter, cityFilter, sourceFilter]);
+  }, [
+    artists,
+    hiddenArtistIds,
+    styleFilter,
+    countryFilter,
+    cityFilter,
+    sourceFilter,
+    instagramEnrichedOnly,
+  ]);
 
   const artistTotalPages = Math.max(
     1,
@@ -102,9 +114,18 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       if (countryFilter && t.country !== countryFilter) return false;
       if (cityFilter && t.city !== cityFilter) return false;
       if (sourceFilter && t.sourceDomain !== sourceFilter) return false;
+      if (instagramEnrichedOnly ? !t.instagramEnriched : t.instagramEnriched) return false;
       return true;
     });
-  }, [tattoos, hiddenTattooKeys, styleFilter, countryFilter, cityFilter, sourceFilter]);
+  }, [
+    tattoos,
+    hiddenTattooKeys,
+    styleFilter,
+    countryFilter,
+    cityFilter,
+    sourceFilter,
+    instagramEnrichedOnly,
+  ]);
 
   const tattooTotalPages = Math.max(
     1,
@@ -273,6 +294,24 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
                     </option>
                   ))}
                 </select>
+              </label>
+              <label className="flex items-center gap-2 text-xs">
+                <span className="text-muted-foreground">Instagram enriched</span>
+                <button
+                  type="button"
+                  onClick={() => {
+                    setInstagramEnrichedOnly((v) => !v);
+                    setArtistPage(0);
+                    setTattooPage(0);
+                  }}
+                  className={`text-[11px] px-2 py-1 rounded border border-border transition-colors ${
+                    instagramEnrichedOnly
+                      ? "bg-foreground text-background"
+                      : "bg-background text-foreground hover:bg-secondary"
+                  }`}
+                >
+                  {instagramEnrichedOnly ? "On" : "Off"}
+                </button>
               </label>
               <span className="text-xs text-muted-foreground">
                 {tab === "artists"

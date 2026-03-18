@@ -44,6 +44,7 @@ export default async function AdminPage() {
       city: full.location.city,
       styles: full.styles,
       sourceDomain: sourceDomain ?? "unknown",
+      instagramEnriched: Boolean((full as unknown as { instagram_enriched?: unknown }).instagram_enriched),
     }));
   });
 

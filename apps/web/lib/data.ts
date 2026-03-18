@@ -77,6 +77,8 @@ export interface CompactArtist {
   verified?: "artist" | "studio";
   /** Domain of links.source (e.g. "tattooswizard.com"). */
   source_domain?: string;
+  /** Whether the artist JSON has instagram_enriched data. */
+  instagram_enriched?: boolean;
 }
 
 export interface SearchIndexEntry {
@@ -128,12 +130,15 @@ export function getCompactArtists(): CompactArtist[] {
     try {
       const fullPath = path.join(REPO_ROOT, "data", "artists", `${a.id}.json`);
       if (!fs.existsSync(fullPath)) return a;
-      const full = JSON.parse(fs.readFileSync(fullPath, "utf-8")) as Artist;
+      const full = JSON.parse(fs.readFileSync(fullPath, "utf-8")) as Artist & {
+        instagram_enriched?: unknown;
+      };
       const sourceDomain = getDomain(full.links?.source);
       return {
         ...a,
         verified: full.verified ?? a.verified,
         source_domain: sourceDomain ?? a.source_domain,
+        instagram_enriched: Boolean(full.instagram_enriched),
       };
     } catch {
       return a;
