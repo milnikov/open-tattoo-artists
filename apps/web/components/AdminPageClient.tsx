@@ -8,22 +8,26 @@ type AdminTab = "artists" | "tattoos";
 
 type AdminArtistAction = "not-artist" | "studio";
 
-interface AdminPageClientProps {
-  artists: CompactArtist[];
-}
-
 type FlattenedTattoo = {
   artistId: string;
   artistName: string;
   imageId: string;
   imageThumb: string;
   imageFull: string;
+  country: string;
+  city: string;
+  styles: string[];
 };
+
+interface AdminPageClientProps {
+  artists: CompactArtist[];
+  tattoos: FlattenedTattoo[];
+}
 
 const ARTISTS_PAGE_SIZE = 60;
 const TATTOOS_PAGE_SIZE = 60;
 
-export function AdminPageClient({ artists }: AdminPageClientProps) {
+export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
   const [tab, setTab] = useState<AdminTab>("artists");
 
   const [styleFilter, setStyleFilter] = useState("");
@@ -86,15 +90,14 @@ export function AdminPageClient({ artists }: AdminPageClientProps) {
   );
 
   const allTattoos: FlattenedTattoo[] = useMemo(() => {
-    const out: FlattenedTattoo[] = [];
-    for (const a of filteredArtists) {
-      for (const t of a.thumbs ?? []) {
-        // thumbs array used for list; skip here
-      }
-      // CompactArtist does not include tattoos; this tab is best-effort and expects full pages for detailed review later.
-    }
-    return out;
-  }, [filteredArtists]);
+    return tattoos.filter((t) => {
+      if (hiddenTattooKeys.has(`${t.artistId}:${t.imageId}`)) return false;
+      if (styleFilter && !t.styles.includes(styleFilter)) return false;
+      if (countryFilter && t.country !== countryFilter) return false;
+      if (cityFilter && t.city !== cityFilter) return false;
+      return true;
+    });
+  }, [tattoos, hiddenTattooKeys, styleFilter, countryFilter, cityFilter]);
 
   const tattooTotalPages = Math.max(
     1,

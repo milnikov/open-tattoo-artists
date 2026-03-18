@@ -1,5 +1,5 @@
 import { redirect } from "next/navigation";
-import { getCompactArtists } from "@/lib/data";
+import { getArtist, getCompactArtists } from "@/lib/data";
 import { createClient } from "@/lib/supabase/server";
 import { AdminPageClient } from "@/components/AdminPageClient";
 
@@ -19,6 +19,25 @@ export default async function AdminPage() {
 
   const artists = getCompactArtists();
 
-  return <AdminPageClient artists={artists} />;
+  const verifiedArtistIds = artists
+    .filter((a) => a.verified === "artist")
+    .map((a) => a.id);
+
+  const tattoos = verifiedArtistIds.flatMap((id) => {
+    const full = getArtist(id);
+    if (!full) return [];
+    return full.tattoos.map((t) => ({
+      artistId: full.id,
+      artistName: full.name,
+      imageId: t.image_id,
+      imageThumb: t.image_thumb,
+      imageFull: t.image_full,
+      country: full.location.country,
+      city: full.location.city,
+      styles: full.styles,
+    }));
+  });
+
+  return <AdminPageClient artists={artists} tattoos={tattoos} />;
 }
 
