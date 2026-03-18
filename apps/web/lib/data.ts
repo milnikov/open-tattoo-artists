@@ -73,6 +73,8 @@ export interface CompactArtist {
   updated_at?: string;
   /** Instagram follower count (from instagram_enriched); used to show artists with no bio when >1000. */
   follower_count?: number;
+  /** Optional moderation flag: "artist" | "studio". Missing = not verified yet. */
+  verified?: "artist" | "studio";
 }
 
 export interface SearchIndexEntry {
@@ -98,6 +100,8 @@ export interface Artist {
     image_thumb: string;
   }>;
   updated_at: string;
+  /** Optional moderation flag: "artist" | "studio". Missing = not verified yet. */
+  verified?: "artist" | "studio";
 }
 
 export function getCompactArtists(): CompactArtist[] {
