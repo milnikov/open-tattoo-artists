@@ -14,6 +14,7 @@ Thumbs.db
 
 # Scraper secrets (do not commit)
 packages/scraper/config.yaml
+packages/scraper/.env*
 
 # Dependencies
 node_modules/
