@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jamesbtattoos",
+  "name": "James Bond",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "traditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jamesbtattoos",
+    "instagram": "https://www.instagram.com/jamesbtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamesbtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamesbtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamesbtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamesbtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "James Bond isn't just a name you’ll associate with a suave secret agent; it's also synonymous with impeccable professionalism in the tattoo world. Specializing in neotraditional, traditional, and newschool styles, James brings a level of dedication and precision to each piece he creates, ensuring that every client walks away with a masterpiece. His studio upholds the highest standards of cleanliness, making the entire tattooing experience as safe and pristine as it is thrilling.\nPrice: $\nCurrent location:"
+}

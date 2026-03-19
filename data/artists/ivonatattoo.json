@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ivonatattoo",
+  "name": "Iva Gredina",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "watercolor",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ivonatattoo",
+    "instagram": "https://www.instagram.com/ivonatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivonatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivonatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivonatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivonatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Iva Gredina is a highly skilled tattoo artist specializing in geometric, watercolor, and cover-up tattoos with a workspace spanning both Saint-Petersburg and Moscow, Russia. Clients appreciate Iva's commitment to cleanliness, ensuring that every session is conducted in a sterile and well-maintained environment. Her portfolio, which is a vibrant testimony to her talent, can be further explored on her personal life account @ivona_roro.\nPrice: $\nCurrent location:"
+}

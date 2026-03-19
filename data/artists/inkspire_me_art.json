@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "inkspire_me_art",
+  "name": "Mimi Ettlin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkspire_me_art",
+    "instagram": "https://www.instagram.com/inkspire_me_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkspire_me_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkspire_me_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkspire_me_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkspire_me_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Mimi Ettlin is a highly skilled tattoo artist, specializing in geometric designs that showcase her precision and keen eye for detail. Her work space is renowned for its cleanliness, ensuring a safe and sterile environment for all her clients. Whether you're looking for intricate patterns or bold shapes, Mimi's expertise in geometric tattoos will undoubtedly exceed your expectations.\nPrice: $\nCurrent location:"
+}

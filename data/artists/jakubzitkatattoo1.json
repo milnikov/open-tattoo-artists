@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jakubzitkatattoo1",
+  "name": "Jakub Zítka",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "watercolor",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jakubzitkatattoo1",
+    "instagram": "https://www.instagram.com/jakubzitkatattoo1/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakubzitkatattoo1/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakubzitkatattoo1/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakubzitkatattoo1/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jakubzitkatattoo1/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jakub Zítka is a highly skilled tattoo artist specialized in diverse styles like realism, watercolor, and trashpolka. Operating out of Prague, Czech Republic, his professionalism is highly regarded as it translates to a clean work environment ensuring the comfort and safety of his clients.\nPrice: $$\nCurrent location:"
+}

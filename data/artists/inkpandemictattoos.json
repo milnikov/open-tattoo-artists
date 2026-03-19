@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "inkpandemictattoos",
+  "name": "Maxie Day",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inkpandemictattoos",
+    "instagram": "https://www.instagram.com/inkpandemictattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkpandemictattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkpandemictattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkpandemictattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkpandemictattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-18",
+  "bio": "Maxie Day, renowned in the tattoo community for their distinctive 'Daymatic' touch, specializes in watercolor and illustrative styles that dance on the skin with vibrant colors and intricate designs. They are highly respected for their exceptional skill level, consistently delivering tattoos that perfectly capture the artistic vision of their clientele. Maxie's dedication to their craft is evident in each piece they create, ensuring every client leaves as a living testament to Day's unparalleled artistic talent.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jalapenoink",
+  "name": "Jose",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jalapenoink",
+    "instagram": "https://www.instagram.com/jalapenoink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jalapenoink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jalapenoink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jalapenoink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jalapenoink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jose is a highly skilled tattoo artist based in Kissimmee, who specializes in lettering and illustrative work. He ensures that every design is crafted with meticulous attention to detail and personalized to meet his clients' visions. Jose is renowned for maintaining an immaculate workspace, prioritizing cleanliness to provide both a safe and visually comforting environment for his clients.\nPrice: $\nCurrent location:"
+}
