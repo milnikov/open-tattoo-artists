@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "iron_clad_tattoos",
+  "name": "Iron Clad Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/iron_clad_tattoos",
+    "instagram": "https://www.instagram.com/iron_clad_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iron_clad_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iron_clad_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iron_clad_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iron_clad_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Step into the creative sanctuary of Iron Clad Tattoos, where the art of ink is perfected in shades of black and gray, intertwining with the delicate intricacies of floral designs. Established in 2009 and nestled at 6164 Meadowbrook Drive in Mentor, OH, our skilled artists are ready to bring your visions to life—just reach out directly via DM as featured alongside their work in our gallery. Thank you for choosing Iron Clad Tattoos, where every stroke is a testament to our passion for the craft.\nPrice: $\nCurrent location:"
+}
