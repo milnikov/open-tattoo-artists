@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jacek_denis_tattoo",
+  "name": "Jacek Denis",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jacek_denis_tattoo",
+    "instagram": "https://www.instagram.com/jacek_denis_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacek_denis_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacek_denis_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacek_denis_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacek_denis_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jacek Denis is a highly skilled tattoo artist, specializing in black and gray, realism, and trashpolka styles. His exceptional talent has earned him numerous awards, and he brings this expertise to every piece he creates at Magic Ink Cookstown. Jacek's commitment to his craft is apparent in the stunning, intricate designs he produces, firmly establishing him as a master of tattooing.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "j.peacher_artmaker",
+  "name": "Jason Peacher",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "black&gray",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/j.peacher_artmaker",
+    "instagram": "https://www.instagram.com/j.peacher_artmaker/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.peacher_artmaker/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.peacher_artmaker/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.peacher_artmaker/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.peacher_artmaker/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jason Peacher, a tattoo artist whose expertise shines in newschool, black & gray, and geometric styles, is renowned for his extraordinary skill level. His precise lines and deep understanding of shading bring his designs to life, ensuring every piece he creates is a testament to his talents in both tattooing and fine arts. Clients seeking a highly skilled artist for intricate and bold tattoos will find Jason's portfolio both impressive and inspiring.\nPrice: $\nCurrent location:"
+}

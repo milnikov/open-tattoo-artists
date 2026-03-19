@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jamm_tattoos",
+  "name": "Alberto",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jamm_tattoos",
+    "instagram": "https://www.instagram.com/jamm_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamm_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamm_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamm_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamm_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Alberto is renowned for his exceptional skill in black and gray realism, bringing intricate designs to life with meticulous detail and depth. Clients appreciate the unmatched professionalism displayed at his studio located at Calle Las Flores local 37 in Arroyo de la Miel, where each piece is crafted with the utmost dedication to the art form. His reputation is not only built on his artistic talent but also on the immaculate and hygienic environment he maintains, ensuring a safe and welcoming experience for all his clients.\nPrice: $\nCurrent location:"
+}

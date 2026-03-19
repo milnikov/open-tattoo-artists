@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "inscribetattoo",
+  "name": "INSCRIBE TATTOO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "illustrative",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/inscribetattoo",
+    "instagram": "https://www.instagram.com/inscribetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inscribetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inscribetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inscribetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inscribetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Step into the serene realm of INSCRIBE TATTOO, where artistry meets precision across their three locations in Ueno, Ikebukuro, and Shinjuku. Thirteen skilled tattoo artists, including women, craft stunning minimalist, illustrative, and dotwork designs, catering to all genres with a personalized touch. For a glimpse into their world or to book your next session, follow the staff's creativity @inscribe_tattoo and explore traditional Japanese tattoos @irezumi_inscribe.\nPrice: $$\nCurrent location:"
+}

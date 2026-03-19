@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "jab_ink",
+  "name": "JB",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jab_ink",
+    "instagram": "https://www.instagram.com/jab_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jab_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jab_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jab_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jab_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "JB is a highly skilled tattoo artist, specializing in illustrative tattoos that are custom-made to reflect each client's individual ideas and style. Their dedication to the craft is evident in the intricate details and vibrant creativity found in every piece they create. With a keen eye for design and a steady hand, JB ensures that every tattoo is not just a piece of art but a personal statement for their clients.\nPrice: $\nCurrent location:"
+}

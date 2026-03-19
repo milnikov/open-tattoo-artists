@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "j_isles",
+  "name": "Jamal Isles",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/j_isles",
+    "instagram": "https://www.instagram.com/j_isles/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j_isles/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j_isles/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j_isles/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j_isles/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jamal Isles is a highly skilled tattoo artist based in Birmingham, UK, specializing in dotwork and traditional styles. His impeccable attention to detail and mastery of technique make him a sought-after artist at Warstone Tattoo. Clients are encouraged to reach out to him directly through direct message for bookings and inquiries.\nPrice: $\nCurrent location:"
+}

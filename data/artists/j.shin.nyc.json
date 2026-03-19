@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "j.shin.nyc",
+  "name": "J Shin tattoo artist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/j.shin.nyc",
+    "instagram": "https://www.instagram.com/j.shin.nyc/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.shin.nyc/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.shin.nyc/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.shin.nyc/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/j.shin.nyc/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "J Shin is a highly skilled tattoo artist in New York City, boasting a distinct style in fineline, dotwork, and illustrative designs. Known for his intricate detailing, he can be found at the prestigious Bang Bang NYC studio on 328 Broome Street, where cleanliness and professionalism are of utmost importance.\nPrice: $$\nCurrent location:"
+}
