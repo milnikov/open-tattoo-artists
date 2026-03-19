@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jay.tattooer",
+  "name": "Jay Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jay.tattooer",
+    "instagram": "https://www.instagram.com/jay.tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jay.tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jay.tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jay.tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jay.tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Renowned for creating stunning body art, Jay Tattooer is a masterful tattoo artist specializing in trashpolka, illustrative, and watercolor styles. Their dedication to professionalism is evident in every aspect of their work, from the initial consultation to the meticulous execution of each tattoo. Clients consistently commend Jay for maintaining a high standard of cleanliness, ensuring a safe and hygienic environment for every session.\nPrice: $\nCurrent location:"
+}

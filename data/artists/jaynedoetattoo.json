@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jaynedoetattoo",
+  "name": "Jayne Doe",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jaynedoetattoo",
+    "instagram": "https://www.instagram.com/jaynedoetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaynedoetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaynedoetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaynedoetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaynedoetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jayne Doe is a talented tattoo artist who specializes in the 'neotraditional' and 'newschool' styles, bringing innovative and contemporary designs to life on each client's skin. Despite the closure of the studio, Jayne left a remarkable legacy due to her undeniable skill level and commitment, evident in customer's trust and their deep passion for the craft.\nPrice: $$\nCurrent location:"
+}

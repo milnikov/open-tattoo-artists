@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jayshintattoo",
+  "name": "Jay Shin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jayshintattoo",
+    "instagram": "https://www.instagram.com/jayshintattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jayshintattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jayshintattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jayshintattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jayshintattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jay Shin is a highly skilled tattoo artist known for his fineline and illustrative styles. He is a renowned professional in the community and currently works at the famous BANG BANG TATTOO parlour in NYC. His outstanding body of work has helped him amass a considerable social media presence with over 50,000 followers on Instagram.\nPrice: $$\nCurrent location:"
+}
