@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "jc_custom_ink",
+  "name": "JC Cristobal",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jc_custom_ink",
+    "instagram": "https://www.instagram.com/jc_custom_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jc_custom_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jc_custom_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jc_custom_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jc_custom_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "JC Cristobal is a Dallas, TX-based tattoo artist renowned for his exceptional skill in black and gray tattoos. With a keen eye for detail, JC specializes in creating stunning portraits, intricate lettering, and fine line tattoos, ensuring each piece is a work of art. His professionalism and dedication to his craft are evident in the precision and quality of his work, earning him a well-deserved reputation among his clientele.\nPrice: $\nCurrent location:"
+}

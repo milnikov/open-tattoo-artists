@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jcatattoos",
+  "name": "Jca Andraschko",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jcatattoos",
+    "instagram": "https://www.instagram.com/jcatattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcatattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcatattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcatattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcatattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-19",
+  "bio": "Jca Andraschko is a remarkably skilled tattoo artist specializing in sketch, fineline, and dotwork styles. With a unique background as a former makeup artist and fashion photographer, Jca brings a keen eye for detail and aesthetics to each tattoo creation. Clients praise the cleanliness of their workspace and their commitment to maintaining the highest standards of hygiene in their practice.\nPrice: $\nCurrent location:"
+}
