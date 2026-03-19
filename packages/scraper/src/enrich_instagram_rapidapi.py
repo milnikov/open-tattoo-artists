@@ -919,7 +919,9 @@ def main():
                 data = json.load(f)
 
             existing_follower_count = (data.get("instagram_enriched") or {}).get("follower_count")
-            if existing_follower_count is not None:
+            # With --force, always fetch full profile: links.instagram may have changed
+            # (skip_profile would keep old ig id while hitting the new handle).
+            if existing_follower_count is not None and not args.force:
                 print(f"[{i+1}/{len(todo)}] {artist_id} (@{username}) [skip profile, follower_count={existing_follower_count}]")
                 enriched = enrich_one_skip_profile(
                     api_key,

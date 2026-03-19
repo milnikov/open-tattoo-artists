@@ -93,6 +93,12 @@ JUNK_STYLES = {
     "kwadron",
     "electrumstencilproducts",
     "needlejig",
+    "tsunami_tattoo_needles",
+    "fifthfingerstudio",
+    "fistflame",
+    "technicaltattoosupply",
+    "inkjecta",
+    "deluxeirons",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
