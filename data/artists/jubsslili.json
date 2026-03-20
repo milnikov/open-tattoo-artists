@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jubsslili",
-  "name": "Jubss Lili",
+  "name": "Le Tatouage à la Francaise",
   "location": {
     "city": "Strasbourg",
     "country": "France"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Contraseptik Tattoo Strasbourg"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE Contraseptik Tattoo Strasbourg\n\nL'instagram du Tumblr -                                                         www.pinterest.com/frenchstyletatts www.facebook.com/frenchstyletattoos",
+  "instagram_enriched": {
+    "id": "1189535517",
+    "follower_count": 972,
+    "following_count": 328,
+    "media_count": 177,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jubsslili/instagram/profile.jpg"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jgtattooart",
+  "name": "James Graham",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jgtattooart",
+    "instagram": "https://www.instagram.com/jgtattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jgtattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jgtattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jgtattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jgtattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "James Graham is a tattoo artist renowned for his exceptional proficiency in black & gray, geometric, and realism styles. Operating out of Leicester, he is widely acknowledged for his extraordinary attention to detail and perfectionism in every piece he creates. His clients often praise his professionalism, which is evident in both the quality of his work and the manner in which he conducts his business.\nPrice: $\nCurrent location:"
+}
