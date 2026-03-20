@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jimmyskyline",
+  "name": "James Matson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jimmyskyline",
+    "instagram": "https://www.instagram.com/jimmyskyline/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimmyskyline/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimmyskyline/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimmyskyline/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimmyskyline/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "James Matson is a highly skilled tattoo artist, well-versed in creating intricate designs within the black & gray, trashpolka, and newschool styles. He operates out of the Eternal Element Tattoo Studio in Woodstock, IL, where he is known for his professionalism, ensuring that each client’s vision is perfectly translated into ink on their skin. Trust James to provide you with a custom tattoo that exceeds your expectations in quality and execution.\nPrice: $\nCurrent location:"
+}

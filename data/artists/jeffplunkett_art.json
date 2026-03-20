@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jeffplunkett_art",
+  "name": "Jeff Plunkett",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jeffplunkett_art",
+    "instagram": "https://www.instagram.com/jeffplunkett_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffplunkett_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffplunkett_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffplunkett_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffplunkett_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jeff Plunkett is a highly skilled tattoo artist based in Los Angeles, renowned for his proficiency in the 'black & gray' and 'realism' styles. Through his work at Kokopelli Ink, he impressively brings his clients' visions to life, evidence of his exceptional mastery in tattoo artistry.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jeffzuck",
+  "name": "Jeff Zuck",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jeffzuck",
+    "instagram": "https://www.instagram.com/jeffzuck/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffzuck/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffzuck/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffzuck/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeffzuck/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jeff Zuck, operating under '@namebrandtattoo', is a highly skilled tattoo artist specialized in Traditional and Japanese styles. His level of craftsmanship is impressive, always ensuring the precise execution of designs with superior attention to detail.\nPrice: $$\nCurrent location:"
+}

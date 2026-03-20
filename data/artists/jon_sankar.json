@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "jon_sankar",
+  "name": "Jon Sankar",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jon_sankar",
+    "instagram": "https://www.instagram.com/jon_sankar/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jon_sankar/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jon_sankar/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jon_sankar/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jon_sankar/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jon Sankar is a highly skilled tattoo artist specializing in black and gray, realism, and traditional styles. Having honed his craft since 2008 at Odin's Eye Tattoo in Winnipeg, Jon is recognized for his exceptional professionalism, ensuring that each client's experience is held to the highest standard while receiving remarkable works of art at $150 an hour.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2008"
+}

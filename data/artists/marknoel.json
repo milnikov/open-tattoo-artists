@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marknoel",
-  "name": "Mark Noel",
+  "name": "Robert Mcelhaney",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Berlin Germany"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE Berlin Germany",
+  "instagram_enriched": {
+    "id": "69449832710",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 58,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marknoel/instagram/profile.jpg"
+  }
 }
