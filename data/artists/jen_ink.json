@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jen_ink",
+  "name": "Jennifer Fowler",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jen_ink",
+    "instagram": "https://www.instagram.com/jen_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jen_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jen_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jen_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jen_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jennifer Fowler is a highly skilled tattoo artist specializing in the illustrative, black & gray, and watercolor styles. She operates out of Larkspur Tattoo Studio in Tobaccoville, North Carolina, and offers her services exclusively by appointment, attending to each client with meticulous professionalism to ensure a personalized and fulfilling tattoo experience. With Jennifer, you can expect a blend of artistic mastery and dedicated service that truly stands out.\nPrice: $\nCurrent location:"
+}

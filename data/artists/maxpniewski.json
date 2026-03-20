@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxpniewski",
-  "name": "Max Pniewski",
+  "name": "Top Tattoo Artists Working UK",
   "location": {
     "city": "Bristol",
     "country": "United Kingdom"
@@ -110,6 +110,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE C Southmead Tattoo Studio"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE C Southmead Tattoo Studio\n\nTop Tattoo Artists Working in UK",
+  "instagram_enriched": {
+    "id": "293315100",
+    "follower_count": 538,
+    "following_count": 406,
+    "media_count": 274,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxpniewski/instagram/profile.jpg"
+  }
 }
