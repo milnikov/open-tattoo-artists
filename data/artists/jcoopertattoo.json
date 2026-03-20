@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jcoopertattoo",
+  "name": "Jake Cooper",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "japanese",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jcoopertattoo",
+    "instagram": "https://www.instagram.com/jcoopertattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcoopertattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcoopertattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcoopertattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcoopertattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jake Cooper is a highly skilled tattoo artist specializing in traditional, Japanese, and illustrative styles. His work is well-known in Menomonee Falls, WI, where he creates his art at Evermore Tattoo. Jake's commitment to professionalism is evident in every aspect of his work, ensuring that clients receive the best experience and results.\nPrice: $\nCurrent location:"
+}

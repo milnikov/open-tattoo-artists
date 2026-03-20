@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joellecorreia",
-  "name": "Joelle Correia",
+  "name": "Jacqueline Correia",
   "location": {
     "city": "Kelowna",
     "country": "Canada"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Cosmetic Tattoo Artist Specializing in Powder Eyebrows, Eyeliner and Lips."
+  "updated_at": "2026-03-20",
+  "bio": "Cosmetic Tattoo Artist Specializing in Powder Eyebrows, Eyeliner and Lips.",
+  "instagram_enriched": {
+    "id": "3104995199",
+    "follower_count": 542,
+    "following_count": 697,
+    "media_count": 793,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joellecorreia/instagram/profile.jpg"
+  }
 }
