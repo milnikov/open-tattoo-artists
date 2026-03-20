@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "joelson_tattoo",
+  "name": "Joelson Silva",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/joelson_tattoo",
+    "instagram": "https://www.instagram.com/joelson_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelson_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelson_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelson_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joelson_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Joelson Silva is renowned for his exemplary skill in black & gray and fineline tattoo artistry, consistently delivering intricate designs that demonstrate a high level of finesse and detail. Clients are continually impressed with the cleanliness of his workspace, as Silva upholds the utmost standards of hygiene, ensuring a safe and reassuring experience for every tattoo enthusiast that walks through his doors.\nPrice: $\nCurrent location:"
+}
