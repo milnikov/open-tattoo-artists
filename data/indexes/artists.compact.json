@@ -231032,6 +231032,31 @@
     "updated_at": "2026-03-15"
   },
   {
+    "id": "jonnyshand",
+    "name": "Jonny Shand",
+    "location": {
+      "city": "Eivissa",
+      "country": "Spain"
+    },
+    "styles": [
+      "traditional",
+      "dotwork"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/jonnyshand/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnyshand/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnyshand/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnyshand/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnyshand/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnyshand/thumb/004.webp"
+    ],
+    "bio": "Jonny Shand is a highly skilled tattoo artist based in Eivissa, Spain, specializing in traditional and dotwork styles. He showcases immense professionalism in his work, owning his art with every intricate detail while ensuring a clean and safe tattooing environment. Being co-owner at LastforLifeTattoo, Jonny combines his mastery with the business, creating a truly remarkable experience for his clients.\nPrice: $$\nCurrent location: Eivissa, Balearic Islands, Spain",
+    "updated_at": "2026-03-20"
+  },
+  {
     "id": "jonasmasgas",
     "name": "Jonás Mas Gas",
     "location": {
@@ -280095,11 +280120,17 @@
     "links": {
       "instagram": "https://www.instagram.com/raffa_ferrari_tattoo/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Rafa Ferrari Tattoo Studio Porto Alegre",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaferrari/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaferrari/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaferrari/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaferrari/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaferrari/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Rafa Ferrari Tattoo Studio Porto Alegre\n\n@pepax.official \n Work in!  🇮🇹  🇩🇪\n                  ⭐️ Since 1998 ⭐️\n 🏆TRIBAL*ORNAMENTAL*DOTWORK🏆\n🇮🇹My studio!🇮🇹👇\n✨@rafa_ferrari_tattoo_studio_✨",
+    "updated_at": "2026-03-20",
+    "follower_count": 19031
   },
   {
     "id": "rafagarabal",
@@ -280337,7 +280368,7 @@
   },
   {
     "id": "rafaelvaldez",
-    "name": "Rafael Valdez",
+    "name": "Rafael Valdez Tattoo",
     "location": {
       "city": "Los Angeles",
       "country": "United States"
@@ -280346,16 +280377,17 @@
     "links": {
       "instagram": "https://www.instagram.com/rafaelvaldezart/"
     },
-    "tattoo_count": 50,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/001.webp",
+    "tattoo_count": 74,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafaelvaldez/thumb/ig_004.webp"
     ],
-    "bio": "read more RAFAEL VALDEZ",
-    "updated_at": "2026-03-11"
+    "bio": "read more RAFAEL VALDEZ\n\nLos Angeles📍main Paige @rafael_valdez",
+    "updated_at": "2026-03-20",
+    "follower_count": 6391
   },
   {
     "id": "___v___vieira",
@@ -280502,7 +280534,7 @@
   },
   {
     "id": "rafalbilinski",
-    "name": "Rafal Bilinski",
+    "name": "Rafał",
     "location": {
       "city": "Warsaw",
       "country": "Poland"
@@ -280514,7 +280546,8 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "updated_at": "2026-03-14"
+    "updated_at": "2026-03-20",
+    "follower_count": 580
   },
   {
     "id": "rafaljedrychowski",
@@ -280700,6 +280733,29 @@
     "updated_at": "2026-03-18"
   },
   {
+    "id": "rain",
+    "name": "rain",
+    "location": {
+      "city": "Seoul",
+      "country": "South Korea"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/tattooist_rain/"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rain/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rain/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rain/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rain/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rain/thumb/ig_004.webp"
+    ],
+    "bio": "ᴀ ɢᴀʟʟᴇʀʏ ᴅᴇᴅɪᴄᴀᴛᴇᴅ ᴛᴏ ʏᴏᴜ ᴀᴛ ᴛʜᴇ ᴇɴᴅ ᴏꜰ ᴀ ᴡᴇᴀʀʏ ᴅᴀʏ 🎟️\n🇸🇬 𝕓𝕒𝕤𝕖𝕕 𝕚𝕟 𝕙𝕒𝕟𝕤𝕒𝕟 𝕤𝕥𝕦𝕕𝕚𝕠, 𝕤𝕚𝕟𝕘𝕒𝕡𝕠𝕣𝕖\n✉️ 𝕚𝕟𝕢𝕦𝕚𝕣𝕚𝕖𝕤 𝕧𝕚𝕒 𝕕𝕞 / 𝕝𝕚𝕟𝕜 𝕓𝕖𝕝𝕠𝕨\n🇰🇷5월 한국 예약을 받고있습니다 Seoul",
+    "updated_at": "2026-03-20",
+    "follower_count": 20724
+  },
+  {
     "id": "mohangurung",
     "name": "Rajiv Acharya",
     "location": {
@@ -280728,11 +280784,17 @@
     "links": {
       "instagram": "https://www.instagram.com/rakhee_tattoo/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Xotica Tattoo Company London",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rakheeshah/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rakheeshah/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rakheeshah/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rakheeshah/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rakheeshah/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Xotica Tattoo Company London\n\nBold.AbstractRealismTattoos \nLondon. UK 🇬🇧 \nDM to book \nSponsors; \n@xtremetattooink @stigmarotary @dermalizepro @whitfieldstattooco @emalla.official",
+    "updated_at": "2026-03-20",
+    "follower_count": 26722
   },
   {
     "id": "ralfnonnweiler",
@@ -304360,22 +304422,6 @@
     ],
     "bio": "WORKPLACE Tattoos Boom Zodat Bangkok",
     "updated_at": "2026-03-11"
-  },
-  {
-    "id": "rain",
-    "name": "Tattooist Rain",
-    "location": {
-      "city": "Seoul",
-      "country": "South Korea"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/tattooist_rain/"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "updated_at": "2026-03-14"
   },
   {
     "id": "rivertattooist",
