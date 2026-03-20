@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "clarelambert",
-  "name": "Clare Lambert",
+  "name": "Dawn Browne",
   "location": {
     "city": "Leicester",
     "country": "United Kingdom"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Sakura Tattoo Leicester Leicester"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE Sakura Tattoo Leicester Leicester",
+  "instagram_enriched": {
+    "id": "334683191",
+    "follower_count": 121,
+    "following_count": 78,
+    "media_count": 31,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clarelambert/instagram/profile.jpg"
+  }
 }

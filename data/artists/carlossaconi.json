@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "carlossaconi",
-  "name": "Carlos Saconi",
+  "name": "Charly Saconi",
   "location": {
     "city": "Buenos Aires",
     "country": "Italy"
@@ -151,6 +151,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE P Black Gate 101 Tattoo"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE P Black Gate 101 Tattoo\n\n@charlysacler",
+  "instagram_enriched": {
+    "id": "12264510368",
+    "follower_count": 536,
+    "following_count": 1096,
+    "media_count": 6,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlossaconi/instagram/profile.jpg"
+  }
 }
