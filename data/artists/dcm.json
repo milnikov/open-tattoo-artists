@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dcm",
-  "name": "Diana C Munoz",
+  "name": "Power Of Art",
   "location": {
     "city": "West Hollywood",
     "country": "United States"
@@ -461,6 +461,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE P Shamrock Social Club"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE P Shamrock Social Club\n\nFor artists, by artists.",
+  "instagram_enriched": {
+    "id": "1444467487",
+    "follower_count": 469,
+    "following_count": 20,
+    "media_count": 99,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dcm/instagram/profile.jpg"
+  }
 }

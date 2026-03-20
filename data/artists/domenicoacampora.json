@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "domenicoacampora",
-  "name": "Domenico Acampora",
+  "name": "Luigi Rosati",
   "location": {
     "city": "Naples",
     "country": "Italy"
@@ -38,6 +38,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "WORKPLACE WildInk Tattoo Crew Naples"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE WildInk Tattoo Crew Naples\n\nNon dirmi \"sii normale\", è quello che non voglio",
+  "instagram_enriched": {
+    "id": "3889220683",
+    "follower_count": 500,
+    "following_count": 966,
+    "media_count": 83,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/domenicoacampora/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dimaegorov",
-  "name": "Dima Egorov · edtattooer",
+  "name": "Dima Egorov",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "DIMA EGOROV · EDTATTOOER"
+  "updated_at": "2026-03-20",
+  "bio": "DIMA EGOROV · EDTATTOOER\n\nRussia",
+  "instagram_enriched": {
+    "id": "354089142",
+    "follower_count": 718,
+    "following_count": 2574,
+    "media_count": 190,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dimaegorov/instagram/profile.jpg"
+  }
 }
