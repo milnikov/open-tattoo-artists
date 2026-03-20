@@ -231008,6 +231008,31 @@
     "updated_at": "2026-03-20"
   },
   {
+    "id": "jonnystattoo",
+    "name": "Jonny",
+    "location": {
+      "city": "Meiningen",
+      "country": "Germany"
+    },
+    "styles": [
+      "black&gray",
+      "tribal",
+      "geometric"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/jonnystattoo/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnystattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnystattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnystattoo/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnystattoo/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonnystattoo/thumb/004.webp"
+    ],
+    "updated_at": "2026-03-20"
+  },
+  {
     "id": "firthjonny",
     "name": "Jonny Firth",
     "location": {
@@ -280807,16 +280832,17 @@
     "links": {
       "instagram": "https://www.instagram.com/ralfnonnweilerta2/"
     },
-    "tattoo_count": 4,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/001.webp",
+    "tattoo_count": 28,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralfnonnweiler/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE NoArts! Tattoo Neunkirchen",
-    "updated_at": "2026-03-14"
+    "bio": "WORKPLACE NoArts! Tattoo Neunkirchen\n\nTattoo Artist | Neunkirchen Deutschland\n🎥 Daily Tattoo Reels\n‼️👇🏼👇🏼MY SOCIALS👇🏼 👇🏼‼️",
+    "updated_at": "2026-03-20",
+    "follower_count": 434753
   },
   {
     "id": "ralphmiller",
@@ -280840,7 +280866,7 @@
   },
   {
     "id": "ralphy",
-    "name": "Ralphy Rodriguez",
+    "name": "Ralphy Jesus Rodriguez Gil",
     "location": {
       "city": "Buenos Aires",
       "country": "Argentina"
@@ -280849,11 +280875,17 @@
     "links": {
       "instagram": "https://www.instagram.com/soy.ralphyjesus/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Five Cats Tattoo Buenos Aires\n\n• Miami📍\n• 24\n  📸 @visualsbyralphy 📸",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralphy/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralphy/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralphy/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralphy/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ralphy/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Five Cats Tattoo Buenos Aires\n\n• Miami📍\n• 24\n  📸 @visualsbyralphy 📸\n\nartista integral y joyero a su servicio. \n cualquier consulta por mensaje directo.",
+    "updated_at": "2026-03-20",
+    "follower_count": 2739
   },
   {
     "id": "aethertattooclub",
@@ -280879,25 +280911,6 @@
     "bio": "Welcome to Olive Tattoos of Bozeman, where creativity meets precision in a warm, inviting atmosphere. Specializing in dotwork, neotraditional, and black & gray designs, our talented artists, including @tattoo_ash, @adizmalworld, and @staytanic, are ready to transform your ideas into stunning body art. Drop by or call us for same-day appointments – at Olive Tattoos, everyone is welcome to explore the art of ink.\nPrice: $\nCurrent location: Bozeman, Montana, United States\n\n*formerly Aether Tattoo Club*                         \nWE 🖤 TATTOOS\nCALL FOR WALK INS! \n@olivetattoos  @staytanic  @gquinntattoos",
     "updated_at": "2026-03-14",
     "follower_count": 7388
-  },
-  {
-    "id": "ramiroblanco",
-    "name": "ramiro blanco",
-    "location": {
-      "city": "Buenos Aires",
-      "country": "Argentina"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/ramiroblancotattoo/"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/001.webp"
-    ],
-    "bio": "WORKPLACE P Homeless Tattoo Club",
-    "updated_at": "2026-03-14"
   },
   {
     "id": "ink_of_codes",
@@ -281002,8 +281015,9 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "bio": "RAN MACLURKIN · THE RUINED",
-    "updated_at": "2026-03-14"
+    "bio": "RAN MACLURKIN · THE RUINED\n\nA collective of makers and artists with a fantasy and mythological vibe. Located in Melbourne/Naarm Australia.",
+    "updated_at": "2026-03-20",
+    "follower_count": 169
   },
   {
     "id": "anne_franke007",
@@ -281052,23 +281066,6 @@
     ],
     "bio": "Randy, also known as 'Dirty Randy', is an exceptionally talented tattoo artist specialized in illustrative styles, working out of Lausanne, Switzerland. He is a resident artist at Happy Pets Studio, where he has earned a reputation for impeccable professionalism and maintains an immaculate workspace, ensuring the utmost cleanliness for his clients. With scheduled travel to Lyon for sessions, you can contact him via email to book an appointment.\nPrice: $$\nCurrent location: Lausanne, Vaud, Switzerland",
     "updated_at": "2026-03-11"
-  },
-  {
-    "id": "randyconner",
-    "name": "Randy Conner",
-    "location": {
-      "city": "Austin",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/typo.tat2/"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Amillion Tattoo Parlour Austin",
-    "updated_at": "2026-03-14"
   },
   {
     "id": "heavenofcolours",
@@ -281317,25 +281314,6 @@
     "updated_at": "2026-03-13"
   },
   {
-    "id": "raquelescudero",
-    "name": "Raquel Escudero",
-    "location": {
-      "city": "Castelldefels",
-      "country": "Spain"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/raquel_tattoofreaks/"
-    },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/001.webp"
-    ],
-    "bio": "WORKPLACE Tattoo Freaks Castelldefels Castelldefels",
-    "updated_at": "2026-03-14"
-  },
-  {
     "id": "raro",
     "name": "Raro",
     "location": {
@@ -281460,6 +281438,29 @@
     "follower_count": 195
   },
   {
+    "id": "raulmarquezmurillo",
+    "name": "Raul Marquez Murillo",
+    "location": {
+      "city": "Calafell",
+      "country": "Spain"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/raulmarquez_damageink/"
+    },
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Damage Inkorporated Calafell\n\nTatuador en Damage INKorporated \nde Calafell (TGN) @damage_inkorporated_tattoo\n🗺️ @raultat2s_freetime\nBatería en  @terapia_d_miedo y @noctambulsrock",
+    "updated_at": "2026-03-20",
+    "follower_count": 7014
+  },
+  {
     "id": "rasteu",
     "name": "Raul Rasteu",
     "location": {
@@ -281544,6 +281545,29 @@
     "follower_count": 1505
   },
   {
+    "id": "rayspooksjoya",
+    "name": "Ray Big Spooks Joya 🇺🇸",
+    "location": {
+      "city": "Kissimmee",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/spooks_joya_tattoos/"
+    },
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Pride N Envy Tattoos Kissimmee\n\n📍DEVOTED tattoos\npalm coast, fl\n \nClick “book now” tab for appointments\n@hustlebutterdeluxe \n@rawpigments\n@snailtrailstencil\n@devotedbrand \n🧿",
+    "updated_at": "2026-03-20",
+    "follower_count": 16573
+  },
+  {
     "id": "durham.tattoos",
     "name": "Ray D",
     "location": {
@@ -281592,27 +281616,6 @@
     ],
     "bio": "Step into the monochromatic world of 'Ray Jerez Tattoo Studio', an acclaimed ink sanctuary established in 2007, nestled in the artistic heart of Brooklyn. Specializing in the nuanced shades of black & gray tattoos, Ray and his team blend professional mastery with a personalized touch, crafting timeless body art. Book your appointment online and transform your vision into a living, breathing masterpiece on skin.\nPrice: $\nCurrent location: Brooklyn, New York, United States",
     "updated_at": "2026-03-18"
-  },
-  {
-    "id": "rayspooksjoya",
-    "name": "Ray Spooks Joya",
-    "location": {
-      "city": "Kissimmee",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/spooks_joya_tattoos/"
-    },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rayspooksjoya/thumb/003.webp"
-    ],
-    "bio": "WORKPLACE Pride N Envy Tattoos Kissimmee",
-    "updated_at": "2026-03-14"
   },
   {
     "id": "baronart_ray",
@@ -281693,26 +281696,6 @@
     "follower_count": 217
   },
   {
-    "id": "raulmarquezmurillo",
-    "name": "Raúl Márquez Murillo",
-    "location": {
-      "city": "Calafell",
-      "country": "Spain"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/raulmarquez_damageink/"
-    },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/001.webp",
-    "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raulmarquezmurillo/thumb/002.webp"
-    ],
-    "bio": "WORKPLACE Damage Inkorporated Calafell",
-    "updated_at": "2026-03-14"
-  },
-  {
     "id": "oilburner",
     "name": "RC 132",
     "location": {
@@ -281741,12 +281724,17 @@
     "links": {
       "instagram": "https://www.instagram.com/rebeca_o/"
     },
-    "tattoo_count": 1,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/001.webp",
+    "tattoo_count": 25,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/001.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecaorts/thumb/ig_004.webp"
     ],
-    "updated_at": "2026-03-14"
+    "bio": "Painting👉🏽@rebeca_o_pinturas Artwork & shop 👉🏼 www.rebecaorts.com",
+    "updated_at": "2026-03-20",
+    "follower_count": 8933
   },
   {
     "id": "allgood.ink",
@@ -281824,16 +281812,17 @@
     "links": {
       "instagram": "https://www.instagram.com/rebecca_vincent_tattoo/"
     },
-    "tattoo_count": 6,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/001.webp",
+    "tattoo_count": 30,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebeccavincent/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE P Parliament Tattoo",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE P Parliament Tattoo\n\nBooks open for October on April 1st 🧡\nRvincentbookings@gmail.com. Hackney 38 The oval, Gate A, container 54 E2 9DT\n🔴🔵",
+    "updated_at": "2026-03-20",
+    "follower_count": 154892
   },
   {
     "id": "rebeccasmania",
@@ -281977,7 +281966,7 @@
   },
   {
     "id": "reesehilburn",
-    "name": "Reese Hilburn",
+    "name": "Reese | Artist | PsychoSomatix Biz Mentor",
     "location": {
       "city": "San Diego",
       "country": "United States"
@@ -281986,15 +281975,17 @@
     "links": {
       "instagram": "https://www.instagram.com/theartofreese/"
     },
-    "tattoo_count": 3,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/001.webp",
+    "tattoo_count": 27,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/003.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reesehilburn/thumb/ig_004.webp"
     ],
-    "bio": "Reese is an award winning tattoo artist and fine artist. read more",
-    "updated_at": "2026-03-14"
+    "bio": "Reese is an award winning tattoo artist and fine artist. read more\n\n😈Rise As The Villain\n👑Helping High Level Women Dominate by Turning Shadows into Power, Positioning, & Sold Out Offers\n$2.5M w/ Shadow-to-Sales Method",
+    "updated_at": "2026-03-20",
+    "follower_count": 165939
   },
   {
     "id": "reeve",
@@ -282012,25 +282003,9 @@
     "thumbs": [
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reeve/thumb/001.webp"
     ],
-    "bio": "WORKPLACE Hey Tattoo Station HK Hong Kong",
-    "updated_at": "2026-03-14"
-  },
-  {
-    "id": "reginogonzales",
-    "name": "Regino Gonzales",
-    "location": {
-      "city": "Manhattan",
-      "country": "United States"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/rg74/"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "Custom tattooing Inspired by classic Japanese, American, and Fineline designs. Since 1995.",
-    "updated_at": "2026-03-14"
+    "bio": "WORKPLACE Hey Tattoo Station HK Hong Kong\n\n“插吓畫IG” 🇭🇰香港紋身師\nColor Tattoo @r_tattoo_hk \nBlack Tattoo @reeve.b.w.t \nMy Shop新 @hey_tattoo_station__hk \nMy Shop舊 @hey_tattoo_station_hk\n📲WhatsApp👇🏻",
+    "updated_at": "2026-03-20",
+    "follower_count": 336
   },
   {
     "id": "reichelwells",
@@ -282074,7 +282049,7 @@
   },
   {
     "id": "remberorellana",
-    "name": "Rember Orellana",
+    "name": "Rember Orellana | Dallas/Fort Worth Tattoo Artist",
     "location": {
       "city": "Denton",
       "country": "United States"
@@ -282083,16 +282058,17 @@
     "links": {
       "instagram": "https://www.instagram.com/rember_tattoos/"
     },
-    "tattoo_count": 13,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/001.webp",
+    "tattoo_count": 37,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remberorellana/thumb/ig_004.webp"
     ],
-    "bio": "Currently I am booked up through April 2018 read more",
-    "updated_at": "2026-03-14"
+    "bio": "Currently I am booked up through April 2018 read more\n\nRealism & Surrealism Tattoo Artist \nDM to Book 📩\nStudios: @darkagetattoostudioftw Fort Worth,TX  @darkagetattoostudio Denton,TX",
+    "updated_at": "2026-03-20",
+    "follower_count": 208515
   },
   {
     "id": "deniscasella",
@@ -282119,7 +282095,7 @@
   },
   {
     "id": "remifrances",
-    "name": "Remi Frances",
+    "name": "Remi FRANCES 🇨🇵",
     "location": {
       "city": "Épinal",
       "country": "France"
@@ -282128,18 +282104,21 @@
     "links": {
       "instagram": "https://www.instagram.com/remi_frances_/"
     },
-    "tattoo_count": 2,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/001.webp",
+    "tattoo_count": 26,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/002.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remifrances/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Clockwork Needle Épinal",
-    "updated_at": "2026-03-14"
+    "bio": "WORKPLACE Clockwork Needle Épinal\n\nFrench tattoo artist ⚜️⚜️⚜️\nRENDEZ-VOUS ET RENSEIGNEMENTS: @clockworkneedle (insta) Epinal 88000\n-team @bheppo\n-No convention\n-No guest",
+    "updated_at": "2026-03-20",
+    "follower_count": 10006
   },
   {
     "id": "remiscizauskas",
-    "name": "Remigijus Cizauskas · Remis Tattoo",
+    "name": "Remigijus Cizauskas",
     "location": {
       "city": "Dublin",
       "country": "Ireland"
@@ -282148,16 +282127,17 @@
     "links": {
       "instagram": "https://www.instagram.com/remistattoo/"
     },
-    "tattoo_count": 17,
-    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/001.webp",
+    "tattoo_count": 41,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/ig_001.webp",
     "thumbs": [
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/001.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/002.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/003.webp",
-      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/004.webp"
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/remiscizauskas/thumb/ig_004.webp"
     ],
-    "bio": "WORKPLACE Remis Tattoo Dublin",
-    "updated_at": "2026-03-11"
+    "bio": "WORKPLACE Remis Tattoo Dublin\n\n▪️Owner of @remistattoogallery\n▪️🇮🇪Dublin 🇱🇹 Kaunas, 📌 Dauksos 16-15\n▪️For bookings\n📩 remistattoo@gmail.com\n@remistattoogallery\n@aftercareh2ocean",
+    "updated_at": "2026-03-20",
+    "follower_count": 82431
   },
   {
     "id": "removazhenya",
@@ -282252,7 +282232,7 @@
   },
   {
     "id": "renaehaak",
-    "name": "Renae Haak · Renunu",
+    "name": "Renae Haak",
     "location": {
       "city": "Newcastle",
       "country": "Australia"
@@ -282261,28 +282241,17 @@
     "links": {
       "instagram": "https://www.instagram.com/renunutattoo/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Diabolik Tattoo Newcastle",
-    "updated_at": "2026-03-14"
-  },
-  {
-    "id": "renanbatista",
-    "name": "Renan Batista",
-    "location": {
-      "city": "Berlin",
-      "country": "Germany"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/gotyourbacktattoo/"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Berlin Ink Tattooing Berlin\n\nRenan batista\n19y\nEngenharia civil 1 semestre😍\nCorinthians 😍👉👈\nSantarém PA\nwhat: 093992226509😌\nConstruNorte tapajós👷",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renaehaak/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renaehaak/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renaehaak/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renaehaak/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renaehaak/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Diabolik Tattoo Newcastle\n\nBOOKS OPEN 2026 ~ Owner @wedgetail_tattoo @r_a_t_b_a_g_  Neo~Traditional / Neo~Japanese ~ all enquires renunu666@gmail.com",
+    "updated_at": "2026-03-20",
+    "follower_count": 13921
   },
   {
     "id": "renan",
@@ -282306,6 +282275,29 @@
     "bio": "Lapa, São Paulo RENAN\n\nnot from brazil. @nytimes @nytmag",
     "updated_at": "2026-03-14",
     "follower_count": 4467
+  },
+  {
+    "id": "renanbatista",
+    "name": "Renan Kaktin Batista - Tattoo Artist",
+    "location": {
+      "city": "Berlin",
+      "country": "Germany"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/gotyourbacktattoo/"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renanbatista/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renanbatista/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renanbatista/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renanbatista/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/renanbatista/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Berlin Ink Tattooing Berlin\n\nRenan batista\n19y\nEngenharia civil 1 semestre😍\nCorinthians 😍👉👈\nSantarém PA\nwhat: 093992226509😌\nConstruNorte tapajós👷\n\nGot your back, whatever the size of your dream tattoo \n@godsofinktattooconvention & @mondialdutatouage \nBerlin & always on the road\nYour city next?👇🏽",
+    "updated_at": "2026-03-20",
+    "follower_count": 24653
   },
   {
     "id": "renanpires",
@@ -282720,6 +282712,29 @@
     "bio": "Rodez \nPE \nSport ⚽️🚴‍♂️🏃/ Musique🎸",
     "updated_at": "2026-03-14",
     "follower_count": 284
+  },
+  {
+    "id": "reginogonzales",
+    "name": "RG",
+    "location": {
+      "city": "Manhattan",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/rg74/"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reginogonzales/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reginogonzales/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reginogonzales/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reginogonzales/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reginogonzales/thumb/ig_004.webp"
+    ],
+    "bio": "Custom tattooing Inspired by classic Japanese, American, and Fineline designs. Since 1995.\n\nNightShift•Ss•\n411 Smith St, Brooklyn, NY 11231\n2nd Floor (Private Studio)\nregino13@gmail.com",
+    "updated_at": "2026-03-20",
+    "follower_count": 54659
   },
   {
     "id": "bainink",
@@ -325184,6 +325199,29 @@
     "follower_count": 28136
   },
   {
+    "id": "ramiroblanco",
+    "name": "• 𝕭𝖑𝖆𝖈𝖐 𝕮𝖆𝖗𝖑𝖔𝖘 •",
+    "location": {
+      "city": "Buenos Aires",
+      "country": "Argentina"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/ramiroblancotattoo/"
+    },
+    "tattoo_count": 25,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ramiroblanco/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE P Homeless Tattoo Club\n\nFREEHAND TATTOOS\nBASED @claroscuroba \nTEAM @octopus_ink_co\nNEEDLES @serialkillertattoosupplies",
+    "updated_at": "2026-03-20",
+    "follower_count": 16153
+  },
+  {
     "id": "alexyoungtattoo",
     "name": "• 𝗔𝗟𝗘𝗫𝗬𝗢𝗨𝗡𝗚 •",
     "location": {
@@ -330878,6 +330916,29 @@
     "follower_count": 34735
   },
   {
+    "id": "randyconner",
+    "name": "𝐂𝐚𝐫𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐡𝐞𝐧𝐬",
+    "location": {
+      "city": "Austin",
+      "country": "United States"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/typo.tat2/"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/randyconner/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/randyconner/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/randyconner/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/randyconner/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/randyconner/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Amillion Tattoo Parlour Austin\n\n• @tat2peace •\n• Vancouver/PDX •\n• Dm or Link ⬇️ to schedule •",
+    "updated_at": "2026-03-20",
+    "follower_count": 1819
+  },
+  {
     "id": "daisybibaxt",
     "name": "𝐃𝐀𝐈𝐒𝐘 ༝ 𝚋𝚕𝚊𝚌𝚔 𝚘𝚝𝚊𝚔𝚞 𝚝𝚊𝚝𝚝𝚘𝚘𝚜",
     "location": {
@@ -334480,6 +334541,29 @@
     "bio": "for tats  📩DM",
     "updated_at": "2026-03-13",
     "follower_count": 18033
+  },
+  {
+    "id": "raquelescudero",
+    "name": "𝙍𝙖𝙦𝙪𝙚𝙡 𝙀𝙨𝙘𝙪𝙙𝙚𝙧𝙤 / 𝘽𝙖𝙧𝙘𝙚𝙡𝙤𝙣𝙖 𝙩𝙖𝙩𝙩𝙤𝙤 𝙖𝙧𝙩𝙞𝙨𝙩",
+    "location": {
+      "city": "Castelldefels",
+      "country": "Spain"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/raquel_tattoofreaks/"
+    },
+    "tattoo_count": 25,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raquelescudero/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Tattoo Freaks Castelldefels Castelldefels\n\n📍 @blackship.bcn ⚓️\n📥𝘾𝙞𝙩𝙖𝙨:𝘿𝙈/𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥(+𝟯𝟰 𝟲𝟮𝟱𝟯𝟰𝟬𝟱𝟵𝟱)\n🛫𝙉𝙚𝙭𝙩 𝙜𝙪𝙚𝙨𝙩:\n•🇪🇸𝐕𝐚𝐥𝐞𝐧𝐜𝐢𝐚(𝟮𝟭/𝟮𝟱 𝗔𝗯𝗿𝗶𝗹) @arpiatattoo\n•🇪🇸𝐁𝐢𝐥𝐛𝐚𝐨(𝟭𝟵/𝟮𝟯 𝗠𝗮𝘆𝗼) @malditatatuajes",
+    "updated_at": "2026-03-20",
+    "follower_count": 128487
   },
   {
     "id": "svenrayen",

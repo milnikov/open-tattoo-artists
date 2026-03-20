@@ -705,6 +705,11 @@
     "normalized": "Carlos Salazar 🇲🇽"
   },
   {
+    "id": "randyconner",
+    "name": "𝐂𝐚𝐫𝐭𝐞𝐫 𝐒𝐭𝐞𝐩𝐡𝐞𝐧𝐬",
+    "normalized": "Carter Stephens"
+  },
+  {
     "id": "cassy.jones.tattoo",
     "name": "𝕮𝖆𝖘𝖘𝖞 𝕵𝖔𝖓𝖊𝖘 ‡",
     "normalized": "Cassy Jones ‡"
@@ -1193,6 +1198,11 @@
     "id": "paulakmica",
     "name": "𝐏𝐚𝐮𝐥𝐚 𝐊𝐦𝐢𝐜𝐚 | ꜰɪɴᴇʟɪɴᴇ ᴛᴀᴛᴛᴏᴏꜱ",
     "normalized": "Paula Kmica | ꜰɪɴᴇʟɪɴᴇ ᴛᴀᴛᴛᴏᴏꜱ"
+  },
+  {
+    "id": "raquelescudero",
+    "name": "𝙍𝙖𝙦𝙪𝙚𝙡 𝙀𝙨𝙘𝙪𝙙𝙚𝙧𝙤 / 𝘽𝙖𝙧𝙘𝙚𝙡𝙤𝙣𝙖 𝙩𝙖𝙩𝙩𝙤𝙤 𝙖𝙧𝙩𝙞𝙨𝙩",
+    "normalized": "Raquel Escudero / Barcelona tattoo artist"
   },
   {
     "id": "raymondjimenez",
@@ -48705,6 +48715,11 @@
     "normalized": "jonnii guns"
   },
   {
+    "id": "jonnystattoo",
+    "name": "Jonny",
+    "normalized": "jonny"
+  },
+  {
     "id": "firthjonny",
     "name": "Jonny Firth",
     "normalized": "jonny firth"
@@ -60026,18 +60041,13 @@
   },
   {
     "id": "ralphy",
-    "name": "Ralphy Rodriguez",
-    "normalized": "ralphy rodriguez"
+    "name": "Ralphy Jesus Rodriguez Gil",
+    "normalized": "ralphy jesus rodriguez gil"
   },
   {
     "id": "aethertattooclub",
     "name": "RAMBLE ON TATTOO (formerly Aether Tattoo Club)",
     "normalized": "ramble on tattoo (formerly aether tattoo club)"
-  },
-  {
-    "id": "ramiroblanco",
-    "name": "ramiro blanco",
-    "normalized": "ramiro blanco"
   },
   {
     "id": "ink_of_codes",
@@ -60073,11 +60083,6 @@
     "id": "dirtyrandytattoo",
     "name": "Randy (Dirty Randy)",
     "normalized": "randy (dirty randy)"
-  },
-  {
-    "id": "randyconner",
-    "name": "Randy Conner",
-    "normalized": "randy conner"
   },
   {
     "id": "heavenofcolours",
@@ -60135,11 +60140,6 @@
     "normalized": "raquel bona sunama"
   },
   {
-    "id": "raquelescudero",
-    "name": "Raquel Escudero",
-    "normalized": "raquel escudero"
-  },
-  {
     "id": "raro",
     "name": "Raro",
     "normalized": "raro"
@@ -60170,6 +60170,11 @@
     "normalized": "raul maestro"
   },
   {
+    "id": "raulmarquezmurillo",
+    "name": "Raul Marquez Murillo",
+    "normalized": "raul marquez murillo"
+  },
+  {
     "id": "rasteu",
     "name": "Raul Rasteu",
     "normalized": "raul rasteu"
@@ -60190,6 +60195,11 @@
     "normalized": "ray"
   },
   {
+    "id": "rayspooksjoya",
+    "name": "Ray Big Spooks Joya 🇺🇸",
+    "normalized": "ray big spooks joya 🇺🇸"
+  },
+  {
     "id": "durham.tattoos",
     "name": "Ray D",
     "normalized": "ray d"
@@ -60198,11 +60208,6 @@
     "id": "inborntattoobrooklyn",
     "name": "Ray Jerez",
     "normalized": "ray jerez"
-  },
-  {
-    "id": "rayspooksjoya",
-    "name": "Ray Spooks Joya",
-    "normalized": "ray spooks joya"
   },
   {
     "id": "baronart_ray",
@@ -60223,11 +60228,6 @@
     "id": "razvanrosca",
     "name": "Razvan Ionut Rosca",
     "normalized": "razvan ionut rosca"
-  },
-  {
-    "id": "raulmarquezmurillo",
-    "name": "Raúl Márquez Murillo",
-    "normalized": "raúl márquez murillo"
   },
   {
     "id": "oilburner",
@@ -60291,18 +60291,13 @@
   },
   {
     "id": "reesehilburn",
-    "name": "Reese Hilburn",
-    "normalized": "reese hilburn"
+    "name": "Reese | Artist | PsychoSomatix Biz Mentor",
+    "normalized": "reese | artist | psychosomatix biz mentor"
   },
   {
     "id": "reeve",
     "name": "Reeve Wong",
     "normalized": "reeve wong"
-  },
-  {
-    "id": "reginogonzales",
-    "name": "Regino Gonzales",
-    "normalized": "regino gonzales"
   },
   {
     "id": "reichelwells",
@@ -60316,8 +60311,8 @@
   },
   {
     "id": "remberorellana",
-    "name": "Rember Orellana",
-    "normalized": "rember orellana"
+    "name": "Rember Orellana | Dallas/Fort Worth Tattoo Artist",
+    "normalized": "rember orellana | dallas/fort worth tattoo artist"
   },
   {
     "id": "deniscasella",
@@ -60326,13 +60321,13 @@
   },
   {
     "id": "remifrances",
-    "name": "Remi Frances",
-    "normalized": "remi frances"
+    "name": "Remi FRANCES 🇨🇵",
+    "normalized": "remi frances 🇨🇵"
   },
   {
     "id": "remiscizauskas",
-    "name": "Remigijus Cizauskas · Remis Tattoo",
-    "normalized": "remigijus cizauskas · remis tattoo"
+    "name": "Remigijus Cizauskas",
+    "normalized": "remigijus cizauskas"
   },
   {
     "id": "removazhenya",
@@ -60356,18 +60351,18 @@
   },
   {
     "id": "renaehaak",
-    "name": "Renae Haak · Renunu",
-    "normalized": "renae haak · renunu"
-  },
-  {
-    "id": "renanbatista",
-    "name": "Renan Batista",
-    "normalized": "renan batista"
+    "name": "Renae Haak",
+    "normalized": "renae haak"
   },
   {
     "id": "renan",
     "name": "Renan Borelli",
     "normalized": "renan borelli"
+  },
+  {
+    "id": "renanbatista",
+    "name": "Renan Kaktin Batista - Tattoo Artist",
+    "normalized": "renan kaktin batista - tattoo artist"
   },
   {
     "id": "renanpires",
@@ -60468,6 +60463,11 @@
     "id": "reyjasper",
     "name": "Rey Jasper Andres",
     "normalized": "rey jasper andres"
+  },
+  {
+    "id": "reginogonzales",
+    "name": "RG",
+    "normalized": "rg"
   },
   {
     "id": "bainink",
@@ -70288,6 +70288,11 @@
     "id": "alexyoungtattoo",
     "name": "• 𝗔𝗟𝗘𝗫𝗬𝗢𝗨𝗡𝗚 •",
     "normalized": "• ALEXYOUNG •"
+  },
+  {
+    "id": "ramiroblanco",
+    "name": "• 𝕭𝖑𝖆𝖈𝖐 𝕮𝖆𝖗𝖑𝖔𝖘 •",
+    "normalized": "• Black Carlos •"
   },
   {
     "id": "lauramartinez",
