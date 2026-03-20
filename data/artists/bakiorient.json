@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bakiorient",
-  "name": "Baki Orient",
+  "name": "Baki ÇİMEN",
   "location": {
     "city": "Busan",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09"
+  "updated_at": "2026-03-20",
+  "bio": "🌊ORIENT TATTOO[private shop]🌊\nBased in Busan. \nJune-San Diego 🇺🇸\n📱Kakao Talk=unclebaki \n📮unclebaki@gmail.com",
+  "instagram_enriched": {
+    "id": "11703655637",
+    "follower_count": 15,
+    "following_count": 452,
+    "media_count": 10,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bakiorient/instagram/profile.jpg"
+  }
 }

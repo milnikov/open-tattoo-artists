@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bradleeworthen",
-  "name": "Bradlee Worthen",
+  "name": "JC Anderson",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "Ocean Ave. Tattoo - Mon, Tues, Thurs / Napa Valley Tattoo Co. - Every Sunday"
+  "updated_at": "2026-03-20",
+  "bio": "Ocean Ave. Tattoo - Mon, Tues, Thurs / Napa Valley Tattoo Co. - Every Sunday",
+  "instagram_enriched": {
+    "id": "34806528",
+    "follower_count": 248,
+    "following_count": 398,
+    "media_count": 172,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bradleeworthen/instagram/profile.jpg"
+  }
 }
