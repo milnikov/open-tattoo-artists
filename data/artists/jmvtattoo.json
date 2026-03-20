@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "jmvtattoo",
+  "name": "Jonatan Vazquez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jmvtattoo",
+    "instagram": "https://www.instagram.com/jmvtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jmvtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jmvtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jmvtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jmvtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jonatan Vazquez is renowned for his impressive skill in lettering tattoos, which have earned him a distinguished reputation among his clientele. His meticulous attention to detail and the precision of his designs set him apart in the tattoo industry. Clients constantly praise Jonatan's professionalism, which is evident in both the exceptional quality of his work and the attentive manner in which he approaches each individual tattoo session.\nPrice: $\nCurrent location:"
+}
