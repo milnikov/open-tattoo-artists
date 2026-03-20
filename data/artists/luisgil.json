@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luisgil",
-  "name": "Luis Gil",
+  "name": "Academia del Tatuaje",
   "location": {
     "city": "City of Doral",
     "country": "United States"
@@ -50,6 +50,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE MejorArte Tattoo Studio City of Doral"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE MejorArte Tattoo Studio City of Doral\n\n🔷Tatuar es técnica; Aprenderás los fundamentos del arte. \n🔹Creadores: @luisgil_art y @martinezleonart\n🏛 @mifamiami @mejorartestudio",
+  "instagram_enriched": {
+    "id": "50537226224",
+    "follower_count": 616,
+    "following_count": 21,
+    "media_count": 59,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luisgil/instagram/profile.jpg"
+  }
 }

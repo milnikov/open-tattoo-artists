@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jimlynch13tattoo",
+  "name": "Jim Lynch",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jimlynch13tattoo",
+    "instagram": "https://www.instagram.com/jimlynch13tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimlynch13tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimlynch13tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimlynch13tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jimlynch13tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jim Lynch is a highly skilled tattoo artist specializing in black and gray, realism, and the unique trashpolka style. With a steady hand and a keen eye for detail, Jim's work is renowned for its precision and artistry. Clients seeking a standout piece can find him at Tooth and Claw tattoo studio, where he brings visions to life with exceptional craftsmanship.\nPrice: $\nCurrent location:"
+}

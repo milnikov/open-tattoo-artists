@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "louiegomez",
-  "name": "Louie Gomez",
+  "name": "elvira Gomez",
   "location": {
     "city": "Azusa",
     "country": "United States"
@@ -110,6 +110,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Cryptic Tattoo Azusa"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE Cryptic Tattoo Azusa",
+  "instagram_enriched": {
+    "id": "3591769901",
+    "follower_count": 251,
+    "following_count": 474,
+    "media_count": 54,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/louiegomez/instagram/profile.jpg"
+  }
 }
