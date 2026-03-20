@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "johnwashingtontattoo",
+  "name": "John Washington",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/johnwashingtontattoo",
+    "instagram": "https://www.instagram.com/johnwashingtontattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnwashingtontattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnwashingtontattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnwashingtontattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnwashingtontattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "John Washington is a highly skilled tattoo artist renowned for his mastery in traditional and illustrative styles, which has been honed since beginning his career in 2008. His work at English Electric Tattoo in Lewes, East Sussex, has been marked by a dedication to cleanliness, ensuring his studio maintains the highest standards of hygiene. John's professionalism is evident in both his stunning tattoo work and the immaculate state of his workplace, making him a trusted name in the tattooing community.\nPrice: $\nCurrent location:"
+}
