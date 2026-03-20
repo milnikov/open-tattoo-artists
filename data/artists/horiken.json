@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horiken",
-  "name": "Hori Ken",
+  "name": "初代 彫けん",
   "location": {
     "city": "Tokyo",
     "country": "Japan"
@@ -13,5 +13,13 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-03-20",
+  "instagram_enriched": {
+    "id": "5516629524",
+    "follower_count": 515,
+    "following_count": 259,
+    "media_count": 238,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horiken/instagram/profile.jpg"
+  }
 }

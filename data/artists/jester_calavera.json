@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jester_calavera",
+  "name": "Jester Ferreira",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "minimalist",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jester_calavera",
+    "instagram": "https://www.instagram.com/jester_calavera/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jester_calavera/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jester_calavera/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jester_calavera/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jester_calavera/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jester Ferreira is a highly skilled tattoo artist known for their proficiency in lettering, minimalist, and trashpolka styles. With a keen eye for detail and a steady hand, Jester's work is both precise and artistically brilliant, ensuring that every tattoo they create is a stunning piece of art. Clients appreciate the professionalism they bring to every session, making them a trusted name in the tattoo community.\nPrice: $\nCurrent location:"
+}

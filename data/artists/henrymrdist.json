@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "henrymrdist",
-  "name": "Henry Mrdist",
+  "name": "More Than Ink™",
   "location": {
     "city": "Örebro",
     "country": "Sweden"
@@ -26,6 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Big Slick Tattoo Örebro"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE Big Slick Tattoo Örebro\n\nWorld's Best Tattooist and Tattoos #morethaninktattoos #qualityoverquantity",
+  "instagram_enriched": {
+    "id": "1691556799",
+    "follower_count": 785,
+    "following_count": 1629,
+    "media_count": 514,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henrymrdist/instagram/profile.jpg"
+  }
 }

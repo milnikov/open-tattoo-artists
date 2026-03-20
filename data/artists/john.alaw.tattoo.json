@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "john.alaw.tattoo",
+  "name": "John Alaw",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/john.alaw.tattoo",
+    "instagram": "https://www.instagram.com/john.alaw.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/john.alaw.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/john.alaw.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/john.alaw.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/john.alaw.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "John Alaw is an exceptional tattoo artist, specializing in the intricate and bold 'black&gray' style. Known for his high-level of professionalism, he meticulously schedules and manages his appointments, making sure to accommodate his clients both at his primary location, '@sinnerstattoo_rowlett', and during his travels, such as the upcoming stint at '@blvckpines Texarkana'.\nPrice: $$\nCurrent location:"
+}
