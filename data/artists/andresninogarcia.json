@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andresninogarcia",
-  "name": "andres niño garcia",
+  "name": "Andres Garcia",
   "location": {
     "city": "Bogotá",
     "country": "Colombia"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Español Tattoo Bogotá"
+  "updated_at": "2026-03-19",
+  "bio": "WORKPLACE Español Tattoo Bogotá",
+  "instagram_enriched": {
+    "id": "67472280466",
+    "follower_count": 20,
+    "following_count": 37,
+    "media_count": 48,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andresninogarcia/instagram/profile.jpg"
+  }
 }

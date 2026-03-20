@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anaoliveira",
-  "name": "Ana Paula Oliveira",
+  "name": "Ana Paula de Oliveira",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -13,6 +13,14 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "And at once i knew, i was not magnificent."
+  "updated_at": "2026-03-19",
+  "bio": "And at once i knew, i was not magnificent.",
+  "instagram_enriched": {
+    "id": "44503032834",
+    "follower_count": 970,
+    "following_count": 990,
+    "media_count": 15,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anaoliveira/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andreagamboa",
-  "name": "Andrea Gamboa",
+  "name": "Noemi Floriano Barrios",
   "location": {
     "city": "Lima",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "WORKPLACE Casa Trazo Studio Lima"
+  "updated_at": "2026-03-19",
+  "bio": "WORKPLACE Casa Trazo Studio Lima",
+  "instagram_enriched": {
+    "id": "53797792414",
+    "follower_count": 56,
+    "following_count": 25,
+    "media_count": 42,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andreagamboa/instagram/profile.jpg"
+  }
 }
