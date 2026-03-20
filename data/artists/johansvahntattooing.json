@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "johansvahntattooing",
+  "name": "Johan Svahn",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/johansvahntattooing",
+    "instagram": "https://www.instagram.com/johansvahntattooing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johansvahntattooing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johansvahntattooing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johansvahntattooing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johansvahntattooing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Johan Svahn is an exceptionally skilled tattoo artist, known for his mastery in Japanese and Newschool styles. He operates out of Soul Rebel in Malmö, Sweden, where his impeccable artistry has amassed a massive following of about 120,000 enthusiasts on Instagram. An email to svahntattoos@gmail.com can secure you an appointment with this talented artist.\nPrice: $$$\nCurrent location:"
+}
