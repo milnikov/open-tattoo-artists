@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rene",
-  "name": "René Gibson",
+  "name": "Alison Edney",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -434,6 +434,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "WORKPLACE P Paradise"
+  "updated_at": "2026-03-20",
+  "bio": "WORKPLACE P Paradise",
+  "instagram_enriched": {
+    "id": "302158746",
+    "follower_count": 227,
+    "following_count": 317,
+    "media_count": 1273,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rene/instagram/profile.jpg"
+  }
 }
