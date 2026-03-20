@@ -42188,23 +42188,6 @@
     "updated_at": "2026-03-06"
   },
   {
-    "id": "pabloash",
-    "name": "ash pablo",
-    "location": {
-      "city": "Madrid",
-      "country": "Spain"
-    },
-    "styles": [],
-    "links": {
-      "instagram": "https://www.instagram.com/pabloash_tattoo/"
-    },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Estigma Tattoo Madrid",
-    "updated_at": "2026-03-14"
-  },
-  {
     "id": "ash_pe",
     "name": "Ash Pé",
     "location": {
@@ -272879,11 +272862,11 @@
       "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozgedemir/thumb/004.webp"
     ],
     "bio": "WORKPLACE Tattoom Gallery Istanbul",
-    "updated_at": "2026-03-10"
+    "updated_at": "2026-03-20"
   },
   {
     "id": "ozzyostby",
-    "name": "Ozzy Ostby",
+    "name": "ozzy ostby",
     "location": {
       "city": "Los Angeles",
       "country": "United States"
@@ -272892,11 +272875,17 @@
     "links": {
       "instagram": "https://www.instagram.com/ozzyink/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE House Of Ink Los Angeles",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozzyostby/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozzyostby/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozzyostby/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozzyostby/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ozzyostby/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE House Of Ink Los Angeles\n\nProfessional tattooer in Venice beach ca and owner of @luckydollartattooparlor in Riverside ca To book an appointment email me at ozzyostby@gmail.com",
+    "updated_at": "2026-03-20",
+    "follower_count": 104183
   },
   {
     "id": "ouzdoganay",
@@ -273004,6 +272993,29 @@
     "updated_at": "2026-03-14"
   },
   {
+    "id": "pabloash",
+    "name": "Pablo Ash Tattoos",
+    "location": {
+      "city": "Madrid",
+      "country": "Spain"
+    },
+    "styles": [],
+    "links": {
+      "instagram": "https://www.instagram.com/pabloash_tattoo/"
+    },
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pabloash/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pabloash/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pabloash/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pabloash/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pabloash/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Estigma Tattoo Madrid\n\nMexican tattoo artist, based in Madrid. DM for appointments. Custom Tattoo @estigma_tattoo @pablo_ash_art sponsored by @radiantcolorsink",
+    "updated_at": "2026-03-20",
+    "follower_count": 18711
+  },
+  {
     "id": "pablobueno",
     "name": "Pablo Bueno",
     "location": {
@@ -273014,11 +273026,17 @@
     "links": {
       "instagram": "https://www.instagram.com/pablobuenotattoo/"
     },
-    "tattoo_count": 0,
-    "thumb": null,
-    "thumbs": [],
-    "bio": "WORKPLACE Symmetry Tattoo Shop Bilbao",
-    "updated_at": "2026-03-14"
+    "tattoo_count": 24,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pablobueno/thumb/ig_001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pablobueno/thumb/ig_001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pablobueno/thumb/ig_002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pablobueno/thumb/ig_003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pablobueno/thumb/ig_004.webp"
+    ],
+    "bio": "WORKPLACE Symmetry Tattoo Shop Bilbao\n\n•• Citas y consultas DM 📩  \n•• @area51tattoobilbao C/Villarias 4, Bilbao \n#tattoo #ink #blackwork #bilbao",
+    "updated_at": "2026-03-20",
+    "follower_count": 13764
   },
   {
     "id": "pablode",
@@ -286573,7 +286591,7 @@
     "tattoo_count": 0,
     "thumb": null,
     "thumbs": [],
-    "updated_at": "2026-03-14"
+    "updated_at": "2026-03-20"
   },
   {
     "id": "rubendelaani",
