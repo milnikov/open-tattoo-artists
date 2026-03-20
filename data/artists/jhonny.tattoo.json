@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jhonny.tattoo",
+  "name": "Jhonny Mayck",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jhonny.tattoo",
+    "instagram": "https://www.instagram.com/jhonny.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jhonny.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jhonny.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jhonny.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jhonny.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jhonny Mayck is a highly skilled tattoo artist who specializes in minimalist and lettering styles, skillfully bringing crisp lines and elegant simplicity to every design he creates. His dedication to his craft is evident in every piece of ink he lays down, ensuring that each tattoo is not just a statement of style but a masterpiece of precision and artistry. Clients appreciate the clean and professional atmosphere of Jhonny's studio, located on Av. Sebastião Antônio Ribeiro in Vespasiano-MG, where they can bring their visions to life.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "jeantattooart",
+  "name": "Jean Gutierrez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jeantattooart",
+    "instagram": "https://www.instagram.com/jeantattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeantattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeantattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeantattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jeantattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jean Gutierrez is a highly skilled tattoo artist specializing in the watercolor style, creating vibrant and intricate designs that flow seamlessly on the skin. Each tattoo crafted by Jean is a testament to their artistic expertise, imbuing every piece with emotion and a whimsical sense of color. Clients praise the clean and precise work, making Jean's studio a top choice for those seeking a tattoo that mimics the delicate touch of watercolor art.\nPrice: $\nCurrent location:"
+}
