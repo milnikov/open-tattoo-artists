@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "joshwilding",
+  "name": "Josh Wilding",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/joshwilding",
+    "instagram": "https://www.instagram.com/joshwilding/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshwilding/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshwilding/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshwilding/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshwilding/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Josh Wilding is an exceptionally skilled tattoo artist based in London, UK, who specializes in black and gray styles. His intricate and detailed work truly reflects his high level of mastery in his craft. Wilding utilizes a distinct approach to tattooing that leaves each client with a unique, timeless piece of body art.\nPrice: $$\nCurrent location:"
+}

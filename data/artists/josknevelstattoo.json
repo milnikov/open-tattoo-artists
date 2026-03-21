@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "josknevelstattoo",
+  "name": "Jos Knevels",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "trashpolka",
+    "black&gray",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/josknevelstattoo",
+    "instagram": "https://www.instagram.com/josknevelstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josknevelstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josknevelstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josknevelstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josknevelstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Jos Knevels is an accomplished tattoo artist known for their exceptional skill in various styles, including realism, trash polka, black & gray, and cover-up tattoos. Their attention to detail and proficiency ensure every piece of ink they work on is crafted with precision, resulting in exquisite and life-like designs. As the owner of Fantasy Tattoo JNK, Jos maintains the highest standards of professionalism in their work, creating a trusted and sought-after name in the tattooing community.\nPrice: $\nCurrent location:"
+}

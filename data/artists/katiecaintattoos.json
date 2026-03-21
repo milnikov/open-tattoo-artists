@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "katiecaintattoos",
+  "name": "Katie Cain",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/katiecaintattoos",
+    "instagram": "https://www.instagram.com/katiecaintattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katiecaintattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katiecaintattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katiecaintattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/katiecaintattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Katie Cain is a highly skilled tattoo artist specializing in illustrative, black&gray, and newschool styles. Her proficiency is particularly evident in her cover-ups and re-dos, where she brings an impressive level of detail and creativity. Working out of Maximum Tattoo Studio, Katie's portfolio showcases her exceptional talent and dedication to her craft.\nPrice: $\nCurrent location:"
+}
