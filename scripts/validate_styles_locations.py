@@ -99,6 +99,12 @@ JUNK_STYLES = {
     "technicaltattoosupply",
     "inkjecta",
     "deluxeirons",
+    "starrtattoosupplies",
+    "starbritecolors",
+    "juanpetattoo.es",
+    "stigmarotary",
+    "tattooarmourpro",
+    "blkpowder",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -387,7 +393,6 @@ REGION_TO_COUNTRY = {
     "Santander Department": "Colombia",
     "Canary Islands": "Spain",
     "Crimea": "Ukraine",
-    "Puerto Rico": "United States",
     "Jura-Nord vaudois District": "Switzerland",
     "Veveyse District": "Switzerland",
     "Kreis Wesel": "Germany",
