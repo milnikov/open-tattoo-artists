@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "josealmeida_artista",
+  "name": "Jose Almeida",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/josealmeida_artista",
+    "instagram": "https://www.instagram.com/josealmeida_artista/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josealmeida_artista/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josealmeida_artista/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josealmeida_artista/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/josealmeida_artista/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Jose Almeida is a highly skilled tattoo artist, showcasing exceptional prowess in sketch, floral, and fine line styles. Stepping into Piranha Tattoo Studios, clients can expect an immaculate environment where cleanliness is evidently a top priority for Jose, ensuring every session is both safe and hygienic. His impeccable work mirrors his dedication to maintaining an outstandingly clean studio.\nPrice: $\nCurrent location:"
+}

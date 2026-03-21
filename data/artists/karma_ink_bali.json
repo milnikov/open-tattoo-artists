@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "karma_ink_bali",
+  "name": "Karma Ink Bali",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/karma_ink_bali",
+    "instagram": "https://www.instagram.com/karma_ink_bali/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma_ink_bali/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma_ink_bali/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma_ink_bali/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma_ink_bali/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Karma Ink Bali is a specialized tattoo studio located in the vibrant heart of Kuta, known for its intricate 'black & gray' tattoo artistry. The studio exudes a laid-back, professional atmosphere, welcoming both regulars and new clientele, with an easily accessible booking system for convenience and efficiency."
+}

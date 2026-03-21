@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "juannuneztattoo",
+  "name": "Juan Nunez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/juannuneztattoo",
+    "instagram": "https://www.instagram.com/juannuneztattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juannuneztattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juannuneztattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juannuneztattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/juannuneztattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Juan Nunez is an outstanding tattoo artist based in Richmond, CA, highly skilled in black & gray and realism styles. Established since 2001, he runs an appointment-only operation, known as Nunez Tattoo, where he integrates his Native American and Mexican heritage into his unique work, turning it into pieces of art on the skin.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2001"
+}

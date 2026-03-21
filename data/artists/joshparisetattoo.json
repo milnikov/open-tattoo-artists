@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "joshparisetattoo",
+  "name": "Josh Parise",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/joshparisetattoo",
+    "instagram": "https://www.instagram.com/joshparisetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshparisetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshparisetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshparisetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshparisetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Josh Parise is a highly skilled tattoo artist based in Tempe, AZ, specializing in traditional and illustrative styles. His work is renowned for its crisp lines, vibrant colors, and the ability to bring classic tattoo iconography to life. If you're looking for expertise and impeccable technique in these styles, Josh Parise at Reaper Madness Tattoo is the artist to trust.\nPrice: $\nCurrent location:"
+}

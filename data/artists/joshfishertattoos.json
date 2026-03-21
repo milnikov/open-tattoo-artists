@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "joshfishertattoos",
+  "name": "Josh Fisher",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/joshfishertattoos",
+    "instagram": "https://www.instagram.com/joshfishertattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshfishertattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshfishertattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshfishertattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joshfishertattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Josh Fisher is a highly skilled tattoo artist, specializing in realism, tribal, and geometric designs, working out of Cavalry Tattoo Studio in Norwich, UK. His precision and expertise in these styles have earned him a well-respected reputation among his clientele. Josh's commitment to professionalism is reflected in both his stunning work and the way he maintains a clean and hygienic environment, ensuring a safe and pleasant experience for all his clients.\nPrice: $$\nCurrent location:"
+}

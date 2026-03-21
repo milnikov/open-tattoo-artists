@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "jorgecorcuera",
+  "name": "Jorge Corcuera",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jorgecorcuera",
+    "instagram": "https://www.instagram.com/jorgecorcuera/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jorgecorcuera/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jorgecorcuera/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jorgecorcuera/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jorgecorcuera/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Jorge Corcuera is a proficient tattoo artist specializing in black&gray, realism, and neotraditional styles. Located in Southern California, he works by appointment only at Greywash Gallery, and he uses only high-quality tattoo supplies from Monica's Tattoo Supply.\nPrice: $$\nCurrent location:"
+}

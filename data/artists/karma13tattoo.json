@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "karma13tattoo",
+  "name": "Karma13tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/karma13tattoo",
+    "instagram": "https://www.instagram.com/karma13tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma13tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma13tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma13tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/karma13tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Karma13tattoo is a remarkably skilled tattoo artist specializing in black & gray, illustrative, and tribal styles. Located in the picturesque Tenerife, Islas Canarias, they transform skin into art with precision and finesse. Clients appreciate Karma13tattoo's commitment to cleanliness, ensuring a safe and sterile environment for every session.\nPrice: $\nCurrent location:"
+}

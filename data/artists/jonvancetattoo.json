@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jonvancetattoo",
+  "name": "Jon Vance",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jonvancetattoo",
+    "instagram": "https://www.instagram.com/jonvancetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonvancetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonvancetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonvancetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jonvancetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-20",
+  "bio": "Jon Vance, a celebrated tattoo artist specializing in black and gray realism, is renowned for his exceptional skill level that has earned him multiple awards. With a reputation as Maryland's premier black and gray specialist, Jon exhibits both mastery and dedication in his craft. Note that bookings with Jon are exclusively by appointment, ensuring that each client receives his undivided attention and expertise during their session.\nPrice: $\nCurrent location:"
+}
