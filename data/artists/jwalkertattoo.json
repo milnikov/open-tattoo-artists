@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "jwalkertattoo",
+  "name": "Josh Walker",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/jwalkertattoo",
+    "instagram": "https://www.instagram.com/jwalkertattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jwalkertattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jwalkertattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jwalkertattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jwalkertattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Renowned for his proficiency in black and gray realism, Josh Walker is a highly skilled tattoo artist whose work speaks volumes of his talent. Operating from Black Anvil Tattoo Club in Cleethorpes, UK, Josh's meticulous attention to detail and finesse have earned him a respected position in the tattoo community, as well as a sponsorship by Ink of Coco Tattoo Skincare. Clients and tattoo enthusiasts alike are continually impressed with the artistry and sophistication that Josh brings to each piece he creates.\nPrice: $\nCurrent location:"
+}
