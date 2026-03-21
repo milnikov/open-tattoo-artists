@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "kitmcdermott",
+  "name": "Kit McD",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/kitmcdermott",
+    "instagram": "https://www.instagram.com/kitmcdermott/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kitmcdermott/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kitmcdermott/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kitmcdermott/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kitmcdermott/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Immerse yourself in the vintage allure and precision of Live Fast Studio by Kit McD, nestled in the vibrant heart of Dublin's Temple Bar at 9 Eustace Street. Specializing in traditional, dotwork, and fineline tattoos, this sanctuary of artistry marries meticulous design with a welcoming, creative atmosphere, ensuring each inked masterpiece reflects your personal narrative.\nPrice: $\nCurrent location:"
+}

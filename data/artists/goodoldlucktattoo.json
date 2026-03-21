@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goodoldlucktattoo",
-  "name": "Anton Goodoldluck",
+  "name": "GOOD OLD LUCK TATTOO",
   "location": {
     "city": "Rastatt",
     "country": "Germany"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16"
+  "updated_at": "2026-03-21",
+  "bio": "FINEST TATTOOING IN RASTATT SINCE 2011\nSCHIFFSTRASSE 7 • 76437 RASTATT\n@antongoodoldluck \n@becienzfoka",
+  "instagram_enriched": {
+    "id": "70284777546",
+    "follower_count": 480,
+    "following_count": 0,
+    "media_count": 27,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goodoldlucktattoo/instagram/profile.jpg"
+  }
 }
