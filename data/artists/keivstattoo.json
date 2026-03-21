@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "keivstattoo",
+  "name": "Keibha",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/keivstattoo",
+    "instagram": "https://www.instagram.com/keivstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keivstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keivstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keivstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keivstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-21",
+  "bio": "Keibha is a gifted fineline tattoo artist whose intricate designs reflect a high level of skill and precision. By maintaining a spotless work environment, they prioritize cleanliness, ensuring that each client's experience is not only artistically fulfilling but also held to the highest standards of hygiene. If you're looking to capture delicate artwork in ink, reach out to Keibha at foxentattooparlour.com for a booking.\nPrice: $\nCurrent location:"
+}
