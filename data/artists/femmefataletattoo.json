@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "femmefataletattoo",
-  "name": "Grace Neutral's Femme Fatale",
+  "name": "FFTV",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15"
+  "updated_at": "2026-03-21",
+  "bio": "The home of original content",
+  "instagram_enriched": {
+    "id": "56185209284",
+    "follower_count": 629,
+    "following_count": 5,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/femmefataletattoo/instagram/profile.jpg"
+  }
 }
