@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "forteysbab",
-  "name": "Danni Fortey",
+  "name": "Dannii Fortey",
   "location": {
     "city": "Birmingham",
     "country": "United Kingdom"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15"
+  "updated_at": "2026-03-21",
+  "bio": "Forteys Body Art Boutique\nTattoo studio.\nTattoo artist/ owner manager of Fortey's Body Art Boutique \nEngland. 07913954381",
+  "instagram_enriched": {
+    "id": "1237539866",
+    "follower_count": 790,
+    "following_count": 461,
+    "media_count": 568,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forteysbab/instagram/profile.jpg"
+  }
 }
