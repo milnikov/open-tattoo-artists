@@ -141,8 +141,9 @@ export function BrowseToolbar({
 
       {activeFilter === "Styles" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
-            <div className="flex flex-wrap gap-1 content-start">
+          <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+              <div className="flex flex-wrap gap-1 content-start py-1">
             <button
               type="button"
               onClick={onClearStyles}
@@ -168,9 +169,9 @@ export function BrowseToolbar({
                 {style}
               </button>
             ))}
+              </div>
             </div>
-          </div>
-          <div className="flex justify-end mt-2">
+            <div className="flex shrink-0 justify-end pt-2 md:mt-2 md:pt-0">
             <button
               type="button"
               onClick={onCollapseFilterPanel}
@@ -178,14 +179,16 @@ export function BrowseToolbar({
             >
               Save
             </button>
+            </div>
           </div>
         </div>
       )}
 
       {activeFilter === "Countries" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
-            <div className="flex flex-wrap gap-1 content-start">
+          <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+              <div className="flex flex-wrap gap-1 content-start py-1">
             <button
               type="button"
               onClick={onClearCountries}
@@ -211,9 +214,9 @@ export function BrowseToolbar({
                 {country}
               </button>
             ))}
+              </div>
             </div>
-          </div>
-          <div className="flex justify-end mt-2">
+            <div className="flex shrink-0 justify-end pt-2 md:mt-2 md:pt-0">
             <button
               type="button"
               onClick={onCollapseFilterPanel}
@@ -221,6 +224,7 @@ export function BrowseToolbar({
             >
               Save
             </button>
+            </div>
           </div>
         </div>
       )}
@@ -229,8 +233,9 @@ export function BrowseToolbar({
         isFilterPanelExpanded &&
         selectedCountries.length > 0 && (
           <div className="border-b border-border px-4 md:px-8 py-2.5">
-            <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
-              <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline content-start">
+            <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
+              <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+                <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline content-start py-1">
               <button
                 type="button"
                 onClick={onClearCities}
@@ -283,9 +288,9 @@ export function BrowseToolbar({
                   </button>
                 ))
               )}
+                </div>
               </div>
-            </div>
-            <div className="flex justify-end mt-2">
+              <div className="flex shrink-0 justify-end pt-2 md:mt-2 md:pt-0">
               <button
                 type="button"
                 onClick={onCollapseFilterPanel}
@@ -293,6 +298,7 @@ export function BrowseToolbar({
               >
                 Save
               </button>
+              </div>
             </div>
           </div>
         )}

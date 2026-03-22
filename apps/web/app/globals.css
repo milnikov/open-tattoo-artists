@@ -24,10 +24,14 @@
   --card: oklch(0.16 0 0);
 }
 
-/* Zoom entire page on mobile for better readability */
+/*
+ * Mobile readability: prefer root font-size over `zoom`.
+ * `zoom` on html breaks overflow/scrolling (e.g. sticky toolbars + overflow-y) and
+ * clips the first line of flex-wrapped content in WebKit.
+ */
 @media (max-width: 767px) {
   html {
-    zoom: 1.25;
+    font-size: 125%;
   }
 }
 
