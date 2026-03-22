@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import { headers } from "next/headers";
 
 import { getRepoRoot } from "@/lib/repo-root";
 
@@ -9,15 +10,31 @@ const REPO_ROOT = getRepoRoot();
 const ARTIST_ID_RE = /^[a-z0-9._]{1,30}$/;
 
 /**
- * Origin for loading /data/artists/<id>.json (static files under public/, copied at build).
- * Override with ARTIST_DATA_ORIGIN or NEXT_PUBLIC_SITE_URL if self-fetch fails (e.g. custom domain edge cases).
+ * Base URL for server-side fetch of /data/artists/<id>.json (public/ after sync-artist-json).
+ * On Vercel, prefer VERCEL_URL over NEXT_PUBLIC_SITE_URL so a mis-set public URL (e.g. localhost)
+ * does not break SSR; the deployment always serves static files on *.vercel.app.
  */
-function getArtistDataOrigin(): string {
-  const fromEnv =
-    process.env.ARTIST_DATA_ORIGIN?.replace(/\/$/, "") ||
-    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "");
-  if (fromEnv) return fromEnv;
+async function getArtistDataOrigin(): Promise<string> {
+  const explicit = process.env.ARTIST_DATA_ORIGIN?.replace(/\/$/, "").trim();
+  if (explicit) return explicit;
   if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+
+  try {
+    const h = await headers();
+    const host = (h.get("x-forwarded-host")?.split(",")[0] || h.get("host"))?.trim();
+    if (host) {
+      const local = /^127\.|^\[::1\]|^localhost(?::|$)/i.test(host);
+      const proto = local
+        ? "http"
+        : (h.get("x-forwarded-proto")?.split(",")[0]?.trim() ?? "https");
+      return `${proto}://${host}`;
+    }
+  } catch {
+    /* outside a request (e.g. tooling) */
+  }
+
+  const site = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "").trim();
+  if (site) return site;
   return "http://127.0.0.1:3000";
 }
 
@@ -155,7 +172,8 @@ export async function getArtist(
   fetchInit?: RequestInit
 ): Promise<Artist | null> {
   if (!ARTIST_ID_RE.test(id)) return null;
-  const url = `${getArtistDataOrigin()}/data/artists/${encodeURIComponent(id)}.json`;
+  const origin = await getArtistDataOrigin();
+  const url = `${origin}/data/artists/${encodeURIComponent(id)}.json`;
   try {
     const res = await fetch(url, fetchInit);
     if (!res.ok) return null;
