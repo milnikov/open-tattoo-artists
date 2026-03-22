@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lakesidetattoo",
+  "name": "Lakeside Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lakesidetattoo",
+    "instagram": "https://www.instagram.com/lakesidetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lakesidetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lakesidetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lakesidetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lakesidetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Nestled along the serene waterfront, Lakeside Tattoo is an artful haven specializing in illustrative, watercolor, and black & gray tattoos. With a commitment to creativity and precision, their skilled artists also offer expert piercing and microblading services in a welcoming and hygienic atmosphere. Follow their captivating work on Facebook @lakesidetattoolakestevens to witness how each design harmonizes with the unique canvas of the human body.\nPrice: $\nCurrent location:"
+}

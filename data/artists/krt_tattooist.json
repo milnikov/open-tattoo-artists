@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "krt_tattooist",
+  "name": "Keith Towler",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/krt_tattooist",
+    "instagram": "https://www.instagram.com/krt_tattooist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krt_tattooist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krt_tattooist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krt_tattooist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krt_tattooist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Keith Towler, renowned for his intricate black and gray vegan tattoo artistry, is highly regarded for his exceptional skill level. His precise technique and creative flair are evident in every design he brings to life at Mandala Tattoo Studio. Clients continually praise Keith's ability to transform their ideas into stunning tattoos, ensuring each piece is a masterpiece in its own right.\nPrice: $\nCurrent location:"
+}
