@@ -23,6 +23,9 @@ importers:
       globe.gl:
         specifier: ^2.45.0
         version: 2.45.0
+      h3-js:
+        specifier: ^4.4.0
+        version: 4.4.0
       lucide-react:
         specifier: ^0.577.0
         version: 0.577.0(react@18.3.1)
