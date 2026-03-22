@@ -2,13 +2,115 @@
 """
 Validate artist styles and location (city/country) for wrong fillings.
 Outputs a report; use --fix to apply corrections (location only; styles need manual review).
+
+Also infers country from city using global statistics (all artists, all regions): when a city
+name overwhelmingly maps to one country, align Unknown/outlier/wrong scrape values — with
+homonym-city safeguards (e.g. Paris, Portland: only fill Unknown, do not override US/FR).
 """
 import json
 import re
 import sys
+import unicodedata
+from collections import Counter, defaultdict
 from pathlib import Path
 
-ARTISTS_DIR = Path(__file__).resolve().parents[1] / "data" / "artists"
+REPO_ROOT = Path(__file__).resolve().parents[1]
+ARTISTS_DIR = REPO_ROOT / "data" / "artists"
+COUNTRIES_JSON = REPO_ROOT / "data" / "indexes" / "countries.json"
+
+# Same city name in multiple countries: only set country when it is Unknown (never override US/UK/etc.).
+CITY_MAJORITY_ONLY_FILL_UNKNOWN = frozenset(
+    {
+        "paris",
+        "brighton",
+        "portland",
+        "manchester",
+        "perth",
+        "birmingham",
+        "springfield",
+        "columbus",
+        "frankfurt",
+        "moscow",
+        "richmond",
+        "santiago",
+        "san jose",
+        "valencia",
+        "geneva",
+        "troy",
+        "odessa",
+        "memphis",
+        "washington",
+        "glasgow",
+        "alexandria",
+        "tripoli",
+        "melbourne",
+        "lebanon",
+        "georgia",
+        "texas",
+        "hollywood",
+        "florence",
+        "naples",
+        "toronto",  # GTA vs Ohio — keep non-Unknown as-is
+        "hamilton",
+        "kingston",
+        "san pedro",
+        "san pedro de macorís",
+        "monaco",
+        "rome",
+    }
+)
+
+# Italy was often scraped as country for Spanish (and some Latin) cities; always align to majority Spain/LatAm.
+SPANISH_CITY_KEYS = frozenset(
+    {
+        "barcelona",
+        "madrid",
+        "valencia",
+        "seville",
+        "sevilla",
+        "bilbao",
+        "zaragoza",
+        "malaga",
+        "málaga",
+        "murcia",
+        "alicante",
+        "granada",
+        "cordoba",
+        "córdoba",
+        "cadiz",
+        "cádiz",
+        "valladolid",
+        "santander",
+        "pamplona",
+        "toledo",
+        "salamanca",
+        "vigo",
+        "gijón",
+        "gijon",
+        "oviedo",
+        "burgos",
+        "leon",
+        "león",
+        "almería",
+        "almeria",
+        "huelva",
+        "tarragona",
+        "lleida",
+        "badajoz",
+        "logroño",
+        "logrono",
+        "donostia - san sebastián",
+        "donostia - san sebastian",
+        "san sebastián",
+        "san sebastian",
+        "palma",
+        "las palmas",
+        "marbella",
+        "sitges",
+        "girona",
+        "tenerife",
+    }
+)
 
 # Compound style strings to split into two separate styles
 COMPOUND_STYLES = {
@@ -945,6 +1047,121 @@ def normalize_city(city: str) -> str:
     return cleaned
 
 
+def normalize_city_key(city: str) -> str:
+    """Stable lowercase key for grouping one physical city across artists."""
+    if not city or not city.strip() or city.strip().lower() == "unknown":
+        return ""
+    s = unicodedata.normalize("NFKC", city.strip().lower())
+    s = re.sub(r"\s+", " ", s).strip()
+    return s
+
+
+def load_countries_official_by_lower() -> dict[str, str]:
+    """Map lower(country) -> official string from countries.json."""
+    if not COUNTRIES_JSON.is_file():
+        return {}
+    try:
+        raw = json.loads(COUNTRIES_JSON.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    if not isinstance(raw, list):
+        return {}
+    return {str(c).strip().lower(): str(c).strip() for c in raw if str(c).strip()}
+
+
+def build_city_canonical_country_map(
+    allowed_lower: dict[str, str],
+    *,
+    min_artists: int = 8,
+    min_known: int = 6,
+    min_top_share_of_known: float = 0.91,
+    min_second_for_ambiguous: int = 5,
+    second_share_ambiguous: float = 0.15,
+) -> tuple[dict[str, str], dict[str, Counter]]:
+    """
+    From ALL artists, infer one canonical country per city when the data are
+    overwhelmingly consistent (any region). Skips ambiguous cities (e.g. strong
+    second country: Paris FR/US, Valencia ES/VE).
+    """
+    city_country: dict[str, Counter] = defaultdict(Counter)
+    for f in sorted(ARTISTS_DIR.glob("*.json")):
+        try:
+            data = json.loads(f.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        loc = data.get("location") or {}
+        city = normalize_city((loc.get("city") or "").strip())
+        if city == "Unknown":
+            continue
+        ck = normalize_city_key(city)
+        if not ck:
+            continue
+        co_raw = (loc.get("country") or "").strip()
+        if not co_raw:
+            co_n = "Unknown"
+        else:
+            co_n = normalize_country(co_raw)
+        city_country[ck][co_n] += 1
+
+    out: dict[str, str] = {}
+    for ck, cc in city_country.items():
+        total_all = sum(cc.values())
+        if total_all < min_artists:
+            continue
+        known = {c: n for c, n in cc.items() if c and c != "Unknown"}
+        total_known = sum(known.values())
+        if total_known < min_known:
+            continue
+        ranked = sorted(known.items(), key=lambda x: -x[1])
+        top_c, top_n = ranked[0]
+        second_n = ranked[1][1] if len(ranked) > 1 else 0
+        if second_n >= max(min_second_for_ambiguous, int(second_share_ambiguous * total_known)):
+            continue
+        if top_n / total_known < min_top_share_of_known:
+            continue
+        low = top_c.strip().lower()
+        if low not in allowed_lower:
+            continue
+        out[ck] = allowed_lower[low]
+    return out, dict(city_country)
+
+
+def should_fix_city_country_majority(
+    ck: str,
+    co_n: str,
+    co_raw: str,
+    canonical_c: str,
+    cc: Counter | None,
+) -> bool:
+    """Whether to set country to canonical_c for this artist (conservative for homonym cities)."""
+    if co_n.lower() == canonical_c.lower():
+        return False
+    if not cc:
+        return False
+    known = {c: n for c, n in cc.items() if c and c != "Unknown"}
+    total_known = sum(known.values())
+    if total_known < 1:
+        return False
+
+    if ck in CITY_MAJORITY_ONLY_FILL_UNKNOWN:
+        return not co_raw.strip() or co_n == "Unknown"
+
+    if not co_raw.strip() or co_n == "Unknown":
+        return True
+
+    if co_n == "Italy":
+        if canonical_c == "Spain" and ck in SPANISH_CITY_KEYS:
+            return True
+        it_n = cc.get("Italy", 0)
+        if canonical_c != "Italy" and it_n <= max(3, int(0.035 * total_known)):
+            return True
+
+    minority_n = cc.get(co_n, 0)
+    if minority_n <= max(3, int(0.035 * total_known)):
+        return True
+    return False
+
+
 def main():
     fix = "--fix" in sys.argv
     style_issues = []
@@ -954,6 +1171,10 @@ def main():
     style_normalize_list = []  # (aid, before, after)
     country_issues = []
     city_issues = []
+    city_country_mismatch = []  # (aid, city, country_before, country_canonical, city_key)
+
+    allowed_lower = load_countries_official_by_lower()
+    city_canonical, city_country_counts = build_city_canonical_country_map(allowed_lower)
 
     for f in sorted(ARTISTS_DIR.glob("*.json")):
         try:
@@ -1020,6 +1241,30 @@ def main():
                         data["location"]["country"] = "Singapore"
                     elif normalized_city == "Hong Kong":
                         data["location"]["country"] = "China"
+
+        # Location: city ↔ country consistency (global majority over ALL artists / regions)
+        city_line = (data.get("location") or {}).get("city") or ""
+        city_eff = normalize_city(city_line.strip())
+        ck = normalize_city_key(city_eff) if city_eff != "Unknown" else ""
+        canonical_c = city_canonical.get(ck) if ck else None
+        cc = city_country_counts.get(ck) if ck else None
+        if canonical_c and cc is not None:
+            co_line = (data.get("location") or {}).get("country") or ""
+            co_raw = co_line.strip()
+            if not co_raw:
+                co_n = "Unknown"
+            else:
+                co_n = normalize_country(co_raw)
+            if should_fix_city_country_majority(ck, co_n, co_raw, canonical_c, cc):
+                city_country_mismatch.append((aid, city_eff, co_raw or co_n, canonical_c, ck))
+                if fix:
+                    dirty = True
+                    data["location"]["country"] = canonical_c
+
+        if fix:
+            loc = data.get("location") or {}
+            city = (loc.get("city") or "").strip()
+            country = (loc.get("country") or "").strip()
 
         # Styles: junk entries
         styles = list(data.get("styles") or [])
@@ -1101,6 +1346,13 @@ def main():
     if len(country_issues) > 80:
         print(f"  ... and {len(country_issues) - 80} more")
     print(f"\nTotal strange country: {len(country_issues)}\n")
+
+    print("=== LOCATION: city vs country (global majority, all regions) ===\n")
+    for aid, cty, co_bef, co_can, ck in city_country_mismatch[:80]:
+        print(f"  {aid}: city={cty!r} country={co_bef!r} -> {co_can!r} (key={ck!r})")
+    if len(city_country_mismatch) > 80:
+        print(f"  ... and {len(city_country_mismatch) - 80} more")
+    print(f"\nTotal city/country mismatches vs global majority: {len(city_country_mismatch)}\n")
 
     if fix:
         print("Applied --fix: location and junk styles corrected in place.")
