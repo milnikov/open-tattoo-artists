@@ -105,6 +105,13 @@ JUNK_STYLES = {
     "stigmarotary",
     "tattooarmourpro",
     "blkpowder",
+    "mba.easytattoo",
+    "gmail.com",
+    "zootattoo",
+    "kurosumitattooink",
+    "eternalink",
+    "relyaidtattoosupply",
+    "inkofcocotattooskincare",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
@@ -937,6 +944,7 @@ def main():
             continue
 
         aid = data.get("id") or f.stem
+        dirty = False
         loc = data.get("location") or {}
         city = (loc.get("city") or "").strip()
         country = (loc.get("country") or "").strip()
@@ -951,6 +959,7 @@ def main():
         if city and city in COUNTRY_NAMES_NO_CITY:
             location_issues.append((aid, city, country, "city is a country name (wrong filling)"))
             if fix:
+                dirty = True
                 data["location"]["city"] = "Unknown"
                 if not country or country == "Unknown":
                     if aid == "bashi_art_chuan":
@@ -960,18 +969,31 @@ def main():
                     else:
                         data["location"]["country"] = city
 
+        # After mutating location above, refresh locals so normalize_* sees written values (--fix).
+        if fix:
+            loc = data.get("location") or {}
+            city = (loc.get("city") or "").strip()
+            country = (loc.get("country") or "").strip()
+
         # Location: strange country (style tags or region instead of country)
         normalized_country = normalize_country(country)
         if normalized_country != country:
             country_issues.append((aid, country, normalized_country))
             if fix:
+                dirty = True
                 data["location"]["country"] = normalized_country
+
+        if fix:
+            loc = data.get("location") or {}
+            city = (loc.get("city") or "").strip()
+            country = (loc.get("country") or "").strip()
 
         # Location: strange city (style tags concatenated, e.g. "Singapore SINGLE NEEDLE...", "On the road ILLUSTRATIVE...")
         normalized_city = normalize_city(city)
         if normalized_city != city:
             city_issues.append((aid, city, normalized_city))
             if fix:
+                dirty = True
                 data["location"]["city"] = normalized_city
                 # If city was "Singapore ..." or "Hong Kong ...", set country if missing
                 if not country or country == "Unknown":
@@ -986,6 +1008,7 @@ def main():
         if bad:
             junk_found.append((aid, bad, list(styles)))
             if fix:
+                dirty = True
                 styles = [s for s in styles if s not in JUNK_STYLES]
                 data["styles"] = styles
 
@@ -994,6 +1017,7 @@ def main():
         if compound_found:
             compound_found_list.append((aid, compound_found, [part for c in compound_found for part in COMPOUND_STYLES[c]]))
             if fix:
+                dirty = True
                 new_styles = [s for s in styles if s not in COMPOUND_STYLES]
                 for comp in compound_found:
                     for part in COMPOUND_STYLES[comp]:
@@ -1015,9 +1039,10 @@ def main():
         if style_normalize_changed:
             style_normalize_list.append((aid, current_styles, normalized_styles))
             if fix:
+                dirty = True
                 data["styles"] = normalized_styles
 
-        if fix and (city in COUNTRY_NAMES_NO_CITY or bad or compound_found or style_normalize_changed or normalized_country != country or normalized_city != city):
+        if fix and dirty:
             f.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     # Report
