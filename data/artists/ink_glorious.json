@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ink_glorious",
-  "name": "INK GLORIOUS",
+  "name": "INK GLORIOUS BREMEN",
   "location": {
     "city": "Bremen",
     "country": "Germany"
@@ -17,6 +17,30 @@
     "website": "https://www.wizard.tattoo/"
   },
   "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
     {
       "image_id": "001",
       "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/full/001.webp",
@@ -618,5 +642,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17"
+  "updated_at": "2026-03-22",
+  "bio": "Qualitativ Hochwertig \n🗓️Termine Sichern \n⏰ Montag-Samstag 12-19 Uhr \n☎️ Tel./Whatsapp : +49 421 84516856\n📍Martinistraße.60 28195 Bremen\n#bremen",
+  "instagram_enriched": {
+    "id": "18118980706",
+    "follower_count": 6349,
+    "following_count": 1154,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_glorious/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkandmoreinktattoos",
-  "name": "InkAndMoreInkTattoos",
+  "name": "Professional | Sterile | Safe",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "bio": "Quality Tattoo Art\n \nBody Piercing\nBody Suspension\nBody Scarification \nBody Modification\n \nTitanium Jewelry\nPremium Aftercare\nGuest Spots Available",
+  "instagram_enriched": {
+    "id": "4866972491",
+    "follower_count": 205,
+    "following_count": 15,
+    "media_count": 117,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkandmoreinktattoos/instagram/profile.jpg"
+  }
 }

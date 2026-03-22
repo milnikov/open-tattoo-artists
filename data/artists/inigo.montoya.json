@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inigo.montoya",
-  "name": "Inigo Montoya",
+  "name": "Matthew Page",
   "location": {
     "city": "Lockport",
     "country": "United States"
@@ -616,5 +616,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "instagram_enriched": {
+    "id": "61164661675",
+    "follower_count": 50,
+    "following_count": 92,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inigo.montoya/instagram/profile.jpg"
+  }
 }

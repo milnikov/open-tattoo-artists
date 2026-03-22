@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkredibletattoospi",
-  "name": "Sheldon Birdswaney",
+  "name": "Inkredible Tattoo and Piercing",
   "location": {
     "city": "South Padre Island",
     "country": "United States"
@@ -341,5 +341,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19"
+  "updated_at": "2026-03-22",
+  "bio": "The Islands Premiere Tattoo Shop. \nFeaturing @sheldonbirdswaney and @rayg1032\nWalk Ins Always Welcome. Appointments Suggested.",
+  "instagram_enriched": {
+    "id": "26560810400",
+    "follower_count": 186,
+    "following_count": 13,
+    "media_count": 56,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkredibletattoospi/instagram/profile.jpg"
+  }
 }

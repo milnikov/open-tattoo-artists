@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "kwarogtattoos",
+  "name": "Kwarog",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "tribal",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/kwarogtattoos",
+    "instagram": "https://www.instagram.com/kwarogtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kwarogtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kwarogtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kwarogtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kwarogtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Kwarog is a highly skilled tattoo artist specializing in a diverse range of styles including realism, tribal, and newschool. His proficiency further expands to abstract and pop art realism, testifying his abilities to adapt and create compelling art in a tattoo. This dedicated artisan is also open for collaborations, always striving to elevate his craft to the next level.\nPrice: $$\nCurrent location:"
+}
