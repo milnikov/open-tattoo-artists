@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "kyleshieldstattoo",
+  "name": "Kyle Shields",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/kyleshieldstattoo",
+    "instagram": "https://www.instagram.com/kyleshieldstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kyleshieldstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kyleshieldstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kyleshieldstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kyleshieldstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Kyle Shields is a highly skilled tattoo artist, specializing in traditional, Japanese, and illustrative styles. Operating out of his studio, Nest of Thorns, in Glasgow, Scotland, his work exhibits a unique proficiency and stunning attention to detail that truly sets him apart.\nPrice: $$\nCurrent location:"
+}

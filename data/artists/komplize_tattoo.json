@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "komplize_tattoo",
+  "name": "KOMPLiZE Emanuel",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/komplize_tattoo",
+    "instagram": "https://www.instagram.com/komplize_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/komplize_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/komplize_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/komplize_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/komplize_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "KOMPLiZE Emanuel is a proficient tattoo artist renowned for his expertise in Tribal and Japanese styles, ensuring each design is etched with both precision and passion. His professionalism shines through as he serves as a true accomplice and partner to his clients, offering an experience that goes beyond the ink to embody the essence of craftsmanship. Visitors to his studio consistently praise the attention to detail and dedication that Emanuel brings to every piece of body art he creates.\nPrice: $\nCurrent location:"
+}

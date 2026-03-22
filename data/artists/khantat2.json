@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "khantat2",
+  "name": "Shan",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka",
+    "sponsor:",
+    "zootattoo"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/khantat2",
+    "instagram": "https://www.instagram.com/khantat2/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khantat2/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khantat2/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khantat2/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/khantat2/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Shan is a highly skilled tattoo artist who specializes in the styles of realism, black and gray, and trashpolka. Serving at the prominent Black Label Tattoo Collective, Shan showcases exemplary mastery in her craft, a testament to her sponsorship by Metrix Needles and Zootattoo. With an extraordinary level of finesse and detail in her tattoos, she brings intricate designs to life on skin with utmost precision.\nPrice: $$\nCurrent location:"
+}
