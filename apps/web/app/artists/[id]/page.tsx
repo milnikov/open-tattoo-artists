@@ -32,6 +32,13 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
   const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
 
+  const updatedAtEl =
+    artist.updated_at != null && artist.updated_at !== "" ? (
+      <span className="text-xs text-muted-foreground shrink-0">
+        Updated at: {artist.updated_at}
+      </span>
+    ) : null;
+
   return (
     <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
       <div className="h-8 md:h-16" />
@@ -113,33 +120,44 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
 
           <div className="hidden md:block md:row-start-2 md:col-start-1" aria-hidden />
 
-          <div className="flex flex-wrap items-center gap-2 mt-1 md:mt-0 md:row-start-2 md:col-start-2 min-w-0">
-            {artist.links.instagram && (
-              <a
-                href={artist.links.instagram}
-                target="_blank"
-                rel="noopener noreferrer"
-                className={HEADER_BUTTON_CLASS + " w-fit"}
-              >
-                Instagram
-                <ArrowUpRight className="h-3 w-3 shrink-0" />
-              </a>
-            )}
-            <ReportProblemButton
-              artistId={artist.id}
-              artistName={artist.name}
-              instagramUrl={artist.links.instagram}
-            />
-            {artist.updated_at && (
-              <span className="text-xs text-muted-foreground shrink-0">
-                Updated at: {artist.updated_at}
+          <div className="flex flex-col gap-2 mt-1 min-w-0 md:mt-0 md:row-start-2 md:col-start-2 md:flex-row md:flex-wrap md:items-center md:gap-2">
+            <div className="flex flex-wrap items-center gap-2 min-w-0">
+              {artist.links.instagram && (
+                <a
+                  href={artist.links.instagram}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={HEADER_BUTTON_CLASS + " w-fit"}
+                >
+                  Instagram
+                  <ArrowUpRight className="h-3 w-3 shrink-0" />
+                </a>
+              )}
+              <span className="md:hidden">
+                <FavoriteButton artistId={artist.id} />
               </span>
-            )}
+              <span className="hidden md:contents">
+                <ReportProblemButton
+                  artistId={artist.id}
+                  artistName={artist.name}
+                  instagramUrl={artist.links.instagram}
+                />
+                {updatedAtEl}
+              </span>
+            </div>
+            <div className="flex flex-wrap items-center gap-2 min-w-0 md:hidden">
+              <ReportProblemButton
+                artistId={artist.id}
+                artistName={artist.name}
+                instagramUrl={artist.links.instagram}
+              />
+              {updatedAtEl}
+            </div>
           </div>
 
           <div className="hidden md:block md:row-start-2 md:col-start-3" aria-hidden />
 
-          <div className="mt-2 md:mt-0 md:row-start-2 md:col-start-4 min-w-0 md:flex md:justify-end">
+          <div className="hidden md:flex md:row-start-2 md:col-start-4 min-w-0 md:justify-end">
             <FavoriteButton artistId={artist.id} />
           </div>
         </div>
