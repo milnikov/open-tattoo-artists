@@ -19,6 +19,9 @@ packages/scraper/.env*
 # Dependencies
 node_modules/
 
+# TypeScript incremental build cache
+*.tsbuildinfo
+
 # Next.js build and env
 apps/web/.next/
 apps/web/.env.local

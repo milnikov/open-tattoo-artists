@@ -22,11 +22,24 @@ function getArtistDataOrigin(): string {
 }
 
 /** Allowed country names (from data/indexes/countries.json). Only these are shown; rest hide artist. */
+let allowedCountriesCache: { mtimeMs: number; set: Set<string> } | null = null;
+
 function getAllowedCountries(): Set<string> {
   const p = path.join(REPO_ROOT, "data", "indexes", "countries.json");
-  if (!fs.existsSync(p)) return new Set(["Unknown"]);
+  const mtimeMs = fs.existsSync(p) ? fs.statSync(p).mtimeMs : -1;
+  if (allowedCountriesCache && allowedCountriesCache.mtimeMs === mtimeMs) {
+    return allowedCountriesCache.set;
+  }
+  // Visibility filter uses countries; invalidate compact list if country list changed.
+  compactArtistsCache = null;
+  if (!fs.existsSync(p)) {
+    allowedCountriesCache = { mtimeMs, set: new Set(["Unknown"]) };
+    return allowedCountriesCache.set;
+  }
   const list = JSON.parse(fs.readFileSync(p, "utf-8")) as string[];
-  return new Set(list.map((c) => c.trim().toLowerCase()));
+  const set = new Set(list.map((c) => c.trim().toLowerCase()));
+  allowedCountriesCache = { mtimeMs, set };
+  return set;
 }
 
 function isStrangeCountry(country: string | undefined): boolean {
@@ -111,12 +124,20 @@ export interface Artist {
   verified?: "artist" | "studio";
 }
 
+let compactArtistsCache: { mtimeMs: number; artists: CompactArtist[] } | null = null;
+
 export function getCompactArtists(): CompactArtist[] {
   const p = path.join(REPO_ROOT, "data", "indexes", "artists.compact.json");
   if (!fs.existsSync(p)) return [];
+  const st = fs.statSync(p);
+  if (compactArtistsCache && compactArtistsCache.mtimeMs === st.mtimeMs) {
+    return compactArtistsCache.artists;
+  }
   const all = JSON.parse(fs.readFileSync(p, "utf-8")) as CompactArtist[];
   // verified, source_domain, instagram_enriched come from scripts/build_indexes.py (no per-artist fs reads).
-  return all.filter((a) => !isArtistHidden(a));
+  const artists = all.filter((a) => !isArtistHidden(a));
+  compactArtistsCache = { mtimeMs: st.mtimeMs, artists };
+  return artists;
 }
 
 export function getSearchIndex(): SearchIndexEntry[] {
