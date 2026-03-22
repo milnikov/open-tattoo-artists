@@ -141,7 +141,8 @@ export function BrowseToolbar({
 
       {activeFilter === "Styles" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-1">
+          <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
+            <div className="flex flex-wrap gap-1 content-start">
             <button
               type="button"
               onClick={onClearStyles}
@@ -167,6 +168,7 @@ export function BrowseToolbar({
                 {style}
               </button>
             ))}
+            </div>
           </div>
           <div className="flex justify-end mt-2">
             <button
@@ -182,7 +184,8 @@ export function BrowseToolbar({
 
       {activeFilter === "Countries" && isFilterPanelExpanded && (
         <div className="border-b border-border px-4 md:px-8 py-2.5">
-          <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-1">
+          <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
+            <div className="flex flex-wrap gap-1 content-start">
             <button
               type="button"
               onClick={onClearCountries}
@@ -208,6 +211,7 @@ export function BrowseToolbar({
                 {country}
               </button>
             ))}
+            </div>
           </div>
           <div className="flex justify-end mt-2">
             <button
@@ -225,7 +229,8 @@ export function BrowseToolbar({
         isFilterPanelExpanded &&
         selectedCountries.length > 0 && (
           <div className="border-b border-border px-4 md:px-8 py-2.5">
-            <div className="max-h-[60vh] overflow-y-auto overscroll-contain flex flex-wrap gap-x-2 gap-y-1.5 items-baseline">
+            <div className="h-[50vh] md:h-auto md:max-h-[60vh] overflow-y-auto overscroll-contain">
+              <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline content-start">
               <button
                 type="button"
                 onClick={onClearCities}
@@ -278,6 +283,7 @@ export function BrowseToolbar({
                   </button>
                 ))
               )}
+              </div>
             </div>
             <div className="flex justify-end mt-2">
               <button
