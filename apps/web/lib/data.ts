@@ -9,15 +9,25 @@ const REPO_ROOT = getRepoRoot();
 /** Must match artist id in schema / filenames (prevents path traversal in fetch URL). */
 const ARTIST_ID_RE = /^[a-z0-9._]{1,30}$/;
 
+function normalizeOrigin(raw: string | undefined): string | undefined {
+  const t = raw?.trim();
+  if (!t) return undefined;
+  return t.replace(/\/$/, "");
+}
+
 /**
- * Base URL for server-side fetch of /data/artists/<id>.json (public/ after sync-artist-json).
- * On Vercel, prefer VERCEL_URL over NEXT_PUBLIC_SITE_URL so a mis-set public URL (e.g. localhost)
- * does not break SSR; the deployment always serves static files on *.vercel.app.
+ * Origins to try for GET /data/artists/<id>.json (after sync-artist-json).
+ * Order: explicit CDN → current request host → Vercel deployment host → public site URL → localhost.
+ * Set VERCEL_AUTOMATION_BYPASS_SECRET if Deployment Protection blocks server-side fetches.
  */
-async function getArtistDataOrigin(): Promise<string> {
-  const explicit = process.env.ARTIST_DATA_ORIGIN?.replace(/\/$/, "").trim();
-  if (explicit) return explicit;
-  if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+async function artistJsonFetchOrigins(): Promise<string[]> {
+  const origins: string[] = [];
+  const add = (o?: string) => {
+    const n = normalizeOrigin(o);
+    if (n && !origins.includes(n)) origins.push(n);
+  };
+
+  add(process.env.ARTIST_DATA_ORIGIN);
 
   try {
     const h = await headers();
@@ -27,15 +37,42 @@ async function getArtistDataOrigin(): Promise<string> {
       const proto = local
         ? "http"
         : (h.get("x-forwarded-proto")?.split(",")[0]?.trim() ?? "https");
-      return `${proto}://${host}`;
+      add(`${proto}://${host}`);
     }
   } catch {
-    /* outside a request (e.g. tooling) */
+    /* outside a request */
   }
 
-  const site = process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "").trim();
-  if (site) return site;
-  return "http://127.0.0.1:3000";
+  if (process.env.VERCEL_URL) {
+    const host = process.env.VERCEL_URL.replace(/^https?:\/\//, "").split("/")[0]?.trim();
+    if (host) add(`https://${host}`);
+  }
+
+  const site = process.env.NEXT_PUBLIC_SITE_URL;
+  if (site && !/localhost|127(\.|$)|^\[::1\]/i.test(site)) {
+    add(site);
+  }
+
+  add("http://127.0.0.1:3000");
+
+  return origins;
+}
+
+function mergeArtistFetchHeaders(base?: HeadersInit): Headers {
+  const h = new Headers(base ?? undefined);
+  const secret = process.env.VERCEL_AUTOMATION_BYPASS_SECRET?.trim();
+  if (secret) {
+    h.set("x-vercel-protection-bypass", secret);
+    h.set("x-vercel-set-bypass-cookie", "true");
+  }
+  // Some CDNs/WAFs block or challenge requests with no User-Agent (default Node fetch).
+  if (!h.has("user-agent")) {
+    h.set("user-agent", "Mozilla/5.0 (compatible; OpenTattooArtists/1.0)");
+  }
+  if (!h.has("accept")) {
+    h.set("accept", "application/json,*/*;q=0.1");
+  }
+  return h;
 }
 
 /** Allowed country names (from data/indexes/countries.json). Only these are shown; rest hide artist. */
@@ -164,25 +201,36 @@ export function getSearchIndex(): SearchIndexEntry[] {
 }
 
 /**
- * Load full artist JSON via fetch from static /data/artists/<id>.json (see sync-artist-json-to-public.cjs).
- * Avoids fs + dynamic path, which would make Next trace ~15k files into every serverless function on Vercel.
+ * Load full artist JSON via fetch from /data/artists/<id>.json (public/ after sync-artist-json).
+ * Tries several origins; do not use fs.readFile paths here — that pulls ~15k files into every route importing this module.
+ * Set VERCEL_AUTOMATION_BYPASS_SECRET if Deployment Protection blocks server fetches.
  */
 export async function getArtist(
   id: string,
   fetchInit?: RequestInit
 ): Promise<Artist | null> {
   if (!ARTIST_ID_RE.test(id)) return null;
-  const origin = await getArtistDataOrigin();
-  const url = `${origin}/data/artists/${encodeURIComponent(id)}.json`;
-  try {
-    const res = await fetch(url, fetchInit);
-    if (!res.ok) return null;
-    const artist = (await res.json()) as Artist;
-    if (isArtistHidden(artist)) return null;
-    return artist;
-  } catch {
-    return null;
+
+  const origins = await artistJsonFetchOrigins();
+  const init: RequestInit = {
+    ...fetchInit,
+    headers: mergeArtistFetchHeaders(fetchInit?.headers),
+    cache: fetchInit?.cache ?? "no-store",
+  };
+
+  for (const origin of origins) {
+    const url = `${origin}/data/artists/${encodeURIComponent(id)}.json`;
+    try {
+      const res = await fetch(url, init);
+      if (!res.ok) continue;
+      const artist = (await res.json()) as Artist;
+      if (isArtistHidden(artist)) return null;
+      return artist;
+    } catch {
+      continue;
+    }
   }
+  return null;
 }
 
 export function getStyles(): string[] {

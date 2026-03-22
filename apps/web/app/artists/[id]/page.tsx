@@ -21,9 +21,12 @@ function listUrl(params: { styles?: string[]; countries?: string[]; cities?: str
 const HEADER_BUTTON_CLASS =
   "text-xs rounded border border-border px-3 py-1 text-foreground hover:bg-secondary transition-colors whitespace-nowrap inline-flex items-center gap-1.5";
 
+/** Avoid serving a stale notFound() if data fetching was briefly broken in a prior deploy. */
+export const dynamic = "force-dynamic";
+
 export default async function ArtistPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const artist = await getArtist(id, { next: { revalidate: 300 } });
+  const artist = await getArtist(id);
   if (!artist) notFound();
 
   const contributorEmail = await getContributorEmailForArtist(id);
