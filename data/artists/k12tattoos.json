@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "k12tattoos",
-  "name": "K12 Tattoos",
+  "name": "Carlos Ortiz",
   "location": {
     "city": "San Jose",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-22",
+  "bio": "alwayscre8@gmail.com \n@asndr_k12 \nsponsor: @radiantcolorsink",
+  "instagram_enriched": {
+    "id": "38885509",
+    "follower_count": 53311,
+    "following_count": 2978,
+    "media_count": 2516,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/k12tattoos/instagram/profile.jpg"
+  }
 }

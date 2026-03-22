@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kdink",
-  "name": "KD Ink",
+  "name": "Kevin Dink",
   "location": {
     "city": "Kaliningrad",
     "country": "Russia"
@@ -174,5 +174,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-22",
+  "instagram_enriched": {
+    "id": "59651983268",
+    "follower_count": 74,
+    "following_count": 110,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kdink/instagram/profile.jpg"
+  }
 }
