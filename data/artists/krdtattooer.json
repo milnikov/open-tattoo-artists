@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "krdtattooer",
+  "name": "Jorge (Karde)",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/krdtattooer",
+    "instagram": "https://www.instagram.com/krdtattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krdtattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krdtattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krdtattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krdtattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Jorge (Karde) is a masterful tattoo artist hailing from Vigo, Galicia, with a penchant for black & gray, illustrative, and dotwork styles. Clients continually praise him for maintaining an impeccable level of cleanliness in his practice, ensuring a safe and hygienic environment for his artistry to unfold. At White Buddha Tattoo, Jorge's dedication to cleanliness goes hand-in-hand with his intricate designs, keeping clients returning and recommending his services.\nPrice: $\nCurrent location:"
+}
