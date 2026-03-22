@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lagartopollo",
+  "name": "La Trama Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lagartopollo",
+    "instagram": "https://www.instagram.com/lagartopollo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lagartopollo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lagartopollo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lagartopollo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lagartopollo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "La Trama Tattoo is renowned for their exceptional skill in creating striking tattoos with a focus on black & gray and illustrative styles. Meticulous in their approach, every piece of ink they deliver is not just a tattoo but a masterpiece that tells a story. Clients continue to recommend La Trama Tattoo for the level of detail and creativity infused in each design, ensuring a unique and personalized experience.\nPrice: $\nCurrent location:"
+}
