@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ilya_kuzminsky",
-  "name": "Ilya Kuzminsky",
+  "name": "Black and color tattoo!",
   "location": {
     "city": "Bilotserkivskyi Raion",
     "country": "Ukraine"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "bio": "My name is Ilya 🌝\nBooking in DM\nPart of @manlytatcrew",
+  "instagram_enriched": {
+    "id": "1492243687",
+    "follower_count": 23380,
+    "following_count": 579,
+    "media_count": 998,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ilya_kuzminsky/instagram/profile.jpg"
+  }
 }

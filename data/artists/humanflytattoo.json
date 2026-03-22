@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "humanflytattoo",
-  "name": "Jee Sayalero",
+  "name": "HumanFly Collective",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "bio": "AGENDA ABIERTA - Contáctanos",
+  "instagram_enriched": {
+    "id": "251149316",
+    "follower_count": 41895,
+    "following_count": 684,
+    "media_count": 952,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/humanflytattoo/instagram/profile.jpg"
+  }
 }

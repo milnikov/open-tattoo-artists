@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "indelibleinkworks",
-  "name": "Lacey Jean",
+  "name": "INDELIBLE INKWORKS | Tattoos & Art | B.C. 🇨🇦",
   "location": {
     "city": "White Rock",
     "country": "Canada"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "bio": "✺ Private art studio for @laceyxjean \n✺ By appointment only",
+  "instagram_enriched": {
+    "id": "57787881639",
+    "follower_count": 80,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/indelibleinkworks/instagram/profile.jpg"
+  }
 }

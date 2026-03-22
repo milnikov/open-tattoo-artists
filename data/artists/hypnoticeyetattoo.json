@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hypnoticeyetattoo",
-  "name": "Hypnoticeyetattoo",
+  "name": "Hypnotic Eye Tattoo",
   "location": {
     "city": "Janesville",
     "country": "United States"
@@ -221,5 +221,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18"
+  "updated_at": "2026-03-22",
+  "bio": "Tattoos by\nRick @the_iron_hand\nMarissa @wolfetattoo\nLee @radberrytattoo\n(608)774-9733",
+  "instagram_enriched": {
+    "id": "7301167196",
+    "follower_count": 575,
+    "following_count": 69,
+    "media_count": 93,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hypnoticeyetattoo/instagram/profile.jpg"
+  }
 }
