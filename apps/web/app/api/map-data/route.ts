@@ -1,21 +1,8 @@
 import { getCompactArtists } from "@/lib/data";
+import { getRepoRoot } from "@/lib/repo-root";
 import { NextRequest, NextResponse } from "next/server";
 import fs from "fs";
 import path from "path";
-
-function getRepoRoot(): string {
-  const candidates = [
-    process.cwd(),
-    path.join(process.cwd(), ".."),
-    path.join(process.cwd(), "..", ".."),
-    path.join(process.cwd(), "apps", "web"),
-  ];
-  for (const root of candidates) {
-    const p = path.join(root, "data", "indexes", "countries.json");
-    if (fs.existsSync(p)) return root;
-  }
-  return path.join(process.cwd(), "..", "..");
-}
 
 const REPO_ROOT = getRepoRoot();
 

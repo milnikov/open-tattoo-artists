@@ -22,6 +22,8 @@ node_modules/
 # Next.js build and env
 apps/web/.next/
 apps/web/.env.local
+# Copied from ../../data/artists for static /data/artists/*.json (see sync-artist-json-to-public.cjs)
+apps/web/public/data/artists/*.json
 
 .pnpm-store
 

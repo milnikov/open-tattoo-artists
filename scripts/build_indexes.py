@@ -16,11 +16,29 @@ import re
 import unicodedata
 from datetime import datetime
 from pathlib import Path
+from urllib.parse import urlparse
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARTISTS_DIR = REPO_ROOT / "data" / "artists"
 STYLES_PATH = REPO_ROOT / "data" / "styles" / "styles.json"
 INDEXES_DIR = REPO_ROOT / "data" / "indexes"
+
+
+def source_domain_from_url(url) -> str | None:
+    """Hostname from links.source, lowercase, no leading www."""
+    if url is None:
+        return None
+    s = str(url).strip()
+    if not s:
+        return None
+    try:
+        u = urlparse(s)
+        h = (u.hostname or "").lower()
+        if h.startswith("www."):
+            h = h[4:]
+        return h or None
+    except (TypeError, ValueError):
+        return None
 
 
 def normalize_for_search(name: str) -> str:
@@ -71,6 +89,15 @@ def build_compact(artists: list[dict]) -> list[dict]:
         fc = ie.get("follower_count")
         if fc is not None and isinstance(fc, (int, float)):
             entry["follower_count"] = int(fc)
+        links = a.get("links") or {}
+        sd = source_domain_from_url(links.get("source"))
+        if sd:
+            entry["source_domain"] = sd
+        v = a.get("verified")
+        if v in ("artist", "studio"):
+            entry["verified"] = v
+        if a.get("instagram_enriched"):
+            entry["instagram_enriched"] = True
         out.append(entry)
     return sorted(out, key=lambda x: x["name"].lower())
 

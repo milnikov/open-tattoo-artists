@@ -23,7 +23,7 @@ const HEADER_BUTTON_CLASS =
 
 export default async function ArtistPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
-  const artist = getArtist(id);
+  const artist = await getArtist(id, { next: { revalidate: 300 } });
   if (!artist) notFound();
 
   const contributorEmail = await getContributorEmailForArtist(id);

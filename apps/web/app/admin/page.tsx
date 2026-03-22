@@ -23,8 +23,11 @@ export default async function AdminPage() {
     .filter((a) => a.verified === "artist")
     .map((a) => a.id);
 
-  const tattoos = verifiedArtistIds.flatMap((id) => {
-    const full = getArtist(id);
+  const fullArtists = await Promise.all(
+    verifiedArtistIds.map((id) => getArtist(id, { cache: "no-store" }))
+  );
+
+  const tattoos = fullArtists.flatMap((full) => {
     if (!full) return [];
     let sourceDomain: string | null = null;
     try {

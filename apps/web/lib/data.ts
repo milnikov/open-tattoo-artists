@@ -1,22 +1,25 @@
 import fs from "fs";
 import path from "path";
 
-/** Resolve repo root by finding where data/indexes exists (works from repo root or apps/web). */
-function getRepoRoot(): string {
-  const candidates = [
-    process.cwd(),
-    path.join(process.cwd(), ".."),
-    path.join(process.cwd(), "..", ".."),
-    path.join(process.cwd(), "apps", "web"),
-  ];
-  for (const root of candidates) {
-    const p = path.join(root, "data", "indexes", "countries.json");
-    if (fs.existsSync(p)) return root;
-  }
-  return path.join(process.cwd(), "..", "..");
-}
+import { getRepoRoot } from "@/lib/repo-root";
 
 const REPO_ROOT = getRepoRoot();
+
+/** Must match artist id in schema / filenames (prevents path traversal in fetch URL). */
+const ARTIST_ID_RE = /^[a-z0-9._]{1,30}$/;
+
+/**
+ * Origin for loading /data/artists/<id>.json (static files under public/, copied at build).
+ * Override with ARTIST_DATA_ORIGIN or NEXT_PUBLIC_SITE_URL if self-fetch fails (e.g. custom domain edge cases).
+ */
+function getArtistDataOrigin(): string {
+  const fromEnv =
+    process.env.ARTIST_DATA_ORIGIN?.replace(/\/$/, "") ||
+    process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "");
+  if (fromEnv) return fromEnv;
+  if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL}`;
+  return "http://127.0.0.1:3000";
+}
 
 /** Allowed country names (from data/indexes/countries.json). Only these are shown; rest hide artist. */
 function getAllowedCountries(): Set<string> {
@@ -112,38 +115,8 @@ export function getCompactArtists(): CompactArtist[] {
   const p = path.join(REPO_ROOT, "data", "indexes", "artists.compact.json");
   if (!fs.existsSync(p)) return [];
   const all = JSON.parse(fs.readFileSync(p, "utf-8")) as CompactArtist[];
-
-  const visible = all.filter((a) => !isArtistHidden(a));
-
-  function getDomain(url: string | undefined): string | null {
-    if (!url) return null;
-    try {
-      const u = new URL(url);
-      return u.hostname.replace(/^www\./, "");
-    } catch {
-      return null;
-    }
-  }
-
-  // Enrich with verified/source from full artist JSON when available.
-  return visible.map((a) => {
-    try {
-      const fullPath = path.join(REPO_ROOT, "data", "artists", `${a.id}.json`);
-      if (!fs.existsSync(fullPath)) return a;
-      const full = JSON.parse(fs.readFileSync(fullPath, "utf-8")) as Artist & {
-        instagram_enriched?: unknown;
-      };
-      const sourceDomain = getDomain(full.links?.source);
-      return {
-        ...a,
-        verified: full.verified ?? a.verified,
-        source_domain: sourceDomain ?? a.source_domain,
-        instagram_enriched: Boolean(full.instagram_enriched),
-      };
-    } catch {
-      return a;
-    }
-  });
+  // verified, source_domain, instagram_enriched come from scripts/build_indexes.py (no per-artist fs reads).
+  return all.filter((a) => !isArtistHidden(a));
 }
 
 export function getSearchIndex(): SearchIndexEntry[] {
@@ -152,12 +125,25 @@ export function getSearchIndex(): SearchIndexEntry[] {
   return JSON.parse(fs.readFileSync(p, "utf-8"));
 }
 
-export function getArtist(id: string): Artist | null {
-  const p = path.join(REPO_ROOT, "data", "artists", `${id}.json`);
-  if (!fs.existsSync(p)) return null;
-  const artist = JSON.parse(fs.readFileSync(p, "utf-8")) as Artist;
-  if (isArtistHidden(artist)) return null;
-  return artist;
+/**
+ * Load full artist JSON via fetch from static /data/artists/<id>.json (see sync-artist-json-to-public.cjs).
+ * Avoids fs + dynamic path, which would make Next trace ~15k files into every serverless function on Vercel.
+ */
+export async function getArtist(
+  id: string,
+  fetchInit?: RequestInit
+): Promise<Artist | null> {
+  if (!ARTIST_ID_RE.test(id)) return null;
+  const url = `${getArtistDataOrigin()}/data/artists/${encodeURIComponent(id)}.json`;
+  try {
+    const res = await fetch(url, fetchInit);
+    if (!res.ok) return null;
+    const artist = (await res.json()) as Artist;
+    if (isArtistHidden(artist)) return null;
+    return artist;
+  } catch {
+    return null;
+  }
 }
 
 export function getStyles(): string[] {

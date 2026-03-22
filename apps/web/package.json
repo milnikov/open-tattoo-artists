@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "sync-artist-json": "node scripts/sync-artist-json-to-public.cjs",
+    "predev": "npm run sync-artist-json",
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run sync-artist-json && next build",
     "start": "next start",
     "lint": "next lint"
   },

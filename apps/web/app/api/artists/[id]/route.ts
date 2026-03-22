@@ -6,7 +6,7 @@ export async function GET(
   { params }: { params: Promise<{ id: string }> }
 ) {
   const { id } = await params;
-  const artist = getArtist(id);
+  const artist = await getArtist(id, { cache: "no-store" });
   if (!artist) return NextResponse.json(null, { status: 404 });
   return NextResponse.json(artist);
 }
