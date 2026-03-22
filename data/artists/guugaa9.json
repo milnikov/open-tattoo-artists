@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "guugaa9",
-  "name": "Guga Tattoo",
+  "name": "José Augusto",
   "location": {
     "city": "São Sebastião Do Paraíso",
     "country": "Brazil"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17"
+  "updated_at": "2026-03-21",
+  "bio": "⚜️ @gugatattoostudio 🇧🇷\n⚜️ Tatuador since 2015\n⚜️ Black and grey\n⚜️ ORÇAMENTOS 👇🏼",
+  "instagram_enriched": {
+    "id": "1716388897",
+    "follower_count": 25094,
+    "following_count": 1192,
+    "media_count": 3548,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guugaa9/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "happykane_",
-  "name": "Kane",
+  "name": "Alex Kane",
   "location": {
     "city": "Turin",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17"
+  "updated_at": "2026-03-22",
+  "bio": "TORINO📍\nOwner \n@giochifelici \n@happykaneclothing",
+  "instagram_enriched": {
+    "id": "242456224",
+    "follower_count": 31704,
+    "following_count": 4620,
+    "media_count": 520,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/happykane_/instagram/profile.jpg"
+  }
 }

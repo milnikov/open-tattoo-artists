@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ken_carlos",
+  "name": "Ken Carlosta",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ken_carlos",
+    "instagram": "https://www.instagram.com/ken_carlos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ken_carlos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ken_carlos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ken_carlos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ken_carlos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Ken Carlosta is a highly-skilled tattoo artist specializing in black and gray artwork with a reputation for strong fineline detail. Taking utmost cleanliness seriously, he exhibits great professionalism and attention to detail in every piece of his work, ensuring each tattoo is immaculate and polished. Although his bookings are currently closed, you can get in touch with him through his email for future appointments.\nPrice: $$\nCurrent location:"
+}

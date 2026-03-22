@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "guiding_light_tattoo",
-  "name": "Hiral Shah",
+  "name": "Halley Mason",
   "location": {
     "city": "Oakland",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17"
+  "updated_at": "2026-03-21",
+  "bio": "My main IG is now @tattva_sattva\nElectricmettasun.com for booking",
+  "instagram_enriched": {
+    "id": "62164637515",
+    "follower_count": 39,
+    "following_count": 1,
+    "media_count": 2,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guiding_light_tattoo/instagram/profile.jpg"
+  }
 }
