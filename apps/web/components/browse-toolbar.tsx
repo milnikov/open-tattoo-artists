@@ -23,6 +23,8 @@ interface BrowseToolbarProps {
   onToggleCountry: (country: string) => void;
   onClearCountries: () => void;
   citiesForSelectedCountries: string[];
+  /** False when e.g. only "Unknown" country — no meaningful city facet. */
+  citiesFilterEnabled: boolean;
   citiesByCountry: { country: string; cities: string[] }[];
   selectedCities: string[];
   onToggleCity: (city: string) => void;
@@ -49,6 +51,7 @@ export function BrowseToolbar({
   onToggleCountry,
   onClearCountries,
   citiesForSelectedCountries,
+  citiesFilterEnabled,
   citiesByCountry,
   selectedCities,
   onToggleCity,
@@ -138,10 +141,10 @@ export function BrowseToolbar({
         </button>
         <button
           type="button"
-          disabled={selectedCountries.length === 0}
+          disabled={selectedCountries.length === 0 || !citiesFilterEnabled}
           onClick={() => onFilterChange("Cities")}
           className={`text-xs px-2 py-1 rounded transition-colors ${
-            selectedCountries.length === 0
+            selectedCountries.length === 0 || !citiesFilterEnabled
               ? "text-muted-foreground cursor-not-allowed opacity-70 rounded"
               : citiesLooksSelected
                 ? "bg-foreground text-background rounded"
@@ -246,7 +249,8 @@ export function BrowseToolbar({
 
       {activeFilter === "Cities" &&
         isFilterPanelExpanded &&
-        selectedCountries.length > 0 && (
+        selectedCountries.length > 0 &&
+        citiesFilterEnabled && (
           <div className="border-b border-border px-4 md:px-8 py-0 my-0">
             <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
               <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">

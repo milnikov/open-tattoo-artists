@@ -32,9 +32,10 @@ export function ArtistListWithFilters({
     }
     const styles = Array.from(styleSet).sort();
     const countries = Array.from(countrySet).sort();
-    const citiesInCountry = countryFilter
-      ? Array.from(cityByCountry.get(countryFilter) ?? []).sort()
-      : [];
+    const citiesInCountry =
+      countryFilter && countryFilter !== "Unknown"
+        ? Array.from(cityByCountry.get(countryFilter) ?? []).sort()
+        : [];
     return { styles, countries, citiesInCountry };
   }, [artists, countryFilter]);
 
@@ -56,6 +57,10 @@ export function ArtistListWithFilters({
   useEffect(() => {
     setPage(1);
   }, [styleFilter, countryFilter, cityFilter]);
+
+  useEffect(() => {
+    if (countryFilter === "Unknown") setCityFilter("");
+  }, [countryFilter]);
 
   return (
     <div>
@@ -99,7 +104,7 @@ export function ArtistListWithFilters({
             value={cityFilter}
             onChange={(e) => setCityFilter(e.target.value)}
             className="rounded border border-gray-300 bg-white px-2 py-1.5 text-sm"
-            disabled={!countryFilter}
+            disabled={!countryFilter || countryFilter === "Unknown"}
           >
             <option value="">All cities</option>
             {citiesInCountry.map((city) => (

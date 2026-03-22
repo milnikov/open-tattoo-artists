@@ -152,22 +152,30 @@ export function ArtistListPage({
               allowedCountrySet.has(c.trim().toLowerCase())
             )
           : rawCountries;
+      // "Unknown" country is not a real geography — listing every city here is useless noise.
       const cities =
         selectedCountries.length > 0
           ? Array.from(
               new Set(
                 selectedCountries.flatMap((c) =>
-                  Array.from(cityByCountry.get(c) ?? [])
+                  c === "Unknown"
+                    ? []
+                    : Array.from(cityByCountry.get(c) ?? [])
                 )
               )
             ).sort()
           : [];
       const byCountry =
         selectedCountries.length > 0
-          ? selectedCountries.map((country) => ({
-              country,
-              cities: Array.from(cityByCountry.get(country) ?? []).sort(),
-            }))
+          ? selectedCountries
+              .map((country) => ({
+                country,
+                cities:
+                  country === "Unknown"
+                    ? []
+                    : Array.from(cityByCountry.get(country) ?? []).sort(),
+              }))
+              .filter((x) => x.cities.length > 0)
           : [];
       return {
         allStyles: Array.from(styleSet).sort(),
@@ -176,6 +184,25 @@ export function ArtistListPage({
         citiesByCountry: byCountry,
       };
     }, [artists, selectedCountries, allowedCountrySet]);
+
+  // Drop city selections that are no longer valid for the chosen countries (e.g. switched to Unknown-only).
+  useEffect(() => {
+    setSelectedCities((prev) => {
+      if (prev.length === 0) return prev;
+      const valid = new Set(citiesForSelectedCountries);
+      const next = prev.filter((c) => valid.has(c));
+      return next.length === prev.length ? prev : next;
+    });
+  }, [citiesForSelectedCountries]);
+
+  const citiesFilterEnabled = citiesForSelectedCountries.length > 0;
+
+  useEffect(() => {
+    if (activeFilter === "Cities" && !citiesFilterEnabled) {
+      setActiveFilter("");
+      setIsFilterPanelExpanded(false);
+    }
+  }, [activeFilter, citiesFilterEnabled]);
 
   const filteredArtists = useMemo(() => {
     let result = artists;
@@ -347,6 +374,7 @@ export function ArtistListPage({
         onToggleCountry={handleToggleCountry}
         onClearCountries={handleClearCountries}
         citiesForSelectedCountries={citiesForSelectedCountries}
+        citiesFilterEnabled={citiesFilterEnabled}
         citiesByCountry={citiesByCountry}
         selectedCities={selectedCities}
         onToggleCity={handleToggleCity}

@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect } from "react";
 import type { CompactArtist } from "@/lib/data";
 import { imageUrl } from "@/lib/images";
 
@@ -65,9 +65,10 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
     }
     const styles = Array.from(styleSet).sort();
     const countries = Array.from(countrySet).sort();
-    const citiesInCountry = countryFilter
-      ? Array.from(cityByCountry.get(countryFilter) ?? []).sort()
-      : [];
+    const citiesInCountry =
+      countryFilter && countryFilter !== "Unknown"
+        ? Array.from(cityByCountry.get(countryFilter) ?? []).sort()
+        : [];
     const sources = Array.from(sourceSet).sort();
     return { styles, countries, citiesInCountry, sources };
   }, [artists, countryFilter]);
@@ -139,6 +140,10 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       ),
     [allTattoos, tattooPage]
   );
+
+  useEffect(() => {
+    if (countryFilter === "Unknown") setCityFilter("");
+  }, [countryFilter]);
 
   function appendLog(line: string) {
     setMarkdownLog((prev) => prev + line + "\n");
@@ -265,7 +270,9 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
                     setArtistPage(0);
                     setTattooPage(0);
                   }}
-                  disabled={!countryFilter}
+                  disabled={
+                    !countryFilter || countryFilter === "Unknown"
+                  }
                   className="rounded border border-border bg-background px-2 py-1 text-xs"
                 >
                   <option value="">All</option>
