@@ -54,6 +54,21 @@ export function BrowseToolbar({
   onToggleCity,
   onClearCities,
 }: BrowseToolbarProps) {
+  const noFacetFilters =
+    selectedStyles.length === 0 &&
+    selectedCountries.length === 0 &&
+    selectedCities.length === 0;
+
+  /** "All" is highlighted only with no style/country/city filters and no panel open. */
+  const allLooksSelected = noFacetFilters && !isFilterPanelExpanded;
+
+  /** Category tabs are highlighted only while their panel is expanded. */
+  const stylesLooksSelected =
+    activeFilter === "Styles" && isFilterPanelExpanded;
+  const countriesLooksSelected =
+    activeFilter === "Countries" && isFilterPanelExpanded;
+  const citiesLooksSelected =
+    activeFilter === "Cities" && isFilterPanelExpanded;
 
   return (
     <div className="sticky top-0 z-10 bg-background">
@@ -88,7 +103,7 @@ export function BrowseToolbar({
           type="button"
           onClick={() => onFilterChange("All")}
           className={`text-xs px-2 py-1 rounded transition-colors ${
-            activeFilter === "All"
+            allLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
           }`}
@@ -99,7 +114,7 @@ export function BrowseToolbar({
           type="button"
           onClick={() => onFilterChange("Styles")}
           className={`text-xs px-2 py-1 rounded transition-colors ${
-            activeFilter === "Styles"
+            stylesLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
           }`}
@@ -112,7 +127,7 @@ export function BrowseToolbar({
           type="button"
           onClick={() => onFilterChange("Countries")}
           className={`text-xs px-2 py-1 rounded transition-colors ${
-            activeFilter === "Countries"
+            countriesLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
           }`}
@@ -128,7 +143,7 @@ export function BrowseToolbar({
           className={`text-xs px-2 py-1 rounded transition-colors ${
             selectedCountries.length === 0
               ? "text-muted-foreground cursor-not-allowed opacity-70 rounded"
-              : activeFilter === "Cities"
+              : citiesLooksSelected
                 ? "bg-foreground text-background rounded"
                 : "text-foreground hover:text-muted-foreground rounded"
           }`}

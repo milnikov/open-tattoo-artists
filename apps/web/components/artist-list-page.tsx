@@ -59,7 +59,14 @@ export function ArtistListPage({
   const pathname = usePathname();
   const router = useRouter();
 
-  const [activeFilter, setActiveFilter] = useState("All");
+  const [activeFilter, setActiveFilter] = useState(() => {
+    const p = parseFiltersFromSearchParams(searchParams);
+    const hasFacets =
+      p.selectedStyles.length > 0 ||
+      p.selectedCountries.length > 0 ||
+      p.selectedCities.length > 0;
+    return hasFacets ? "" : "All";
+  });
   const [isFilterPanelExpanded, setIsFilterPanelExpanded] = useState(false);
   const [selectedStyles, setSelectedStyles] = useState<string[]>(() =>
     parseFiltersFromSearchParams(searchParams).selectedStyles
@@ -89,6 +96,13 @@ export function ArtistListPage({
       setSelectedCountries(parsed.selectedCountries);
       setSelectedCities(parsed.selectedCities);
       setPage(parsed.page);
+      const hasFacets =
+        parsed.selectedStyles.length > 0 ||
+        parsed.selectedCountries.length > 0 ||
+        parsed.selectedCities.length > 0;
+      setActiveFilter((prev) =>
+        hasFacets && prev === "All" ? "" : prev
+      );
     }
   }, [searchParams]);
 
