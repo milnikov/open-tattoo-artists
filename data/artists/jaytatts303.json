@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jaytatts303",
-  "name": "Jay Rea",
+  "name": "Jay",
   "location": {
     "city": "Denver",
     "country": "United States"
@@ -412,5 +412,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19"
+  "updated_at": "2026-03-22",
+  "bio": "Custom Tattoo artist located in the south metro Denver area.",
+  "instagram_enriched": {
+    "id": "5664384249",
+    "follower_count": 295,
+    "following_count": 788,
+    "media_count": 97,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jaytatts303/instagram/profile.jpg"
+  }
 }

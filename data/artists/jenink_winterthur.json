@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jenink_winterthur",
-  "name": "Jenink Tattoo",
+  "name": "JENINK TᗩTTOO",
   "location": {
     "city": "Winterthur",
     "country": "Switzerland"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20"
+  "updated_at": "2026-03-22",
+  "bio": "Jenink Tattoo\nTattoo Studio Winterthur\nBlack & Gray • Realistisch\nGeschichten unter der Haut\nIndividuell. Zeitlos. Echt.",
+  "instagram_enriched": {
+    "id": "14435830063",
+    "follower_count": 860,
+    "following_count": 907,
+    "media_count": 310,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jenink_winterthur/instagram/profile.jpg"
+  }
 }

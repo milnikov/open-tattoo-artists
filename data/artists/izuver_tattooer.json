@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "izuver_tattooer",
-  "name": "Artem Letaev",
+  "name": "ТАТУИРОВКИ СМОЛЕНСК",
   "location": {
     "city": "Smolensk",
     "country": "Russia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19"
+  "updated_at": "2026-03-22",
+  "bio": "Делаю татуировки в г. Смоленск.\nИмя моё Артём. Привет👽",
+  "instagram_enriched": {
+    "id": "869685583",
+    "follower_count": 849,
+    "following_count": 301,
+    "media_count": 375,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/izuver_tattooer/instagram/profile.jpg"
+  }
 }

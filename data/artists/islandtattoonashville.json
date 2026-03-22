@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "islandtattoonashville",
-  "name": "Jay Quarles",
+  "name": "Old Sport Tattoo",
   "location": {
     "city": "Nashville",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19"
+  "updated_at": "2026-03-22",
+  "bio": "☞Appointment Only\n☞For pricing and booking info\n    visit our website below☟",
+  "instagram_enriched": {
+    "id": "10153464911",
+    "follower_count": 8446,
+    "following_count": 1232,
+    "media_count": 557,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/islandtattoonashville/instagram/profile.jpg"
+  }
 }
