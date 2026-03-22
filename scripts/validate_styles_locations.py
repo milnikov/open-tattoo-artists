@@ -112,6 +112,25 @@ JUNK_STYLES = {
     "eternalink",
     "relyaidtattoosupply",
     "inkofcocotattooskincare",
+    # Brands / supplies / events / studios scraped as "styles" (browse UI)
+    "bepantholtattoo",
+    "chchtattooexpo",
+    "elgatonegrotatt",
+    "foreverforgottenaftercare",
+    "fytsuppliesmy",
+    "gattonerotattoo",
+    "hardliferotaries.",
+    "imperialinks",
+    "intenzetattooink",
+    "magnumtattoo",
+    "nuclearwhiteink",
+    "numbedrx",
+    "panormostattoo",
+    "premiertattoocare",
+    "think_tattoo_aftercare",
+    "tombowpt",
+    "truegenttsttoosupplies",
+    "ultimatetattoosupply",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
