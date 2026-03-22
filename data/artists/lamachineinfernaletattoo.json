@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "lamachineinfernaletattoo",
+  "name": "La Machine Infernale Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "sketch",
+    "black&gray",
+    "sponsor:",
+    "killerinktattoo"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lamachineinfernaletattoo",
+    "instagram": "https://www.instagram.com/lamachineinfernaletattoo/",
+    "website": "https://www.killerinktattoo.com/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamachineinfernaletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamachineinfernaletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamachineinfernaletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamachineinfernaletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "La Machine Infernale Tattoo\nSTUDIO\n26.9k\nAdd\nMessage\nneotraditional\nsketch\nblack&gray\n\nSponsor: killerinktattoo"
+}
