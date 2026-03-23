@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lawless.tattoo",
+  "name": "Lawless Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lawless.tattoo",
+    "instagram": "https://www.instagram.com/lawless.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lawless.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lawless.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lawless.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lawless.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Step into the serene embrace of Lawless Tattoo, a haven where the art of ink meets simplicity and elegance. Nestled on Kemang Selatan 8 no.64B1, our studio specializes in creating stunning minimalist, fine-line, and watercolor masterpieces that reflect your unique story. Connect with our skilled artists at 087886125729 and let's craft your next piece of personal expression with precision and grace.\nPrice: $\nCurrent location:"
+}

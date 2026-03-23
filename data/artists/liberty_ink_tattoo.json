@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "liberty_ink_tattoo",
+  "name": "Liberty Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/liberty_ink_tattoo",
+    "instagram": "https://www.instagram.com/liberty_ink_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liberty_ink_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liberty_ink_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liberty_ink_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liberty_ink_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Liberty Ink Tattoo is renowned for their exceptional skill in black and gray realism, creating stunningly lifelike designs that leave a lasting impression. Clients frequently commend the pristine cleanliness of their studio, ensuring every session is conducted in a safe and hygienic environment. Trust in Liberty Ink Tattoo for a professional experience where both artistry and health standards are held to the highest regard.\nPrice: $\nCurrent location:"
+}

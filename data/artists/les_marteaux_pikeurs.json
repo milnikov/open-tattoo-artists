@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "les_marteaux_pikeurs",
+  "name": "Les Marteaux Pikeurs",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/les_marteaux_pikeurs",
+    "instagram": "https://www.instagram.com/les_marteaux_pikeurs/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/les_marteaux_pikeurs/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/les_marteaux_pikeurs/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/les_marteaux_pikeurs/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/les_marteaux_pikeurs/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Les Marteaux Pikeurs is a highly skilled tattoo artist, proficient in black & gray, dotwork, and tribal styles. They bring a creative flair to each piece, ensuring that every tattoo is not only a personal work of art but also a testament to their professional dedication. Clients appreciate the pristine cleanliness maintained in their workspace, reflecting their commitment to the highest standards in their craft.\nPrice: $\nCurrent location:"
+}

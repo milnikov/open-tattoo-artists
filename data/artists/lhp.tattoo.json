@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lhp.tattoo",
+  "name": "LHP Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lhp.tattoo",
+    "instagram": "https://www.instagram.com/lhp.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lhp.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lhp.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lhp.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lhp.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Step into the artistic enclave of LHP Tattoo, Hannover's premier destination where brilliant black & gray, bold trashpolka, and stunning realism designs come to life. At LHP Tattoo, you're greeted with a team of exemplary artists, unwavering commitment to the highest hygiene standards, and the convenience of walk-in consultations to begin your ink journey. Experience the pinnacle of body art in a space where creativity thrives and every tattoo is a masterpiece.\nPrice: $\nCurrent location:"
+}

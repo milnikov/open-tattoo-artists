@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "leonienewtattoos",
+  "name": "Leonie New",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/leonienewtattoos",
+    "instagram": "https://www.instagram.com/leonienewtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leonienewtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leonienewtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leonienewtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leonienewtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Leonie New is a highly skilled tattoo artist specializing in traditional styled tattoos. She is notably professional, preferring to handle conversations and bookings through her business email rather than direct messenger, ensuring all client interactions are streamlined and organized. Through her work at the renowned Forest Creek Tattoo in central Victoria, her commitment to her craft is uncompromising, creating a trustworthy and reliable service.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "likeabletattoo",
+  "name": "Likeable Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/likeabletattoo",
+    "instagram": "https://www.instagram.com/likeabletattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/likeabletattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/likeabletattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/likeabletattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/likeabletattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Likeable Tattoo is a highly skilled tattoo artist specializing in black and gray styles. With an impressive following of around 200k on Instagram, their skill is clearly recognized and admired by many worldwide. Known for their attention to detail, they expertly craft intricate designs that impress with their stunning realism. They consistently demonstrate their artistic flair with daily posts, drawing admiration from ink enthusiasts globally.\nPrice: $$$\nCurrent location:"
+}

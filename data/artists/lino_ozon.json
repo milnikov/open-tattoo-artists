@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lino_ozon",
+  "name": "Lino Ozon",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lino_ozon",
+    "instagram": "https://www.instagram.com/lino_ozon/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lino_ozon/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lino_ozon/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lino_ozon/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lino_ozon/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Lino Ozon is an outstanding tattoo artist renowned for his black and gray realism style, showcasing deep proficiency in drawing intricately-detailed designs. Operating from his studio, Ozon Tattoo Studio in Napoli, he prides himself on maintaining a clean work area and applying high hygiene standards, prioritising the safety and comfort of his clients.\nPrice: $$\nCurrent location:"
+}

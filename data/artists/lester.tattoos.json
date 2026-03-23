@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lester.tattoos",
+  "name": "Lester",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "illustrative",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lester.tattoos",
+    "instagram": "https://www.instagram.com/lester.tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lester.tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lester.tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lester.tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lester.tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Lester is a highly skilled tattoo artist specializing in fine line, illustrative, and floral styles that bring each client's vision to delicate life. Their work environment in Richmond, Va, adheres to the highest standards of cleanliness, ensuring a safe and hygienic experience for every tattoo session. Clients can contact Lester for bookings at lauren.allaboutyoutattoo@gmail.com to add an exquisite piece of art to their collection.\nPrice: $\nCurrent location:"
+}

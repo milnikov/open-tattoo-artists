@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "littlepricktattoos",
+  "name": "Little Prick Tattoo Artist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/littlepricktattoos",
+    "instagram": "https://www.instagram.com/littlepricktattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/littlepricktattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/littlepricktattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/littlepricktattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/littlepricktattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Little Prick Tattoo Artist specializes in fineline and vegan tattooing, catering to a clientele that appreciates delicate and ethically conscious ink work. They create a welcoming space for trans and queer individuals, ensuring that each client feels seen and valued. With a steadfast commitment to professionalism, Little Prick Tattoo Artist consistently maintains high cleanliness standards, ensuring that every tattoo session is not only a work of art but also a safe and hygienic experience.\nPrice: $\nCurrent location:"
+}

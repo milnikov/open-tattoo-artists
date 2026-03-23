@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "liubchenko_tattoo",
+  "name": "Svetlana Liubchenko",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/liubchenko_tattoo",
+    "instagram": "https://www.instagram.com/liubchenko_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liubchenko_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liubchenko_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liubchenko_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liubchenko_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Svetlana Liubchenko is a highly skilled tattoo artist, specializing in watercolor, illustrative, and newschool styles, based at the Redrum Tattoo Collective in Moscow. She is renowned for her meticulous attention to detail and creates stunning works of art on skin with a professional touch that guarantees each piece of body art is both unique and personal. Clients commend her excellence and the impeccable quality of her tattoos, making her a sought-after artist in the industry.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "levifawntattoo",
+  "name": "Levi Fawn",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/levifawntattoo",
+    "instagram": "https://www.instagram.com/levifawntattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/levifawntattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/levifawntattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/levifawntattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/levifawntattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Levi Fawn is a highly skilled custom tattoo artist, whose expertise shines in creating stunning black & gray, floral, and trashpolka designs. Based in East Grinstead, Levi is known for their professionalism, ensuring every client receives a personalized experience with utmost attention to detail. To book a session or inquire about their work, clients can reach out directly to levifawn@gmail.com.\nPrice: $\nCurrent location:"
+}

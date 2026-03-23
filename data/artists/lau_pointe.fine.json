@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lau_pointe.fine",
+  "name": "Laurie Bergeron",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "minimalist",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lau_pointe.fine",
+    "instagram": "https://www.instagram.com/lau_pointe.fine/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lau_pointe.fine/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lau_pointe.fine/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lau_pointe.fine/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lau_pointe.fine/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Laurie Bergeron is a top-grade tattoo artist, mastering the fine line, minimalist, and floral styles with astounding creativity and precision. Passionate and professional, Laurie co-owns the prominent tattoo studio \"Soeurs de Sang\", guaranteeing clients intricate designs in a clean working environment.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "leostattooandbodypiercing",
+  "name": "Leo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "traditional",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/leostattooandbodypiercing",
+    "instagram": "https://www.instagram.com/leostattooandbodypiercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leostattooandbodypiercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leostattooandbodypiercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leostattooandbodypiercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leostattooandbodypiercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Welcome to Leo's Tattoo Haven, a vibrant hub of artistry nestled at 4133 Palm Ave., Hialeah, FL, where creativity meets ink since 2004. Specializing in bold black & gray, classic traditional, and meticulous lettering, our welcoming studio embraces both walk-ins and appointments. Come transform your vision into a masterpiece with the skilled hands of our dedicated artists, and adorn your body with a piece of timeless expression.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2004"
+}

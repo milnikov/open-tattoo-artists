@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "lebyla",
+  "name": "Yulia Lebedevskaya",
+  "location": {
+    "city": "New York",
+    "country": "United States"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lebyla",
+    "instagram": "https://www.instagram.com/lebyla/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lebyla/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lebyla/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lebyla/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lebyla/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Yulia Lebedevskaya is a highly skilled tattoo artist based in New York, United States, known for her exceptional work with BLACK INK, Fineline, and Microrealism. Clients seeking intricate details and refined artistry will find Yulia's portfolio a testament to her talent. Her dedication to the craft is evident in every piece she creates, ensuring a unique and personalized experience at Uplift Tattoo.\nPrice: $\nCurrent location: New York, New York, United States"
+}

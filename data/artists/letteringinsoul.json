@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "letteringinsoul",
+  "name": "Brigante Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/letteringinsoul",
+    "instagram": "https://www.instagram.com/letteringinsoul/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letteringinsoul/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letteringinsoul/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letteringinsoul/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letteringinsoul/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Brigante Tattoo is a highly proficient tattoo artist, mastering in the intricate styles of tribal and black&gray tattoos. With a strong Instagram following of around 350,000, their work consistently garners widespread recognition and praise. Their dedication to the craft is seen especially in their specialization in ‘Lettering,’ often underscored with the tagline, 'letteringinsoul.' Brigante Tattoo's exceptional craftsmanship draws in admirers and clients alike.\nPrice: $$$\nCurrent location:"
+}

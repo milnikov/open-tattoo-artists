@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "larubiatattoo",
+  "name": "La Rubia Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/larubiatattoo",
+    "instagram": "https://www.instagram.com/larubiatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larubiatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larubiatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larubiatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larubiatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "Step into the world of precise artistry at La Rubia Tattoo, where realism transcends the boundaries of skin and ink. Nestled in Barcelona's Cerdanyola district, this tattoo haven offers a fusion of body modification services including expertly crafted tattoos, micro pigmentation, piercings, and aesthetic treatments. Open from Tuesday to Friday, 10 am-2 pm/4 pm-8 pm, and Saturdays from 9 am-1 pm, La Rubia Tattoo awaits to transform your ideas into enduring masterpieces.\nPrice: $\nCurrent location:"
+}

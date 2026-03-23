@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lazysweetpanda",
+  "name": "Lazy Sweet Panda",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lazysweetpanda",
+    "instagram": "https://www.instagram.com/lazysweetpanda/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lazysweetpanda/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lazysweetpanda/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lazysweetpanda/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lazysweetpanda/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Lazy Sweet Panda is an adept fineline tattoo artist known for their commitment to vegan-friendly materials, ensuring that both the art and process align with a compassionate lifestyle. Their work environment at Ink Addikt Zaragoza reflects a pristine standard of cleanliness, offering clients a safe and hygienic space to receive expertly crafted tattoos.\nPrice: $\nCurrent location:"
+}

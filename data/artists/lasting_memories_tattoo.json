@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lasting_memories_tattoo",
+  "name": "Lasting Memories Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lasting_memories_tattoo",
+    "instagram": "https://www.instagram.com/lasting_memories_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lasting_memories_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lasting_memories_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lasting_memories_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lasting_memories_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-22",
+  "bio": "\"Lasting Memories Tattoo: where timeless artistry meets modern flair. Nestled in the heart of Salzburg, our studio specializes in vibrant neotraditional and bold traditional styles, creating tattoos designed to be admired for a lifetime. Connect with our talented artists—@philipp_pfeil, @sarasireni, @horst_vasquez, and @nikki.vasquez—through our website's contact form to bring your ink dreams to vivid reality.\"\nPrice: $\nCurrent location:"
+}

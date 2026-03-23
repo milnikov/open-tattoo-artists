@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "linktattoo69",
+  "name": "Link Xavier",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "trashpolka",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/linktattoo69",
+    "instagram": "https://www.instagram.com/linktattoo69/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linktattoo69/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linktattoo69/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linktattoo69/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linktattoo69/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Link Xavier is a highly skilled tattoo artist known for their expertise in fineline, trashpolka, and floral styles, ensuring each piece is crafted with the utmost precision and care. Their studio, located at 10 rue Étienne Dolet in Tarare, 69170 Rhône, France, maintains an immaculate environment, reflecting their unwavering commitment to cleanliness and professionalism. Open from Monday to Saturday, Link provides not only exceptional tattoos but also a welcoming and safe space for all clients.\nPrice: $\nCurrent location:"
+}
