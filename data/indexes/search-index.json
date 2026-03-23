@@ -3650,6 +3650,11 @@
     "normalized": "alba rey"
   },
   {
+    "id": "livink_tattoo",
+    "name": "Alba Rodríguez",
+    "normalized": "alba rodríguez"
+  },
+  {
     "id": "albanessex",
     "name": "Alban Essex",
     "normalized": "alban essex"
@@ -30120,6 +30125,11 @@
     "normalized": "elite ink tattoos"
   },
   {
+    "id": "lizalottaink",
+    "name": "Eliza Holley",
+    "normalized": "eliza holley"
+  },
+  {
     "id": "lizclements",
     "name": "Elizabeth Clements",
     "normalized": "elizabeth clements"
@@ -30153,6 +30163,11 @@
     "id": "estriverside",
     "name": "Elizabeth St Tattoo",
     "normalized": "elizabeth st tattoo"
+  },
+  {
+    "id": "liza_vesna_tattoo",
+    "name": "Elizaveta Pavlikova",
+    "normalized": "elizaveta pavlikova"
   },
   {
     "id": "elizetattoo",
@@ -39250,6 +39265,11 @@
     "normalized": "hannah scott"
   },
   {
+    "id": "lllannah",
+    "name": "Hannah Sheffield",
+    "normalized": "hannah sheffield"
+  },
+  {
     "id": "hannahpixiesnowdon",
     "name": "Hannah Snowdon Sykes",
     "normalized": "hannah snowdon sykes"
@@ -44788,6 +44808,11 @@
     "id": "jamesdeakintattoo",
     "name": "James Deakin.",
     "normalized": "james deakin."
+  },
+  {
+    "id": "lizardjim",
+    "name": "James Donovan",
+    "normalized": "james donovan"
   },
   {
     "id": "ghostglare",
@@ -55920,6 +55945,11 @@
     "normalized": "la manuela tattoo"
   },
   {
+    "id": "lllamarcabodyartsty",
+    "name": "La Marca",
+    "normalized": "la marca"
+  },
+  {
     "id": "evanyud",
     "name": "La Mata Tinta | Café y Arte",
     "normalized": "la mata tinta | café y arte"
@@ -56555,6 +56585,11 @@
     "normalized": "laura bret"
   },
   {
+    "id": "llaura.brow",
+    "name": "Laura Brow",
+    "normalized": "laura brow"
+  },
+  {
     "id": "lauricastanotattoo",
     "name": "Laura Castaño",
     "normalized": "laura castaño"
@@ -57048,6 +57083,11 @@
     "id": "lcjuniortattoo",
     "name": "LC Junior",
     "normalized": "lc junior"
+  },
+  {
+    "id": "livingcanvasartco",
+    "name": "LCAC Tattoos",
+    "normalized": "lcac tattoos"
   },
   {
     "id": "leguyt_tattoo",
@@ -58915,9 +58955,24 @@
     "normalized": "livia tsang"
   },
   {
+    "id": "livingart_tattoo",
+    "name": "Living Art Duluth",
+    "normalized": "living art duluth"
+  },
+  {
     "id": "living_canvas",
     "name": "Living Canvas Tattoo/Piercing",
     "normalized": "living canvas tattoo/piercing"
+  },
+  {
+    "id": "living_illustrations",
+    "name": "Living Illustrations",
+    "normalized": "living illustrations"
+  },
+  {
+    "id": "livingsinstattoo",
+    "name": "Living Sins",
+    "normalized": "living sins"
   },
   {
     "id": "livinarttattoo",
@@ -58925,9 +58980,19 @@
     "normalized": "livin’ art"
   },
   {
+    "id": "liviocuci_tattoo",
+    "name": "Livio Cuci",
+    "normalized": "livio cuci"
+  },
+  {
     "id": "bugeacliviu",
     "name": "Liviu Ionut Bugeac",
     "normalized": "liviu ionut bugeac"
+  },
+  {
+    "id": "liya.tatts",
+    "name": "Liya Musina",
+    "normalized": "liya musina"
   },
   {
     "id": "liyang",
@@ -58940,14 +59005,64 @@
     "normalized": "liz"
   },
   {
+    "id": "lizalvarezart",
+    "name": "Liz Alvarez",
+    "normalized": "liz alvarez"
+  },
+  {
     "id": "clemmo_tattoo",
     "name": "Liz Clements",
     "normalized": "liz clements"
   },
   {
+    "id": "lizcooktattoo",
+    "name": "Liz Cook",
+    "normalized": "liz cook"
+  },
+  {
     "id": "lizcook",
     "name": "Liz Cook l Tattoo Artist l Mentor l Mom l Color Nerd",
     "normalized": "liz cook l tattoo artist l mentor l mom l color nerd"
+  },
+  {
+    "id": "lizhapi",
+    "name": "Liz Hamilton",
+    "normalized": "liz hamilton"
+  },
+  {
+    "id": "lizmanzolinitattoo",
+    "name": "Liz Manzolini",
+    "normalized": "liz manzolini"
+  },
+  {
+    "id": "lizreyestattoos",
+    "name": "Liz Reyes",
+    "normalized": "liz reyes"
+  },
+  {
+    "id": "lizrobtattoo",
+    "name": "Liz Rob",
+    "normalized": "liz rob"
+  },
+  {
+    "id": "lizvonborden",
+    "name": "Liz VonBorden",
+    "normalized": "liz vonborden"
+  },
+  {
+    "id": "lizatattoos",
+    "name": "Liza Musselman",
+    "normalized": "liza musselman"
+  },
+  {
+    "id": "lizardsskintattoos",
+    "name": "Lizard",
+    "normalized": "lizard"
+  },
+  {
+    "id": "lizatatt",
+    "name": "lizatatt 🌈 queer fineline tattoo artist in lisbon",
+    "normalized": "lizatatt 🌈 queer fineline tattoo artist in lisbon"
   },
   {
     "id": "lizmason",
@@ -58960,9 +59075,39 @@
     "normalized": "lizzie"
   },
   {
+    "id": "lizzie_bvtattoo",
+    "name": "Lizzie Cartwright",
+    "normalized": "lizzie cartwright"
+  },
+  {
+    "id": "lizzieprincetattoos",
+    "name": "Lizzie Prince",
+    "normalized": "lizzie prince"
+  },
+  {
+    "id": "lizzyboza_tattoo",
+    "name": "Lizzy Boza",
+    "normalized": "lizzy boza"
+  },
+  {
     "id": "stevenmckenzie",
     "name": "Lizzy | Wedding Planner | Wedding Business Mentor",
     "normalized": "lizzy | wedding planner | wedding business mentor"
+  },
+  {
+    "id": "llajetatuaje",
+    "name": "Llaje Tatuaje",
+    "normalized": "llaje tatuaje"
+  },
+  {
+    "id": "lliamnoy",
+    "name": "Lliam Noy",
+    "normalized": "lliam noy"
+  },
+  {
+    "id": "ljay1976",
+    "name": "Lloyd Jenkins",
+    "normalized": "lloyd jenkins"
   },
   {
     "id": "lluisfigueras",
@@ -62598,6 +62743,11 @@
     "id": "mikekyrtatas",
     "name": "Mike Kyrtatas",
     "normalized": "mike kyrtatas"
+  },
+  {
+    "id": "livinglegacytattoos",
+    "name": "Mike Living Legacy",
+    "normalized": "mike living legacy"
   },
   {
     "id": "littlemike_deathorglory",
