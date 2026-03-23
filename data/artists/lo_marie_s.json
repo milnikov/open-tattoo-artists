@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lo_marie_s",
+  "name": "Lo Marie",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lo_marie_s",
+    "instagram": "https://www.instagram.com/lo_marie_s/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lo_marie_s/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lo_marie_s/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lo_marie_s/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lo_marie_s/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Lo Marie is a remarkable tattoo artist, specializing in dotwork, floral, and fineline styles. Known for her extreme professionalism, she manages all her bookings meticulously via email, while consistently maintaining high sanitary standards in her Manchester-based studio, Tooth and Talon Tattoo.\nPrice: $$\nCurrent location:"
+}
