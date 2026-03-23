@@ -1,6 +1,7 @@
 "use client";
 
-import { Search, X, ArrowRight } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
+import { Search, ArrowRight } from "lucide-react";
 import { ListStatusBar } from "./list-status-bar";
 
 interface BrowseToolbarProps {
@@ -29,6 +30,8 @@ interface BrowseToolbarProps {
   selectedCities: string[];
   onToggleCity: (city: string) => void;
   onClearCities: () => void;
+  sortLabel: string;
+  onSortChange: (sortKey: "name-asc") => void;
 }
 
 export function BrowseToolbar({
@@ -56,7 +59,34 @@ export function BrowseToolbar({
   selectedCities,
   onToggleCity,
   onClearCities,
+  sortLabel,
+  onSortChange,
 }: BrowseToolbarProps) {
+  const [isSortOpen, setIsSortOpen] = useState(false);
+  const sortDropdownRef = useRef<HTMLDivElement | null>(null);
+
+  useEffect(() => {
+    if (!isSortOpen) return;
+
+    const handleOutsideClick = (event: MouseEvent) => {
+      if (!sortDropdownRef.current) return;
+      if (!sortDropdownRef.current.contains(event.target as Node)) {
+        setIsSortOpen(false);
+      }
+    };
+
+    const handleEscape = (event: KeyboardEvent) => {
+      if (event.key === "Escape") setIsSortOpen(false);
+    };
+
+    document.addEventListener("mousedown", handleOutsideClick);
+    document.addEventListener("keydown", handleEscape);
+    return () => {
+      document.removeEventListener("mousedown", handleOutsideClick);
+      document.removeEventListener("keydown", handleEscape);
+    };
+  }, [isSortOpen]);
+
   const noFacetFilters =
     selectedStyles.length === 0 &&
     selectedCountries.length === 0 &&
@@ -76,7 +106,7 @@ export function BrowseToolbar({
   return (
     <div className="sticky top-0 z-10 bg-background">
       <div className="border-b border-border px-4 md:px-8 h-9 flex items-center">
-        <div className="relative flex items-center w-full">
+        <div className="relative flex items-center w-full pr-2">
           <Search className="absolute left-0 h-3.5 w-3.5 text-muted-foreground" />
           <input
             type="text"
@@ -85,14 +115,64 @@ export function BrowseToolbar({
             onChange={(e) => onSearchChange(e.target.value)}
             className="w-full bg-transparent py-0 pl-5 pr-5 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none rounded"
           />
-          {search && (
-            <button
-              type="button"
-              onClick={() => onSearchChange("")}
-              className="absolute right-0 rounded text-muted-foreground hover:text-foreground transition-colors"
+        </div>
+        <div ref={sortDropdownRef} className="relative shrink-0">
+          <button
+            type="button"
+            onClick={() => setIsSortOpen((prev) => !prev)}
+            className="inline-flex items-center gap-1.5 text-xs text-muted-foreground hover:text-foreground transition-colors"
+            aria-haspopup="menu"
+            aria-expanded={isSortOpen}
+            aria-label="Sort artists"
+          >
+            <span>{sortLabel}</span>
+            <svg
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              xmlns="http://www.w3.org/2000/svg"
+              aria-hidden="true"
+              className="h-3.5 w-3.5"
             >
-              <X className="h-3.5 w-3.5" />
-            </button>
+              <path
+                d="M4 6H18M4 12H12M4 18H8"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+          </button>
+
+          {isSortOpen && (
+            <div className="absolute right-0 top-[calc(100%-2px)] z-20 w-max rounded border border-border bg-background py-1 shadow-sm">
+              <button
+                type="button"
+                onClick={() => {
+                  onSortChange("name-asc");
+                  setIsSortOpen(false);
+                }}
+                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground hover:bg-muted/40 transition-colors"
+                role="menuitem"
+              >
+                Name (A–Z)
+              </button>
+              <div
+                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground cursor-not-allowed"
+                aria-disabled="true"
+              >
+                Most followed{" "}
+                <span className="italic text-muted-foreground">coming soon</span>
+              </div>
+              <div
+                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground cursor-not-allowed"
+                aria-disabled="true"
+              >
+                Most respected{" "}
+                <span className="italic text-muted-foreground">coming soon</span>
+              </div>
+            </div>
           )}
         </div>
       </div>

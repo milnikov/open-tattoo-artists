@@ -9,6 +9,7 @@ import { ListStatusBar } from "./list-status-bar";
 import { SiteFooter } from "./site-footer";
 
 const PAGE_SIZE = 20;
+type SortKey = "name-asc";
 
 function parseFiltersFromSearchParams(searchParams: URLSearchParams) {
   const q = searchParams.get("q") ?? "";
@@ -83,6 +84,7 @@ export function ArtistListPage({
   const [page, setPage] = useState(() =>
     parseFiltersFromSearchParams(searchParams).page
   );
+  const [sortKey, setSortKey] = useState<SortKey>("name-asc");
 
   // Restore filters from URL when navigating back/forward (sync state from URL)
   const prevParamsRef = useRef(searchParams.toString());
@@ -236,8 +238,14 @@ export function ArtistListPage({
       );
     }
 
+    if (sortKey === "name-asc") {
+      return [...result].sort((a, b) =>
+        a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+      );
+    }
+
     return result;
-  }, [artists, selectedStyles, selectedCountries, selectedCities, search]);
+  }, [artists, selectedStyles, selectedCountries, selectedCities, search, sortKey]);
 
   // When filters actually change (not on mount, not when only page changed), reset to page 0 and sync URL.
   // Compare to last synced filter state so we don't overwrite URL after pagination or on Strict Mode double-invoke.
@@ -379,6 +387,8 @@ export function ArtistListPage({
         selectedCities={selectedCities}
         onToggleCity={handleToggleCity}
         onClearCities={handleClearCities}
+        sortLabel="Name (A–Z)"
+        onSortChange={setSortKey}
       />
 
       <div className="flex-1 flex flex-col min-w-0 overflow-x-hidden">
