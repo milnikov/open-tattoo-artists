@@ -51,6 +51,7 @@ CITY_MAJORITY_ONLY_FILL_UNKNOWN = frozenset(
         "florence",
         "naples",
         "toronto",  # GTA vs Ohio — keep non-Unknown as-is
+        "vancouver",  # BC vs WA
         "hamilton",
         "kingston",
         "san pedro",
@@ -233,6 +234,14 @@ JUNK_STYLES = {
     "tombowpt",
     "truegenttsttoosupplies",
     "ultimatetattoosupply",
+    "dermacaretattoo",
+    "monsterenergy",
+    "industryinks",
+    "eztattooing",
+    "easyglowpigments",
+    "skintattoocare",
+    "believatattoo",
+    "electricink",
 }
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
