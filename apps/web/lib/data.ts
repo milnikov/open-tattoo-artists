@@ -108,6 +108,22 @@ function isEmptyAbout(bio: string | null | undefined): boolean {
   return typeof bio !== "string" || bio.trim() === "";
 }
 
+/**
+ * Match build_indexes.py: compact rows use top-level follower_count from instagram_enriched,
+ * but raw artist JSON often only has instagram_enriched.follower_count.
+ */
+function artistFollowerCount(artist: {
+  follower_count?: number;
+  instagram_enriched?: { follower_count?: number };
+}): number {
+  if (typeof artist.follower_count === "number" && !Number.isNaN(artist.follower_count)) {
+    return artist.follower_count;
+  }
+  const fc = artist.instagram_enriched?.follower_count;
+  if (typeof fc === "number" && !Number.isNaN(fc)) return fc;
+  return 0;
+}
+
 /** True if the artist should be hidden: only 1 image, strange country, or empty about (unless >5 images and >1000 followers). */
 function isArtistHidden(artist: {
   tattoo_count?: number;
@@ -115,13 +131,14 @@ function isArtistHidden(artist: {
   location: { country: string };
   bio?: string | null;
   follower_count?: number;
+  instagram_enriched?: { follower_count?: number };
 }): boolean {
   const count =
     artist.tattoo_count ?? (Array.isArray(artist.tattoos) ? artist.tattoos.length : 0);
   if (count <= 1) return true;
   if (isStrangeCountry(artist.location?.country)) return true;
   if (isEmptyAbout(artist.bio)) {
-    const fc = artist.follower_count ?? 0;
+    const fc = artistFollowerCount(artist);
     if (!(count > 5 && fc > 1000)) return true;
   }
   return false;
@@ -176,6 +193,7 @@ export interface Artist {
   updated_at: string;
   /** Optional moderation flag: "artist" | "studio". Missing = not verified yet. */
   verified?: "artist" | "studio";
+  instagram_enriched?: { follower_count?: number };
 }
 
 let compactArtistsCache: { mtimeMs: number; artists: CompactArtist[] } | null = null;
