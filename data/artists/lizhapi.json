@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lizhapi",
+  "name": "Liz Hamilton",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lizhapi",
+    "instagram": "https://www.instagram.com/lizhapi/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizhapi/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizhapi/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizhapi/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizhapi/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Liz Hamilton is a highly skilled tattoo artist specializing in both neotraditional and traditional styles. Known for her intricate and stunning designs, she showcases her incredible artwork at Southwest Tattoo Studio. Always up for a friendly chat, her professional yet approachable demeanor puts her clients at ease throughout their tattoo journey.\nPrice: $$\nCurrent location:"
+}
