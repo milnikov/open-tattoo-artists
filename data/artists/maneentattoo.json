@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "maneentattoo",
+  "name": "Maneen",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/maneentattoo",
+    "instagram": "https://www.instagram.com/maneentattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maneentattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maneentattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maneentattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maneentattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Maneen, of Thousand Candles Tattoo in Eastvale, California, is an incredibly skilled tattoo artist, with over 80,000 followers on Instagram as a testament to their talent. Specializing in the captivating styles of black and gray, tribal and geometric, they are individuals that create artwork that resonate with their clients. Their impressive work, combined with a strong following, signals that Maneen is a top-tier artist in their craft.\nPrice: $$$\nCurrent location:"
+}

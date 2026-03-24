@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "mandiebarbertattoos",
+  "name": "Mandie Barber",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mandiebarbertattoos",
+    "instagram": "https://www.instagram.com/mandiebarbertattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mandiebarbertattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mandiebarbertattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mandiebarbertattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mandiebarbertattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Mandie Barber is a highly skilled tattoo artist renowned for her exquisite mastery in black & gray tattoos. Celebrated as the owner of True Love Tattoos in Kidderminster, established in 1998, her dedication to her craft is evident, having been in the tattooing business since 1994. Clients rave about Mandie's exceptional professionalism, which is displayed continuously through her meticulous attention to detail and the impeccable cleanliness of her studio.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1994"
+}
