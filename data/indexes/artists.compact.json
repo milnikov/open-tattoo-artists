@@ -304300,6 +304300,29 @@
     "instagram_enriched": true
   },
   {
+    "id": "lucasjtattoo",
+    "name": "Lucas J Tattoo",
+    "location": {
+      "city": "Unknown",
+      "country": "Unknown"
+    },
+    "styles": [
+      "black&gray",
+      "realism"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/lucasjtattoo/"
+    },
+    "tattoo_count": 2,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucasjtattoo/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucasjtattoo/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucasjtattoo/thumb/002.webp"
+    ],
+    "updated_at": "2026-03-24",
+    "source_domain": "tattooswizard.com"
+  },
+  {
     "id": "lucaskleebergtattoo",
     "name": "Lucas Kleeberg",
     "location": {
