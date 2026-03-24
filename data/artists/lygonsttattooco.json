@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "lygonsttattooco",
+  "name": "Lygon St Tattoo Co",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "illustrative",
+    "black&gray",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lygonsttattooco",
+    "instagram": "https://www.instagram.com/lygonsttattooco/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lygonsttattooco/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lygonsttattooco/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lygonsttattooco/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lygonsttattooco/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Established in 2014, Lygon St Tattoo Co is a distinctive tattoo studio embodying artistic diversity with styles ranging from neotraditional to illustrative, all in stunning black & gray aesthetics. This innovative, vegan-friendly studio embraces a professional approach, requiring email appointments to ensure personalized and dedicated service.\nPrice: $$\nCurrent location:"
+}
