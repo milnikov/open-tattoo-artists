@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lulutattoo",
+  "name": "Lulu Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "lettering",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lulutattoo",
+    "instagram": "https://www.instagram.com/lulutattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lulutattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lulutattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lulutattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lulutattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Lulu Tattoo, hailing from New Taipei City, Taiwan, is an adept tattoo artist known for her proficiency in illustrative, lettering, and minimalist styles. She has a distinctive touch in her artistry, demonstrating a high level of skill that showcases her attention to detail, an understanding of the art form, and a deep respect for the craftsmanship of tattooing.\nPrice: $$\nCurrent location:"
+}

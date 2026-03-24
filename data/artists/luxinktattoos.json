@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "luxinktattoos",
+  "name": "LuxInk",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/luxinktattoos",
+    "instagram": "https://www.instagram.com/luxinktattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luxinktattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luxinktattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luxinktattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luxinktattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Step into the art-infused haven of LuxInk, North Georgia's premier destination for exquisite traditional and black & gray tattoos. At LuxInk, you'll be embraced by a state-of-the-art studio atmosphere where creativity flourishes and custom designs come to life. Experience the pinnacle of professional tattooing with our expert artists, and leave with a timeless piece of art etched into your skin.\nPrice: $\nCurrent location:"
+}

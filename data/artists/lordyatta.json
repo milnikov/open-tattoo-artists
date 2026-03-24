@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lordyatta",
+  "name": "Lord Yatta",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lordyatta",
+    "instagram": "https://www.instagram.com/lordyatta/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lordyatta/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lordyatta/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lordyatta/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lordyatta/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Lord Yatta is an incredibly skilled tattoo artist, specializing in both tribal and newschool styles. Operating strictly on an appointment basis, he maintains an exceptional level of professionalism by extensively discussing ideas, image references, sizes, and placement areas with his clients through email. His meticulous attention to detail and dedication are reflected not only in his striking tattoo designs, but also in the clean and professional manner he runs his business.\nPrice: $$\nCurrent location:"
+}

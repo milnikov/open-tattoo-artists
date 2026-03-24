@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "luk.sok",
+  "name": "Luke Sokolovsky",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "trashpolka",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/luk.sok",
+    "instagram": "https://www.instagram.com/luk.sok/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luk.sok/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luk.sok/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luk.sok/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luk.sok/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Luke Sokolovsky is a remarkably skilled tattoo artist, specializing in traditional, trashpolka, and black&gray styles. Hailing from Katowice, Poland, he works out of the renowned @ksiezyctattoo studio, where his distinctive and intricate designs have garnered widespread admiration and acclaim.\nPrice: $$\nCurrent location:"
+}

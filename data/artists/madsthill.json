@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "madsthill",
+  "name": "Mads Hill",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/madsthill",
+    "instagram": "https://www.instagram.com/madsthill/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/madsthill/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/madsthill/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/madsthill/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/madsthill/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Mads Hill is a highly skilled tattoo artist known for his mastery in the 'black&gray' style. With a significant following of around 59,000 on Instagram, Mads has carved a niche for himself in the tattooing world. Based out of Roskilde, Denmark, he is highly professional, using high-quality equipment from reputed brands like Cheyenne and Killer Ink. His books are always open, showcasing his commitment to his craft.\nPrice: $$\nCurrent location:"
+}

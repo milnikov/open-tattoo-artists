@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "lupinetattooer",
+  "name": "Lupine Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lupinetattooer",
+    "instagram": "https://www.instagram.com/lupinetattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lupinetattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lupinetattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lupinetattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lupinetattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Lupine Tattooer is renowned for their impeccable cleanliness, ensuring every client's experience is not only visually stunning but also hygienically secure. Specializing in dotwork and neotraditional black and grey tattoos, their dedication to maintaining a sanitized environment sets them apart in the industry and provides peace of mind to all who visit their workspace at Ghost House Tattoos. Reach out directly to book an appointment and immerse yourself in a clean, artful tattooing experience.\nPrice: $$\nCurrent location:"
+}

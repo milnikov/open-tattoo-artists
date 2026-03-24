@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "magicmoon_tattoo_supply",
+  "name": "Magic Moon",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/magicmoon_tattoo_supply",
+    "instagram": "https://www.instagram.com/magicmoon_tattoo_supply/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magicmoon_tattoo_supply/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magicmoon_tattoo_supply/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magicmoon_tattoo_supply/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magicmoon_tattoo_supply/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Magic Moon Tattoo Studio reinvents the 'newschool' style, bringing high-quality, inventive ink designs to life. Not just a tattoo shop, this robust 70k-followed community is also a major supplier and distributor of tattoo equipment. Discover the Magic Moon difference on Instagram, YouTube, and Facebook - your skin will thank you!\nPrice: $$$\nCurrent location:"
+}

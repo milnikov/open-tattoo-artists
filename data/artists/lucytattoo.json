@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "lucytattoo",
+  "name": "Lucy Pidgeon",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lucytattoo",
+    "instagram": "https://www.instagram.com/lucytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Lucy Pidgeon is a highly skilled tattoo artist, renowned for her expertise in watercolor and realism styles. Her attention to cleanliness is unmatched, ensuring a safe and sterile environment at Autonomy Tattoo in Godalming, Surrey. Clients continuously praise the immaculate condition of her workspace and the meticulous care she takes with her craft.\nPrice: $\nCurrent location:"
+}

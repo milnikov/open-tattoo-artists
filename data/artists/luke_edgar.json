@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "luke_edgar",
+  "name": "Luke Edgar",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/luke_edgar",
+    "instagram": "https://www.instagram.com/luke_edgar/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luke_edgar/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luke_edgar/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luke_edgar/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luke_edgar/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Luke Edgar is a highly skilled tattoo artist specializing in black and gray styles, offering a refined artistic approach that caters to a diverse clientele. Operating out of Essex, UK, his professionalism is evident in both his intricate designs and the meticulous care he takes with each client. To book an appointment or inquire about his work, reach out to him at info@edgararts.co.uk or visit his socials at @edgar._.arts.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "luckywizardtattoo",
+  "name": "Eli Wood",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/luckywizardtattoo",
+    "instagram": "https://www.instagram.com/luckywizardtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luckywizardtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luckywizardtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luckywizardtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luckywizardtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "Immerse yourself in the vibrant artistry of Eli Wood Tattoo Studio, nestled in the heart of Brattleboro, VT. Specializing in the bold lines of traditional tattoos and the intricate beauty of Japanese styles, our intimate studio offers a bespoke tattooing experience by appointment only. Contact Eli Wood at eliwoodtattoo@gmail.com or Nora Townsend at noratownsendtattoo@gmail.com to book your session and be a part of the unique Lucky Wizard tattoo journey.\nPrice: $\nCurrent location:"
+}

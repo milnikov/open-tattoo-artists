@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lortattoo",
+  "name": "Laura Kenny",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "dotwork",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lortattoo",
+    "instagram": "https://www.instagram.com/lortattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lortattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lortattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lortattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lortattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Laura Kenny is a highly skilled tattoo artist specializing in illustrative, dotwork, and black & gray styles. Based at Tattoo Heroes in Dublin, her impressive technique and attention to detail have made her a sought-after artist in the city. To arrange a session with Laura, interested clients can directly message her to secure an appointment and experience her artistry firsthand.\nPrice: $\nCurrent location:"
+}

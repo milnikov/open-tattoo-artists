@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "m10tattoo",
+  "name": "M10tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/m10tattoo",
+    "instagram": "https://www.instagram.com/m10tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/m10tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/m10tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/m10tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/m10tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-23",
+  "bio": "At M10tattoo, nestled in the vibrant streets of Badalona at Calle Conquista 45, our talented artists masterfully craft intricate black and gray realism tattoos. Operating Tuesday through Saturday from 4 PM to 8 PM, we assure an experience as memorable as the art we create – pain guaranteed to be part of the journey to your stunning, everlasting piece.\nPrice: $\nCurrent location:"
+}

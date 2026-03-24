@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "lucotattoo",
+  "name": "Luco",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/lucotattoo",
+    "instagram": "https://www.instagram.com/lucotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Luco is a masterful tattoo artist specializing in black & gray, newschool, and fineline styles, offering a diverse palette of designs for any tattoo enthusiast. With an impeccable standard of cleanliness, Luco upholds the highest hygiene practices at Safehands Tattoo in Watford, UK, ensuring a safe and sterile environment for every client. Reach out via lucotattoo@hotmail.com or visit their portfolio at www.safehandstattoo.co.uk to witness a true professional at work.\nPrice: $\nCurrent location:"
+}
