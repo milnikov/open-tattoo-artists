@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "mcarrotattoo",
+  "name": "Mike Carro",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "sponsor:",
+    "fkirons"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mcarrotattoo",
+    "instagram": "https://www.instagram.com/mcarrotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mcarrotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mcarrotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mcarrotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mcarrotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Mike Carro is a proficient tattoo artist who specializes in realism, making every piece of art appear lifelike on the skin. Known not only for his exceptional talent, but also for his clean and professional work environment, he conducts business primarily through email, ensuring a smooth and orderly booking process for all his clients. Mike's professionalism is mirrored in his dedication both as an artist and the owner of Undead Ink.\nPrice: $$\nCurrent location:"
+}
