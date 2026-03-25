@@ -4,7 +4,7 @@
 
 - **Web app**: Browse artists, filter by location/style, search, save favourites, suggest artists, report problems. Next.js in `apps/web`.
 - **Open data**: Artist JSON in `data/artists/`, styles in `data/styles/`, generated indexes in `data/indexes/`.
-- **Docs**: [docs/README.md](docs/README.md) — PRD, repo structure, data model, deployment, licenses.
+- **Docs**: [docs/README.md](docs/README.md) — PRD, data model, setup/deploy, VM commands, licenses.
 
 ---
 
@@ -27,15 +27,15 @@ Open [http://localhost:3000](http://localhost:3000). See [docs/GOOGLE_AUTH_SETUP
 
 | Path | Purpose |
 |------|---------|
-| `apps/web/` | Next.js directory app (filters, search, artist pages, favourites, Suggest artist, Report problem) |
-| `packages/schema/` | JSON schemas and validation for artist data |
+| `apps/web/` | Next.js app (browse, filters, search, favourites, suggest, report) |
+| `packages/schema/` | JSON schemas for artist data |
+| `packages/scraper/` | Python scraper, R2 upload, `config.example.yaml` |
 | `data/artists/` | One JSON file per artist (source of truth) |
 | `data/styles/` | Canonical style list |
 | `data/indexes/` | Generated indexes (do not edit by hand) |
-| `docs/` | PRD, repo structure, deployment, licenses |
-| `supabase/` | DB schema and migrations (auth, favourites, contributions) |
-
-See [docs/REPO_STRUCTURE.md](docs/REPO_STRUCTURE.md) for details.
+| `docs/` | PRD, setup/deploy, VM command reference, licenses |
+| `supabase/` | DB schema (auth, favourites, contributions) |
+| `.github/` | Issue templates, CI workflows |
 
 ---
 

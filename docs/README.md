@@ -1,20 +1,18 @@
 # Docs
 
-- **PRD.md** — Product requirements (MVP + AI-ready); includes visibility rules (which artist cards are hidden when info is wrong or missing)
-- **REPO_STRUCTURE.md** — Recommended repo layout
-- **DATA_MODEL.md** — Data shape and schemas
-- **SCRAPER_R2_ARCHITECTURE.md** — Scraper flow and R2 upload
-- **MODERATION.md** — Submissions (add artist, report problem)
-- **PRIVACY.md** — What is stored where
-- **LICENSES.md** — Code, data, and image licenses
+| Doc | Purpose |
+|-----|---------|
+| [PRD.md](./PRD.md) | Product requirements (MVP, visibility rules) |
+| [DATA_MODEL.md](./DATA_MODEL.md) | Artist JSON + R2 paths |
+| [SETUP_AND_DEPLOY.md](./SETUP_AND_DEPLOY.md) | VPS first-time setup, R2, Next.js deploy, how the pipeline fits together |
+| [VM_AND_GIT_COMMANDS.md](./VM_AND_GIT_COMMANDS.md) | Command cheat sheet for the VM (pipelines, git, screen) |
+| [GOOGLE_AUTH_SETUP.md](./GOOGLE_AUTH_SETUP.md) | Google + Supabase + web env |
+| [MODERATION.md](./MODERATION.md) | Issue-based submissions |
+| [PRIVACY.md](./PRIVACY.md) | What is stored where |
+| [LICENSES.md](./LICENSES.md) | Code, data, images |
+| [POST_MVP_PLAN.md](./POST_MVP_PLAN.md) | Future ideas |
+| [VALIDATION_REPORT.md](./VALIDATION_REPORT.md) | One-off styles/location audit (historical) |
 
-VM and deployment:
-- **VM_SETUP_GUIDE.md**, **QUICK_START_VM.md**, **CHANGES_FOR_VM.md**, **VM_AND_GIT_COMMANDS.md**, **VPS_STEP_BY_STEP.md** — VM setup and pipeline
-- **DEPLOYMENT_CHECKLIST.md** — R2, pipeline, web deploy
-- **GOOGLE_AUTH_SETUP.md** — Sign in with Google (Supabase)
+Schemas: `packages/schema/`. Supabase: `supabase/`. Scraper details: `packages/scraper/README.md`.
 
-Other: **IMPROVEMENTS.md** — Scraper throttling and image detection.
-
-Post-MVP: **POST_MVP_PLAN.md** — Artist ranking by “followed by other artists” (toggle view) and OpenClaw bot setup for automatic GitHub issue processing.
-
-Schemas live in `packages/schema/`. Supabase schema and notes live in `supabase/`.
+The `archive/` folder holds older copies; prefer the files above.

@@ -29,4 +29,5 @@ On a VPS, the pipeline runs **sequentially**: one artist page → parse (Seleniu
 - See `requirements.txt`
 
 ## Docs
-- [SCRAPER_R2_ARCHITECTURE.md](../../docs/SCRAPER_R2_ARCHITECTURE.md) — flow, R2 keys, image variants
+- [SETUP_AND_DEPLOY.md](../../docs/SETUP_AND_DEPLOY.md) — R2 + VPS + deploy overview  
+- [VM_AND_GIT_COMMANDS.md](../../docs/VM_AND_GIT_COMMANDS.md) — VM command cheat sheet

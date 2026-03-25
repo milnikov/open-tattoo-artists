@@ -1,3 +1,3 @@
 # Scripts
 
-- **setup_vm.sh** — VM setup for batch processing (install Chrome, Python deps, etc.). Copy to VM and run there. See `docs/VM_SETUP_GUIDE.md`.
+- **setup_vm.sh** — VM setup (Chrome, Python venv, deps). Run on the VPS from repo root. See `docs/SETUP_AND_DEPLOY.md`.

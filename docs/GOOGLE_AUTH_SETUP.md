@@ -1,65 +1,42 @@
-# Google Auth Setup
+# Google Auth (Sign in with Google)
 
-To make **Sign in with Google** available in the app, complete these steps in order.
+Order: **Google Cloud** → **Supabase** → **app env** → optional **SQL schema**.
 
 ## 1. Google Cloud Console
 
-1. Go to [Google Cloud Console](https://console.cloud.google.com/) and create or select a project.
-2. **APIs & Services → OAuth consent screen**
-   - Choose **External** (or Internal for workspace-only).
-   - Fill **App name**, **User support email**, **Developer contact**.
-   - **Scopes**: add `openid` (Supabase needs it). `.../auth/userinfo.profile` and `.../auth/userinfo.email` are usually already there.
-   - Save.
-3. **APIs & Services → Credentials → Create Credentials → OAuth client ID**
-   - Application type: **Web application**.
-   - **Authorized JavaScript origins**
-     - Local: `http://localhost:3000` (or your dev port).
-     - Production: `https://your-domain.com`.
-   - **Authorized redirect URIs**
-     - Use your **Supabase** auth callback, not your app URL:
-     - `https://<YOUR-PROJECT-REF>.supabase.co/auth/v1/callback`
-     - Project ref is in Supabase Dashboard → Project Settings → General → Reference ID.
-   - Create and copy **Client ID** and **Client Secret**.
+1. [Google Cloud Console](https://console.cloud.google.com/) — create or select a project.  
+2. **APIs & Services → OAuth consent screen** — External (or Internal for workspace). App name, support + developer emails. **Scopes:** include `openid` (required for Supabase); profile/email are usually added by default.  
+3. **APIs & Services → Credentials → OAuth client ID** — Type **Web application**.  
+   - **Authorized JavaScript origins:** `http://localhost:3000` (dev) and `https://your-domain.com` (prod).  
+   - **Authorized redirect URIs:** **`https://<PROJECT-REF>.supabase.co/auth/v1/callback`** only (not your app URL). Ref: Supabase → Project Settings → General.  
+   - Save **Client ID** and **Client Secret**.
 
-## 2. Supabase Dashboard
+## 2. Supabase
 
-1. Open your project: [Supabase Dashboard](https://supabase.com/dashboard) → your project.
-2. **Authentication → Providers → Google**
-   - Enable **Google**.
-   - Paste **Client ID** and **Client Secret** from step 1.
-   - Save.
-3. **Authentication → URL Configuration**
-   - **Site URL**: production URL (e.g. `https://your-domain.com`) or `http://localhost:3000` for local.
-   - **Redirect URLs**: add:
-     - `http://localhost:3000/auth/callback` (dev)
-     - `https://your-domain.com/auth/callback` (prod)
-   - Save.
+1. **Authentication → Providers → Google** — enable, paste Client ID + Secret.  
+2. **Authentication → URL Configuration** — **Site URL** = prod or `http://localhost:3000`. **Redirect URLs** include `http://localhost:3000/auth/callback` and `https://your-domain.com/auth/callback`.
 
-## 3. App environment
-
-In `apps/web/.env.local` (create from `.env.example`):
+## 3. App (`apps/web/.env.local`)
 
 ```env
-NEXT_PUBLIC_SUPABASE_URL=https://<YOUR-PROJECT-REF>.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=<your-anon-key>
+NEXT_PUBLIC_SUPABASE_URL=https://<PROJECT-REF>.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=<anon public key>
 ```
 
-Anon key: Supabase Dashboard → Project Settings → API → Project API keys → `anon` public.
+Keys: **Project Settings → API**.
 
-## 4. Apply database schema (if not done)
+## 4. Database
 
-In Supabase: **SQL Editor** → run the contents of `supabase/schema.sql` so tables (`profiles`, `favourites`, etc.) and RLS exist.
+If needed: **SQL Editor** — run `supabase/schema.sql` (`profiles`, `favourites`, RLS).
 
-## 5. Run the app
+## 5. Run
 
-```bash
-cd apps/web && npm run dev
-```
-
-Open `/profile` and use **Sign in with Google**. After authorizing, you are redirected back and the session is stored.
+`cd apps/web && npm run dev` — test **Sign in with Google** from `/profile`.
 
 ## Troubleshooting
 
-- **Redirect URI mismatch**: Redirect URI in Google must be exactly `https://<ref>.supabase.co/auth/v1/callback` (your Supabase project ref).
-- **Redirect URL not allowed**: Add `http://localhost:3000/auth/callback` (and your production callback URL) under Supabase → Authentication → URL Configuration → Redirect URLs.
-- **Session not persisting**: Ensure the auth callback route is reachable and that cookies are not blocked (same-site, HTTPS in production).
+| Symptom | Fix |
+|--------|-----|
+| Redirect URI mismatch (Google) | Redirect in Google must be exactly `https://<ref>.supabase.co/auth/v1/callback`. |
+| Redirect URL not allowed (Supabase) | Add `/auth/callback` URLs under **Authentication → URL Configuration**. |
+| Session not sticking | Callback route reachable; HTTPS in prod; cookies not blocked. |
