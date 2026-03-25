@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "marc_christinat",
+  "name": "Marc Christinat",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/marc_christinat",
+    "instagram": "https://www.instagram.com/marc_christinat/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marc_christinat/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marc_christinat/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marc_christinat/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marc_christinat/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Marc Christinat is a highly skilled tattoo artist specializing in traditional styles. His exceptional work can be found at Spider Fever Tattoo and occasionally The Sinner and the Saint Tattoo. With attention to detail and mastery in his craft, Marc ensures each piece is a work of art.\nPrice: $$\nCurrent location:"
+}

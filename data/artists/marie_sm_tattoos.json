@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "marie_sm_tattoos",
+  "name": "Marie Scherping Martin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/marie_sm_tattoos",
+    "instagram": "https://www.instagram.com/marie_sm_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marie_sm_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marie_sm_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marie_sm_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marie_sm_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Marie Scherping Martin is an accomplished tattoo artist, specializing in illustrative and newschool styles. Based in Dallas, Texas, she extends her remarkable talent to clients of all skin tones and genders, showcasing her artwork at Midgard Tattoo Company. Her professionalism is evident in her approach to communication, preferring formal channels over direct messages.\nPrice: $$\nCurrent location:"
+}

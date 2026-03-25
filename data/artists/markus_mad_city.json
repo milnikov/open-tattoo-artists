@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "markus_mad_city",
+  "name": "Markus Mad",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/markus_mad_city",
+    "instagram": "https://www.instagram.com/markus_mad_city/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markus_mad_city/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markus_mad_city/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markus_mad_city/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markus_mad_city/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Markus Mad is a masterful all-rounder in the tattoo world, specializing in striking black & gray, traditional, and neo-traditional styles. Upholding the highest standards of professionalism, Markus ensures every client receives a tailored experience; his meticulous approach guarantees an immaculate studio environment at @madcitytattoostudio, where his creative artistry comes to life on skin.\nPrice: $\nCurrent location:"
+}

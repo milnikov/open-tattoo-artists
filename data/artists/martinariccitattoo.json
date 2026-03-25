@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "martinariccitattoo",
+  "name": "Martina Ricci",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "minimalist",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/martinariccitattoo",
+    "instagram": "https://www.instagram.com/martinariccitattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinariccitattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinariccitattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinariccitattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinariccitattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Martina Ricci is a highly skilled tattoo artist specializing in fineline, minimalist, and lettering designs. Her work is a testament to her meticulous attention to detail and the clean aesthetic she brings to each tattoo. Martina's professionalism is evident not only in her stunning portfolio but also in the precision and care she takes with each piece she creates, making her a standout artist at B-Side Tattoo.\nPrice: $\nCurrent location:"
+}

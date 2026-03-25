@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "mattgreentattoos",
+  "name": "Matt Green",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "newschool",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mattgreentattoos",
+    "instagram": "https://www.instagram.com/mattgreentattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattgreentattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattgreentattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattgreentattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattgreentattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Matt Green is a highly skilled tattoo artist specializing in neotraditional, newschool, and Japanese styles, ensuring each piece is a striking work of art. Operating from a private studio in the Ottawa Capital region, specifically Aylmer (Gatineau), Quebec, Matt provides services in both English and Français, upholding an exemplary standard of professionalism. Clients are requested to reach out via email for bookings, as Matt emphasizes clear and professional communication to discuss their tattooing needs.\nPrice: $\nCurrent location:"
+}

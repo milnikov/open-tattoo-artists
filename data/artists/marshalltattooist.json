@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "marshalltattooist",
+  "name": "Marshall Matias",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/marshalltattooist",
+    "instagram": "https://www.instagram.com/marshalltattooist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marshalltattooist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marshalltattooist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marshalltattooist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marshalltattooist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-24",
+  "bio": "Marshall Matias is a professional tattoo artist specializing in the 'fineline' style. His work truly embodies the sentiment of 'artwork eternalized on the skin', showcasing an impressive skill level that ensures a satisfying and wearable piece of art. Conforming to strict cleanliness standards, Marshall maintains a studio in Planalto Paulista, SP that hosts clients by appointment only.\nPrice: $$\nCurrent location:"
+}

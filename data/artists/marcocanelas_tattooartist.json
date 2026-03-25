@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "marcocanelas_tattooartist",
+  "name": "Marco Canelas",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/marcocanelas_tattooartist",
+    "instagram": "https://www.instagram.com/marcocanelas_tattooartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocanelas_tattooartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocanelas_tattooartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocanelas_tattooartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocanelas_tattooartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Marco Canelas is an exceptionally skilled tattoo artist specializing in black&gray, realism, and trashpolka styles. Having showcased his craftsmanship in multiple countries such as Portugal, Germany, and Switzerland, he offers an impressive diversity in his artwork, while being part of the professional team @pepax.official.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "marcustattoos",
+  "name": "Marcus Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/marcustattoos",
+    "instagram": "https://www.instagram.com/marcustattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcustattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcustattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcustattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcustattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Marcus Tattoos, a renowned 'newschool' style tattoo artist based in Glasgow, boasts an impressive following of roughly 80,000 on Instagram. This displays the immense skill level at which Marcus operates, capturing the hearts and skins of countless enthusiasts through his unique and vibrant artistry. His work is not only significant in quantity, but also paramount in quality, making him one of the leading figures in the contemporary tattoo world.\nPrice: $$$\nCurrent location:"
+}
