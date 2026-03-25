@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "meckmandez",
+  "name": "Meck Mandes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/meckmandez",
+    "instagram": "https://www.instagram.com/meckmandez/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meckmandez/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meckmandez/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meckmandez/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meckmandez/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Meck Mandes is a tattoo artist renowned for their exceptional skill in black & gray, realism, trashpolka, and coverups. Clients often commend Meck for the immaculate cleanliness upheld in the studio, ensuring a safe and hygienic environment for every tattoo session. With meticulous attention to sterilization and organization, patrons can trust in a clean and professional tattooing experience.\nPrice: $\nCurrent location:"
+}

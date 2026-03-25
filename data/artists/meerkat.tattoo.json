@@ -1,0 +1,70 @@
+{
+  "schema_version": 2,
+  "id": "meerkat.tattoo",
+  "name": "Benyovszky Barni",
+  "location": {
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  "styles": [
+    "minimalist",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/meerkat.tattoo",
+    "instagram": "https://www.instagram.com/meerkat.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "003",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/full/003.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/thumb/003.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "004",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/full/004.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meerkat.tattoo/thumb/004.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Benyovszky Barni is an exceptionally talented tattoo artist specializing in minimalist and fineline styles. Based in Budapest, Hungary, their work is highly regarded for its cleanliness and precision, evident in every piece created at the Bloomingmind Tattoo Shop. Clients praise Barni for maintaining a sterile environment, ensuring each tattoo not only looks stunning but is executed with the utmost standards of safety and hygiene.\nPrice: $\nCurrent location: Budapest, Budapest, Hungary"
+}
