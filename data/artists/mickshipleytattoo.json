@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "mickshipleytattoo",
+  "name": "Mick Shipley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "sponsor:",
+    "gmail.com"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mickshipleytattoo",
+    "instagram": "https://www.instagram.com/mickshipleytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mickshipleytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mickshipleytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mickshipleytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mickshipleytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Mick Shipley is a highly skilled tattoo artist, specializing in intricate black & gray designs and photorealistic art. His notable talent has caught the attention of renowned industry sponsors, including Butterluxe, True Gent Cartridges and Killer Ink. Mick also exemplifies professionalism, ensuring a clean and sanitized work environment at all times.\nPrice: $$\nCurrent location:"
+}

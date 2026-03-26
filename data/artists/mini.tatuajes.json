@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "mini.tatuajes",
+  "name": "Mini Tatuajes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "fineline",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mini.tatuajes",
+    "instagram": "https://www.instagram.com/mini.tatuajes/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mini.tatuajes/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mini.tatuajes/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mini.tatuajes/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mini.tatuajes/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Mini Tatuajes is a greatly skilled tattoo artist recognized for their minimalist, fineline, and illustrative styles of tattoo design. With around 55,000 followers on Instagram, their mastery in creating original and trendy small tattoos has not gone unnoticed. Their work showcases a unique blend of simplicity and intricate detail that sets them apart as a true craftsman in the tattoo industry.\nPrice: $$\nCurrent location:"
+}

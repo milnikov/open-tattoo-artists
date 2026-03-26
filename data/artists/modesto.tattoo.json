@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "modesto.tattoo",
+  "name": "Modesto Tattoo",
+  "location": {
+    "city": "Rio De Janeiro",
+    "country": "Brazil"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/modesto.tattoo",
+    "instagram": "https://www.instagram.com/modesto.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/modesto.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/modesto.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Modesto Tattoo is a highly skilled illustrator-style tattoo artist nestled in the vibrant locale of Rio de Janeiro, Brazil. With a dedication to cleanliness that matches their artistic prowess, every client can expect a sterile environment that ensures safety and comfort during their tattooing experience. Their commitment to maintaining a hygienic workspace is as intricately detailed as the tattoos they create.\nPrice: $\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil"
+}

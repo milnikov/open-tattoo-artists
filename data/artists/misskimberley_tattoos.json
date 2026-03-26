@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "misskimberley_tattoos",
+  "name": "Kimberley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/misskimberley_tattoos",
+    "instagram": "https://www.instagram.com/misskimberley_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misskimberley_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misskimberley_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misskimberley_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misskimberley_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Kimberley is a highly skilled tattoo artist, specializing in 'black&gray' styles that have gained acclaim and an impressive 67,000 followers on Instagram. Working out of Garageink in Tugun, Gold Coast, Australia, her incredible attention to detail and craftsmanship are truly a sight to behold, making her a sought-after artist in the tattoo community.\nPrice: $$\nCurrent location:"
+}

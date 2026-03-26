@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "mikeyholmestattooing",
+  "name": "Mikey Holmes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mikeyholmestattooing",
+    "instagram": "https://www.instagram.com/mikeyholmestattooing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeyholmestattooing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeyholmestattooing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeyholmestattooing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeyholmestattooing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Mikey Holmes, a respected tattoo artist based in Charlotte, North Carolina, is undeniably a master of the traditional tattoo style. This skill level is not only evident in his work, but also reflected in his significant follower base, rounded to 70k on Instagram. His philosophy that tattoos unite the mind, body and soul truly brings a unique deepness to each piece he creates.\nPrice: $$\nCurrent location:"
+}

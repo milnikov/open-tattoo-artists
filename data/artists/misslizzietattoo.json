@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "misslizzietattoo",
+  "name": "Lizzie Duggan",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/misslizzietattoo",
+    "instagram": "https://www.instagram.com/misslizzietattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misslizzietattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misslizzietattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misslizzietattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misslizzietattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Lizzie Duggan is an exceptionally skilled tattoo artist specializing in fineline, floral, and illustrative styles. Based in the heart of Chicago at the Logan Square Tattoo studio, she delivers intricate designs with a combination of precision and creativity that truly distinguishes her work.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "mirekkopinectattoo",
+  "name": "Mirek Kopinec",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mirekkopinectattoo",
+    "instagram": "https://www.instagram.com/mirekkopinectattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mirekkopinectattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mirekkopinectattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mirekkopinectattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mirekkopinectattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Mirek Kopinec is a seasoned tattoo artist specializing in the neotraditional style, honing his craft since 2014. His dedication to the art is showcased in his meticulous designs that blend classic motifs with contemporary flair, ensuring each piece is a unique work of art for his clients. Clients consistently praise Mirek for maintaining an exceptionally clean and hygienic workspace, ensuring a safe and professional tattooing experience.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2014"
+}

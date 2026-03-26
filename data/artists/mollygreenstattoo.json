@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "mollygreenstattoo",
+  "name": "Molly Green",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mollygreenstattoo",
+    "instagram": "https://www.instagram.com/mollygreenstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mollygreenstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mollygreenstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mollygreenstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mollygreenstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Molly Green stands out with her exquisite illustrative and black&gray tattoo artistry, showcasing exceptional skill and a keen eye for detail in every piece she creates. Her work exudes a high level of professionalism, enabling clients to trust in her competence and the quality of her work. Located in the heart of Pembrokeshire, her studio not only reflects her artistic prowess but also maintains the highest standards of cleanliness, ensuring a safe and welcoming environment for all.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "moi_martos",
+  "name": "Moi Martos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/moi_martos",
+    "instagram": "https://www.instagram.com/moi_martos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moi_martos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moi_martos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moi_martos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moi_martos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Moi Martos is an incredibly skilled tattoo artist, specializing in dynamic newschool and neotraditional styles. Combining his expertise as a 2D and 3D artist into each design, he views tattooing as not just a career, but a key part of his life's art. He maintains professional communication channels through direct message or email to discuss with potential clients for their tattoo inquiries.\nPrice: $$\nCurrent location:"
+}

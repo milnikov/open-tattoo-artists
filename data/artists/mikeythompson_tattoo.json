@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "mikeythompson_tattoo",
+  "name": "Mikey Thompson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mikeythompson_tattoo",
+    "instagram": "https://www.instagram.com/mikeythompson_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeythompson_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeythompson_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeythompson_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikeythompson_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Mikey Thompson is a highly skilled tattoo artist specializing in black and grey styles at Indigo Tattoo Studio in Norwich. Renowned for their exceptional craftsmanship, Mikey's attention to detail and keen eye for shading have earned them a devoted client base and sponsorship from Premium Colour 2000. Whether intricate designs or bold statement pieces, Mikey's artistry consistently impresses.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "mo__malone",
+  "name": "Mo Malone",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mo__malone",
+    "instagram": "https://www.instagram.com/mo__malone/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mo__malone/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mo__malone/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mo__malone/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mo__malone/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Mo Malone is a proficient tattoo artist specializing in neotraditional designs at Rising Tide Tattoo in Boulder, Colorado. Known for their professionalism, Mo ensures a seamless experience from consultation to the finishing touches of your ink. To secure a session with Mo, be sure to reach out via email, as appointments are highly sought after and the books are currently closed.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "mikecann_cat",
+  "name": "Mike Cann",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mikecann_cat",
+    "instagram": "https://www.instagram.com/mikecann_cat/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecann_cat/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecann_cat/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecann_cat/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecann_cat/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-25",
+  "bio": "Mike Cann is a supremely skilled tattoo artist specializing in the traditional and illustrative styles. His attention to detail and understanding of color and composition draw many to the Colley Ave Tattoo shop. For world-class body art, book an appointment by catching him at the shop or contact him at mikecannbooking@gmail.com.\nPrice: $$\nCurrent location:"
+}

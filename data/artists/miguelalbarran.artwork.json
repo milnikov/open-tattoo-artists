@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "miguelalbarran.artwork",
+  "name": "Miguel Albarran",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/miguelalbarran.artwork",
+    "instagram": "https://www.instagram.com/miguelalbarran.artwork/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguelalbarran.artwork/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguelalbarran.artwork/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguelalbarran.artwork/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguelalbarran.artwork/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Miguel Albarran is a masterful tattoo artist who specializes in black and gray realism, delivering intricate and lifelike tattoos with a high level of precision. His work is well-known throughout the Escondido area, where he showcases his remarkable skills at the reputable Dead Sea Tattoo studio. Clients appreciate not only Miguel's artistic ability but also the absolute professionalism he maintains in every aspect of his work, ensuring a comfortable and trustworthy experience.\nPrice: $\nCurrent location:"
+}
