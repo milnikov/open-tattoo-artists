@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "neptunes_daughter_",
+  "name": "Neptune's Daughter Tattoo Shop",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/neptunes_daughter_",
+    "instagram": "https://www.instagram.com/neptunes_daughter_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neptunes_daughter_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neptunes_daughter_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neptunes_daughter_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neptunes_daughter_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Step into the serene and artful ambiance of Neptune's Daughter Tattoo Shop, where the ancient allure of Japanese tattoo artistry comes alive. Our skilled ink masters are dedicated to crafting exquisite, personalized designs that capture the essence of tradition with a modern twist. Follow our fresh journey and latest creations on Instagram, and become a part of Neptune's Daughter's ever-expanding family of ink aficionados.\nPrice: $\nCurrent location:"
+}

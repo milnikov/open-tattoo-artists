@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ngazin",
+  "name": "Ngazin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ngazin",
+    "instagram": "https://www.instagram.com/ngazin/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ngazin/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ngazin/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ngazin/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ngazin/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Welcome to Ngazin, the creative enclave where the art of ink transcends expectations. Specializing in the striking contrasts of black & gray, the bold dynamism of trash polka, and the vibrant whimsy of new school styles, Ngazin elevates tattooing to stellar new heights. Step into our studio for an immersive artistic journey and don't forget to check out our collection of awesome shirts, each designed with a touch of Ngazin's unique flair.\nPrice: $\nCurrent location:"
+}

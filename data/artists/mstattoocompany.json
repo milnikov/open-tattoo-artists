@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "mstattoocompany",
+  "name": "Jim Fortier",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "japanese",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mstattoocompany",
+    "instagram": "https://www.instagram.com/mstattoocompany/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mstattoocompany/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mstattoocompany/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mstattoocompany/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mstattoocompany/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Jim Fortier is an exceptionally skilled tattoo artist who specializes in traditional, Japanese, and neo-traditional styles. Based out of 176 North Main Street, East Longmeadow, MA, Jim prides himself on delivering intricate and vibrant tattoos. His professionalism and dedication to his craft are evident in every piece he creates, ensuring each client leaves his studio with a masterpiece on their skin.\nPrice: $\nCurrent location:"
+}

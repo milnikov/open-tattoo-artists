@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "my_adventureland_ink",
+  "name": "My Adventureland Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/my_adventureland_ink",
+    "instagram": "https://www.instagram.com/my_adventureland_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/my_adventureland_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/my_adventureland_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/my_adventureland_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/my_adventureland_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "My Adventureland Ink is renowned for their exceptional skill level in creating stunning floral and minimalist tattoos. Their dedication to the craft is evident in every intricate detail and delicate line, ensuring that each piece of art they create is a masterpiece on the skin. Clients can expect nothing less than an extraordinary level of artistry when they choose My Adventureland Ink for their tattoo journey.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "mr_cee_tattooz",
+  "name": "Andy Cassidy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mr_cee_tattooz",
+    "instagram": "https://www.instagram.com/mr_cee_tattooz/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_cee_tattooz/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_cee_tattooz/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_cee_tattooz/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_cee_tattooz/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Andy Cassidy is a masterful tattoo artist specializing in realism, black & gray, and the distinctive trash polka style. As a multi-award-winning black and grey specialist, Andy brings an extraordinary level of skill and detail to every piece, ensuring that each tattoo is a stunning work of art. Clients seeking exceptional tattoos will find Andy at 270 Aigburth Rd, Liverpool, ready to transform their ideas into reality.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "neilhartetattootown",
+  "name": "Neil Harte",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/neilhartetattootown",
+    "instagram": "https://www.instagram.com/neilhartetattootown/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neilhartetattootown/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neilhartetattootown/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neilhartetattootown/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neilhartetattootown/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Neil Harte is a seasoned tattoo artist who has been perfecting the craft of black & gray, floral, and lettering styles for over 28 years in Dublin. His studio at 65 Mary Street maintains impeccable cleanliness, ensuring a safe and hygienic environment for all his clients. Whether you're a walk-in or prefer to book an appointment, you can rely on Neil's professionalism to provide an exceptional tattooing experience.\nPrice: $\nCurrent location:"
+}

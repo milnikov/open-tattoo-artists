@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "myfarbstich",
+  "name": "Farbstich",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/myfarbstich",
+    "instagram": "https://www.instagram.com/myfarbstich/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/myfarbstich/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/myfarbstich/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/myfarbstich/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/myfarbstich/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Experience the artistry of Farbstich Tattoo Studio, where masterful black & gray, realism, and cover-up tattoos transform skin into stunning canvases. Nestled in the creative heart of 50259 Pulheim, Farbstich is open Monday to Friday from 12 to 20 o'clock and Saturdays from 12 to 16 o'clock, offering a haven for both local patrons and visiting guest artists alike. Secure your session with our skilled artisans and usher in your next ink masterpiece.\nPrice: $\nCurrent location:"
+}

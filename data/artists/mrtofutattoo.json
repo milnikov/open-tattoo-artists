@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "mrtofutattoo",
+  "name": "Tofu",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/mrtofutattoo",
+    "instagram": "https://www.instagram.com/mrtofutattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtofutattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtofutattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtofutattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrtofutattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Tofu is a masterful tattoo artist who specializes in dotwork and geometric styles, creating intricate and precise designs that truly stand out on the skin. They are known for the impeccable cleanliness of their workspace and tools, ensuring a safe and sterile environment for every client. With a strict adherence to hygiene standards, Tofu instills confidence in their clientele, making them a trusted name in the tattoo community.\nPrice: $\nCurrent location:"
+}

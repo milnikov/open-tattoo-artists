@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "nextgenerationtattoo",
+  "name": "Lee Marshall",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/nextgenerationtattoo",
+    "instagram": "https://www.instagram.com/nextgenerationtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nextgenerationtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nextgenerationtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nextgenerationtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nextgenerationtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-26",
+  "bio": "Lee Marshall is a highly skilled tattoo artist, renowned for their mastery in black & gray, newschool, and tribal styles. As the owner and lead artist at Next Generation Tattoo established in 1994 in Stony Stratford, Milton Keynes, they uphold an unwavering standard of professionalism in every aspect of their work. Clients consistently praise the excellent craftsmanship and attention to detail present in each unique piece Lee creates.\nPrice: $\nCurrent location:"
+}
