@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "nito_treasure",
+  "name": "Nito Treasure",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/nito_treasure",
+    "instagram": "https://www.instagram.com/nito_treasure/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nito_treasure/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nito_treasure/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nito_treasure/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nito_treasure/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Nito Treasure is a tattoo artist renowned for masterful creations in the tribal style. Their meticulous attention to detail and impressive technique have established Nito as a highly skilled professional in the craft. Clients consistently praise the cleanliness of both the work environment and the precise execution of Nito's tattoos, ensuring a safe and visually stunning result with every piece of art.\nPrice: $\nCurrent location:"
+}
