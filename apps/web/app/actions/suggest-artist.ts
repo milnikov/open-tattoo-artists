@@ -36,7 +36,7 @@ export async function suggestArtist(
     );
     return {
       ok: false,
-      error: "GitHub integration is not configured. Please contact the site owner.",
+      error: "Suggestions are not available right now. Please contact the site owner.",
     };
   }
 
@@ -56,7 +56,7 @@ export async function suggestArtist(
 
   const [owner, repo] = GITHUB_REPO.split("/");
   if (!owner || !repo) {
-    return { ok: false, error: "Invalid GITHUB_REPO configuration." };
+    return { ok: false, error: "Something went wrong on our side. Please try again later." };
   }
 
   const res = await fetch(
@@ -78,7 +78,7 @@ export async function suggestArtist(
     console.error("GitHub API error:", res.status, err);
     return {
       ok: false,
-      error: "Failed to create GitHub issue. Please try again later.",
+      error: "Could not send your suggestion. Please try again later.",
     };
   }
 
@@ -105,7 +105,7 @@ export async function suggestArtist(
     console.error("Supabase insert error:", insertError);
     return {
       ok: false,
-      error: "Issue was created but we could not save your contribution. Please contact support.",
+      error: "Your suggestion went through but we could not add it to your Contributions. Please contact support.",
     };
   }
 

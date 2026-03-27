@@ -88,7 +88,7 @@ export function SuggestArtistModal({ onClose, open }: Props) {
           </button>
         </div>
         <p className="text-muted-foreground mb-4">
-          We’ll create a GitHub issue. Once the artist is added to the directory, it will appear in your Contributions.
+          We’ll review your suggestion. Once the artist is added to the directory, it will show up under your Contributions.
         </p>
         {result && !result.ok && (
           <div className="mb-4 p-3 rounded-lg bg-red-50 dark:bg-red-950/30 text-red-700 dark:text-red-300">
@@ -121,7 +121,7 @@ export function SuggestArtistModal({ onClose, open }: Props) {
               onChange={(e) => setProfileUrl(e.target.value)}
               required
               className="w-full border border-border rounded px-3 py-2 bg-background text-foreground"
-              placeholder="https://www.tattoodo.com/artists/..."
+              placeholder="https://www.instagram.com/username"
             />
           </div>
           <div>
@@ -146,7 +146,7 @@ export function SuggestArtistModal({ onClose, open }: Props) {
               disabled={loading || !artistName.trim() || !profileUrl.trim()}
               className={submitButtonClass}
             >
-              {loading ? "Creating…" : "Create issue"}
+              {loading ? "Sending…" : "Send suggestion"}
             </button>
           </div>
         </form>
