@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "meglangdaletattoo",
-  "name": "Meg Langdale",
+  "name": "Meg Langdale Tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Meg Langdale is a highly skilled tattoo artist who has mastered the styles of floral and fineline artistry. Operating from her private studio, Wild Rose Tattoo, in Leicestershire, UK, she upholds strict cleanliness standards, ensuring a safe and hygienic environment for her clients to receive their tattoos.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Meg Langdale is a highly skilled tattoo artist who has mastered the styles of floral and fineline artistry. Operating from her private studio, Wild Rose Tattoo, in Leicestershire, UK, she upholds strict cleanliness standards, ensuring a safe and hygienic environment for her clients to receive their tattoos.\nPrice: $$\nCurrent location:\n\n@wild.rose.tattoo\nLeicester, UK\nPlease email for bookings\nmeglangdaletattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "286938569",
+    "follower_count": 24522,
+    "following_count": 2047,
+    "media_count": 747,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meglangdaletattoo/instagram/profile.jpg"
+  }
 }

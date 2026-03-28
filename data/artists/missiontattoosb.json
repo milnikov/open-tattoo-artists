@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "missiontattoosb",
-  "name": "Mission Tattoo",
+  "name": "Tomac Henson",
   "location": {
     "city": "Santa Barbara",
     "country": "United States"
@@ -328,6 +328,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Mission Tattoo\nSTUDIO\nSanta Barbara, California, United States\n773\nAdd\nMessage\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "Mission Tattoo\nSTUDIO\nSanta Barbara, California, United States\n773\nAdd\nMessage\nillustrative\n\n104 W. Mission\nSanta Barbara, CA\n(805) 563 - 1021\nMissionTattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "360881632",
+    "follower_count": 784,
+    "following_count": 199,
+    "media_count": 79,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/missiontattoosb/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "meridiantattoo",
-  "name": "Ryan Ikler",
+  "name": "Ryan Ikler - Tattoo Artist",
   "location": {
     "city": "Meridian",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Ryan Ikler is a highly skilled tattoo artist based in Meridian, United States, known for their expertise in creating stunning pieces in floral, watercolor, and lettering styles. Their commitment to cleanliness is evident in every aspect of their work, ensuring a safe and hygienic environment for all their clients. Ryan’s work embodies the perfect blend of artistry and rigorous cleanliness standards, making them a sought-after tattooist in the region.\nPrice: $\nCurrent location: Meridian, Mississippi, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Ryan Ikler is a highly skilled tattoo artist based in Meridian, United States, known for their expertise in creating stunning pieces in floral, watercolor, and lettering styles. Their commitment to cleanliness is evident in every aspect of their work, ensuring a safe and hygienic environment for all their clients. Ryan’s work embodies the perfect blend of artistry and rigorous cleanliness standards, making them a sought-after tattooist in the region.\nPrice: $\nCurrent location: Meridian, Mississippi, United States",
+  "instagram_enriched": {
+    "id": "2292741073",
+    "follower_count": 1514,
+    "following_count": 1133,
+    "media_count": 1517,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meridiantattoo/instagram/profile.jpg"
+  }
 }

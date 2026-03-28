@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mireltattoo",
-  "name": "Mirel Tattoo",
+  "name": "ＭＩＲＥＬ • ＴＡＴＴＯＯ • ARTIST",
   "location": {
     "city": "Mannheim",
     "country": "Germany"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Booking : @mireltattooatelier 🇩🇪 \nmireltattooatelier@gmail.com\n Powered: \n@lithuanian_irons  \n@hustlebutterdeluxe\n@worldfamousink \n@killerinktattoo",
+  "instagram_enriched": {
+    "id": "433477719",
+    "follower_count": 34708,
+    "following_count": 16,
+    "media_count": 111,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mireltattoo/instagram/profile.jpg"
+  }
 }

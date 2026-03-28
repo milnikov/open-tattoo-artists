@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mia_black_rose_",
-  "name": "Mia Black Rose",
+  "name": "mia black rose",
   "location": {
     "city": "Geispolsheim",
     "country": "France"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "🦚 STRASBOURG : Booking Closed 🌈\nNext Opening July 🌞\nContact✒️mia.blackrose.tattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "4159123730",
+    "follower_count": 12186,
+    "following_count": 1281,
+    "media_count": 366,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mia_black_rose_/instagram/profile.jpg"
+  }
 }

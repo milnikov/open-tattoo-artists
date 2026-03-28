@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "michellemaddison",
-  "name": "Michelle Maddison",
+  "name": "Michelle Maddison / Colour Tattoos",
   "location": {
     "city": "Edinburgh",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "@thistleandthefable Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 \nFor bookings; michellemtattoos@gmail.com 💌\nUsing; @fusion_ink @killerinktattoo\nPersonal; @sherunsshetravels",
+  "instagram_enriched": {
+    "id": "182994199",
+    "follower_count": 65323,
+    "following_count": 879,
+    "media_count": 1448,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/michellemaddison/instagram/profile.jpg"
+  }
 }

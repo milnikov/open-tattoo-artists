@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mj_tattoo",
-  "name": "Matheus Junior",
+  "name": "Mayara Julia (MJ)",
   "location": {
     "city": "Araraquara",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Transformo histórias em tatuagens ✍🏽\nAraraquara e São Paulo. 🇧🇷\nIdealizadora @studiomutuo e @mjcria \nAGENDE AQUI👇🏼",
+  "instagram_enriched": {
+    "id": "262039563",
+    "follower_count": 63534,
+    "following_count": 6576,
+    "media_count": 1344,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mj_tattoo/instagram/profile.jpg"
+  }
 }

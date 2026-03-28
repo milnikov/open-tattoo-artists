@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "medeatattoo",
-  "name": "Medea Tattoo",
+  "name": "Laura Gómez",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -413,5 +413,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Barcelona🌱 @seny_tattoos \n📍Guest spots 2026:\nEdinburgh\nMadrid\nJerez\nMálaga\nMallorca\nWarsaw\nCopenhague\nLisboa\n💌Bookings & inquiries⬇️link",
+  "instagram_enriched": {
+    "id": "5429823308",
+    "follower_count": 25934,
+    "following_count": 3481,
+    "media_count": 137,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/medeatattoo/instagram/profile.jpg"
+  }
 }

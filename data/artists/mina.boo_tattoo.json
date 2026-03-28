@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mina.boo_tattoo",
-  "name": "Mina Boo",
+  "name": "Mina",
   "location": {
     "city": "Gladenbach",
     "country": "Germany"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Anime & Cute stuff 🌸\nInquiries via Styng and Mail💌 \nDautphetal, Germany📍\n@barber_dts @barberdts_de",
+  "instagram_enriched": {
+    "id": "2250991048",
+    "follower_count": 65223,
+    "following_count": 1199,
+    "media_count": 275,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mina.boo_tattoo/instagram/profile.jpg"
+  }
 }

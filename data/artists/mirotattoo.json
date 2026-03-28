@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mirotattoo",
-  "name": "Miro Tattoo",
+  "name": "Miro Jurecek",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "working @ OXFORD TATTOO MAKERS\n 7 Roundway, Headington, OXFORD ox38dh\n01865 922992",
+  "instagram_enriched": {
+    "id": "609070527",
+    "follower_count": 11415,
+    "following_count": 897,
+    "media_count": 324,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mirotattoo/instagram/profile.jpg"
+  }
 }

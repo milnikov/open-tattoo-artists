@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mba_mybodyart",
-  "name": "MBA - My body art",
+  "name": "MBA - My Body Art • Tatouage • Piercing",
   "location": {
     "city": "Lyon",
     "country": "France"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "PIERCING DÈS 20€ • TATTOO DÈS 80€ \n📍 Lyon • Villeurbanne • Chambéry • Grenoble\n⏰ Lun.-Sam., 10h-19h (20h à Lyon)\n🧼 FORMATIONS : Piercing • Tattoo",
+  "instagram_enriched": {
+    "id": "1401664529",
+    "follower_count": 21483,
+    "following_count": 696,
+    "media_count": 1396,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mba_mybodyart/instagram/profile.jpg"
+  }
 }

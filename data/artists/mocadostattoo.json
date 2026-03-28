@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mocadostattoo",
-  "name": "Mocados Tattoo",
+  "name": "MOCADOS TATTOO",
   "location": {
     "city": "Guaxupé",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "C/S ✒️Traditional  ✒️Black&grey ✒️Freehandletters\nContato/agenda📲Whatsapp link ⬇️ -",
+  "instagram_enriched": {
+    "id": "5750223263",
+    "follower_count": 2863,
+    "following_count": 2592,
+    "media_count": 128,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mocadostattoo/instagram/profile.jpg"
+  }
 }

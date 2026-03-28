@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "miguel_ginja",
-  "name": "Miguel Ginja",
+  "name": "Miguel Ângelo Ginja",
   "location": {
     "city": "Evora",
     "country": "Portugal"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Designer Mestrando \nUniversidade Évora \nTATTOO ARTIST 🇵🇹🇵🇹🇵🇹\n@tattooproton @protonstencillatam @tattooshop.es \nResident at: @evora_ink",
+  "instagram_enriched": {
+    "id": "274797076",
+    "follower_count": 4876,
+    "following_count": 3789,
+    "media_count": 2027,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguel_ginja/instagram/profile.jpg"
+  }
 }

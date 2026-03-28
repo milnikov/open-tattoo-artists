@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "michael_hiles",
-  "name": "Michael Hiles",
+  "name": "Tattoos By Michael Hiles",
   "location": {
     "city": "Harrisonburg",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "📲 Booking: visit dreamlandtat2.com and click on client form \n👻: dreamlandtattoo",
+  "instagram_enriched": {
+    "id": "465787459",
+    "follower_count": 3912,
+    "following_count": 448,
+    "media_count": 1191,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/michael_hiles/instagram/profile.jpg"
+  }
 }

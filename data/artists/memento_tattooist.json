@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "memento_tattooist",
-  "name": "Memento",
+  "name": "Tattooist Memento 타투이스트 메멘토",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Memento is a highly skilled tattoo artist based in Seoul, South Korea since 2003. Specializing in black & gray and realism styles, Memento's compelling work is a testament to his proficiency, reflective of his ownership of the well-respected Inkholic Tattoo Studio.\nPrice: $$\nCurrent location: Seoul, South Korea",
-  "tattooing_since": "2003"
+  "updated_at": "2026-03-28",
+  "bio": "Memento is a highly skilled tattoo artist based in Seoul, South Korea since 2003. Specializing in black & gray and realism styles, Memento's compelling work is a testament to his proficiency, reflective of his ownership of the well-respected Inkholic Tattoo Studio.\nPrice: $$\nCurrent location: Seoul, South Korea\n\nBlack & grey realistic tattooist\nSince 2003 based in Gangnam, Seoul\n상담 문의는 DM이나 아래 링크로 주세요",
+  "tattooing_since": "2003",
+  "instagram_enriched": {
+    "id": "55662335",
+    "follower_count": 20988,
+    "following_count": 1188,
+    "media_count": 663,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/memento_tattooist/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "metamorphosis204",
-  "name": "Metamorphosis Tattoo Shop",
+  "name": "Metamorphosis",
   "location": {
     "city": "Winnipeg",
     "country": "Canada"
@@ -544,6 +544,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "'Metamorphosis Tattoo Shop, nestled in the heart of Winnipeg, Canada, is an exclusive, appointment-only studio specializing in minimalist tattoo artistry. This dynamic studio not only emphasizes precision and simplicity in their designs but also in their client-focused approach, providing a serene environment for both first-time and experienced customers alike.\nPrice: $$\nCurrent location: Winnipeg, Manitoba, Canada"
+  "updated_at": "2026-03-28",
+  "bio": "'Metamorphosis Tattoo Shop, nestled in the heart of Winnipeg, Canada, is an exclusive, appointment-only studio specializing in minimalist tattoo artistry. This dynamic studio not only emphasizes precision and simplicity in their designs but also in their client-focused approach, providing a serene environment for both first-time and experienced customers alike.\nPrice: $$\nCurrent location: Winnipeg, Manitoba, Canada\n\n▪️101-290 McDermot Ave • WPG\n▪️ tattoo & body piercing *no DM\n▪️204-942-1565                                      ▪️book online link below",
+  "instagram_enriched": {
+    "id": "321472651",
+    "follower_count": 15330,
+    "following_count": 6329,
+    "media_count": 2553,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/metamorphosis204/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mermaidstattoo",
-  "name": "Anne Williams",
+  "name": "Mermaids Tattoo Studio",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Step into the vibrant embrace of Anne Williams' tattoo studio, a woman-owned haven of creativity that has adorned the skin of San Francisco with illustrative and floral masterpieces since 2011. Nestled in the heart of the city, @mermaid_anne's artistry flourishes in a space where each design is as unique as the clients who wear them. Experience the intimate and bespoke journey of self-expression in an environment that celebrates the individuality of every human canvas.\nPrice: $\nCurrent location: San Francisco, California, United States",
-  "tattooing_since": "2011"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the vibrant embrace of Anne Williams' tattoo studio, a woman-owned haven of creativity that has adorned the skin of San Francisco with illustrative and floral masterpieces since 2011. Nestled in the heart of the city, @mermaid_anne's artistry flourishes in a space where each design is as unique as the clients who wear them. Experience the intimate and bespoke journey of self-expression in an environment that celebrates the individuality of every human canvas.\nPrice: $\nCurrent location: San Francisco, California, United States\n\nA woman artist owned/operated studio in SF 2011-2020; Anne Williams @mermaid_anne",
+  "tattooing_since": "2011",
+  "instagram_enriched": {
+    "id": "1018092758",
+    "follower_count": 1344,
+    "following_count": 362,
+    "media_count": 270,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mermaidstattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mimikri_tattoo",
-  "name": "Britta",
+  "name": "Mimikri Tattoostudio Solingen",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Britta is a highly skilled tattoo artist who specializes in black and gray, realism, and floral designs. Her work is distinguished by its incredible detail and her ability to bring each client's vision to life with precision. Clients can expect an exceptional level of cleanliness in her studio, ensuring a safe and professional tattooing experience. (Please note that inquiries should be made through her website, where you can find all the necessary contact information.)\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Britta is a highly skilled tattoo artist who specializes in black and gray, realism, and floral designs. Her work is distinguished by its incredible detail and her ability to bring each client's vision to life with precision. Clients can expect an exceptional level of cleanliness in her studio, ensuring a safe and professional tattooing experience. (Please note that inquiries should be made through her website, where you can find all the necessary contact information.)\nPrice: $\nCurrent location:\n\nTattoostudio based in Solingen/Germany Tattooconcepts inspired by nature",
+  "instagram_enriched": {
+    "id": "1093318505",
+    "follower_count": 727,
+    "following_count": 347,
+    "media_count": 486,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mimikri_tattoo/instagram/profile.jpg"
+  }
 }

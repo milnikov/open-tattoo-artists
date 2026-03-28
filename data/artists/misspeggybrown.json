@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "misspeggybrown",
-  "name": "Peggy Brown",
+  "name": "Miss Peggy Brown",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Peggy Brown is a highly skilled tattoo artist who specializes in floral designs, crafting them with a magic realism touch that instantly captivates. Based in London, she has amassed a significant following of nearly 56,000 on Instagram, clearly demonstrating her immense talent and appeal. Walking the line between sensitive and heartless, she adds a unique edge to her professional approach, keeping her bookings open for clients from October through March.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Peggy Brown is a highly skilled tattoo artist who specializes in floral designs, crafting them with a magic realism touch that instantly captivates. Based in London, she has amassed a significant following of nearly 56,000 on Instagram, clearly demonstrating her immense talent and appeal. Walking the line between sensitive and heartless, she adds a unique edge to her professional approach, keeping her bookings open for clients from October through March.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\nFreehand tattoo artist ✨\nBooks open for May- August 2026✨\nEMAIL cosmicpeggy@gmail.com \nStudio @cosmicgardentattoo ✨ \nSponsored @killerinktattoo ❤️",
+  "instagram_enriched": {
+    "id": "221619538",
+    "follower_count": 61744,
+    "following_count": 885,
+    "media_count": 1503,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/misspeggybrown/instagram/profile.jpg"
+  }
 }

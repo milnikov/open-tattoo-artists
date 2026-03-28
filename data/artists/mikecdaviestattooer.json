@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikecdaviestattooer",
-  "name": "Mike Davies",
+  "name": "Traditional Tattooing Liverpool",
   "location": {
     "city": "Liverpool",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "classic tattooing\nCHESTER\n@blackcatchester \nLIVERPOOL \n@swallowtheanchortattoo \nCareful craft & honest graft\nmikecdaviestattooer@gmail.com",
+  "instagram_enriched": {
+    "id": "3263419114",
+    "follower_count": 8641,
+    "following_count": 7493,
+    "media_count": 987,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikecdaviestattooer/instagram/profile.jpg"
+  }
 }

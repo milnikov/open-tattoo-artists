@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "metamoderntattoo",
-  "name": "Channing Walden",
+  "name": "Metamodern Tattoo",
   "location": {
     "city": "St Marys",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "⚡️Tat wizards 🧙‍♂️⚡️& piercer @jmichaeltattoo  @gracy.faith @stephen.tattoos @lanas_tattoos @lucyfearink @inkcalli @registertattoo",
+  "instagram_enriched": {
+    "id": "25495614908",
+    "follower_count": 2357,
+    "following_count": 731,
+    "media_count": 1001,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/metamoderntattoo/instagram/profile.jpg"
+  }
 }

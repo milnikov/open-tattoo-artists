@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "memorialbrooklyn",
-  "name": "Memorial Brooklyn Tattoo Collective",
+  "name": "Memorial Brooklyn Tattoo",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "⛓️WITH YOU TO THE GRAVE🪦\n⛓️OPEN EVERYDAY\n⛓️WALK-INS WELCOME 12-8PM",
+  "instagram_enriched": {
+    "id": "7460819961",
+    "follower_count": 28742,
+    "following_count": 366,
+    "media_count": 1867,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/memorialbrooklyn/instagram/profile.jpg"
+  }
 }

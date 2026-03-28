@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mechanicaltattoos",
-  "name": "Krzysztof Nienartowicz",
+  "name": "Krzysztof Nienartowicz | Tatuaż Legnica",
   "location": {
     "city": "Legnica",
     "country": "Poland"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "▪️Tatuażysta i właściciel od 2000 roku\n▪️Studio Tatuażu MECHANICAL TATTOOS\n▪️👫@magdalena.nienartowicz.tattoo",
+  "instagram_enriched": {
+    "id": "7262135",
+    "follower_count": 12038,
+    "following_count": 814,
+    "media_count": 1424,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mechanicaltattoos/instagram/profile.jpg"
+  }
 }

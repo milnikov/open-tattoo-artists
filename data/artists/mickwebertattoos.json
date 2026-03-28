@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mickwebertattoos",
-  "name": "Mick Weber",
+  "name": "Michael",
   "location": {
     "city": "Warrnambool",
     "country": "Australia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "~•Neo Traditional/Black&Grey realism tattoos\n~•@southerngunstattoo Warrnambool Vic\n~• @a.t.weber ❤️‍🔥❤️‍🔥",
+  "instagram_enriched": {
+    "id": "5159184",
+    "follower_count": 4689,
+    "following_count": 3018,
+    "media_count": 991,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mickwebertattoos/instagram/profile.jpg"
+  }
 }

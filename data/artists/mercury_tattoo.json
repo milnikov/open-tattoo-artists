@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mercury_tattoo",
-  "name": "Mercury Tattoo Studio",
+  "name": "mercury tattoo studio",
   "location": {
     "city": "Doylestown",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Artists\nSuppliers\nAbout\nWelcome to Mercury Tattoo Studio, where timeless tradition meets modern flair in the heart of Doylestown, PA. Here, you'll find dedicated artists like Scott Bramble, Frank Guthier, and Caleb, who specialize in clean, custom tattooing while surrounded by the inspiration of a contemporary art gallery. Come experience the fusion of classic artistry and contemporary style at Mercury Tattoo Studio, where every inked story is a masterpiece.\nPrice: $\nCurrent location: Doylestown, Pennsylvania, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nWelcome to Mercury Tattoo Studio, where timeless tradition meets modern flair in the heart of Doylestown, PA. Here, you'll find dedicated artists like Scott Bramble, Frank Guthier, and Caleb, who specialize in clean, custom tattooing while surrounded by the inspiration of a contemporary art gallery. Come experience the fusion of classic artistry and contemporary style at Mercury Tattoo Studio, where every inked story is a masterpiece.\nPrice: $\nCurrent location: Doylestown, Pennsylvania, United States\n\nLocated in Doylestown, PA. Providing Clean, Custom Tattooing and a Contemporary Art Gallery. @scottbramble @frankguthier 215.5178833",
+  "instagram_enriched": {
+    "id": "4209628117",
+    "follower_count": 1307,
+    "following_count": 199,
+    "media_count": 175,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mercury_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "micky_neko",
-  "name": "Michela",
+  "name": "MIcky Neko Tattoos",
   "location": {
     "city": "Turin",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Co-owner of • @lunargreentattoo • 🏡\nJönköping •sweden• 🇸🇪🇮🇹\nInfo/booking DM \nmickynekotattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "242329807",
+    "follower_count": 5770,
+    "following_count": 1870,
+    "media_count": 670,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/micky_neko/instagram/profile.jpg"
+  }
 }

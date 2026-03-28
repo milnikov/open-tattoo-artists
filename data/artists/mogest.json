@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mogest",
-  "name": "Mogest",
+  "name": "Mog Mogest",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mogest is a highly skilled tattoo artist based in Montrouge, Paris, who specializes in dotwork, floral, and black & gray styles. Their remarkable precision and artistic flair are evident in every design they bring to life on skin. Clients seeking intricate tattoos will find Mogest's portfolio truly impressive and indicative of their exceptional talent within the inked community of Paris, France.\nPrice: $\nCurrent location: Paris, Ile-de-france, France"
+  "updated_at": "2026-03-28",
+  "bio": "Mogest is a highly skilled tattoo artist based in Montrouge, Paris, who specializes in dotwork, floral, and black & gray styles. Their remarkable precision and artistic flair are evident in every design they bring to life on skin. Clients seeking intricate tattoos will find Mogest's portfolio truly impressive and indicative of their exceptional talent within the inked community of Paris, France.\nPrice: $\nCurrent location: Paris, Ile-de-france, France\n\nTattoo artist\n🇫🇷Montrouge 92 • 52 Avenue Henri-Ginoux",
+  "instagram_enriched": {
+    "id": "285730545",
+    "follower_count": 5898,
+    "following_count": 5454,
+    "media_count": 705,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mogest/instagram/profile.jpg"
+  }
 }

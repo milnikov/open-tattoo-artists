@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mini_happiness_tattoo",
-  "name": "Happy Tattooer",
+  "name": "Mini Tattoos",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Happy Tattooer is a highly-skilled and dedicated tattoo artist based in Seoul, Korea, specializing in the minimalist style. Their work shows an incredible level of precision and attention to detail, expertly crafting each design to make the smallest elements shine. Their remarkable talent is evident in every stroke of their tattoo gun.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Happy Tattooer is a highly-skilled and dedicated tattoo artist based in Seoul, Korea, specializing in the minimalist style. Their work shows an incredible level of precision and attention to detail, expertly crafting each design to make the smallest elements shine. Their remarkable talent is evident in every stroke of their tattoo gun.\nPrice: $$\nCurrent location:\n\nHongdae. Seoul. Korea\n_______________________________\n예약 문의👇 // DM ⭕️ // 리터치 무료",
+  "instagram_enriched": {
+    "id": "2057615767",
+    "follower_count": 22576,
+    "following_count": 0,
+    "media_count": 933,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mini_happiness_tattoo/instagram/profile.jpg"
+  }
 }

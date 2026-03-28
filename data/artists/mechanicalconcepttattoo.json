@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mechanicalconcepttattoo",
-  "name": "Mr Lerc",
+  "name": "Mechanical Concept Tattoo",
   "location": {
     "city": "Huntington Beach",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Walk-ins welcome!\n@alaynatattoos\n@billysarno \n@californiatattooartist \n@deters.tattoos \n@rachaelmorticiantattoo",
+  "instagram_enriched": {
+    "id": "17698724",
+    "follower_count": 3502,
+    "following_count": 2190,
+    "media_count": 1593,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mechanicalconcepttattoo/instagram/profile.jpg"
+  }
 }

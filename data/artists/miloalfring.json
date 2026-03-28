@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "miloalfring",
-  "name": "Milo Alfring",
+  "name": "Milo Alfring Tattoo",
   "location": {
     "city": "Evergreen",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Evergreen, CO\nmiloalfring@gmail.com\nBooks open",
+  "instagram_enriched": {
+    "id": "999004715",
+    "follower_count": 30241,
+    "following_count": 1256,
+    "media_count": 265,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miloalfring/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "melvistattoo",
-  "name": "Melvis Tattoo",
+  "name": "Melvis Cavalcanti",
   "location": {
     "city": "Salvador",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "🌼 PONTILHISMO - GEOMÉTRICO - \nTRAÇOS - FLORAIS - ARTE 🌸\n——————————\nAgenda: 🌷\n❌\n——————————",
+  "instagram_enriched": {
+    "id": "294662628",
+    "follower_count": 9416,
+    "following_count": 2672,
+    "media_count": 781,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/melvistattoo/instagram/profile.jpg"
+  }
 }

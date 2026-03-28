@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "melerock_tattoo",
-  "name": "David MeleRock",
+  "name": "David MeleRock | Tattoo Artist",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "David MeleRock is renowned in the tattoo world for his impeccable skill level in a variety of styles, excelling in trashpolka, black & gray, and realism. His dedication to the craft shines through in every meticulous and vibrant design he creates. Clients seeking a visually stunning tattoo will find his artistry and technical proficiency unmatched.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "David MeleRock is renowned in the tattoo world for his impeccable skill level in a variety of styles, excelling in trashpolka, black & gray, and realism. His dedication to the craft shines through in every meticulous and vibrant design he creates. Clients seeking a visually stunning tattoo will find his artistry and technical proficiency unmatched.\nPrice: $\nCurrent location:\n\n⚓️ Lleva una obra de arte única .\n🫀 Tatuando en Cazorla desde 2010.\n🏆 Premios nacionales e internacionales.\n🤝 Escríbeme para pedirme cita.",
+  "instagram_enriched": {
+    "id": "3156152658",
+    "follower_count": 18741,
+    "following_count": 7486,
+    "media_count": 489,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/melerock_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "meehowtattoo",
-  "name": "Meehow Tattoo",
+  "name": "Meehow Kotarski",
   "location": {
     "city": "Gloucester",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "BLACK AND GREY REALISM SPECIALIST 27 years of tattooing experience. Owner of Meehow Tattoo Studio. Gloucester, UK. #meehowtattoo",
+  "instagram_enriched": {
+    "id": "24430556",
+    "follower_count": 33223,
+    "following_count": 1652,
+    "media_count": 125,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/meehowtattoo/instagram/profile.jpg"
+  }
 }

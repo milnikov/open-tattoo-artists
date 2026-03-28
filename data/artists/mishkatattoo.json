@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mishkatattoo",
-  "name": "Mishka Tattoo",
+  "name": "MISHKA TATTOO",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "⛓LONDON⛓ Abstract calligraphy + art nouveau flow @shalladoretattoo @neversaydietattoos 💫",
+  "instagram_enriched": {
+    "id": "1967754455",
+    "follower_count": 6663,
+    "following_count": 1474,
+    "media_count": 263,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mishkatattoo/instagram/profile.jpg"
+  }
 }

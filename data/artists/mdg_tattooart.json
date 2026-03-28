@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mdg_tattooart",
-  "name": "Matteo Di Gregorio [MDG]",
+  "name": "𝑴𝒂𝒕𝒕𝒆𝒐 𝑫𝒊 𝑮𝒓𝒆𝒈𝒐𝒓𝒊𝒐  {𝑴𝑫𝑮}",
   "location": {
     "city": "Livorno",
     "country": "Italy"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "𝑻𝑨𝑻𝑻𝑶𝑶 𝑨𝑹𝑻𝑰𝑺𝑻 \nOwner of the @museum.tattoogallery \nVittoria, RG\nPer info/appuntamenti \nTel. 329 7259274",
+  "instagram_enriched": {
+    "id": "5721174689",
+    "follower_count": 6433,
+    "following_count": 365,
+    "media_count": 426,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mdg_tattooart/instagram/profile.jpg"
+  }
 }

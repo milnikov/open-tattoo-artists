@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mishlatattooillustration",
-  "name": "Mishla",
+  "name": "MISHLA",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mishla is a highly talented tattoo artist in London, specialising in the styles of fineline and black & gray. Known for their delicate and intricate designs, they create mesmerisingly detailed tattoos and illustrations, appreciating a large following of roughly 63,000 on Instagram. With active bookings and a professional approach to their craft, they operate at the respected Red Point Tattoo studio.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Mishla is a highly talented tattoo artist in London, specialising in the styles of fineline and black & gray. Known for their delicate and intricate designs, they create mesmerisingly detailed tattoos and illustrations, appreciating a large following of roughly 63,000 on Instagram. With active bookings and a professional approach to their craft, they operate at the respected Red Point Tattoo studio.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\nTattoos & illustrations\nBookings: \nmishlastuff@gmail.com \n@red_point_tattoo London",
+  "instagram_enriched": {
+    "id": "1769777880",
+    "follower_count": 65770,
+    "following_count": 2666,
+    "media_count": 360,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mishlatattooillustration/instagram/profile.jpg"
+  }
 }

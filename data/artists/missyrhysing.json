@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "missyrhysing",
-  "name": "Missy Rhysing",
+  "name": "missy rhysing",
   "location": {
     "city": "Denver",
     "country": "United States"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Missy Rhysing, a prominent neotraditional tattoo artist from Denver, United States has been showcasing her incredible talent in the field since 2001. She demonstrates immense proficiency through her unique, pre-drawn designs, and is well-known for her occasional 'pop-up' tattooing sessions.\nPrice: $$\nCurrent location: Denver, Colorado, United States",
-  "tattooing_since": "2001"
+  "updated_at": "2026-03-28",
+  "bio": "Missy Rhysing, a prominent neotraditional tattoo artist from Denver, United States has been showcasing her incredible talent in the field since 2001. She demonstrates immense proficiency through her unique, pre-drawn designs, and is well-known for her occasional 'pop-up' tattooing sessions.\nPrice: $$\nCurrent location: Denver, Colorado, United States\n\n•pop-up tattooing sometimes🕳🩸\n•pre-drawn designs only, no custom\n•tattooing since 2001",
+  "tattooing_since": "2001",
+  "instagram_enriched": {
+    "id": "41467195",
+    "follower_count": 15837,
+    "following_count": 60,
+    "media_count": 573,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/missyrhysing/instagram/profile.jpg"
+  }
 }

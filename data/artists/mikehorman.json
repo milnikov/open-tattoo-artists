@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mikehorman",
-  "name": "Mike Horman",
+  "name": "mikehorman",
   "location": {
     "city": "Loveland",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "@redlettertattoo \n♦️LOVELAND COLORADO\n♦️TRADITIONAL, NEO-TRADITIONAL & JAPANESE \n♦️DM OR TEXT 970-397-3187 TO BOOK",
+  "instagram_enriched": {
+    "id": "196676552",
+    "follower_count": 4171,
+    "following_count": 1717,
+    "media_count": 355,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mikehorman/instagram/profile.jpg"
+  }
 }

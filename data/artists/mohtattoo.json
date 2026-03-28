@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mohtattoo",
-  "name": "Moh Tattoo",
+  "name": "MOH Tattoo Art ☆☆☆☆☆",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Jabaquara - São Paulo\nTatuagem since 2012\nEspecialista em reformas, sombreado e traço fino. Mande sua ideia e faça sua ARTE",
+  "instagram_enriched": {
+    "id": "7116128058",
+    "follower_count": 854,
+    "following_count": 1515,
+    "media_count": 126,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mohtattoo/instagram/profile.jpg"
+  }
 }

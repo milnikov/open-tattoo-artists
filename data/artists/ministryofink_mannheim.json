@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ministryofink_mannheim",
-  "name": "Ministry of Ink",
+  "name": "Ministry of Ink / Tattoo Studio",
   "location": {
     "city": "Mannheim",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "📍Located in Mannheim, Germany.\n🥇All styles. Highest quality.\n📲 For bookings:",
+  "instagram_enriched": {
+    "id": "5568686772",
+    "follower_count": 26758,
+    "following_count": 1001,
+    "media_count": 4013,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ministryofink_mannheim/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "milanocityink",
-  "name": "Milano City Ink",
+  "name": "M I L A N O  C I T Y  I N K",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Est.2009, dal martedì al sabato.\n☎️ 02-89452953\n📩 info@milanocityink.com",
+  "instagram_enriched": {
+    "id": "1422684680",
+    "follower_count": 37788,
+    "following_count": 529,
+    "media_count": 6169,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/milanocityink/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "minimalista_tattoo",
-  "name": "Buena Vibra Tattoo",
+  "name": "Buena_vibra_tattoo",
   "location": {
     "city": "Tijuana",
     "country": "Mexico"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Buena Vibra Tattoo is renowned for their exceptional skill in creating minimalist, lettering, and fine line tattoos. Clients flock to their Tijuana, Mexico studio for the pristine precision and artistic flair they bring to every design. Their reputation for expertise in these delicate styles places them among the top tattoo artists in the region.\nPrice: $\nCurrent location: Tijuana, Baja California, Mexico"
+  "updated_at": "2026-03-28",
+  "bio": "Buena Vibra Tattoo is renowned for their exceptional skill in creating minimalist, lettering, and fine line tattoos. Clients flock to their Tijuana, Mexico studio for the pristine precision and artistic flair they bring to every design. Their reputation for expertise in these delicate styles places them among the top tattoo artists in the region.\nPrice: $\nCurrent location: Tijuana, Baja California, Mexico",
+  "instagram_enriched": {
+    "id": "20206813001",
+    "follower_count": 1668,
+    "following_count": 27,
+    "media_count": 158,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/minimalista_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mike_avena",
-  "name": "Mike Avena",
+  "name": "MIKE AVENA Stone Temple Tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Owner/Artist\n@stonetempletattoo Shop:714-497-7324. 626-422-0531.",
+  "instagram_enriched": {
+    "id": "196563456",
+    "follower_count": 10463,
+    "following_count": 1148,
+    "media_count": 477,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mike_avena/instagram/profile.jpg"
+  }
 }

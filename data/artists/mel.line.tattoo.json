@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mel.line.tattoo",
-  "name": "Mel Huwe",
+  "name": "Mel Huwe Tattoo",
   "location": {
     "city": "Santa Cruz Do Sul",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Mel Huwe is an exquisite tattoo artist based in Santa Cruz do Sul, Brazil who specializes in fine line, lettering, and delicate floral designs. Her incredible skill level can be assessed by her ability to create intricate and hyper-delicate floral designs that exhibit profound attention to detail and artistry.\nPrice: $$\nCurrent location: Santa Cruz Do Sul, Rio Grande Do Sul, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Mel Huwe is an exquisite tattoo artist based in Santa Cruz do Sul, Brazil who specializes in fine line, lettering, and delicate floral designs. Her incredible skill level can be assessed by her ability to create intricate and hyper-delicate floral designs that exhibit profound attention to detail and artistry.\nPrice: $$\nCurrent location: Santa Cruz Do Sul, Rio Grande Do Sul, Brazil\n\n📍Santa Cruz do Sul - 7 de setembro, 327. \n🤍 Tatuadora especializada em florais hiperdelicados e artes em linhas finas. \n🤍 Orçamentos via direct.",
+  "instagram_enriched": {
+    "id": "3210141325",
+    "follower_count": 21235,
+    "following_count": 3909,
+    "media_count": 687,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mel.line.tattoo/instagram/profile.jpg"
+  }
 }

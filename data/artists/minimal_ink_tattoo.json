@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "minimal_ink_tattoo",
-  "name": "Rupe Tattooer",
+  "name": "Porto Tattoo & Art Studio",
   "location": {
     "city": "Porto",
     "country": "Portugal"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Artists\nSuppliers\nAbout\nRupe Tattooer is a distinguished and specialized tattoo studio located in the vibrant city of Porto, Portugal. Emphasizing the artistry in minimalist, fineline, and illustrative designs, they transform simple ideas into distinct and personal pieces of body art. The artistically inviting environment and the dedicated artists ensure a unique and intimate experience to every tattoo enthusiast.\nPrice: $$\nCurrent location: Porto, Portugal"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nRupe Tattooer is a distinguished and specialized tattoo studio located in the vibrant city of Porto, Portugal. Emphasizing the artistry in minimalist, fineline, and illustrative designs, they transform simple ideas into distinct and personal pieces of body art. The artistically inviting environment and the dedicated artists ensure a unique and intimate experience to every tattoo enthusiast.\nPrice: $$\nCurrent location: Porto, Portugal\n\nMINIMAL INK — Porto Tattoo · Art Private Studio\n≋ Walk-ins welcome ≋\n≋ Fineline · Geometric · Art Tattoo\n≋ Monday to Saturday - 10:30-17:00",
+  "instagram_enriched": {
+    "id": "48523627",
+    "follower_count": 21683,
+    "following_count": 369,
+    "media_count": 1247,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/minimal_ink_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "miss_preciouss",
-  "name": "Francesca 💎 Tattoo",
+  "name": "Miss Preciouss Tattoo",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "✩ 𝑷𝒓𝒆𝒄𝒊𝒐𝒖𝒔𝒔 𝑻𝒂𝒕𝒕𝒐𝒐𝒔 ✩ ₊˚\nSponsored @yilongtattooing @tigerspitbalm \nGet my Travel & Tattoo Guide ↓",
+  "instagram_enriched": {
+    "id": "264697595",
+    "follower_count": 134741,
+    "following_count": 2466,
+    "media_count": 1401,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miss_preciouss/instagram/profile.jpg"
+  }
 }

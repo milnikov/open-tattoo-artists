@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "michaldetka",
-  "name": "Michal Detka",
+  "name": "Realism Tattooer",
   "location": {
     "city": "Liverpool",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "♎️🔶 Tattoo Artist & Owner @tabasco.ink\n🎨 Black & Grey + Colour Realism\n📅 Limited slots available \n🤝 Open to collabs & guest spots\n📍 Liverpool, UK",
+  "instagram_enriched": {
+    "id": "416754757",
+    "follower_count": 2827,
+    "following_count": 2197,
+    "media_count": 754,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/michaldetka/instagram/profile.jpg"
+  }
 }

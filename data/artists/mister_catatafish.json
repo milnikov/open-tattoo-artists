@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mister_catatafish",
-  "name": "Armin Primig 🐙",
+  "name": "Armin Primig | AnimeTattoo 🇦🇹",
   "location": {
     "city": "Villach",
     "country": "Austria"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Anime | Games | Disney \nKame Haaameee HAAAAAAAAA 😁",
+  "instagram_enriched": {
+    "id": "3222609325",
+    "follower_count": 6107,
+    "following_count": 1026,
+    "media_count": 327,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mister_catatafish/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mitotattoos",
-  "name": "Mito Tattoos",
+  "name": "MITO TATTOO STUDIO",
   "location": {
     "city": "Medellin",
     "country": "Colombia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Since 2004\n📍Cra 81 # 32 - 75-Medellín - Villa de aburrá\n📱301 217 9612 \n@mito_piercing perforaciones \n@mito_live  nuestro parche 🤘🏻",
+  "instagram_enriched": {
+    "id": "207032595",
+    "follower_count": 38632,
+    "following_count": 485,
+    "media_count": 1050,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mitotattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "miguel_delcuadro",
-  "name": "Miguel del Cuadro",
+  "name": "Miguel del Cuadro Madueño",
   "location": {
     "city": "San Juan",
     "country": "Puerto Rico"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "📍@salgadoartcompany 🇵🇪 🇵🇷 🏝️ \nWhatsApp +1 (787) 664-3113\n📩 delcuadroart@gmail.com\n@fkirons",
+  "instagram_enriched": {
+    "id": "322002782",
+    "follower_count": 27545,
+    "following_count": 1316,
+    "media_count": 275,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/miguel_delcuadro/instagram/profile.jpg"
+  }
 }

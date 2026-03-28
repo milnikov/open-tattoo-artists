@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "metaldogtattoo",
-  "name": "MetalDog Tattoo",
+  "name": "Metal Dog Tattoo",
   "location": {
     "city": "Fortaleza",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Desde 2015 - Tattoos autênticas com conteúdo, criatividade e responsabilidade.\nAgenda teu horário\n👇Whatsapp no link abaixo ou  (85) 9.9987.7326",
+  "instagram_enriched": {
+    "id": "1637318737",
+    "follower_count": 13577,
+    "following_count": 294,
+    "media_count": 3175,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/metaldogtattoo/instagram/profile.jpg"
+  }
 }

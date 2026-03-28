@@ -616,7 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
+  "updated_at": "2026-03-28",
   "bio": "Nestled in the heart of Miami, Miami Tattoo and Co is an award-winning tattoo studio, celebrated since 2003. Renowned for their exquisite fineline style, the studio offers a modern, inspiring environment, ensuring every visit is an unforgettable tattoo experience.\nPrice: $$\nCurrent location: Miami, Florida, United States",
-  "tattooing_since": "2003"
+  "tattooing_since": "2003",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maze_garcia",
-  "name": "Maze Garcia",
+  "name": "maze",
   "location": {
     "city": "Denver",
     "country": "United States"
@@ -149,6 +149,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Maze Garcia is a highly skilled tattoo artist specializing in black & gray and realism styles, based in Denver, United States. Their meticulous attention to detail and mastery of shading techniques have earned them a stellar reputation among aficionados seeking truly lifelike designs. Clients will find Maze’s professionalism reflected not only in their exceptional artwork but also in the spotless and hygienic environment of Chakra Tattoo, ensuring a safe and comfortable tattooing experience.\nPrice: $\nCurrent location: Denver, Colorado, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Maze Garcia is a highly skilled tattoo artist specializing in black & gray and realism styles, based in Denver, United States. Their meticulous attention to detail and mastery of shading techniques have earned them a stellar reputation among aficionados seeking truly lifelike designs. Clients will find Maze’s professionalism reflected not only in their exceptional artwork but also in the spotless and hygienic environment of Chakra Tattoo, ensuring a safe and comfortable tattooing experience.\nPrice: $\nCurrent location: Denver, Colorado, United States\n\nShop 720 508 3924 Chakra Tattoo",
+  "instagram_enriched": {
+    "id": "229759791",
+    "follower_count": 2582,
+    "following_count": 920,
+    "media_count": 53,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maze_garcia/instagram/profile.jpg"
+  }
 }
