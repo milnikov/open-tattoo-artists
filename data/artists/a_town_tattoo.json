@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "a_town_tattoo",
-  "name": "Siiliufau",
+  "name": "A-Town Tattoo",
   "location": {
     "city": "Garden Grove",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-02",
-  "bio": "Siiliufau is a highly skilled tattoo artist, specializing in tribal styles, based in Garden Grove, United States. They work on an appointment-only basis, maintaining a high level of professionalism that ensures every design is meticulously crafted and each client's experience is exclusive and well-managed.\nPrice: $$\nCurrent location: Garden Grove, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Siiliufau is a highly skilled tattoo artist, specializing in tribal styles, based in Garden Grove, United States. They work on an appointment-only basis, maintaining a high level of professionalism that ensures every design is meticulously crafted and each client's experience is exclusive and well-managed.\nPrice: $$\nCurrent location: Garden Grove, California, United States\n\n•Garden Grove, CA \n•Artists for Tatau, Polynesian, Fine Line, Custom Art & More\n•Owner @suluape_siiliufau \n•Piercings: @a_town_piercings",
+  "instagram_enriched": {
+    "id": "522587205",
+    "follower_count": 24988,
+    "following_count": 364,
+    "media_count": 2186,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a_town_tattoo/instagram/profile.jpg"
+  }
 }

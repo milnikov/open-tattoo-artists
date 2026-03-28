@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "all.tatto_o",
-  "name": "alltatto_o",
+  "name": "tattoo",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "alltatto_o is a tattoo artist based in Moscow, Russia, who specializes in stunning realism and black & gray tattoos. They are known for their extraordinary skill level, effortlessly capturing lifelike detail and depth in every piece they craft. Clients rave about the precision and artistry alltatto_o brings to their tattoos, making them a sought-after artist for anyone seeking top-tier realistic ink.\nPrice: $\nCurrent location: Moscow, Central Federal District, Russia"
+  "updated_at": "2026-03-28",
+  "bio": "alltatto_o is a tattoo artist based in Moscow, Russia, who specializes in stunning realism and black & gray tattoos. They are known for their extraordinary skill level, effortlessly capturing lifelike detail and depth in every piece they craft. Clients rave about the precision and artistry alltatto_o brings to their tattoos, making them a sought-after artist for anyone seeking top-tier realistic ink.\nPrice: $\nCurrent location: Moscow, Central Federal District, Russia",
+  "instagram_enriched": {
+    "id": "11812868744",
+    "follower_count": 1332,
+    "following_count": 35,
+    "media_count": 95,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/all.tatto_o/instagram/profile.jpg"
+  }
 }

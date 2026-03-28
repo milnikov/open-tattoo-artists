@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "152tattoo",
-  "name": "Katya Ponomarenko",
+  "name": "Abstract tattoos",
   "location": {
     "city": "Odesa",
     "country": "Ukraine"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
-  "bio": "Katya Ponomarenko is a highly skilled tattoo artist specialized in minimalist, illustrative, and lettering styles, located in Odesa, Ukraine. With her renowned proficiency that has taken her from Berlin to Amsterdam, Paris, and Copenhagen, Katya's artistry consistently impresses all who book with her.",
-  "verified": "artist"
+  "updated_at": "2026-03-28",
+  "bio": "Katya Ponomarenko is a highly skilled tattoo artist specialized in minimalist, illustrative, and lettering styles, located in Odesa, Ukraine. With her renowned proficiency that has taken her from Berlin to Amsterdam, Paris, and Copenhagen, Katya's artistry consistently impresses all who book with her.\n\nAMSTERDAM 3 — 5.04\nHAMBURG 10 — 12.04",
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "8055965457",
+    "follower_count": 14985,
+    "following_count": 147,
+    "media_count": 962,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/152tattoo/instagram/profile.jpg"
+  }
 }

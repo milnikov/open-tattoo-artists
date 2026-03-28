@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "noccerstattoos",
+  "name": "Lee Nocivelli",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "trashpolka",
+    "black&gray",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/noccerstattoos",
+    "instagram": "https://www.instagram.com/noccerstattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noccerstattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noccerstattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noccerstattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noccerstattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Lee Nocivelli is a highly-skilled tattoo artist specializing in neotraditional, trash polka, black & gray, and coverup styles. As the owner and leading artist at Noccers Tattoos located at 107 Commercial Street Newport, Lee maintains a sterling reputation for impeccable cleanliness, ensuring each client's experience is as safe and hygienic as it is artistically fulfilling. If you're looking to transform your vision into stunning ink, Lee's expertise is guaranteed to deliver exceptional results.\nPrice: $\nCurrent location:"
+}

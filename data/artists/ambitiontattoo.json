@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ambitiontattoo",
-  "name": "Aaron Smith",
+  "name": "Ambition Tattoo",
   "location": {
     "city": "Knoxville",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "Aaron Smith is a highly skilled tattoo artist based in Knoxville, United States, who specializes in black & gray, traditional, and neotraditional styles. Aaron's professionalism is evident in each piece of art he creates, ensuring that his clients are always satisfied with the exquisite attention to detail and the quality of work. His reputation for delivering stunning tattoos is matched by his dedication to maintaining a clean and safe tattooing environment for all his clients.\nPrice: $\nCurrent location: Knoxville, Tennessee, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Aaron Smith is a highly skilled tattoo artist based in Knoxville, United States, who specializes in black & gray, traditional, and neotraditional styles. Aaron's professionalism is evident in each piece of art he creates, ensuring that his clients are always satisfied with the exquisite attention to detail and the quality of work. His reputation for delivering stunning tattoos is matched by his dedication to maintaining a clean and safe tattooing environment for all his clients.\nPrice: $\nCurrent location: Knoxville, Tennessee, United States",
+  "instagram_enriched": {
+    "id": "1397638248",
+    "follower_count": 5012,
+    "following_count": 190,
+    "media_count": 1035,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ambitiontattoo/instagram/profile.jpg"
+  }
 }

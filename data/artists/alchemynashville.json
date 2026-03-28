@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alchemynashville",
-  "name": "Alchemy Nashville",
+  "name": "Alchemy Nashville Tattoo Studio",
   "location": {
     "city": "Nashville",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "Alchemy Nashville is a vibrant new-school tattoo studio nestled in the heart of Nashville, United States. Famous for their unique, out-of-the-box designs, our talented artists Tai, Devon, Heather, and Julian transform your ideas into body art masterpieces that speak volumes about your individuality. Step into our studio and let the alchemy of art and personality begin.\nPrice: $$\nCurrent location: Nashville, Tennessee, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Alchemy Nashville is a vibrant new-school tattoo studio nestled in the heart of Nashville, United States. Famous for their unique, out-of-the-box designs, our talented artists Tai, Devon, Heather, and Julian transform your ideas into body art masterpieces that speak volumes about your individuality. Step into our studio and let the alchemy of art and personality begin.\nPrice: $$\nCurrent location: Nashville, Tennessee, United States\n\n🌈 queer owned @taiotattoos and @inkbyhb @casey_does_tattoos \nText (615)618-6335 to book",
+  "instagram_enriched": {
+    "id": "255387284",
+    "follower_count": 11773,
+    "following_count": 1872,
+    "media_count": 347,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alchemynashville/instagram/profile.jpg"
+  }
 }

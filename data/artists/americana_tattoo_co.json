@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "americana_tattoo_co",
-  "name": "Americana Tattoo Co",
+  "name": "WorldFamousAmericanaTattooCo",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "Americana Tattoo Co, located in vibrant Las Vegas, is a premier tattoo studio specializing in awe-inspiring realism tattoos. With a diverse crew of experienced artists, they welcome walk-ins and offer services in both English and Spanish, cultivating an inclusive, welcoming environment for everyone. Their artistry thrives on making your tattoo dreams come alive with precision and finesse.\nPrice: $$\nCurrent location: Las Vegas, Nevada, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Americana Tattoo Co, located in vibrant Las Vegas, is a premier tattoo studio specializing in awe-inspiring realism tattoos. With a diverse crew of experienced artists, they welcome walk-ins and offer services in both English and Spanish, cultivating an inclusive, welcoming environment for everyone. Their artistry thrives on making your tattoo dreams come alive with precision and finesse.\nPrice: $$\nCurrent location: Las Vegas, Nevada, United States",
+  "instagram_enriched": {
+    "id": "182002337",
+    "follower_count": 23398,
+    "following_count": 6945,
+    "media_count": 4025,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/americana_tattoo_co/instagram/profile.jpg"
+  }
 }

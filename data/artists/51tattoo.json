@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "51tattoo",
-  "name": "51 Tattoo",
+  "name": "AREA 51 TATTOO",
   "location": {
     "city": "Muskegon",
     "country": "United States"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
-  "bio": "Step into the creative haven of 51 Tattoo, a Muskegon staple in the ink world since 1999. Specializing in traditional, illustrative, and floral tattoos, our talented artists - @alientat2, @uglytat2betty, @instagriz, and @michael.s.villanueva - craft each piece with passion and precision. We welcome walk-ins and thrive on diversity, inviting you to get inked in our vibrant studio from Tuesday to Saturday, 11 AM to 7 PM.",
-  "tattooing_since": "1999"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the creative haven of 51 Tattoo, a Muskegon staple in the ink world since 1999. Specializing in traditional, illustrative, and floral tattoos, our talented artists - @alientat2, @uglytat2betty, @instagriz, and @michael.s.villanueva - craft each piece with passion and precision. We welcome walk-ins and thrive on diversity, inviting you to get inked in our vibrant studio from Tuesday to Saturday, 11 AM to 7 PM.\n\nEst. 1999 ✯ Open Tues-Sat 11-7 ✯ Walk-ins welcome\n@alientat2 @instagriz @prophettravis",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "15529125",
+    "follower_count": 2106,
+    "following_count": 135,
+    "media_count": 692,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/51tattoo/instagram/profile.jpg"
+  }
 }

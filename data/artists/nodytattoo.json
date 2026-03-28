@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "nodytattoo",
+  "name": "Istvan Notdi",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka",
+    "coverup",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/nodytattoo",
+    "instagram": "https://www.instagram.com/nodytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nodytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nodytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nodytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nodytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Istvan Notdi is a highly skilled tattoo artist who specializes in realism, black & gray, trashpolka, and coverup styles. Renowned for his extraordinary attention to detail, Notdi also extends his conscientiousness to the materials used in his craft, boasting a unique approach as a vegan tattoo artist. His dedication to his artistry is reflected not only in his technique but also in the cultural and ethical considerations he takes in his work.\nPrice: $$\nCurrent location:"
+}

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "1pointtattoo",
-  "name": "1PointTattoo",
+  "name": "1 Point Tattoo",
   "location": {
     "city": "Honolulu",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
-  "bio": "1PointTattoo is a top-rated tattoo artist based in Honolulu, United States, adept in neotraditional and tribal styles. Their exceptional skills extend beyond tattooing, into areas like laser tattoo removal and scalp micro-pigmentation, demonstrating their comprehensive approach to body artistry. They passionately build relationships through art, evidencing their dedication to customer satisfaction and creative professionalism.",
-  "verified": "studio"
+  "updated_at": "2026-03-28",
+  "bio": "1PointTattoo is a top-rated tattoo artist based in Honolulu, United States, adept in neotraditional and tribal styles. Their exceptional skills extend beyond tattooing, into areas like laser tattoo removal and scalp micro-pigmentation, demonstrating their comprehensive approach to body artistry. They passionately build relationships through art, evidencing their dedication to customer satisfaction and creative professionalism.\n\nBuilding Relationships Through Art\nAward-Winning Tattoo Studio\n⚡️Laser Tattoo Removal\n💆‍♂️ Scalp Micro Pigmentation\n📍 Kailua, Oahu - Click ⬇️ 📧 DM Us",
+  "verified": "studio",
+  "instagram_enriched": {
+    "id": "3245703349",
+    "follower_count": 12083,
+    "following_count": 1953,
+    "media_count": 617,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/1pointtattoo/instagram/profile.jpg"
+  }
 }

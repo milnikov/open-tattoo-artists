@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "nolc",
+  "name": "Nol C",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/nolc",
+    "instagram": "https://www.instagram.com/nolc/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nolc/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nolc/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nolc/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nolc/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Nol C is a highly skilled tattoo artist based in New York City, with a special mastery in sketch and dotwork styles. Known for his immaculate attention to detail, Nol C's professionalism is exemplified through his orderly booking, cancelation, and rescheduling processes, ensuring customer satisfaction and convenience at all times.\nPrice: $$\nCurrent location:"
+}

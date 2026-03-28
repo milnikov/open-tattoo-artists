@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "officina.tattoo",
+  "name": "Officina Tattoo Barber",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/officina.tattoo",
+    "instagram": "https://www.instagram.com/officina.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/officina.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/officina.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/officina.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/officina.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Welcome to Officina Tattoo Barber, where intricate precision meets timeless style. Specializing in the meticulous dotwork technique, our team of artists, featuring the exceptional skills of @beppe.dot, @jose_peris98, and the fine microblading craft of @barreiros_beauty, invites you to a unique body art experience. Join us Monday to Saturday from 11 am to 8 pm and step into an emporium of creativity and personal expression.\nPrice: $\nCurrent location:"
+}

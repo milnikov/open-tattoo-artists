@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "og_spider",
+  "name": "Spider Johnson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/og_spider",
+    "instagram": "https://www.instagram.com/og_spider/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/og_spider/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/og_spider/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/og_spider/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/og_spider/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Spider Johnson is a highly skilled tattoo artist, specializing in the detailed and intricate styles of realism, black & gray. His professionalism is evident in his approach towards work, meticulously booking full day sessions only, to ensure each masterpiece is given the right amount of time and attention it deserves. His unique focus on new custom tattoo work and portraits showcases his creativity and precision in every piece he does.\nPrice: $$\nCurrent location:"
+}

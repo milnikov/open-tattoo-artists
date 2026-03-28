@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ogozzi",
+  "name": "Carlos Gomez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ogozzi",
+    "instagram": "https://www.instagram.com/ogozzi/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ogozzi/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ogozzi/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ogozzi/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ogozzi/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Carlos Gomez is a highly skilled tattoo artist specializing in black & gray and realism, creating pieces that are as intricate as they are stunning. Clients have consistently praised Carlos for maintaining an impeccable standard of cleanliness, ensuring a safe and hygienic environment for every tattoo session. His commitment to cleanliness is matched only by his breathtaking artistry on skin.\nPrice: $\nCurrent location:"
+}

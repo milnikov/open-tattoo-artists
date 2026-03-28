@@ -616,7 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
+  "updated_at": "2026-03-28",
   "bio": "Aleksandra Katsan is a highly skilled watercolor tattoo artist based in Kyiv, Ukraine. With her vast experience that dates back to 2012, she renders visually stunning watercolor tattoos that beautifully exemplify her profound ability. Harnessing a profound social media presence, she has attracted around 51,000 followers on Instagram, all charmed by her unique and vibrant style.\nPrice: $$\nCurrent location: Kyiv, Ukraine",
-  "verified": "artist"
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

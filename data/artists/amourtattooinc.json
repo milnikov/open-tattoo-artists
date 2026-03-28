@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "amourtattooinc",
-  "name": "Amour Tattoo, Inc",
+  "name": "Amour Tattoo, Inc.",
   "location": {
     "city": "Manassas",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "\"Discover your next masterpiece at Amour Tattoo, Inc, nestled in the heart of Manassas, where the art of ink meets individuality. Our skilled artists specialize in exquisite lettering, deep black & gray shades, and intricate tribal tattoos, alongside expert piercings and permanent makeup services. Walk-ins are always welcome, or call to schedule an appointment for a personalized consultation and transform your vision into a lasting impression.\"\nPrice: $\nCurrent location: Manassas, Virginia, United States"
+  "updated_at": "2026-03-28",
+  "bio": "\"Discover your next masterpiece at Amour Tattoo, Inc, nestled in the heart of Manassas, where the art of ink meets individuality. Our skilled artists specialize in exquisite lettering, deep black & gray shades, and intricate tribal tattoos, alongside expert piercings and permanent makeup services. Walk-ins are always welcome, or call to schedule an appointment for a personalized consultation and transform your vision into a lasting impression.\"\nPrice: $\nCurrent location: Manassas, Virginia, United States\n\nWalk ins welcome! \nCall for appointments/questions \nSpecialize in \n- tattoos\n- piercings \n- permanent makeup",
+  "instagram_enriched": {
+    "id": "3563768102",
+    "follower_count": 2611,
+    "following_count": 581,
+    "media_count": 1301,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/amourtattooinc/instagram/profile.jpg"
+  }
 }

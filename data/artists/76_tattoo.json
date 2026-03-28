@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "76_tattoo",
-  "name": "Kristin",
+  "name": "76tattoo",
   "location": {
     "city": "Erie",
     "country": "United States"
@@ -460,6 +460,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-01",
-  "bio": "Kristin is a highly skilled tattoo artist specializing in traditional styles, known for their stunning work and attention to detail. Located in Erie, United States, they maintain an immaculate studio, ensuring every client's safety and comfort with the highest standards of cleanliness. To experience Kristin's artistry, you can call 814-790-5830 to schedule your appointment."
+  "updated_at": "2026-03-28",
+  "bio": "Kristin is a highly skilled tattoo artist specializing in traditional styles, known for their stunning work and attention to detail. Located in Erie, United States, they maintain an immaculate studio, ensuring every client's safety and comfort with the highest standards of cleanliness. To experience Kristin's artistry, you can call 814-790-5830 to schedule your appointment.\n\nOpen Monday-Saturday 12pm-8pm\n814-790-5830\nCALL TO SCHEDULE",
+  "instagram_enriched": {
+    "id": "8890135899",
+    "follower_count": 751,
+    "following_count": 80,
+    "media_count": 198,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/76_tattoo/instagram/profile.jpg"
+  }
 }

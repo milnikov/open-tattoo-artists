@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "onichuy",
+  "name": "Onichuy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/onichuy",
+    "instagram": "https://www.instagram.com/onichuy/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onichuy/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onichuy/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onichuy/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onichuy/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "Onichuy is an incredibly skilled tattoo artist, renowned for mastering the intricate and symbolic Japanese style of tattoos. Maintaining a high level of professionalism in all of his work, Onichuy ensures a clean workspace and prides himself on his ability to create tattoos that stand out for their quality and attention to detail. His friendliness and politeness make him an exemplary figure in the tattoo industry, beloved by clients for his talent and demeanor."
+}

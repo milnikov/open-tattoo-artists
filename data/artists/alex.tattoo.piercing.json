@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "alex.tattoo.piercing",
-  "name": "Alex",
+  "name": "alex tattoo & piercing",
   "location": {
     "city": "Mainburg",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-03",
-  "bio": "Alex, a talented tattoo artist based in Mainburg, Germany, specializes in the intricate and striking styles of black & gray and trashpolka. They are known for maintaining an exceptionally clean and hygienic workspace, ensuring the highest standards are met for every client's safety and peace of mind. Trust Alex for a pristine and professional tattoo experience that prioritizes cleanliness as much as artistry.\nPrice: $\nCurrent location: Mainburg, Bavaria, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Alex, a talented tattoo artist based in Mainburg, Germany, specializes in the intricate and striking styles of black & gray and trashpolka. They are known for maintaining an exceptionally clean and hygienic workspace, ensuring the highest standards are met for every client's safety and peace of mind. Trust Alex for a pristine and professional tattoo experience that prioritizes cleanliness as much as artistry.\nPrice: $\nCurrent location: Mainburg, Bavaria, Germany\n\nMo - Do  •   13 - 17 Uhr",
+  "instagram_enriched": {
+    "id": "3018147324",
+    "follower_count": 1470,
+    "following_count": 31,
+    "media_count": 1707,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/alex.tattoo.piercing/instagram/profile.jpg"
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "osc_tattoo",
+  "name": "Oscar (Osc)",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/osc_tattoo",
+    "instagram": "https://www.instagram.com/osc_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/osc_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/osc_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/osc_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/osc_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-27",
+  "bio": "'OSC' Tattoo Studio, located in the heart of the Black Country on Lower High Street, is a traditional tattoo haven in Stourbridge, West Midlands. With a reputation for maintaining the integrity of the traditional tattoo artform, 'Oscar' offers an immersive inking experience in an atmosphere that blends old-world charm with modern hygiene practices.\nPrice: $$\nCurrent location:"
+}
