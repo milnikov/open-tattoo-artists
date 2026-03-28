@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joffertattoo",
-  "name": "Joffer Ioffe",
+  "name": "tattoo artist",
   "location": {
     "city": "Tel Aviv-yafo",
     "country": "Israel"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Joffer Ioffe stands out in the tattoo scene of Tel Aviv-Yafo, Israel, with a distinctive flair for 'newschool' designs and masterful cover-up work. Known for their unique approach, Joffer creates stunning tattoo artistry solely free-hand, showcasing an exceptional skill level that breathes new life into each canvas. Clients seeking transformative and personalized tattoos will find Joffer's talents incomparable in the region.\nPrice: $\nCurrent location: Tel Aviv-yafo, Tel Aviv, Israel"
+  "updated_at": "2026-03-28",
+  "bio": "Joffer Ioffe stands out in the tattoo scene of Tel Aviv-Yafo, Israel, with a distinctive flair for 'newschool' designs and masterful cover-up work. Known for their unique approach, Joffer creates stunning tattoo artistry solely free-hand, showcasing an exceptional skill level that breathes new life into each canvas. Clients seeking transformative and personalized tattoos will find Joffer's talents incomparable in the region.\nPrice: $\nCurrent location: Tel Aviv-yafo, Tel Aviv, Israel\n\nAleksei Ioffe\n🖌️  free-hand only\n🖌️ Cover-ups without laser",
+  "instagram_enriched": {
+    "id": "184126037",
+    "follower_count": 6808,
+    "following_count": 373,
+    "media_count": 1301,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joffertattoo/instagram/profile.jpg"
+  }
 }

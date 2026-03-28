@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joes.tattoo",
-  "name": "Joe",
+  "name": "Joe's Tattoo Studio",
   "location": {
     "city": "Gossau",
     "country": "Switzerland"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Welcome to Joe's Art Tattoo Studio, Gossau's premier destination for exquisite black & gray inkwork where artistry meets precision. Nestled in the heart of Switzerland, Joe's studio offers a tranquil, contemporary space that invites inspiration and promotes a serene tattooing experience. Discover Joe's distinctive style and dedication to craftsmanship at http://www.joesart.ch.\nPrice: $\nCurrent location: Gossau, Zurich, Switzerland"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Joe's Art Tattoo Studio, Gossau's premier destination for exquisite black & gray inkwork where artistry meets precision. Nestled in the heart of Switzerland, Joe's studio offers a tranquil, contemporary space that invites inspiration and promotes a serene tattooing experience. Discover Joe's distinctive style and dedication to craftsmanship at http://www.joesart.ch.\nPrice: $\nCurrent location: Gossau, Zurich, Switzerland\n\nhttp://www.joesart.ch",
+  "instagram_enriched": {
+    "id": "5910406075",
+    "follower_count": 636,
+    "following_count": 389,
+    "media_count": 253,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joes.tattoo/instagram/profile.jpg"
+  }
 }

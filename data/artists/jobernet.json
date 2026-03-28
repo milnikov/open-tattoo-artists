@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jobernet",
-  "name": "Johann Bernhardt",
+  "name": "Steel Workshop",
   "location": {
     "city": "Morat",
     "country": "Switzerland"
@@ -604,6 +604,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Artists\nSuppliers\nAbout\nNestled in the picturesque town of Morat, Switzerland, Johann Bernhardt's tattoo studio is a haven for aficionados of the vibrant trashpolka style. Established in 2005 and proudly partnered with @killerinktattoo, this studio blends impeccable Swiss precision with the rebellious spirit of the artform, offering patrons a unique ink experience that's as bold and eclectic as the designs it brings to life.\nPrice: $$\nCurrent location: Morat, Fribourg, Switzerland"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nNestled in the picturesque town of Morat, Switzerland, Johann Bernhardt's tattoo studio is a haven for aficionados of the vibrant trashpolka style. Established in 2005 and proudly partnered with @killerinktattoo, this studio blends impeccable Swiss precision with the rebellious spirit of the artform, offering patrons a unique ink experience that's as bold and eclectic as the designs it brings to life.\nPrice: $$\nCurrent location: Morat, Fribourg, Switzerland\n\nSince 2005",
+  "instagram_enriched": {
+    "id": "209953162",
+    "follower_count": 8557,
+    "following_count": 962,
+    "media_count": 152,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jobernet/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kaho.tattoo",
-  "name": "KaHo Tattoo",
+  "name": "𝗞𝗮𝗛𝗼 𝗧𝗮𝘁𝘁𝗼𝗼 & 𝗣𝗶𝗲𝗿𝗰𝗶𝗻𝗴 𝘀𝘁𝘂𝗱𝗶𝗼 - 𝑜𝒻𝒻𝒾𝒸𝒾𝒶𝓁",
   "location": {
     "city": "Usti Nad Labem",
     "country": "Czech Republic"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Artists\nSuppliers\nAbout\nWelcome to KaHo Tattoo, a creative enclave nestled in the heart of Ústí nad Labem, Czech Republic, where the canvas of skin is transformed by the vibrant strokes of watercolor and intricate illustrative designs. Since 2018, our dedicated tattooers Houdy.n, Black.medusa_tattoo, and piercer Tereza.nowhere, have been merging art and individuality, crafting personalized body art in a studio where expression and precision come alive.\nPrice: $\nCurrent location: Usti Nad Labem, Ústecký Kraj, Czech Republic",
-  "tattooing_since": "2018"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nWelcome to KaHo Tattoo, a creative enclave nestled in the heart of Ústí nad Labem, Czech Republic, where the canvas of skin is transformed by the vibrant strokes of watercolor and intricate illustrative designs. Since 2018, our dedicated tattooers Houdy.n, Black.medusa_tattoo, and piercer Tereza.nowhere, have been merging art and individuality, crafting personalized body art in a studio where expression and precision come alive.\nPrice: $\nCurrent location: Usti Nad Labem, Ústecký Kraj, Czech Republic\n\n📍ÚSTÍ NAD LABEM\n▪️ @tereza.nowhere\n▪️ @baracuda_tattoo | @shd_tattoo | @twigiprochazka \n▪️𝗣𝗥𝗢𝗝𝗘𝗖𝗧 @finding.event\n▪️ @dafuq.streetwear",
+  "tattooing_since": "2018",
+  "instagram_enriched": {
+    "id": "4063984918",
+    "follower_count": 4569,
+    "following_count": 491,
+    "media_count": 143,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kaho.tattoo/instagram/profile.jpg"
+  }
 }

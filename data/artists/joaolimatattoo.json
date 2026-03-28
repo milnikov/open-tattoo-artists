@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joaolimatattoo",
-  "name": "João Lima",
+  "name": "João Lima Tattoo",
   "location": {
     "city": "Campinas",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "João Lima is a proficient tattoo artist specializing in fineline and floral styles, showcasing a unique command over intricacy and detail. Nurturing his love for fine arts at UNICAMP, his Campinas-based tattoo studio, Karikari Tattoo, beautifully intertwines art and tattooing to create evocatively inspired pieces. His remarkable proficiency manifests a refined tattoo craftsmanship that is highly sought after in Campinas, Brazil.\nPrice: $$\nCurrent location: Campinas, Sao Paulo, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "João Lima is a proficient tattoo artist specializing in fineline and floral styles, showcasing a unique command over intricacy and detail. Nurturing his love for fine arts at UNICAMP, his Campinas-based tattoo studio, Karikari Tattoo, beautifully intertwines art and tattooing to create evocatively inspired pieces. His remarkable proficiency manifests a refined tattoo craftsmanship that is highly sought after in Campinas, Brazil.\nPrice: $$\nCurrent location: Campinas, Sao Paulo, Brazil\n\nTattooist/Owner @karikaritattoo \nFine Arts at UNICAMP\nCampinas - SP - Brazil",
+  "instagram_enriched": {
+    "id": "1556669030",
+    "follower_count": 17532,
+    "following_count": 2859,
+    "media_count": 884,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joaolimatattoo/instagram/profile.jpg"
+  }
 }

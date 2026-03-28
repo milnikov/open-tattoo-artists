@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jolie_rouge_tattoo",
-  "name": "Jolie Rouge",
+  "name": "Jolie Rouge Tattoo Studio",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Jolie Rouge is an intimate, artful tattoo studio located in the heart of London. Specialising in traditional and illustrative styles, they offer a unique approach to body art and personalized design from Monday to Sunday. Be ready to elevate your tattooing experience in this cozy, richly imaginative studio.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Jolie Rouge is an intimate, artful tattoo studio located in the heart of London. Specialising in traditional and illustrative styles, they offer a unique approach to body art and personalized design from Monday to Sunday. Be ready to elevate your tattooing experience in this cozy, richly imaginative studio.\nPrice: $$\nCurrent location:\n\n364 Caledonian Road,\nLondon, N1 1DU.\nOpen Monday-Sunday 11:30am-7:00pm \n020 7609 5111 \nFor all enquiries email us at jolierougetattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "181318801",
+    "follower_count": 12704,
+    "following_count": 604,
+    "media_count": 6241,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jolie_rouge_tattoo/instagram/profile.jpg"
+  }
 }

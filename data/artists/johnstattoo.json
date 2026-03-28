@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "johnstattoo",
-  "name": "John Connors",
+  "name": "Johns Tattoo",
   "location": {
     "city": "Islip Terrace",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "John Connors is renowned for his exceptional skill in crafting black & gray, floral, and realism tattoos, a true master of detail in the inking community of Islip Terrace, United States. Patrons often rave about the high-level artistry and the precision in his work, ensuring that each tattoo is a unique piece of art. His portfolio, which can be seen on his Instagram handles, @johnconnors13 and @pickleflavoredchapstick, showcases the depth of his talent and commitment to the craft.\nPrice: $\nCurrent location: Islip Terrace, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "John Connors is renowned for his exceptional skill in crafting black & gray, floral, and realism tattoos, a true master of detail in the inking community of Islip Terrace, United States. Patrons often rave about the high-level artistry and the precision in his work, ensuring that each tattoo is a unique piece of art. His portfolio, which can be seen on his Instagram handles, @johnconnors13 and @pickleflavoredchapstick, showcases the depth of his talent and commitment to the craft.\nPrice: $\nCurrent location: Islip Terrace, New York, United States\n\nHOURS:\nM-T.TH:5pm-12am\nW:5pm-11pm\nF-S:5pm-1am\nCLOSED SUNDAYS\n@johnconnors13 \n@pickleflavoredchapstick\n@tattoos_by_devv\n@jeytattoos",
+  "instagram_enriched": {
+    "id": "238290021",
+    "follower_count": 4858,
+    "following_count": 988,
+    "media_count": 862,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnstattoo/instagram/profile.jpg"
+  }
 }

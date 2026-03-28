@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "joristattoo",
-  "name": "Joris",
+  "name": "Joris Tattoo",
   "location": {
     "city": "Cobano",
     "country": "Costa Rica"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21",
-  "bio": "Joris is an incredibly skilled tattoo artist specializing in sketch and dotwork styles. Having honed their craft while traveling the world, they have now established a strong presence in Cobano, Costa Rica. Clients rave about Joris's professionalism, ensuring each tattoo session is not only a work of art but also a thoroughly pleasant and reassuring experience.\nPrice: $\nCurrent location: Cobano, Puntarenas, Costa Rica"
+  "updated_at": "2026-03-28",
+  "bio": "Joris is an incredibly skilled tattoo artist specializing in sketch and dotwork styles. Having honed their craft while traveling the world, they have now established a strong presence in Cobano, Costa Rica. Clients rave about Joris's professionalism, ensuring each tattoo session is not only a work of art but also a thoroughly pleasant and reassuring experience.\nPrice: $\nCurrent location: Cobano, Puntarenas, Costa Rica\n\nBased in Barcelona, Cataluña 🇪🇸 \n@totemika.tattoocrew",
+  "instagram_enriched": {
+    "id": "299043306",
+    "follower_count": 3307,
+    "following_count": 731,
+    "media_count": 68,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/joristattoo/instagram/profile.jpg"
+  }
 }

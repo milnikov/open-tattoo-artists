@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "johnnys_tattoos",
-  "name": "Johnny O'Pina",
+  "name": "Johnny Opina",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Johnny O'Pina is a seasoned tattoo artist based in Los Angeles, United States, specializing in black&gray and tribal styles. Serving a diverse clientele, his professionalism shines through in every appointment, ensuring cleanliness and providing detailed, high-quality work. To book an appointment with Johnny, one can easily reach out to him at johnnyopina77@gmail.com.\nPrice: $$\nCurrent location: Los Angeles, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Johnny O'Pina is a seasoned tattoo artist based in Los Angeles, United States, specializing in black&gray and tribal styles. Serving a diverse clientele, his professionalism shines through in every appointment, ensuring cleanliness and providing detailed, high-quality work. To book an appointment with Johnny, one can easily reach out to him at johnnyopina77@gmail.com.\nPrice: $$\nCurrent location: Los Angeles, California, United States\n\nI work at @goldenpeacocktattoo in Santa Ana , California",
+  "instagram_enriched": {
+    "id": "2002019102",
+    "follower_count": 11776,
+    "following_count": 1935,
+    "media_count": 549,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/johnnys_tattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jouberttattoo",
-  "name": "Joubert Barros",
+  "name": "Joubert Tattoo",
   "location": {
     "city": "Brasilia",
     "country": "Brazil"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-21",
-  "bio": "Joubert Barros is an esteemed tattoo artist based in Brasília, Brazil, widely recognized for their exceptional skill in lettering. With a career spanning over two decades since 2000, Joubert has honed their craft in a private studio, offering personalized experiences to clients both in Brasília and São Paulo. Known for maintaining impeccable cleanliness, their studio is a testament to their unwavering commitment to hygiene and client safety throughout the tattooing process.\nPrice: $\nCurrent location: Brasilia, Distrito Federal, Brazil",
-  "tattooing_since": "2000"
+  "updated_at": "2026-03-28",
+  "bio": "Joubert Barros is an esteemed tattoo artist based in Brasília, Brazil, widely recognized for their exceptional skill in lettering. With a career spanning over two decades since 2000, Joubert has honed their craft in a private studio, offering personalized experiences to clients both in Brasília and São Paulo. Known for maintaining impeccable cleanliness, their studio is a testament to their unwavering commitment to hygiene and client safety throughout the tattooing process.\nPrice: $\nCurrent location: Brasilia, Distrito Federal, Brazil\n\nTatuador desde 2000\nOrçamentos e dúvidas pelo WhatsApp abaixo",
+  "tattooing_since": "2000",
+  "instagram_enriched": {
+    "id": "462904588",
+    "follower_count": 6158,
+    "following_count": 6886,
+    "media_count": 543,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jouberttattoo/instagram/profile.jpg"
+  }
 }
