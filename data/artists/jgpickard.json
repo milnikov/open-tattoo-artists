@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jgpickard",
-  "name": "John Pickard",
+  "name": "jgpickard",
   "location": {
     "city": "Glasgow",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "John Pickard is a highly skilled tattoo artist specializing in black and gray styles, renowned for transforming ink into stunning pieces of art. Operating out of Electric Tattoos in the heart of Shawlands, Glasgow, John's professionalism is evident in both his approach to design and the immaculate results he delivers. Clients can expect a welcoming atmosphere coupled with a serious commitment to cleanliness, ensuring a safe and impressive tattooing experience.\nPrice: $\nCurrent location: Glasgow, Scotland, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "John Pickard is a highly skilled tattoo artist specializing in black and gray styles, renowned for transforming ink into stunning pieces of art. Operating out of Electric Tattoos in the heart of Shawlands, Glasgow, John's professionalism is evident in both his approach to design and the immaculate results he delivers. Clients can expect a welcoming atmosphere coupled with a serious commitment to cleanliness, ensuring a safe and impressive tattooing experience.\nPrice: $\nCurrent location: Glasgow, Scotland, United Kingdom\n\nJohn Pickard, Electric Tattoos, Shawlands, Glasgow. 0141 3876749",
+  "instagram_enriched": {
+    "id": "15551697",
+    "follower_count": 2925,
+    "following_count": 2423,
+    "media_count": 1529,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jgpickard/instagram/profile.jpg"
+  }
 }
