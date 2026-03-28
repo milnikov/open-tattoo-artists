@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monkeybonestattooohio",
-  "name": "Mike Guidone",
+  "name": "Monkeybones Tattoo",
   "location": {
     "city": "Beavercreek",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "🦴 Mike @mike.guidone \nTori @thistlefoot.tattoo | Mika'la @mikala_tattoos | Leslea @lesleahipp_tattoo | Chloe @stillhereclub",
+  "instagram_enriched": {
+    "id": "1363021693",
+    "follower_count": 4954,
+    "following_count": 690,
+    "media_count": 537,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monkeybonestattooohio/instagram/profile.jpg"
+  }
 }

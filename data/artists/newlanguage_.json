@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newlanguage_",
-  "name": "The name is \"NEW LANGUAGE\"",
+  "name": "NEW LANGUAGE",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "london \ntattoo and arts space\nappointment only, contact artists to book \nsober studio",
+  "instagram_enriched": {
+    "id": "13546198744",
+    "follower_count": 13387,
+    "following_count": 1067,
+    "media_count": 772,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newlanguage_/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nexxistattoo",
-  "name": "Nexxis Tattoo",
+  "name": "🦊 Nex",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -29,5 +29,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "❤️‍🔥Hi I’m Nex!\n🖋️ Tattoo artist • Saint-Jérôme\n🎨 Custom, flash & freehand designs\n⚡ Soft hands, sharp lines\n📅 Books open — info in pinned post",
+  "instagram_enriched": {
+    "id": "7710021904",
+    "follower_count": 8403,
+    "following_count": 487,
+    "media_count": 440,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nexxistattoo/instagram/profile.jpg"
+  }
 }

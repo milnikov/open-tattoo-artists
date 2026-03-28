@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "morrigan_ink",
-  "name": "Morrigan",
+  "name": "Morrigan ink",
   "location": {
     "city": "Turin",
     "country": "Italy"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Morrigan is renowned in Turin, Italy, for their impeccable skill in creating distinctive tattoos with a strong emphasis on the trashpolka and dotwork styles. Clients appreciate Morrigan's immaculate attention to detail and the stunning artistry they bring to each unique design. Moreover, their professionalism sets them apart, ensuring a comfortable and trustworthy experience for everyone who walks into their studio.\nPrice: $\nCurrent location: Turin, Piedmont, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Morrigan is renowned in Turin, Italy, for their impeccable skill in creating distinctive tattoos with a strong emphasis on the trashpolka and dotwork styles. Clients appreciate Morrigan's immaculate attention to detail and the stunning artistry they bring to each unique design. Moreover, their professionalism sets them apart, ensuring a comfortable and trustworthy experience for everyone who walks into their studio.\nPrice: $\nCurrent location: Turin, Piedmont, Italy",
+  "instagram_enriched": {
+    "id": "10489434336",
+    "follower_count": 1397,
+    "following_count": 2017,
+    "media_count": 269,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/morrigan_ink/instagram/profile.jpg"
+  }
 }

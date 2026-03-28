@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "muste.art",
-  "name": "Mateo Bermúdez",
+  "name": "𝐌𝐚𝐭𝐞𝐨 𝐁𝐞𝐫𝐦𝐮𝐝𝐞𝐳",
   "location": {
     "city": "Seville",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Residente en @lazarzamoratatuajes \n💌 @delaesca \n🏮Medellín - Sevilla",
+  "instagram_enriched": {
+    "id": "2209735658",
+    "follower_count": 2621,
+    "following_count": 7159,
+    "media_count": 595,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/muste.art/instagram/profile.jpg"
+  }
 }

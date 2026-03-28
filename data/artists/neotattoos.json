@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neotattoos",
-  "name": "Neo",
+  "name": "NEO",
   "location": {
     "city": "Río Lagartos",
     "country": "Mexico"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Neo is a highly skilled tattoo artist residing in Río Lagartos, Mexico, renowned for his unique style, blending geometric, tribal, and trashpolka designs. With an impressive follower count of around 75,000 on Instagram, his intricate and distinctive work draws attention worldwide. Despite his fame, Neo remains humble and dedicated to his craft, representing the artistic diversity of tattooing in Mexico.\nPrice: $$$\nCurrent location: Río Lagartos, Yucatan, Mexico"
+  "updated_at": "2026-03-28",
+  "bio": "Neo is a highly skilled tattoo artist residing in Río Lagartos, Mexico, renowned for his unique style, blending geometric, tribal, and trashpolka designs. With an impressive follower count of around 75,000 on Instagram, his intricate and distinctive work draws attention worldwide. Despite his fame, Neo remains humble and dedicated to his craft, representing the artistic diversity of tattooing in Mexico.\nPrice: $$$\nCurrent location: Río Lagartos, Yucatan, Mexico\n\nI am One artist,called NEO, in Zürich Switzerland! I am NOT the tattoomachine producer or a neo- traditionell or whatever collection site!",
+  "instagram_enriched": {
+    "id": "393191951",
+    "follower_count": 67247,
+    "following_count": 749,
+    "media_count": 156,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neotattoos/instagram/profile.jpg"
+  }
 }

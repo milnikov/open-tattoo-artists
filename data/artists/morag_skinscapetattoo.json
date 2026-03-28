@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "morag_skinscapetattoo",
-  "name": "Morag Pringle",
+  "name": "morag pringle",
   "location": {
     "city": "Cape Town",
     "country": "South Africa"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "CapeTown, South Africa. Tattoo co-working space, rent a workstation. Bespoke tattoo art. By Appointment only.\nDM all enquiries",
+  "instagram_enriched": {
+    "id": "1816131670",
+    "follower_count": 2120,
+    "following_count": 1811,
+    "media_count": 862,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/morag_skinscapetattoo/instagram/profile.jpg"
+  }
 }

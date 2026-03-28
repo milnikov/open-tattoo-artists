@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "morgan_inks_poitiers",
-  "name": "Morgan Inks",
+  "name": "Morgan inks",
   "location": {
     "city": "Poitiers",
     "country": "France"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Welcome to Morgan Inks, Poitiers' premier tattoo studio where artistry blossoms on skin. Specializing in exquisite floral tattoo designs, we offer personalized creations and high-end jewelry in a serene setting at 6 rue René Savatier. Experience the fusion of beauty and ink in an environment crafted for comfort and inspiration.\nPrice: $\nCurrent location: Poitiers, Nouvelle-aquitaine, France"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Morgan Inks, Poitiers' premier tattoo studio where artistry blossoms on skin. Specializing in exquisite floral tattoo designs, we offer personalized creations and high-end jewelry in a serene setting at 6 rue René Savatier. Experience the fusion of beauty and ink in an environment crafted for comfort and inspiration.\nPrice: $\nCurrent location: Poitiers, Nouvelle-aquitaine, France\n\nSalon de tatouages depuis 2015\nCréations personnalisées \n6 rue René Savatier 86000 Poitiers",
+  "instagram_enriched": {
+    "id": "9646944260",
+    "follower_count": 3016,
+    "following_count": 150,
+    "media_count": 260,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/morgan_inks_poitiers/instagram/profile.jpg"
+  }
 }

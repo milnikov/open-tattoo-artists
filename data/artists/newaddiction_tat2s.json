@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newaddiction_tat2s",
-  "name": "New Addiction Tattoo Shop",
+  "name": "Tattoo Shop - Colton, CA",
   "location": {
     "city": "Colton",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "👉 WALK-INS WELCOME 👈 \nOpen 7 days a week \n \n@jacobsantos_ink\n@inzaneink.5150 @eddiecvalencia @pebb_ohs_art  @stayradtattoo_",
+  "instagram_enriched": {
+    "id": "219470632",
+    "follower_count": 6337,
+    "following_count": 6202,
+    "media_count": 465,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newaddiction_tat2s/instagram/profile.jpg"
+  }
 }

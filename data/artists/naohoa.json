@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "naohoa",
-  "name": "Naomi Hoang",
+  "name": "NAOHOA Luxury Bespoke Tattoos",
   "location": {
     "city": "Cardiff",
     "country": "United Kingdom"
@@ -485,5 +485,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "(MailingList #linkinbio)\nUpmarket #TattooStudio specialising in #CustomTattoos & excellent customer care\nBy @naomi.hoang",
+  "instagram_enriched": {
+    "id": "1726052038",
+    "follower_count": 2542,
+    "following_count": 610,
+    "media_count": 1321,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/naohoa/instagram/profile.jpg"
+  }
 }

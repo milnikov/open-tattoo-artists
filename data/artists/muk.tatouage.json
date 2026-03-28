@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "muk.tatouage",
-  "name": "Muk Tatouage",
+  "name": "Mük",
   "location": {
     "city": "Bordeaux",
     "country": "France"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "✧ founder @mimesis.paris \n✧ paris france",
+  "instagram_enriched": {
+    "id": "6766950016",
+    "follower_count": 53112,
+    "following_count": 1117,
+    "media_count": 971,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/muk.tatouage/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "moonchamps",
-  "name": "Jon Larson",
+  "name": "Jon Larson Artist",
   "location": {
     "city": "Tampa",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Jon Larson is a profoundly skilled tattoo artist based in Tampa, United States, who specializes in traditional style tattoos. Exceptionally professional, he operates out of his own establishment, Tiger Temple Tattoos, where he demonstrates a tremendous level of technique and craft in creating vibrant and intricate designs.\nPrice: $$\nCurrent location: Tampa, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Jon Larson is a profoundly skilled tattoo artist based in Tampa, United States, who specializes in traditional style tattoos. Exceptionally professional, he operates out of his own establishment, Tiger Temple Tattoos, where he demonstrates a tremendous level of technique and craft in creating vibrant and intricate designs.\nPrice: $$\nCurrent location: Tampa, Florida, United States\n\nBookings on temporary pause 🙏🏽 Please pardon",
+  "instagram_enriched": {
+    "id": "1105307726",
+    "follower_count": 13419,
+    "following_count": 84,
+    "media_count": 1571,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moonchamps/instagram/profile.jpg"
+  }
 }

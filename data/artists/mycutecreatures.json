@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mycutecreatures",
-  "name": "Flavia Verda",
+  "name": "Creaturi Dragute",
   "location": {
     "city": "Bucharest",
     "country": "Romania"
@@ -244,6 +244,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Flavia Verda is a proficient tattoo artist, specializing in the illustrative style, based in Bucharest, Romania. With a high level of skill and detail reflected in her work, she not only creates unique tattoos but also has a flare for designing vibrant stickers for Sticky Friendz. Regarded for her professionalism, Flavia maintains a high standard of cleanliness in her studio, ensuring a comfortable environment for all her clients.\nPrice: $$\nCurrent location: Bucharest, Romania"
+  "updated_at": "2026-03-28",
+  "bio": "Flavia Verda is a proficient tattoo artist, specializing in the illustrative style, based in Bucharest, Romania. With a high level of skill and detail reflected in her work, she not only creates unique tattoos but also has a flare for designing vibrant stickers for Sticky Friendz. Regarded for her professionalism, Flavia maintains a high standard of cleanliness in her studio, ensuring a comfortable environment for all her clients.\nPrice: $$\nCurrent location: Bucharest, Romania\n\nInquiries at flaviaverda@yahoo.com  @flaviaverda\nSTICKY SHOP:",
+  "instagram_enriched": {
+    "id": "1477926393",
+    "follower_count": 20634,
+    "following_count": 3974,
+    "media_count": 1021,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mycutecreatures/instagram/profile.jpg"
+  }
 }

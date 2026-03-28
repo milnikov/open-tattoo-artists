@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neckolas",
-  "name": "Nicholas (Necko)",
+  "name": "necko",
   "location": {
     "city": "Badalona",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Dr.necko@gmail.com @thegallery_tattoo",
+  "instagram_enriched": {
+    "id": "42051411",
+    "follower_count": 3956,
+    "following_count": 1787,
+    "media_count": 848,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neckolas/instagram/profile.jpg"
+  }
 }

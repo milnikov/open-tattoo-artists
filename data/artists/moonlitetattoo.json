@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "moonlitetattoo",
-  "name": "Bob Ewing",
+  "name": "Moonlite Tattoo Shop,Bob ewing",
   "location": {
     "city": "Lewistown",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Moonlite Tattoo shop has been in the same location in Lewistown, PA since 1993. We have an amazing team of artists ! I’m also a traveling tattoo man",
+  "instagram_enriched": {
+    "id": "2539251700",
+    "follower_count": 69256,
+    "following_count": 1099,
+    "media_count": 312,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moonlitetattoo/instagram/profile.jpg"
+  }
 }

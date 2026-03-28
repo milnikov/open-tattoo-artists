@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mscandytattoo",
-  "name": "Candy Tattoo",
+  "name": "Candace Shephard",
   "location": {
     "city": "Carbondale",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Welcome to Candy Tattoo, the Carbondale-based ink sanctuary where minimalism, illustrative art, and precision in lettering come to life on your skin. Under the creative direction of the renowned @MsCandyTattoo LLC, our studio offers a clean, vibrant, and welcoming atmosphere where your personal expression is celebrated. Step into our realm of artistic excellence, and walk away with a masterpiece that embodies both simplicity and elegance.\nPrice: $\nCurrent location: Carbondale, Pennsylvania, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Candy Tattoo, the Carbondale-based ink sanctuary where minimalism, illustrative art, and precision in lettering come to life on your skin. Under the creative direction of the renowned @MsCandyTattoo LLC, our studio offers a clean, vibrant, and welcoming atmosphere where your personal expression is celebrated. Step into our realm of artistic excellence, and walk away with a masterpiece that embodies both simplicity and elegance.\nPrice: $\nCurrent location: Carbondale, Pennsylvania, United States\n\nOwner @MsCandyTattoo LLC",
+  "instagram_enriched": {
+    "id": "1497707466",
+    "follower_count": 1402,
+    "following_count": 3466,
+    "media_count": 3970,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mscandytattoo/instagram/profile.jpg"
+  }
 }

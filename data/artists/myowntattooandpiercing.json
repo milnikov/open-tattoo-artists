@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "myowntattooandpiercing",
-  "name": "Alex Zett",
+  "name": "My Own Tattoo & Piercing",
   "location": {
     "city": "Potsdam",
     "country": "Germany"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "fineline,oldschool,traditional,realism,portrait & black work\nPiercing & high class jewelry\nYour Adress in Potsdam for Tattoo & Piercing",
+  "instagram_enriched": {
+    "id": "1400751515",
+    "follower_count": 7889,
+    "following_count": 1288,
+    "media_count": 1785,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/myowntattooandpiercing/instagram/profile.jpg"
+  }
 }

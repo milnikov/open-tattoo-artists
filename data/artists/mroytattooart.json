@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mroytattooart",
-  "name": "Mike Roy",
+  "name": "Marc Roy",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Abbotsford BC 🇨🇦 \nBlack and Grey realism @fkirons @colordragonneedles @worldfamousink @tattooarmourpro",
+  "instagram_enriched": {
+    "id": "21675184",
+    "follower_count": 31099,
+    "following_count": 926,
+    "media_count": 1779,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mroytattooart/instagram/profile.jpg"
+  }
 }

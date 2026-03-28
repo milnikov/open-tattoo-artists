@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "muetattoo",
-  "name": "무이타투 (Mue Tattoo)",
+  "name": "무이타투",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "In south korea, seoul\n82+10-7388-2959 \nkakao : muetattoo \ne-mail : muetattoo@naver.com",
+  "instagram_enriched": {
+    "id": "529180561",
+    "follower_count": 3898,
+    "following_count": 238,
+    "media_count": 377,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/muetattoo/instagram/profile.jpg"
+  }
 }

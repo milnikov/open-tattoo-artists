@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mondotattooer",
-  "name": "Mondo",
+  "name": "MONDO",
   "location": {
     "city": "Cincinnati",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "@northsideelectrictattoo \n4577 Hamilton ave, Cincinnati, Ohio\nCall or text to book \n513-968-TATS (8287)\n👰🏼: @ladyy.livv",
+  "instagram_enriched": {
+    "id": "12255509",
+    "follower_count": 9698,
+    "following_count": 2340,
+    "media_count": 3618,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mondotattooer/instagram/profile.jpg"
+  }
 }

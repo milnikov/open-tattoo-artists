@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nebulatattoocwb",
-  "name": "Nébula Tattoo Cwb",
+  "name": "Nébula Tattoo Cwb",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Atendimento com hora marcada",
+  "instagram_enriched": {
+    "id": "18757253452",
+    "follower_count": 2457,
+    "following_count": 38,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nebulatattoocwb/instagram/profile.jpg"
+  }
 }

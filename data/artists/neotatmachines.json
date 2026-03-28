@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neotatmachines",
-  "name": "NeoTat",
+  "name": "NeoTat Tattoo Machines",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,7 +40,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "NeoTat is a highly skilled tattoo artist specializing in illustrative styles. His artistry is impeccable, stemming from his unrivaled experience, having been made in the U.S.A since 2004. His technique is so refined and precise, it's like he's using the original linear machine.\nPrice: $$\nCurrent location:",
-  "tattooing_since": "2004"
+  "updated_at": "2026-03-28",
+  "bio": "NeoTat is a highly skilled tattoo artist specializing in illustrative styles. His artistry is impeccable, stemming from his unrivaled experience, having been made in the U.S.A since 2004. His technique is so refined and precise, it's like he's using the original linear machine.\nPrice: $$\nCurrent location:\n\nThe Original linear  machine. \nshopneotat.com \n📧 neotatmail@gmail.com \nTag / #neotatmachines #neotat #vivace @neotatmachines \nMade in U.S.A since 2004",
+  "tattooing_since": "2004",
+  "instagram_enriched": {
+    "id": "316319668",
+    "follower_count": 30642,
+    "following_count": 1923,
+    "media_count": 2145,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neotatmachines/instagram/profile.jpg"
+  }
 }

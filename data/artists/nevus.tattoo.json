@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nevus.tattoo",
-  "name": "Nevus Tattoo",
+  "name": "Nevus Tattoo - Seattle",
   "location": {
     "city": "Cobano",
     "country": "Costa Rica"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "✸ Tattooing since 2007\n✸ From Barcelona, working in Seattle\n✸ @electriccobratattooparlor \n✸ bookings@nevustattoo.com",
+  "instagram_enriched": {
+    "id": "316138287",
+    "follower_count": 16032,
+    "following_count": 1222,
+    "media_count": 827,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nevus.tattoo/instagram/profile.jpg"
+  }
 }

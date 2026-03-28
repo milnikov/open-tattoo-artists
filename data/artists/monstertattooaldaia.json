@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monstertattooaldaia",
-  "name": "Monster Tattoo Aldaia",
+  "name": "MONSTER TATTOO ALDAIA",
   "location": {
     "city": "Aldaia",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "☎️ 960884695\n📱 691822951\nAldaia  -  Valencia",
+  "instagram_enriched": {
+    "id": "1336160670",
+    "follower_count": 12798,
+    "following_count": 783,
+    "media_count": 356,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monstertattooaldaia/instagram/profile.jpg"
+  }
 }

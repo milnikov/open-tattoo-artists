@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "necro_tatt",
-  "name": "Angel R Tapia",
+  "name": "Angel R. Tapia",
   "location": {
     "city": "Cuauhtémoc",
     "country": "Mexico"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "🇲🇽 UNHOLY BLOOD RITUALS\nArtista Plástico, Ilustrador y Tatuador enfocado en el Arte macabro & Surrealista.\n📍Currently in 🇫🇷🇨🇭",
+  "instagram_enriched": {
+    "id": "47880304",
+    "follower_count": 10154,
+    "following_count": 5034,
+    "media_count": 5617,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/necro_tatt/instagram/profile.jpg"
+  }
 }

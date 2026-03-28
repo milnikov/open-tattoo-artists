@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newoldtattoo",
-  "name": "Leonardo Almeida",
+  "name": "New Old Tattoo Art",
   "location": {
     "city": "Anápolis",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "🏛️O maior e melhor estúdio de Anapolis!\n🚀18 anos no mercado, + de 30 mil tattoos executadas.\n💢Os melhores tatuadores da região\n💎Safe Piercing",
+  "instagram_enriched": {
+    "id": "178724797",
+    "follower_count": 33011,
+    "following_count": 2138,
+    "media_count": 926,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newoldtattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "moni_marino_artist",
-  "name": "Moni Marino",
+  "name": "MONI_MARINO_ARTIST",
   "location": {
     "city": "Tarancón",
     "country": "Spain"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Moni Marino, based in Tarancón, Spain, is a highly skilled tattoo artist specializing in realism and black&gray styles. With over 170k followers on Instagram, her exceptional work speaks volumes about her astounding talent. She attempts to communicate the complexity and beauty of the human experience through her 5D tattoo artistry, urging individuals to #riseyourvibration.\nPrice: $$$\nCurrent location: Tarancón, Castille-la Mancha, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Moni Marino, based in Tarancón, Spain, is a highly skilled tattoo artist specializing in realism and black&gray styles. With over 170k followers on Instagram, her exceptional work speaks volumes about her astounding talent. She attempts to communicate the complexity and beauty of the human experience through her 5D tattoo artistry, urging individuals to #riseyourvibration.\nPrice: $$$\nCurrent location: Tarancón, Castille-la Mancha, Spain\n\nShe seeks to understand and communicate the various dimensions, disorder and beauty of human experience @moni_marino_life Founding Artist @cocreateink",
+  "instagram_enriched": {
+    "id": "198019914",
+    "follower_count": 210959,
+    "following_count": 53,
+    "media_count": 341,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moni_marino_artist/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mr.j.fineline",
-  "name": "Mr J Fineline",
+  "name": "ᴊᴏʀɢᴇ ꜱᴇɢᴏᴠɪᴀ",
   "location": {
     "city": "Dusseldorf",
     "country": "Germany"
@@ -365,5 +365,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Art is in the Details. \n📍Barcelona 📍NYC\n📍Frankfurt - April 17-19\nPro Team:\n@masttattoo.official \n@wjxcartridge \n@onyxtattoosupply\n@vault_nine",
+  "instagram_enriched": {
+    "id": "49238555578",
+    "follower_count": 471784,
+    "following_count": 83,
+    "media_count": 237,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr.j.fineline/instagram/profile.jpg"
+  }
 }

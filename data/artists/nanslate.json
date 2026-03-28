@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nanslate",
-  "name": "Nan Prasertying",
+  "name": "Nan is late",
   "location": {
     "city": "Bangkok",
     "country": "Thailand"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "🔘Bangkok \n📍Ratchatewi @rem_bkk \n📍Pinklao @cavetown.tattoo \nPixel art @nanpixelate",
+  "instagram_enriched": {
+    "id": "4108576658",
+    "follower_count": 5059,
+    "following_count": 3098,
+    "media_count": 708,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nanslate/instagram/profile.jpg"
+  }
 }

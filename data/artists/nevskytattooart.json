@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nevskytattooart",
-  "name": "Nevsky Tattoo Art",
+  "name": "Tattoo in Newcastle🇬🇧",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "#StopWarInUkraine\n📍Newcastle \nBookings are CLOSED \n@alamo.studios \nEmail : nevskybookings@gmail.com",
+  "instagram_enriched": {
+    "id": "1808398057",
+    "follower_count": 23192,
+    "following_count": 407,
+    "media_count": 442,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nevskytattooart/instagram/profile.jpg"
+  }
 }

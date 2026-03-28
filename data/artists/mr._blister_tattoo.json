@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mr._blister_tattoo",
-  "name": "Mr Blister",
+  "name": "Mr. Blister",
   "location": {
     "city": "Bilbao",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mr. Blister is a highly skilled tattoo artist based in Bilbao, Spain, known for his expertise in illustrative, fineline, and lettering styles. His professionalism is evident in every piece he creates, ensuring that each tattoo is not just a mark, but a masterpiece that reflects his exceptional attention to detail and dedication to the craft. Clients rave about the precision in his work, making him a sought-after artist for anyone wanting intricate and distinctive tattoos.\nPrice: $\nCurrent location: Bilbao, Basque Country, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Mr. Blister is a highly skilled tattoo artist based in Bilbao, Spain, known for his expertise in illustrative, fineline, and lettering styles. His professionalism is evident in every piece he creates, ensuring that each tattoo is not just a mark, but a masterpiece that reflects his exceptional attention to detail and dedication to the craft. Clients rave about the precision in his work, making him a sought-after artist for anyone wanting intricate and distinctive tattoos.\nPrice: $\nCurrent location: Bilbao, Basque Country, Spain\n\n@mr._blister_black_tattoo \nContáctame en la cuenta de arriba\n📍PAMPLONA / IRUÑA",
+  "instagram_enriched": {
+    "id": "57582610206",
+    "follower_count": 505,
+    "following_count": 88,
+    "media_count": 20,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr._blister_tattoo/instagram/profile.jpg"
+  }
 }

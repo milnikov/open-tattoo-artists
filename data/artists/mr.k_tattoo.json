@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mr.k_tattoo",
-  "name": "Mr K",
+  "name": "MR.K",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mr K is a highly skilled tattoo artist based in New York, United States, specializing in the intricate 'fineline' style. His remarkable talent and unique vision have garnered him a following of nearly 770,000 on Instagram. He currently showcases his stunning artwork at the esteemed @bangbangnyc studio.\nPrice: $$$\nCurrent location: New York, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Mr K is a highly skilled tattoo artist based in New York, United States, specializing in the intricate 'fineline' style. His remarkable talent and unique vision have garnered him a following of nearly 770,000 on Instagram. He currently showcases his stunning artwork at the esteemed @bangbangnyc studio.\nPrice: $$$\nCurrent location: New York, New York, United States\n\n@bangbangnyc \nTattoo  • appts@bangbangforever.com\nOthers • mrknewyork@gmail.com",
+  "instagram_enriched": {
+    "id": "1576536603",
+    "follower_count": 721981,
+    "following_count": 470,
+    "media_count": 971,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr.k_tattoo/instagram/profile.jpg"
+  }
 }

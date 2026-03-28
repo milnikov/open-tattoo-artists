@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mystiktattoos",
-  "name": "Mystik",
+  "name": "MYSTIK",
   "location": {
     "city": "Brisbane",
     "country": "Australia"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Mystik is a highly skilled tattoo artist based in Brisbane, Australia, specializing in black&gray, tribal, and realism styles. With a growing and dedicated following of 150k on Instagram, his intricate designs and exceptional artistry are recognized by fans both in and out of the tattoo community. To see his portfolio or book a session, reach out to him via email at mystiks.art@gmail.com.\nPrice: $$$\nCurrent location: Brisbane, Queensland, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Mystik is a highly skilled tattoo artist based in Brisbane, Australia, specializing in black&gray, tribal, and realism styles. With a growing and dedicated following of 150k on Instagram, his intricate designs and exceptional artistry are recognized by fans both in and out of the tattoo community. To see his portfolio or book a session, reach out to him via email at mystiks.art@gmail.com.\nPrice: $$$\nCurrent location: Brisbane, Queensland, Australia\n\n@harpoonandhighwater Brisbane Australia .. 📧 mystiks.art@gmail.com for all bookings and enquiries",
+  "instagram_enriched": {
+    "id": "11855618",
+    "follower_count": 151167,
+    "following_count": 748,
+    "media_count": 834,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mystiktattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mostamazingtattooclub",
-  "name": "Mauro Amaral",
+  "name": "Portimão - Tattoo & Piercing Club",
   "location": {
     "city": "Portimão",
     "country": "Portugal"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Tatuagens personalizadas e body piercing\nArtistas premiados - Desde 2013\nPortimão | Portugal\n🕒 Seg–Sáb: 10h–13h / 14h–19h\n👇Orçamentos/Marcações",
+  "instagram_enriched": {
+    "id": "568120890",
+    "follower_count": 6312,
+    "following_count": 603,
+    "media_count": 262,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mostamazingtattooclub/instagram/profile.jpg"
+  }
 }

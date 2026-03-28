@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nativeinktattoo",
-  "name": "NativeInkTattoo",
+  "name": "Brandee Gordon",
   "location": {
     "city": "Elwood",
     "country": "United States"
@@ -580,6 +580,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "NativeInkTattoo is a highly skilled tattoo artist based in Elwood, United States. Excelling in the intricate, vibrant artistry of watercolor tattoos, they bring each client's vision to life with a keen eye for detail and adept hand. Their professionalism and dedication to the craft shine through in each meticulously created piece of body art.\nPrice: $$\nCurrent location: Elwood, Indiana, United States"
+  "updated_at": "2026-03-28",
+  "bio": "NativeInkTattoo is a highly skilled tattoo artist based in Elwood, United States. Excelling in the intricate, vibrant artistry of watercolor tattoos, they bring each client's vision to life with a keen eye for detail and adept hand. Their professionalism and dedication to the craft shine through in each meticulously created piece of body art.\nPrice: $$\nCurrent location: Elwood, Indiana, United States\n\nTATTOO ARTIST                                                 to book an appointment: see website below",
+  "instagram_enriched": {
+    "id": "9588245",
+    "follower_count": 13116,
+    "following_count": 2919,
+    "media_count": 5979,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nativeinktattoo/instagram/profile.jpg"
+  }
 }

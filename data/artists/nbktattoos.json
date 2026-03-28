@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nbktattoos",
-  "name": "NBK Tattoos",
+  "name": "Dmitrii Naboka",
   "location": {
     "city": "Krasnodar",
     "country": "Russia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "•Modern-japanese tattoos•\nmy masks: @go.jirra \nI use: @worldfamousink @stigmarotary",
+  "instagram_enriched": {
+    "id": "248992415",
+    "follower_count": 234703,
+    "following_count": 185,
+    "media_count": 322,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nbktattoos/instagram/profile.jpg"
+  }
 }

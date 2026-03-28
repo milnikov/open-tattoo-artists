@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrkootattoo",
-  "name": "Mr Koo",
+  "name": "Mr.Koo | tattoo artist | content creator",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "香港紋身師 \nstory teller \n(accepting clients)\nBook Now through DM\nDM for collaborations \nติดต่อร่วมงาน 🇭🇰 🇹🇭",
+  "instagram_enriched": {
+    "id": "25449264",
+    "follower_count": 119071,
+    "following_count": 2040,
+    "media_count": 1566,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrkootattoo/instagram/profile.jpg"
+  }
 }

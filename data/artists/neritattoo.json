@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neritattoo",
-  "name": "David Neri",
+  "name": "David Neri | Tattoo Artist",
   "location": {
     "city": "Volta Redonda",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "David Neri is an exceptionally talented tattoo artist based in Volta Redonda, Brazil, specializing in dotwork, minimalist, and lettering styles. His professionalism shines through in the precise and meticulous nature of his tattoos, ensuring each client receives a work of art that exceeds expectations. With his additional background as an art student, David brings a unique artistic perspective to every piece he creates.\nPrice: $\nCurrent location: Volta Redonda, Rio De Janeiro, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "David Neri is an exceptionally talented tattoo artist based in Volta Redonda, Brazil, specializing in dotwork, minimalist, and lettering styles. His professionalism shines through in the precise and meticulous nature of his tattoos, ensuring each client receives a work of art that exceeds expectations. With his additional background as an art student, David brings a unique artistic perspective to every piece he creates.\nPrice: $\nCurrent location: Volta Redonda, Rio De Janeiro, Brazil\n\nSince 2010\nRealism and Pointillism\nBlack&White Work\nBrazil | Porto  🇧🇷 🇵🇹\nBooking right now",
+  "instagram_enriched": {
+    "id": "1125138691",
+    "follower_count": 1448,
+    "following_count": 1944,
+    "media_count": 492,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neritattoo/instagram/profile.jpg"
+  }
 }

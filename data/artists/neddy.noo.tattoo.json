@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neddy.noo.tattoo",
-  "name": "Elaina Conroy",
+  "name": "Elaina",
   "location": {
     "city": "Brisbane",
     "country": "Australia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Whimsical and fairy tattoos ✨💖\n@warhorse_tattoo ☀️\nBooks Closed🌼\nArt Page 🎨 \n@neddy.noo.creations\nJon 🥰",
+  "instagram_enriched": {
+    "id": "2109855608",
+    "follower_count": 7186,
+    "following_count": 543,
+    "media_count": 595,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neddy.noo.tattoo/instagram/profile.jpg"
+  }
 }

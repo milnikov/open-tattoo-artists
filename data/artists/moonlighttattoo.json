@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "moonlighttattoo",
-  "name": "Diane",
+  "name": "Moonlight Tattoo",
   "location": {
     "city": "Ocean View",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "𝔐𝔬𝔬𝔫𝔩𝔦𝔤𝔥𝔱 𝔗𝔞𝔱𝔱𝔬𝔬 \n✪ 33 years in CMC ✪\n• @moonlighttattoodiane \n• @mikehessingertattoo \n❌ NO piercer. 18+ only 🔮🌙\n📍Ocean View, NJ",
+  "instagram_enriched": {
+    "id": "1074743161",
+    "follower_count": 9438,
+    "following_count": 796,
+    "media_count": 1512,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moonlighttattoo/instagram/profile.jpg"
+  }
 }

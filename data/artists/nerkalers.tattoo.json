@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nerkalers.tattoo",
-  "name": "Nick Joseph",
+  "name": "Nick",
   "location": {
     "city": "North Providence",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "⚡️ @tattoomagicpvd ⚡️\nDM or email nerkalerstattoo@gmail.com for an appointment 🫶",
+  "instagram_enriched": {
+    "id": "403520002",
+    "follower_count": 4606,
+    "following_count": 1631,
+    "media_count": 220,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nerkalers.tattoo/instagram/profile.jpg"
+  }
 }

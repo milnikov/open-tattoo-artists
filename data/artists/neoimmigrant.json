@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neoimmigrant",
-  "name": "しリｾ人ら Youngblood",
+  "name": "Lucas",
   "location": {
     "city": "Sintra",
     "country": "Portugal"
@@ -546,5 +546,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Dm for Tattoos\n📍Rua da Prata 71, Lisbon\n@kbytetat2 \n@youngbloodsmanga",
+  "instagram_enriched": {
+    "id": "6772673252",
+    "follower_count": 3233,
+    "following_count": 614,
+    "media_count": 275,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neoimmigrant/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monte_livingston",
-  "name": "Monte Livingston",
+  "name": "Monte Livingston | Tattoo Artist",
   "location": {
     "city": "San Clemente",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Artist & Owner @livingartgallery\nSpecializing in coverups & realistic tattoos\nFree in-person consults - let’s talk ideas.\n👇 Book your session here 👇",
+  "instagram_enriched": {
+    "id": "19947874",
+    "follower_count": 5630,
+    "following_count": 1408,
+    "media_count": 441,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monte_livingston/instagram/profile.jpg"
+  }
 }

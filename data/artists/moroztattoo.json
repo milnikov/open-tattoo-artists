@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "moroztattoo",
-  "name": "Moroz Tattoo",
+  "name": "Oleksii Moroz",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "▪️Tattoo Artist, Ukraine, Kiev.\n▪️ProTeam: @intenzetattooink @intenzeeurope  @eztattooing @xsalon.1999  @biotatum.pro",
+  "instagram_enriched": {
+    "id": "535985891",
+    "follower_count": 20989,
+    "following_count": 676,
+    "media_count": 439,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/moroztattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newmoontattoos",
-  "name": "New Moon Tattoos",
+  "name": "NEW MOON TATTOO",
   "location": {
     "city": "Ottawa",
     "country": "Canada"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Celebrating over 44 years\nOttawa's oldest tattoo studio since 1982\nTattooing : Piercing : Jewelry : Laser\n..........\nTuesday to Saturday : 11am to 7pm",
+  "instagram_enriched": {
+    "id": "492044729",
+    "follower_count": 11743,
+    "following_count": 845,
+    "media_count": 716,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newmoontattoos/instagram/profile.jpg"
+  }
 }

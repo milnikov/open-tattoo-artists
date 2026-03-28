@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "neptunes_daughter_",
-  "name": "Neptune's Daughter Tattoo Shop",
+  "name": "Neptunes Daughter Tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Step into the serene and artful ambiance of Neptune's Daughter Tattoo Shop, where the ancient allure of Japanese tattoo artistry comes alive. Our skilled ink masters are dedicated to crafting exquisite, personalized designs that capture the essence of tradition with a modern twist. Follow our fresh journey and latest creations on Instagram, and become a part of Neptune's Daughter's ever-expanding family of ink aficionados.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the serene and artful ambiance of Neptune's Daughter Tattoo Shop, where the ancient allure of Japanese tattoo artistry comes alive. Our skilled ink masters are dedicated to crafting exquisite, personalized designs that capture the essence of tradition with a modern twist. Follow our fresh journey and latest creations on Instagram, and become a part of Neptune's Daughter's ever-expanding family of ink aficionados.\nPrice: $\nCurrent location:\n\nNew Instagram account for the shop...please follow!",
+  "instagram_enriched": {
+    "id": "17065987271",
+    "follower_count": 855,
+    "following_count": 1910,
+    "media_count": 53,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/neptunes_daughter_/instagram/profile.jpg"
+  }
 }

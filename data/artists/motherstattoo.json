@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "motherstattoo",
-  "name": "Mother's Tattoo",
+  "name": "Mothers Tattoo",
   "location": {
     "city": "Covington",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mother's Tattoo\nSTUDIO\nCovington, Kentucky, United States\n7.82k\nAdd\nMessage\nfloral\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Mother's Tattoo\nSTUDIO\nCovington, Kentucky, United States\n7.82k\nAdd\nMessage\nfloral\nblack&gray\n\nElsmere - tattoo and piercing everyday 12-8 859-727-6434\nCovington - tattoo only Monday-Saturday 12-8 859-261-8111 email:motherstattoo@icloud.com",
+  "instagram_enriched": {
+    "id": "540463113",
+    "follower_count": 9666,
+    "following_count": 101,
+    "media_count": 401,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/motherstattoo/instagram/profile.jpg"
+  }
 }

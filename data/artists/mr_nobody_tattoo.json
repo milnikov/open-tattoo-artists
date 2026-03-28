@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mr_nobody_tattoo",
-  "name": "Mr Nobody",
+  "name": "Mr.Nobody",
   "location": {
     "city": "Rorschach",
     "country": "Switzerland"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Mr. Nobody is a highly skilled Black & Gray tattoo artist hailing from Rorschach, Switzerland. With an impressive following of around 58,000 on Instagram, it's clear that their mastery in this specific tattoo style is widely recognized and admired. They uphold excellent cleanliness and professionalism, ensuring the comfort and satisfaction of every client.\nPrice: $$\nCurrent location: Rorschach, St Gallen, Switzerland"
+  "updated_at": "2026-03-28",
+  "bio": "Mr. Nobody is a highly skilled Black & Gray tattoo artist hailing from Rorschach, Switzerland. With an impressive following of around 58,000 on Instagram, it's clear that their mastery in this specific tattoo style is widely recognized and admired. They uphold excellent cleanliness and professionalism, ensuring the comfort and satisfaction of every client.\nPrice: $$\nCurrent location: Rorschach, St Gallen, Switzerland\n\n🇺🇸 Las Vegas, NV \n📞 info 702-817-8703\nwww.seventattoolv.com\n@seventattoovegas\n@pantheraink \n@dermalizepro",
+  "instagram_enriched": {
+    "id": "1557627345",
+    "follower_count": 88467,
+    "following_count": 2693,
+    "media_count": 293,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_nobody_tattoo/instagram/profile.jpg"
+  }
 }

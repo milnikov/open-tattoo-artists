@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "needle_juice",
-  "name": "Juice",
+  "name": "Pascal Malorni Reniere",
   "location": {
     "city": "Montreal",
     "country": "Canada"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Prophets Of Gold\n27 Miles Up\nTested & True\n@bngtattoosupply \n@empireinks  \n@tattooarmour_usa \n@sullenclothing",
+  "instagram_enriched": {
+    "id": "178557865",
+    "follower_count": 58888,
+    "following_count": 735,
+    "media_count": 605,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/needle_juice/instagram/profile.jpg"
+  }
 }

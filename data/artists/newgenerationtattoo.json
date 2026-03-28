@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newgenerationtattoo",
-  "name": "Leo",
+  "name": "NEW GENERATION TATTOO",
   "location": {
     "city": "San Jose",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Made in Pain, Worn with Pride \nWalk-Ins Welcome (no appointment required)\nMon-Fri 12-8 | Sat 12-6",
+  "instagram_enriched": {
+    "id": "2253403536",
+    "follower_count": 11012,
+    "following_count": 18,
+    "media_count": 1517,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newgenerationtattoo/instagram/profile.jpg"
+  }
 }

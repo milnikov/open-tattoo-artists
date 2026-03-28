@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nakedarttattoosmd",
-  "name": "Chris Lowe",
+  "name": "Naked Art Tattoos",
   "location": {
     "city": "Odenton",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Est.2005. Artists:Chris Lowe(owner/artist)Eddie MacIntosh(artist)Ronie Blaze(artist) and Maddie(artist) 1590 Annapolis RD Odenton M.D.",
+  "instagram_enriched": {
+    "id": "4278920750",
+    "follower_count": 2151,
+    "following_count": 1308,
+    "media_count": 222,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nakedarttattoosmd/instagram/profile.jpg"
+  }
 }

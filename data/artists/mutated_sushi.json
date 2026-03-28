@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mutated_sushi",
-  "name": "Rachael Nelson",
+  "name": "尺卂匚卄卂乇ㄥ 几乇ㄥ丂ㄖ几",
   "location": {
     "city": "Racine",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "BOOKS ARE OPEN! \nNow booking June-August\n@pinkwidowtattoo Milwaukee, WI\nEat the Rich 🔥 \nBooking, Pricing, and Events👇",
+  "instagram_enriched": {
+    "id": "1439402528",
+    "follower_count": 29303,
+    "following_count": 5285,
+    "media_count": 411,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mutated_sushi/instagram/profile.jpg"
+  }
 }

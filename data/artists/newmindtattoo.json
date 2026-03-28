@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "newmindtattoo",
-  "name": "Jonny",
+  "name": "• NEW MIND Tattoo ●",
   "location": {
     "city": "Huddersfield",
     "country": "United Kingdom"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Huddersfield UK\nJonny - jonnytattoo@hotmail.co.uk \nPhil - wallis_phil@yahoo.co.uk\nLiam - shedwolf@gmail.com\nAdam - carrier pigeon only",
+  "instagram_enriched": {
+    "id": "1560688146",
+    "follower_count": 4205,
+    "following_count": 1663,
+    "media_count": 607,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/newmindtattoo/instagram/profile.jpg"
+  }
 }

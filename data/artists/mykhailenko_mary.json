@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mykhailenko_mary",
-  "name": "Mary Mykhailenko",
+  "name": "Mary Mykhailenko | tattoo artist",
   "location": {
     "city": "Kyiv",
     "country": "Ukraine"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Mary Mykhailenko is a highly skilled tattoo artist based in Kyiv, Ukraine, specializing in the styles of fineline, floral, and minimalist designs. Her immaculate and meticulous approach to her craft is evident in every stroke of ink she delivers, proving that creativity can flourish through simplicity.\nPrice: $$\nCurrent location: Kyiv, Ukraine"
+  "updated_at": "2026-03-28",
+  "bio": "Mary Mykhailenko is a highly skilled tattoo artist based in Kyiv, Ukraine, specializing in the styles of fineline, floral, and minimalist designs. Her immaculate and meticulous approach to her craft is evident in every stroke of ink she delivers, proving that creativity can flourish through simplicity.\nPrice: $$\nCurrent location: Kyiv, Ukraine\n\nВласна студія в центрі Києва\nLinework, b&w, color\nПиши в Direct для запису💌",
+  "instagram_enriched": {
+    "id": "55502110059",
+    "follower_count": 2083,
+    "following_count": 356,
+    "media_count": 413,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mykhailenko_mary/instagram/profile.jpg"
+  }
 }

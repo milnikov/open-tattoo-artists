@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrmarektattoo",
-  "name": "Mr Marek",
+  "name": "Marek",
   "location": {
     "city": "Tampa",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Mr Marek is a highly skilled tattoo artist based in Tampa, United States, who specializes in floral and fineline styles, with a particular concern for maintaining a vegan-friendly practice. With a following of over 100k on Instagram, Mr Marek's incredible attention to detail and creative prowess is renowned. His professionalism is second to none, setting appointments via email and ensuring a clean and safe environment for his cherished clients. Visit his website or email him at Mrmarektattoo@gmail.com to book your own piece of his masterful work.\nPrice: $$$\nCurrent location: Tampa, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Mr Marek is a highly skilled tattoo artist based in Tampa, United States, who specializes in floral and fineline styles, with a particular concern for maintaining a vegan-friendly practice. With a following of over 100k on Instagram, Mr Marek's incredible attention to detail and creative prowess is renowned. His professionalism is second to none, setting appointments via email and ensuring a clean and safe environment for his cherished clients. Visit his website or email him at Mrmarektattoo@gmail.com to book your own piece of his masterful work.\nPrice: $$$\nCurrent location: Tampa, Florida, United States\n\nTampa / St Pete FL & Nashville TN\nIllustrative / Sketch style",
+  "instagram_enriched": {
+    "id": "2029624921",
+    "follower_count": 153131,
+    "following_count": 1276,
+    "media_count": 620,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrmarektattoo/instagram/profile.jpg"
+  }
 }

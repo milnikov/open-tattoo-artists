@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nathanemery",
-  "name": "Nathan Emery",
+  "name": "Nathan Emery Tattoo San Francisco",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "TATTOOER: Frisco to Hilo... \nBayview San Francisco:\nPuna Side Big Island Hawaii:",
+  "instagram_enriched": {
+    "id": "31229948",
+    "follower_count": 1845,
+    "following_count": 2692,
+    "media_count": 387,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nathanemery/instagram/profile.jpg"
+  }
 }

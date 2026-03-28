@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "needlemark",
-  "name": "Rui",
+  "name": "Needle Mark Tattoo Studio",
   "location": {
     "city": "Loulé",
     "country": "Portugal"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist RUI\n📍 Loulé, Portugal\n📞Telefone : +351 915 410 793\n✉️ needlemark@gmail.com\n #needlemark",
+  "instagram_enriched": {
+    "id": "266956886",
+    "follower_count": 1997,
+    "following_count": 43,
+    "media_count": 559,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/needlemark/instagram/profile.jpg"
+  }
 }

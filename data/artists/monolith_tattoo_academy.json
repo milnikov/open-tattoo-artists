@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monolith_tattoo_academy",
-  "name": "Monolith Tattoo Academy",
+  "name": "Tattoo Academy in Bend Oregon!",
   "location": {
     "city": "Tofino",
     "country": "Canada"
@@ -90,5 +90,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Oregons #1 Tattoo School! We provide you with top of the line machines, inks, and supplies. Your instructor @edwardkehoetattoo ✨Now Enrolling 2026 ✨",
+  "instagram_enriched": {
+    "id": "49255451427",
+    "follower_count": 3558,
+    "following_count": 188,
+    "media_count": 408,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monolith_tattoo_academy/instagram/profile.jpg"
+  }
 }

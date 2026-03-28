@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nad_tat2",
-  "name": "Nad",
+  "name": "N4D",
   "location": {
     "city": "Bordeaux",
     "country": "France"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Nad is a highly skilled tattoo artist renowned for their mastery in trashpolka, dotwork, and sketch styles. With years of experience since 2006, they have honed their craft in Bordeaux, France, and project a level of professionalism that is evident in each piece of art they create. The intricate designs and precise details in their work reflect Nad's dedication to the art and culture of tattooing.\nPrice: $\nCurrent location: Bordeaux, Nouvelle-aquitaine, France",
-  "tattooing_since": "2006"
+  "updated_at": "2026-03-28",
+  "bio": "Nad is a highly skilled tattoo artist renowned for their mastery in trashpolka, dotwork, and sketch styles. With years of experience since 2006, they have honed their craft in Bordeaux, France, and project a level of professionalism that is evident in each piece of art they create. The intricate designs and precise details in their work reflect Nad's dedication to the art and culture of tattooing.\nPrice: $\nCurrent location: Bordeaux, Nouvelle-aquitaine, France\n\nFRENCH TATTOO ARTIST SINCE 2006\n📩nadtat2@gmail.com #boucherie3000\n@lombredemarueatelier / BORDEAUX\n@oldbluetattoo / LILLE\n@65ers_graffiti",
+  "tattooing_since": "2006",
+  "instagram_enriched": {
+    "id": "3501314",
+    "follower_count": 7319,
+    "following_count": 1077,
+    "media_count": 1272,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nad_tat2/instagram/profile.jpg"
+  }
 }

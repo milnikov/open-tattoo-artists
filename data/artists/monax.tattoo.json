@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monax.tattoo",
-  "name": "Monax",
+  "name": "⚜️Тату Ірпінь ⚜️Тату Майстер ⚜️",
   "location": {
     "city": "Vyshhorodskyi Raion",
     "country": "Ukraine"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "⚜️Irpen/Ukraine 🇺🇦\n⚜️#monaxtattoo 📸\n⚜️Individual approach 💎\n⚜️ Chicano Black and Grey style, Realism\n⚜️ Парнтер @ambition_ua",
+  "instagram_enriched": {
+    "id": "8208364987",
+    "follower_count": 8437,
+    "following_count": 124,
+    "media_count": 224,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monax.tattoo/instagram/profile.jpg"
+  }
 }

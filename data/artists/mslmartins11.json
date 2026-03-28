@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mslmartins11",
-  "name": "Miguel Martin",
+  "name": "Miguel Martins",
   "location": {
     "city": "Faro",
     "country": "Portugal"
@@ -306,5 +306,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Founder of the project @__estudioonze\n@miguelmartins_art \nSearching and learning",
+  "instagram_enriched": {
+    "id": "785118735",
+    "follower_count": 1681,
+    "following_count": 1445,
+    "media_count": 300,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mslmartins11/instagram/profile.jpg"
+  }
 }

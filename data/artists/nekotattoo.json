@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nekotattoo",
-  "name": "猫 (Neko)",
+  "name": "猫",
   "location": {
     "city": "Nonthaburi",
     "country": "Thailand"
@@ -100,6 +100,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Neko is a highly skilled tattoo artist based in Nonthaburi, Thailand, who specializes in intricate lettering designs, mastering the delicate curves and lines of each font. Whether you're looking for something bold or subtly elegant, Neko's expertise ensures your vision is beautifully brought to life on your skin. Clients appreciate Neko's professionalism and commitment to delivering exceptional tattoo artistry in a welcoming and clean environment.\nPrice: $\nCurrent location: Nonthaburi, Thailand"
+  "updated_at": "2026-03-28",
+  "bio": "Neko is a highly skilled tattoo artist based in Nonthaburi, Thailand, who specializes in intricate lettering designs, mastering the delicate curves and lines of each font. Whether you're looking for something bold or subtly elegant, Neko's expertise ensures your vision is beautifully brought to life on your skin. Clients appreciate Neko's professionalism and commitment to delivering exceptional tattoo artistry in a welcoming and clean environment.\nPrice: $\nCurrent location: Nonthaburi, Thailand",
+  "instagram_enriched": {
+    "id": "6787954346",
+    "follower_count": 92,
+    "following_count": 23,
+    "media_count": 45,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nekotattoo/instagram/profile.jpg"
+  }
 }

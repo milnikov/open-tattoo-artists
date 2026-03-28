@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monumentalinktattoo",
-  "name": "Monumental Ink Tattoo Artist",
+  "name": "Monumental Ink Tattoo Studio",
   "location": {
     "city": "Kemah",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26",
-  "bio": "Monumental Ink Tattoo Artist\nSTUDIO\nKemah, Texas, United States\n4.34k\nAdd\nMessage\nillustrative\nrealism\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Monumental Ink Tattoo Artist\nSTUDIO\nKemah, Texas, United States\n4.34k\nAdd\nMessage\nillustrative\nrealism\nblack&gray\n\nHOME OF THE TEXAS $10 TATTOO ™️\nWALK-INS WELCOME,\nAPPOINTMENTS PREFERRED\nTHE BIGGEST LITTLE TATTOO SHOP IN TEXAS ™️\n📍Kemah, TXx",
+  "instagram_enriched": {
+    "id": "6997695445",
+    "follower_count": 7626,
+    "following_count": 350,
+    "media_count": 2282,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monumentalinktattoo/instagram/profile.jpg"
+  }
 }

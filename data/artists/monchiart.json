@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "monchiart",
-  "name": "monchiart",
+  "name": "Ramon poleo",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -90,5 +90,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "High-end tattoos\nBlack & Gray • Blackwork • Geometry\nLarge-scale & custom pieces\nMiami, FL",
+  "instagram_enriched": {
+    "id": "1424100850",
+    "follower_count": 19759,
+    "following_count": 2217,
+    "media_count": 1368,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monchiart/instagram/profile.jpg"
+  }
 }

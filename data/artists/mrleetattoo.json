@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrleetattoo",
-  "name": "Lee Bailey",
+  "name": "Mr Lee",
   "location": {
     "city": "Leeds",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Lee Bailey is a highly skilled tattoo artist with over 14 years of experience, specializing in illustrative, floral, and black & gray styles. Based in Leeds, United Kingdom, Lee owns the renowned Skinz Tattoo Studio, where they bring clients' visions to life with exceptional artistry and attention to detail. Their expertise is evident in every piece they create, ensuring each client leaves with a masterpiece.\nPrice: $\nCurrent location: Leeds, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Lee Bailey is a highly skilled tattoo artist with over 14 years of experience, specializing in illustrative, floral, and black & gray styles. Based in Leeds, United Kingdom, Lee owns the renowned Skinz Tattoo Studio, where they bring clients' visions to life with exceptional artistry and attention to detail. Their expertise is evident in every piece they create, ensuring each client leaves with a masterpiece.\nPrice: $\nCurrent location: Leeds, England, United Kingdom\n\nOwner of @skinztattoostudio and #tattooartist. Many years experience and enjoy many styles in the #tattoo industry. Please follow me and my studio.",
+  "instagram_enriched": {
+    "id": "20856810",
+    "follower_count": 2821,
+    "following_count": 938,
+    "media_count": 462,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrleetattoo/instagram/profile.jpg"
+  }
 }

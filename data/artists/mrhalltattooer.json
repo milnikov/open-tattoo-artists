@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrhalltattooer",
-  "name": "Josh Hall",
+  "name": "Josh Hall Texas Traditional Tattooer",
   "location": {
     "city": "Dallas",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "Skin Wizard since ‘99. Bright, Bold Custom Tattoos Built To Last. \n•Traditional\n• Cover Ups \n• Laser\nLSTC @tattoosonlamar. \nBOOKS ALWAYS OPEN\n32° /G\\",
+  "instagram_enriched": {
+    "id": "30644452",
+    "follower_count": 12932,
+    "following_count": 2039,
+    "media_count": 1174,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrhalltattooer/instagram/profile.jpg"
+  }
 }

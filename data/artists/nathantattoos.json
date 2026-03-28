@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nathantattoos",
-  "name": "Nathan Galman",
+  "name": "Nathan Tattoos",
   "location": {
     "city": "Chicago",
     "country": "United States"
@@ -556,7 +556,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Nathan Galman, based in Chicago, has a unique and exquisite skill level in creating watercolor, abstract, and blackwork tattoos, which stands testament to his prowess as a tattoo artist since 2014. Despite being quadriplegic, his craftsmanship is impeccable as he transforms skin into a canvas with beautiful and artistic tattoos. Given his level of expertise, all inquiries for Nathan's talent are strictly for tattoos only.\nPrice: $$\nCurrent location: Chicago, Illinois, United States",
-  "tattooing_since": "2014"
+  "updated_at": "2026-03-28",
+  "bio": "Nathan Galman, based in Chicago, has a unique and exquisite skill level in creating watercolor, abstract, and blackwork tattoos, which stands testament to his prowess as a tattoo artist since 2014. Despite being quadriplegic, his craftsmanship is impeccable as he transforms skin into a canvas with beautiful and artistic tattoos. Given his level of expertise, all inquiries for Nathan's talent are strictly for tattoos only.\nPrice: $$\nCurrent location: Chicago, Illinois, United States\n\nQuadriplegic tattooer since 2014\nWatercolor.Abstract.Blackwork \nTATTOO INQUIRIES ONLY",
+  "tattooing_since": "2014",
+  "instagram_enriched": {
+    "id": "35638472",
+    "follower_count": 8899,
+    "following_count": 7181,
+    "media_count": 342,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nathantattoos/instagram/profile.jpg"
+  }
 }

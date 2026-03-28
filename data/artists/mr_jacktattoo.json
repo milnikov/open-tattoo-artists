@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mr_jacktattoo",
-  "name": "Mr Jack Tattoo",
+  "name": "Mr.Jack Cartoon Tattoo",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-26"
+  "updated_at": "2026-03-28",
+  "bio": "SUPER NERD AND OWNER AT @mr.jacktattoofamily & @osutattoo \n💙Disney-Anime-Manga\nSponsored by: \n@worldfamousink \n@killerinktattoo \n@jconly_official",
+  "instagram_enriched": {
+    "id": "502400228",
+    "follower_count": 24229,
+    "following_count": 2915,
+    "media_count": 803,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mr_jacktattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mstattoocompany",
-  "name": "Jim Fortier",
+  "name": "Main Street Tattoo Company",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Jim Fortier is an exceptionally skilled tattoo artist who specializes in traditional, Japanese, and neo-traditional styles. Based out of 176 North Main Street, East Longmeadow, MA, Jim prides himself on delivering intricate and vibrant tattoos. His professionalism and dedication to his craft are evident in every piece he creates, ensuring each client leaves his studio with a masterpiece on their skin.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Jim Fortier is an exceptionally skilled tattoo artist who specializes in traditional, Japanese, and neo-traditional styles. Based out of 176 North Main Street, East Longmeadow, MA, Jim prides himself on delivering intricate and vibrant tattoos. His professionalism and dedication to his craft are evident in every piece he creates, ensuring each client leaves his studio with a masterpiece on their skin.\nPrice: $\nCurrent location:\n\n176 North Main Street, East Longmeadow MA 413-224-2506 MainStreet176@gmail.com\n@jimfortier @road_sauce @meastattoo  @paradis.ink @kyletatss",
+  "instagram_enriched": {
+    "id": "10018641429",
+    "follower_count": 3249,
+    "following_count": 423,
+    "media_count": 317,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mstattoocompany/instagram/profile.jpg"
+  }
 }

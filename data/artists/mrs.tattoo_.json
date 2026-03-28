@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mrs.tattoo_",
-  "name": "SarahMR",
+  "name": "Sarah | Mrs.Tattoo",
   "location": {
     "city": "Hürth",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "𝕋𝕒𝕥𝕥𝕠𝕠 𝔸𝕣𝕥𝕚𝕤𝕥 \n| Cologne (Hürth)\n| nächste Terminvergabe Mitte/Ende Mai \n| bitte keine DM bzgl. Termin",
+  "instagram_enriched": {
+    "id": "193094968",
+    "follower_count": 116775,
+    "following_count": 408,
+    "media_count": 405,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mrs.tattoo_/instagram/profile.jpg"
+  }
 }
