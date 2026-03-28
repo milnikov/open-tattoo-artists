@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nikkisailortattoo",
-  "name": "Nikki Sailor",
+  "name": "Nikki Sailor | Tattoo Artist Liverpool",
   "location": {
     "city": "Liverpool",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "🫶 Custom tattoos created just for you\n💖 Tattooed with care\n👉 Liverpool, UK | 10+ years experience\n🫶 DM me to book\n📍 @liverpool_tattoos_orrellpark",
+  "instagram_enriched": {
+    "id": "570332964",
+    "follower_count": 2630,
+    "following_count": 953,
+    "media_count": 81,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikkisailortattoo/instagram/profile.jpg"
+  }
 }

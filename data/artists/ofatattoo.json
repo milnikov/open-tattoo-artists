@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ofatattoo",
-  "name": "Fanny O'fa",
+  "name": "Ofa",
   "location": {
     "city": "Lille",
     "country": "France"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Fanny O'fa, based in Lille, France, is a highly skilled tattoo artist with a distinct flair in trashpolka and floral designs. Their attention to detail in every realism, ornamental, and graphic piece is evident, leading to exceptional and unique body art. Clients continuously commend Fanny's professionalism, which is complemented by the impeccable standards of cleanliness maintained at their studio, Needlejuice28.\nPrice: $\nCurrent location: Lille, Hauts-de-france, France"
+  "updated_at": "2026-03-28",
+  "bio": "Fanny O'fa, based in Lille, France, is a highly skilled tattoo artist with a distinct flair in trashpolka and floral designs. Their attention to detail in every realism, ornamental, and graphic piece is evident, leading to exceptional and unique body art. Clients continuously commend Fanny's professionalism, which is complemented by the impeccable standards of cleanliness maintained at their studio, Needlejuice28.\nPrice: $\nCurrent location: Lille, Hauts-de-france, France\n\nTatouages.",
+  "instagram_enriched": {
+    "id": "5465069659",
+    "follower_count": 1684,
+    "following_count": 1653,
+    "media_count": 365,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ofatattoo/instagram/profile.jpg"
+  }
 }

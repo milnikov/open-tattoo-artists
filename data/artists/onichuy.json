@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "onichuy",
-  "name": "Onichuy",
+  "name": "horichuy",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Onichuy is an incredibly skilled tattoo artist, renowned for mastering the intricate and symbolic Japanese style of tattoos. Maintaining a high level of professionalism in all of his work, Onichuy ensures a clean workspace and prides himself on his ability to create tattoos that stand out for their quality and attention to detail. His friendliness and politeness make him an exemplary figure in the tattoo industry, beloved by clients for his talent and demeanor."
+  "updated_at": "2026-03-28",
+  "bio": "Onichuy is an incredibly skilled tattoo artist, renowned for mastering the intricate and symbolic Japanese style of tattoos. Maintaining a high level of professionalism in all of his work, Onichuy ensures a clean workspace and prides himself on his ability to create tattoos that stand out for their quality and attention to detail. His friendliness and politeness make him an exemplary figure in the tattoo industry, beloved by clients for his talent and demeanor.",
+  "instagram_enriched": {
+    "id": "26785296",
+    "follower_count": 30433,
+    "following_count": 6253,
+    "media_count": 3115,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onichuy/instagram/profile.jpg"
+  }
 }

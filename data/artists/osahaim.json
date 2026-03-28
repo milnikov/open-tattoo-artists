@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "osahaim",
-  "name": "Eveline Sitsali",
+  "name": "Eevee。",
   "location": {
     "city": "Kazan",
     "country": "Russia"
@@ -619,5 +619,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "instagram_enriched": {
+    "id": "549276022",
+    "follower_count": 2321,
+    "following_count": 1297,
+    "media_count": 458,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/osahaim/instagram/profile.jpg"
+  }
 }

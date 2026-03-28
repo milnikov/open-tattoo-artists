@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nobleart",
-  "name": "Noble Art Academy",
+  "name": "Noble Art Worldwide",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -449,5 +449,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "A global brand for self-expression\nJewelry • Streetwear • Tattoos & Piercing\n𝗙𝗶𝗻𝗱 𝘂𝘀 𝗶𝗻 𝘆𝗼𝘂𝗿 𝗰𝗶𝘁𝘆 👇🏽",
+  "instagram_enriched": {
+    "id": "6265072070",
+    "follower_count": 125352,
+    "following_count": 417,
+    "media_count": 782,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nobleart/instagram/profile.jpg"
+  }
 }

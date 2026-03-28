@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "no_remorse_tattoo",
-  "name": "Fredrik Edin",
+  "name": "Fredde",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Fredrik Edin is a superbly talented tattoo artist known for his exceptional skill in 'black&gray, realism' styles. As the owner and only artist of No Remorse tattoo in Sweden, he ensures every piece of artwork he produces is meticulously crafted to perfection.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Fredrik Edin is a superbly talented tattoo artist known for his exceptional skill in 'black&gray, realism' styles. As the owner and only artist of No Remorse tattoo in Sweden, he ensures every piece of artwork he produces is meticulously crafted to perfection.\nPrice: $$\nCurrent location:\n\nMy name is Fredrik Edin ,Tattoo artist, and the owner of No Remorse tattoo in Sweden. All tattoos are made by me. Email: freddesbokning@gmail.com",
+  "instagram_enriched": {
+    "id": "183631885",
+    "follower_count": 21248,
+    "following_count": 305,
+    "media_count": 588,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/no_remorse_tattoo/instagram/profile.jpg"
+  }
 }

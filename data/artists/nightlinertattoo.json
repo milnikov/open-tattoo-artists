@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nightlinertattoo",
-  "name": "Nightliner Tattoo",
+  "name": "Nightliner Tattoo Berlin",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -352,6 +352,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Step into the artistic haven of Nightliner Tattoo, a Berlin-based studio acclaimed for its exceptional realism tattoo artistry. Established in the vibrant Prenzlauer Berg in 1998 and now captivating clients at its new location in Französisch Buchholz since December 2020, this studio intertwines impeccable craftsmanship with a welcoming atmosphere, making each inked masterpiece a testament to individuality and precision.\nPrice: $\nCurrent location: Berlin, Berlin, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the artistic haven of Nightliner Tattoo, a Berlin-based studio acclaimed for its exceptional realism tattoo artistry. Established in the vibrant Prenzlauer Berg in 1998 and now captivating clients at its new location in Französisch Buchholz since December 2020, this studio intertwines impeccable craftsmanship with a welcoming atmosphere, making each inked masterpiece a testament to individuality and precision.\nPrice: $\nCurrent location: Berlin, Berlin, Germany\n\nIm Januar 1998 im Prenzl Berg eröffnet und nun seit Dez. 2020 unter neuer Adresse in 13127 Berlin (Frz. Buchholz) in der Berliner Straße 30 zu finden.",
+  "instagram_enriched": {
+    "id": "3318774847",
+    "follower_count": 1241,
+    "following_count": 862,
+    "media_count": 61,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nightlinertattoo/instagram/profile.jpg"
+  }
 }

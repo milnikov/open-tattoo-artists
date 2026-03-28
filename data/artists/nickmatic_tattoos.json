@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nickmatic_tattoos",
-  "name": "Nickmatic Tattoos",
+  "name": "Nick Matic | NYC | Black & Grey Tattoos",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "➖ DM to book\n📧 APPT.NICK@GMAIL.COM",
+  "instagram_enriched": {
+    "id": "34294847",
+    "follower_count": 33999,
+    "following_count": 6268,
+    "media_count": 1323,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nickmatic_tattoos/instagram/profile.jpg"
+  }
 }

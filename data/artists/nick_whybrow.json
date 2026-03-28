@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nick_whybrow",
-  "name": "Nick Whybrow",
+  "name": "Nick Whybrow Tattoo",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Nick Whybrow is a highly skilled tattoo artist based in London, United Kingdom, who has been perfecting his craft since 2003. Specializing in dotwork and fineline styles, his stunning precision and attention to detail demonstrate his vast experience and intricate craftsmanship.\nPrice: $$\nCurrent location: London, England, United Kingdom",
-  "tattooing_since": "2003"
+  "updated_at": "2026-03-28",
+  "bio": "Nick Whybrow is a highly skilled tattoo artist based in London, United Kingdom, who has been perfecting his craft since 2003. Specializing in dotwork and fineline styles, his stunning precision and attention to detail demonstrate his vast experience and intricate craftsmanship.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\nTattooer since 2003 🔸  @thegoodfighttattoo🔸@light_creeper 🔸London/England 🔸nickwhybrowtattooer@gmail.com 🔸",
+  "tattooing_since": "2003",
+  "instagram_enriched": {
+    "id": "51378334",
+    "follower_count": 34732,
+    "following_count": 4501,
+    "media_count": 1018,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nick_whybrow/instagram/profile.jpg"
+  }
 }

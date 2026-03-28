@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "odylontattoo",
-  "name": "Odylon Tattoo",
+  "name": "Primitive Style Tattoo",
   "location": {
     "city": "Manaus",
     "country": "Brazil"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Odylon Tattoo, operating since 1985 in Manaus, Brazil, is a master in the art of dotwork and realism tattoos. Renowned for maintaining an exceptional level of cleanliness, Odylon ensures that every client's experience not only meets but exceeds the highest standards of hygiene in the industry. His studio is a testament to his commitment to providing a safe and immaculately maintained environment for all tattoo enthusiasts.\nPrice: $\nCurrent location: Manaus, Amazonas, Brazil",
-  "tattooing_since": "1985"
+  "updated_at": "2026-03-28",
+  "bio": "Odylon Tattoo, operating since 1985 in Manaus, Brazil, is a master in the art of dotwork and realism tattoos. Renowned for maintaining an exceptional level of cleanliness, Odylon ensures that every client's experience not only meets but exceeds the highest standards of hygiene in the industry. His studio is a testament to his commitment to providing a safe and immaculately maintained environment for all tattoo enthusiasts.\nPrice: $\nCurrent location: Manaus, Amazonas, Brazil\n\nPioneiro no ramo da tatuagem em Manaus, atuando desde 1985\n📆 Atendimento personalizado\n📲 92 99408-7898\n💳 Aceito cartão\n⬇️ Link para Whatsapp",
+  "tattooing_since": "1985",
+  "instagram_enriched": {
+    "id": "4772772562",
+    "follower_count": 3415,
+    "following_count": 2472,
+    "media_count": 156,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/odylontattoo/instagram/profile.jpg"
+  }
 }

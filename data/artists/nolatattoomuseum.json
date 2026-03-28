@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nolatattoomuseum",
-  "name": "Adam Montegut",
+  "name": "new orleans tattoo museum",
   "location": {
     "city": "New Orleans",
     "country": "United States"
@@ -210,5 +210,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "// Located inside Tattoo Archive\n🌙Ongoing archive of New Orleans history and pop-up exhibits.\n#AdamMontegut\n✉Nolatattoomuseum@gmail.com",
+  "instagram_enriched": {
+    "id": "1540613780",
+    "follower_count": 3408,
+    "following_count": 757,
+    "media_count": 246,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nolatattoomuseum/instagram/profile.jpg"
+  }
 }

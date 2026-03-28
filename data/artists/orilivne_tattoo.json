@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "orilivne_tattoo",
-  "name": "Ori Livne",
+  "name": "Ori Livne | Tattoos | Art",
   "location": {
     "city": "Haifa",
     "country": "Israel"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist, Illustrator.\n💀Black Lines Matter💀\nחיפה▫️תל אביב\n@emalla.official Proteam 🤟\nOwner: @odtattooisrael\nLinks 👇",
+  "instagram_enriched": {
+    "id": "14718105",
+    "follower_count": 743,
+    "following_count": 1610,
+    "media_count": 408,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/orilivne_tattoo/instagram/profile.jpg"
+  }
 }

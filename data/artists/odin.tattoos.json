@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "odin.tattoos",
-  "name": "Odin",
+  "name": "-ODIN-",
   "location": {
     "city": "Hanau",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "📌Owner, Tattoo Artist and Body Piercer at Walhalla\n📍Frankfurt/Hanau \n👉🏻 @walhallatattoos\nFeel free to ask anything!",
+  "instagram_enriched": {
+    "id": "1322286382",
+    "follower_count": 2563,
+    "following_count": 2983,
+    "media_count": 105,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/odin.tattoos/instagram/profile.jpg"
+  }
 }

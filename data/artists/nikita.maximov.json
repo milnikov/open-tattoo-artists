@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nikita.maximov",
-  "name": "Nikita Maximov",
+  "name": "Nikita Maksimov",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Renowned for his adept skills in the 'newschool' style, Nikita Maximov is a top-rated tattoo artist based in Moscow, Russia. Proficient in creating unique and intricate designs, his brilliant craftsmanship is widely recognised and celebrated in the vibrant world of body art.\nPrice: $$\nCurrent location: Moscow, Central Federal District, Russia"
+  "updated_at": "2026-03-28",
+  "bio": "Renowned for his adept skills in the 'newschool' style, Nikita Maximov is a top-rated tattoo artist based in Moscow, Russia. Proficient in creating unique and intricate designs, his brilliant craftsmanship is widely recognised and celebrated in the vibrant world of body art.\nPrice: $$\nCurrent location: Moscow, Central Federal District, Russia\n\n2d artist",
+  "instagram_enriched": {
+    "id": "291480074",
+    "follower_count": 11493,
+    "following_count": 96,
+    "media_count": 60,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikita.maximov/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nito_ink",
-  "name": "Nito Ink",
+  "name": "Esteban Spijker",
   "location": {
     "city": "Rotterdam",
     "country": "Netherlands"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "-T A T T O O A R T I S T-\n⠀⠀⠀⠀⠀⠀⠀⠀⠀\n📍JAN THIEL INK & CUTZ(CUR) 🇨🇼\n📍KOSMOS INK STUDIO(NL) 🇳🇱\n@janthiel_ink @janthiel_cutz\n⠀⠀⠀⠀⠀⠀⠀⠀\n❌AGENDA CLOSED",
+  "instagram_enriched": {
+    "id": "231660085",
+    "follower_count": 21610,
+    "following_count": 2382,
+    "media_count": 1302,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nito_ink/instagram/profile.jpg"
+  }
 }

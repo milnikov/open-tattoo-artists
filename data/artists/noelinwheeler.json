@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "noelinwheeler",
-  "name": "Noelin Wheeler",
+  "name": "Noelin Wheeler  | Tattoo Artist",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -620,5 +620,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Traveling Artist | Fantasy Realism Tattoos\n➖\nPro Team\n@tattoogoo @ironcladtattooink\n@clear_cut_stencils @boldbooking.io\nExplore your tattoo ideas👇🏼",
+  "instagram_enriched": {
+    "id": "2838272",
+    "follower_count": 39731,
+    "following_count": 935,
+    "media_count": 827,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noelinwheeler/instagram/profile.jpg"
+  }
 }

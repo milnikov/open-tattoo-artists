@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nobleart_valencia",
-  "name": "Noble Art Valencia",
+  "name": "Noble Art Piercing",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -473,5 +473,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Specialized Center for Piercing by @nobleart \n🇺🇸 USA | 🇨🇦 CANADA | 🇨🇭 SWISS | 🇪🇸 SPAIN\nFind us in your city 👇🏼",
+  "instagram_enriched": {
+    "id": "2106489451",
+    "follower_count": 54358,
+    "following_count": 37,
+    "media_count": 194,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nobleart_valencia/instagram/profile.jpg"
+  }
 }

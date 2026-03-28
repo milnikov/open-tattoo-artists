@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "origintattoolondon",
-  "name": "Origin Tattoo London",
+  "name": "ORIGIN TATTOO LONDON",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Walk ins Welcome \nMonday - Saturday\n📞020 3795 3831\n•bookings@origintattoolondon.com•\nTo book an appointment, click the contact button below",
+  "instagram_enriched": {
+    "id": "11209550461",
+    "follower_count": 24064,
+    "following_count": 949,
+    "media_count": 1672,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/origintattoolondon/instagram/profile.jpg"
+  }
 }

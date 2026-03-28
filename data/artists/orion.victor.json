@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "orion.victor",
-  "name": "Orion Victor",
+  "name": "Victor Orion",
   "location": {
     "city": "Fortaleza",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Orion Victor is an extremely skilled tattoo artist based in Fortaleza, Brazil. He specializes in black & gray, floral, and sketch styles, and his stunning work has reached an impressive audience of over 115,000 followers on Instagram. He's an awarded artist, a testament to his remarkable talent and mastery of his craft. Whether you're seeking delicate designs or larger, intricate pieces, Orion's skill level ensures your tattoo vision will come to life exceptionally.\nPrice: $$$\nCurrent location: Fortaleza, Ceara, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Orion Victor is an extremely skilled tattoo artist based in Fortaleza, Brazil. He specializes in black & gray, floral, and sketch styles, and his stunning work has reached an impressive audience of over 115,000 followers on Instagram. He's an awarded artist, a testament to his remarkable talent and mastery of his craft. Whether you're seeking delicate designs or larger, intricate pieces, Orion's skill level ensures your tattoo vision will come to life exceptionally.\nPrice: $$$\nCurrent location: Fortaleza, Ceara, Brazil\n\nArtista plástico retratos realistas al óleo, aficionado como investigador o aficionado a ciencias",
+  "instagram_enriched": {
+    "id": "63816174310",
+    "follower_count": 18,
+    "following_count": 117,
+    "media_count": 3,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/orion.victor/instagram/profile.jpg"
+  }
 }

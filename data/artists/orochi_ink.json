@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "orochi_ink",
-  "name": "Zoe",
+  "name": "Orochi_home_tatto",
   "location": {
     "city": "Maidstone",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Zoe is a highly skilled tattoo artist based in Maidstone, United Kingdom, who specializes in dotwork and is committed to providing vegan tattooing options. Operating out of The Loft Maidstone with an all-female team, Zoe ensures a clean and professional environment for her clients, taking appointments from Monday to Thursday. Her dedication to cleanliness ensures a safe and hygienic experience for every individual seeking her expertise.\nPrice: $\nCurrent location: Maidstone, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Zoe is a highly skilled tattoo artist based in Maidstone, United Kingdom, who specializes in dotwork and is committed to providing vegan tattooing options. Operating out of The Loft Maidstone with an all-female team, Zoe ensures a clean and professional environment for her clients, taking appointments from Monday to Thursday. Her dedication to cleanliness ensures a safe and hygienic experience for every individual seeking her expertise.\nPrice: $\nCurrent location: Maidstone, England, United Kingdom",
+  "instagram_enriched": {
+    "id": "64973033110",
+    "follower_count": 1114,
+    "following_count": 103,
+    "media_count": 23,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/orochi_ink/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oakwoodtattoo",
-  "name": "Chris Oakwood",
+  "name": "Oakwood Tattoo",
   "location": {
     "city": "Decatur",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "💋Central Illinois finest💋\n⚡️Walk-ins Welcome⚡️\n👇Featuring👇\n@chris_oakwood \n@aaron_oakwood\n@ty_oakwood\n@tea_oakwood \n@data81",
+  "instagram_enriched": {
+    "id": "1694923664",
+    "follower_count": 10125,
+    "following_count": 147,
+    "media_count": 2000,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oakwoodtattoo/instagram/profile.jpg"
+  }
 }

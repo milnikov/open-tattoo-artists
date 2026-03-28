@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "odditytattoo",
-  "name": "Travis Franklin",
+  "name": "Oddity Tattoo Studio & Gallery",
   "location": {
     "city": "Sarasota",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Travis Franklin's Oddity Tattoo Studio, located in Sarasota, United States, is an artist-owned sanctuary for unique and custom tattoos. Specializing in illustrative, black&gray, and newschool styles, Travis and his team navigate the edge of contemporary tattoo art. The studio, established in 2003, houses a relaxed environment that welcomes individual expression through personal ink stories.\nPrice: $$\nCurrent location: Sarasota, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Travis Franklin's Oddity Tattoo Studio, located in Sarasota, United States, is an artist-owned sanctuary for unique and custom tattoos. Specializing in illustrative, black&gray, and newschool styles, Travis and his team navigate the edge of contemporary tattoo art. The studio, established in 2003, houses a relaxed environment that welcomes individual expression through personal ink stories.\nPrice: $$\nCurrent location: Sarasota, Florida, United States\n\nOddity Tattoo|Custom|Artist Owned\n2775 Bee Ridge RD 941-923-2278 \n6307 Center Ring RD 941-358-6338\n5337 Gulf DR AMI 941-405-4003\nEST 2003",
+  "instagram_enriched": {
+    "id": "9267570",
+    "follower_count": 17527,
+    "following_count": 967,
+    "media_count": 3399,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/odditytattoo/instagram/profile.jpg"
+  }
 }

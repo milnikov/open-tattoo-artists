@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "only1menace",
-  "name": "Only1menace",
+  "name": "MeNaCe",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "NY Artist in LA | Enigma Beverly Hills  \nColor, Anime, & Custom Work  \nBooking + Aftercare Below  \nMenaceink.appt@gmail.com  \n8760 W Pico Blvd, LA",
+  "instagram_enriched": {
+    "id": "4151082",
+    "follower_count": 23173,
+    "following_count": 5445,
+    "media_count": 2087,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/only1menace/instagram/profile.jpg"
+  }
 }

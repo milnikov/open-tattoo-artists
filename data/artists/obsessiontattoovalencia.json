@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "obsessiontattoovalencia",
-  "name": "Obsession Tattoo Valencia",
+  "name": "𝕺𝖇𝖘𝖊𝖘𝖘𝖎𝖔𝖓 𝕿𝖆𝖙𝖙𝖔𝖔 & 𝕭𝖆𝖗𝖇𝖊𝖗",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo | Barber | Piercing\n📍Estudio de Tatuajes en Valencia\nLunes a Viernes de 9:00 a 13:30 y de 15:00 a 19:00\n💈Barberia Sabados de 9:00 a 14:00",
+  "instagram_enriched": {
+    "id": "3269127676",
+    "follower_count": 44581,
+    "following_count": 503,
+    "media_count": 2069,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/obsessiontattoovalencia/instagram/profile.jpg"
+  }
 }

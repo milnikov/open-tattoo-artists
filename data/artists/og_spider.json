@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "og_spider",
-  "name": "Spider Johnson",
+  "name": "Trenton Jackson",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Spider Johnson is a highly skilled tattoo artist, specializing in the detailed and intricate styles of realism, black & gray. His professionalism is evident in his approach towards work, meticulously booking full day sessions only, to ensure each masterpiece is given the right amount of time and attention it deserves. His unique focus on new custom tattoo work and portraits showcases his creativity and precision in every piece he does.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Spider Johnson is a highly skilled tattoo artist, specializing in the detailed and intricate styles of realism, black & gray. His professionalism is evident in his approach towards work, meticulously booking full day sessions only, to ensure each masterpiece is given the right amount of time and attention it deserves. His unique focus on new custom tattoo work and portraits showcases his creativity and precision in every piece he does.\nPrice: $$\nCurrent location:",
+  "instagram_enriched": {
+    "id": "25227943311",
+    "follower_count": 96,
+    "following_count": 5133,
+    "media_count": 8,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/og_spider/instagram/profile.jpg"
+  }
 }

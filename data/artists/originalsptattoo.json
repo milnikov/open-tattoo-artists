@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "originalsptattoo",
-  "name": "Original SP Tattoo",
+  "name": "Original sp tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Rua senador Felinto Müeller 139 \nCentro Taboão\nOrçamentos e dúvidas pelo whats (11)947542225",
+  "instagram_enriched": {
+    "id": "2542729550",
+    "follower_count": 2021,
+    "following_count": 2029,
+    "media_count": 130,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/originalsptattoo/instagram/profile.jpg"
+  }
 }

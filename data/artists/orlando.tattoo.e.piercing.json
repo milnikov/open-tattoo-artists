@@ -437,5 +437,12 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

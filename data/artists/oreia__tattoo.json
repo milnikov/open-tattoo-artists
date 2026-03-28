@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oreia__tattoo",
-  "name": "Oreia Ink",
+  "name": "Oreıa ınk",
   "location": {
     "city": "Elói Mendes",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "🎨 Tatuador premiado nacionalmente  \n🏆 1º Lugar Tattoo Week SP2019  \n🏆 2º Lugar Pontilhismo Tattoo Week  \n✨ +60 prêmios \n📩 Agende sua tattoo aqui👇",
+  "instagram_enriched": {
+    "id": "1770053503",
+    "follower_count": 16856,
+    "following_count": 7512,
+    "media_count": 960,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oreia__tattoo/instagram/profile.jpg"
+  }
 }

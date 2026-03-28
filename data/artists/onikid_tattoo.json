@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "onikid_tattoo",
-  "name": "Garzy The Oni Kid",
+  "name": "Onikid | Anime Tattoo London",
   "location": {
     "city": "Elda",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "—— London, UK ——\n🍥 Anime & Videogame Tattoos\n👺 @santocuervotattoo \n👇 For bookings,click the link👇",
+  "instagram_enriched": {
+    "id": "1639009165",
+    "follower_count": 4095,
+    "following_count": 1727,
+    "media_count": 121,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/onikid_tattoo/instagram/profile.jpg"
+  }
 }

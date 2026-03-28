@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nikokustomtattoo",
-  "name": "Niko Roland",
+  "name": "Niko Kustom",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "⚜️Artiste tatoueur©️Pro\n🌐25 ans d'expérience.\n👉Sélection @mondialdutatouage \n💥Néo-Réalisme/graphik/cover\n🏛 Fondateur de @kustomtattooparis",
+  "instagram_enriched": {
+    "id": "265869804",
+    "follower_count": 21453,
+    "following_count": 421,
+    "media_count": 444,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikokustomtattoo/instagram/profile.jpg"
+  }
 }

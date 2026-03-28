@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "noble1tattooing",
-  "name": "Noble Todd",
+  "name": "Noble",
   "location": {
     "city": "Cambridge",
     "country": "United States"
@@ -509,6 +509,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Noble Todd is a seasoned tattoo artist with deep expertise in Japanese and traditional styles. Revered for his astonishing talent and expertise, this Cambridge-based artist boasts a notable career spanning over 27 years and enjoys a significant following of around 67,000 on Instagram. His intricate designs and precise technique reveal not only his skill level but the deep passion he carries for his craft.\nPrice: $$\nCurrent location: Cambridge, Massachusetts, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Noble Todd is a seasoned tattoo artist with deep expertise in Japanese and traditional styles. Revered for his astonishing talent and expertise, this Cambridge-based artist boasts a notable career spanning over 27 years and enjoys a significant following of around 67,000 on Instagram. His intricate designs and precise technique reveal not only his skill level but the deep passion he carries for his craft.\nPrice: $$\nCurrent location: Cambridge, Massachusetts, United States\n\n30 years tattooing\n@rightcoast_tattoo                                     @lookoflovebook            @blackclaw           @kyodaicompany",
+  "instagram_enriched": {
+    "id": "5628306",
+    "follower_count": 67546,
+    "following_count": 2545,
+    "media_count": 1528,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/noble1tattooing/instagram/profile.jpg"
+  }
 }

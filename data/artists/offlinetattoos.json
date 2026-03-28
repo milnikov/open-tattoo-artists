@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "offlinetattoos",
-  "name": "Emily Smith",
+  "name": "Paul Goodwin",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -412,6 +412,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Emily Smith is a supremely talented tattoo artist specializing in abstract geometric and minimalist styles. Based in the heart of London, her studio is a beacon of professionalism and cleanliness that adds to the overall comforting environment. Her politeness and friendliness instantly put clients at ease, making the tattooing process an enjoyable experience.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Emily Smith is a supremely talented tattoo artist specializing in abstract geometric and minimalist styles. Based in the heart of London, her studio is a beacon of professionalism and cleanliness that adds to the overall comforting environment. Her politeness and friendliness instantly put clients at ease, making the tattooing process an enjoyable experience.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\n▪️Abstract geometric tattooing. Based in Bristol, monthly in London.\n📧 offlinetattoos@gmail.com\nOr press contact for bookings and enquiries",
+  "instagram_enriched": {
+    "id": "189874857",
+    "follower_count": 13857,
+    "following_count": 2174,
+    "media_count": 190,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/offlinetattoos/instagram/profile.jpg"
+  }
 }

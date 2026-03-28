@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oddtattooer",
-  "name": "Odd Tattooer",
+  "name": "Chester Lee Blackout",
   "location": {
     "city": "Singapore",
     "country": "Singapore"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "@killerinktattoo @bheppo @dynamiccolor \nORACLE TATTOO \n65 97770044\nOdd.tattooer@gmail.com",
+  "instagram_enriched": {
+    "id": "8034452",
+    "follower_count": 61988,
+    "following_count": 932,
+    "media_count": 417,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oddtattooer/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nofriendstattooclub",
-  "name": "No name available",
+  "name": "NO FRIENDS TATTOO CLUB",
   "location": {
     "city": "Brighton",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Permanently Closed",
+  "instagram_enriched": {
+    "id": "5520027453",
+    "follower_count": 20323,
+    "following_count": 349,
+    "media_count": 1524,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nofriendstattooclub/instagram/profile.jpg"
+  }
 }

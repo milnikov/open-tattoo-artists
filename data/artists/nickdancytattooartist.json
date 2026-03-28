@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nickdancytattooartist",
-  "name": "Nick Dancy",
+  "name": "Nick Dancy Tattooartist",
   "location": {
     "city": "Aarhus C",
     "country": "Denmark"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Nick Dancy is a highly skilled tattoo artist specializing in neotraditional and tribal styles. Operating out of Aarhus C, Denmark, he is the proud owner of Dancy & Daughters Tattoo Parlour, a business renowned for its exceptional cleanliness and professional work atmosphere. With nearly 60,000 followers on Instagram, Nick's outstanding talent is widely acknowledged in the tattoo community.\nPrice: $$\nCurrent location: Aarhus C, Central Denmark Region, Denmark"
+  "updated_at": "2026-03-28",
+  "bio": "Nick Dancy is a highly skilled tattoo artist specializing in neotraditional and tribal styles. Operating out of Aarhus C, Denmark, he is the proud owner of Dancy & Daughters Tattoo Parlour, a business renowned for its exceptional cleanliness and professional work atmosphere. With nearly 60,000 followers on Instagram, Nick's outstanding talent is widely acknowledged in the tattoo community.\nPrice: $$\nCurrent location: Aarhus C, Central Denmark Region, Denmark\n\nTattooer, Artist and owner of Dancy & Daughters Tattoo Parlour @dancyanddaughters sponsor @pepax.official #tattoo #caricature",
+  "instagram_enriched": {
+    "id": "1973313491",
+    "follower_count": 51168,
+    "following_count": 3375,
+    "media_count": 1581,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nickdancytattooartist/instagram/profile.jpg"
+  }
 }

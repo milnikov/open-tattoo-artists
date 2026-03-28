@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "nikk_testun",
-  "name": "Nikk Testun",
+  "name": "NIKK",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Nikk Testun is a remarkably skilled tattoo artist based in Milan, Italy, who specializes in minimalist, fineline, and sketch styles of tattooing. His proficiency is widely recognized, making him a sought-after guest resident at esteemed studios such as SWT Roma, Korpus Domini Alba, and Puro Tattoo Studio, all while flaunting exclusive sponsorship from Jconly Official.\nPrice: $$\nCurrent location: Milan, Lombardy, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Nikk Testun is a remarkably skilled tattoo artist based in Milan, Italy, who specializes in minimalist, fineline, and sketch styles of tattooing. His proficiency is widely recognized, making him a sought-after guest resident at esteemed studios such as SWT Roma, Korpus Domini Alba, and Puro Tattoo Studio, all while flaunting exclusive sponsorship from Jconly Official.\nPrice: $$\nCurrent location: Milan, Lombardy, Italy\n\nOwner @mercuriotattoostudio \nSponsored by @jconly_official @jconly.helen",
+  "instagram_enriched": {
+    "id": "451786730",
+    "follower_count": 44710,
+    "following_count": 1331,
+    "media_count": 206,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nikk_testun/instagram/profile.jpg"
+  }
 }

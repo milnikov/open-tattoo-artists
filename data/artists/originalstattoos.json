@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "originalstattoos",
-  "name": "Originals Tattoos",
+  "name": "Original’s Tattoo® Milano",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Cozy tattoo private space in Milan Italy\nhome of local and international artists.\nAppointments only\nTattoo/Guest inquiry👇🏻\nWhatsApp +39 3515239700",
+  "instagram_enriched": {
+    "id": "537899691",
+    "follower_count": 15266,
+    "following_count": 1611,
+    "media_count": 858,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/originalstattoos/instagram/profile.jpg"
+  }
 }

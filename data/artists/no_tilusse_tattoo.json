@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "no_tilusse_tattoo",
-  "name": "No Tilusse",
+  "name": "No Tilusse Tattoo",
   "location": {
     "city": "Serris",
     "country": "France"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27"
+  "updated_at": "2026-03-28",
+  "bio": "Tatoueur aquarelle 🇫🇷 77\nStudio team: @mayuratattoo\nContact: FB or mail ✉️ NO DM\nSponsor @emalla.official @sparktattooink\nArt IG @no_tilusse",
+  "instagram_enriched": {
+    "id": "1826734331",
+    "follower_count": 33752,
+    "following_count": 989,
+    "media_count": 1186,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/no_tilusse_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oceanside__tattoo",
-  "name": "The Arcade Tattoo Museum",
+  "name": "\"THE ARCADE\" Tattoo Museum",
   "location": {
     "city": "Oceanside",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-27",
-  "bio": "Nestled within the vibrant streets of Oceanside, California, The Arcade Tattoo Museum serves as a homage to the art of tattooing, combining tradition and modern aesthetics. Promoting both traditional and neotraditional designs, this studio isn't just a tattoo parlor, it's a sanctuary for preserving the rich history and culture of tattooing. Renowned for impeccable professionalism and commitment, visiting The Arcade is more than an appointment, it's an unforgettable experience.\nPrice: $$\nCurrent location: Oceanside, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled within the vibrant streets of Oceanside, California, The Arcade Tattoo Museum serves as a homage to the art of tattooing, combining tradition and modern aesthetics. Promoting both traditional and neotraditional designs, this studio isn't just a tattoo parlor, it's a sanctuary for preserving the rich history and culture of tattooing. Renowned for impeccable professionalism and commitment, visiting The Arcade is more than an appointment, it's an unforgettable experience.\nPrice: $$\nCurrent location: Oceanside, California, United States\n\n-THE ARCADE-\nA street shop committed to professional tattooing and the preservation of tattoo history\nOceanside, CA",
+  "instagram_enriched": {
+    "id": "3474996962",
+    "follower_count": 16564,
+    "following_count": 1384,
+    "media_count": 1040,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oceanside__tattoo/instagram/profile.jpg"
+  }
 }

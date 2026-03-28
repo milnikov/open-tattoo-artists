@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oscar.c.tattoo",
-  "name": "Oscar C",
+  "name": "Oscar.C / Tattoo Madrid .",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -557,5 +557,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-28"
+  "updated_at": "2026-03-28",
+  "bio": "Madrid, España. @1977tattooparlourmadrid",
+  "instagram_enriched": {
+    "id": "343209870",
+    "follower_count": 32717,
+    "following_count": 3479,
+    "media_count": 457,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oscar.c.tattoo/instagram/profile.jpg"
+  }
 }
