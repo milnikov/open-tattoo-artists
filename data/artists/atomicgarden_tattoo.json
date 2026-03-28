@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atomicgarden_tattoo",
-  "name": "Tony Stallony",
+  "name": "Atomic Garden Professionisti",
   "location": {
     "city": "Milan",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Tony Stallony is an exceptionally skilled tattoo artist based in Milan, Italy. Specializing in black&gray, illustrative, and fine line styles, his distinctive and intricate designs set him apart in the tattoo industry.\nPrice: $$\nCurrent location: Milan, Lombardy, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Tony Stallony is an exceptionally skilled tattoo artist based in Milan, Italy. Specializing in black&gray, illustrative, and fine line styles, his distinctive and intricate designs set him apart in the tattoo industry.\nPrice: $$\nCurrent location: Milan, Lombardy, Italy\n\nSe sei un professionista nei servizi alla persona: Tatuatore/piercer, massaggiatore, Osteopata. Possiamo offrirti una stanza attrezzata.",
+  "instagram_enriched": {
+    "id": "4130833054",
+    "follower_count": 15590,
+    "following_count": 2,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atomicgarden_tattoo/instagram/profile.jpg"
+  }
 }

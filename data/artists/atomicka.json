@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atomicka",
-  "name": "Atomick",
+  "name": "Atomick ZNC",
   "location": {
     "city": "Singapore",
     "country": "Singapore"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Atomick is an adept tattoo artist based in Singapore, renowned for their mastery in the intricate styles of sketch, dotwork, and fineline tattoos. Their professionalism is evident in each piece of art they create, tailoring unique and detailed designs that perfectly encapsulate their client's visions. Visit Atomick for a tattoo experience where skill and precision meet the canvas of your skin.\nPrice: $\nCurrent location: Singapore, Singapore"
+  "updated_at": "2026-03-28",
+  "bio": "Atomick is an adept tattoo artist based in Singapore, renowned for their mastery in the intricate styles of sketch, dotwork, and fineline tattoos. Their professionalism is evident in each piece of art they create, tailoring unique and detailed designs that perfectly encapsulate their client's visions. Visit Atomick for a tattoo experience where skill and precision meet the canvas of your skin.\nPrice: $\nCurrent location: Singapore, Singapore\n\nLetters and Characters 🇸🇬 •ZNC•PHBKLK•  \nTattoo Works - @atomick.inc \nCollectives - @zincnitecrew @bridgers.collective",
+  "instagram_enriched": {
+    "id": "1830900382",
+    "follower_count": 1026,
+    "following_count": 1728,
+    "media_count": 77,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atomicka/instagram/profile.jpg"
+  }
 }

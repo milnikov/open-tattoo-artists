@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bambu.ink",
-  "name": "Bambu Tattoo",
+  "name": "Bambú Tattoo",
   "location": {
     "city": "Gijón",
     "country": "Spain"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Welcome to Bambu Tattoo Studio, a vibrant sanctuary for ink enthusiasts nestled in the heart of Gijón, Spain. Our skilled resident artist, @klaravd, along with a rotation of talented guest artists like @laraschild, specialize in turning your skin into exquisite canvases with unique watercolor and dotwork tattoos. Step into Bambu Tattoo where creativity flows as freely as the ink that adorns your body.\nPrice: $\nCurrent location: Gijón, Principality Of Asturias, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Bambu Tattoo Studio, a vibrant sanctuary for ink enthusiasts nestled in the heart of Gijón, Spain. Our skilled resident artist, @klaravd, along with a rotation of talented guest artists like @laraschild, specialize in turning your skin into exquisite canvases with unique watercolor and dotwork tattoos. Step into Bambu Tattoo where creativity flows as freely as the ink that adorns your body.\nPrice: $\nCurrent location: Gijón, Principality Of Asturias, Spain\n\nArtistas residentes:\n@klaravd",
+  "instagram_enriched": {
+    "id": "7325911989",
+    "follower_count": 996,
+    "following_count": 800,
+    "media_count": 233,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bambu.ink/instagram/profile.jpg"
+  }
 }

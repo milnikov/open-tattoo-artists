@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andybarbers_tattoo",
-  "name": "Andy Barber",
+  "name": "Andy Barber's New Rose Tattoo",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Andy Barber is an exceptionally skilled tattoo artist hailing from South West London, renowned for his mastery in illustrative and black & gray styles. With a career that has been thriving since 1984, Andy has established himself as an expert in the tattoo industry, upholding a standard of cleanliness that is second to none. Clients visiting Andy can expect a professional experience in a meticulously maintained studio environment.\nPrice: $\nCurrent location: London, England, United Kingdom",
-  "tattooing_since": "1984"
+  "updated_at": "2026-03-28",
+  "bio": "Andy Barber is an exceptionally skilled tattoo artist hailing from South West London, renowned for his mastery in illustrative and black & gray styles. With a career that has been thriving since 1984, Andy has established himself as an expert in the tattoo industry, upholding a standard of cleanliness that is second to none. Clients visiting Andy can expect a professional experience in a meticulously maintained studio environment.\nPrice: $\nCurrent location: London, England, United Kingdom\n\n@tat2barbz Andy 👹\n@tattoos_by_mattpkk Matt 🔞\n@ginge_kidd Sophie Piercer🏍\n🌹SOUTH WEST LONDON'S FINEST SINCE '84🌹",
+  "tattooing_since": "1984",
+  "instagram_enriched": {
+    "id": "5955765575",
+    "follower_count": 1505,
+    "following_count": 324,
+    "media_count": 497,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andybarbers_tattoo/instagram/profile.jpg"
+  }
 }

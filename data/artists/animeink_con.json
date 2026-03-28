@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "animeink_con",
-  "name": "Anime Ink Con",
+  "name": "Anime Ink",
   "location": {
     "city": "Richmond",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Anime Ink Con, a skilled tattoo artist based in Richmond, United States, is famous for their illustrative and neotraditional styles. Renowned for the mastery exhibited in their work, they've garnered a large following of over 50,000 on Instagram reflecting their exceptional talent. They hold annual conventions, with the next scheduled in October 2022 at the Greater Richmond Convention Center.\nPrice: $$\nCurrent location: Richmond, Virginia, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Anime Ink Con, a skilled tattoo artist based in Richmond, United States, is famous for their illustrative and neotraditional styles. Renowned for the mastery exhibited in their work, they've garnered a large following of over 50,000 on Instagram reflecting their exceptional talent. They hold annual conventions, with the next scheduled in October 2022 at the Greater Richmond Convention Center.\nPrice: $$\nCurrent location: Richmond, Virginia, United States\n\nAnime Ink Convention | Richmond, VA\nOctober 2 - 4, 2026\nAll ages welcome!\nGreater Richmond Convention Center",
+  "instagram_enriched": {
+    "id": "9608578402",
+    "follower_count": 78556,
+    "following_count": 1520,
+    "media_count": 1997,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/animeink_con/instagram/profile.jpg"
+  }
 }

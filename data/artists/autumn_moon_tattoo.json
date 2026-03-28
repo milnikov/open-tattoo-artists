@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "autumn_moon_tattoo",
-  "name": "Autumn Moon Tattoo Shop",
+  "name": "Autumn Moon Tattoo",
   "location": {
     "city": "Anaheim",
     "country": "United States"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Artists\nSuppliers\nAbout\nImmerse yourself in the precision of Autumn Moon Tattoo Shop, a sanctuary of 'fineline' artistry nestled in the heart of Anaheim since 1992. Our collective of masterful artists, including @rheumatoid_artist, @slimeballtattoos, @veranosarttt, @artbylaurentyrell, @mr.inks__, @johnxalo, and @pcdonahue, offer an unparalleled dedication to creating intricate tattoos that capture the essence of your unique story.\nPrice: $\nCurrent location: Anaheim, California, United States",
-  "tattooing_since": "1992"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nImmerse yourself in the precision of Autumn Moon Tattoo Shop, a sanctuary of 'fineline' artistry nestled in the heart of Anaheim since 1992. Our collective of masterful artists, including @rheumatoid_artist, @slimeballtattoos, @veranosarttt, @artbylaurentyrell, @mr.inks__, @johnxalo, and @pcdonahue, offer an unparalleled dedication to creating intricate tattoos that capture the essence of your unique story.\nPrice: $\nCurrent location: Anaheim, California, United States\n\nEst. 1992.. \nWalk ins welcomed everyday.\nArtist \n@slimeballtattoos\n@margarita_tattoos\n@come.away.o.human.child\n@gonemachines",
+  "tattooing_since": "1992",
+  "instagram_enriched": {
+    "id": "3668279347",
+    "follower_count": 7983,
+    "following_count": 442,
+    "media_count": 296,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/autumn_moon_tattoo/instagram/profile.jpg"
+  }
 }

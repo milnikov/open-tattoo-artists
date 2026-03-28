@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "as_tattoo.arts",
-  "name": "AS Tattoo & Arts",
+  "name": "Alexander Semler",
   "location": {
     "city": "Ulm",
     "country": "Germany"
@@ -114,6 +114,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "AS Tattoo & Arts is renowned for their exceptional skill in creating black and gray, sketch, and dotwork tattoos. Located in the heart of Ulm, Germany, clients flock to this artist to experience the precision and artistry that are evident in every piece they create. At the intersection of traditional craftsmanship and modern aesthetics, AS Tattoo & Arts sets the standard for intricate and captivating tattoo art.\nPrice: $\nCurrent location: Ulm, Baden-wurttemberg, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "AS Tattoo & Arts is renowned for their exceptional skill in creating black and gray, sketch, and dotwork tattoos. Located in the heart of Ulm, Germany, clients flock to this artist to experience the precision and artistry that are evident in every piece they create. At the intersection of traditional craftsmanship and modern aesthetics, AS Tattoo & Arts sets the standard for intricate and captivating tattoo art.\nPrice: $\nCurrent location: Ulm, Baden-wurttemberg, Germany\n\n• tattoo\n• art",
+  "instagram_enriched": {
+    "id": "2936419769",
+    "follower_count": 1616,
+    "following_count": 2030,
+    "media_count": 138,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/as_tattoo.arts/instagram/profile.jpg"
+  }
 }

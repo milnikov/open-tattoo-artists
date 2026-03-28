@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "appletattoo",
-  "name": "Apple Tattoo",
+  "name": "Apple Tattoo Rochester",
   "location": {
     "city": "Rochester",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Apple Tattoo\nSTUDIO\nRochester, New York, United States\n1.19k\nAdd\nMessage\njapanese\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Apple Tattoo\nSTUDIO\nRochester, New York, United States\n1.19k\nAdd\nMessage\njapanese\ntraditional\n\n1118 Monroe Avenue\nRochester, NY\n585-441-4962",
+  "instagram_enriched": {
+    "id": "243367548",
+    "follower_count": 1195,
+    "following_count": 509,
+    "media_count": 849,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/appletattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "astrotravelling",
-  "name": "Tom Sasson",
+  "name": "Tom sasson",
   "location": {
     "city": "Tel Aviv-yafo",
     "country": "Israel"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Tom Sasson is a highly skilled tattoo artist specialized in fineline and dotwork, boasting a refined touch that brings intricate designs to life with precision. Currently based in Oslo and open for appointments through direct messages, Tom maintains a professional atmosphere within a clean and hygienic studio back in Tel Aviv-Yafo, ensuring clients not only receive top-quality artwork but also a safe and reassuring experience.\nPrice: $\nCurrent location: Tel Aviv-yafo, Tel Aviv, Israel"
+  "updated_at": "2026-03-28",
+  "bio": "Tom Sasson is a highly skilled tattoo artist specialized in fineline and dotwork, boasting a refined touch that brings intricate designs to life with precision. Currently based in Oslo and open for appointments through direct messages, Tom maintains a professional atmosphere within a clean and hygienic studio back in Tel Aviv-Yafo, ensuring clients not only receive top-quality artwork but also a safe and reassuring experience.\nPrice: $\nCurrent location: Tel Aviv-yafo, Tel Aviv, Israel\n\nDenver3.25-27\nATX3.31-4.1\nNashville4.6-7\nATL4.9-11\nJacksonville4.13-14\nCharlotte4.16-18\nSavannah4.22-23",
+  "instagram_enriched": {
+    "id": "437877302",
+    "follower_count": 32019,
+    "following_count": 1725,
+    "media_count": 431,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/astrotravelling/instagram/profile.jpg"
+  }
 }

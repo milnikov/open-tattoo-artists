@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artefina.tattoo",
-  "name": "Arturo Fernandez",
+  "name": "Estúdio de tatuagem",
   "location": {
     "city": "Vacaria",
     "country": "Brazil"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Arturo Fernandez Tattoo Studio, nestled in the heart of Vacaria, Brazil, specializes in intricate black & gray and floral tattoo designs since 2015. With a fully equipped studio and a diverse team of talented artists, they expertly transform your ideas into stunning skin art.\nPrice: $$\nCurrent location: Vacaria, Rio Grande Do Sul, Brazil",
-  "tattooing_since": "2015"
+  "updated_at": "2026-03-28",
+  "bio": "Arturo Fernandez Tattoo Studio, nestled in the heart of Vacaria, Brazil, specializes in intricate black & gray and floral tattoo designs since 2015. With a fully equipped studio and a diverse team of talented artists, they expertly transform your ideas into stunning skin art.\nPrice: $$\nCurrent location: Vacaria, Rio Grande Do Sul, Brazil\n\n⚜️ Transformamos suas ideias em arte\n⏳ Since 2015\n⚠️ Estúdio completo para você\n💎Piercing 👉 @artefina.bodypiercing \nDúvidas? Clica nesse link abaixo 👇",
+  "tattooing_since": "2015",
+  "instagram_enriched": {
+    "id": "19460465972",
+    "follower_count": 10960,
+    "following_count": 346,
+    "media_count": 549,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artefina.tattoo/instagram/profile.jpg"
+  }
 }

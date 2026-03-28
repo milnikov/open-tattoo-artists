@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "apellestattoo",
-  "name": "Apelles Tattoo",
+  "name": "APELLES TATTOO",
   "location": {
     "city": "Bologna",
     "country": "Italy"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Nestled in the heart of Bologna, Italy, Apelles Tattoo has been crafting exquisite body art since 1991, specializing in the intricate finesse of fineline, black & gray, and illustrative styles. Our seasoned resident artists, led by talents like Stefano Marchesini and Neuroskin Tattoo, offer a bespoke and immersive tattooing experience in an environment that breathes creativity and a deep respect for the art form.\nPrice: $\nCurrent location: Bologna, Emilia-romagna, Italy",
-  "tattooing_since": "1991"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the heart of Bologna, Italy, Apelles Tattoo has been crafting exquisite body art since 1991, specializing in the intricate finesse of fineline, black & gray, and illustrative styles. Our seasoned resident artists, led by talents like Stefano Marchesini and Neuroskin Tattoo, offer a bespoke and immersive tattooing experience in an environment that breathes creativity and a deep respect for the art form.\nPrice: $\nCurrent location: Bologna, Emilia-romagna, Italy\n\nMARTEDÌ - SABATO 11:00/19:00 \nStrada maggiore 71/a, Bologna\nDM / +051 266808\n@stefmarchesini \n@tamara.pignataro \n@eddcasetto.tattoo \n@teresa.muzzioli",
+  "tattooing_since": "1991",
+  "instagram_enriched": {
+    "id": "6536987580",
+    "follower_count": 4747,
+    "following_count": 360,
+    "media_count": 391,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/apellestattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "antstattoo",
-  "name": "Antonio",
+  "name": "Ants Tattoo",
   "location": {
     "city": "Irvine",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Antonio is an incredibly skilled tattoo artist, specialising in fineline, floral, and minimalist styles. Working out of his clean, professional shops in both Tustin and Arcadia, he openly welcomes walk-ins, but a call beforehand is appreciated. Regardless of style or complexity, Antonio delivers beautifully crafted tattoos with expert precision.\nPrice: $$\nCurrent location: Irvine, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Antonio is an incredibly skilled tattoo artist, specialising in fineline, floral, and minimalist styles. Working out of his clean, professional shops in both Tustin and Arcadia, he openly welcomes walk-ins, but a call beforehand is appreciated. Regardless of style or complexity, Antonio delivers beautifully crafted tattoos with expert precision.\nPrice: $$\nCurrent location: Irvine, California, United States\n\n📍17292 McFadden ave #J Tustin CA 92780 Walk-ins Welcome\n☎️626-233-8609\n📍 832 S. Baldwin Avenue Arcadia CA91007  Call before Walk-ins",
+  "instagram_enriched": {
+    "id": "6298968892",
+    "follower_count": 20883,
+    "following_count": 15,
+    "media_count": 2794,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/antstattoo/instagram/profile.jpg"
+  }
 }

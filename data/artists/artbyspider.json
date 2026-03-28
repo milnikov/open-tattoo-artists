@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artbyspider",
-  "name": "ArtbySpider",
+  "name": "Spider",
   "location": {
     "city": "Dickinson",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "ArtbySpider is a highly skilled tattoo artist based in Dickinson, United States, with a remarkable talent for black and gray ink creations. Clients consistently praise the exceptional level of cleanliness upheld in their studio, ensuring a safe and hygienic environment for each and every tattoo session. Whether you're looking for intricate designs or bold statement pieces, ArtbySpider's commitment to a clean workspace complements their artistic expertise, promising a superior tattooing experience.\nPrice: $\nCurrent location: Dickinson, North Dakota, United States"
+  "updated_at": "2026-03-28",
+  "bio": "ArtbySpider is a highly skilled tattoo artist based in Dickinson, United States, with a remarkable talent for black and gray ink creations. Clients consistently praise the exceptional level of cleanliness upheld in their studio, ensuring a safe and hygienic environment for each and every tattoo session. Whether you're looking for intricate designs or bold statement pieces, ArtbySpider's commitment to a clean workspace complements their artistic expertise, promising a superior tattooing experience.\nPrice: $\nCurrent location: Dickinson, North Dakota, United States\n\nMy art account\n@spidertastic",
+  "instagram_enriched": {
+    "id": "65812888199",
+    "follower_count": 114,
+    "following_count": 117,
+    "media_count": 7,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artbyspider/instagram/profile.jpg"
+  }
 }

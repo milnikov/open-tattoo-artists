@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artist.guy",
-  "name": "Marlon Morante",
+  "name": "Marlon Morante|Dallas Tattoo Artist",
   "location": {
     "city": "Dallas",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Marlon Morante is a highly skilled tattoo artist based in Dallas, United States, specializing in the black & gray and realism styles. Portraying a professionalism that's hard to match, Marlon ensures a clean environment for his clients, paying utmost attention to sanitary standards. He maintains an open booking system, making him accessible for those in search of an artist with his caliber of remarkable precision.\nPrice: $$\nCurrent location: Dallas, Texas, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Marlon Morante is a highly skilled tattoo artist based in Dallas, United States, specializing in the black & gray and realism styles. Portraying a professionalism that's hard to match, Marlon ensures a clean environment for his clients, paying utmost attention to sanitary standards. He maintains an open booking system, making him accessible for those in search of an artist with his caliber of remarkable precision.\nPrice: $$\nCurrent location: Dallas, Texas, United States\n\n✨I specialize in turning ”I’m not sure how to describe it” into “that’s exactly what I wanted!”\n📩Info@artistguytattoo.com\nSchedule a consultation 👇🏽",
+  "instagram_enriched": {
+    "id": "14285829",
+    "follower_count": 13325,
+    "following_count": 1565,
+    "media_count": 938,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artist.guy/instagram/profile.jpg"
+  }
 }

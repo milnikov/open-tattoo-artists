@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ari_tattooer",
-  "name": "Ari Lee",
+  "name": "부산타투",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Ari Lee, a renowned tattoo artist based in South Korea, specializes in traditional, neotraditional, and illustrative styles with exceptional skill. Her artistry is frequented both locally and internationally, evident in her traveling plans to London, Berlin and Paris from October through December.\nPrice: $$\nCurrent location: South Korea"
+  "updated_at": "2026-03-28",
+  "bio": "Ari Lee, a renowned tattoo artist based in South Korea, specializes in traditional, neotraditional, and illustrative styles with exceptional skill. Her artistry is frequented both locally and internationally, evident in her traveling plans to London, Berlin and Paris from October through December.\nPrice: $$\nCurrent location: South Korea\n\n#부산타투 \n🇰🇷부산:)3월 예약가능 합니다💖\n🇬🇧London:) 27 Mar~7th Apr\n🇬🇧Birmingham:) 10~12th Apr\nPlease contact to DM 💌",
+  "instagram_enriched": {
+    "id": "587115127",
+    "follower_count": 56890,
+    "following_count": 901,
+    "media_count": 675,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ari_tattooer/instagram/profile.jpg"
+  }
 }

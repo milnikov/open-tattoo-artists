@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artemistattoos",
-  "name": "Artemis",
+  "name": "Artemis Tattoo Studio",
   "location": {
     "city": "Lancaster",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Embark on a vibrant inking journey at Artemis, Lancaster's premier tattoo studio, where fresh newschool designs, intricate illustrative artistry, and bold traditional styles come to life on skin. At Artemis, every session is a bespoke experience—meticulously tailored to each client’s vision—within a haven of creativity and professionalism. Reach out to us at artemistattoos@gmail.com for your exclusive appointment; let's craft your masterpiece together.\nPrice: $\nCurrent location: Lancaster, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Embark on a vibrant inking journey at Artemis, Lancaster's premier tattoo studio, where fresh newschool designs, intricate illustrative artistry, and bold traditional styles come to life on skin. At Artemis, every session is a bespoke experience—meticulously tailored to each client’s vision—within a haven of creativity and professionalism. Reach out to us at artemistattoos@gmail.com for your exclusive appointment; let's craft your masterpiece together.\nPrice: $\nCurrent location: Lancaster, New York, United States\n\nOur team of passionate and experienced artists excel in both black and gray and vibrant color work, pushing the boundaries of artistic expression.",
+  "instagram_enriched": {
+    "id": "1517236627",
+    "follower_count": 3760,
+    "following_count": 230,
+    "media_count": 418,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artemistattoos/instagram/profile.jpg"
+  }
 }

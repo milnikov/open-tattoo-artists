@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atypical.thomas",
-  "name": "Studio Blanco Tattoo",
+  "name": "mr.T",
   "location": {
     "city": "Stockholm",
     "country": "Sweden"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Studio Blanco Tattoo\nSTUDIO\nStockholm, Stockholm County, Sweden\n39.0k\nAdd\nMessage\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Studio Blanco Tattoo\nSTUDIO\nStockholm, Stockholm County, Sweden\n39.0k\nAdd\nMessage\nblack&gray\n\n🗺📍 @studioblancotattoo                           \n⚒      @fkirons      \n🗡      @kwadron",
+  "instagram_enriched": {
+    "id": "33625373",
+    "follower_count": 34614,
+    "following_count": 392,
+    "media_count": 143,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atypical.thomas/instagram/profile.jpg"
+  }
 }

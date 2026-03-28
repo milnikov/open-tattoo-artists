@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "arylilith",
-  "name": "Ary Lilith",
+  "name": "Ary Lilith tattoo",
   "location": {
     "city": "Naples",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Ary Lilith is a masterful tattoo artist located in Naples, Italy, specializing in illustrative, minimalist, and fine line styles. Highly professional, Ary's attention to detail and innovative 'minimal pop' aesthetic is admired at the well-known Encre Tattoo studio where they work.\nPrice: $$\nCurrent location: Naples, Campania, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Ary Lilith is a masterful tattoo artist located in Naples, Italy, specializing in illustrative, minimalist, and fine line styles. Highly professional, Ary's attention to detail and innovative 'minimal pop' aesthetic is admired at the well-known Encre Tattoo studio where they work.\nPrice: $$\nCurrent location: Naples, Campania, Italy\n\nTatuatrice @encretattoo📍Napoli - Milano    \nTatuaggi illustrativi personalizzati neri e turchesi  💙🩵",
+  "instagram_enriched": {
+    "id": "594077048",
+    "follower_count": 16858,
+    "following_count": 1278,
+    "media_count": 663,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/arylilith/instagram/profile.jpg"
+  }
 }

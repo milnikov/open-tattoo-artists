@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bailey_tattooer",
-  "name": "Bailey",
+  "name": "Bailey Tattooer",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bailey is an accomplished tattoo artist based in Melbourne, Australia, who specializes in a variety of styles, including traditional, geometric, and tribal designs. With a significant following of over 55,000 loyal fans on Instagram, Bailey consistently showcases impeccable talent and unparalleled dedication to his craft through his account @sacredelectrictattoo. Admired for his artistry, he has also established a reputation for maintaining a clean, professional environment for his clientele.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Bailey is an accomplished tattoo artist based in Melbourne, Australia, who specializes in a variety of styles, including traditional, geometric, and tribal designs. With a significant following of over 55,000 loyal fans on Instagram, Bailey consistently showcases impeccable talent and unparalleled dedication to his craft through his account @sacredelectrictattoo. Admired for his artistry, he has also established a reputation for maintaining a clean, professional environment for his clientele.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia\n\nTattooing from Private studio, \nleeds UK\nEmail for appointment \nbailey.tattooer@gmail.com",
+  "instagram_enriched": {
+    "id": "11956705",
+    "follower_count": 55128,
+    "following_count": 883,
+    "media_count": 1144,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bailey_tattooer/instagram/profile.jpg"
+  }
 }

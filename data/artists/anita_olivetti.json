@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "anita_olivetti",
-  "name": "Anita Olivetti",
+  "name": "Anita Alessi",
   "location": {
     "city": "Finale Ligure",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Anita Olivetti is a highly skilled tattoo artist based in Finale Ligure, Italy, who excels in various styles such as watercolor, illustrative, and trashpolka. Currently a resident at theCorner Tattoo Studio, Anita brings her unique flair to each body art and welcomes clients with detailed project discussions or appointments via phone and direct messages.\nPrice: $$\nCurrent location: Finale Ligure, Liguria, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Anita Olivetti is a highly skilled tattoo artist based in Finale Ligure, Italy, who excels in various styles such as watercolor, illustrative, and trashpolka. Currently a resident at theCorner Tattoo Studio, Anita brings her unique flair to each body art and welcomes clients with detailed project discussions or appointments via phone and direct messages.\nPrice: $$\nCurrent location: Finale Ligure, Liguria, Italy",
+  "instagram_enriched": {
+    "id": "73529857782",
+    "follower_count": 28,
+    "following_count": 20,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/anita_olivetti/instagram/profile.jpg"
+  }
 }

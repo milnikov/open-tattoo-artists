@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "babook.tattoo",
-  "name": "Babook Tattoo",
+  "name": "Babook tattoo",
   "location": {
     "city": "Wasquehal",
     "country": "France"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Babook Tattoo is an extraordinarily skilled tattoo artist, known for their unique 'sketch' style tattoos. Based out of Wasquehal, France and with nearly 63,000 followers on Instagram, their talent is widely recognized and sought after. They show exceptional professionalism, ensuring their large community of clients are serviced efficiently, as they're already open for booking from June to August. Babook also owns and operates @noir_rivage in Lille, France, further proving their commitment to the art.\nPrice: $$\nCurrent location: Wasquehal, Hauts-de-france, France"
+  "updated_at": "2026-03-28",
+  "bio": "Babook Tattoo is an extraordinarily skilled tattoo artist, known for their unique 'sketch' style tattoos. Based out of Wasquehal, France and with nearly 63,000 followers on Instagram, their talent is widely recognized and sought after. They show exceptional professionalism, ensuring their large community of clients are serviced efficiently, as they're already open for booking from June to August. Babook also owns and operates @noir_rivage in Lille, France, further proving their commitment to the art.\nPrice: $$\nCurrent location: Wasquehal, Hauts-de-france, France\n\nTattoo artist and illustrator.\n•booking: email / Dm",
+  "instagram_enriched": {
+    "id": "197913251",
+    "follower_count": 59230,
+    "following_count": 789,
+    "media_count": 432,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/babook.tattoo/instagram/profile.jpg"
+  }
 }

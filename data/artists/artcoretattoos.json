@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "artcoretattoos",
-  "name": "Dolph Artcore",
+  "name": "Artcore Tattoos",
   "location": {
     "city": "Toulouse",
     "country": "France"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Dolph Artcore is a highly skilled tattoo artist based in Toulouse, France, renowned for his intricate and powerful tribal tattoo designs. His professionalism is reflected in both the quality of his art and the impeccable cleanliness of his parlor, ensuring a safe and exceptional experience for all his clients. Follow his stunning creations on Instagram @dolph_artcoretattoos.\nPrice: $\nCurrent location: Toulouse, Occitanie, France"
+  "updated_at": "2026-03-28",
+  "bio": "Dolph Artcore is a highly skilled tattoo artist based in Toulouse, France, renowned for his intricate and powerful tribal tattoo designs. His professionalism is reflected in both the quality of his art and the impeccable cleanliness of his parlor, ensuring a safe and exceptional experience for all his clients. Follow his stunning creations on Instagram @dolph_artcoretattoos.\nPrice: $\nCurrent location: Toulouse, Occitanie, France\n\nStudio privé de tatouage   Toulouse, France                  @dolph_artcoretattoos",
+  "instagram_enriched": {
+    "id": "6650249619",
+    "follower_count": 3699,
+    "following_count": 952,
+    "media_count": 148,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/artcoretattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "atelierfour",
-  "name": "Atelier Four",
+  "name": "ATELIER FOUR",
   "location": {
     "city": "Truro",
     "country": "United Kingdom"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Nestled in Truro's artistic core, Atelier Four is a modern, award-winning tattoo studio specializing in the timeless elegance of black and gray ink since 2014. Step into a space where contemporary design meets exceptional craftsmanship, offering personalized tattoos in a serene setting, all by appointment only to ensure an intimate and focused experience for every client.\nPrice: $$\nCurrent location: Truro, England, United Kingdom",
-  "tattooing_since": "2014"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in Truro's artistic core, Atelier Four is a modern, award-winning tattoo studio specializing in the timeless elegance of black and gray ink since 2014. Step into a space where contemporary design meets exceptional craftsmanship, offering personalized tattoos in a serene setting, all by appointment only to ensure an intimate and focused experience for every client.\nPrice: $$\nCurrent location: Truro, England, United Kingdom\n\n*WE WEAR OUR ART*\nContemporary Tattoo Atelier | Cornwall 🇬🇧\nRedefining the tattoo experience - EST. 2014\nSupported by @magnumtattoosupplies \nTO BOOK 👇",
+  "tattooing_since": "2014",
+  "instagram_enriched": {
+    "id": "1422971210",
+    "follower_count": 12389,
+    "following_count": 1309,
+    "media_count": 1498,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/atelierfour/instagram/profile.jpg"
+  }
 }
