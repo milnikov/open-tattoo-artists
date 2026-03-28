@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jesse_singleton",
-  "name": "Jesse Singleton",
+  "name": "Jesse",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -184,6 +184,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-20",
-  "bio": "Jesse Singleton is a highly skilled tattoo artist specializing in geometric designs, offering clients intricate patterns and shapes that adorn their skin with precision. Based in London, United Kingdom, Jesse is known for maintaining an immaculate workspace, ensuring every session adheres to the highest standards of cleanliness. Their commitment to a clean environment makes for a safe and comfortable experience for all their clients.\nPrice: $\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Jesse Singleton is a highly skilled tattoo artist specializing in geometric designs, offering clients intricate patterns and shapes that adorn their skin with precision. Based in London, United Kingdom, Jesse is known for maintaining an immaculate workspace, ensuring every session adheres to the highest standards of cleanliness. Their commitment to a clean environment makes for a safe and comfortable experience for all their clients.\nPrice: $\nCurrent location: London, England, United Kingdom",
+  "instagram_enriched": {
+    "id": "1149160947",
+    "follower_count": 4143,
+    "following_count": 1631,
+    "media_count": 57,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jesse_singleton/instagram/profile.jpg"
+  }
 }
