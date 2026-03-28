@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "happypetsink",
-  "name": "Violène & Patch",
+  "name": "Patch Monnier",
   "location": {
     "city": "Lausanne",
     "country": "Switzerland"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Violène & Patch are expert tattoo artists based in Lausanne, Switzerland, specializing in the unique styles of geometric, black & gray, and fine line tattoos. They co-own the renowned Happy Pets Studio, where they also excel as illustrators, impressing a multitude of clients with their unbeatable skill level in both tattooing and drawing.\nPrice: $$\nCurrent location: Lausanne, Vaud, Switzerland"
+  "updated_at": "2026-03-28",
+  "bio": "Violène & Patch are expert tattoo artists based in Lausanne, Switzerland, specializing in the unique styles of geometric, black & gray, and fine line tattoos. They co-own the renowned Happy Pets Studio, where they also excel as illustrators, impressing a multitude of clients with their unbeatable skill level in both tattooing and drawing.\nPrice: $$\nCurrent location: Lausanne, Vaud, Switzerland\n\n𝔥𝔞𝔭𝔭𝔶𝔭𝔢𝔱𝔰 is Violène & Patch / 4 hands drawings and tattoos / Tattooers, illustrators and owners of the @happypetsstudio / Contact: info@happypets.ch",
+  "instagram_enriched": {
+    "id": "351496555",
+    "follower_count": 43380,
+    "following_count": 1346,
+    "media_count": 730,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/happypetsink/instagram/profile.jpg"
+  }
 }

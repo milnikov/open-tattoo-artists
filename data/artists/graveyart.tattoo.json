@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "graveyart.tattoo",
-  "name": "Graveyart Tattoo",
+  "name": "Graveyart - Tattoo Studio",
   "location": {
     "city": "Lisbon",
     "country": "Portugal"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Graveyart Tattoo\nSTUDIO\nLisbon, Portugal\n5.33k\nAdd\nMessage\nblack&gray\nrealism\ndotwork"
+  "updated_at": "2026-03-28",
+  "bio": "Graveyart Tattoo\nSTUDIO\nLisbon, Portugal\n5.33k\nAdd\nMessage\nblack&gray\nrealism\ndotwork\n\n🏆Estúdio Multi Premiado🏆 \n🎨 Our team: @feio_artwork @pablo_bootycelli  \nMorada:",
+  "instagram_enriched": {
+    "id": "6025186958",
+    "follower_count": 5572,
+    "following_count": 1325,
+    "media_count": 575,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/graveyart.tattoo/instagram/profile.jpg"
+  }
 }

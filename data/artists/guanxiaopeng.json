@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "guanxiaopeng",
-  "name": "Guan Xiaopeng",
+  "name": "Wong",
   "location": {
     "city": "Kuala Lumpur",
     "country": "Malaysia"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Guan Xiaopeng, a renowned tattoo artist and founder of D-Snake-Art, hails from Kuala Lumpur, Malaysia. Specializing in striking black and gray designs, he boasts an astounding following of nearly 68,000 dedicated fans on Instagram. Guan's popularity not only attests to his artistic prowess but also his professional conduct and commitment to maintaining an immaculate work space.\nPrice: $$\nCurrent location: Kuala Lumpur, Wilayah Persekutuan, Malaysia"
+  "updated_at": "2026-03-28",
+  "bio": "Guan Xiaopeng, a renowned tattoo artist and founder of D-Snake-Art, hails from Kuala Lumpur, Malaysia. Specializing in striking black and gray designs, he boasts an astounding following of nearly 68,000 dedicated fans on Instagram. Guan's popularity not only attests to his artistic prowess but also his professional conduct and commitment to maintaining an immaculate work space.\nPrice: $$\nCurrent location: Kuala Lumpur, Wilayah Persekutuan, Malaysia\n\nTattoo Artist",
+  "instagram_enriched": {
+    "id": "1086486554",
+    "follower_count": 62421,
+    "following_count": 264,
+    "media_count": 490,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guanxiaopeng/instagram/profile.jpg"
+  }
 }

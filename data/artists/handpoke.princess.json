@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
+  "updated_at": "2026-03-28",
   "bio": "Zvereva is a highly skilled tattoo artist and designer based out of Kyiv, Ukraine. Specializing in fineline, lettering, and minimalist styles, she masterfully creates unique and intricate designs engaging her inner artistic prowess. Her fervent commitment and ardent passion for her craft depict her high standards of professionalism.\nPrice: $$\nCurrent location: Kyiv, Ukraine",
-  "verified": "artist"
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "74987898251",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/handpoke.princess/instagram/profile.jpg"
+  }
 }

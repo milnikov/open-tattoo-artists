@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hammerstattoo",
-  "name": "Hammer's Tattoo & Body Piercing",
+  "name": "Hammers Tattoo & Body Piercing",
   "location": {
     "city": "Canton",
     "country": "United States"
@@ -340,6 +340,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Experience the exceptional artistry at Hammer's Tattoo & Body Piercing, Canton's premier destination for black & gray ink aficionados and Stark County's longest-operating studio. Voted The Repository Reader's Choice Favorite Tattoo Shop from 2013-18, our studio prides itself on delivering exquisite designs in a welcoming, professional environment where creativity meets precision. Join us to add timeless elegance to your skin’s canvas.\nPrice: $\nCurrent location: Canton, Ohio, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Experience the exceptional artistry at Hammer's Tattoo & Body Piercing, Canton's premier destination for black & gray ink aficionados and Stark County's longest-operating studio. Voted The Repository Reader's Choice Favorite Tattoo Shop from 2013-18, our studio prides itself on delivering exquisite designs in a welcoming, professional environment where creativity meets precision. Join us to add timeless elegance to your skin’s canvas.\nPrice: $\nCurrent location: Canton, Ohio, United States\n\n- Stark Co. longest operating studio\n-For tattoo inquiries ——-> hammerstattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "1107281626",
+    "follower_count": 2914,
+    "following_count": 33,
+    "media_count": 150,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hammerstattoo/instagram/profile.jpg"
+  }
 }

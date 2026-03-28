@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "golden_orb_tattoos_piercing",
-  "name": "Golden Orb Studios",
+  "name": "golden orb studios",
   "location": {
     "city": "Geneva",
     "country": "United States"
@@ -293,6 +293,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Discover the artistry of Golden Orb Studios, nestled in the scenic beauty of Geneva, United States. This exclusive tattoo haven specializes in the intricate harmony of Japanese and minimalist designs, offering patrons a serene, immersive experience in a closed, private setting where creativity and precision intertwine. Step into Golden Orb Studios, where every inked story is a bespoke masterpiece, exquisitely tailored to embody your vision.\nPrice: $\nCurrent location: Geneva, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Discover the artistry of Golden Orb Studios, nestled in the scenic beauty of Geneva, United States. This exclusive tattoo haven specializes in the intricate harmony of Japanese and minimalist designs, offering patrons a serene, immersive experience in a closed, private setting where creativity and precision intertwine. Step into Golden Orb Studios, where every inked story is a bespoke masterpiece, exquisitely tailored to embody your vision.\nPrice: $\nCurrent location: Geneva, New York, United States\n\nClosed",
+  "instagram_enriched": {
+    "id": "40140696",
+    "follower_count": 422,
+    "following_count": 178,
+    "media_count": 336,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/golden_orb_tattoos_piercing/instagram/profile.jpg"
+  }
 }

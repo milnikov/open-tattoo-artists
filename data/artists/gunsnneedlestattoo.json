@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gunsnneedlestattoo",
-  "name": "Joe Smith",
+  "name": "Guns N' Needles Tattoo",
   "location": {
     "city": "Minneapolis",
     "country": "United States"
@@ -100,6 +100,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Welcome to Joe Smith Tattoo Studio, where the vivid and imaginative world of 'newschool' ink comes to life. Nestled in the heart of Minneapolis at 2401 Dupont Ave S, our boutique studio offers a vibrant, contemporary space for self-expression through bold colors and modern designs. Step inside and let our artistic vision redefine your tattoo experience in the thriving creative hub of Minnesota.\nPrice: $\nCurrent location: Minneapolis, Minnesota, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Joe Smith Tattoo Studio, where the vivid and imaginative world of 'newschool' ink comes to life. Nestled in the heart of Minneapolis at 2401 Dupont Ave S, our boutique studio offers a vibrant, contemporary space for self-expression through bold colors and modern designs. Step inside and let our artistic vision redefine your tattoo experience in the thriving creative hub of Minnesota.\nPrice: $\nCurrent location: Minneapolis, Minnesota, United States\n\nMinneapolis based tattoo shop located in uptown\nFor walk-ins text (612) 998-5997\nFor appointments visit Gunsnneedles.com",
+  "instagram_enriched": {
+    "id": "1171001747",
+    "follower_count": 2676,
+    "following_count": 495,
+    "media_count": 255,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gunsnneedlestattoo/instagram/profile.jpg"
+  }
 }

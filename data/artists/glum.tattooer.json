@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "glum.tattooer",
-  "name": "GLUM Tattooer",
+  "name": "Porto Tattoo artist | GLUM",
   "location": {
     "city": "Porto",
     "country": "Portugal"
@@ -619,6 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "GLUM Tattooer is a highly skilled tattoo artist based out of Porto, Portugal, specializing in fineline, sketch, and minimalist styles. They consistently impress with their unique flair, using only vegan ink, and are well-regarded in the #qttr community. To secure an appointment with this artist extraordinaire, simply send them a direct message.\nPrice: $$\nCurrent location: Porto, Portugal"
+  "updated_at": "2026-03-28",
+  "bio": "GLUM Tattooer is a highly skilled tattoo artist based out of Porto, Portugal, specializing in fineline, sketch, and minimalist styles. They consistently impress with their unique flair, using only vegan ink, and are well-regarded in the #qttr community. To secure an appointment with this artist extraordinaire, simply send them a direct message.\nPrice: $$\nCurrent location: Porto, Portugal\n\n📍porto, portugal at @theupstairs.studio \n💉 tattoo artist #qttr 🌈\n🌱 vegan ink \n📩 dm for bookings",
+  "instagram_enriched": {
+    "id": "7172571941",
+    "follower_count": 12078,
+    "following_count": 334,
+    "media_count": 900,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/glum.tattooer/instagram/profile.jpg"
+  }
 }

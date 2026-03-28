@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goranivic.tattoo",
-  "name": "Goran Ivic",
+  "name": "GŌ",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -184,7 +184,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Goran Ivic is a highly skilled tattoo artist based in Paris, France, specializing in the black & gray style. With over two decades of experience since 1999, Goran has honed his craft to produce exquisitely detailed and artistic pieces. His work not only reflects his exceptional proficiency but also showcases a deep understanding of this timeless tattoo genre.\nPrice: $\nCurrent location: Paris, Ile-de-france, France",
-  "tattooing_since": "1999"
+  "updated_at": "2026-03-28",
+  "bio": "Goran Ivic is a highly skilled tattoo artist based in Paris, France, specializing in the black & gray style. With over two decades of experience since 1999, Goran has honed his craft to produce exquisitely detailed and artistic pieces. His work not only reflects his exceptional proficiency but also showcases a deep understanding of this timeless tattoo genre.\nPrice: $\nCurrent location: Paris, Ile-de-france, France\n\nTattoo artist since 1999",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "8205407973",
+    "follower_count": 1192,
+    "following_count": 737,
+    "media_count": 72,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goranivic.tattoo/instagram/profile.jpg"
+  }
 }

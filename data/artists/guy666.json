@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "guy666",
-  "name": "Guy Tinsley",
+  "name": "Guy Tinsley Custom Tattoos",
   "location": {
     "city": "Rotherham",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Guy Tinsley is a highly skilled tattoo artist based in Rotherham, United Kingdom, specializing in the technical precision of realism and the vibrant, animated style of newschool tattoos. As the owner of Wiseguys Ink tattoo studio and an esteemed Engineer of Chaos, his professionalism is reflected in both his meticulous artistry and the flawless operation of his studio. His reputation as an exceptional painter and tattoo artist invites clients to experience both his artistic expertise and the dedicated service synonymous with his name.\nPrice: $\nCurrent location: Rotherham, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Guy Tinsley is a highly skilled tattoo artist based in Rotherham, United Kingdom, specializing in the technical precision of realism and the vibrant, animated style of newschool tattoos. As the owner of Wiseguys Ink tattoo studio and an esteemed Engineer of Chaos, his professionalism is reflected in both his meticulous artistry and the flawless operation of his studio. His reputation as an exceptional painter and tattoo artist invites clients to experience both his artistic expertise and the dedicated service synonymous with his name.\nPrice: $\nCurrent location: Rotherham, England, United Kingdom\n\nOwner of Wiseguys Ink tattoo studio, Engineer of Chaos, Nerd, Painter, Tattoo Artist, Contact me direct via email or phone the studio",
+  "instagram_enriched": {
+    "id": "12964461",
+    "follower_count": 2829,
+    "following_count": 641,
+    "media_count": 787,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/guy666/instagram/profile.jpg"
+  }
 }

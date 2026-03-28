@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goldstreet.tattoo",
-  "name": "Gold Street Tattoo",
+  "name": "Gold Street Tattoo Parlour",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -604,6 +604,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Artists\nSuppliers\nAbout\nSet deep in the heart of Barcelona, Gold Street Tattoo offers a unique blend of traditional tattoo artistry in a sophisticated environment. With the motto 'In Gold We Trust', this studio displays a unique commitment to craft, excellence, and the enduring beauty of traditional tattoos. Loyal to time-honoured techniques, Gold Street Tattoo is your ultimate destination for custom inkwork in Spain.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nSet deep in the heart of Barcelona, Gold Street Tattoo offers a unique blend of traditional tattoo artistry in a sophisticated environment. With the motto 'In Gold We Trust', this studio displays a unique commitment to craft, excellence, and the enduring beauty of traditional tattoos. Loyal to time-honoured techniques, Gold Street Tattoo is your ultimate destination for custom inkwork in Spain.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain\n\n- since 2013 - \nWalk-ins welcome\n Tatuajes y piercing \n📲 WhatsApp: +34 629365310\nSponsor  @in_tattoo_veritas_supplier",
+  "instagram_enriched": {
+    "id": "1479250508",
+    "follower_count": 28639,
+    "following_count": 5843,
+    "media_count": 3289,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goldstreet.tattoo/instagram/profile.jpg"
+  }
 }

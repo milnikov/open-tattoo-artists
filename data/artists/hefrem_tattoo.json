@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hefrem_tattoo",
-  "name": "Hefrem",
+  "name": "hefrem",
   "location": {
     "city": "Turin",
     "country": "Italy"
@@ -280,6 +280,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Hefrem is a tattoo artist in Turin, Italy, renowned for their exceptional skill in Japanese-style tattoos. They bring a level of artistry and detail to each design that beautifully captures the rich tradition and aesthetics of Japanese art. Clients consistently praise Hefrem for transforming their ideas into stunning works of body art, all within a highly professional environment.\nPrice: $\nCurrent location: Turin, Piedmont, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Hefrem is a tattoo artist in Turin, Italy, renowned for their exceptional skill in Japanese-style tattoos. They bring a level of artistry and detail to each design that beautifully captures the rich tradition and aesthetics of Japanese art. Clients consistently praise Hefrem for transforming their ideas into stunning works of body art, all within a highly professional environment.\nPrice: $\nCurrent location: Turin, Piedmont, Italy\n\nTattooist since 2000 in Torino-Italy\nJapanese/Neo-Japanese style",
+  "instagram_enriched": {
+    "id": "3852140409",
+    "follower_count": 8877,
+    "following_count": 797,
+    "media_count": 260,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hefrem_tattoo/instagram/profile.jpg"
+  }
 }

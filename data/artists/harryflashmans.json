@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "harryflashmans",
-  "name": "Harry Flashman",
+  "name": "Harry Flashmans Tattoo Parlour",
   "location": {
     "city": "Chelmsford",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Harry Flashman is a distinguished 'black&gray' custom tattoo studio located in the heart of Chelmsford, United Kingdom. The studio prides itself on creating bespoke designs for every client, with a specialized and personal approach. The modern studio ambiance is set to expand their venture with piercings, ensuring a holistic creative experience for patrons.\nPrice: $$\nCurrent location: Chelmsford, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Harry Flashman is a distinguished 'black&gray' custom tattoo studio located in the heart of Chelmsford, United Kingdom. The studio prides itself on creating bespoke designs for every client, with a specialized and personal approach. The modern studio ambiance is set to expand their venture with piercings, ensuring a holistic creative experience for patrons.\nPrice: $$\nCurrent location: Chelmsford, England, United Kingdom\n\nResident artists: @jakebrowntattoos | @baileycoe.tattoos | @artbyheatherjayne | \nPiercings: @flashmanspiercings\nNails: @sharper.nails",
+  "instagram_enriched": {
+    "id": "1354048596",
+    "follower_count": 17670,
+    "following_count": 1003,
+    "media_count": 2435,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/harryflashmans/instagram/profile.jpg"
+  }
 }

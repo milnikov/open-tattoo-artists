@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gloriousagony",
-  "name": "Indonesian Tattoo Artist",
+  "name": "Munich Tattoo",
   "location": {
     "city": "Munich",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Indonesian Tattoo Artist\nMunich, Bavaria, Germany\n6.95k\nAdd\nMessage\ndotwork\ngeometric\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Indonesian Tattoo Artist\nMunich, Bavaria, Germany\n6.95k\nAdd\nMessage\ndotwork\ngeometric\ntraditional\n\nIndonesian in Munich\nPrivate Tattooing",
+  "instagram_enriched": {
+    "id": "225326514",
+    "follower_count": 6503,
+    "following_count": 134,
+    "media_count": 310,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gloriousagony/instagram/profile.jpg"
+  }
 }

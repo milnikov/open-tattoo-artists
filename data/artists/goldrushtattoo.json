@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goldrushtattoo",
-  "name": "Gold Rush Tattoo",
+  "name": "Gold Rush Studio",
   "location": {
     "city": "Costa Mesa",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Gold Rush Tattoo\nSTUDIO\nCosta Mesa, California, United States\n15.2k\nAdd\nMessage\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Gold Rush Tattoo\nSTUDIO\nCosta Mesa, California, United States\n15.2k\nAdd\nMessage\ntraditional\n\nGOLD RUSH\nArt Studio - Costa Mesa, California 🇺🇸 \nFor inquiries DM 💌",
+  "instagram_enriched": {
+    "id": "261957061",
+    "follower_count": 19584,
+    "following_count": 1393,
+    "media_count": 15,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goldrushtattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "heathershenna",
-  "name": "Heather",
+  "name": "Heather's Henna Tattoos",
   "location": {
     "city": "Freehold",
     "country": "United States"
@@ -414,6 +414,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Heather is a highly skilled tattoo artist with a distinctive flair for geometric, tribal, and floral designs. Based in Freehold, United States, she is renowned for her professionalism, ensuring each client receives a top-tier experience with exquisite and meticulous body art. Her talents are especially sought after for private henna parties and festivals throughout New Jersey.\nPrice: $\nCurrent location: Freehold, New Jersey, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Heather is a highly skilled tattoo artist with a distinctive flair for geometric, tribal, and floral designs. Based in Freehold, United States, she is renowned for her professionalism, ensuring each client receives a top-tier experience with exquisite and meticulous body art. Her talents are especially sought after for private henna parties and festivals throughout New Jersey.\nPrice: $\nCurrent location: Freehold, New Jersey, United States\n\nHenna tattoo artist providing unique body art for private henna parties and festivals in NJ.",
+  "instagram_enriched": {
+    "id": "4476172049",
+    "follower_count": 146,
+    "following_count": 42,
+    "media_count": 81,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/heathershenna/instagram/profile.jpg"
+  }
 }

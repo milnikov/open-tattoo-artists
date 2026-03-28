@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hellomynamesjoe",
-  "name": "Joe Frost",
+  "name": "JOE FROST",
   "location": {
     "city": "Sheffield",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Joe Frost, a highly reputed tattoo artist from Sheffield, United Kingdom, specializes in neotraditional and illustrative styles. With an impressive following of about 150,000 on Instagram, Joe's immense talent is a testament to his skills. He is currently sponsored by renowned brands like Starbrite Colors, Unigloves, Killer Ink Tattoo, and Whitfields Tattoo Co. Bookings are now open from September through the end of the year.\nPrice: $$$\nCurrent location: Sheffield, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Joe Frost, a highly reputed tattoo artist from Sheffield, United Kingdom, specializes in neotraditional and illustrative styles. With an impressive following of about 150,000 on Instagram, Joe's immense talent is a testament to his skills. He is currently sponsored by renowned brands like Starbrite Colors, Unigloves, Killer Ink Tattoo, and Whitfields Tattoo Co. Bookings are now open from September through the end of the year.\nPrice: $$$\nCurrent location: Sheffield, England, United Kingdom\n\n•Neo-Trad Tattooist based @swansttattoo Manchester \n•Sponsors @starbritecolors @killerinktattoo @whitfieldstattooco\n•Booking link below 👇🏻",
+  "instagram_enriched": {
+    "id": "5502078",
+    "follower_count": 144516,
+    "following_count": 284,
+    "media_count": 1080,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hellomynamesjoe/instagram/profile.jpg"
+  }
 }

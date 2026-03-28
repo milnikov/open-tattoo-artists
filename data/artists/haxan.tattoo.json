@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "haxan.tattoo",
-  "name": "Haxan Tattoo",
+  "name": "Haxan",
   "location": {
     "city": "Wroclaw",
     "country": "Poland"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Haxan Tattoo, based in Wroclaw, Poland, is renowned for their unique signature style, specializing in tribal and geometric black tattoos. Their undeniable mastery in craft is reflected in each intricate and detailed design, solidifying their reputation as an expert in their field.\nPrice: $$\nCurrent location: Wroclaw, Woj. Dolnośląskie, Poland"
+  "updated_at": "2026-03-28",
+  "bio": "Haxan Tattoo, based in Wroclaw, Poland, is renowned for their unique signature style, specializing in tribal and geometric black tattoos. Their undeniable mastery in craft is reflected in each intricate and detailed design, solidifying their reputation as an expert in their field.\nPrice: $$\nCurrent location: Wroclaw, Woj. Dolnośląskie, Poland\n\n🏴‍☠️ 🏴‍☠️🏴‍☠️ \n𓆩♡𓆪",
+  "instagram_enriched": {
+    "id": "3162037140",
+    "follower_count": 19042,
+    "following_count": 939,
+    "media_count": 593,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/haxan.tattoo/instagram/profile.jpg"
+  }
 }

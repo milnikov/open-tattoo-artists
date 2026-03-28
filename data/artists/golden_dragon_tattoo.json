@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "golden_dragon_tattoo",
-  "name": "Golden Dragon Tattoo",
+  "name": "Golden Dragon Tattoo Studio",
   "location": {
     "city": "Chester",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Golden Dragon Tattoo\nSTUDIO\nChester, England, United Kingdom\n2.47k\nAdd\nMessage\nblack&gray\nrealism"
+  "updated_at": "2026-03-28",
+  "bio": "Golden Dragon Tattoo\nSTUDIO\nChester, England, United Kingdom\n2.47k\nAdd\nMessage\nblack&gray\nrealism\n\n🟡Est 1992\n🟡International Award Winning 🏆 \n🟡3 Incredibly Talented Artists \n🟡@markybtattoo @rarecandytattoo @imogenstokes_tattoo",
+  "instagram_enriched": {
+    "id": "1300415185",
+    "follower_count": 3714,
+    "following_count": 1771,
+    "media_count": 339,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/golden_dragon_tattoo/instagram/profile.jpg"
+  }
 }

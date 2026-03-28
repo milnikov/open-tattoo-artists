@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "goldengoattattoo",
-  "name": "Golden Goat Tattoo Company LLC",
+  "name": "Golden Goat Tattoo",
   "location": {
     "city": "Round Rock",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Golden Goat Tattoo Company LLC in Round Rock is your go-to destination for artful skin expression. Specializing in traditional and illustrative tattoos with a vegan approach, this warm and welcoming studio opens its doors from Tuesday to Saturday, 1 pm to 7 pm, to create timeless body art in a friendly and inclusive environment."
+  "updated_at": "2026-03-28",
+  "bio": "Golden Goat Tattoo Company LLC in Round Rock is your go-to destination for artful skin expression. Specializing in traditional and illustrative tattoos with a vegan approach, this warm and welcoming studio opens its doors from Tuesday to Saturday, 1 pm to 7 pm, to create timeless body art in a friendly and inclusive environment.\n\nYour friendly neighborhood tattoo + piercing shop, taking walkins ALL WEEK, noon to 7pm",
+  "instagram_enriched": {
+    "id": "1406237432",
+    "follower_count": 7246,
+    "following_count": 6222,
+    "media_count": 988,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/goldengoattattoo/instagram/profile.jpg"
+  }
 }

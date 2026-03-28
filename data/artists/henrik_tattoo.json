@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "henrik_tattoo",
-  "name": "Henrik",
+  "name": "Henrik Tattoo",
   "location": {
     "city": "Baeza",
     "country": "Spain"
@@ -424,7 +424,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Henrik is a highly skilled tattoo artist specializing in black and gray styles, who has been perfecting his craft since 2014. Based in Baeza, Spain, he is known for his meticulous attention to detail and remarkable precision, earning a reputation for creating stunningly intricate designs. Prospective clients can easily book a session with him through various means, ensuring a professional and accessible service.\nPrice: $\nCurrent location: Baeza, Andalucia, Spain",
-  "tattooing_since": "2014"
+  "updated_at": "2026-03-28",
+  "bio": "Henrik is a highly skilled tattoo artist specializing in black and gray styles, who has been perfecting his craft since 2014. Based in Baeza, Spain, he is known for his meticulous attention to detail and remarkable precision, earning a reputation for creating stunningly intricate designs. Prospective clients can easily book a session with him through various means, ensuring a professional and accessible service.\nPrice: $\nCurrent location: Baeza, Andalucia, Spain\n\n- Betim laranjeiras Mg 🇧🇷\n- Oçamentos via direct 📲",
+  "tattooing_since": "2014",
+  "instagram_enriched": {
+    "id": "74188859233",
+    "follower_count": 1825,
+    "following_count": 28,
+    "media_count": 30,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/henrik_tattoo/instagram/profile.jpg"
+  }
 }

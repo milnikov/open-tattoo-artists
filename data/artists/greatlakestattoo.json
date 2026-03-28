@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "greatlakestattoo",
-  "name": "Great Lakes Tattoo",
+  "name": "Great Lakes Tattoo Chicago",
   "location": {
     "city": "Chicago",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Great Lakes Tattoo\nSTUDIO\nChicago, Illinois, United States\n43.1k\nAdd\nMessage\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Great Lakes Tattoo\nSTUDIO\nChicago, Illinois, United States\n43.1k\nAdd\nMessage\ntraditional\n\nThe Chicago tattoo shop. Tattoos in all styles. Open every day from 11–7, WALK-INS always welcome, Saturdays walk-ins only. Booking link in bio.",
+  "instagram_enriched": {
+    "id": "178379759",
+    "follower_count": 52297,
+    "following_count": 443,
+    "media_count": 4213,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/greatlakestattoo/instagram/profile.jpg"
+  }
 }

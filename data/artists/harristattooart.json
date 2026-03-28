@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "harristattooart",
-  "name": "Rich Harris",
+  "name": "Rich Harris / Tattoo Artist",
   "location": {
     "city": "Sutton Coldfield",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Rich Harris is a highly-skilled tattoo artist who specializes in realism and is based in Sutton Coldfield, United Kingdom. This seasoned artist also has a strong footing in abstract surrealism, shaping a unique blend of styles that has helped him amass a solid follower base, with over 115,000 followers on Instagram. If you're interested in getting inked by this artist, you can reach out to him via dm or his email harristattooart@gmail.com.\nPrice: $$$\nCurrent location: Sutton Coldfield, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Rich Harris is a highly-skilled tattoo artist who specializes in realism and is based in Sutton Coldfield, United Kingdom. This seasoned artist also has a strong footing in abstract surrealism, shaping a unique blend of styles that has helped him amass a solid follower base, with over 115,000 followers on Instagram. If you're interested in getting inked by this artist, you can reach out to him via dm or his email harristattooart@gmail.com.\nPrice: $$$\nCurrent location: Sutton Coldfield, England, United Kingdom\n\nFounder @darkhorsecollective\nUK/USA worldwide\nSouth America Seminar 🇦🇷 🇧🇷 🇨🇴 👇🏻",
+  "instagram_enriched": {
+    "id": "42977825",
+    "follower_count": 161832,
+    "following_count": 824,
+    "media_count": 815,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/harristattooart/instagram/profile.jpg"
+  }
 }

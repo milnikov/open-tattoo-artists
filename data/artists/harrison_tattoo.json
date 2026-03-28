@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "harrison_tattoo",
-  "name": "Harrison",
+  "name": "HARRISON",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Harrison is an exceptional tattoo artist based in Melbourne, Australia and specializes in distinct black & gray and realism styles. Known for his remarkable craftsmanship, his mastery in tattoo artistry has garnered the attention of approximately 80,000 followers on Instagram. Despite his impressive following, he remains professional, ensuring every design meets his meticulous standards for perfection.\nPrice: $$$\nCurrent location: Melbourne, Victoria, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Harrison is an exceptional tattoo artist based in Melbourne, Australia and specializes in distinct black & gray and realism styles. Known for his remarkable craftsmanship, his mastery in tattoo artistry has garnered the attention of approximately 80,000 followers on Instagram. Despite his impressive following, he remains professional, ensuring every design meets his meticulous standards for perfection.\nPrice: $$$\nCurrent location: Melbourne, Victoria, Australia\n\nMELBOURNE  \n@ravenshollowtattoo \nHarrison.tattoos@gmail.com\n@sharnnaaa🖤",
+  "instagram_enriched": {
+    "id": "470835918",
+    "follower_count": 142676,
+    "following_count": 896,
+    "media_count": 989,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/harrison_tattoo/instagram/profile.jpg"
+  }
 }

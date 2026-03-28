@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gorskytattoos",
-  "name": "Damian Gorski",
+  "name": "Damian Gorski | Tattoo Artist",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Damian Gorski is a highly skilled tattoo artist based in London, UK who specializes in the styles of newschool, realism, and black&gray. The owner of the multi award-winning Ushuaia Tattoo London, Damian boasts a substantial following of nearly 130,000 fans on Instagram. His remarkable precision and level of detail in his designs reflect the extent of his mastery in the art.\nPrice: $$$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Damian Gorski is a highly skilled tattoo artist based in London, UK who specializes in the styles of newschool, realism, and black&gray. The owner of the multi award-winning Ushuaia Tattoo London, Damian boasts a substantial following of nearly 130,000 fans on Instagram. His remarkable precision and level of detail in his designs reflect the extent of his mastery in the art.\nPrice: $$$\nCurrent location: London, England, United Kingdom\n\n🇬🇧London based \nOnline seminar ⬇️\n🐺 @kwadron",
+  "instagram_enriched": {
+    "id": "348537702",
+    "follower_count": 165719,
+    "following_count": 1606,
+    "media_count": 1321,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gorskytattoos/instagram/profile.jpg"
+  }
 }
