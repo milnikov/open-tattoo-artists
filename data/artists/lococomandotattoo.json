@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lococomandotattoo",
-  "name": "Freddy Aravena",
+  "name": "Freddy Aravena | RockTattoo Artist ☆ Boston ✖ Peabody Ma",
   "location": {
     "city": "Lynn",
     "country": "United States"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Rock & Tour Tattoo Artist 🎤 Boston ✖ Peabody  \nInked bands: Three Days Grace • LIVE • Shallow Side •Saving Abel\n@musicpluginked • Plug in. Get Inked",
+  "instagram_enriched": {
+    "id": "199426500",
+    "follower_count": 46405,
+    "following_count": 4303,
+    "media_count": 1671,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lococomandotattoo/instagram/profile.jpg"
+  }
 }

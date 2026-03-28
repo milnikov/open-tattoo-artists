@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucky_cat_tattoo",
-  "name": "Lucky Cat Tattoo artist",
+  "name": "Lucky Cat Tattoo",
   "location": {
     "city": "'s-hertogenbosch",
     "country": "Netherlands"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lucky Cat Tattoo artist\nSTUDIO\n's-hertogenbosch, North Brabant, Netherlands\n1.96k\nAdd\nMessage\nminimalist\nfineline\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "Lucky Cat Tattoo artist\nSTUDIO\n's-hertogenbosch, North Brabant, Netherlands\n1.96k\nAdd\nMessage\nminimalist\nfineline\nillustrative\n\n📍 's-Hertogenbosch, NL\n☎️ Contact us on Whatsapp (no DMs!):\nTATTOO +31 6 13489567\nPIERCING +31 6 14391210",
+  "instagram_enriched": {
+    "id": "5829020250",
+    "follower_count": 2740,
+    "following_count": 129,
+    "media_count": 83,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucky_cat_tattoo/instagram/profile.jpg"
+  }
 }

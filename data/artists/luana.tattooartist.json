@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luana.tattooartist",
-  "name": "Luana Garcia",
+  "name": "Luana Garcia | Tatuadora Fine Line",
   "location": {
     "city": "Canoas",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Especialista em Fine Line\nCanoas | RS 🇧🇷 \n🌎 + 7 mil peles tatuadas com perfeição \n12 anos de Tattoo | Artista Premiada 🏆🥇",
+  "instagram_enriched": {
+    "id": "4028418838",
+    "follower_count": 15328,
+    "following_count": 7528,
+    "media_count": 467,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luana.tattooartist/instagram/profile.jpg"
+  }
 }

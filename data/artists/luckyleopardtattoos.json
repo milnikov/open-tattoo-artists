@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luckyleopardtattoos",
-  "name": "Lucky Leopard Tattooer",
+  "name": "Lucky Leopard",
   "location": {
     "city": "Steyning",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Tattooing and Piercing in Worthing, West Sussex\n@dani_tattooer\n@crosstownkim \n@skil_mitchell\n@wyliemelikoff",
+  "instagram_enriched": {
+    "id": "481445187",
+    "follower_count": 3695,
+    "following_count": 1401,
+    "media_count": 1648,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luckyleopardtattoos/instagram/profile.jpg"
+  }
 }

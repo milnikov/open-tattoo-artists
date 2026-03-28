@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "love.and.riot.tattoo",
-  "name": "Coco Guerrero",
+  "name": "Love and Riot Tattoo - Tatuajes",
   "location": {
     "city": "Almería",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "@coco.guerrero | @alvaroharotattooer @manolitofingers | @javibrations | @lucasmromero1 | @natya.soto \n📱603 727 184  | 950 530 124\nCITAS DISPONIBLES",
+  "instagram_enriched": {
+    "id": "2227297481",
+    "follower_count": 3747,
+    "following_count": 1366,
+    "media_count": 1110,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/love.and.riot.tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "loudinktattoo",
-  "name": "Loud Ink Tattoo",
+  "name": "Loud Ink",
   "location": {
     "city": "Drogheda",
     "country": "Ireland"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Irelands 𝗕𝗘𝗦𝗧 Tattoo & Piercing Studio 💥\nTuesday to Saturday 🕒\nA92 KWD1📍| (041) 980 2748\n@theloudcoffee @theloudluxuriescollective",
+  "instagram_enriched": {
+    "id": "670753314",
+    "follower_count": 10026,
+    "following_count": 230,
+    "media_count": 2572,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/loudinktattoo/instagram/profile.jpg"
+  }
 }

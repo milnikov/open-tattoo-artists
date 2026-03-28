@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "loss_art",
-  "name": "Loss",
+  "name": "loss art",
   "location": {
     "city": "Rouen",
     "country": "France"
@@ -498,6 +498,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Loss is a highly skilled tattoo artist based in Rouen, France, specializing in sketch, black & gray, and floral styles. Their immaculate work can best be seen at the private studio, Salon privé Sombre Sauge, where clients appreciate the consistent cleanliness and adherence to strict hygiene standards. To experience Loss's artistry, appointments can be made via email, with guest appearances in various French cities including Orléans, Lille, Angoulême, Metz, Bourges, and Nantes.\nPrice: $\nCurrent location: Rouen, Normandy, France"
+  "updated_at": "2026-03-28",
+  "bio": "Loss is a highly skilled tattoo artist based in Rouen, France, specializing in sketch, black & gray, and floral styles. Their immaculate work can best be seen at the private studio, Salon privé Sombre Sauge, where clients appreciate the consistent cleanliness and adherence to strict hygiene standards. To experience Loss's artistry, appointments can be made via email, with guest appearances in various French cities including Orléans, Lille, Angoulême, Metz, Bourges, and Nantes.\nPrice: $\nCurrent location: Rouen, Normandy, France",
+  "instagram_enriched": {
+    "id": "79615196501",
+    "follower_count": 500,
+    "following_count": 1399,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/loss_art/instagram/profile.jpg"
+  }
 }

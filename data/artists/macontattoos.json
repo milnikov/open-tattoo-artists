@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "macontattoos",
-  "name": "Macon Tattoos",
+  "name": "Redemption Tattoo Parlour",
   "location": {
     "city": "Macon",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "BOOKING LINK BELOW⬇️Fine Custom Tattooing : @dorroughtattooer @_monstyn_  @littlethundertattoo @velez_tattoos @johnnyinks712",
+  "instagram_enriched": {
+    "id": "1454548416",
+    "follower_count": 5155,
+    "following_count": 442,
+    "media_count": 372,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/macontattoos/instagram/profile.jpg"
+  }
 }

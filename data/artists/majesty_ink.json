@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "majesty_ink",
-  "name": "Majesty Ink",
+  "name": "majesty-ink",
   "location": {
     "city": "Kappeln",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Majesty Ink is a tattoo artist renowned for their exceptional skill in black and gray, realism, and cover-up tattoos. Based in Kappeln, Germany, they are known for maintaining a professional atmosphere in their studio, ensuring that every client receives top-notch service within a clean and hygienic environment. Their attention to detail and commitment to excellence make each tattoo a masterful work of art.\nPrice: $\nCurrent location: Kappeln, Schleswig-holstein, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Majesty Ink is a tattoo artist renowned for their exceptional skill in black and gray, realism, and cover-up tattoos. Based in Kappeln, Germany, they are known for maintaining a professional atmosphere in their studio, ensuring that every client receives top-notch service within a clean and hygienic environment. Their attention to detail and commitment to excellence make each tattoo a masterful work of art.\nPrice: $\nCurrent location: Kappeln, Schleswig-holstein, Germany\n\nÖffnungszeiten:\nNur nach Vereinbarung\nSa, So & Feiertag: geschlossen",
+  "instagram_enriched": {
+    "id": "4777113469",
+    "follower_count": 700,
+    "following_count": 123,
+    "media_count": 390,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/majesty_ink/instagram/profile.jpg"
+  }
 }

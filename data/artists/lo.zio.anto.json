@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lo.zio.anto",
-  "name": "Antonio D'Amico",
+  "name": "Lo Zio Anto | Tattoos | Antonio D'Amico",
   "location": {
     "city": "Pré-saint-didier",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "✍🏻 Tattoo Artist\n📍@4810mountainink \n🗺️ Località Poinsod 12, Sarre AO\n📞 349 314 0630",
+  "instagram_enriched": {
+    "id": "3026809465",
+    "follower_count": 4446,
+    "following_count": 1321,
+    "media_count": 539,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lo.zio.anto/instagram/profile.jpg"
+  }
 }

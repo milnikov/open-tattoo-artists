@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lord.gator",
-  "name": "Lord Gator",
+  "name": "Jesper hjørn starrider",
   "location": {
     "city": "Unknown",
     "country": "Denmark"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lord Gator, a highly skilled tattoo artist based in Denmark, has been serving the tattoo community since 2010 and has grown a substantial fan base of over 60,000 followers on Instagram who admire his mastery in traditional and neotraditional styles. His impressive attention to detail is reflective of his level of expertise in the tattoo industry.\nPrice: $$\nCurrent location: Denmark",
-  "tattooing_since": "2010"
+  "updated_at": "2026-03-28",
+  "bio": "Lord Gator, a highly skilled tattoo artist based in Denmark, has been serving the tattoo community since 2010 and has grown a substantial fan base of over 60,000 followers on Instagram who admire his mastery in traditional and neotraditional styles. His impressive attention to detail is reflective of his level of expertise in the tattoo industry.\nPrice: $$\nCurrent location: Denmark\n\n🐊 copenhagen, denmark\n🐊 Tattooing since '10\n🐊 Co-owner @kaijutattooclub \n🐊 painting @master.gator \n☎️ (0045) 31404800\n📧 getwelltattoo@hotmail.com",
+  "tattooing_since": "2010",
+  "instagram_enriched": {
+    "id": "218289063",
+    "follower_count": 66459,
+    "following_count": 1068,
+    "media_count": 1809,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lord.gator/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucotattoo",
-  "name": "Luco",
+  "name": "Tattoos By Luco",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Luco is a masterful tattoo artist specializing in black & gray, newschool, and fineline styles, offering a diverse palette of designs for any tattoo enthusiast. With an impeccable standard of cleanliness, Luco upholds the highest hygiene practices at Safehands Tattoo in Watford, UK, ensuring a safe and sterile environment for every client. Reach out via lucotattoo@hotmail.com or visit their portfolio at www.safehandstattoo.co.uk to witness a true professional at work.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Luco is a masterful tattoo artist specializing in black & gray, newschool, and fineline styles, offering a diverse palette of designs for any tattoo enthusiast. With an impeccable standard of cleanliness, Luco upholds the highest hygiene practices at Safehands Tattoo in Watford, UK, ensuring a safe and sterile environment for every client. Reach out via lucotattoo@hotmail.com or visit their portfolio at www.safehandstattoo.co.uk to witness a true professional at work.\nPrice: $\nCurrent location:\n\nTattoo Artist",
+  "instagram_enriched": {
+    "id": "1101165263",
+    "follower_count": 1081,
+    "following_count": 676,
+    "media_count": 494,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucotattoo/instagram/profile.jpg"
+  }
 }

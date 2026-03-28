@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lovecoratattoos",
-  "name": "Cora Weisenberger",
+  "name": "Cora | Tattoo Artist ETX",
   "location": {
     "city": "Lindale",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Black & grey | ornamental | floral\n@underthemagnoliatattoo\nPrivate, cozy studio in Lindale, TX\nBook your piece ↓",
+  "instagram_enriched": {
+    "id": "5644300",
+    "follower_count": 4542,
+    "following_count": 2249,
+    "media_count": 2330,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lovecoratattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lostharbortattoo",
-  "name": "Oscar Montes",
+  "name": "Oscar Montes/Louie Munoz",
   "location": {
     "city": "Wilmington",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "950 N Avalon Blvd Wilmington CA 90744\nMon-Sat 11am-9pm 📞 310-436-5425\nTatters:\n@oscarmontestattooer \n@louieburger\n@frel_tattoos\n@drawyourknife",
+  "instagram_enriched": {
+    "id": "5417469924",
+    "follower_count": 7070,
+    "following_count": 238,
+    "media_count": 655,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lostharbortattoo/instagram/profile.jpg"
+  }
 }

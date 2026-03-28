@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mac_missa",
-  "name": "Mac Missa",
+  "name": "Melissa Sink",
   "location": {
     "city": "Stayton",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoos, Art, Small Business\n@5thavesupplies Proteam\nAward winning 18+ Gothic, Fantasy, Storytelling, Floral, Realism, Watercolor \nBooking on website",
+  "instagram_enriched": {
+    "id": "2023804897",
+    "follower_count": 2017,
+    "following_count": 2581,
+    "media_count": 588,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mac_missa/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "magrawtattoo",
-  "name": "Magraw",
+  "name": "Magraw Tattoo",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Welcome to Magraw Tattoo Studio, where artistry meets skin in Curitiba, Brazil. Our skilled tattooists specialize in vivid watercolor, intricate black & gray, and transformative coverup designs, ensuring each piece is a personalized masterpiece. Schedule your session and begin the journey towards your unique ink expression via WhatsApp or email, and embrace the bespoke tattoo experience we offer in our serene and creative sanctuary.\nPrice: $\nCurrent location: Curitiba, Parana, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Magraw Tattoo Studio, where artistry meets skin in Curitiba, Brazil. Our skilled tattooists specialize in vivid watercolor, intricate black & gray, and transformative coverup designs, ensuring each piece is a personalized masterpiece. Schedule your session and begin the journey towards your unique ink expression via WhatsApp or email, and embrace the bespoke tattoo experience we offer in our serene and creative sanctuary.\nPrice: $\nCurrent location: Curitiba, Parana, Brazil",
+  "instagram_enriched": {
+    "id": "1530748037",
+    "follower_count": 1144,
+    "following_count": 53,
+    "media_count": 251,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/magrawtattoo/instagram/profile.jpg"
+  }
 }

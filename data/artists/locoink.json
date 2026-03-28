@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "locoink",
-  "name": "Loco Ink",
+  "name": "Loco Ink | Tattoo Artist",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -413,5 +413,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "•Tattoo Artist \nRealism, Cover Up Artist 📱For Tattoo Appointment or Consultation.    \nText “LOCO“ to :(905) 793-2262",
+  "instagram_enriched": {
+    "id": "263546865",
+    "follower_count": 76371,
+    "following_count": 995,
+    "media_count": 918,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/locoink/instagram/profile.jpg"
+  }
 }

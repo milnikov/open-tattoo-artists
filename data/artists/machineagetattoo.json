@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "machineagetattoo",
-  "name": "Bugsy Pageau",
+  "name": "⚡️Machine Age Tattoo⚡️",
   "location": {
     "city": "Tucson",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "@bugsy_pageau\n@ivanalexandersatow \n@saintbre \ncall or text to book ⬇️\n(520)326-0711",
+  "instagram_enriched": {
+    "id": "1554353395",
+    "follower_count": 2099,
+    "following_count": 438,
+    "media_count": 145,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/machineagetattoo/instagram/profile.jpg"
+  }
 }

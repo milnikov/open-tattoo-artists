@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lllamarcabodyartsty",
-  "name": "La Marca",
+  "name": "Marca",
   "location": {
     "city": "Havana",
     "country": "Cuba"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "⚡️Tattoo parlor\n⚡️Gallery \n⚡️Art-design shop\n⚡️",
+  "instagram_enriched": {
+    "id": "24866783",
+    "follower_count": 11416,
+    "following_count": 7238,
+    "media_count": 1962,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lllamarcabodyartsty/instagram/profile.jpg"
+  }
 }

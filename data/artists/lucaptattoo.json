@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucaptattoo",
-  "name": "Luca Pravadelli",
+  "name": "Luca",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -461,5 +461,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "✣ ✣ ✣\nTATTOO \nSão Paulo\nContato DM\nAll Skins Welcome",
+  "instagram_enriched": {
+    "id": "2223438661",
+    "follower_count": 1941,
+    "following_count": 2045,
+    "media_count": 279,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucaptattoo/instagram/profile.jpg"
+  }
 }

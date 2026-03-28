@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucioskor",
-  "name": "Lucio Skor",
+  "name": "$K0R",
   "location": {
     "city": "Volla",
     "country": "Italy"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lucio Skor, the owner of Artem Tattoo Studios in Volla, Italy, is a highly skilled tattoo artist who specializes in black and gray realism. His exceptional work speaks for itself, showcasing his profound understanding of shading and intricate detail. Professionalism is resonated in his every gesture, aligning perfectly with the clean and well-maintained environment of his studio.\nPrice: $$\nCurrent location: Volla, Campania, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Lucio Skor, the owner of Artem Tattoo Studios in Volla, Italy, is a highly skilled tattoo artist who specializes in black and gray realism. His exceptional work speaks for itself, showcasing his profound understanding of shading and intricate detail. Professionalism is resonated in his every gesture, aligning perfectly with the clean and well-maintained environment of his studio.\nPrice: $$\nCurrent location: Volla, Campania, Italy\n\nFounder @artemtattoostudios \nAppuntamenti - 08119185444",
+  "instagram_enriched": {
+    "id": "174573002",
+    "follower_count": 31792,
+    "following_count": 1403,
+    "media_count": 262,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucioskor/instagram/profile.jpg"
+  }
 }

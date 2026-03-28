@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luciantattoos",
-  "name": "Lucian B",
+  "name": "Lucian - Tattoo Artist, Manchester UK",
   "location": {
     "city": "Manchester",
     "country": "United Kingdom"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "@stephstark25 😍👩‍❤️‍👨\nStudio: @thisdarkhorsemcr  \nNeo/American Traditional Tattoos\nTraditional Japanese\nDM to book",
+  "instagram_enriched": {
+    "id": "21080073",
+    "follower_count": 4089,
+    "following_count": 2018,
+    "media_count": 1871,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luciantattoos/instagram/profile.jpg"
+  }
 }

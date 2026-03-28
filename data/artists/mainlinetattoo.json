@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mainlinetattoo",
-  "name": "Main Line Ink",
+  "name": "Main Line Tattoo",
   "location": {
     "city": "Chattanooga",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "We’re Nice / Chattanooga TN @literaryink returns 2027\nWe book all appointments 👇",
+  "instagram_enriched": {
+    "id": "434549080",
+    "follower_count": 20427,
+    "following_count": 1905,
+    "media_count": 4648,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mainlinetattoo/instagram/profile.jpg"
+  }
 }

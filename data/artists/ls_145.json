@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ls_145",
-  "name": "LS",
+  "name": "LS-TATTOO",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "LS is a highly skilled tattoo artist specializing in black and gray, lettering, and realism tattoos. They maintain a strict schedule for appointments from Tuesday to Friday between 2:00 PM and 6:30 PM and on Saturdays from 2:00 PM to 4:00 PM, ensuring clients can plan their sessions with ease. LS's dedication to the craft is evident in the exquisite detail and shading of their work, making each tattoo a unique piece of art.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "LS is a highly skilled tattoo artist specializing in black and gray, lettering, and realism tattoos. They maintain a strict schedule for appointments from Tuesday to Friday between 2:00 PM and 6:30 PM and on Saturdays from 2:00 PM to 4:00 PM, ensuring clients can plan their sessions with ease. LS's dedication to the craft is evident in the exquisite detail and shading of their work, making each tattoo a unique piece of art.\nPrice: $\nCurrent location:\n\nLS , Tattoo\nHorraire pour RDV : \nMardi - Vendredi -> 14:00 -18:30 \nSamedi -> 14:00 - 16:00",
+  "instagram_enriched": {
+    "id": "207769484",
+    "follower_count": 1912,
+    "following_count": 1126,
+    "media_count": 336,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ls_145/instagram/profile.jpg"
+  }
 }

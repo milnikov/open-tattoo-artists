@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "louiestattoos",
-  "name": "Louie Lopez",
+  "name": "Louie Lopez -Tattoo Artist",
   "location": {
     "city": "Nashville",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Nashville Tattoo Artist \nOwner/Artist @artwerkstattoos \nOwner/Artist @por_vida_tattoo \n@coyoteez\nLouie@artwerksstudios.com\n386 Haywood lane 615",
+  "instagram_enriched": {
+    "id": "33015956",
+    "follower_count": 15590,
+    "following_count": 4653,
+    "media_count": 1924,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/louiestattoos/instagram/profile.jpg"
+  }
 }

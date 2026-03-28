@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lizhapi",
-  "name": "Liz Hamilton",
+  "name": "Liz Hapi",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Liz Hamilton is a highly skilled tattoo artist specializing in both neotraditional and traditional styles. Known for her intricate and stunning designs, she showcases her incredible artwork at Southwest Tattoo Studio. Always up for a friendly chat, her professional yet approachable demeanor puts her clients at ease throughout their tattoo journey.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Liz Hamilton is a highly skilled tattoo artist specializing in both neotraditional and traditional styles. Known for her intricate and stunning designs, she showcases her incredible artwork at Southwest Tattoo Studio. Always up for a friendly chat, her professional yet approachable demeanor puts her clients at ease throughout their tattoo journey.\nPrice: $$\nCurrent location:\n\n+🌹Tattooist working at @southwesttattoostudio focused on custom colour and black and grey, large and small scale tattoos",
+  "instagram_enriched": {
+    "id": "18711545",
+    "follower_count": 27555,
+    "following_count": 1931,
+    "media_count": 588,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizhapi/instagram/profile.jpg"
+  }
 }

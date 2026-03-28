@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lukekeantattoos",
-  "name": "Luke Kean",
+  "name": "LukeKean",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "FREEHAND SCRIPT AND BLACK and GREY\n@princess.mills ♥️\n@Scriptedsoulstattoo\n@scriptedsoulsstreetwear \nAdelaide ,South Australia",
+  "instagram_enriched": {
+    "id": "5981932954",
+    "follower_count": 13681,
+    "following_count": 1494,
+    "media_count": 693,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lukekeantattoos/instagram/profile.jpg"
+  }
 }

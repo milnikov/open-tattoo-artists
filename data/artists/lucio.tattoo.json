@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucio.tattoo",
-  "name": "Lucio",
+  "name": "Lucio tattoo",
   "location": {
     "city": "Itapecerica Da Serra",
     "country": "Brazil"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Renowned for his impeccable professionalism, Lucio has been a respected tattoo artist in Itapecerica da Serra, Brazil since 2012. Specializing in black & gray, trash polka, and coverup tattoos, his award-winning work and precision truly set him apart. Clients can expect a service that exudes not only artistic talent but also a commitment to the highest standards of his craft.\nPrice: $\nCurrent location: Itapecerica Da Serra, Sao Paulo, Brazil",
-  "tattooing_since": "2012"
+  "updated_at": "2026-03-28",
+  "bio": "Renowned for his impeccable professionalism, Lucio has been a respected tattoo artist in Itapecerica da Serra, Brazil since 2012. Specializing in black & gray, trash polka, and coverup tattoos, his award-winning work and precision truly set him apart. Clients can expect a service that exudes not only artistic talent but also a commitment to the highest standards of his craft.\nPrice: $\nCurrent location: Itapecerica Da Serra, Sao Paulo, Brazil\n\nEstudio de tatuagem🏛\nITAPECERICA DA SERRA SP📍\nTatuador desde 2012 \nArtista premiado 🏆🏆🏆🏆🏆🏆\nOrçamento via direct 📱\nou acesse o link abaixo 👇",
+  "tattooing_since": "2012",
+  "instagram_enriched": {
+    "id": "1686724419",
+    "follower_count": 6796,
+    "following_count": 3988,
+    "media_count": 688,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucio.tattoo/instagram/profile.jpg"
+  }
 }

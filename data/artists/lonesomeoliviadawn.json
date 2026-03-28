@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lonesomeoliviadawn",
-  "name": "Olivia Dawn",
+  "name": "Lonesome Olivia Dawn",
   "location": {
     "city": "Manchester",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Antique style tattooing 🇬🇧\nCheshire (south of Manchester)  oliviadawn83@gmail.com \nNOT CURRENTLY TAKING BOOKINGS",
+  "instagram_enriched": {
+    "id": "331193933",
+    "follower_count": 34483,
+    "following_count": 2900,
+    "media_count": 870,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lonesomeoliviadawn/instagram/profile.jpg"
+  }
 }

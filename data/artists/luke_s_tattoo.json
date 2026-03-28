@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luke_s_tattoo",
-  "name": "Luke",
+  "name": "Luke Skinner",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Resident @bathhousetattoos                                Gaming/Personal: @p3rcival__ \n-Ayr\n-Scotland\n🌸 P-H-C 🍆",
+  "instagram_enriched": {
+    "id": "12040519",
+    "follower_count": 4939,
+    "following_count": 1120,
+    "media_count": 1201,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luke_s_tattoo/instagram/profile.jpg"
+  }
 }

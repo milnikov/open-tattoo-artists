@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luna_mayer_tattoo",
-  "name": "Luna Mayer",
+  "name": "Luna Mayer Tattoo",
   "location": {
     "city": "Ashqelon",
     "country": "Israel"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Artist",
+  "instagram_enriched": {
+    "id": "8744243759",
+    "follower_count": 1911,
+    "following_count": 307,
+    "media_count": 294,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luna_mayer_tattoo/instagram/profile.jpg"
+  }
 }

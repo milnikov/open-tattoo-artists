@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lui_color_tattoo",
-  "name": "Lui Color Tattoo",
+  "name": "Lui",
   "location": {
     "city": "Dresden",
     "country": "Germany"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "💥Color Realistic -Watercolor Tattoos \n💥Work at @bunte_tinte_tattoo_dresden 🇩🇪\n💥 Anfragen an info@bunte-tinte-tattoo.de",
+  "instagram_enriched": {
+    "id": "9030980043",
+    "follower_count": 24553,
+    "following_count": 287,
+    "media_count": 951,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lui_color_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "makitwork",
-  "name": "Mike Waters",
+  "name": "Mike Waters (makitwork)",
   "location": {
     "city": "Alexandria",
     "country": "United States"
@@ -376,5 +376,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist and Piercer at Skinhibition in Woodbridge VA  571-398-2127 Piercings by appointment. Piercer139@yahoo.com  \n2790 Metro Plz, 22192",
+  "instagram_enriched": {
+    "id": "3860597037",
+    "follower_count": 1084,
+    "following_count": 3407,
+    "media_count": 937,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/makitwork/instagram/profile.jpg"
+  }
 }

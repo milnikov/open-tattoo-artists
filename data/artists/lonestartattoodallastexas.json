@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lonestartattoodallastexas",
-  "name": "Lone Star Tattoo - Preston Rd",
+  "name": "Lone Star Tattoo - Park/Preston in Plano",
   "location": {
     "city": "Dallas",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "♠️ Solid & Timeless Tattooing ♠️\n🦅 American Traditional⚓️ \n👺 Japanese Traditional ⛩\nIllustrative Blackwork",
+  "instagram_enriched": {
+    "id": "2160448504",
+    "follower_count": 7572,
+    "following_count": 594,
+    "media_count": 959,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lonestartattoodallastexas/instagram/profile.jpg"
+  }
 }

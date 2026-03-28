@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lwt.tattoo",
-  "name": "LW Tattoo",
+  "name": "L.W.T",
   "location": {
     "city": "Edinburgh",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "LW Tattoo, based in Edinburgh, United Kingdom, is renowned for their exceptional skill in the unique styles of geometric, floral, and fineline tattoos. Beyond their distinguished artistry, they maintain commendable cleanliness and professionalism in their practice, attending to both their art and clients with utmost delicacy and respect.\nPrice: $$\nCurrent location: Edinburgh, Scotland, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "LW Tattoo, based in Edinburgh, United Kingdom, is renowned for their exceptional skill in the unique styles of geometric, floral, and fineline tattoos. Beyond their distinguished artistry, they maintain commendable cleanliness and professionalism in their practice, attending to both their art and clients with utmost delicacy and respect.\nPrice: $$\nCurrent location: Edinburgh, Scotland, United Kingdom\n\nHigh Hopes tattoo \nWollongong NSW",
+  "instagram_enriched": {
+    "id": "4905233",
+    "follower_count": 28239,
+    "following_count": 1165,
+    "media_count": 547,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lwt.tattoo/instagram/profile.jpg"
+  }
 }

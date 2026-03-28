@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ma_reeni",
-  "name": "Ma-reeni",
+  "name": "Ma Reeni",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "🖤PECHSCHWARZ🖤 ✖️tattoo@ma-reeni.com✖️ Berlin-Kreuzberg",
+  "instagram_enriched": {
+    "id": "374802322",
+    "follower_count": 12077,
+    "following_count": 488,
+    "media_count": 412,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ma_reeni/instagram/profile.jpg"
+  }
 }

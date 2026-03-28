@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luis_tattooart",
-  "name": "Luis Rojas Guerra",
+  "name": "Luis Rojas",
   "location": {
     "city": "Alto Hospicio",
     "country": "Chile"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "•𝑻𝒂𝒕𝒖𝒂𝒅𝒐𝒓 𝒅𝒆 𝑹𝒐𝒅𝒓𝒊𝒈𝒐 𝑻𝒂𝒕𝒕𝒐𝒐 💀 \n•𝑨𝒈𝒆𝒏𝒅𝒂 𝒂𝒃𝒊𝒆𝒓𝒕𝒂 𝒄𝒐𝒏𝒔𝒖𝒍𝒕𝒂𝒔 𝒂𝒍 📥\n•𝟗𝟗'\n•𝒂𝒍𝒕𝒐 𝒉𝒐𝒔𝒑𝒊𝒄𝒊𝒐🇨🇱\n@love.hate.l0ve",
+  "instagram_enriched": {
+    "id": "1904296902",
+    "follower_count": 5659,
+    "following_count": 1502,
+    "media_count": 571,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luis_tattooart/instagram/profile.jpg"
+  }
 }

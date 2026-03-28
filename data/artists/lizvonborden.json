@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lizvonborden",
-  "name": "Liz VonBorden",
+  "name": "Liz VonBorden | Tattoo Artist",
   "location": {
     "city": "Sparta",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🐏 Artist 🐏\nBlack Sheep Studios Sparta, WI\nAppt. only, no DMs\nWebsite & FB for booking\n🎨 Realism & Neotrad",
+  "instagram_enriched": {
+    "id": "4042201092",
+    "follower_count": 4149,
+    "following_count": 7539,
+    "media_count": 364,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lizvonborden/instagram/profile.jpg"
+  }
 }

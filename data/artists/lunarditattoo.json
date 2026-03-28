@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lunarditattoo",
-  "name": "Lunardi Tattoo",
+  "name": "Lunardi Tattoo Studio",
   "location": {
     "city": "Porto Alegre",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Lunardi Tattoo, based in Porto Alegre, Brazil, is renowned for their exceptional skill in tattoo realism and vegan-style tattoos. Sponsored by Easy Glow Pigments, their artistry truly stands out for its detailed execution and creative approach, making each tattoo a unique design masterpiece.\nPrice: $$\nCurrent location: Porto Alegre, Rio Grande Do Sul, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Lunardi Tattoo, based in Porto Alegre, Brazil, is renowned for their exceptional skill in tattoo realism and vegan-style tattoos. Sponsored by Easy Glow Pigments, their artistry truly stands out for its detailed execution and creative approach, making each tattoo a unique design masterpiece.\nPrice: $$\nCurrent location: Porto Alegre, Rio Grande Do Sul, Brazil\n\n📌 Porto Alegre | RS 🇧🇷\n⚜️ Tatuagens realistas e coberturas \n⚡️ @electricink Pro Team ⚡️\n👇Orçamentos link abaixo",
+  "instagram_enriched": {
+    "id": "1651084419",
+    "follower_count": 28630,
+    "following_count": 7323,
+    "media_count": 744,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lunarditattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "loi.ttt",
-  "name": "Loi Tatuajes",
+  "name": "Puntillismo / Dotwork",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "•📍Cerro Alegre, Valparaíso 🇨🇱\n• Walk-ins welcome / English Spoken  \nHaz tu cotización aquí 👇🏽(NO DM)",
+  "instagram_enriched": {
+    "id": "5921895662",
+    "follower_count": 9224,
+    "following_count": 891,
+    "media_count": 127,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/loi.ttt/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luisrayastoon",
-  "name": "Luis Rayas",
+  "name": "Rayas Caricaturas",
   "location": {
     "city": "San Francisco Coacalco",
     "country": "Mexico"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "🇲🇽Mexico🇲🇽: caricaturas, murales, tattoo",
+  "instagram_enriched": {
+    "id": "1092190030",
+    "follower_count": 512,
+    "following_count": 1034,
+    "media_count": 290,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luisrayastoon/instagram/profile.jpg"
+  }
 }

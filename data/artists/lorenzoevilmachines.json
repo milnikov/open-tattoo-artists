@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lorenzoevilmachines",
-  "name": "Lorenzo",
+  "name": "Lorenzo Evil Machines",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Lorenzo, a highly skilled tattoo artist based in Rome, Italy, has been showcasing his talent in the industry since 1992. Specializing in minimalist style tattoos, he continues to execute each design with impeccable precision and artistic flair. His mastery in the field truly shines through the tattoos he creates, marking Lorenzo as a celebrated staple in the Italian tattoo community.\nPrice: $$\nCurrent location: Rome, Latium, Italy",
-  "tattooing_since": "1992"
+  "updated_at": "2026-03-28",
+  "bio": "Lorenzo, a highly skilled tattoo artist based in Rome, Italy, has been showcasing his talent in the industry since 1992. Specializing in minimalist style tattoos, he continues to execute each design with impeccable precision and artistic flair. His mastery in the field truly shines through the tattoos he creates, marking Lorenzo as a celebrated staple in the Italian tattoo community.\nPrice: $$\nCurrent location: Rome, Latium, Italy\n\n❌ NO DM per appuntamenti 👇🏻\n📩 studio@evilmachinestattoo.com",
+  "tattooing_since": "1992",
+  "instagram_enriched": {
+    "id": "29287079",
+    "follower_count": 18685,
+    "following_count": 446,
+    "media_count": 191,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lorenzoevilmachines/instagram/profile.jpg"
+  }
 }

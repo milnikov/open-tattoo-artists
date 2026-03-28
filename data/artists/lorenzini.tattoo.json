@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lorenzini.tattoo",
-  "name": "Lorenzini",
+  "name": "● Lorenzini • Tattoo ●",
   "location": {
     "city": "Nuremberg",
     "country": "Germany"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "● Private Tattoo Studio ●\n● Nürnberg 🇩🇪  @lorenzini87 \n●Appointments only \nDM or email for bookings\n📧: lorenzinitattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "17792444288",
+    "follower_count": 862,
+    "following_count": 78,
+    "media_count": 368,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lorenzini.tattoo/instagram/profile.jpg"
+  }
 }

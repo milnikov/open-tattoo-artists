@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucky_13rva",
-  "name": "Lucky 13",
+  "name": "Lucky 13 Tattoo & Piercing",
   "location": {
     "city": "Richmond",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "\"Lucky 13\" is a professional tattoo studio located in Richmond, United States that has been offering distinctive illustrative and neotraditional tattoos and piercings since 2003. Open everyday from 12-9pm, the studio provides a unique and inviting environment that emphasizes on delivering custom designs and high-quality service for their clients.",
-  "tattooing_since": "2003"
+  "updated_at": "2026-03-28",
+  "bio": "\"Lucky 13\" is a professional tattoo studio located in Richmond, United States that has been offering distinctive illustrative and neotraditional tattoos and piercings since 2003. Open everyday from 12-9pm, the studio provides a unique and inviting environment that emphasizes on delivering custom designs and high-quality service for their clients.\n\nCustom tattoos & piercings since ‘03\n1800 W. Broad St. RVA \n•NO DMS•\nOpen 12-8pm Everyday",
+  "tattooing_since": "2003",
+  "instagram_enriched": {
+    "id": "231344776",
+    "follower_count": 26793,
+    "following_count": 3369,
+    "media_count": 3935,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucky_13rva/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lluisftattoo",
-  "name": "Lluis F Tattoo",
+  "name": "Lluís Figueras Tattoo",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "YOU IS \n⁕ CHIANG MAI 23-31 March\n⁕ BANGKOK 6-7 April\n⁕ DM for bookings\n⁕ lluisftattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "1204917561",
+    "follower_count": 37980,
+    "following_count": 1935,
+    "media_count": 844,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lluisftattoo/instagram/profile.jpg"
+  }
 }

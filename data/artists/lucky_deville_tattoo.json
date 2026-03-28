@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucky_deville_tattoo",
-  "name": "Rick Deville",
+  "name": "Rick Deville. Owner/artist",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Rick Deville is a masterful tattoo artist known for his exceptional skills in black & gray and realism styles. Clients appreciate his dedication to maintaining a sterile and immaculate working environment, ensuring each tattoo session is not only a work of art but also a clean and safe experience. Visit Rick at 2333 Niagara Falls Blvd, Amherst NY, to witness his professionalism firsthand and leave with a stunning piece of body art.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Rick Deville is a masterful tattoo artist known for his exceptional skills in black & gray and realism styles. Clients appreciate his dedication to maintaining a sterile and immaculate working environment, ensuring each tattoo session is not only a work of art but also a clean and safe experience. Visit Rick at 2333 Niagara Falls Blvd, Amherst NY, to witness his professionalism firsthand and leave with a stunning piece of body art.\nPrice: $\nCurrent location:\n\nBlack and Grey, Dark imagery, religious,wildlife,portraits etc. 2333 Niagara Falls Blvd. 716-389-2539. Books are never closed. DM/Call",
+  "instagram_enriched": {
+    "id": "1435446169",
+    "follower_count": 5811,
+    "following_count": 3306,
+    "media_count": 716,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucky_deville_tattoo/instagram/profile.jpg"
+  }
 }

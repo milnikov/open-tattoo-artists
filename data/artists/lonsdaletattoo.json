@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lonsdaletattoo",
-  "name": "Mark Lonsdale",
+  "name": "Mark Lonsdale Sydney Tattoo Artist",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "@lighthouse_tattoo St Peters- Sydney, Australia \n- all enquiries please email me - lonsdaletattoo@gmail.com \n*no dms please*\n@iron_blanket \n#103582",
+  "instagram_enriched": {
+    "id": "4523320",
+    "follower_count": 10357,
+    "following_count": 1136,
+    "media_count": 1751,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lonsdaletattoo/instagram/profile.jpg"
+  }
 }

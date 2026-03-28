@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lofi_peaks",
-  "name": "Lofi Peaks",
+  "name": "BE ✶ Illustrative tattoos ✶",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🏳️‍🌈\nAvailable designs @lofipeaks_art\nResident at @iragana.studio\n📍BERLIN",
+  "instagram_enriched": {
+    "id": "32672931",
+    "follower_count": 28106,
+    "following_count": 1724,
+    "media_count": 740,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lofi_peaks/instagram/profile.jpg"
+  }
 }

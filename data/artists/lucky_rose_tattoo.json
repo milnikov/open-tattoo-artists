@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lucky_rose_tattoo",
-  "name": "Rob Roache",
+  "name": "Middlebury CT Tattoo Shop",
   "location": {
     "city": "Middlebury",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Click the “Contact” button below and text or call the shop to discuss your idea and set something up!",
+  "instagram_enriched": {
+    "id": "25305245711",
+    "follower_count": 2841,
+    "following_count": 883,
+    "media_count": 489,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lucky_rose_tattoo/instagram/profile.jpg"
+  }
 }

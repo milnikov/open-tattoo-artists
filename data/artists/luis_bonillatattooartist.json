@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luis_bonillatattooartist",
-  "name": "Luis Bonilla",
+  "name": "𝕃𝕦𝕚𝕤 𝔹𝕠𝕟𝕚𝕝𝕝𝕒",
   "location": {
     "city": "Agua Caliente O San Francisco",
     "country": "Costa Rica"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Tatuador con más de 25 años de experiencia , Cartago , Costa Rica \n@radiantcolorsink \n@kwadron\n@jconly_official",
+  "instagram_enriched": {
+    "id": "435426655",
+    "follower_count": 59290,
+    "following_count": 2616,
+    "media_count": 1467,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luis_bonillatattooartist/instagram/profile.jpg"
+  }
 }

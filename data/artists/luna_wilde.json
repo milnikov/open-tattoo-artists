@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "luna_wilde",
-  "name": "Luna Wilde",
+  "name": "Luna Wilde Tattoos",
   "location": {
     "city": "Gillingham",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Luna Wilde is a highly skilled tattoo artist based in Gillingham, United Kingdom, specializing in watercolor and illustrative tattoos. They create stunning, vibrant artwork on skin, displaying masterful use of color and detail that brings each client's vision to life. Luna's professionalism and dedication to their craft ensure that every tattoo is not just a piece of art but a memorable experience for each client.\nPrice: $\nCurrent location: Gillingham, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Luna Wilde is a highly skilled tattoo artist based in Gillingham, United Kingdom, specializing in watercolor and illustrative tattoos. They create stunning, vibrant artwork on skin, displaying masterful use of color and detail that brings each client's vision to life. Luna's professionalism and dedication to their craft ensure that every tattoo is not just a piece of art but a memorable experience for each client.\nPrice: $\nCurrent location: Gillingham, England, United Kingdom\n\nlunawildetattoos@gmail.com",
+  "instagram_enriched": {
+    "id": "464345180",
+    "follower_count": 1539,
+    "following_count": 1747,
+    "media_count": 1356,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/luna_wilde/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "looming_moon",
-  "name": "Daniel Gerbis",
+  "name": "daniel gerbis",
   "location": {
     "city": "Dallas",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "3rd party ran. Pictorial narration. Chasing suns across a circular path.\nFort Worth, TX @royal1tattoos \nBoise, ID @inkvision \n📧dgerbis86@gmail.com",
+  "instagram_enriched": {
+    "id": "35948807",
+    "follower_count": 11468,
+    "following_count": 275,
+    "media_count": 552,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/looming_moon/instagram/profile.jpg"
+  }
 }

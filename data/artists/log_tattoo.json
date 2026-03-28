@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "log_tattoo",
-  "name": "Log Tattoo",
+  "name": "로그",
   "location": {
     "city": "Singapore",
     "country": "Singapore"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Log Tattoo is a highly skilled tattoo artist based in Singapore, specializing in a unique blend of minimalist, illustrative, and anime styles. Having amassed a significant fanbase of over 130,000 followers on Instagram, Log's works exude a level of artistry which speaks volumes of his finesse and meticulous attention to detail. His associations with the renowned tattoo parlour, piboo.ttt, further solidifies his standing in the world of professional tattooing.\nPrice: $$$\nCurrent location: Singapore, Singapore"
+  "updated_at": "2026-03-28",
+  "bio": "Log Tattoo is a highly skilled tattoo artist based in Singapore, specializing in a unique blend of minimalist, illustrative, and anime styles. Having amassed a significant fanbase of over 130,000 followers on Instagram, Log's works exude a level of artistry which speaks volumes of his finesse and meticulous attention to detail. His associations with the renowned tattoo parlour, piboo.ttt, further solidifies his standing in the world of professional tattooing.\nPrice: $$$\nCurrent location: Singapore, Singapore\n\n◝✩ ᴡᴏʀᴋ ᴀᴛ @thegoodcatscratch\nㅤ  ㅤ    ʙᴏᴏᴋɪɴɢ ꜰᴏʀ ᴅᴍ",
+  "instagram_enriched": {
+    "id": "4974206142",
+    "follower_count": 116040,
+    "following_count": 282,
+    "media_count": 839,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/log_tattoo/instagram/profile.jpg"
+  }
 }

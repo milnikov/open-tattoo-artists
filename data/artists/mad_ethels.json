@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mad_ethels",
-  "name": "Mad Ethel",
+  "name": "Mad Ethel's Tattoo & Piercing",
   "location": {
     "city": "Raleigh",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "919-900-8345\n215 Glenwood ave. Raleigh, Nc\nEmail: MadEthel@MadEthelsTattoo.com",
+  "instagram_enriched": {
+    "id": "281142264",
+    "follower_count": 9565,
+    "following_count": 162,
+    "media_count": 2514,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mad_ethels/instagram/profile.jpg"
+  }
 }
