@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jan_tattoo",
-  "name": "Jan Motyl",
+  "name": "Jan",
   "location": {
     "city": "Trondheim",
     "country": "Norway"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Jan Motyl is a remarkably skilled tattoo artist based in Trondheim, Norway. Specializing in neotraditional, black & gray, and illustrative styles, he has honed his craft at the renowned Onkel Henry's Tattoo Shop. His exquisite attention to detail and the creative flair make him a standout artist in the world of tattoos.\nPrice: $$\nCurrent location: Trondheim, Trondelag, Norway"
+  "updated_at": "2026-03-28",
+  "bio": "Jan Motyl is a remarkably skilled tattoo artist based in Trondheim, Norway. Specializing in neotraditional, black & gray, and illustrative styles, he has honed his craft at the renowned Onkel Henry's Tattoo Shop. His exquisite attention to detail and the creative flair make him a standout artist in the world of tattoos.\nPrice: $$\nCurrent location: Trondheim, Trondelag, Norway\n\npatchwork, small tatts and old school @onkelhenrystattooshop",
+  "instagram_enriched": {
+    "id": "222153078",
+    "follower_count": 10435,
+    "following_count": 1366,
+    "media_count": 471,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jan_tattoo/instagram/profile.jpg"
+  }
 }

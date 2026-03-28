@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jarvistattooer",
-  "name": "Jarvis",
+  "name": "Jason Doc Jarvis",
   "location": {
     "city": "Orlando",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Jarvis, based in Orlando, United States, is a tattoo artist who specializes in traditional and illustrative styles, showcasing exceptional skill in each piece they create. Their professionalism is evident in the meticulous attention to detail and the tailored approach they take with each client, ensuring that every tattoo is not just a mark, but a masterpiece. Visitors to Jarvis's studio consistently praise the high level of cleanliness maintained, which reflects their commitment to providing a safe and welcoming environment for all.\nPrice: $\nCurrent location: Orlando, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Jarvis, based in Orlando, United States, is a tattoo artist who specializes in traditional and illustrative styles, showcasing exceptional skill in each piece they create. Their professionalism is evident in the meticulous attention to detail and the tailored approach they take with each client, ensuring that every tattoo is not just a mark, but a masterpiece. Visitors to Jarvis's studio consistently praise the high level of cleanliness maintained, which reflects their commitment to providing a safe and welcoming environment for all.\nPrice: $\nCurrent location: Orlando, Florida, United States\n\nOn the Road like my man Jack Kerouac 📍",
+  "instagram_enriched": {
+    "id": "5718088347",
+    "follower_count": 781,
+    "following_count": 420,
+    "media_count": 326,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jarvistattooer/instagram/profile.jpg"
+  }
 }

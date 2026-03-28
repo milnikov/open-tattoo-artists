@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jamespitbbull",
-  "name": "James Pitbull",
+  "name": "James Pitbbull",
   "location": {
     "city": "Treviso",
     "country": "Italy"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "James Pitbull, a skilled tattoo artist from Treviso, Italy, specializes in black and gray realism. Known for his impeccable craftsmanship and artistic versatility, he is the proud resident and owner of Cerbero Family Tattoo Studio.\nPrice: $$\nCurrent location: Treviso, Veneto, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "James Pitbull, a skilled tattoo artist from Treviso, Italy, specializes in black and gray realism. Known for his impeccable craftsmanship and artistic versatility, he is the proud resident and owner of Cerbero Family Tattoo Studio.\nPrice: $$\nCurrent location: Treviso, Veneto, Italy\n\nJAMES PITBBULL  🇮🇹TV\nREALISM TATTOO \nresident/owner @cerberofamilytattoo \nFRONTMAN FOR @craftingtheextreme",
+  "instagram_enriched": {
+    "id": "274643615",
+    "follower_count": 12467,
+    "following_count": 7437,
+    "media_count": 1501,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jamespitbbull/instagram/profile.jpg"
+  }
 }
