@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "little_tai13",
-  "name": "Lil Tai",
+  "name": "Francisco Ponce",
   "location": {
     "city": "Cáceres",
     "country": "Spain"
@@ -138,5 +138,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Para vosotros esto es la selva, para nosotros el océano @the_whitesharktattoo\nSponsors:\n@easykitsspain \n@versuscartridge",
+  "instagram_enriched": {
+    "id": "1343381846",
+    "follower_count": 11795,
+    "following_count": 5052,
+    "media_count": 211,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/little_tai13/instagram/profile.jpg"
+  }
 }

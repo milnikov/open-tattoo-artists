@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leadinglightbergen",
-  "name": "Nina Andersen",
+  "name": "Leading Light Bergen",
   "location": {
     "city": "Bergen",
     "country": "Norway"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🏛️ EST. 1996 BY @JORNTAT2 | LEADING LIGHT BERGEN\n📍BERGEN’S LEADING TATTOO & PIERCING STUDIO\n🏆 EXPERT ARTISTS | ✍🏼 CUSTOM ART | 🔥 VIBES THAT LAST 💀",
+  "instagram_enriched": {
+    "id": "360569816",
+    "follower_count": 21442,
+    "following_count": 534,
+    "media_count": 1006,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leadinglightbergen/instagram/profile.jpg"
+  }
 }

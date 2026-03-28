@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lilithtattooseattle",
-  "name": "Lilith Tattoo",
+  "name": "LilithTattoo",
   "location": {
     "city": "Seattle",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Lilith Tattoo\nSTUDIO\nSeattle, Washington, United States\n25.9k\nAdd\nMessage\nfloral\nfineline\nsketch"
+  "updated_at": "2026-03-28",
+  "bio": "Lilith Tattoo\nSTUDIO\nSeattle, Washington, United States\n25.9k\nAdd\nMessage\nfloral\nfineline\nsketch\n\nCustom tattoo studio in Seattle, Duwamish territories. Email: lilithtattooseattle@gmail.com",
+  "instagram_enriched": {
+    "id": "7059208104",
+    "follower_count": 31068,
+    "following_count": 184,
+    "media_count": 1414,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lilithtattooseattle/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "limpidtattoo",
-  "name": "Limpid Tattoo Art",
+  "name": "Limpid tattoo art",
   "location": {
     "city": "Kitzingen",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "▫️Tattoostudio in Kitzingen est.18\n▫️Besprechungstermine möglich 💬\n▫️Whatsapp ‭015907047742‬",
+  "instagram_enriched": {
+    "id": "7820645881",
+    "follower_count": 6759,
+    "following_count": 326,
+    "media_count": 788,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/limpidtattoo/instagram/profile.jpg"
+  }
 }

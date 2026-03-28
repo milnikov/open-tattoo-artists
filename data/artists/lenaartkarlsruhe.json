@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lenaartkarlsruhe",
-  "name": "Lena",
+  "name": "Lena - Realism Tattoo Artist",
   "location": {
     "city": "Karlsruhe",
     "country": "Germany"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Lena is a highly skilled tattoo artist who specializes in realism, based in Karlsruhe, Germany. Known for her compelling and lifelike designs, her extraordinary talent is recognized by top sponsors such as Cheyenne, Intenze, and Barber DTS. Lena always maintains an impeccable standard of cleanliness in her studio, ensuring a safe and positive experience for all clients.\nPrice: $$\nCurrent location: Karlsruhe, Baden-wurttemberg, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Lena is a highly skilled tattoo artist who specializes in realism, based in Karlsruhe, Germany. Known for her compelling and lifelike designs, her extraordinary talent is recognized by top sponsors such as Cheyenne, Intenze, and Barber DTS. Lena always maintains an impeccable standard of cleanliness in her studio, ensuring a safe and positive experience for all clients.\nPrice: $$\nCurrent location: Karlsruhe, Baden-wurttemberg, Germany\n\nTattoo Artist by @tattooartkarlsruhe \nFor bookings please contact the Studio!",
+  "instagram_enriched": {
+    "id": "4259235404",
+    "follower_count": 29796,
+    "following_count": 2424,
+    "media_count": 393,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lenaartkarlsruhe/instagram/profile.jpg"
+  }
 }

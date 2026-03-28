@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lifetimetattoos",
-  "name": "Lifetime Ink",
+  "name": "Lifetime Tattoos • Springfield OR",
   "location": {
     "city": "Springfield",
     "country": "United States"
@@ -233,5 +233,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "EST 2008\nWalk-Ins Welcome!\n7 Days a Week 😈\n541-746-6900\n@mooreink541  @afnyguy @ruetat2",
+  "instagram_enriched": {
+    "id": "269162358",
+    "follower_count": 2118,
+    "following_count": 420,
+    "media_count": 329,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lifetimetattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liam31",
-  "name": "Liam31",
+  "name": "Liam31✏",
   "location": {
     "city": "Newcastle Upon Tyne",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Artist • Studio31 - Hull, UK",
+  "instagram_enriched": {
+    "id": "7795144",
+    "follower_count": 9599,
+    "following_count": 1518,
+    "media_count": 300,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liam31/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lefthandtattoo",
-  "name": "Pepe LHT",
+  "name": "peppe",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Est 1997🇸🇪\nBokning stängd, nästa bokning kommer ske kring augusti månad, mer info kommer när det närmar sig.\nTo contact me email peppe.lht@gmail.com",
+  "instagram_enriched": {
+    "id": "204688475",
+    "follower_count": 16462,
+    "following_count": 631,
+    "media_count": 1388,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lefthandtattoo/instagram/profile.jpg"
+  }
 }

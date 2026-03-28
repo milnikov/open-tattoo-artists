@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lareinealien",
-  "name": "La Reine Alien",
+  "name": "La reine Alien",
   "location": {
     "city": "Nice",
     "country": "France"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🏴‍☠️Naughty pirate tattoo\n🇫🇷Nice - sur rdv \n💌DM (🚫vocaux) ou lareinealien@outlook.fr \n@lareinealienforsale",
+  "instagram_enriched": {
+    "id": "603321040",
+    "follower_count": 16823,
+    "following_count": 1043,
+    "media_count": 459,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lareinealien/instagram/profile.jpg"
+  }
 }

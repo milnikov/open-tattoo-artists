@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lancellotti_tattoo",
-  "name": "William Lancellotti",
+  "name": "William Lancellotti - Tatuador/BodyPiercing",
   "location": {
     "city": "Maringá",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "✖️ Cada traço, um reflexo da sua essência.\n✖️ Estúdio @lancellotti_tattoo_clinic \n✖️ Maringá-PR\n✖️ PARA ORÇAMENTOS ⬇️ Link a baixo",
+  "instagram_enriched": {
+    "id": "1223807621",
+    "follower_count": 7922,
+    "following_count": 1402,
+    "media_count": 1071,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lancellotti_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lavidabuenatattoo",
-  "name": "Flo \"El Jefe\"",
+  "name": "La Vida Buena Tattoo",
   "location": {
     "city": "Hamburg",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Lettering, Graffiti, Chicano, Realistic, Fineline\nCustom Tattooing With Heart & Soul \n• Flo »El Jefe«\n• Kat »Angel Hands«",
+  "instagram_enriched": {
+    "id": "587979099",
+    "follower_count": 8634,
+    "following_count": 680,
+    "media_count": 470,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lavidabuenatattoo/instagram/profile.jpg"
+  }
 }

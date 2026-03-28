@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lisa.hubbard.tattoo",
-  "name": "Lisa Hubbard",
+  "name": "Lisa Hubbard | Portland Tattoo Artist",
   "location": {
     "city": "Vancouver",
     "country": "United States"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lisa Hubbard is a highly skilled tattoo artist operating in Vancouver, United States, who has been crafting exceptional newschool custom tattoo art since 2010. Renowned for her clean and precise work, Lisa ensures that her clients' experience is met with the utmost standards of hygiene and safety in her studio. To schedule an appointment with this meticulous professional, reach out via email, as she prefers to keep bookings organized and direct.\nPrice: $\nCurrent location: Vancouver, Washington, United States",
-  "tattooing_since": "2010"
+  "updated_at": "2026-03-28",
+  "bio": "Lisa Hubbard is a highly skilled tattoo artist operating in Vancouver, United States, who has been crafting exceptional newschool custom tattoo art since 2010. Renowned for her clean and precise work, Lisa ensures that her clients' experience is met with the utmost standards of hygiene and safety in her studio. To schedule an appointment with this meticulous professional, reach out via email, as she prefers to keep bookings organized and direct.\nPrice: $\nCurrent location: Vancouver, Washington, United States\n\n🌙Owner/artist @3.realms.tattoo\n⚜️Ornamental, Illustrative and Realism\n✨ Intuitive Tattoos, uniquely designed every time\n📍Portland, Oregon",
+  "tattooing_since": "2010",
+  "instagram_enriched": {
+    "id": "344216393",
+    "follower_count": 3606,
+    "following_count": 2469,
+    "media_count": 256,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lisa.hubbard.tattoo/instagram/profile.jpg"
+  }
 }

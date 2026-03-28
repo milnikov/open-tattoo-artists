@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lanternenoiretattoo",
-  "name": "LANTERNE NOIRE",
+  "name": "✨LANTERNE NOIRE✨",
   "location": {
     "city": "Hénin-beaumont",
     "country": "France"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "TATTOO FRANCE 🇫🇷",
+  "instagram_enriched": {
+    "id": "7786530983",
+    "follower_count": 2957,
+    "following_count": 247,
+    "media_count": 487,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lanternenoiretattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laurotattoore",
-  "name": "Lauro Tattoo",
+  "name": "⚡LAURO TATTOO⚡",
   "location": {
     "city": "Reggio Nell'emilia",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "•Studio di Tatuaggi e Piercing dal 1991•\nViale Risorgimento 64/C 4212, Reggio Emilia\nTel: 0522-453207\nWA: 3381803936 \nE-mail: laurotattoore@hotmail.it",
+  "instagram_enriched": {
+    "id": "2093823369",
+    "follower_count": 4845,
+    "following_count": 1316,
+    "media_count": 1136,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laurotattoore/instagram/profile.jpg"
+  }
 }

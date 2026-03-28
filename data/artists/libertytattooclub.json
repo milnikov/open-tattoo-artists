@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "libertytattooclub",
-  "name": "Trevor Moss",
+  "name": "Liberty Tattoo Club",
   "location": {
     "city": "Sarasota",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "2430 Stickney Pt. \n🌴Sarasota , Fl 🌴\n(941)210-3461\n@trevormosstattoo\n@nich_c_tattooer\n@ortegatattoo\n@john.tattooart\n@bobbykarate \n@jasonheadtattoo",
+  "instagram_enriched": {
+    "id": "3311499037",
+    "follower_count": 5302,
+    "following_count": 1966,
+    "media_count": 385,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/libertytattooclub/instagram/profile.jpg"
+  }
 }

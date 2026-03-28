@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lewis_amaya",
-  "name": "Lewis Amaya",
+  "name": "Tattoo Artist Bay Area",
   "location": {
     "city": "Albany",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🇭🇳 I draw on people \n📍@primal_instincts423",
+  "instagram_enriched": {
+    "id": "588250767",
+    "follower_count": 25933,
+    "following_count": 5165,
+    "media_count": 631,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lewis_amaya/instagram/profile.jpg"
+  }
 }

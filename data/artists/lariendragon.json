@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lariendragon",
-  "name": "Ashley",
+  "name": "That Girl That Draws",
   "location": {
     "city": "Port Coquitlam",
     "country": "Canada"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Hi im Ashley, i draw on flesh n stuff at @inkandhoneytattoos Port Coquitlam\nBC.\nBFA in Illustration- Emily Carr Uni",
+  "instagram_enriched": {
+    "id": "3271971507",
+    "follower_count": 6629,
+    "following_count": 523,
+    "media_count": 920,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lariendragon/instagram/profile.jpg"
+  }
 }

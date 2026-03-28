@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leovaloski",
-  "name": "Leo Valoski",
+  "name": "VALOSKI - TATTOO",
   "location": {
     "city": "Dublin",
     "country": "Ireland"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🔥 Especialista em Fechamento\n🌍 +10.000 clientes em 10 países\n@valoskiforgod \n@tattoariasupply \n@viverdetattoo\n⬇️ Contato",
+  "instagram_enriched": {
+    "id": "54592110",
+    "follower_count": 31488,
+    "following_count": 167,
+    "media_count": 532,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leovaloski/instagram/profile.jpg"
+  }
 }

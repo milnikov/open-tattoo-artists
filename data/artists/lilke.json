@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lilke",
-  "name": "Lili Krizsán",
+  "name": "Lili Krizsán",
   "location": {
     "city": "Budakalász",
     "country": "Hungary"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "📍Budakalász\ntattoosbylili@gmail.com\n.\n.\n🩷@miniandthedogs\n🤍@memootoys",
+  "instagram_enriched": {
+    "id": "3085357",
+    "follower_count": 5113,
+    "following_count": 1732,
+    "media_count": 1718,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lilke/instagram/profile.jpg"
+  }
 }

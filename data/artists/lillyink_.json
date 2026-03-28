@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lillyink_",
-  "name": "Lilly Meraviglia",
+  "name": "👿",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "✶ ✶ ✶\nInfo e appointment DM",
+  "instagram_enriched": {
+    "id": "10912105608",
+    "follower_count": 53062,
+    "following_count": 1138,
+    "media_count": 336,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lillyink_/instagram/profile.jpg"
+  }
 }

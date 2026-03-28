@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lee_brown_tattoo",
-  "name": "Lee Brown",
+  "name": "Lee Brown - Dublin Tattoo Artist",
   "location": {
     "city": "Dublin",
     "country": "Ireland"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "DUBLIN! 🇮🇪 @three_castles_tattoo  leebtattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "32791367",
+    "follower_count": 12537,
+    "following_count": 3707,
+    "media_count": 483,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lee_brown_tattoo/instagram/profile.jpg"
+  }
 }

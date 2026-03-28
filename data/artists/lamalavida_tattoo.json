@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lamalavida_tattoo",
-  "name": "Lamalavida Tattoo",
+  "name": "El Sibarita Errante",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Lamalavida Tattoo\nSTUDIO\nMadrid, Community Of Madrid, Spain\n48.1k\nAdd\nMessage\nblack&gray\ntraditional\nrealism"
+  "updated_at": "2026-03-28",
+  "bio": "Lamalavida Tattoo\nSTUDIO\nMadrid, Community Of Madrid, Spain\n48.1k\nAdd\nMessage\nblack&gray\ntraditional\nrealism\n\nBuenas Experiencias",
+  "instagram_enriched": {
+    "id": "1683719755",
+    "follower_count": 40686,
+    "following_count": 1732,
+    "media_count": 71,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamalavida_tattoo/instagram/profile.jpg"
+  }
 }

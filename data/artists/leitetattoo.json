@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leitetattoo",
-  "name": "Leite Tattoo",
+  "name": "𝕲𝖚𝖎𝖑𝖍𝖊𝖗𝖒𝖊 𝕷𝖊𝖎𝖙𝖊 - 𝕹𝖊𝖔𝕿𝖗𝖆𝖉 𝕻𝖔𝖆",
   "location": {
     "city": "Porto Alegre",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "✨Artes autorais feitas junto ao cliente✨\nPara orçamentos, clique no link abaixo:👇\n📍Porto Alegre - RS 🇧🇷",
+  "instagram_enriched": {
+    "id": "335608107",
+    "follower_count": 23293,
+    "following_count": 1049,
+    "media_count": 253,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leitetattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "linktattoopadova",
-  "name": "Hugo Hardrock",
+  "name": "L' ink Tattoo Studio Padova",
   "location": {
     "city": "Padua",
     "country": "Italy"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Hugo Hardrock is a highly accomplished tattoo artist based in Padua, Italy, renowned for his exceptional technique in diverse styles such as watercolor, black&gray, and realism. Operating from his well-established Padova Tattoo and Piercing studio, Hugo showcases an incredible level of skill with intricate designs and breathtaking detail, honing his craft since 2005. His works clearly reflect his commitment to high-quality craftsmanship, confirming him as a maestro in his field.\nPrice: $$\nCurrent location: Padua, Veneto, Italy",
-  "tattooing_since": "2005"
+  "updated_at": "2026-03-28",
+  "bio": "Hugo Hardrock is a highly accomplished tattoo artist based in Padua, Italy, renowned for his exceptional technique in diverse styles such as watercolor, black&gray, and realism. Operating from his well-established Padova Tattoo and Piercing studio, Hugo showcases an incredible level of skill with intricate designs and breathtaking detail, honing his craft since 2005. His works clearly reflect his commitment to high-quality craftsmanship, confirming him as a maestro in his field.\nPrice: $$\nCurrent location: Padua, Veneto, Italy\n\nPadova Tattoo / Piercing studio since 2005\nEle @ele_tattooartist\nHugo @hugo_propiercer\nAnna @annikatattoo\n& more Guest Artist",
+  "tattooing_since": "2005",
+  "instagram_enriched": {
+    "id": "3175655186",
+    "follower_count": 23133,
+    "following_count": 5126,
+    "media_count": 427,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linktattoopadova/instagram/profile.jpg"
+  }
 }

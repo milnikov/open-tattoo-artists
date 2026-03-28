@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "linda_dalinciart",
-  "name": "Linda Dalinci",
+  "name": "Da Linci Art TATTOO",
   "location": {
     "city": "Zwijndrecht",
     "country": "Netherlands"
@@ -388,5 +388,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "ZWIJNDRECHT\nEen afspraak maken of andere vragen? Graag per email of whatsapp \nLinda@dalinciart.nl 0620880021",
+  "instagram_enriched": {
+    "id": "1979907299",
+    "follower_count": 762,
+    "following_count": 332,
+    "media_count": 1736,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/linda_dalinciart/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lektor_tattoo",
-  "name": "Lektoria Dementyeva",
+  "name": "Лектория - имя настоящее💜",
   "location": {
     "city": "Chelyabinsk",
     "country": "Russia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Тату Челябинск  @borodaart_studio \nСвободы 2к5\n@kover_chelyabinsk второе детище ЗАКРЫЛА\n@lektoriadementyeva страница жизни, кошек и снов",
+  "instagram_enriched": {
+    "id": "1740834449",
+    "follower_count": 6085,
+    "following_count": 680,
+    "media_count": 2270,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lektor_tattoo/instagram/profile.jpg"
+  }
 }

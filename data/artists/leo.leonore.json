@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leo.leonore",
-  "name": "Leonore",
+  "name": "Léonore",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Based in the heart of Berlin, Germany, Leonore is a highly skilled tattoo artist renowned for her intricate fineline work and commitment to vegan-friendly practices. She maintains an impeccable standard of cleanliness in her work, ensuring both a safe and welcoming experience for all her clients at the esteemed Ikonic Tattoo studio. Her dedication to hygiene is matched only by the intricate beauty of the tattoos she creates, making her a sought-after artist for those who value quality and conscientious living.\nPrice: $\nCurrent location: Berlin, Berlin, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Based in the heart of Berlin, Germany, Leonore is a highly skilled tattoo artist renowned for her intricate fineline work and commitment to vegan-friendly practices. She maintains an impeccable standard of cleanliness in her work, ensuring both a safe and welcoming experience for all her clients at the esteemed Ikonic Tattoo studio. Her dedication to hygiene is matched only by the intricate beauty of the tattoos she creates, making her a sought-after artist for those who value quality and conscientious living.\nPrice: $\nCurrent location: Berlin, Berlin, Germany",
+  "instagram_enriched": {
+    "id": "75925378673",
+    "follower_count": 73,
+    "following_count": 726,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leo.leonore/instagram/profile.jpg"
+  }
 }

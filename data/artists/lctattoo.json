@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lctattoo",
-  "name": "Leo C Tattoo",
+  "name": "LC Art - Leo Cançado",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -497,5 +497,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "✖️Co-Fundador @inkoniktattoo \n✖️Neotraditonal + Overall Tattoos\n✖️Desde 1998\n✖️Orçamentos via Whatsapp\n✖️Link para contatos👇",
+  "instagram_enriched": {
+    "id": "271887174",
+    "follower_count": 19196,
+    "following_count": 2519,
+    "media_count": 513,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lctattoo/instagram/profile.jpg"
+  }
 }

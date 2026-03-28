@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lit_tattoo_",
-  "name": "Lit Tattoo",
+  "name": "L!T",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lit Tattoo, based in Seoul, South Korea, is an exceptional tattoo artist renowned for their illustrative and minimalist styles. Their work has amassed a vast following of over 80,000 on Instagram, underlining their exceptional mastery in their craft. They are highly professional, making sure their tattoo studio remains immaculate during business operations and bookings are handled through email only - embodying a strict \"No Direct Message\" policy.\nPrice: $$$\nCurrent location: South Korea"
+  "updated_at": "2026-03-28",
+  "bio": "Lit Tattoo, based in Seoul, South Korea, is an exceptional tattoo artist renowned for their illustrative and minimalist styles. Their work has amassed a vast following of over 80,000 on Instagram, underlining their exceptional mastery in their craft. They are highly professional, making sure their tattoo studio remains immaculate during business operations and bookings are handled through email only - embodying a strict \"No Direct Message\" policy.\nPrice: $$$\nCurrent location: South Korea\n\nSeoul, Korea",
+  "instagram_enriched": {
+    "id": "8488892295",
+    "follower_count": 91001,
+    "following_count": 468,
+    "media_count": 863,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lit_tattoo_/instagram/profile.jpg"
+  }
 }

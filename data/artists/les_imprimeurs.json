@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "les_imprimeurs",
-  "name": "Les Imprimeurs Dijon",
+  "name": "les imprimeurs dijon",
   "location": {
     "city": "Dijon",
     "country": "France"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "\"Les Imprimeurs Dijon, nestled in the heart of Dijon, France, is a contemporary tattoo studio specializing in geometric and illustrative ink art. With a team of talented artists, including the renowned @psyart_tattoo and @haddocktattoo, the studio offers a unique, bespoke tattooing experience where creativity and precision thrive. For bookings and inquiries, reach out to lesimprimeursdijon@gmail.com and elevate your tattoo journey today.\"\nPrice: $\nCurrent location: Dijon, Bourgogne-franche-comte, France"
+  "updated_at": "2026-03-28",
+  "bio": "\"Les Imprimeurs Dijon, nestled in the heart of Dijon, France, is a contemporary tattoo studio specializing in geometric and illustrative ink art. With a team of talented artists, including the renowned @psyart_tattoo and @haddocktattoo, the studio offers a unique, bespoke tattooing experience where creativity and precision thrive. For bookings and inquiries, reach out to lesimprimeursdijon@gmail.com and elevate your tattoo journey today.\"\nPrice: $\nCurrent location: Dijon, Bourgogne-franche-comte, France\n\nFermé définitivement \n@psyart_tattoo @haddocktattoo",
+  "instagram_enriched": {
+    "id": "15168321200",
+    "follower_count": 2998,
+    "following_count": 31,
+    "media_count": 141,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/les_imprimeurs/instagram/profile.jpg"
+  }
 }

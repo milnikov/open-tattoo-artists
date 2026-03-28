@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ligatattooberlin",
-  "name": "Liga",
+  "name": "LIGA",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Liga, located in the heart of Berlin, Germany, is a private tattoo studio famed for its unique mastery in fineline, minimalist, and dotwork styles. The studio prides itself in its distinguished artists, @axelejsmont, @blackyrixdorf, and @joe.draws.things, who consistently craft intricate and bespoke designs in a tranquil, intimate environment.\nPrice: $$\nCurrent location: Berlin, Berlin, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Liga, located in the heart of Berlin, Germany, is a private tattoo studio famed for its unique mastery in fineline, minimalist, and dotwork styles. The studio prides itself in its distinguished artists, @axelejsmont, @blackyrixdorf, and @joe.draws.things, who consistently craft intricate and bespoke designs in a tranquil, intimate environment.\nPrice: $$\nCurrent location: Berlin, Berlin, Germany\n\nPrivate Studio | Berlin \n@axelejsmont  + guests",
+  "instagram_enriched": {
+    "id": "4548258773",
+    "follower_count": 14273,
+    "following_count": 540,
+    "media_count": 1305,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ligatattooberlin/instagram/profile.jpg"
+  }
 }

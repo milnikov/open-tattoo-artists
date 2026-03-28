@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "letterstoliveby",
-  "name": "Brent Williams",
+  "name": "LETTERS TO LIVE BY",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -112,5 +112,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "instagram_enriched": {
+    "id": "1420123358",
+    "follower_count": 46638,
+    "following_count": 447,
+    "media_count": 616,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letterstoliveby/instagram/profile.jpg"
+  }
 }

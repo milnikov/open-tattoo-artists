@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lastchancetattoo",
-  "name": "Bradley Pauley",
+  "name": "Last Chance Tattoo",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "@bradleypauley @joeyanderson_tattoo  @max_mogstad @storm_stimson @niklucktattoo @tuff_tatz @dorabtattooing @softslimeart @andrew_tattooer",
+  "instagram_enriched": {
+    "id": "1419718138",
+    "follower_count": 6892,
+    "following_count": 468,
+    "media_count": 2237,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lastchancetattoo/instagram/profile.jpg"
+  }
 }

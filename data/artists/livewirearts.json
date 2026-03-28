@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "livewirearts",
-  "name": "Emily Warren Tattoo",
+  "name": "Live Wire Arts",
   "location": {
     "city": "West Islip",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "⚡️Resident Artists:\n@ChrisMasonTattoo @tattoosbybre @gabbycallan",
+  "instagram_enriched": {
+    "id": "1683040001",
+    "follower_count": 3344,
+    "following_count": 1178,
+    "media_count": 579,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/livewirearts/instagram/profile.jpg"
+  }
 }

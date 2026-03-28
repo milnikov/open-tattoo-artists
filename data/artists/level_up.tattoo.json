@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "level_up.tattoo",
-  "name": "Sebastian Uta",
+  "name": "Level Up Tattoo",
   "location": {
     "city": "Bad Ems",
     "country": "Germany"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Sehr hochwertige Tattoos\nAngebote und vieles mehr \n für eure Termine zuständig\nNr: 015216707693\n🕰Öffnungszeiten:\nMo-Fr: 10:00/18:00",
+  "instagram_enriched": {
+    "id": "28914005998",
+    "follower_count": 1027,
+    "following_count": 1275,
+    "media_count": 118,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/level_up.tattoo/instagram/profile.jpg"
+  }
 }

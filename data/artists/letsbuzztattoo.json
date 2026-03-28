@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "letsbuzztattoo",
-  "name": "Let’s Buzz Tattoo Norway",
+  "name": "Let’s Buzz! Tattoo Norway",
   "location": {
     "city": "Bergen",
     "country": "Norway"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Est 1991 🇳🇴 Bergen, Norway\n@brudvik\n@sandybrudvik\n@toschie\n@christine_pang\n@mikalbuanes\n@ingridtattoo",
+  "instagram_enriched": {
+    "id": "475570041",
+    "follower_count": 9720,
+    "following_count": 346,
+    "media_count": 3977,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/letsbuzztattoo/instagram/profile.jpg"
+  }
 }

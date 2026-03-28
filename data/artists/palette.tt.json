@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "palette.tt",
+  "name": "Palette Tattoo Artist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/palette.tt",
+    "instagram": "https://www.instagram.com/palette.tt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/palette.tt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/palette.tt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/palette.tt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/palette.tt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Palette Tattoo Artist is an exceptionally skilled tattoo artist who masters in illustrative and minimalist styles. Specialising in exquisite designs, they have garnered a following of roughly 65,000 on Instagram - testament to their virtuoso talents. They are organized and professional, maintaining an updated schedule that includes a stay in Los Angeles from mid-October to mid-November.\nPrice: $$\nCurrent location:"
+}

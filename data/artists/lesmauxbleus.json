@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lesmauxbleus",
-  "name": "Les Maux Bleus",
+  "name": "Les Maux Bleus | Tattoo",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "⛔️NO DM",
+  "instagram_enriched": {
+    "id": "4276583955",
+    "follower_count": 37066,
+    "following_count": 289,
+    "media_count": 422,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lesmauxbleus/instagram/profile.jpg"
+  }
 }

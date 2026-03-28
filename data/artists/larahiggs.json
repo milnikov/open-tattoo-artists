@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "larahiggs",
-  "name": "Lara Higgs",
+  "name": "Lara Swarbrick",
   "location": {
     "city": "Christchurch",
     "country": "New Zealand"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist based in Christchurch Nz. I love to tattoo characters, all things nerdy and pop culture, mandalas, I 💕 bright colour! DM for bookings 🦄",
+  "instagram_enriched": {
+    "id": "28144172",
+    "follower_count": 3289,
+    "following_count": 877,
+    "media_count": 867,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larahiggs/instagram/profile.jpg"
+  }
 }

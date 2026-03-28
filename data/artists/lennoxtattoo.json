@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lennoxtattoo",
-  "name": "Lennox Tattoo",
+  "name": "Anthony Lennox •Tattoo Artist•",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "✖️Exeter•UK @artiumink\n✖️Colour•Surrealism•Neon\n✖️ @maki_b22 ❤️",
+  "instagram_enriched": {
+    "id": "427171748",
+    "follower_count": 148471,
+    "following_count": 667,
+    "media_count": 865,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lennoxtattoo/instagram/profile.jpg"
+  }
 }

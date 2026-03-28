@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "livingcanvasartco",
-  "name": "LCAC Tattoos",
+  "name": "LCAC_TATTOOS",
   "location": {
     "city": "Davenport",
     "country": "United States"
@@ -485,6 +485,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Discover the pinnacle of ink artistry at LCAC Tattoos, the Davenport sanctuary for skin masterpieces specializing in mesmerizing realism and black&gray designs. Nestled within the vibrant Floridian landscape at 9230 W. Irlo Bronson Hwy, Clermont, our expert artists transform your visions into living canvas wonders. Connect with us at 321-284-4113 to etch your story with unparalleled precision and creativity.\nPrice: $\nCurrent location: Davenport, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Discover the pinnacle of ink artistry at LCAC Tattoos, the Davenport sanctuary for skin masterpieces specializing in mesmerizing realism and black&gray designs. Nestled within the vibrant Floridian landscape at 9230 W. Irlo Bronson Hwy, Clermont, our expert artists transform your visions into living canvas wonders. Connect with us at 321-284-4113 to etch your story with unparalleled precision and creativity.\nPrice: $\nCurrent location: Davenport, Florida, United States\n\nCompany owned by Ms. London. \nshe is currently working at Eclipse Tattoos in Davenport, FL.",
+  "instagram_enriched": {
+    "id": "5958851181",
+    "follower_count": 2437,
+    "following_count": 84,
+    "media_count": 119,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/livingcanvasartco/instagram/profile.jpg"
+  }
 }

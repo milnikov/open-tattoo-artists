@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leopontintattoo",
-  "name": "Leo Pontin",
+  "name": "Leo Pontin Tattoo",
   "location": {
     "city": "Vitória",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "𝘾𝙊𝘽𝙀𝙍𝙏𝙐𝙍𝘼 | 𝙍𝙀𝙁𝙊𝙍𝙈𝘼 | 𝙉𝙊𝙑𝙊𝙎 𝙋𝙍𝙊𝙅𝙀𝙏𝙊𝙎 \n📍 Vitória, ES\n📱 27 99653 - 3506\n• Informações através do link ⇓",
+  "instagram_enriched": {
+    "id": "234255115",
+    "follower_count": 17265,
+    "following_count": 6991,
+    "media_count": 2228,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leopontintattoo/instagram/profile.jpg"
+  }
 }

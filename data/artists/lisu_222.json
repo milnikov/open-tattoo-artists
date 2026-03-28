@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lisu_222",
-  "name": "Lisu",
+  "name": "Kacper Lizis",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lisu is an exceptionally skilled tattoo artist, specializing in the black & gray tattoo style. Currently located in Warsaw, Poland, they have made a name for themselves through their precise and intricate designs that leave clients in awe.\nPrice: $$\nCurrent location: Warsaw, Woj. Mazowieckie, Poland"
+  "updated_at": "2026-03-28",
+  "bio": "Lisu is an exceptionally skilled tattoo artist, specializing in the black & gray tattoo style. Currently located in Warsaw, Poland, they have made a name for themselves through their precise and intricate designs that leave clients in awe.\nPrice: $$\nCurrent location: Warsaw, Woj. Mazowieckie, Poland",
+  "instagram_enriched": {
+    "id": "46347241775",
+    "follower_count": 127,
+    "following_count": 280,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lisu_222/instagram/profile.jpg"
+  }
 }

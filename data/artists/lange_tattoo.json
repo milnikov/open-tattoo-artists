@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lange_tattoo",
-  "name": "Lange Tattoo",
+  "name": "George Lange",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "𝑫𝒂𝒍𝒍𝒂𝒔 - 𝑻𝒆𝒙𝒂𝒔  🇺🇸\n@criticaltattoosupply • @rawpigments • @tattoogoo • @sullenclothing \n📩 Lange_tattoo@hotmail.com",
+  "instagram_enriched": {
+    "id": "320654180",
+    "follower_count": 80941,
+    "following_count": 1736,
+    "media_count": 887,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lange_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lencrerie",
-  "name": "Len Crerie",
+  "name": "L'ENCRERIE",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "TATTOO & CREATIVE STUDIO \nGUESTS / QUESTIONS : Mail ↘️ \n                   —> https://lencrerie.com",
+  "instagram_enriched": {
+    "id": "224402536",
+    "follower_count": 59250,
+    "following_count": 207,
+    "media_count": 2215,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lencrerie/instagram/profile.jpg"
+  }
 }

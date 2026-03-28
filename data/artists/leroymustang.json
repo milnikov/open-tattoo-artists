@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leroymustang",
-  "name": "Ronald McVicar",
+  "name": "Ronald Leroy",
   "location": {
     "city": "St. Petersburg",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "@electricgoldtattooco Working out of the magnanimous Electric Gold 66th, St. Pete",
+  "instagram_enriched": {
+    "id": "342009471",
+    "follower_count": 1055,
+    "following_count": 1716,
+    "media_count": 580,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leroymustang/instagram/profile.jpg"
+  }
 }

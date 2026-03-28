@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liao_tattoo",
-  "name": "Liao Tattoo",
+  "name": "𝙇𝙞𝙖𝙤 𝙏𝙖𝙩𝙩𝙤𝙤",
   "location": {
     "city": "Zurich",
     "country": "Switzerland"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🇨🇭 𝐖𝐢𝐧𝐭𝐞𝐫𝐭𝐡𝐮𝐫, 𝐒𝐰𝐢𝐭𝐳𝐞𝐫𝐥𝐚𝐧𝐝\n⚡️ @seven_seals_tattoo ⚡️\n📩 liao.tattooer@gmail.com\n🧲 ✦ @seven_seals_walkins ✦",
+  "instagram_enriched": {
+    "id": "2707061104",
+    "follower_count": 19316,
+    "following_count": 4357,
+    "media_count": 1566,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liao_tattoo/instagram/profile.jpg"
+  }
 }

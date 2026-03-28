@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lalocadelosjatos",
-  "name": "Uma",
+  "name": "◾Uma◾",
   "location": {
     "city": "Bilbao",
     "country": "Spain"
@@ -581,5 +581,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "▫️Surrealismo | Abstracto▫️\n📌  Co-owner @threelinestattoo BILBAO",
+  "instagram_enriched": {
+    "id": "17283231221",
+    "follower_count": 2812,
+    "following_count": 1646,
+    "media_count": 277,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lalocadelosjatos/instagram/profile.jpg"
+  }
 }

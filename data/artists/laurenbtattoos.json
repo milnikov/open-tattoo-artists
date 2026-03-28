@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laurenbtattoos",
-  "name": "Lauren Bosch",
+  "name": "Lauren Bosch Brown",
   "location": {
     "city": "Fort Erie",
     "country": "Canada"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist & owner of @inkbartattoos\nBookings closed",
+  "instagram_enriched": {
+    "id": "52159919",
+    "follower_count": 2432,
+    "following_count": 1023,
+    "media_count": 514,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laurenbtattoos/instagram/profile.jpg"
+  }
 }

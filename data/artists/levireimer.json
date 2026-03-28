@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "levireimer",
-  "name": "Levi Reimer",
+  "name": "Levi Travis Reimer",
   "location": {
     "city": "Abbotsford",
     "country": "Canada"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Black And Grey Realism\nFraser Valley, BC Canada\nBook Here ↓",
+  "instagram_enriched": {
+    "id": "208030855",
+    "follower_count": 19257,
+    "following_count": 1859,
+    "media_count": 704,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/levireimer/instagram/profile.jpg"
+  }
 }

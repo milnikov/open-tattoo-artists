@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lamujerbarbudatattoo",
-  "name": "La Mujer Barbuda",
+  "name": "LA MUJER BARBUDA TATTOO SHOP",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Encuéntranos en X Madrid\n▪️ Domingo a jueves 11h a 21h\n▪️ Viernes y Sábados 11h a 22h",
+  "instagram_enriched": {
+    "id": "2719553614",
+    "follower_count": 49311,
+    "following_count": 0,
+    "media_count": 2450,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lamujerbarbudatattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leandrogomestattoo",
-  "name": "Leandro Gomes",
+  "name": "Leandro Gomes Tattoo",
   "location": {
     "city": "Penha",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🇧🇷 🇵🇹 🇪🇸 🇵🇱 \nRealistic Tattoo \nPortugal 🇵🇹 - Santa Cruz (Torres Vedras) - Lisboa\n📩 link para pedidos de orçamento",
+  "instagram_enriched": {
+    "id": "3250801067",
+    "follower_count": 10854,
+    "following_count": 2248,
+    "media_count": 395,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leandrogomestattoo/instagram/profile.jpg"
+  }
 }

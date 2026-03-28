@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "liosmiostattoo",
-  "name": "Liosmios Tattoo",
+  "name": "Liosmiostattoo Fine Line",
   "location": {
     "city": "Las Torres De Cotillas",
     "country": "Spain"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "🥒Agenda abierta\n💡Propietario y tatuador en @liosmiostattoo \n📍MURCIA🇪🇸 NO DM ⛔️",
+  "instagram_enriched": {
+    "id": "6101771947",
+    "follower_count": 28302,
+    "following_count": 862,
+    "media_count": 1398,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/liosmiostattoo/instagram/profile.jpg"
+  }
 }

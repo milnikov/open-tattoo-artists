@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "little_kaja",
-  "name": "Kaja",
+  "name": "Little Kaja",
   "location": {
     "city": "Bathgate",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "•Kaya• 🇸🇮•🏴󠁧󠁢󠁳󠁣󠁴󠁿\n @mainstreettattoo Scotland\n @soupw.itch ✍️ \nFor tattoo enquiries please fill the online form\n⬇️⬇️⬇️",
+  "instagram_enriched": {
+    "id": "1472911654",
+    "follower_count": 7767,
+    "following_count": 1470,
+    "media_count": 172,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/little_kaja/instagram/profile.jpg"
+  }
 }

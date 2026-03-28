@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lauritasharpz_tattoo",
-  "name": "Laurita Sharpz",
+  "name": "Laurita | tattoo artist",
   "location": {
     "city": "Palermo",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Palermo//Barcelona\nFinelinetattoo\nFounder shop @tattoo_sharpz \n•Agenda aperta Info/Booking whatsapp +393298026450\n•no dm",
+  "instagram_enriched": {
+    "id": "1580846666",
+    "follower_count": 12992,
+    "following_count": 3368,
+    "media_count": 1373,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lauritasharpz_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lh.tattoo",
-  "name": "Lauren Hepple",
+  "name": "𝐋𝐚𝐮𝐫𝐞𝐧 𝐇𝐞𝐩𝐩𝐥𝐞 • 𝐒𝐨𝐮𝐭𝐡𝐬𝐞𝐚 𝐓𝐚𝐭𝐭𝐨𝐨 𝐀𝐫𝐭𝐢𝐬𝐭",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Custom & Flash Tattoos \nBased at @stringofheartstattoo Southsea UK \n• Sponsored by @whitfieldstattooco \nBooks open for SEPTEMBER",
+  "instagram_enriched": {
+    "id": "5859227774",
+    "follower_count": 51511,
+    "following_count": 832,
+    "media_count": 1911,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lh.tattoo/instagram/profile.jpg"
+  }
 }

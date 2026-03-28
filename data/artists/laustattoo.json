@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laustattoo",
-  "name": "Lau's Tattoo Society",
+  "name": "Laus Tattoo Society",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "💀 Another Day, Another Tattoo\n📍 Campo Belo • São Paulo\n👇 Agende sua Tattoo",
+  "instagram_enriched": {
+    "id": "4231939053",
+    "follower_count": 13521,
+    "following_count": 3258,
+    "media_count": 3212,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laustattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leftystattoocos",
-  "name": "Lefty Smith",
+  "name": "Lefty’s Tattoo Co.",
   "location": {
     "city": "Colorado Springs",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Lefty Smith is a tattoo artist renowned for their outstanding professionalism in Colorado Springs, United States. Specializing in dotwork, black & gray, and illustrative styles, Lefty maintains a strict schedule, welcoming clients from 10am to 8pm daily. Their commitment to professionalism ensures that each client receives the highest standard of service and artistry during every session.\nPrice: $\nCurrent location: Colorado Springs, Colorado, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Lefty Smith is a tattoo artist renowned for their outstanding professionalism in Colorado Springs, United States. Specializing in dotwork, black & gray, and illustrative styles, Lefty maintains a strict schedule, welcoming clients from 10am to 8pm daily. Their commitment to professionalism ensures that each client receives the highest standard of service and artistry during every session.\nPrice: $\nCurrent location: Colorado Springs, Colorado, United States\n\nOpen MON-SAT 9-7\nOPEN SUNDAY 10-4\nWalk-ins Always Welcome\n@leftyfromsanfran \n@glennafaye___ \n@poison_ivy_inks \n@tattoos_by_jay_ \n@ghoulish_binx",
+  "instagram_enriched": {
+    "id": "4102875885",
+    "follower_count": 2435,
+    "following_count": 93,
+    "media_count": 147,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leftystattoocos/instagram/profile.jpg"
+  }
 }

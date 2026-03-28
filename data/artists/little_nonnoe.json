@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "little_nonnoe",
-  "name": "Nonnoe Tattoo",
+  "name": "Little Nonnoe",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Fine line tattoo artist\nBased 📍Zürich 🇨🇭 \n Main account ➡️  @nonnoetattoo\nAppointments via WhatsApp",
+  "instagram_enriched": {
+    "id": "11382906516",
+    "follower_count": 4466,
+    "following_count": 156,
+    "media_count": 223,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/little_nonnoe/instagram/profile.jpg"
+  }
 }

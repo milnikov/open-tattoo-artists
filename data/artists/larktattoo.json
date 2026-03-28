@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "larktattoo",
-  "name": "Lark Tattoo",
+  "name": "LARK TATTOO",
   "location": {
     "city": "Westbury",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Lark Tattoo\nSTUDIO\nWestbury, New York, United States\n12.7k\nAdd\nMessage\nblack&gray\njapanese\ndotwork"
+  "updated_at": "2026-03-28",
+  "bio": "Lark Tattoo\nSTUDIO\nWestbury, New York, United States\n12.7k\nAdd\nMessage\nblack&gray\njapanese\ndotwork\n\n▪️Voted best tattoo shop on Long Island \n▪️25 years of superb custom tattooing and piercing in every style\n▪️ Click our booking link below!",
+  "instagram_enriched": {
+    "id": "285234316",
+    "follower_count": 14902,
+    "following_count": 190,
+    "media_count": 1432,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/larktattoo/instagram/profile.jpg"
+  }
 }

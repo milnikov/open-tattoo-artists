@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "littlevinnieswestside",
-  "name": "Little Vinnie",
+  "name": "Little Vinnies Westside",
   "location": {
     "city": "Windsor Mill",
     "country": "United States"
@@ -592,7 +592,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Step into Little Vinnie's, Windsor Mill's premier tattoo studio, where artistry meets precision since 1996. Specializing in illustrative ink, our talented artists welcome you to a creative haven where walk-ins and appointments are equally embraced. Call 410-655-6098 to join our legacy of distinctive body art at Little Vinnie's, where every stroke is a masterpiece in the making. #littlevinnieswestside\nPrice: $\nCurrent location: Windsor Mill, Maryland, United States",
-  "tattooing_since": "1996"
+  "updated_at": "2026-03-28",
+  "bio": "Step into Little Vinnie's, Windsor Mill's premier tattoo studio, where artistry meets precision since 1996. Specializing in illustrative ink, our talented artists welcome you to a creative haven where walk-ins and appointments are equally embraced. Call 410-655-6098 to join our legacy of distinctive body art at Little Vinnie's, where every stroke is a masterpiece in the making. #littlevinnieswestside\nPrice: $\nCurrent location: Windsor Mill, Maryland, United States\n\nEstablished 1996. No online appointments. No Piercing. Hours:Monday-Saturday 10am-8pm. Books always open.",
+  "tattooing_since": "1996",
+  "instagram_enriched": {
+    "id": "1682398592",
+    "follower_count": 1321,
+    "following_count": 1019,
+    "media_count": 4,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/littlevinnieswestside/instagram/profile.jpg"
+  }
 }

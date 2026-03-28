@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "leostattooandbodypiercing",
-  "name": "Leo",
+  "name": "Leo's Tattoo and Body Piercing",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,7 +42,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Welcome to Leo's Tattoo Haven, a vibrant hub of artistry nestled at 4133 Palm Ave., Hialeah, FL, where creativity meets ink since 2004. Specializing in bold black & gray, classic traditional, and meticulous lettering, our welcoming studio embraces both walk-ins and appointments. Come transform your vision into a masterpiece with the skilled hands of our dedicated artists, and adorn your body with a piece of timeless expression.\nPrice: $\nCurrent location:",
-  "tattooing_since": "2004"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Leo's Tattoo Haven, a vibrant hub of artistry nestled at 4133 Palm Ave., Hialeah, FL, where creativity meets ink since 2004. Specializing in bold black & gray, classic traditional, and meticulous lettering, our welcoming studio embraces both walk-ins and appointments. Come transform your vision into a masterpiece with the skilled hands of our dedicated artists, and adorn your body with a piece of timeless expression.\nPrice: $\nCurrent location:\n\n-Tattoos -Piercings -Supplies \nEST. 2004 \n(954)-682-4235",
+  "tattooing_since": "2004",
+  "instagram_enriched": {
+    "id": "4035609606",
+    "follower_count": 455,
+    "following_count": 126,
+    "media_count": 527,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/leostattooandbodypiercing/instagram/profile.jpg"
+  }
 }

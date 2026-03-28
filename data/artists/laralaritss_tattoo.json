@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laralaritss_tattoo",
-  "name": "Lara Acevedo Cal",
+  "name": "Lara Acevedo Cal / Tattoo",
   "location": {
     "city": "Vigo",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🔮  𝐄𝐬𝐭𝐮𝐝𝐢𝐨 𝐓𝐫𝐞𝐜𝐞 🔮\n         •Tatuadora especializada en fineline y realismo•\n•Diseño tu tatuaje a partir de tu idea•\n@estudiotrece.vigo",
+  "instagram_enriched": {
+    "id": "1210052467",
+    "follower_count": 6259,
+    "following_count": 2876,
+    "media_count": 581,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laralaritss_tattoo/instagram/profile.jpg"
+  }
 }

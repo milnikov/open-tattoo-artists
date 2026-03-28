@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "little_moon_witch",
-  "name": "Felix Puette Minor",
+  "name": "Кари",
   "location": {
     "city": "Chattanooga",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23"
+  "updated_at": "2026-03-28",
+  "bio": "Таролог, рунолог. Общаюсь с духами, подношу дары богам 🙏\nРасскажу о его мыслях, помогу сделать выбор, объясню, как получить желаемое 😈",
+  "instagram_enriched": {
+    "id": "56284748720",
+    "follower_count": 0,
+    "following_count": 8,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/little_moon_witch/instagram/profile.jpg"
+  }
 }

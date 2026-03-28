@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lime_tattoo",
-  "name": "Lime Tattoo",
+  "name": "Lime 🍋 성수타투 미니타투 레터링",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-23",
-  "bio": "Lime Tattoo is a highly skilled tattoo artist based in South Korea, specializing in minimalist and lettering styles. Boasting an impressive follower count of around 60,000 on Instagram, their artistic prowess speaks for itself. As the owner of Odd Ink Studio, they maintain a strong reputation for creating sleek, stylistic, and striking tattoos.\nPrice: $$\nCurrent location: South Korea"
+  "updated_at": "2026-03-28",
+  "bio": "Lime Tattoo is a highly skilled tattoo artist based in South Korea, specializing in minimalist and lettering styles. Boasting an impressive follower count of around 60,000 on Instagram, their artistic prowess speaks for itself. As the owner of Odd Ink Studio, they maintain a strong reputation for creating sleek, stylistic, and striking tattoos.\nPrice: $$\nCurrent location: South Korea\n\n• Based in Seoul Seongsu, Korea🇰🇷\n• Owner of @odd_ink_studio",
+  "instagram_enriched": {
+    "id": "6870650024",
+    "follower_count": 55609,
+    "following_count": 640,
+    "media_count": 1512,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lime_tattoo/instagram/profile.jpg"
+  }
 }
