@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "klumtattoo",
-  "name": "Captain Klum Tattoo",
+  "name": "Captain Klum tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Somente com Agendamento;\ne-mail: devrungames@gmail.com\n⚜️Vila Mariana -SP⚜️",
+  "instagram_enriched": {
+    "id": "2346086432",
+    "follower_count": 1287,
+    "following_count": 619,
+    "media_count": 243,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/klumtattoo/instagram/profile.jpg"
+  }
 }

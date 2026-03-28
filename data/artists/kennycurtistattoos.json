@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kennycurtistattoos",
-  "name": "Kenny Curtis",
+  "name": "SHOP PROFILE PAGE",
   "location": {
     "city": "Marina",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "click👇for tattoo inquiries",
+  "instagram_enriched": {
+    "id": "452554933",
+    "follower_count": 1444,
+    "following_count": 199,
+    "media_count": 275,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kennycurtistattoos/instagram/profile.jpg"
+  }
 }

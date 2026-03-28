@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kyrabak",
-  "name": "Kyra Bak",
+  "name": "Kyra Bak Tattoo",
   "location": {
     "city": "Budapest",
     "country": "Hungary"
@@ -568,6 +568,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Kyra Bak is a highly skilled tattoo artist specializing in the intricate fineline style, adorning the skin with delicate and precise designs. Operating from her serene Be Your Tattoo private studio in Budapest, Hungary, Kyra maintains the utmost cleanliness, ensuring a safe and sterile environment for every client. Her dedication to her craft is evident in the beautiful, fine-lined artwork she consistently creates.\nPrice: $\nCurrent location: Budapest, Budapest, Hungary"
+  "updated_at": "2026-03-28",
+  "bio": "Kyra Bak is a highly skilled tattoo artist specializing in the intricate fineline style, adorning the skin with delicate and precise designs. Operating from her serene Be Your Tattoo private studio in Budapest, Hungary, Kyra maintains the utmost cleanliness, ensuring a safe and sterile environment for every client. Her dedication to her craft is evident in the beautiful, fine-lined artwork she consistently creates.\nPrice: $\nCurrent location: Budapest, Budapest, Hungary\n\nclosed\n #beyourtattoo",
+  "instagram_enriched": {
+    "id": "43552223",
+    "follower_count": 3560,
+    "following_count": 2325,
+    "media_count": 533,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kyrabak/instagram/profile.jpg"
+  }
 }

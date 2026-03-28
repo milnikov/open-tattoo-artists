@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "konahenna",
-  "name": "Kona Henna",
+  "name": "konahenna",
   "location": {
     "city": "Kailua Kona",
     "country": "United States"
@@ -245,6 +245,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Immerse yourself in the rich tradition of body art at Kona Henna, Hawaii's original henna studio now gracing the Pacific Northwest. Specializing in the intricate patterns of tribal designs and the personalized touch of lettering tattoos, this boutique studio boasts organic henna products and a commitment to excellence—as evidenced by their 5-star TripAdvisor acclaim. Experience the pinnacle of artistic expression in the serene ambiance of Kailua Kona.\nPrice: $$\nCurrent location: Kailua Kona, Hawaii, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the rich tradition of body art at Kona Henna, Hawaii's original henna studio now gracing the Pacific Northwest. Specializing in the intricate patterns of tribal designs and the personalized touch of lettering tattoos, this boutique studio boasts organic henna products and a commitment to excellence—as evidenced by their 5-star TripAdvisor acclaim. Experience the pinnacle of artistic expression in the serene ambiance of Kailua Kona.\nPrice: $$\nCurrent location: Kailua Kona, Hawaii, United States\n\nNow Serving the Pacific Northwest! \nHawaii's Original Henna Studio & Boutique\nOrganic Henna\nTripAdvisor 5⭐️ Certificate of Excellence",
+  "instagram_enriched": {
+    "id": "202079615",
+    "follower_count": 8631,
+    "following_count": 2191,
+    "media_count": 1454,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/konahenna/instagram/profile.jpg"
+  }
 }

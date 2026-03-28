@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "labellota.tattoo",
-  "name": "La Bellota Tattoo",
+  "name": "La Bellota Tattoo | Private",
   "location": {
     "city": "Salamanca",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Guest welcome!\nResident Artist \n@javiercortestattoo \n@aseralexander\n@yerayhdz_tattoo \n@luly_piercing\n@victorcuestatattoo_ \n@cainferreras\n@vir_crash",
+  "instagram_enriched": {
+    "id": "8465379524",
+    "follower_count": 8167,
+    "following_count": 1285,
+    "media_count": 464,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/labellota.tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kooleecool",
-  "name": "Seongmin",
+  "name": "쿨리",
   "location": {
     "city": "Unknown",
     "country": "China"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Seongmin is a highly skilled tattoo artist from Seoul, Korea, now based in Zhuhai, People's Republic of China. Specializing in traditional and neo-traditional styles, they have mastered the craft with a keen attention to detail and accuracy. Their tattoos are richly textured, embodying their unique blend of artistry.\nPrice: $$\nCurrent location: People's Republic Of China"
+  "updated_at": "2026-03-28",
+  "bio": "Seongmin is a highly skilled tattoo artist from Seoul, Korea, now based in Zhuhai, People's Republic of China. Specializing in traditional and neo-traditional styles, they have mastered the craft with a keen attention to detail and accuracy. Their tattoos are richly textured, embodying their unique blend of artistry.\nPrice: $$\nCurrent location: People's Republic Of China\n\nSeoul,South Korea 🇰🇷",
+  "instagram_enriched": {
+    "id": "7985981584",
+    "follower_count": 29222,
+    "following_count": 1423,
+    "media_count": 982,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kooleecool/instagram/profile.jpg"
+  }
 }

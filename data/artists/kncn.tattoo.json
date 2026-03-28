@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kncn.tattoo",
-  "name": "Лёша Кницин",
+  "name": "Лёша Кницин",
   "location": {
     "city": "Nizhny Novgorod",
     "country": "Russia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Лёша Кницин is a highly skilled tattoo artist based in Nizhny Novgorod, Russia, renowned for his mesmerizing neotraditional and floral designs. His artistic precision and creative style distinctively set him apart while highlighting his immense talent and passion for the tattooing craft.\nPrice: $$\nCurrent location: Nizhny Novgorod, Volga Federal District, Russia"
+  "updated_at": "2026-03-28",
+  "bio": "Лёша Кницин is a highly skilled tattoo artist based in Nizhny Novgorod, Russia, renowned for his mesmerizing neotraditional and floral designs. His artistic precision and creative style distinctively set him apart while highlighting his immense talent and passion for the tattooing craft.\nPrice: $$\nCurrent location: Nizhny Novgorod, Volga Federal District, Russia\n\nРисую и делаю татуировки в Нижнем Новгороде.🚩\nДля консультации и записи на сеанс пишите в директ или telegram: @kncntt",
+  "instagram_enriched": {
+    "id": "1407137039",
+    "follower_count": 12473,
+    "following_count": 1424,
+    "media_count": 465,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kncn.tattoo/instagram/profile.jpg"
+  }
 }

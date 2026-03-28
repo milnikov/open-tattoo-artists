@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kevinbecvar",
-  "name": "Kevin Becvar",
+  "name": "@kevinbecvar",
   "location": {
     "city": "Temecula",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Owner/tattooer /G\\ @darkhelmettattoo\nUSMC VET\nReal Estate Agent #02208295 \nTemecula, Ca \nSponsors  @starbritecolors   @electrumsupply",
+  "instagram_enriched": {
+    "id": "31539743",
+    "follower_count": 12250,
+    "following_count": 7017,
+    "media_count": 2814,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kevinbecvar/instagram/profile.jpg"
+  }
 }

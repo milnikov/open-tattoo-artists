@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kirilov_alexey_tattoo",
-  "name": "Kirilov Alexey",
+  "name": "Alexey Kirilov Tattoo Artist",
   "location": {
     "city": "Kharkiv",
     "country": "Ukraine"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🖤Tattoo artist\n🇺🇦Ukraine 🇩🇪Germany\n #kirilovalexeytattoo",
+  "instagram_enriched": {
+    "id": "2072372442",
+    "follower_count": 10403,
+    "following_count": 900,
+    "media_count": 948,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kirilov_alexey_tattoo/instagram/profile.jpg"
+  }
 }

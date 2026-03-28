@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "la_fille_aux_fleurs",
-  "name": "Elodie Seguinot",
+  "name": "Elo",
   "location": {
     "city": "Coubert",
     "country": "France"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "TATOUEUSE FLORAL  noir/gris & couleur\nRDV ouverts écris moi par mail ⬇️\n💌  lafilleauxfleurs.tattoo@hotmail.com\n@docteurjekylloffice Chilly-Mazarin 91📍",
+  "instagram_enriched": {
+    "id": "3501838999",
+    "follower_count": 21833,
+    "following_count": 2096,
+    "media_count": 891,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/la_fille_aux_fleurs/instagram/profile.jpg"
+  }
 }

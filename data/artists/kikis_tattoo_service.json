@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kikis_tattoo_service",
-  "name": "Quanah",
+  "name": "kikis tattoo service",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -292,6 +292,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Welcome to Quanah, the premier tattoo studio in San Diego where vibrant creativity meets the cutting-edge of 'newschool' ink. This exclusive, appointment-only haven was brought to life by the artistic passions of founders Quanah and Kerry, alongside their team of visionary resident artists @indioshinobi, @kerryrosetattoos, @the_wrkz, @sochitattoos, and @spookyval. Step into Quanah for a unique, personalized tattoo experience where every piece is a bold statement of style and innovation.\nPrice: $\nCurrent location: San Diego, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Quanah, the premier tattoo studio in San Diego where vibrant creativity meets the cutting-edge of 'newschool' ink. This exclusive, appointment-only haven was brought to life by the artistic passions of founders Quanah and Kerry, alongside their team of visionary resident artists @indioshinobi, @kerryrosetattoos, @the_wrkz, @sochitattoos, and @spookyval. Step into Quanah for a unique, personalized tattoo experience where every piece is a bold statement of style and innovation.\nPrice: $\nCurrent location: San Diego, California, United States",
+  "instagram_enriched": {
+    "id": "6027775428",
+    "follower_count": 804,
+    "following_count": 536,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kikis_tattoo_service/instagram/profile.jpg"
+  }
 }

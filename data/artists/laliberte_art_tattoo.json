@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laliberte_art_tattoo",
-  "name": "Madame Laliberté",
+  "name": "Laliberté Art Tattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Madame Laliberté is renowned for her exceptional skill level in creating intricate geometric and ornamental floral tattoos. Her portfolio, branded under 'Skin Witches,' displays a masterful blend of precision and artistic flair, ensuring each piece is a unique work of art. Clients leave her studio deeply impressed by the sheer quality and detail present in every tattoo she crafts.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Madame Laliberté is renowned for her exceptional skill level in creating intricate geometric and ornamental floral tattoos. Her portfolio, branded under 'Skin Witches,' displays a masterful blend of precision and artistic flair, ensuring each piece is a unique work of art. Clients leave her studio deeply impressed by the sheer quality and detail present in every tattoo she crafts.\nPrice: $\nCurrent location:\n\n• Skin Witches • Tatouage ornemental",
+  "instagram_enriched": {
+    "id": "4633999429",
+    "follower_count": 2284,
+    "following_count": 1371,
+    "media_count": 412,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laliberte_art_tattoo/instagram/profile.jpg"
+  }
 }

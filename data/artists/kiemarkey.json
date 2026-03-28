@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kiemarkey",
-  "name": "Kie Markey",
+  "name": "Kie Markey | Shepparton Tattoo Artist (Black & Grey Realism)",
   "location": {
     "city": "Shepparton",
     "country": "Australia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "✖️ Owner of Black Crown Tattoo — Shepparton ✖️\n@blackcrowntattoo\nBlack & Grey Realism\nBOOKS OPEN 👇🏼",
+  "instagram_enriched": {
+    "id": "220818739",
+    "follower_count": 5660,
+    "following_count": 1274,
+    "media_count": 1298,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kiemarkey/instagram/profile.jpg"
+  }
 }

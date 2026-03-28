@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kuro.222",
-  "name": "Kuro",
+  "name": "Malik Al Hashimi (Kuro 222)",
   "location": {
     "city": "Montpellier",
     "country": "France"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Contact ➡️ kuromtp@gmail.com\nTattoo account: @222_needle",
+  "instagram_enriched": {
+    "id": "1307415372",
+    "follower_count": 13745,
+    "following_count": 1083,
+    "media_count": 246,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kuro.222/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "la_tatueria",
-  "name": "La Tatueria",
+  "name": "La _tatueria",
   "location": {
     "city": "Guadalajara",
     "country": "Mexico"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "La fábrica 🏭 de tattos 🥸\nEmpezando desde 0 🥔",
+  "instagram_enriched": {
+    "id": "62133015336",
+    "follower_count": 33,
+    "following_count": 46,
+    "media_count": 12,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/la_tatueria/instagram/profile.jpg"
+  }
 }

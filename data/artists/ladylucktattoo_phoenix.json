@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ladylucktattoo_phoenix",
-  "name": "Heather Alvin",
+  "name": "Lady Luck Tattoo Phoenix",
   "location": {
     "city": "Phoenix",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "✨Downtown Phoenix✨\n✨Message an Artist:\n@magic_marge57\n@peightonflash_tattoos \n@ladyluckphx_heather",
+  "instagram_enriched": {
+    "id": "7304280117",
+    "follower_count": 5994,
+    "following_count": 421,
+    "media_count": 480,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ladylucktattoo_phoenix/instagram/profile.jpg"
+  }
 }

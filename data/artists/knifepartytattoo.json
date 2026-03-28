@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "knifepartytattoo",
-  "name": "Aber Tattooer",
+  "name": "Knife Party Tattoo",
   "location": {
     "city": "Kallithea",
     "country": "Greece"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "❋Private shop-By appointment\n❋ATH🇬🇷 \n❋Tel:+302109589538\n@aber_tattooer\n@blvck_stab\n@oldnicktattoos \n@alexnik_tt\n@andreas_kintonis\n@vri.onis\n@sixatesic",
+  "instagram_enriched": {
+    "id": "8304550637",
+    "follower_count": 3706,
+    "following_count": 341,
+    "media_count": 355,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/knifepartytattoo/instagram/profile.jpg"
+  }
 }

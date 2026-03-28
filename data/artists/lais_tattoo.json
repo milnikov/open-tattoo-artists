@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lais_tattoo",
-  "name": "Lais Leone",
+  "name": "𝔏𝔞𝔦𝔰 𝔏𝔢𝔬𝔫𝔢 𝔗𝔞𝔱𝔱𝔬𝔬 🌿",
   "location": {
     "city": "Recife",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "📍Recife-Pe\n• Apenas com horário marcado\n• Link para o WhatsApp 👇🏼",
+  "instagram_enriched": {
+    "id": "8069255495",
+    "follower_count": 8701,
+    "following_count": 2046,
+    "media_count": 247,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lais_tattoo/instagram/profile.jpg"
+  }
 }

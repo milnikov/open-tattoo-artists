@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lady.death.333",
-  "name": "Kat Vargas",
+  "name": "Kat",
   "location": {
     "city": "Rocky Hill",
     "country": "United States"
@@ -76,5 +76,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🦇\nLicensed CT Tattoo Artist\n⛓️STYLES⛓️\nGothic blackwork\nEtching\nPointillism\nJapanese Trad\nAmerican Trad\n•\nCall/text\n860-970-1764\n@timeouttattoos",
+  "instagram_enriched": {
+    "id": "21283497248",
+    "follower_count": 15878,
+    "following_count": 902,
+    "media_count": 311,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lady.death.333/instagram/profile.jpg"
+  }
 }

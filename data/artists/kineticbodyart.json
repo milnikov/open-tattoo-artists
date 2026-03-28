@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kineticbodyart",
-  "name": "Gentle Jay Tattoo",
+  "name": "Kinetic Body Art Gallery| Long Island Tattoo Shop",
   "location": {
     "city": "Levittown",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "LI, NY Tattoo Shop\nTue-Sat 12-9pm\n@gentlejaytattoo @angeline.tattoo\n@steph_sboto @paris_tattoos18 @ken.tej_\nDM/Email/Call to book",
+  "instagram_enriched": {
+    "id": "6842303516",
+    "follower_count": 5725,
+    "following_count": 143,
+    "media_count": 2003,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kineticbodyart/instagram/profile.jpg"
+  }
 }

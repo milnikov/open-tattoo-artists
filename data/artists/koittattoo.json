@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "koittattoo",
-  "name": "Koit Tattoo",
+  "name": "KOit",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Koit Tattoo, located in Berlin, Germany, is an exceptionally skilled tattoo artist, famously known for their mastery in 'fineline' style of tattooing. They operate from a private, hygienic and professional studio, accepting bookings for January and February. Reach them at koit.tattoo@protonmail.com for inquiries or appointments.\nPrice: $$\nCurrent location: Berlin, Berlin, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Koit Tattoo, located in Berlin, Germany, is an exceptionally skilled tattoo artist, famously known for their mastery in 'fineline' style of tattooing. They operate from a private, hygienic and professional studio, accepting bookings for January and February. Reach them at koit.tattoo@protonmail.com for inquiries or appointments.\nPrice: $$\nCurrent location: Berlin, Berlin, Germany\n\nKOit | Fine Line & Blackwork Tattoo\n📍 Bali-March📍 Melbourne-April\n      Custom & Flash\n      Open for bookings",
+  "instagram_enriched": {
+    "id": "22851242",
+    "follower_count": 38264,
+    "following_count": 1629,
+    "media_count": 619,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/koittattoo/instagram/profile.jpg"
+  }
 }

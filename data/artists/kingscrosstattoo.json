@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kingscrosstattoo",
-  "name": "Kings Cross Tattoo",
+  "name": "Kings Cross Tattoo Parlour",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Artists\nSuppliers\nAbout\nLocated in the heart of London, Kings Cross Tattoo is an esteemed tattoo studio established in 2009, highly renowned for their expertise in traditional, dotwork, and sketch style tattoos. The studio combines a gritty yet inviting environment with a team of dedicated tattoo artists devoted to delivering precision, creativity, and a personalized touch to all their clients.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nLocated in the heart of London, Kings Cross Tattoo is an esteemed tattoo studio established in 2009, highly renowned for their expertise in traditional, dotwork, and sketch style tattoos. The studio combines a gritty yet inviting environment with a team of dedicated tattoo artists devoted to delivering precision, creativity, and a personalized touch to all their clients.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\nKings Cross Tattoo Parlour is a tattoo & piercing studio near King’s Cross & St Pancras, London, offering walk-in tattoos daily. Est. 2009.📲+ ☎️+ 📧=⬇️",
+  "instagram_enriched": {
+    "id": "19890296",
+    "follower_count": 30262,
+    "following_count": 217,
+    "media_count": 1204,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kingscrosstattoo/instagram/profile.jpg"
+  }
 }

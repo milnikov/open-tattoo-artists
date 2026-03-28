@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kovacs_tamas",
-  "name": "Kovács Tamás",
+  "name": "Kovács Tamás",
   "location": {
     "city": "Vienna",
     "country": "Austria"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Kovács Tamás is a highly skilled tattoo artist based in Vienna, Austria, specializing in black & gray, realism, and trashpolka. Their attention to detail and immaculate precision set their work apart, making them a sought-after artist for anyone looking for a stunning, life-like piece. Tamás' professionalism is reflected in every tattoo they create, ensuring a superior experience for all clients.\nPrice: $\nCurrent location: Vienna, Vienna, Austria"
+  "updated_at": "2026-03-28",
+  "bio": "Kovács Tamás is a highly skilled tattoo artist based in Vienna, Austria, specializing in black & gray, realism, and trashpolka. Their attention to detail and immaculate precision set their work apart, making them a sought-after artist for anyone looking for a stunning, life-like piece. Tamás' professionalism is reflected in every tattoo they create, ensuring a superior experience for all clients.\nPrice: $\nCurrent location: Vienna, Vienna, Austria",
+  "instagram_enriched": {
+    "id": "366377859",
+    "follower_count": 2964,
+    "following_count": 392,
+    "media_count": 294,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kovacs_tamas/instagram/profile.jpg"
+  }
 }

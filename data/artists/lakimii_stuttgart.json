@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lakimii_stuttgart",
-  "name": "Lakimii",
+  "name": "LAKIMII",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo. Fashion. Lifestyle in Stuttgart, Germany. \nTattoos ohne Termin!!! Gutes Preis-Leistungsverhältnis. Internationale und regionale Fashion",
+  "instagram_enriched": {
+    "id": "425865199",
+    "follower_count": 8509,
+    "following_count": 82,
+    "media_count": 691,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lakimii_stuttgart/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ladiesofinktour",
-  "name": "Ladies of Ink",
+  "name": "Ladies Of Ink | Tattoo Tour",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,5 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "All Black Female Tattoo Artist Collective and Tour Est. 2015 20+ Ladies | COAST TO COAST| PHILLY JAN 23-25 💪🏽💙",
+  "instagram_enriched": {
+    "id": "3177373179",
+    "follower_count": 16205,
+    "following_count": 369,
+    "media_count": 203,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ladiesofinktour/instagram/profile.jpg"
+  }
 }

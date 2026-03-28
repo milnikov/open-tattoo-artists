@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kellytorrestattoos",
-  "name": "Kelly Torres",
+  "name": "Kelly Torres Tattoo Artist",
   "location": {
     "city": "Lagrangeville",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Artist located in Hudson Valley NY @blackcherrytattoostudios",
+  "instagram_enriched": {
+    "id": "8234138012",
+    "follower_count": 1595,
+    "following_count": 907,
+    "media_count": 891,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kellytorrestattoos/instagram/profile.jpg"
+  }
 }

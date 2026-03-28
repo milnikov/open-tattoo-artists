@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "l_o_v_e_machine",
-  "name": "LOVEmachine",
+  "name": "L.O.V.E.machine Tattoos & Piercings",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "•NYC Professional Tattoo Shop\n•Piercings\n•For appointments hit the link below",
+  "instagram_enriched": {
+    "id": "1486740817",
+    "follower_count": 54228,
+    "following_count": 349,
+    "media_count": 1937,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/l_o_v_e_machine/instagram/profile.jpg"
+  }
 }

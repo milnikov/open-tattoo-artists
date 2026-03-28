@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "krampusssytattoo",
-  "name": "Kris Masterson",
+  "name": "Kris Masterson, Norfolk Tattoo Artist",
   "location": {
     "city": "Denver",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Feral Cheese Monger, Shop Troll\n18 years experience, custom tattoos. \nNorfolk, Virginia\nBOOKS OPEN, DM me.",
+  "instagram_enriched": {
+    "id": "331335962",
+    "follower_count": 14315,
+    "following_count": 3185,
+    "media_count": 1196,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krampusssytattoo/instagram/profile.jpg"
+  }
 }

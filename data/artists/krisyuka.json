@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "krisyuka",
-  "name": "Kristie Yuka",
+  "name": "Kristie Yuka • Tattoo Artist",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Mini Realismo Pet ♡ Preto e Cinza\n \nSão Paulo • Brasil\n@yukatattoostudio\n@electricink\n \nAGENDA ABERTA no link abaixo\nMaio|Junho|Julho",
+  "instagram_enriched": {
+    "id": "596940172",
+    "follower_count": 211116,
+    "following_count": 952,
+    "media_count": 774,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krisyuka/instagram/profile.jpg"
+  }
 }

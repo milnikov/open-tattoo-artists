@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kevinkilleenwexfordtattoo",
-  "name": "Kevin Killeen",
+  "name": "Kevin Killeen Wexford Tattoo",
   "location": {
     "city": "Wexford",
     "country": "Ireland"
@@ -210,5 +210,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "State of the art, Award Winning Traditional Tattoo Studio ☘️\nOver 40 years experience!☘️\n@kevinkilleenwexfordtattoo\n@garrytattoo \n@jackobrientattoos",
+  "instagram_enriched": {
+    "id": "1720999706",
+    "follower_count": 1791,
+    "following_count": 1389,
+    "media_count": 64,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kevinkilleenwexfordtattoo/instagram/profile.jpg"
+  }
 }

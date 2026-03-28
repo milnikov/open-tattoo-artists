@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kratos_tattoo_mallorca",
-  "name": "Kratos Tattoo",
+  "name": "Kratos Tattoo Mallorca",
   "location": {
     "city": "Palma",
     "country": "Spain"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "\"Kratos Tattoo, nestled in Palma, Spain, houses expert tattoo artists specializing in intricate realism and elegant black & gray designs. With multiple locations, including San Miguel 13, Sindicato 16, Cartago 36, and Punta Ballena 14, this studio provides an inviting atmosphere and creative touch that makes every ink experience unique and unforgettable.\"\nPrice: $$\nCurrent location: Palma, Balearic Islands, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "\"Kratos Tattoo, nestled in Palma, Spain, houses expert tattoo artists specializing in intricate realism and elegant black & gray designs. With multiple locations, including San Miguel 13, Sindicato 16, Cartago 36, and Punta Ballena 14, this studio provides an inviting atmosphere and creative touch that makes every ink experience unique and unforgettable.\"\nPrice: $$\nCurrent location: Palma, Balearic Islands, Spain\n\n📍 PALMA, c. San Miguel 13. \n📍PALMA,  c. Sindicato 16\n📍ARENAL, C. Cartago 36 \n📍MAGALUF, C.  Punta Ballena 14.\nWathsapp 671748795.",
+  "instagram_enriched": {
+    "id": "3270339250",
+    "follower_count": 16558,
+    "following_count": 1339,
+    "media_count": 344,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kratos_tattoo_mallorca/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "koerper_stahl_tattoo",
-  "name": "Die Ivo",
+  "name": "Die Ivo • KÖRPER STAHL TATTOO",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "• Fem-Artist seit 2005🏳️‍🌈\n• Privat Studio Bielefeld-Senne\n• 📱WhatsApp: +4915756145871\n• KStattoo@t-online.de",
+  "instagram_enriched": {
+    "id": "227692940",
+    "follower_count": 1268,
+    "following_count": 1165,
+    "media_count": 471,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/koerper_stahl_tattoo/instagram/profile.jpg"
+  }
 }

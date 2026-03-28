@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "klocktattoo",
-  "name": "Klock Tattoo",
+  "name": "Lucas Klock",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "REALISMO\nCOBERTURAS\n                                                                                  🇧🇷 SP",
+  "instagram_enriched": {
+    "id": "1560015731",
+    "follower_count": 6726,
+    "following_count": 4014,
+    "media_count": 274,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/klocktattoo/instagram/profile.jpg"
+  }
 }

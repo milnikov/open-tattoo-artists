@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "laiguillette",
-  "name": "L'aiguillette",
+  "name": "L’aiguillette",
   "location": {
     "city": "Vannes",
     "country": "France"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Discover an artistic haven at L'aiguillette, nestled in the charming heart of Vannes, France. Renowned for exquisite dotwork and fineline tattoos, our boutique studio at 8 rue Thomas de Closmadeuc offers a unique and intimate experience for aficionados and newcomers alike, Tuesday through Saturday from 14h to 19h. Dive into the world of graphic and abstract designs with our celebrated artists @bichontattoo and @petit_jean_tatoueur, and leave with a piece of wearable art that truly resonates with your soul.\nPrice: $\nCurrent location: Vannes, Brittany, France"
+  "updated_at": "2026-03-28",
+  "bio": "Discover an artistic haven at L'aiguillette, nestled in the charming heart of Vannes, France. Renowned for exquisite dotwork and fineline tattoos, our boutique studio at 8 rue Thomas de Closmadeuc offers a unique and intimate experience for aficionados and newcomers alike, Tuesday through Saturday from 14h to 19h. Dive into the world of graphic and abstract designs with our celebrated artists @bichontattoo and @petit_jean_tatoueur, and leave with a piece of wearable art that truly resonates with your soul.\nPrice: $\nCurrent location: Vannes, Brittany, France\n\nSalon de tatouage à Vannes, Morbihan: 8 rue Thomas de closmadeuc. @bichontattoo, @petit_jean_tatoueur @solenndesneiges @megalithe_tattoo",
+  "instagram_enriched": {
+    "id": "8375612536",
+    "follower_count": 5953,
+    "following_count": 394,
+    "media_count": 720,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/laiguillette/instagram/profile.jpg"
+  }
 }

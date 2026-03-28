@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kodeart",
-  "name": "Kodie",
+  "name": "Kodeart",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -28,6 +28,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Kodie is a highly skilled tattoo artist specializing in neotraditional styles, marking his distinctiveness in the industry with intricate and vibrant designs. As a co-owner of the renowned @electricsnaketattoo in Billericay, Essex, and a frequent guest at @wolfandagger in Brighton, his dedication and professionalism shine through in every piece of work he undertakes.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Kodie is a highly skilled tattoo artist specializing in neotraditional styles, marking his distinctiveness in the industry with intricate and vibrant designs. As a co-owner of the renowned @electricsnaketattoo in Billericay, Essex, and a frequent guest at @wolfandagger in Brighton, his dedication and professionalism shine through in every piece of work he undertakes.\nPrice: $$\nCurrent location:",
+  "instagram_enriched": {
+    "id": "78029016863",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kodeart/instagram/profile.jpg"
+  }
 }

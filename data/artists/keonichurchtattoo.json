@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "keonichurchtattoo",
-  "name": "Keoni Church",
+  "name": "keoni church",
   "location": {
     "city": "Haleiwa",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Oahu, Hawaii ➡️ Denver, Colorado\n@funtimesocialclub \nBrand @darkritearts \nArt page @keonichurcharts\nClick the link to book ⬇️",
+  "instagram_enriched": {
+    "id": "814434401",
+    "follower_count": 12110,
+    "following_count": 3003,
+    "media_count": 646,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keonichurchtattoo/instagram/profile.jpg"
+  }
 }

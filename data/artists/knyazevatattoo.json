@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "knyazevatattoo",
-  "name": "Knyazeva Tattoo",
+  "name": "Женя Князева",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🔪Татуировщица Спб\n🍉Люблю готовить \n🐕Наши собаки  @charlie_srankl  @biggymops  @izummops (R.I.P.)\n🌷Хобби  @doma__teplo_",
+  "instagram_enriched": {
+    "id": "1520853254",
+    "follower_count": 20447,
+    "following_count": 0,
+    "media_count": 935,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/knyazevatattoo/instagram/profile.jpg"
+  }
 }

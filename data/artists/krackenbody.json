@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "krackenbody",
-  "name": "Kracken Body Art",
+  "name": "Kracken Body art",
   "location": {
     "city": "Great Yarmouth",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Kracken Body Art, based in Great Yarmouth, United Kingdom, excels in crafting stunning illustrative and black & gray tattoos. Renowned for their meticulous attention to detail and cleanliness, they ensure each client's experience is not only satisfying artistically but also upheld to the highest standards of hygiene. Their studio is a testament to their professional commitment, providing a safe and immaculate environment for all tattooing needs.\nPrice: $\nCurrent location: Great Yarmouth, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Kracken Body Art, based in Great Yarmouth, United Kingdom, excels in crafting stunning illustrative and black & gray tattoos. Renowned for their meticulous attention to detail and cleanliness, they ensure each client's experience is not only satisfying artistically but also upheld to the highest standards of hygiene. Their studio is a testament to their professional commitment, providing a safe and immaculate environment for all tattooing needs.\nPrice: $\nCurrent location: Great Yarmouth, England, United Kingdom",
+  "instagram_enriched": {
+    "id": "13844520982",
+    "follower_count": 1662,
+    "following_count": 73,
+    "media_count": 615,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krackenbody/instagram/profile.jpg"
+  }
 }

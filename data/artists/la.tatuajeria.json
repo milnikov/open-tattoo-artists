@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "la.tatuajeria",
-  "name": "La Tatuajería",
+  "name": "LA TATUAJERIA | REALISMO | FINE LINE | TATUAJES CORUÑA",
   "location": {
     "city": "A Coruña",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Horario:\nlunes a viernes 11/14 y 17/20\nSábado solo cita previa \n📞 881895603/ WhatsApp: (+34)638 329 118",
+  "instagram_enriched": {
+    "id": "5637112336",
+    "follower_count": 18204,
+    "following_count": 6174,
+    "media_count": 1034,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/la.tatuajeria/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kisscsabitattoo",
-  "name": "Csabi Kiss",
+  "name": "ᴄsᴀʙɪ ᴋɪss",
   "location": {
     "city": "Miskolc",
     "country": "Hungary"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist\nNewschool | Anime | Cartoon\n@inkprogress_miskolc 🇭🇺\n@andyengeltattoostudio 🇩🇪\nSponsored by\n@starbritecolors \n@emalla.official",
+  "instagram_enriched": {
+    "id": "414119135",
+    "follower_count": 44309,
+    "following_count": 3850,
+    "media_count": 559,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kisscsabitattoo/instagram/profile.jpg"
+  }
 }

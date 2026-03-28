@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "krolya_tattoo",
-  "name": "Krolya Tattoo",
+  "name": "krolya_tattoo",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -208,5 +208,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Татуировщик в СПб.\nРазработка индивидуальных эскизов.\nОсновная страница @krolya1990__tattoo 😺",
+  "instagram_enriched": {
+    "id": "9428791904",
+    "follower_count": 531,
+    "following_count": 368,
+    "media_count": 273,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krolya_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "klau_szew",
-  "name": "Klaudia Szewczyk",
+  "name": "klau_ szew",
   "location": {
     "city": "Poznan",
     "country": "Poland"
@@ -546,5 +546,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "Rzeszów zapisy otwarte \nPZN 09 12.04 @slonce.kolektyw \nAktualna ceramika i biżuteria tutaj",
+  "instagram_enriched": {
+    "id": "1448555305",
+    "follower_count": 4810,
+    "following_count": 1268,
+    "media_count": 232,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/klau_szew/instagram/profile.jpg"
+  }
 }

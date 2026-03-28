@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "keysonkitestattoo",
-  "name": "Keyson Kitestattoo",
+  "name": "Keysonkitestattoo",
   "location": {
     "city": "New Haven",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "CALL 203-387-5397\n869 Whalley Ave. \nNew Haven, CT 06515   \n@ericmikita \n@mati_v__\n@tat_2_rich \n@jonnydaggerstattoo \n@robbarnumtattoo @squidartificial",
+  "instagram_enriched": {
+    "id": "1406398381",
+    "follower_count": 6573,
+    "following_count": 221,
+    "media_count": 303,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/keysonkitestattoo/instagram/profile.jpg"
+  }
 }

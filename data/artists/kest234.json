@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kest234",
-  "name": "Pedro Brandão",
+  "name": "Pedro Brandão",
   "location": {
     "city": "København K",
     "country": "Denmark"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Copenhagen 🇩🇰 \nFind me @good.morning.tattoo \nApril 6-9 @wildflower.tattoostudio \nBookings open DM or email",
+  "instagram_enriched": {
+    "id": "255181467",
+    "follower_count": 4624,
+    "following_count": 1424,
+    "media_count": 432,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kest234/instagram/profile.jpg"
+  }
 }

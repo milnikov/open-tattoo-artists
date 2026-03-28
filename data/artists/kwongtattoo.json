@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kwongtattoo",
-  "name": "K Wong",
+  "name": "K. Wong",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "K Wong is a highly skilled tattoo artist based at Bedstuy Tattoo in Brooklyn, NY, excelling in traditional, geometric, and dotwork styles. Their professionalism is clear not just in the creativity and precision of their work, but also in their commitment to maintaining a clean and safe environment for their clients.\nPrice: $$\nCurrent location: Brooklyn, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "K Wong is a highly skilled tattoo artist based at Bedstuy Tattoo in Brooklyn, NY, excelling in traditional, geometric, and dotwork styles. Their professionalism is clear not just in the creativity and precision of their work, but also in their commitment to maintaining a clean and safe environment for their clients.\nPrice: $$\nCurrent location: Brooklyn, New York, United States\n\nNYC Based Traditional Tattooer",
+  "instagram_enriched": {
+    "id": "567591239",
+    "follower_count": 10274,
+    "following_count": 440,
+    "media_count": 241,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kwongtattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kudutattoo",
-  "name": "Kudu Tattoo",
+  "name": "Ｍａｒｔａ　Ｋｕｄｕ",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "Tattooer (10+ exp), painter👽\nWARSAW Poland \n07-12.05 DUBLIN\ndaily at @kuskus.studio \n(PL/ENG) Book now:",
+  "instagram_enriched": {
+    "id": "406855484",
+    "follower_count": 62055,
+    "following_count": 1938,
+    "media_count": 1009,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kudutattoo/instagram/profile.jpg"
+  }
 }

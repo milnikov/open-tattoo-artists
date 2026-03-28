@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "pairadicetattoolv",
+  "name": "Pair-A-Dice Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pairadicetattoolv",
+    "instagram": "https://www.instagram.com/pairadicetattoolv/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pairadicetattoolv/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pairadicetattoolv/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pairadicetattoolv/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pairadicetattoolv/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Step into the legendary Pair-A-Dice Tattoo, the venerable Las Vegas institution where ink meets history. Renowned for their mastery in illustrative and black & gray styles, this iconic studio has been etching Vegas style onto the skin of the bold since 1981. Located at 304 East Sahara Ave, it's a temple of artistry where every tattoo tells a story as timeless as the city's own glittering saga.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1981"
+}

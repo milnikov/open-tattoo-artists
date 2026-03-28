@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lab_paris",
-  "name": "LAB Tattoo Studio",
+  "name": "Lab Paris • Tattoo Shop",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -102,6 +102,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "LAB Tattoo Studio\nSTUDIO\nParis, Ile-de-france, France\n5.19k\nAdd\nMessage\nfineline\ntraditional\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "LAB Tattoo Studio\nSTUDIO\nParis, Ile-de-france, France\n5.19k\nAdd\nMessage\nfineline\ntraditional\nillustrative\n\n• Walk-in are welcome\n• Guest Spot Available\nnos résidents en story à la une",
+  "instagram_enriched": {
+    "id": "9296437831",
+    "follower_count": 9928,
+    "following_count": 296,
+    "media_count": 166,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lab_paris/instagram/profile.jpg"
+  }
 }

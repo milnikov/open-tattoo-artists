@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kokopelliink",
-  "name": "Kokopelli Ink",
+  "name": "Kokopelli Ink Tattoo",
   "location": {
     "city": "South Gate",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "4221 TweedyBlvd South Gate Ca 90280 (323)569-0456 10am-9pm Professional Body Piercings,Jewelry,tattoos & ToothGems by ToothKandy",
+  "instagram_enriched": {
+    "id": "252972421",
+    "follower_count": 30458,
+    "following_count": 2135,
+    "media_count": 2810,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kokopelliink/instagram/profile.jpg"
+  }
 }

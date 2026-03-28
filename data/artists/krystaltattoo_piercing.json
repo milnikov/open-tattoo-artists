@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "krystaltattoo_piercing",
-  "name": "Krystal Tattoo Piercing",
+  "name": "Tatuagem e Piercing",
   "location": {
     "city": "Manaus",
     "country": "Brazil"
@@ -414,5 +414,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🇧🇷Manaus-Am\n📍ADRIANOPOLIS \nestúdio privado\n🕑 atend. com hora agendada \n📲whatsapp:  (92) 984213248\nLink whatsapp ⤵️",
+  "instagram_enriched": {
+    "id": "1081392419",
+    "follower_count": 40808,
+    "following_count": 6862,
+    "media_count": 4151,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/krystaltattoo_piercing/instagram/profile.jpg"
+  }
 }

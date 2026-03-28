@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kenttattoos",
-  "name": "Marv Tattoos",
+  "name": "Kent Tattoos",
   "location": {
     "city": "Dartford",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Custom Tattoos and Body Piercing in Dartford by\n🥀 @zombunny_tattoo\n🦄 @snugglythug.tattoo\n💀 @marv_tattoos \n💉 @piercings_by_alexandrina\n✨ @paigestattoo_",
+  "instagram_enriched": {
+    "id": "1468833698",
+    "follower_count": 3915,
+    "following_count": 916,
+    "media_count": 1451,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kenttattoos/instagram/profile.jpg"
+  }
 }

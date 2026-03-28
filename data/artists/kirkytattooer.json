@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kirkytattooer",
-  "name": "Martin Kirke",
+  "name": "Martin Kirke | Japanese Tattoo",
   "location": {
     "city": "Bury",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "The Real McKoi\n☔️ @raincitytattoocollective Manchester\n🏴‍☠️ @modernclassictattoo London each month",
+  "instagram_enriched": {
+    "id": "30887536",
+    "follower_count": 6845,
+    "following_count": 2009,
+    "media_count": 237,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kirkytattooer/instagram/profile.jpg"
+  }
 }

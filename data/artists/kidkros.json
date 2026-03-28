@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kidkros",
-  "name": "Kid Kros",
+  "name": "KROS",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Kid Kros is a highly-skilled tattoo artist from Split, Croatia, who specializes in neotraditional styles. Not just an expert at his craft, he is also known for his ultimate professionalism during every step of the process, ensuring clients feel valued and respected from consultation to application.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Kid Kros is a highly-skilled tattoo artist from Split, Croatia, who specializes in neotraditional styles. Not just an expert at his craft, he is also known for his ultimate professionalism during every step of the process, ensuring clients feel valued and respected from consultation to application.\nPrice: $$\nCurrent location:\n\nSplit, Croatia \nkidkros@yahoo.com\nfacebook.com/kidkros",
+  "instagram_enriched": {
+    "id": "33527373",
+    "follower_count": 32013,
+    "following_count": 1003,
+    "media_count": 1275,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kidkros/instagram/profile.jpg"
+  }
 }

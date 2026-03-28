@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "korda_tattoo",
-  "name": "Korda Tattoo",
+  "name": "Korda",
   "location": {
     "city": "Dubrovnik",
     "country": "Croatia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Korda Tattoo is a highly skilled tattoo artist hailing from Dubrovnik, Croatia, currently based in Zürich. Known for their stunning black and gray realism work, they demonstrate undeniable expertise in transforming the client's ideas into meticulously inked artwork.\nPrice: $$\nCurrent location: Dubrovnik, Croatia"
+  "updated_at": "2026-03-28",
+  "bio": "Korda Tattoo is a highly skilled tattoo artist hailing from Dubrovnik, Croatia, currently based in Zürich. Known for their stunning black and gray realism work, they demonstrate undeniable expertise in transforming the client's ideas into meticulously inked artwork.\nPrice: $$\nCurrent location: Dubrovnik, Croatia\n\n#Tattoo artist from 🇭🇷\n🇨🇭Based in Zürich🇨🇭\n@korda_tattoo_collective\nBooking open!",
+  "instagram_enriched": {
+    "id": "1420788817",
+    "follower_count": 16354,
+    "following_count": 931,
+    "media_count": 186,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/korda_tattoo/instagram/profile.jpg"
+  }
 }

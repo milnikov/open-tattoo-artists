@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ladysky_tattoo",
-  "name": "Ladysky",
+  "name": "Michelle Carlton",
   "location": {
     "city": "Gold Coast",
     "country": "Australia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Artist and painter ~ Gold Coast Australia \n🎨 @michellecarltonart\nAll bookings via link👇\nladyskytattooart@gmail.com\nStudio @garageink4221",
+  "instagram_enriched": {
+    "id": "8049840338",
+    "follower_count": 16169,
+    "following_count": 4443,
+    "media_count": 735,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ladysky_tattoo/instagram/profile.jpg"
+  }
 }

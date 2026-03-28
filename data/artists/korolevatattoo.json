@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "korolevatattoo",
-  "name": "Nastya Koroleva",
+  "name": "Olga Koroleva тату мастер",
   "location": {
     "city": "Unknown",
     "country": "Russia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Moscow  🇷🇺 запись открыта ✍🏻💕\nPro team: @jconly_official\nзапись в Direct или телеграмм:",
+  "instagram_enriched": {
+    "id": "1208021106",
+    "follower_count": 44566,
+    "following_count": 449,
+    "media_count": 946,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/korolevatattoo/instagram/profile.jpg"
+  }
 }

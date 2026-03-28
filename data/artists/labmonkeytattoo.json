@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "labmonkeytattoo",
-  "name": "Soap138",
+  "name": "Lab Monkey Tattoo",
   "location": {
     "city": "Stirling",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "▪️Artists @soap138 @dyltattoo_ @chrisquigleytattoo \n▪️WALK INS WELCOME \n☎️ 01786 464397",
+  "instagram_enriched": {
+    "id": "5356600372",
+    "follower_count": 3339,
+    "following_count": 314,
+    "media_count": 303,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/labmonkeytattoo/instagram/profile.jpg"
+  }
 }

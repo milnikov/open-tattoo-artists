@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "knefeltattoo",
-  "name": "Knefel",
+  "name": "Knefel | tatuaż, ilustracja, figurki",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Wykonuję trwałe tatuaże tradycyjne inspirowane amerykańskim stylem z XX wieku\nMaluję też figurki Warhammer, robię ilustracje\nStudio: @kia_ora_tattoo",
+  "instagram_enriched": {
+    "id": "1733060473",
+    "follower_count": 7141,
+    "following_count": 1207,
+    "media_count": 1937,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/knefeltattoo/instagram/profile.jpg"
+  }
 }

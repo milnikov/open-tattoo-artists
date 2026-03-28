@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kokotattoos",
-  "name": "Koko Smith",
+  "name": "KOKO",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22",
-  "bio": "Koko Smith, a renowned tattoo artist based in Barcelona, Spain, is known for her adept skill level in illustrative, neotraditional, and newschool styles of tattooing. She is associated with famous studios including Gypsy Garden Tattoo, Good Vibes Tattoo Studio, and Bangarang Tattoo. With her outstanding grip on her craft, Koko is a gifted artist who never fails to create visually stunning and unique pieces for her clients.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Koko Smith, a renowned tattoo artist based in Barcelona, Spain, is known for her adept skill level in illustrative, neotraditional, and newschool styles of tattooing. She is associated with famous studios including Gypsy Garden Tattoo, Good Vibes Tattoo Studio, and Bangarang Tattoo. With her outstanding grip on her craft, Koko is a gifted artist who never fails to create visually stunning and unique pieces for her clients.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain\n\n✉️ kokotattoos@gmail.com ✉️\nBARCELONA🏖",
+  "instagram_enriched": {
+    "id": "178934342",
+    "follower_count": 28213,
+    "following_count": 2126,
+    "media_count": 309,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kokotattoos/instagram/profile.jpg"
+  }
 }

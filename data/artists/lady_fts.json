@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "lady_fts",
-  "name": "Marie Cox",
+  "name": "𝙼𝚊𝚛𝚒𝚎 𝙲𝚘𝚡 - 𝚃𝚊𝚝𝚝𝚘𝚘 𝙰𝚛𝚝𝚒𝚜𝚝",
   "location": {
     "city": "Tamworth",
     "country": "United Kingdom"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🏡@fts_tattoo Tamworth 🇬🇧\nFree Hand Tattooing, Illustration\nReiki Master ✨\n🍁Diary Open\nClick link to enquire ⬇️",
+  "instagram_enriched": {
+    "id": "235994953",
+    "follower_count": 27391,
+    "following_count": 1103,
+    "media_count": 950,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/lady_fts/instagram/profile.jpg"
+  }
 }

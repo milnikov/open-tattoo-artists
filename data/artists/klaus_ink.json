@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "klaus_ink",
-  "name": "Klaus Zhang",
+  "name": "Klaus Z",
   "location": {
     "city": "Chicago",
     "country": "United States"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-21"
+  "updated_at": "2026-03-28",
+  "bio": "*Tattoo Artist\n*Black and Grey Realism\n*Asian Traditional \n*Appointment only\n*Chicago by way of Tianjin China\nFor booking👇🏼👇🏼👇🏼",
+  "instagram_enriched": {
+    "id": "1471002644",
+    "follower_count": 2391,
+    "following_count": 1602,
+    "media_count": 324,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/klaus_ink/instagram/profile.jpg"
+  }
 }

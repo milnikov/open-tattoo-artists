@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "koner_raijin",
-  "name": "Koner Raijin",
+  "name": "koner_raijin",
   "location": {
     "city": "Eivissa",
     "country": "Spain"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "•Artista/Dueño en @raijintattoostudio.                                   •Citas disponibles/Mensajes privados!                        •Neotradicional",
+  "instagram_enriched": {
+    "id": "18725756",
+    "follower_count": 3580,
+    "following_count": 4994,
+    "media_count": 1154,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/koner_raijin/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kumbia_ink",
-  "name": "Kumbia Ink",
+  "name": "Gerardo Cortes ✪",
   "location": {
     "city": "Stockton",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "📧kumbiaink@gmail.com \n📍STOCKTON  \nBest tattoo artist in NORTHERN CA\nSHOP @workethictattoostudio  \nBRAND @workethic.ink",
+  "instagram_enriched": {
+    "id": "34362086",
+    "follower_count": 60355,
+    "following_count": 204,
+    "media_count": 371,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kumbia_ink/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "killtattoo",
-  "name": "Kildson Felipe",
+  "name": "Kill Tattoo",
   "location": {
     "city": "Águas Lindas De Goiás",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "𝗧𝗮𝘁𝘂𝗮𝗴𝗲𝗻𝘀 𝗮𝘂𝘁𝗼𝗿𝗮𝗶𝘀 𝗕𝗹𝗮𝗰𝗸𝘄𝗼𝗿𝗸 |\n•Camping Clube •Águas Lindas• GO\nQuadra 20 Lote 27",
+  "instagram_enriched": {
+    "id": "463081941",
+    "follower_count": 2860,
+    "following_count": 779,
+    "media_count": 299,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/killtattoo/instagram/profile.jpg"
+  }
 }

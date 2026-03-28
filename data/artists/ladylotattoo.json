@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ladylotattoo",
-  "name": "Lady Lo",
+  "name": "✨ Lorena Marín - Formadora & Tatuadora✨",
   "location": {
     "city": "Palma",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "🖌️En 2008 el Tattoo me cambió la vida \n💖Ahora enseño a otras mujeres a ser tatuadoras y vivir de ello\n🫀 Tatuajes a todo color 🎨",
+  "instagram_enriched": {
+    "id": "6351050465",
+    "follower_count": 16126,
+    "following_count": 851,
+    "media_count": 214,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ladylotattoo/instagram/profile.jpg"
+  }
 }

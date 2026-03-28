@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kirill_lisichenko_tattoo",
-  "name": "Kirill Lisichenko",
+  "name": "Кирилл Лисиченко | Тату Барнаул, Москва",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "Картины на людях, холстах и других поверхностях в Барнауле и Москве. Открыт к сотрудничеству и коллаборациям\n+79853416390",
+  "instagram_enriched": {
+    "id": "393527277",
+    "follower_count": 20200,
+    "following_count": 1316,
+    "media_count": 579,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kirill_lisichenko_tattoo/instagram/profile.jpg"
+  }
 }

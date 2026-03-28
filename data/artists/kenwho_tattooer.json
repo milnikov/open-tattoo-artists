@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "kenwho_tattooer",
-  "name": "Ken Who?",
+  "name": "KEN WHO?",
   "location": {
     "city": "Whittier",
     "country": "United States"
@@ -532,5 +532,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-22"
+  "updated_at": "2026-03-28",
+  "bio": "JESUS CHRIST IS THE WAY, THE TRUTH & THE LIFE. REPENT & FOLLOW HIM 🙌🏼 SOBER SINCE 2018",
+  "instagram_enriched": {
+    "id": "195347847",
+    "follower_count": 1663,
+    "following_count": 2106,
+    "media_count": 1167,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/kenwho_tattooer/instagram/profile.jpg"
+  }
 }
