@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fliegenart",
-  "name": "FliegenArt",
+  "name": "Nelson",
   "location": {
     "city": "Houston",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Welcome to FliegenArt, Houston's premier tattoo destination specializing in the bold and vibrant aesthetics of trashpolka and newschool styles. Embrace your unique expression in our eclectic studio, where adults seek ink beneath a canopy of creativity from 3 pm to 1 am. Luxuriate in the art of transformation with the added comfort of numbing cream and easy online booking.\nPrice: $\nCurrent location: Houston, Texas, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to FliegenArt, Houston's premier tattoo destination specializing in the bold and vibrant aesthetics of trashpolka and newschool styles. Embrace your unique expression in our eclectic studio, where adults seek ink beneath a canopy of creativity from 3 pm to 1 am. Luxuriate in the art of transformation with the added comfort of numbing cream and easy online booking.\nPrice: $\nCurrent location: Houston, Texas, United States\n\nPrivate Studio📍HTX",
+  "instagram_enriched": {
+    "id": "42771747",
+    "follower_count": 4568,
+    "following_count": 693,
+    "media_count": 637,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fliegenart/instagram/profile.jpg"
+  }
 }

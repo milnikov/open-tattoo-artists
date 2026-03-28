@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "finktattoo",
-  "name": "Mike Fink",
+  "name": "Fink tattoo",
   "location": {
     "city": "Rio De Janeiro",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Mike Fink, hailing from Rio de Janeiro, Brazil, is a remarkably skilled tattoo artist specializing in dotwork, fineline, and black & gray styles. Mike's artwork speaks volumes about his overall proficiency in delivering intricate and detailed designs, earning him significant recognition in the tattoo industry.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Mike Fink, hailing from Rio de Janeiro, Brazil, is a remarkably skilled tattoo artist specializing in dotwork, fineline, and black & gray styles. Mike's artwork speaks volumes about his overall proficiency in delivering intricate and detailed designs, earning him significant recognition in the tattoo industry.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil\n\n• CONTATO\n☆ INSTAGRAM DIRECT ☆",
+  "instagram_enriched": {
+    "id": "561384155",
+    "follower_count": 20592,
+    "following_count": 3515,
+    "media_count": 176,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/finktattoo/instagram/profile.jpg"
+  }
 }

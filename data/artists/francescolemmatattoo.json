@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "francescolemmatattoo",
-  "name": "Francesco Lemma",
+  "name": "Francesco Lemma Tattoo",
   "location": {
     "city": "Chieti",
     "country": "Italy"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Francesco Lemma is a highly skilled tattoo artist based in Chieti, Italy, specializing in black and gray realism. Tattooing since 1998 and the proud owner of #Theinker78, their mastery in creating lifelike, detailed work is evident in every piece they ink. Professionalism and artistry converge in Francesco's studio where each tattoo is a testament to their dedication to the craft.\nPrice: $$\nCurrent location: Chieti, Abruzzo, Italy",
-  "tattooing_since": "1998"
+  "updated_at": "2026-03-28",
+  "bio": "Francesco Lemma is a highly skilled tattoo artist based in Chieti, Italy, specializing in black and gray realism. Tattooing since 1998 and the proud owner of #Theinker78, their mastery in creating lifelike, detailed work is evident in every piece they ink. Professionalism and artistry converge in Francesco's studio where each tattoo is a testament to their dedication to the craft.\nPrice: $$\nCurrent location: Chieti, Abruzzo, Italy\n\nTattooing since 1998\n#cleopatraink\n#francescolemmatattoo  \n⏰ \n📆 \n📩 francesco.lemma78@gmail.com\n☎️ +393409617472 Piazza Achille Cuonzo 27 Lanciano",
+  "tattooing_since": "1998",
+  "instagram_enriched": {
+    "id": "1537499597",
+    "follower_count": 12698,
+    "following_count": 7479,
+    "media_count": 1617,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/francescolemmatattoo/instagram/profile.jpg"
+  }
 }

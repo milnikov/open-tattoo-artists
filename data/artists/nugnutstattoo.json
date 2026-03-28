@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "nugnutstattoo",
+  "name": "Jason Smith",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/nugnutstattoo",
+    "instagram": "https://www.instagram.com/nugnutstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nugnutstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nugnutstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nugnutstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/nugnutstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Jason Smith is renowned for his exceptional skill in creating stunning tattoos that blend the aesthetics of black & gray, floral, and realism styles. With 16 years of experience and the owner of the well-regarded Dandy Walrus Electric Tattoo, Jason's professionalism is reflected not only in his meticulous artistry but also in the high standards of his studio. Clients can expect a seamless experience where both their vision and well-being are expertly catered to by a seasoned pro.\nPrice: $\nCurrent location:"
+}

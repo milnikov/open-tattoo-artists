@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fenixtattoos",
-  "name": "Fenix Tattoo",
+  "name": "Fenix Tattoo and Piercing",
   "location": {
     "city": "Seattle",
     "country": "United States"
@@ -593,6 +593,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Fenix Tattoo, based in Seattle, United States, is a tattoo artist renowned for their exceptional skill in black and gray realism. Known for their meticulous attention to detail and the ability to bring lifelike images to the skin, Fenix's professionalism is evident in every piece they create. They consistently deliver stunning tattoos that stand the test of time, making them a sought-after artist in the industry.\nPrice: $\nCurrent location: Seattle, Washington, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Fenix Tattoo, based in Seattle, United States, is a tattoo artist renowned for their exceptional skill in black and gray realism. Known for their meticulous attention to detail and the ability to bring lifelike images to the skin, Fenix's professionalism is evident in every piece they create. They consistently deliver stunning tattoos that stand the test of time, making them a sought-after artist in the industry.\nPrice: $\nCurrent location: Seattle, Washington, United States\n\n@tymyerstattoo\n@abstract.tattoo.studio\n@kickstart_my_art\n@ricarts_92",
+  "instagram_enriched": {
+    "id": "2258372525",
+    "follower_count": 2422,
+    "following_count": 442,
+    "media_count": 294,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fenixtattoos/instagram/profile.jpg"
+  }
 }

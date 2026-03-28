@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fortunetattoo",
-  "name": "Ms Mikki",
+  "name": "PERTH TATTOO STUDIO",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -364,7 +364,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Nestled in the vibrant heart of Portland, Ms. Mikki's Tattoo Studio has been a beacon of traditional tattoo artistry since 1987. With an intimate and welcoming atmosphere, the skilled artisan team led by the esteemed Ms. Mikki, alongside Stephanie, Arjay, and Jennifer, prides itself on crafting timeless body art that echoes the soul of this historic craft.\nPrice: $\nCurrent location: Portland, Oregon, United States",
-  "tattooing_since": "1987"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the vibrant heart of Portland, Ms. Mikki's Tattoo Studio has been a beacon of traditional tattoo artistry since 1987. With an intimate and welcoming atmosphere, the skilled artisan team led by the esteemed Ms. Mikki, alongside Stephanie, Arjay, and Jennifer, prides itself on crafting timeless body art that echoes the soul of this historic craft.\nPrice: $\nCurrent location: Portland, Oregon, United States\n\n✸ WA | NEDLANDS\n✸ ALL STYLE TATTOOS\n✸ WALK INS WELCOME",
+  "tattooing_since": "1987",
+  "instagram_enriched": {
+    "id": "54321029048",
+    "follower_count": 575,
+    "following_count": 147,
+    "media_count": 144,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fortunetattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gabe_damian",
-  "name": "Gabe Damian",
+  "name": "gabe_damian",
   "location": {
     "city": "Upland",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Welcome to Mint Condition Tattoo, Upland's premier tattoo studio where the visionary Gabe Damian brings art to life on skin. Specializing in black & gray, realism, and watercolor tattoos, we promise an extraordinary experience in a vibrant and immaculate environment. Connect with us at (909) 982-5347 and let your body canvas be transformed.\nPrice: $\nCurrent location: Upland, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Mint Condition Tattoo, Upland's premier tattoo studio where the visionary Gabe Damian brings art to life on skin. Specializing in black & gray, realism, and watercolor tattoos, we promise an extraordinary experience in a vibrant and immaculate environment. Connect with us at (909) 982-5347 and let your body canvas be transformed.\nPrice: $\nCurrent location: Upland, California, United States\n\nMint Condition Tattoo.Upland, CA. 909) 982-5347",
+  "instagram_enriched": {
+    "id": "211435547",
+    "follower_count": 3171,
+    "following_count": 2094,
+    "media_count": 491,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gabe_damian/instagram/profile.jpg"
+  }
 }

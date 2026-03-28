@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "firsthandtattoo",
-  "name": "Ceb Doe",
+  "name": "First Hand Tattoo",
   "location": {
     "city": "Warminster",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Step into the artistic haven of Ceb Doe Tattoo Studio, nestled in the vibrant community of Warminster, United States. Our skilled artists masterfully bring to life an array of tattoos in rich black & gray, stunning realism, and bold neotraditional styles, capturing your vision with precision and care. We welcome walk-ins daily on a first-come, first-served basis, ensuring every spontaneous ink desire is met with excellence and creativity.\nPrice: $\nCurrent location: Warminster, Pennsylvania, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the artistic haven of Ceb Doe Tattoo Studio, nestled in the vibrant community of Warminster, United States. Our skilled artists masterfully bring to life an array of tattoos in rich black & gray, stunning realism, and bold neotraditional styles, capturing your vision with precision and care. We welcome walk-ins daily on a first-come, first-served basis, ensuring every spontaneous ink desire is met with excellence and creativity.\nPrice: $\nCurrent location: Warminster, Pennsylvania, United States\n\nAward Winning Studio, Bucks County, Pa.\nTattoo Walk-Ins accepted daily!\nProfessional Piercings!\nTuesday-Thursday 12-8\nFriday-Saturday 12-10",
+  "instagram_enriched": {
+    "id": "7590353832",
+    "follower_count": 8737,
+    "following_count": 2557,
+    "media_count": 695,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/firsthandtattoo/instagram/profile.jpg"
+  }
 }

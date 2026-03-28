@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fts_tattoo",
-  "name": "Folklore Tattoo Studio",
+  "name": "𝙵𝚘𝚕𝚔𝚕𝚘𝚛𝚎 𝚃𝚊𝚝𝚝𝚘𝚘 𝚂𝚝𝚞𝚍𝚒𝚘",
   "location": {
     "city": "Tamworth",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Folklore Tattoo Studio\nSTUDIO\nTamworth, England, United Kingdom\n10.2k\nAdd\nMessage\nillustrative\nnewschool"
+  "updated_at": "2026-03-28",
+  "bio": "Folklore Tattoo Studio\nSTUDIO\nTamworth, England, United Kingdom\n10.2k\nAdd\nMessage\nillustrative\nnewschool\n\n𝚃𝚊𝚖𝚠𝚘𝚛𝚝𝚑\n𝙱𝚎𝚜𝚙𝚘𝚔𝚎 𝚃𝚊𝚝𝚝𝚘𝚘\n🇬🇧 𝟶𝟽𝟾𝟸𝟷 𝟺𝟷𝟷𝟿𝟸𝟻\n💌𝚏𝚘𝚕𝚔𝚕𝚘𝚛𝚎𝚝𝚊𝚝𝚝𝚘𝚘𝚜@𝚕𝚒𝚟𝚎.𝚌𝚘𝚖\nPrivate studio of @lady_fts\n𝙵𝚘𝚛 𝙸𝚗𝚏𝚘 𝚘𝚛 𝙴𝚗𝚚𝚞𝚒𝚛𝚒𝚎𝚜 ⬇️",
+  "instagram_enriched": {
+    "id": "550217692",
+    "follower_count": 9766,
+    "following_count": 2245,
+    "media_count": 2803,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fts_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gecko_tattoo_bruchsal",
-  "name": "Gecko",
+  "name": "Gecko Tattoo & Piercing Studio",
   "location": {
     "city": "Bruchsal",
     "country": "Germany"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Welcome to Gecko, Bruchsal's premier tattoo studio since 2001, where the delicate artistry of floral and minimalist tattoos comes to life. Our skilled artists are dedicated to creating exquisite, personalized designs within a welcoming and professional environment, Tuesday to Friday from 13:00 to 19:30 and Saturdays from 11:00 to 15:00. For an exceptional body art experience, book your appointment with us today via WhatsApp and let us craft your next piece of wearable art.\nPrice: $\nCurrent location: Bruchsal, Baden-wurttemberg, Germany",
-  "tattooing_since": "2001"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Gecko, Bruchsal's premier tattoo studio since 2001, where the delicate artistry of floral and minimalist tattoos comes to life. Our skilled artists are dedicated to creating exquisite, personalized designs within a welcoming and professional environment, Tuesday to Friday from 13:00 to 19:30 and Saturdays from 11:00 to 15:00. For an exceptional body art experience, book your appointment with us today via WhatsApp and let us craft your next piece of wearable art.\nPrice: $\nCurrent location: Bruchsal, Baden-wurttemberg, Germany\n\nsince 17.11.2001\n🕰Mo:geschlossen /Di-Fr:13-19.00Uhr/Sa:11-15Uhr\n👉 WhatsApp 01791146796 \n📆Termine gibts hier⬇️\nwww.gecko-tattoo.de",
+  "tattooing_since": "2001",
+  "instagram_enriched": {
+    "id": "3530864727",
+    "follower_count": 5021,
+    "following_count": 1540,
+    "media_count": 618,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gecko_tattoo_bruchsal/instagram/profile.jpg"
+  }
 }

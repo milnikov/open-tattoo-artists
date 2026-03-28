@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "feoberumen",
-  "name": "Feo B",
+  "name": "Feo B.",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Feo B is a San Francisco-based tattoo artist renowned for their expertise in traditional, newschool, and Japanese irezumi styles. With a meticulous eye for cleanliness, their studio reflects an exceptional standard of hygiene, ensuring a safe and sterile environment for every client. Revered for their professionalism, Feo B integrates San Francisco's unique artistic flair into each custom piece.\nPrice: $\nCurrent location: San Francisco, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Feo B is a San Francisco-based tattoo artist renowned for their expertise in traditional, newschool, and Japanese irezumi styles. With a meticulous eye for cleanliness, their studio reflects an exceptional standard of hygiene, ensuring a safe and sterile environment for every client. Revered for their professionalism, Feo B integrates San Francisco's unique artistic flair into each custom piece.\nPrice: $\nCurrent location: San Francisco, California, United States\n\nowner/tattooer @hiddenplace_sf\nvocal disharmony @form_decay \nAll booking via link below.",
+  "instagram_enriched": {
+    "id": "51804227",
+    "follower_count": 7867,
+    "following_count": 2573,
+    "media_count": 486,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/feoberumen/instagram/profile.jpg"
+  }
 }

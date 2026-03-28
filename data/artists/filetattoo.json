@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "filetattoo",
-  "name": "Fábio Filé",
+  "name": "FABIO FILE",
   "location": {
     "city": "Sobral",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Fábio Filé is a supremely talented tattoo artist who specializes in the evocative styles of black&gray and realism tattoos. Working out of Sobral, Brazil, his unmatched skill and meticulous attention to detail is evident in his captivating, lifelike works. Renowned for his professionalism, Fábio maintains a clean, welcoming environment that guarantees a high-quality experience for all his clients.\nPrice: $$\nCurrent location: Sobral, Ceara, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Fábio Filé is a supremely talented tattoo artist who specializes in the evocative styles of black&gray and realism tattoos. Working out of Sobral, Brazil, his unmatched skill and meticulous attention to detail is evident in his captivating, lifelike works. Renowned for his professionalism, Fábio maintains a clean, welcoming environment that guarantees a high-quality experience for all his clients.\nPrice: $$\nCurrent location: Sobral, Ceara, Brazil\n\n@tattoo_club_ce \nTatuador-Artista plástico 🎨",
+  "instagram_enriched": {
+    "id": "318548781",
+    "follower_count": 9840,
+    "following_count": 5001,
+    "media_count": 1967,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/filetattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "franklin_tattoo",
-  "name": "Franklin",
+  "name": "Franklin tattoo",
   "location": {
     "city": "Medellin",
     "country": "Colombia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Franklin is an astoundingly skilled tattoo artist based in Medellin, Colombia, specializing in the black & gray and realism styles. Boasting a formidable following of around 85,000 on Instagram, he is admired for his attention to detail, mastery over shading, and the realism of his designs. His impressive portfolio is a testament to his unparalleled proficiency in his chosen art form.\nPrice: $$$\nCurrent location: Medellin, Colombia"
+  "updated_at": "2026-03-28",
+  "bio": "Franklin is an astoundingly skilled tattoo artist based in Medellin, Colombia, specializing in the black & gray and realism styles. Boasting a formidable following of around 85,000 on Instagram, he is admired for his attention to detail, mastery over shading, and the realism of his designs. His impressive portfolio is a testament to his unparalleled proficiency in his chosen art form.\nPrice: $$$\nCurrent location: Medellin, Colombia\n\nTATTOO ARTIST \nMED🇨🇴 \nCitas: 3136670190  \nsponsor @jconly_official @jconly.julia",
+  "instagram_enriched": {
+    "id": "1091036008",
+    "follower_count": 83951,
+    "following_count": 2497,
+    "media_count": 6637,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/franklin_tattoo/instagram/profile.jpg"
+  }
 }

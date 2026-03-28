@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "frankieraytattoo",
-  "name": "Frankie Ray",
+  "name": "World Famous Emporium Tattoo",
   "location": {
     "city": "Van Nuys",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Frankie Ray is a highly skilled tattoo artist based in Van Nuys, United States, specializing in illustrative and geometric styles that captivate the eye. Known for maintaining an impeccable standard of cleanliness, clients can trust that every session with Frankie is conducted in a meticulously hygienic environment. Reach out at (818)997-8995 to book an appointment and experience Frankie's artistry in a spotless studio.\nPrice: $\nCurrent location: Van Nuys, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Frankie Ray is a highly skilled tattoo artist based in Van Nuys, United States, specializing in illustrative and geometric styles that captivate the eye. Known for maintaining an impeccable standard of cleanliness, clients can trust that every session with Frankie is conducted in a meticulously hygienic environment. Reach out at (818)997-8995 to book an appointment and experience Frankie's artistry in a spotless studio.\nPrice: $\nCurrent location: Van Nuys, California, United States\n\n(818)997-8995",
+  "instagram_enriched": {
+    "id": "176632332",
+    "follower_count": 435,
+    "following_count": 54,
+    "media_count": 97,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/frankieraytattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fretkatattoo",
-  "name": "Fretka",
+  "name": "Dragon ball tattoo",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Fretka is an impressively skilled tattoo artist specializing in illustrative and anime styles, based in Warsaw, Poland. Not only the part of the professional Pro Team at Neba.pl, she also showcases her talent globally with guest spots booked in Germany, Belgium, Poland, and Milan, demonstrating her high level of expertise and demand in the field.\nPrice: $$\nCurrent location: Warsaw, Woj. Mazowieckie, Poland"
+  "updated_at": "2026-03-28",
+  "bio": "Fretka is an impressively skilled tattoo artist specializing in illustrative and anime styles, based in Warsaw, Poland. Not only the part of the professional Pro Team at Neba.pl, she also showcases her talent globally with guest spots booked in Germany, Belgium, Poland, and Milan, demonstrating her high level of expertise and demand in the field.\nPrice: $$\nCurrent location: Warsaw, Woj. Mazowieckie, Poland",
+  "instagram_enriched": {
+    "id": "2177668225",
+    "follower_count": 17728,
+    "following_count": 3104,
+    "media_count": 321,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fretkatattoo/instagram/profile.jpg"
+  }
 }

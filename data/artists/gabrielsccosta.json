@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gabrielsccosta",
-  "name": "Gabriel Souza",
+  "name": "Gabriel Costa",
   "location": {
     "city": "São Gonçalo",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Gabriel Souza is a highly skilled tattoo artist based in São Gonçalo, Brazil, specializing in unique styles such as sketch, realism, and black&gray. Displaying a remarkable mastery in rendering fine details, Souza's work truly captures the essence of realism with a distinct touch of his own style. His portfolio ranges from intricate Blackwork pieces to flowing watercolor art, reflecting his versatility and command over different tattooing techniques.\nPrice: $$\nCurrent location: São Gonçalo, Rio De Janeiro, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Gabriel Souza is a highly skilled tattoo artist based in São Gonçalo, Brazil, specializing in unique styles such as sketch, realism, and black&gray. Displaying a remarkable mastery in rendering fine details, Souza's work truly captures the essence of realism with a distinct touch of his own style. His portfolio ranges from intricate Blackwork pieces to flowing watercolor art, reflecting his versatility and command over different tattooing techniques.\nPrice: $$\nCurrent location: São Gonçalo, Rio De Janeiro, Brazil",
+  "instagram_enriched": {
+    "id": "78695806356",
+    "follower_count": 26,
+    "following_count": 51,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gabrielsccosta/instagram/profile.jpg"
+  }
 }

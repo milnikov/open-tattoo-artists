@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gigantetattoo",
-  "name": "Gigante Tattoo",
+  "name": "GIGANTE TATTOO - Tatuador e Body Piercer",
   "location": {
     "city": "Mesquita",
     "country": "Brazil"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "As a seasoned tattoo artist since 1999, Gigante Tattoo is known for his exceptional skill in capturing intricate floral designs and stunning lettering. His expertise extends to fine lines, realism, and cover-ups, which have captured the interest of over 60k followers on Instagram. Breathing art into life from his studio in Mesquita, Brazil, Gigante Tattoo continues to leave a lasting mark in the tattoo industry.\nPrice: $$\nCurrent location: Mesquita, Rio De Janeiro, Brazil",
-  "tattooing_since": "1999"
+  "updated_at": "2026-03-28",
+  "bio": "As a seasoned tattoo artist since 1999, Gigante Tattoo is known for his exceptional skill in capturing intricate floral designs and stunning lettering. His expertise extends to fine lines, realism, and cover-ups, which have captured the interest of over 60k followers on Instagram. Breathing art into life from his studio in Mesquita, Brazil, Gigante Tattoo continues to leave a lasting mark in the tattoo industry.\nPrice: $$\nCurrent location: Mesquita, Rio De Janeiro, Brazil\n\nTatuador desde 1999 🇧🇷🇵🇹\nAv Governador Celso Peçanha 1236\nMesquita - RJ\nNÃO ATENDEMOS MENORES  🔞",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "177094686",
+    "follower_count": 55184,
+    "following_count": 3262,
+    "media_count": 2120,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gigantetattoo/instagram/profile.jpg"
+  }
 }

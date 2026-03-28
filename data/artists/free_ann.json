@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "free_ann",
-  "name": "Anna Frolkova",
+  "name": "Anna",
   "location": {
     "city": "Kharkiv",
     "country": "Ukraine"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Anna Frolkova is a remarkably professional tattoo artist known for her proficiency in neotraditional and newschool styles. Operating with the highest standards of professionalism, Anna ensures that every client's experience at Old Icon Tattoo Studio in Kharkiv, Ukraine, is met with impeccable service and attention to detail. Her dedication to her art and her clients is evident in the stunning tattoo pieces she creates.\nPrice: $\nCurrent location: Kharkiv, Ukraine",
-  "verified": "artist"
+  "updated_at": "2026-03-28",
+  "bio": "Anna Frolkova is a remarkably professional tattoo artist known for her proficiency in neotraditional and newschool styles. Operating with the highest standards of professionalism, Anna ensures that every client's experience at Old Icon Tattoo Studio in Kharkiv, Ukraine, is met with impeccable service and attention to detail. Her dedication to her art and her clients is evident in the stunning tattoo pieces she creates.\nPrice: $\nCurrent location: Kharkiv, Ukraine\n\nTattoo artist | On the road \nTraditional | Neotraditional\n🇩🇪 30.03-3.04\n🇳🇱 4.04-9.04\n🇩🇪 10.04-11.04\n🇵🇹 13.04-21.04",
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "944733608",
+    "follower_count": 3299,
+    "following_count": 882,
+    "media_count": 420,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/free_ann/instagram/profile.jpg"
+  }
 }

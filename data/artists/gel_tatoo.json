@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "gel_tatoo",
-  "name": "Gel Tatoo",
+  "name": "gel Tattoo",
   "location": {
     "city": "Campina Grande",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Gel Tatoo is a highly skilled tattoo artist, specializing in black&gray and realism styles. With an impressive 20 years of experience under his belt, he has managed to build a strong following of over 80,000 admirers on Instagram. Based in Campina Grande, Brazil, his mastery in tattoo artistry is truly a testament to his passion and dedication.\nPrice: $$$\nCurrent location: Campina Grande, Paraiba, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Gel Tatoo is a highly skilled tattoo artist, specializing in black&gray and realism styles. With an impressive 20 years of experience under his belt, he has managed to build a strong following of over 80,000 admirers on Instagram. Based in Campina Grande, Brazil, his mastery in tattoo artistry is truly a testament to his passion and dedication.\nPrice: $$$\nCurrent location: Campina Grande, Paraiba, Brazil\n\n🎯 Tatuador com mais de 20 anos de experiência\n🎨 Todos os estilos | Especialista em realismo\n📍Campina Grande - PB\n📆 Agende seu horário",
+  "instagram_enriched": {
+    "id": "375084597",
+    "follower_count": 91651,
+    "following_count": 750,
+    "media_count": 630,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gel_tatoo/instagram/profile.jpg"
+  }
 }

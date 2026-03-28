@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "finegentlemantattoo",
-  "name": "Fine Gentleman Tattoo",
+  "name": "Fine Gentleman Tattoo Parlour",
   "location": {
     "city": "Bologna",
     "country": "Italy"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Fine Gentleman Tattoo\nSTUDIO\nBologna, Emilia-romagna, Italy\n2.96k\nAdd\nMessage\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Fine Gentleman Tattoo\nSTUDIO\nBologna, Emilia-romagna, Italy\n2.96k\nAdd\nMessage\ntraditional\n\n🧳 Owner @axel_finegentleman \n💎 Piercer @olgacristianibodypiercer \n📍 BOLOGNA, Via Ermete Zacconi 4/G",
+  "instagram_enriched": {
+    "id": "6364647052",
+    "follower_count": 3976,
+    "following_count": 969,
+    "media_count": 451,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/finegentlemantattoo/instagram/profile.jpg"
+  }
 }

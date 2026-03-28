@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "foersterink",
-  "name": "Marc Foerster",
+  "name": "Marc Førsterling",
   "location": {
     "city": "Copenhagen",
     "country": "Denmark"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Marc Foerster is a remarkably skilled tattoo artist based in Copenhagen, Denmark, specializing in black and gray styles. Tattooing since 2013, his finesse and mastery in the art are evident in his work, backed by the level of trust placed in him by prestigious sponsors such as Unigloves and Bheppo.\nPrice: $$\nCurrent location: Copenhagen, Capital, Denmark",
-  "tattooing_since": "2013"
+  "updated_at": "2026-03-28",
+  "bio": "Marc Foerster is a remarkably skilled tattoo artist based in Copenhagen, Denmark, specializing in black and gray styles. Tattooing since 2013, his finesse and mastery in the art are evident in his work, backed by the level of trust placed in him by prestigious sponsors such as Unigloves and Bheppo.\nPrice: $$\nCurrent location: Copenhagen, Capital, Denmark\n\nTattooing since 2013 @skin_dk \nSponsored by 🤝🏼 @unigloves @onyxtattoosupply 🔥",
+  "tattooing_since": "2013",
+  "instagram_enriched": {
+    "id": "241930837",
+    "follower_count": 22893,
+    "following_count": 3175,
+    "media_count": 452,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/foersterink/instagram/profile.jpg"
+  }
 }

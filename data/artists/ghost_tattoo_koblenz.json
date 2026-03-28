@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ghost_tattoo_koblenz",
-  "name": "Ghost Koblenz",
+  "name": "Ghost Tattoo Koblenz",
   "location": {
     "city": "Lonnig",
     "country": "Germany"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-16",
-  "bio": "Ghost Koblenz is a seasoned tattoo artist based in Lonnig, Germany, renowned for his exceptional skill in the black and gray style. With a career spanning since 1986, his proficiency in creating intricate and detailed designs is well-respected in the tattoo community. Clients often commend Ghost for his remarkable professionalism, ensuring each experience is as seamless and comfortable as possible.\nPrice: $\nCurrent location: Lonnig, Rhineland-palatinate, Germany",
-  "tattooing_since": "1986"
+  "updated_at": "2026-03-28",
+  "bio": "Ghost Koblenz is a seasoned tattoo artist based in Lonnig, Germany, renowned for his exceptional skill in the black and gray style. With a career spanning since 1986, his proficiency in creating intricate and detailed designs is well-respected in the tattoo community. Clients often commend Ghost for his remarkable professionalism, ensuring each experience is as seamless and comfortable as possible.\nPrice: $\nCurrent location: Lonnig, Rhineland-palatinate, Germany\n\nTATTOO ARTIST SEIT 1986",
+  "tattooing_since": "1986",
+  "instagram_enriched": {
+    "id": "5448355092",
+    "follower_count": 357,
+    "following_count": 51,
+    "media_count": 126,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ghost_tattoo_koblenz/instagram/profile.jpg"
+  }
 }

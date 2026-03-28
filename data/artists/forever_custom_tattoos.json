@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "forever_custom_tattoos",
-  "name": "Forever Custom Tattoos",
+  "name": "Forever custom tattoos",
   "location": {
     "city": "Bridgeport",
     "country": "United States"
@@ -485,6 +485,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Immerse yourself in the artistry of Forever Custom Tattoos, a premier ink sanctuary nestled in the vibrant heart of downtown Bridgeport. Specializing in mesmerizing black and gray realism, our talented artists are dedicated to creating your perfect tattoo narrative. Established in 2010 and conveniently open seven days a week, we invite you to experience the pinnacle of personalized body art.\nPrice: $$\nCurrent location: Bridgeport, Connecticut, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the artistry of Forever Custom Tattoos, a premier ink sanctuary nestled in the vibrant heart of downtown Bridgeport. Specializing in mesmerizing black and gray realism, our talented artists are dedicated to creating your perfect tattoo narrative. Established in 2010 and conveniently open seven days a week, we invite you to experience the pinnacle of personalized body art.\nPrice: $$\nCurrent location: Bridgeport, Connecticut, United States\n\nOpen 7 days a week\nMon-Fri 11-7 | Sat & Sun 10-4\nDowntown Bridgeport, CT 📍\nWe offer free consultations and take walk-ins",
+  "instagram_enriched": {
+    "id": "499323512",
+    "follower_count": 9171,
+    "following_count": 2097,
+    "media_count": 351,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/forever_custom_tattoos/instagram/profile.jpg"
+  }
 }
