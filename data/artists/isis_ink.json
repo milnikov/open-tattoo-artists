@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "isis_ink",
-  "name": "Isis Duncan",
+  "name": "Isis",
   "location": {
     "city": "Brevard",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Isis Duncan is a seasoned tattoo artist who has been perfecting the art of dotwork and watercolor tattoos since 2010. Operating on an appointment-only basis out of Brevard, United States, Isis maintains a high standard of cleanliness, ensuring that every client's experience is not only visually stunning but also hygienic and safe. Her studio's dedication to cleanliness is evident in every aspect of the tattoo process, from sterilization to the finished masterpiece.\nPrice: $\nCurrent location: Brevard, North Carolina, United States",
-  "tattooing_since": "2010"
+  "updated_at": "2026-03-28",
+  "bio": "Isis Duncan is a seasoned tattoo artist who has been perfecting the art of dotwork and watercolor tattoos since 2010. Operating on an appointment-only basis out of Brevard, United States, Isis maintains a high standard of cleanliness, ensuring that every client's experience is not only visually stunning but also hygienic and safe. Her studio's dedication to cleanliness is evident in every aspect of the tattoo process, from sterilization to the finished masterpiece.\nPrice: $\nCurrent location: Brevard, North Carolina, United States\n\nnc\ntattoo IG: @thump_ink",
+  "tattooing_since": "2010",
+  "instagram_enriched": {
+    "id": "304334814",
+    "follower_count": 441,
+    "following_count": 1062,
+    "media_count": 2382,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/isis_ink/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "iosep.ink",
-  "name": "Iosep Ink",
+  "name": "Tattoo Artist",
   "location": {
     "city": "Hamburg",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Iosep Ink, located in the vibrant city of Hamburg, Germany, is an exceptional tattoo artist who specializes in the fine lines and minimalist styles. Known for maintaining an impeccable level of cleanliness, he takes pride in ensuring his work environment is as pristine as his tattoos, making you feel comfortable as you receive your new body art. Held in high regard for his professionalism, Iosep will make your tattoo experience truly worth remembering.\nPrice: $$\nCurrent location: Hamburg, Hamburg, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Iosep Ink, located in the vibrant city of Hamburg, Germany, is an exceptional tattoo artist who specializes in the fine lines and minimalist styles. Known for maintaining an impeccable level of cleanliness, he takes pride in ensuring his work environment is as pristine as his tattoos, making you feel comfortable as you receive your new body art. Held in high regard for his professionalism, Iosep will make your tattoo experience truly worth remembering.\nPrice: $$\nCurrent location: Hamburg, Hamburg, Germany",
+  "instagram_enriched": {
+    "id": "2885607780",
+    "follower_count": 36250,
+    "following_count": 278,
+    "media_count": 332,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iosep.ink/instagram/profile.jpg"
+  }
 }

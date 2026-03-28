@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "is_this_heather",
-  "name": "Heather Gee",
+  "name": "Heather",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Heather Gee is a highly skilled tattoo artist specializing in tribal, dotwork, and fineline styles. With over two decades of experience, she has established herself in both Portugal and the UK, currently bringing her artistic expertise to Indigo Tattoo Studio in Norwich. Her commitment to professionalism is apparent in every piece she creates, ensuring that her clients receive the highest standard of tattoo artistry.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Heather Gee is a highly skilled tattoo artist specializing in tribal, dotwork, and fineline styles. With over two decades of experience, she has established herself in both Portugal and the UK, currently bringing her artistic expertise to Indigo Tattoo Studio in Norwich. Her commitment to professionalism is apparent in every piece she creates, ensuring that her clients receive the highest standard of tattoo artistry.\nPrice: $\nCurrent location:\n\nFuck the Clock",
+  "instagram_enriched": {
+    "id": "216355333",
+    "follower_count": 2588,
+    "following_count": 690,
+    "media_count": 1313,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/is_this_heather/instagram/profile.jpg"
+  }
 }

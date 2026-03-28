@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inuk.tattoo",
-  "name": "Inuk Tattoo",
+  "name": "Kata (fineline tatuointiartisti)",
   "location": {
     "city": "Järvenpää",
     "country": "Finland"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Inuk Tattoo\nSTUDIO\nJärvenpää, South Finland, Finland\n7.92k\nAdd\nMessage\nfineline\nminimalist\nvegan"
+  "updated_at": "2026-03-28",
+  "bio": "Inuk Tattoo\nSTUDIO\nJärvenpää, South Finland, Finland\n7.92k\nAdd\nMessage\nfineline\nminimalist\nvegan\n\nink in u k.\n📆 ajanvaraus kiinni toistaiseksi\n📍hki",
+  "instagram_enriched": {
+    "id": "11040122718",
+    "follower_count": 8514,
+    "following_count": 950,
+    "media_count": 813,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inuk.tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jacksshacktattoo",
-  "name": "Neil Gorman",
+  "name": "Jack's Shack Tattoo Emporium",
   "location": {
     "city": "Worcester",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Embrace the art of ink at Neil Gorman's premier tattoo studio, a sanctuary for skin and beauty nestled in the heart of Worcester, UK. Specializing in black & gray and realism, this award-winning establishment transforms your visions into breathtaking masterpieces with unparalleled precision and artistry. Step into a realm where creativity meets permanence and leave with a timeless work of art that echoes your essence.\nPrice: $\nCurrent location: Worcester, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Embrace the art of ink at Neil Gorman's premier tattoo studio, a sanctuary for skin and beauty nestled in the heart of Worcester, UK. Specializing in black & gray and realism, this award-winning establishment transforms your visions into breathtaking masterpieces with unparalleled precision and artistry. Step into a realm where creativity meets permanence and leave with a timeless work of art that echoes your essence.\nPrice: $\nCurrent location: Worcester, England, United Kingdom\n\nBespoke Tattoo, Laser Removal and Art Gallery.",
+  "instagram_enriched": {
+    "id": "2234936857",
+    "follower_count": 986,
+    "following_count": 533,
+    "media_count": 1433,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacksshacktattoo/instagram/profile.jpg"
+  }
 }

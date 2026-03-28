@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "islandinktat",
-  "name": "Island Ink Tattoo",
+  "name": "island ink tattoo",
   "location": {
     "city": "Fort Walton Beach",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Discover a canvas for your personal expression at Island Ink Tattoo, the premier body art studio nestled in the beautiful shores of Fort Walton Beach. Our talented artists specialize in exquisite black & gray, vibrant watercolor, and intricate floral designs, ensuring each piece is a unique masterpiece. Embrace the tranquil, creative atmosphere and enjoy 10% off for locals and military members.\nPrice: $\nCurrent location: Fort Walton Beach, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Discover a canvas for your personal expression at Island Ink Tattoo, the premier body art studio nestled in the beautiful shores of Fort Walton Beach. Our talented artists specialize in exquisite black & gray, vibrant watercolor, and intricate floral designs, ensuring each piece is a unique masterpiece. Embrace the tranquil, creative atmosphere and enjoy 10% off for locals and military members.\nPrice: $\nCurrent location: Fort Walton Beach, Florida, United States\n\nIsland Ink Tattoo, Fort Walton Beach, premier body art studio. \nIsland Ink provides high quality tattoos and piercings. Locals and military 10% OFF!",
+  "instagram_enriched": {
+    "id": "710927507",
+    "follower_count": 1287,
+    "following_count": 746,
+    "media_count": 642,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/islandinktat/instagram/profile.jpg"
+  }
 }

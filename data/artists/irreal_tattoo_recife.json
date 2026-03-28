@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "irreal_tattoo_recife",
-  "name": "Irreal Tattoo",
+  "name": "Irreal",
   "location": {
     "city": "Jaboatão Dos Guararapes",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Irreal Tattoo, nestled in the vibrant heart of Jaboatão dos Guararapes, Brazil, prides itself on its commitment to the art of tattooing with its unique styles, black&gray, watercolor, and realism. Esteemed for their highly skilled artists and unparalleled dedication to each piece and client, they embody the epitome of respect for the intricate art of tattooing.\nPrice: $$\nCurrent location: Jaboatão Dos Guararapes, Pernambuco, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Irreal Tattoo, nestled in the vibrant heart of Jaboatão dos Guararapes, Brazil, prides itself on its commitment to the art of tattooing with its unique styles, black&gray, watercolor, and realism. Esteemed for their highly skilled artists and unparalleled dedication to each piece and client, they embody the epitome of respect for the intricate art of tattooing.\nPrice: $$\nCurrent location: Jaboatão Dos Guararapes, Pernambuco, Brazil",
+  "instagram_enriched": {
+    "id": "1825237720",
+    "follower_count": 16121,
+    "following_count": 1191,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/irreal_tattoo_recife/instagram/profile.jpg"
+  }
 }

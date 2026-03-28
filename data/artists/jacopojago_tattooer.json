@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jacopojago_tattooer",
-  "name": "Jacopo Jago",
+  "name": "Jacopo Costa",
   "location": {
     "city": "Brescia",
     "country": "Italy"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Jacopo Jago, hailing from Brescia, Italy, is a masterful tattoo artist specializing in the unique 'sketch' style. His incredible skill level is evident in every piece he creates at Poison Tattoo Studio, where clients seek him out for his distinctive blackwork artistry. Jago's reputation for creating visually striking tattoos is matched by his professionalism, making him a sought-after artist for both residents and visiting guests alike.\nPrice: $$\nCurrent location: Brescia, Lombardy, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Jacopo Jago, hailing from Brescia, Italy, is a masterful tattoo artist specializing in the unique 'sketch' style. His incredible skill level is evident in every piece he creates at Poison Tattoo Studio, where clients seek him out for his distinctive blackwork artistry. Jago's reputation for creating visually striking tattoos is matched by his professionalism, making him a sought-after artist for both residents and visiting guests alike.\nPrice: $$\nCurrent location: Brescia, Lombardy, Italy\n\nResident at @poison_tattoostudio\nResident Guest at @skinarttattoo_alba \nLudosport fighter @ludosport.brescia",
+  "instagram_enriched": {
+    "id": "8749779969",
+    "follower_count": 12143,
+    "following_count": 3697,
+    "media_count": 720,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jacopojago_tattooer/instagram/profile.jpg"
+  }
 }

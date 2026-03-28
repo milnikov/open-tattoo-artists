@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "iristattooart",
-  "name": "Iris Tattoo Studio",
+  "name": "IRIS Tattoo & Piercings",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Iris Tattoo Studio, located in the heart of Miami, USA, is a renowned establishment, boasting over 400,000 followers on Instagram. Specializing in the distinctive, artistic styles of illustrative, fine line, and minimalist tattoos, our studio warmly welcomes walk-ins for piercings. So step inside our contemporary space for an immersive tattoo experience that effortlessly blends artistry, authenticity, and ambiance.\nPrice: $$$\nCurrent location: Miami, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Iris Tattoo Studio, located in the heart of Miami, USA, is a renowned establishment, boasting over 400,000 followers on Instagram. Specializing in the distinctive, artistic styles of illustrative, fine line, and minimalist tattoos, our studio warmly welcomes walk-ins for piercings. So step inside our contemporary space for an immersive tattoo experience that effortlessly blends artistry, authenticity, and ambiance.\nPrice: $$$\nCurrent location: Miami, Florida, United States\n\n🇺🇸Miami - 133 NW 26 st, Wynwood\nNashville - 631 7th Ave S, Pie Town\nWalk ins welcome\n🇦🇷Buenos Aires - Argentina",
+  "instagram_enriched": {
+    "id": "1109777153",
+    "follower_count": 399249,
+    "following_count": 1804,
+    "media_count": 10172,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/iristattooart/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ivantattoodeluxe",
-  "name": "Ivan Losi",
+  "name": "Ivan Tattoodeluxe",
   "location": {
     "city": "Como",
     "country": "Italy"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Ivan Losi is a highly skilled tattoo artist specializing in traditional and fineline styles. Working in the picturesque city of Como, Italy, Ivan has been honing his craft with precision and dedication since 1998. His professionalism is evident in every tattoo he creates, ensuring each client receives a masterpiece that truly encapsulates their vision.\nPrice: $\nCurrent location: Como, Lombardy, Italy",
-  "tattooing_since": "1998"
+  "updated_at": "2026-03-28",
+  "bio": "Ivan Losi is a highly skilled tattoo artist specializing in traditional and fineline styles. Working in the picturesque city of Como, Italy, Ivan has been honing his craft with precision and dedication since 1998. His professionalism is evident in every tattoo he creates, ensuring each client receives a masterpiece that truly encapsulates their vision.\nPrice: $\nCurrent location: Como, Lombardy, Italy\n\nProfessional Tattooer ~ SINCE 1998 \nResident & Holder @tattoodeluxecomo                              🇮🇪 COMO City ~ Italy",
+  "tattooing_since": "1998",
+  "instagram_enriched": {
+    "id": "1275598024",
+    "follower_count": 2416,
+    "following_count": 2156,
+    "media_count": 379,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ivantattoodeluxe/instagram/profile.jpg"
+  }
 }
