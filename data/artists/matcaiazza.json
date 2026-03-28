@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "matcaiazza",
-  "name": "Mat Caiazza",
+  "name": "Elperro Caiazza",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "🕸️tattoo artist-human being🕸️\n🕸️ Naarm/melbourne🕸️\n🕸️ DM me for appointments🕸️",
+  "instagram_enriched": {
+    "id": "1487435175",
+    "follower_count": 10688,
+    "following_count": 4069,
+    "media_count": 370,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matcaiazza/instagram/profile.jpg"
+  }
 }

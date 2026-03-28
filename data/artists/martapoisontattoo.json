@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "martapoisontattoo",
-  "name": "Marta Poison",
+  "name": "Marta Poison l Color Tattoo Artist",
   "location": {
     "city": "Brescia",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "🎨 Turning ideas into color\n🇮🇹 Owner @poison_tattoostudio • Brescia\n💖 Founder @welcometo_monsterland\n🖇️ Team Wolfpack @kwadron • Pro @xtremetattooink",
+  "instagram_enriched": {
+    "id": "1052690414",
+    "follower_count": 116257,
+    "following_count": 488,
+    "media_count": 1141,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martapoisontattoo/instagram/profile.jpg"
+  }
 }

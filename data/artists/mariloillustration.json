@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariloillustration",
-  "name": "Mariló",
+  "name": "Mariló Alonso",
   "location": {
     "city": "Girona",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "❉ Floral Tattoo Artist ❉\nMy studio @wildgardenstudio\n📍 Lloret de Mar \nAGENDA ABIERTA",
+  "instagram_enriched": {
+    "id": "2182575499",
+    "follower_count": 30963,
+    "following_count": 1193,
+    "media_count": 826,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariloillustration/instagram/profile.jpg"
+  }
 }

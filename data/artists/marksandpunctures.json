@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marksandpunctures",
-  "name": "Marks and Punctures",
+  "name": "Marks&Punctures",
   "location": {
     "city": "Aylesbury",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Step into the artistic haven of \"Marks and Punctures,\" Aylesbury's award-winning tattoo studio specializing in black and gray realism. Our talented artists create masterpieces in a welcoming environment, open from Tuesday to Saturday, 10:30 to 17:30. Let us craft your next piece of personal art with precision and passion.\nPrice: $\nCurrent location: Aylesbury, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the artistic haven of \"Marks and Punctures,\" Aylesbury's award-winning tattoo studio specializing in black and gray realism. Our talented artists create masterpieces in a welcoming environment, open from Tuesday to Saturday, 10:30 to 17:30. Let us craft your next piece of personal art with precision and passion.\nPrice: $\nCurrent location: Aylesbury, England, United Kingdom\n\nAylesbury’s Award Winning Tattoo Studio\nOpening Times: \nTuesday-Saturday:10.30-5.30",
+  "instagram_enriched": {
+    "id": "507012482",
+    "follower_count": 14341,
+    "following_count": 50,
+    "media_count": 424,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marksandpunctures/instagram/profile.jpg"
+  }
 }

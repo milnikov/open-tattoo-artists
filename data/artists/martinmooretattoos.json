@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "martinmooretattoos",
-  "name": "Martin Moore",
+  "name": "Martin Moore | Southampton Tattoo Artist",
   "location": {
     "city": "Southampton",
     "country": "United Kingdom"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Martin Moore stands out in Southampton as a highly skilled tattoo artist, specializing in striking black and grey designs with a commitment to 100% vegan tattooing. Since 2011, Martin has honed his craft, ensuring each piece is a testament to his dedication to the art. His professional approach, coupled with the meticulous cleanliness of his work, makes him a sought-after co-owner at Mavericks Tattoo.\nPrice: $$\nCurrent location: Southampton, England, United Kingdom",
-  "tattooing_since": "2011"
+  "updated_at": "2026-03-28",
+  "bio": "Martin Moore stands out in Southampton as a highly skilled tattoo artist, specializing in striking black and grey designs with a commitment to 100% vegan tattooing. Since 2011, Martin has honed his craft, ensuring each piece is a testament to his dedication to the art. His professional approach, coupled with the meticulous cleanliness of his work, makes him a sought-after co-owner at Mavericks Tattoo.\nPrice: $$\nCurrent location: Southampton, England, United Kingdom\n\n𝗘𝘀𝘁𝗮𝗯𝗹𝗶𝘀𝗵𝗲𝗱. 𝟮𝟬𝟭𝟭\n× That Lord of the Rings nerd ×\n100% Vegan Tattooing 🌱\nDM to book!\nCo-owner of @maverickstattoo",
+  "tattooing_since": "2011",
+  "instagram_enriched": {
+    "id": "610841930",
+    "follower_count": 11262,
+    "following_count": 1186,
+    "media_count": 1047,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martinmooretattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "martyboe",
-  "name": "Marty Boe",
+  "name": "Tattoos By Marty Boe",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "💉💉 💉 Tattoo artist at Bearcat Tattoo Gallery.                                                                           San Diego CA",
+  "instagram_enriched": {
+    "id": "4468735",
+    "follower_count": 3835,
+    "following_count": 4232,
+    "media_count": 4391,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/martyboe/instagram/profile.jpg"
+  }
 }

@@ -616,7 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
+  "updated_at": "2026-03-28",
   "bio": "Mathias Bugo is a masterful tattoo artist based in Lyon, France, specializing in the intricate and culturally-rich Japanese style. Since 1994, he has been showcasing his unique talent as the owner and principal tattooist at Artribal Tatouages, where his exceptional artistic skills and intricate eye for detail shine in every piece he crafts.\nPrice: $$\nCurrent location: Lyon, Auvergne-rhone-alpes, France",
-  "tattooing_since": "1994"
+  "tattooing_since": "1994",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

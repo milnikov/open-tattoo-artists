@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maruseru",
-  "name": "Marcel Meira",
+  "name": "𝑴𝑨𝑹𝑪𝑬𝑳 𝑴𝑬𝑰𝑹𝑨",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Agenda aberta - Fev/Mar 📅 \nArte feita por humano ✏️\nTattoo Geek & Retro 💾\n@studioatmos.co  SP 🇧🇷",
+  "instagram_enriched": {
+    "id": "1608277369",
+    "follower_count": 48441,
+    "following_count": 1413,
+    "media_count": 613,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maruseru/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "matty_d_mooney",
-  "name": "Matt Mooney",
+  "name": "Matthew Mooney",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Season 17 winner @inkmaster",
+  "instagram_enriched": {
+    "id": "4691999",
+    "follower_count": 64656,
+    "following_count": 904,
+    "media_count": 74,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matty_d_mooney/instagram/profile.jpg"
+  }
 }

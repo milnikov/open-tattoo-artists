@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattebokis",
-  "name": "Matte Bokis",
+  "name": "Mathias Bokström -tattooer",
   "location": {
     "city": "Stockholm",
     "country": "Sweden"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Your friendly Tattooer \n🇸🇪S͙T͙O͙C͙K͙H͙O͙L͙M͙🇸🇪_ @studiomerentis\n Most styles welcome\n📩mattebokistattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "9029961",
+    "follower_count": 5972,
+    "following_count": 947,
+    "media_count": 2062,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattebokis/instagram/profile.jpg"
+  }
 }

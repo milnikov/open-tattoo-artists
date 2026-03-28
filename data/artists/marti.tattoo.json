@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marti.tattoo",
-  "name": "Marta Rzyska",
+  "name": "𝔐𝔞𝔯𝔱𝔞",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Color and Black&Grey Tattoos\nFantasy•Portrait•Nature•Horror\n📍Sydney @kailuastudio \n@sullenaustraliaofficial - code Martitattoo\nLic.101170",
+  "instagram_enriched": {
+    "id": "1019249065",
+    "follower_count": 3563,
+    "following_count": 2334,
+    "media_count": 152,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marti.tattoo/instagram/profile.jpg"
+  }
 }

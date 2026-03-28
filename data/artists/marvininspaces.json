@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marvininspaces",
-  "name": "Marvin",
+  "name": "MARVIN | Blackwork & Geek Tattoo",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "São Paulo | Brasil\n💀 BLACKWORK | GEEK 💀\nOrçamentos no link abaixo",
+  "instagram_enriched": {
+    "id": "626332626",
+    "follower_count": 60042,
+    "following_count": 998,
+    "media_count": 860,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marvininspaces/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maryoriolo",
-  "name": "Mary O'Riolo",
+  "name": "Mary Oriolo",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -26,5 +26,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo Artist since 2015. Professional, passionate and dedicated. Also available for private party bookings. Ask for prices!",
+  "instagram_enriched": {
+    "id": "184528173",
+    "follower_count": 657,
+    "following_count": 474,
+    "media_count": 656,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maryoriolo/instagram/profile.jpg"
+  }
 }

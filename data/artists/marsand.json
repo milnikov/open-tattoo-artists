@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marsand",
-  "name": "Mars Ivanov",
+  "name": "Mars Tattoo",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Mars Ivanov is a seasoned tattoo artist in Moscow, Russia, with a profound mastery in black and gray styles. Tattooing since 1994, Mars has honed his skills to an exceptional level, ensuring each piece of art he creates is a testament to his years of dedication and experience in the craft. His portfolio speaks volumes of his ability to bring intricate designs to life with precision and depth.\nPrice: $\nCurrent location: Moscow, Central Federal District, Russia",
-  "tattooing_since": "1994"
+  "updated_at": "2026-03-28",
+  "bio": "Mars Ivanov is a seasoned tattoo artist in Moscow, Russia, with a profound mastery in black and gray styles. Tattooing since 1994, Mars has honed his skills to an exceptional level, ensuring each piece of art he creates is a testament to his years of dedication and experience in the craft. His portfolio speaks volumes of his ability to bring intricate designs to life with precision and depth.\nPrice: $\nCurrent location: Moscow, Central Federal District, Russia\n\nТатуировщик с 1994 года. Москва. Пражская. \nTattooing since 1994. Working at Moscow. #tattoo #тату #татумосква",
+  "tattooing_since": "1994",
+  "instagram_enriched": {
+    "id": "14930742",
+    "follower_count": 2570,
+    "following_count": 410,
+    "media_count": 905,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marsand/instagram/profile.jpg"
+  }
 }

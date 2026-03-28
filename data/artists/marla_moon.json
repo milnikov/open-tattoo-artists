@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marla_moon",
-  "name": "Marla Moon",
+  "name": "𝔪𝔞𝔯𝔩𝔞 𝔪𝔬𝔬𝔫",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Illustrator • Tattooer • Madrid\nInfo/citas: hola@marlamoon.com",
+  "instagram_enriched": {
+    "id": "207137561",
+    "follower_count": 150828,
+    "following_count": 1064,
+    "media_count": 367,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marla_moon/instagram/profile.jpg"
+  }
 }

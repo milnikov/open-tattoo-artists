@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "masonatlas",
-  "name": "Mason Atlas",
+  "name": "Mason | 🏜️Utah Color Tattoo Artist 🎨",
   "location": {
     "city": "Salt Lake City",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Owner/Artist The Hive SLC Tattoo & Aftercare.Brand ambassador for @tattooloverscare \n*👇🏻Website 4 booking",
+  "instagram_enriched": {
+    "id": "7393837798",
+    "follower_count": 8401,
+    "following_count": 2379,
+    "media_count": 265,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/masonatlas/instagram/profile.jpg"
+  }
 }

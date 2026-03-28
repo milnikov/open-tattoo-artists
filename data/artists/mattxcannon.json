@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattxcannon",
-  "name": "Matt Cannon",
+  "name": "mattxcannon",
   "location": {
     "city": "Anaheim",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Torch Tattoo\nAnaheim, CA\nCall the shop(714) 533-9200 or message",
+  "instagram_enriched": {
+    "id": "1194970",
+    "follower_count": 50710,
+    "following_count": 914,
+    "media_count": 333,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattxcannon/instagram/profile.jpg"
+  }
 }

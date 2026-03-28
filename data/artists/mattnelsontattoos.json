@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattnelsontattoos",
-  "name": "Matt Nelson",
+  "name": "matt nelson | Tattoo artist Virginia Beach",
   "location": {
     "city": "Virginia Beach",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Traditional tattoo @stationtattoovb\nWalk ins welcome\n$100 deposit required for appointments",
+  "instagram_enriched": {
+    "id": "176787635",
+    "follower_count": 15292,
+    "following_count": 6560,
+    "media_count": 246,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattnelsontattoos/instagram/profile.jpg"
+  }
 }

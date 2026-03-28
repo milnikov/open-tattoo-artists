@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "markreedtattoos",
-  "name": "Mark Reed",
+  "name": "Mark Reed - Tattoo Artist",
   "location": {
     "city": "Lancaster",
     "country": "United Kingdom"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Sponsored by @Truegenttattoosupplies Tattoo artist in Lancaster ☠️ 🇬🇧",
+  "instagram_enriched": {
+    "id": "8812704",
+    "follower_count": 14922,
+    "following_count": 548,
+    "media_count": 295,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/markreedtattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "massimiliano_tattooist",
-  "name": "Massimiliano",
+  "name": "massimiliano_tattooist",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -125,6 +125,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Massimiliano is a highly skilled tattoo artist specializing in the intricate styles of dotwork and fineline tattoos. Known for their impeccable professionalism, they have made a name for themselves in London's vibrant tattoo scene. Clients can find Massimiliano's stunning work at Super Queen Tattoo and Next Chapter Tattoo Studio, where they can expect to receive top-tier artistry.\nPrice: $\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Massimiliano is a highly skilled tattoo artist specializing in the intricate styles of dotwork and fineline tattoos. Known for their impeccable professionalism, they have made a name for themselves in London's vibrant tattoo scene. Clients can find Massimiliano's stunning work at Super Queen Tattoo and Next Chapter Tattoo Studio, where they can expect to receive top-tier artistry.\nPrice: $\nCurrent location: London, England, United Kingdom\n\nTattoo Artist \n15 years experience\nFine line, black and gray realistic \nBased in London \n@nextchaptertattoostudio\n@kinkyinktattoo",
+  "instagram_enriched": {
+    "id": "32818747340",
+    "follower_count": 1385,
+    "following_count": 1109,
+    "media_count": 276,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/massimiliano_tattooist/instagram/profile.jpg"
+  }
 }

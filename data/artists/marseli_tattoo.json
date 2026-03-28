@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marseli_tattoo",
-  "name": "Marsel Shkembi",
+  "name": "Marsel Shkëmbi",
   "location": {
     "city": "Gothenburg",
     "country": "Sweden"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Owner&Tattoo artist @house_of_tattoo_est09 \n 📍Drottninggatan 31 , Göteborg 🇸🇪\n🗓 For Booking Dm\n📧 houseoftattooest09@gmail.com\n☎️ 0735924129",
+  "instagram_enriched": {
+    "id": "598441494",
+    "follower_count": 6514,
+    "following_count": 1853,
+    "media_count": 790,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marseli_tattoo/instagram/profile.jpg"
+  }
 }

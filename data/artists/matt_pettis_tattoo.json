@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "matt_pettis_tattoo",
-  "name": "Matt Pettis",
+  "name": "Matt Pettis - London tattoo artist",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Matt Pettis, a proficient and highly skilled tattoo artist based in London, United Kingdom, specializes in distinct styles such as fineline, dotwork, and sketch. He boasts of over 110,000 followers on Instagram, reflecting his widespread appreciation and successful career. Matt works his magic using '@rghtstuff machines' and carries out his artistic work at 'Through my third eye', demonstrating his commitment to quality and professionalism.\nPrice: $$$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Matt Pettis, a proficient and highly skilled tattoo artist based in London, United Kingdom, specializes in distinct styles such as fineline, dotwork, and sketch. He boasts of over 110,000 followers on Instagram, reflecting his widespread appreciation and successful career. Matt works his magic using '@rghtstuff machines' and carries out his artistic work at 'Through my third eye', demonstrating his commitment to quality and professionalism.\nPrice: $$$\nCurrent location: London, England, United Kingdom\n\nContact - matt_pettis@outlook.com\nBOOKINGS OPEN - Through my third eye 🇬🇧\n@rghtstuff machines\n@killerinktattoo",
+  "instagram_enriched": {
+    "id": "326975894",
+    "follower_count": 107471,
+    "following_count": 857,
+    "media_count": 925,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/matt_pettis_tattoo/instagram/profile.jpg"
+  }
 }

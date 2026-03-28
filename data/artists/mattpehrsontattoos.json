@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattpehrsontattoos",
-  "name": "Matt Pehrson",
+  "name": "Matthew Pehrson",
   "location": {
     "city": "St George",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Matt Pehrson is a highly adept tattoo artist located in St George, United States, who specializes in geometric and black & gray styles. He commands an impressive audience of over 60,000 followers on Instagram, showcasing his skill level and influence in the tattoo community. As the owner of The Zion Tattoo Company, he holds a high standard of professionalism, ensuring a seamless experience for each client.\nPrice: $$\nCurrent location: St George, Utah, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Matt Pehrson is a highly adept tattoo artist located in St George, United States, who specializes in geometric and black & gray styles. He commands an impressive audience of over 60,000 followers on Instagram, showcasing his skill level and influence in the tattoo community. As the owner of The Zion Tattoo Company, he holds a high standard of professionalism, ensuring a seamless experience for each client.\nPrice: $$\nCurrent location: St George, Utah, United States\n\nOwner/Tattoo Artist at THE ZION TATTOO COMPANY in St George UT.",
+  "instagram_enriched": {
+    "id": "1010442351",
+    "follower_count": 58927,
+    "following_count": 646,
+    "media_count": 249,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattpehrsontattoos/instagram/profile.jpg"
+  }
 }

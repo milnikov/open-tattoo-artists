@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mariocrepalditattoo",
-  "name": "Mario Crepaldi",
+  "name": "Mario crepaldi Crea",
   "location": {
     "city": "Seregno",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "📌owner: @creatattoostudio \nPro team @dermalizepro \nPro team @seven_supply\nPro team @xtremetattooink",
+  "instagram_enriched": {
+    "id": "2990740942",
+    "follower_count": 27975,
+    "following_count": 1580,
+    "media_count": 471,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mariocrepalditattoo/instagram/profile.jpg"
+  }
 }

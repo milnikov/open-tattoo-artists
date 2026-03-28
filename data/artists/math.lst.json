@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "math.lst",
-  "name": "Math",
+  "name": "Mathéo",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Math is a highly experienced tattoo artist based in London, United Kingdom, specializing in minimalist and lettering styles. With 18 years of experience, he demonstrates his impressive skills through his bespoke fine line script and unique approach to vegan tattoos, ensuring clean and precise outcomes.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Math is a highly experienced tattoo artist based in London, United Kingdom, specializing in minimalist and lettering styles. With 18 years of experience, he demonstrates his impressive skills through his bespoke fine line script and unique approach to vegan tattoos, ensuring clean and precise outcomes.\nPrice: $$\nCurrent location: London, England, United Kingdom",
+  "instagram_enriched": {
+    "id": "65072263030",
+    "follower_count": 5,
+    "following_count": 6,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/math.lst/instagram/profile.jpg"
+  }
 }

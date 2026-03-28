@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mattatat__",
-  "name": "Matt Pearce",
+  "name": "Matt Pearce - Custom Tattoo Artist",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Matt Pearce is a highly skilled tattoo artist based in Melbourne, Australia, specializing in black & gray realism that truly captures the essence of his subjects. His professionalism is evident in every aspect of his work, from the initial design to the final ink, ensuring each client leaves with a masterpiece. To book an appointment or for more information about Matt's services, be sure to click the link in his bio.\nPrice: $\nCurrent location: Melbourne, Victoria, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Matt Pearce is a highly skilled tattoo artist based in Melbourne, Australia, specializing in black & gray realism that truly captures the essence of his subjects. His professionalism is evident in every aspect of his work, from the initial design to the final ink, ensuring each client leaves with a masterpiece. To book an appointment or for more information about Matt's services, be sure to click the link in his bio.\nPrice: $\nCurrent location: Melbourne, Victoria, Australia\n\nCreating custom designs from your unique ideas. \nEvolved Ink Geelong AUS\nFor bookings and general information please click the link below 👇",
+  "instagram_enriched": {
+    "id": "12247055",
+    "follower_count": 6697,
+    "following_count": 1471,
+    "media_count": 465,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mattatat__/instagram/profile.jpg"
+  }
 }
