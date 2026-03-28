@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "darknests",
-  "name": "Artyom",
+  "name": "Artem Vovk",
   "location": {
     "city": "Voronezh",
     "country": "Russia"
@@ -571,6 +571,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Artyom is a highly skilled tattoo artist based in Voronezh, Russia, known for his specialized styles in dotwork, sketch, black & gray, and anime tattoos. He stands out due to his proficiency in crafting darkly exquisite designs, creating profound visual impact uniquely tailored to each client's vision.\nPrice: $$\nCurrent location: Voronezh, Central Federal District, Russia"
+  "updated_at": "2026-03-28",
+  "bio": "Artyom is a highly skilled tattoo artist based in Voronezh, Russia, known for his specialized styles in dotwork, sketch, black & gray, and anime tattoos. He stands out due to his proficiency in crafting darkly exquisite designs, creating profound visual impact uniquely tailored to each client's vision.\nPrice: $$\nCurrent location: Voronezh, Central Federal District, Russia",
+  "instagram_enriched": {
+    "id": "2278727564",
+    "follower_count": 13581,
+    "following_count": 156,
+    "media_count": 166,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darknests/instagram/profile.jpg"
+  }
 }

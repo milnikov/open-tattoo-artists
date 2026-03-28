@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "deitytattoo",
-  "name": "Deity Tattoo",
+  "name": "Angel",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Nestled in the heart of London, Deity Tattoo offers a serene haven where art and tranquility blend seamlessly. Specializing in geometric, tribal, and cover-up tattoos, this private studio caters to those seeking a personalized and introspective tattoo experience. Reach out through their website to embark on a journey towards your next exquisite ink creation.\nPrice: $\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the heart of London, Deity Tattoo offers a serene haven where art and tranquility blend seamlessly. Specializing in geometric, tribal, and cover-up tattoos, this private studio caters to those seeking a personalized and introspective tattoo experience. Reach out through their website to embark on a journey towards your next exquisite ink creation.\nPrice: $\nCurrent location: London, England, United Kingdom\n\nA Tranquil Private Studio, London, UK. \n➡️Tattoo Enquiries are only taken via my website",
+  "instagram_enriched": {
+    "id": "4392766692",
+    "follower_count": 3858,
+    "following_count": 686,
+    "media_count": 484,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deitytattoo/instagram/profile.jpg"
+  }
 }

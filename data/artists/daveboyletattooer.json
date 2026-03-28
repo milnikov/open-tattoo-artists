@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "daveboyletattooer",
-  "name": "Dave Boyle",
+  "name": "Dave Boyle Tattoo",
   "location": {
     "city": "Coventry",
     "country": "United Kingdom"
@@ -619,7 +619,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Dave Boyle is a master tattoo artist based in Coventry, United Kingdom, known for his expertise in various styles such as Japanese, trash polka, illustrative, and cover-ups. With a career that spans over two decades, Dave has honed his craft to perfection since 1998 and brings a high level of professionalism to every piece, ensuring that each client walks away with a work of art that exceeds their expectations. His studio, Creative Body Art, established in 2007, reflects his commitment to excellence in the realm of tattooing.\nPrice: $\nCurrent location: Coventry, England, United Kingdom",
-  "tattooing_since": "1998"
+  "updated_at": "2026-03-28",
+  "bio": "Dave Boyle is a master tattoo artist based in Coventry, United Kingdom, known for his expertise in various styles such as Japanese, trash polka, illustrative, and cover-ups. With a career that spans over two decades, Dave has honed his craft to perfection since 1998 and brings a high level of professionalism to every piece, ensuring that each client walks away with a work of art that exceeds their expectations. His studio, Creative Body Art, established in 2007, reflects his commitment to excellence in the realm of tattooing.\nPrice: $\nCurrent location: Coventry, England, United Kingdom\n\nTattooing since 1998\nOwner of @creativebodyart Est.2007\nCoventry, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "tattooing_since": "1998",
+  "instagram_enriched": {
+    "id": "23060120",
+    "follower_count": 482,
+    "following_count": 530,
+    "media_count": 228,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/daveboyletattooer/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dashashvyly_tattoo",
-  "name": "Diana Shvyly",
+  "name": "Dasha Shvyly | tattoo artist",
   "location": {
     "city": "Rivne",
     "country": "Ukraine"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Diana Shvyly is a highly skilled tattoo artist based in Rivne, Ukraine, with a unique specialty in creating stunning floral designs that exemplify her artistic finesse. Her commitment to hygiene and cleanliness is commendable, ensuring a safe and comfortable setting for all her clients. Her work can be viewed on her dedicated Instagram account '@dsh.tattoo'.\nPrice: $$\nCurrent location: Rivne, Ukraine",
-  "verified": "artist"
+  "updated_at": "2026-03-28",
+  "bio": "Diana Shvyly is a highly skilled tattoo artist based in Rivne, Ukraine, with a unique specialty in creating stunning floral designs that exemplify her artistic finesse. Her commitment to hygiene and cleanliness is commendable, ensuring a safe and comfortable setting for all her clients. Her work can be viewed on her dedicated Instagram account '@dsh.tattoo'.\nPrice: $$\nCurrent location: Rivne, Ukraine\n\nTattoo artist 🇺🇦 UA/ENG \nЗАПИС / BOOKING : @dsh.tattoo.booking",
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "5744372411",
+    "follower_count": 10304,
+    "following_count": 280,
+    "media_count": 629,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dashashvyly_tattoo/instagram/profile.jpg"
+  }
 }

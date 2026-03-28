@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "deni_aktemirov",
-  "name": "Deni Aktemirov",
+  "name": "Deni, Tattoo Artist",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Deni Aktemirov is a highly skilled tattoo artist based in St.Petersburg, Russia, specializing in the unique styles of dotwork, black&gray, and sketch tattoos. Known for his exceptional freehand techniques, Deni manages to create intricate designs that highlight his high level of precision and proficiency in his craft.\nPrice: $$\nCurrent location: Saint Petersburg, Northwestern Federal District, Russia"
+  "updated_at": "2026-03-28",
+  "bio": "Deni Aktemirov is a highly skilled tattoo artist based in St.Petersburg, Russia, specializing in the unique styles of dotwork, black&gray, and sketch tattoos. Known for his exceptional freehand techniques, Deni manages to create intricate designs that highlight his high level of precision and proficiency in his craft.\nPrice: $$\nCurrent location: Saint Petersburg, Northwestern Federal District, Russia\n\nFreehand Black Neo-Impressionism\nSaint Petersburg, Russia\nBelgrade, Serbia",
+  "instagram_enriched": {
+    "id": "464315629",
+    "follower_count": 32342,
+    "following_count": 1,
+    "media_count": 299,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deni_aktemirov/instagram/profile.jpg"
+  }
 }

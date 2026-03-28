@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "novatribetattoo",
+  "name": "Christian Nova",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/novatribetattoo",
+    "instagram": "https://www.instagram.com/novatribetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/novatribetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/novatribetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/novatribetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/novatribetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Christian Nova is a highly skilled tattoo artist specializing in geometric and tribal styles. Operating from the privacy of his own studio in the Bay Area, Christian brings an air of professionalism and a keen eye for detail to his work. His creations are a testament to his commitment to treating the human body as a canvas for meaningful, ritual adornment.\nPrice: $$\nCurrent location:"
+}

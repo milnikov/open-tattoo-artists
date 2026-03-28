@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dark_art_tattoo_piercing",
-  "name": "Dark Art Tattoo",
+  "name": "Dark Art Tattoo & Piercing",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Dark Art Tattoo\nSTUDIO\nSao Paulo, Sao Paulo, Brazil\n53.2k\nAdd\nMessage\nblack&gray\nfloral"
+  "updated_at": "2026-03-28",
+  "bio": "Dark Art Tattoo\nSTUDIO\nSao Paulo, Sao Paulo, Brazil\n53.2k\nAdd\nMessage\nblack&gray\nfloral\n\nEstúdio de Tatuagem & Piercing \nDesde 2015\nVila Mariana - SP\n📍Rua Domingos de Morais - 1442 \n📲WhatsApp(11)98808-7982\n☎️Telefone (11)5571-1771",
+  "instagram_enriched": {
+    "id": "1598463418",
+    "follower_count": 46488,
+    "following_count": 6263,
+    "media_count": 314,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dark_art_tattoo_piercing/instagram/profile.jpg"
+  }
 }

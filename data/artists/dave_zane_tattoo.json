@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dave_zane_tattoo",
-  "name": "Dave Zane",
+  "name": "Dave Zane Tattoo",
   "location": {
     "city": "Belfast",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Dave Zane is a highly skilled tattoo artist based in Belfast, United Kingdom, specializing in black & gray realism that is simply breathtaking. Recognized for his precision and artistry, he operates out of Antrim town with a profound commitment to excellence. To experience his professional touch, reach out for bookings at davezanetattoo@gmail.com.\nPrice: $\nCurrent location: Belfast, Northern Ireland, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Dave Zane is a highly skilled tattoo artist based in Belfast, United Kingdom, specializing in black & gray realism that is simply breathtaking. Recognized for his precision and artistry, he operates out of Antrim town with a profound commitment to excellence. To experience his professional touch, reach out for bookings at davezanetattoo@gmail.com.\nPrice: $\nCurrent location: Belfast, Northern Ireland, United Kingdom\n\nTattoo artist NI, UK\nTattooist in Antrim town\nFor bookings/guest spots\n:davezanetattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "463265828",
+    "follower_count": 5591,
+    "following_count": 3610,
+    "media_count": 742,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dave_zane_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "darkharbortattoos",
-  "name": "Dark Harbor Tattoos",
+  "name": "Portland Maine Tattoo Studios",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Dark Harbor Tattoos, nestled in the heart of Portland, United States, is an exclusive, appointment-only tattoo studio specializing in traditional, floral, and geometric designs. With an added perk of offering piercings based on daily availability, this atmospheric parlor reflects the city's unique charm and caters to those seeking personalized and intimate body art experiences.\nPrice: $$\nCurrent location: Portland, Maine, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Dark Harbor Tattoos, nestled in the heart of Portland, United States, is an exclusive, appointment-only tattoo studio specializing in traditional, floral, and geometric designs. With an added perk of offering piercings based on daily availability, this atmospheric parlor reflects the city's unique charm and caters to those seeking personalized and intimate body art experiences.\nPrice: $$\nCurrent location: Portland, Maine, United States\n\nStudio Locations:\n📍1200 Broadway, South Portland\n📍39 Exchange Street, Portland \nAppointments and walk-ins available.",
+  "instagram_enriched": {
+    "id": "7910528501",
+    "follower_count": 18813,
+    "following_count": 180,
+    "media_count": 575,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/darkharbortattoos/instagram/profile.jpg"
+  }
 }

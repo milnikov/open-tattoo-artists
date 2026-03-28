@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dollarbillstattoos",
-  "name": "Time Spiral Tattoo Artist",
+  "name": "Time Spiral Tattoo Studio",
   "location": {
     "city": "Quakertown",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "At Time Spiral Tattoo Artist, you'll find a skillful fusion of black & gray and traditional ink artistry nestled in Quakertown’s vibrant locale at 582-3 South West End Blvd. Embrace a world of precision and timeless designs in our welcoming studio, where we pride ourselves on impeccably executed tattoos. Whether you're an appointment planner or a spontaneous walk-in, our doors are open to etch your story into skin with expert care.\nPrice: $\nCurrent location: Quakertown, Pennsylvania, United States"
+  "updated_at": "2026-03-28",
+  "bio": "At Time Spiral Tattoo Artist, you'll find a skillful fusion of black & gray and traditional ink artistry nestled in Quakertown’s vibrant locale at 582-3 South West End Blvd. Embrace a world of precision and timeless designs in our welcoming studio, where we pride ourselves on impeccably executed tattoos. Whether you're an appointment planner or a spontaneous walk-in, our doors are open to etch your story into skin with expert care.\nPrice: $\nCurrent location: Quakertown, Pennsylvania, United States\n\n582-3 South West End Blvd.\nQuakertown, PA 18951\nI specialize in properly applied tattoos.\nWalk-ins welcome.",
+  "instagram_enriched": {
+    "id": "3560554410",
+    "follower_count": 504,
+    "following_count": 473,
+    "media_count": 327,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dollarbillstattoos/instagram/profile.jpg"
+  }
 }

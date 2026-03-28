@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dmitriy_urban",
-  "name": "Dmitriy Urban",
+  "name": "Tattoo Artist",
   "location": {
     "city": "Cologne",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Dmitriy Urban, an international level tattoo artist, is highly skilled in realism and black&grey styles. Based in Cologne, Germany, Dmitriy has over 20 years of experience and carries out his craft with creativity, precision and immense attention to detail.\nPrice: $$\nCurrent location: Cologne, North-rhine-westphalia, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Dmitriy Urban, an international level tattoo artist, is highly skilled in realism and black&grey styles. Based in Cologne, Germany, Dmitriy has over 20 years of experience and carries out his craft with creativity, precision and immense attention to detail.\nPrice: $$\nCurrent location: Cologne, North-rhine-westphalia, Germany\n\nDmitriy Urban\nProteam: @jconly_official\nTattoo artist. Saint-Petersburg (Russia)\n20+ years working experience \nRealism, black and gray, black work",
+  "instagram_enriched": {
+    "id": "196326079",
+    "follower_count": 45214,
+    "following_count": 1017,
+    "media_count": 837,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dmitriy_urban/instagram/profile.jpg"
+  }
 }

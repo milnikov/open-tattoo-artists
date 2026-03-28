@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davidgarciart",
-  "name": "David García",
+  "name": "David Garcia",
   "location": {
     "city": "La Orotava",
     "country": "Spain"
@@ -557,6 +557,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "David García is an immensely talented tattoo artist specializing in black and gray realism. Working from his studio in La Orotava, Spain, David's stunning artwork has amassed a following of over 240,000 on Instagram. Soon he will be expanding his horizons, planning to make appearances in Valencia as well. Reach him directly for appointments and experience his brilliant mastery for yourself.\nPrice: $$$\nCurrent location: La Orotava, Canary Islands, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "David García is an immensely talented tattoo artist specializing in black and gray realism. Working from his studio in La Orotava, Spain, David's stunning artwork has amassed a following of over 240,000 on Instagram. Soon he will be expanding his horizons, planning to make appearances in Valencia as well. Reach him directly for appointments and experience his brilliant mastery for yourself.\nPrice: $$$\nCurrent location: La Orotava, Canary Islands, Spain\n\n⚜️Tatuando en Tenerife  \nCitas       📞601 291 218",
+  "instagram_enriched": {
+    "id": "33975169",
+    "follower_count": 214805,
+    "following_count": 3489,
+    "media_count": 863,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davidgarciart/instagram/profile.jpg"
+  }
 }

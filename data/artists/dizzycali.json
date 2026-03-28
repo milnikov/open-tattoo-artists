@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dizzycali",
-  "name": "Dizzy Cali",
+  "name": "Dizzy",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Dizzy Cali is an exceptionally skilled tattoo artist based in Paris, France, who specializes in dotwork, fineline, and minimalist styles. Working strictly by appointment at L'encrierie, their remarkable precision and attention to detail have forged an outstanding reputation amongst local and international clients alike.\nPrice: $$\nCurrent location: Paris, Ile-de-france, France"
+  "updated_at": "2026-03-28",
+  "bio": "Dizzy Cali is an exceptionally skilled tattoo artist based in Paris, France, who specializes in dotwork, fineline, and minimalist styles. Working strictly by appointment at L'encrierie, their remarkable precision and attention to detail have forged an outstanding reputation amongst local and international clients alike.\nPrice: $$\nCurrent location: Paris, Ile-de-france, France\n\ntattoo artist @lencrerie \nTattoo by appointment only .\nTatouage sur rdv uniquement",
+  "instagram_enriched": {
+    "id": "17428408",
+    "follower_count": 11689,
+    "following_count": 1183,
+    "media_count": 203,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dizzycali/instagram/profile.jpg"
+  }
 }

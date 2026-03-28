@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "drfrankesteintattoo",
-  "name": "Dr Frankestein",
+  "name": "Dr Frankestein Tattoo Family",
   "location": {
     "city": "Scandicci",
     "country": "Italy"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Immerse yourself in the creative lair of Dr. Frankenstein Tattoo Studio, nestled in the heart of Scandicci, Italy, where the art of ink has thrived since 1997. Specializing in bold black & gray, traditional Japanese, and vibrant newschool tattoos, our skilled resident artists Michele Vodola, Matt Browns, and Giulio Garaffini welcome walk-ins with a flash of inspiration. Step into our studio for both intricate tattoos and expert piercings, where every design pulses with life and every client becomes part of our ever-growing masterpiece.\nPrice: $\nCurrent location: Scandicci, Tuscany, Italy",
-  "tattooing_since": "1997"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the creative lair of Dr. Frankenstein Tattoo Studio, nestled in the heart of Scandicci, Italy, where the art of ink has thrived since 1997. Specializing in bold black & gray, traditional Japanese, and vibrant newschool tattoos, our skilled resident artists Michele Vodola, Matt Browns, and Giulio Garaffini welcome walk-ins with a flash of inspiration. Step into our studio for both intricate tattoos and expert piercings, where every design pulses with life and every client becomes part of our ever-growing masterpiece.\nPrice: $\nCurrent location: Scandicci, Tuscany, Italy\n\n⚡️Tattoo & Piercing Since 1997\n📍Via Rialdoli 15, Scandicci (Fi)",
+  "tattooing_since": "1997",
+  "instagram_enriched": {
+    "id": "3533722634",
+    "follower_count": 6769,
+    "following_count": 3084,
+    "media_count": 1027,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drfrankesteintattoo/instagram/profile.jpg"
+  }
 }

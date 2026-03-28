@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ddierre",
-  "name": "DDierre",
+  "name": "Ddierre",
   "location": {
     "city": "Goiânia",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "DDierre, based in Goiânia, Brazil, is an acclaimed tattoo artist who specializes in 'black&gray' and 'realism' styles. Boasting an impressive following of approximately 73,000 people on Instagram, DDierr has a reputation for incredible precision and skill level. He performs his craft across multiple top-notch studios globally in São Paulo, Deutschland, and London, evidencing his immense credibility in this field.\nPrice: $$$\nCurrent location: Goiânia, Goias, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "DDierre, based in Goiânia, Brazil, is an acclaimed tattoo artist who specializes in 'black&gray' and 'realism' styles. Boasting an impressive following of approximately 73,000 people on Instagram, DDierr has a reputation for incredible precision and skill level. He performs his craft across multiple top-notch studios globally in São Paulo, Deutschland, and London, evidencing his immense credibility in this field.\nPrice: $$$\nCurrent location: Goiânia, Goias, Brazil",
+  "instagram_enriched": {
+    "id": "8437670143",
+    "follower_count": 474,
+    "following_count": 1395,
+    "media_count": 69,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ddierre/instagram/profile.jpg"
+  }
 }

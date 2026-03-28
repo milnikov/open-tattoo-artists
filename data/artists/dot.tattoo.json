@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dot.tattoo",
-  "name": "Dot Tattoo",
+  "name": "Dot Tattoo | Tatuadora",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Dot Tattoo is an exceptionally talented tattoo artist based in Belo Horizonte, Brazil, known for their craftsmanship in watercolor, fineline, and floral styles. By offering original and personalized art, they exhibit an outstanding skill level that makes them stand out in the industry.\nPrice: $$\nCurrent location: Belo Horizonte, Minas Gerais, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Dot Tattoo is an exceptionally talented tattoo artist based in Belo Horizonte, Brazil, known for their craftsmanship in watercolor, fineline, and floral styles. By offering original and personalized art, they exhibit an outstanding skill level that makes them stand out in the industry.\nPrice: $$\nCurrent location: Belo Horizonte, Minas Gerais, Brazil\n\nOi, eu sou a Dot 💛 \n✨Tatuadora há 11 anos em BH \n✏️Coberturas e Tattoos únicas\n🔸AGENDA ABERTA\n📲 (31) 97139-6597",
+  "instagram_enriched": {
+    "id": "1958885904",
+    "follower_count": 39202,
+    "following_count": 5272,
+    "media_count": 2086,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dot.tattoo/instagram/profile.jpg"
+  }
 }

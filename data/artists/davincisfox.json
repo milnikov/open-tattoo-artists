@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davincisfox",
-  "name": "Da Vinci's Fox Tattoo Studio Wrocław",
+  "name": "Studio tatuażu",
   "location": {
     "city": "Wroclaw",
     "country": "Poland"
@@ -91,6 +91,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "\"Experience the exquisite art of ink at Da Vinci's Fox Tattoo Studio Wrocław, a five-star sanctuary of creativity nestled in the heart of Wrocław, Poland. Renowned for expertly crafted dotwork, fineline, black & gray, and coverups, our seasoned artists tailor each design to perfectly fit your vision, all while maintaining a commitment to innovation and impeccable craftsmanship.\"\nPrice: $\nCurrent location: Wroclaw, Lower Silesian Voivodeship, Poland"
+  "updated_at": "2026-03-28",
+  "bio": "\"Experience the exquisite art of ink at Da Vinci's Fox Tattoo Studio Wrocław, a five-star sanctuary of creativity nestled in the heart of Wrocław, Poland. Renowned for expertly crafted dotwork, fineline, black & gray, and coverups, our seasoned artists tailor each design to perfectly fit your vision, all while maintaining a commitment to innovation and impeccable craftsmanship.\"\nPrice: $\nCurrent location: Wroclaw, Lower Silesian Voivodeship, Poland\n\nProfil naszego studia @miosumi\nZmieniliśmy nazwę",
+  "instagram_enriched": {
+    "id": "61634762880",
+    "follower_count": 704,
+    "following_count": 345,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davincisfox/instagram/profile.jpg"
+  }
 }

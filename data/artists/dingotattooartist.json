@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dingotattooartist",
-  "name": "Dingo Tattoo Artist",
+  "name": "DINGO TATTOO",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-11",
-  "bio": "Dingo Tattoo Artist, based in Sao Paulo, Brazil, is a seasoned professional in the tattoo industry since 2006. He specializes in creating captivating traditional and illustrative style tattoos that have intrigued a broad spectrum of fans. He maintains high standards of cleanliness, making the tattoo experience comfortable and safe for all clients.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil",
-  "tattooing_since": "2006"
+  "updated_at": "2026-03-28",
+  "bio": "Dingo Tattoo Artist, based in Sao Paulo, Brazil, is a seasoned professional in the tattoo industry since 2006. He specializes in creating captivating traditional and illustrative style tattoos that have intrigued a broad spectrum of fans. He maintains high standards of cleanliness, making the tattoo experience comfortable and safe for all clients.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil\n\n▪️ Embaixador @electricink \n▪️ Estilo Old School ⚓️🏆\n🇧🇷🇮🇹🇻🇦🇨🇭🇫🇷🏴󠁧󠁢󠁥󠁮󠁧󠁿🇳🇱\n 💻 Informações e agendamentos ⬇️\n📍SP",
+  "tattooing_since": "2006",
+  "instagram_enriched": {
+    "id": "1829937438",
+    "follower_count": 21421,
+    "following_count": 6054,
+    "media_count": 252,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dingotattooartist/instagram/profile.jpg"
+  }
 }
