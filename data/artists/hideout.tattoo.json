@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hideout.tattoo",
-  "name": "Hideout Tattoo Studio",
+  "name": "HIDEOUT TATTOO STUDIO",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Hideout Tattoo Studio\nSTUDIO\nSao Paulo, Sao Paulo, Brazil\n38.8k\nAdd\nMessage\ntribal\nblack&gray\nneotraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Hideout Tattoo Studio\nSTUDIO\nSao Paulo, Sao Paulo, Brazil\n38.8k\nAdd\nMessage\ntribal\nblack&gray\nneotraditional\n\nFazemos tattoo de verdade.\nSão Paulo | Brasil\nOrçamentos e agendamentos 👇🏻",
+  "instagram_enriched": {
+    "id": "2934608864",
+    "follower_count": 38040,
+    "following_count": 313,
+    "media_count": 3884,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hideout.tattoo/instagram/profile.jpg"
+  }
 }

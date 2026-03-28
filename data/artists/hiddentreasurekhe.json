@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hiddentreasurekhe",
-  "name": "Hidden Treasure Khe",
+  "name": "Hidden Treasure",
   "location": {
     "city": "Karlsruhe",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Hidden Treasure Khe is a highly skilled tattoo artist based in Karlsruhe, Germany, specializing in fineline and minimalist tattoo designs. Their impressive precision and attention to detail are evident in every piece they create. Known for maintaining an immaculate studio, clients can expect a clean and hygienic environment when getting inked by Khe.\nPrice: $\nCurrent location: Karlsruhe, Baden-wurttemberg, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Hidden Treasure Khe is a highly skilled tattoo artist based in Karlsruhe, Germany, specializing in fineline and minimalist tattoo designs. Their impressive precision and attention to detail are evident in every piece they create. Known for maintaining an immaculate studio, clients can expect a clean and hygienic environment when getting inked by Khe.\nPrice: $\nCurrent location: Karlsruhe, Baden-wurttemberg, Germany\n\nÖffnungszeiten:\nMo.:      Ruhetag \nDi.-Sa.: 12-15Uhr\noder nach Vereinbarung.",
+  "instagram_enriched": {
+    "id": "4896948193",
+    "follower_count": 3604,
+    "following_count": 2902,
+    "media_count": 732,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hiddentreasurekhe/instagram/profile.jpg"
+  }
 }

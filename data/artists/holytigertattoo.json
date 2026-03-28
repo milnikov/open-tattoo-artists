@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "holytigertattoo",
-  "name": "Vincent Holy Tiger",
+  "name": "John & Vincent",
   "location": {
     "city": "Caluire-et-cuire",
     "country": "France"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Specializing in Japanese tattoo art since 2005, Vincent Holy Tiger is celebrated for his exceptional professionalism. Working from Caluire-et-Cuire, France, Vincent has gained recognition through his participation in international events such as the LozT2 Lausanne Tattoo Convention and Tattoo Freeze in the UK. Clients appreciate his meticulous approach and dedication to the time-honored traditions of Japanese tattooing.\nPrice: $\nCurrent location: Caluire-et-cuire, Auvergne-rhone-alpes, France",
-  "tattooing_since": "2005"
+  "updated_at": "2026-03-28",
+  "bio": "Specializing in Japanese tattoo art since 2005, Vincent Holy Tiger is celebrated for his exceptional professionalism. Working from Caluire-et-Cuire, France, Vincent has gained recognition through his participation in international events such as the LozT2 Lausanne Tattoo Convention and Tattoo Freeze in the UK. Clients appreciate his meticulous approach and dedication to the time-honored traditions of Japanese tattooing.\nPrice: $\nCurrent location: Caluire-et-cuire, Auvergne-rhone-alpes, France\n\n🇯🇵Japanese Tattoo Art, since 2005.\n🇫🇷 Caluire-et-Cuire, Lyon, France.",
+  "tattooing_since": "2005",
+  "instagram_enriched": {
+    "id": "50876740",
+    "follower_count": 3210,
+    "following_count": 997,
+    "media_count": 220,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/holytigertattoo/instagram/profile.jpg"
+  }
 }

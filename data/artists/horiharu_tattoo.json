@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horiharu_tattoo",
-  "name": "HoriHaru",
+  "name": "天王寺 彫はる",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "HoriHaru is a masterful Tebori tattoo artist based in Osaka, Japan. Specializing in traditional Japanese style tattoos, HoriHaru showcases exceptional skill and precision, beautifully encapsulating the depth and symbolism behind the designs. The artist exhibits a high level of professionalism, ensuring a truly unique and personalized experience for every client.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "HoriHaru is a masterful Tebori tattoo artist based in Osaka, Japan. Specializing in traditional Japanese style tattoos, HoriHaru showcases exceptional skill and precision, beautifully encapsulating the depth and symbolism behind the designs. The artist exhibits a high level of professionalism, ensuring a truly unique and personalized experience for every client.\nPrice: $$\nCurrent location:\n\nHoriHaru. Tebori tattoo artist. Based in Osaka(Tennoji) Japan.🇯🇵 手彫りの彫師、初代彫俊一門 天王寺 彫はるmail: info@horiharu.com",
+  "instagram_enriched": {
+    "id": "2305536635",
+    "follower_count": 22879,
+    "following_count": 1449,
+    "media_count": 364,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horiharu_tattoo/instagram/profile.jpg"
+  }
 }

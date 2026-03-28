@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hitmantattoo",
-  "name": "Don Fry",
+  "name": "HitmanTattoo",
   "location": {
     "city": "Crawfordville",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Don Fry is renowned in Crawfordville for his exceptional illustrative tattoo artistry. His attention to cleanliness is evident in every aspect of his work, ensuring a safe and hygienic environment for all his clients. Don's dedication to maintaining the highest standards of sterilization and order puts clients at ease, allowing them to fully enjoy the experience of getting their new, beautifully crafted tattoo.\nPrice: $\nCurrent location: Crawfordville, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Don Fry is renowned in Crawfordville for his exceptional illustrative tattoo artistry. His attention to cleanliness is evident in every aspect of his work, ensuring a safe and hygienic environment for all his clients. Don's dedication to maintaining the highest standards of sterilization and order puts clients at ease, allowing them to fully enjoy the experience of getting their new, beautifully crafted tattoo.\nPrice: $\nCurrent location: Crawfordville, Florida, United States\n\nTattoo artist\nMessage me for appointment",
+  "instagram_enriched": {
+    "id": "8621176357",
+    "follower_count": 225,
+    "following_count": 147,
+    "media_count": 177,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hitmantattoo/instagram/profile.jpg"
+  }
 }

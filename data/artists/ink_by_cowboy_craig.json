@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ink_by_cowboy_craig",
-  "name": "Cowboy Craig",
+  "name": "Cowboy Craig TATTOO ARTIST",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Cowboy Craig is an award-winning tattoo artist specializing in the visually striking styles of trashpolka, realism, and black & gray. His level of professionalism is evident not only in the exquisite detail of his tattoos but also in his clear and fair business practices, such as his non-refundable deposit policy. Clients can expect a blend of artistic mastery and professional integrity when getting inked by Cowboy Craig.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Cowboy Craig is an award-winning tattoo artist specializing in the visually striking styles of trashpolka, realism, and black & gray. His level of professionalism is evident not only in the exquisite detail of his tattoos but also in his clear and fair business practices, such as his non-refundable deposit policy. Clients can expect a blend of artistic mastery and professional integrity when getting inked by Cowboy Craig.\nPrice: $\nCurrent location:\n\naward winning tattoo artist. Deposits are non-refundable",
+  "instagram_enriched": {
+    "id": "3943865422",
+    "follower_count": 3096,
+    "following_count": 3298,
+    "media_count": 531,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink_by_cowboy_craig/instagram/profile.jpg"
+  }
 }

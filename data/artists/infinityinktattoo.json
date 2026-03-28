@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "infinityinktattoo",
-  "name": "Mike Ink",
+  "name": "Infinity Ink Tattoo",
   "location": {
     "city": "Sturgis",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Welcome to Mike Ink, where vibrant newschool tattoo artistry meets Sturgis's dedication to excellence. Our state-licensed studio boasts award-winning tattooing and piercing services, crafted with utmost precision in the highest caliber. Step into our sanctuary of creativity and safety, and leave with a masterpiece that reflects your unique spirit.\nPrice: $\nCurrent location: Sturgis, Michigan, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Mike Ink, where vibrant newschool tattoo artistry meets Sturgis's dedication to excellence. Our state-licensed studio boasts award-winning tattooing and piercing services, crafted with utmost precision in the highest caliber. Step into our sanctuary of creativity and safety, and leave with a masterpiece that reflects your unique spirit.\nPrice: $\nCurrent location: Sturgis, Michigan, United States\n\nState-licensed and award winning tattooing and piercing of the highest caliber in the safest possible environment.",
+  "instagram_enriched": {
+    "id": "706668191",
+    "follower_count": 1223,
+    "following_count": 387,
+    "media_count": 272,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infinityinktattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "historictattoo",
-  "name": "Craig Brown",
+  "name": "Portland Tattoo Shop",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "\"Craig Brown Tattoo Studio, nestled in the heart of Portland, United States, is renowned for its mastery of traditional tattoo artistry. Home to an ensemble of distinguished tattoo artists, the studio values direct client communication and appointments can be booked via call. With a strict 'No DMs' policy, they ensure personalized and professional customer service.\"\nPrice: $$\nCurrent location: Portland, Oregon, United States"
+  "updated_at": "2026-03-28",
+  "bio": "\"Craig Brown Tattoo Studio, nestled in the heart of Portland, United States, is renowned for its mastery of traditional tattoo artistry. Home to an ensemble of distinguished tattoo artists, the studio values direct client communication and appointments can be booked via call. With a strict 'No DMs' policy, they ensure personalized and professional customer service.\"\nPrice: $$\nCurrent location: Portland, Oregon, United States\n\n503.236.3440      \n@craigbrowntattoo\n@bdelay \n@one_eyed_jon\n@acdpdx \n@tbonetat2 \n@krystian.tat2 \n@abbiefitz__\n@mishkatraditional \n@the.glass.altar",
+  "instagram_enriched": {
+    "id": "343298264",
+    "follower_count": 38427,
+    "following_count": 615,
+    "media_count": 2914,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/historictattoo/instagram/profile.jpg"
+  }
 }

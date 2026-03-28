@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hood.seven",
-  "name": "Hans Schmidt",
+  "name": "HØØD7",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Hans Schmidt is a highly skilled tattoo artist specializing in the 'fineline' style. Residing in Hamburg, Germany, his exceptional talent shines through each work of art, making him popular among over 120,000 followers on Instagram. Famous for his professionalism and impeccable cleanliness, his clients enjoy a top-notch, safe and comfortable tattooing experience at his studio.\nPrice: $$$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Hans Schmidt is a highly skilled tattoo artist specializing in the 'fineline' style. Residing in Hamburg, Germany, his exceptional talent shines through each work of art, making him popular among over 120,000 followers on Instagram. Famous for his professionalism and impeccable cleanliness, his clients enjoy a top-notch, safe and comfortable tattooing experience at his studio.\nPrice: $$$\nCurrent location:\n\n⊹ Tattoo Studio | Hamburg\n⊹ Meet our guests @hood.seven.guests \n⊹ Booking & Info ↓",
+  "instagram_enriched": {
+    "id": "31095656306",
+    "follower_count": 178856,
+    "following_count": 56,
+    "media_count": 1852,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hood.seven/instagram/profile.jpg"
+  }
 }

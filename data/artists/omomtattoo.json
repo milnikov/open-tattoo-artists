@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "omomtattoo",
+  "name": "Aaron",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "neotraditional",
+    "trashpolka",
+    "sponsor:",
+    "asiatattoosupply"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/omomtattoo",
+    "instagram": "https://www.instagram.com/omomtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/omomtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/omomtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/omomtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/omomtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Aaron is a profoundly skilled tattoo artist specializing in a unique set of styles including realism, neo-traditional, and trashpolka. He appreciates and meticulously incorporates the use of premium grade tattoo supplies from renowned brands including Asia Tattoo Supply, Bishop Rotary, Emalla, Fusion Ink, and Bheppo, ensuring a high-quality finish for every piece of his artwork.\nPrice: $$\nCurrent location:"
+}

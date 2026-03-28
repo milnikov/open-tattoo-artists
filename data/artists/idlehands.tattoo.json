@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "idlehands.tattoo",
-  "name": "Idle Hands Tattoos",
+  "name": "Idle Hands Tattoo",
   "location": {
     "city": "Walker",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Idle Hands Tattoos, based in Walker, United States, is renowned for their expertise in creating stunning tattoos in black & gray, realism, and trashpolka styles. With a strong commitment to cleanliness, every client can expect a sterile and hygienic environment that ensures both safety and comfort during their tattooing experience. Their meticulous attention to maintaining a spotless workspace has earned them a stellar reputation among tattoo enthusiasts seeking both artistry and health-conscious practices.\nPrice: $\nCurrent location: Walker, Minnesota, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Idle Hands Tattoos, based in Walker, United States, is renowned for their expertise in creating stunning tattoos in black & gray, realism, and trashpolka styles. With a strong commitment to cleanliness, every client can expect a sterile and hygienic environment that ensures both safety and comfort during their tattooing experience. Their meticulous attention to maintaining a spotless workspace has earned them a stellar reputation among tattoo enthusiasts seeking both artistry and health-conscious practices.\nPrice: $\nCurrent location: Walker, Minnesota, United States\n\nIsanti’s first tattoo shop",
+  "instagram_enriched": {
+    "id": "13796833431",
+    "follower_count": 1064,
+    "following_count": 93,
+    "media_count": 399,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/idlehands.tattoo/instagram/profile.jpg"
+  }
 }

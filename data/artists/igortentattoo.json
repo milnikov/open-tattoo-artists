@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "igortentattoo",
-  "name": "Igor Ten Tattoo",
+  "name": "Igor Ten",
   "location": {
     "city": "Rio De Janeiro",
     "country": "Brazil"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Igor Ten Tattoo is a seasoned tattoo artist, practicing for over 12 years, who is proficient in various styles but shows particular expertise in black&gray and realism designs. Situated in the vibrant Barra da Tijuca neighborhood in Rio de Janeiro, Brazil, Igor has garnered widespread recognition, boasting an impressive base of approximately 53,000 followers on Instagram.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Igor Ten Tattoo is a seasoned tattoo artist, practicing for over 12 years, who is proficient in various styles but shows particular expertise in black&gray and realism designs. Situated in the vibrant Barra da Tijuca neighborhood in Rio de Janeiro, Brazil, Igor has garnered widespread recognition, boasting an impressive base of approximately 53,000 followers on Instagram.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil\n\nArtist | Tattooer | Creator\nArt • Food • Projects\nLink do YouTube 👇",
+  "instagram_enriched": {
+    "id": "330619797",
+    "follower_count": 171005,
+    "following_count": 5212,
+    "media_count": 464,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/igortentattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "infinite_art_tattoo",
-  "name": "Infinite Art Tattoo Artist",
+  "name": "Infinite Art Tattoo",
   "location": {
     "city": "Toledo",
     "country": "United States"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Step into Infinite Art Tattoo Studio, Toledo's hub for bold and vibrant ink since 1994, where the traditions of tattooing evolve with a modern twist. Our seasoned artists specialize in neotraditional, traditional, and newschool styles, ensuring each piece is as unique as the canvases we adorn. For a timeless inscription of your personal story, visit us or call — Infinite Art awaits to etch your vision into eternity.\nPrice: $\nCurrent location: Toledo, Ohio, United States",
-  "tattooing_since": "1994"
+  "updated_at": "2026-03-28",
+  "bio": "Step into Infinite Art Tattoo Studio, Toledo's hub for bold and vibrant ink since 1994, where the traditions of tattooing evolve with a modern twist. Our seasoned artists specialize in neotraditional, traditional, and newschool styles, ensuring each piece is as unique as the canvases we adorn. For a timeless inscription of your personal story, visit us or call — Infinite Art awaits to etch your vision into eternity.\nPrice: $\nCurrent location: Toledo, Ohio, United States\n\nInfinite Art Tattoo Studio EST. 1994\n(419)292-1990\nNo DMs please. \nCall the shop for all inquiries!                  (Walk-ins first come first serve)",
+  "tattooing_since": "1994",
+  "instagram_enriched": {
+    "id": "1648870341",
+    "follower_count": 6339,
+    "following_count": 556,
+    "media_count": 2768,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/infinite_art_tattoo/instagram/profile.jpg"
+  }
 }

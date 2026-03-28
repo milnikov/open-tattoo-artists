@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "hunterandfoxtattoo",
-  "name": "Hunter and Fox Tattoo",
+  "name": "Hunter & Fox Tattoo",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Hunter and Fox Tattoo in Sydney, Australia, is a uniquely established custom tattoo studio that specializes in traditional and illustrative styles. Since its launch in 2011, the studio has been a vibrant haven for the city's tattoo enthusiasts, welcoming them from Tuesday to Saturday, 11am to 7pm, into a creative, relaxed environment where each design comes to life.\nPrice: $$\nCurrent location: Sydney, New South Wales, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Hunter and Fox Tattoo in Sydney, Australia, is a uniquely established custom tattoo studio that specializes in traditional and illustrative styles. Since its launch in 2011, the studio has been a vibrant haven for the city's tattoo enthusiasts, welcoming them from Tuesday to Saturday, 11am to 7pm, into a creative, relaxed environment where each design comes to life.\nPrice: $$\nCurrent location: Sydney, New South Wales, Australia\n\nCustom Tattoo Studio | Sydney, Australia Est 2011\nOpen: Tues to Sat 11am — 7pm",
+  "instagram_enriched": {
+    "id": "20867686",
+    "follower_count": 33831,
+    "following_count": 232,
+    "media_count": 1914,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/hunterandfoxtattoo/instagram/profile.jpg"
+  }
 }

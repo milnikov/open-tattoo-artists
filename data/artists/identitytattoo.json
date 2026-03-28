@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "identitytattoo",
-  "name": "Identity Tattoo",
+  "name": "Todd Lambright",
   "location": {
     "city": "Maple Grove",
     "country": "United States"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-17",
-  "bio": "Immerse yourself in the art of precision at Identity Tattoo, Maple Grove's premier studio since 2005, specializing in stunning realism tattoos that redefine self-expression. This custom shop offers a bespoke tattooing experience where dedication to detail and artistry comes to life on skin. For consultations and to begin your journey of personal enhancement, reach out via email to the artisans at Identity Tattoo.",
-  "tattooing_since": "2005"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the art of precision at Identity Tattoo, Maple Grove's premier studio since 2005, specializing in stunning realism tattoos that redefine self-expression. This custom shop offers a bespoke tattooing experience where dedication to detail and artistry comes to life on skin. For consultations and to begin your journey of personal enhancement, reach out via email to the artisans at Identity Tattoo.\n\nBy appointment.  Located at 7860 Vinewood Ln N, inside salons by JC suite #16.  Email idtattooapt@gmail.com for inquiries and appointments. (NO DM’S)",
+  "tattooing_since": "2005",
+  "instagram_enriched": {
+    "id": "651650005",
+    "follower_count": 1322,
+    "following_count": 541,
+    "media_count": 613,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/identitytattoo/instagram/profile.jpg"
+  }
 }

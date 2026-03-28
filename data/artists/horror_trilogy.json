@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horror_trilogy",
-  "name": "Trilogy Tattoo Artist",
+  "name": "Horrortattoo Trilogy",
   "location": {
     "city": "Eaubonne",
     "country": "France"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Trilogy Tattoo Artist\nEaubonne, Ile-de-france, France\n4.04k\nAdd\nMessage\ngeometric\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Trilogy Tattoo Artist\nEaubonne, Ile-de-france, France\n4.04k\nAdd\nMessage\ngeometric\nblack&gray\n\nAutiste-tatoueur chez :\nTrilogy tatouage piercing\n1 bis avenue albert 1er\n95600 eaubonne\n01 34 27 98 84",
+  "instagram_enriched": {
+    "id": "1514653036",
+    "follower_count": 4110,
+    "following_count": 1345,
+    "media_count": 249,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horror_trilogy/instagram/profile.jpg"
+  }
 }

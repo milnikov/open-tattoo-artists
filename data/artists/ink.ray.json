@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ink.ray",
-  "name": "Ink Ray",
+  "name": "Tattoo Artist",
   "location": {
     "city": "Grenville",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Ink Ray is a distinctive tattoo studio based in Grenville, United States, renowned for its exceptional mastery in dotwork, fineline, and anime-inspired styles. With over 100k followers on Instagram, this revered studio is a hive of creativity, attracting an audience worldwide. Infused with a vibrant LA aesthetic, Ink Ray is a haven for art enthusiasts, where the books may be closed, but the inspiration never ends.\nPrice: $$$\nCurrent location: Grenville, South Dakota, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Ink Ray is a distinctive tattoo studio based in Grenville, United States, renowned for its exceptional mastery in dotwork, fineline, and anime-inspired styles. With over 100k followers on Instagram, this revered studio is a hive of creativity, attracting an audience worldwide. Infused with a vibrant LA aesthetic, Ink Ray is a haven for art enthusiasts, where the books may be closed, but the inspiration never ends.\nPrice: $$$\nCurrent location: Grenville, South Dakota, United States\n\nAnime Tattoo Artist\nLos Angeles 📍@lostboysdtla\nBy appointment only ⬇️",
+  "instagram_enriched": {
+    "id": "7748995739",
+    "follower_count": 91783,
+    "following_count": 1102,
+    "media_count": 1009,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ink.ray/instagram/profile.jpg"
+  }
 }

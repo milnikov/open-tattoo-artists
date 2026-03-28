@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "humanconditiontattoo",
-  "name": "Devin Volpe",
+  "name": "The Human Condition",
   "location": {
     "city": "Pembroke",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Devin Volpe is a highly skilled tattoo artist based in Pembroke, NH, renowned for their expertise in black & gray, realism, and illustrative styles. Their work is a testament to their refined technique and artistic vision, consistently creating tattoos that are intricate and lifelike. Clients praise Devin for their professional approach to all aspects of their craft, ensuring each piece is a true collaboration between artist and canvas.\nPrice: $\nCurrent location: Pembroke, New Hampshire, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Devin Volpe is a highly skilled tattoo artist based in Pembroke, NH, renowned for their expertise in black & gray, realism, and illustrative styles. Their work is a testament to their refined technique and artistic vision, consistently creating tattoos that are intricate and lifelike. Clients praise Devin for their professional approach to all aspects of their craft, ensuring each piece is a true collaboration between artist and canvas.\nPrice: $\nCurrent location: Pembroke, New Hampshire, United States\n\nA gallery of art and tattoo in Pembroke NH. Artists Devin Volpe, and Dan Greuling.",
+  "instagram_enriched": {
+    "id": "3541553484",
+    "follower_count": 1293,
+    "following_count": 806,
+    "media_count": 519,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/humanconditiontattoo/instagram/profile.jpg"
+  }
 }
