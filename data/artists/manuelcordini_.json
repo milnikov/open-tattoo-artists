@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manuelcordini_",
-  "name": "Manuel Cordini",
+  "name": "Manuel Cordini TattooArt",
   "location": {
     "city": "Riva Del Garda",
     "country": "Italy"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "[Blackworks] fineline/dotshading Tattoos \nInfo & Appointments: DM @manuelcordini_\nR i v a  D e l  G a r d a\n🇮🇹🇦🇹🇪🇸🇬🇷🇲🇺🇪🇬🇨🇿🇬🇧🇲🇻🇩🇴🇵🇭🇲🇬🇺🇸🇹🇿",
+  "instagram_enriched": {
+    "id": "494845426",
+    "follower_count": 13839,
+    "following_count": 645,
+    "media_count": 1774,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manuelcordini_/instagram/profile.jpg"
+  }
 }

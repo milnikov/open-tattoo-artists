@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marek.koprowski.tattoo",
-  "name": "Marek Koprowski",
+  "name": "•",
   "location": {
     "city": "Cracow",
     "country": "Poland"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "✣ Currently in Kraków @tarantulatattooshop ✣\n✺ For appointments please send DM ✺\nThank you!",
+  "instagram_enriched": {
+    "id": "1552420449",
+    "follower_count": 12560,
+    "following_count": 2434,
+    "media_count": 514,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marek.koprowski.tattoo/instagram/profile.jpg"
+  }
 }

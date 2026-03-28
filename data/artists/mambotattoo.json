@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mambotattoo",
-  "name": "Mambo Tattoo",
+  "name": "Mambo Tattoo Estudio de Tatuaje y Piercing en Sevilla",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "✨@mariamamba_ ✨ @javi.grajo✨\n✨ @josezambranottt ✨ @julito_tnt✨",
+  "instagram_enriched": {
+    "id": "4204871195",
+    "follower_count": 6009,
+    "following_count": 573,
+    "media_count": 1310,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mambotattoo/instagram/profile.jpg"
+  }
 }

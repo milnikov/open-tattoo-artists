@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcotattoo",
-  "name": "Marco Tattoo",
+  "name": "𝕿𝖆𝖙𝖚𝖆𝖉𝖔𝖗 𝖊 𝖋𝖚𝖓𝖉𝖆𝖉𝖔𝖗 desde 1992",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Desde 1992 marcando histórias na pele.\n🎨 33 anos com respeito e técnica.\n📍 São Paulo | Tattoo & Piercing\n💬 Orçamentos? Me chama no link 👇",
+  "instagram_enriched": {
+    "id": "179783471",
+    "follower_count": 220173,
+    "following_count": 663,
+    "media_count": 14938,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcotattoo/instagram/profile.jpg"
+  }
 }

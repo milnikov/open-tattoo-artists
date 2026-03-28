@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marco_bordi_borderline",
-  "name": "Marco Bordi Tattoo",
+  "name": "Marco Bordi Borderline",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Marco Bordi Tattoo is a highly skilled tattoo artist based in Rome, Italy, specializing in intricate dotwork and fineline styles. Their designs often incorporate themes of nature and animals, influenced by their personal love for wildlife. Marco's work also incorporates elements of blackwork and geometric tattoos, displaying a diverse range of expertise.\nPrice: $$\nCurrent location: Rome, Latium, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Marco Bordi Tattoo is a highly skilled tattoo artist based in Rome, Italy, specializing in intricate dotwork and fineline styles. Their designs often incorporate themes of nature and animals, influenced by their personal love for wildlife. Marco's work also incorporates elements of blackwork and geometric tattoos, displaying a diverse range of expertise.\nPrice: $$\nCurrent location: Rome, Latium, Italy\n\nPachamama Farmer🍇🍎🥬\nNature and animals lover 🍀🐕\nWarrior of Light ☮️",
+  "instagram_enriched": {
+    "id": "1246738233",
+    "follower_count": 26757,
+    "following_count": 1594,
+    "media_count": 444,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marco_bordi_borderline/instagram/profile.jpg"
+  }
 }

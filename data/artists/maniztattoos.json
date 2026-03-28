@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maniztattoos",
-  "name": "Maniz",
+  "name": "Maniz Armendariz",
   "location": {
     "city": "León",
     "country": "Mexico"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "star ink tattoos.🇺🇸 For enquiries and appointments please call or text #2146804300 or  email maniz76@hotmail.com",
+  "instagram_enriched": {
+    "id": "306291631",
+    "follower_count": 5014,
+    "following_count": 618,
+    "media_count": 941,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maniztattoos/instagram/profile.jpg"
+  }
 }

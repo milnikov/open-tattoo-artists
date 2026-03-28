@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcwadetattoos",
-  "name": "Marc Wade",
+  "name": "MarcWadeTattoo",
   "location": {
     "city": "Charlotte",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Marc Wade is a highly skilled tattoo artist based in Charlotte, United States, specializing in tribal and realism styles. His work is renowned for its precision and attention to detail, earning him a reputation for excellence in the local tattoo community. Clients continually praise Marc for maintaining a professional demeanor, ensuring that each tattoo session is a comfortable and trust-inspiring experience.\nPrice: $\nCurrent location: Charlotte, North Carolina, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Marc Wade is a highly skilled tattoo artist based in Charlotte, United States, specializing in tribal and realism styles. His work is renowned for its precision and attention to detail, earning him a reputation for excellence in the local tattoo community. Clients continually praise Marc for maintaining a professional demeanor, ensuring that each tattoo session is a comfortable and trust-inspiring experience.\nPrice: $\nCurrent location: Charlotte, North Carolina, United States",
+  "instagram_enriched": {
+    "id": "613791903",
+    "follower_count": 4787,
+    "following_count": 7468,
+    "media_count": 339,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcwadetattoos/instagram/profile.jpg"
+  }
 }

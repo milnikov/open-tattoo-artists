@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mallutattoo",
-  "name": "Mallu Tattoo",
+  "name": "Mallu Santos - tatuadora desde 1990",
   "location": {
     "city": "Santos",
     "country": "Brazil"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Tatuadora há 36 anos  \nMallu Tattoo • Santos/SP",
+  "instagram_enriched": {
+    "id": "367244496",
+    "follower_count": 13132,
+    "following_count": 7293,
+    "media_count": 5358,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mallutattoo/instagram/profile.jpg"
+  }
 }

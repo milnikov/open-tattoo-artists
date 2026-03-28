@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "margoatir",
-  "name": "Margarita",
+  "name": "margarita",
   "location": {
     "city": "Amsterdam",
     "country": "Netherlands"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Margarita is a highly proficient tattoo artist, specializing in the unique and visually captivating styles of watercolor and trashpolka. Clients visiting her at either Jack Jacked Shop in Purmerend, White Whale Amsterdam, or by appointment at Massive Ink in Hilversum, can expect to experience a remarkable level of skill and creativity. Her work has earned her a reputation as one of Amsterdam's finest tattoo artists in these distinctive art forms.\nPrice: $\nCurrent location: Amsterdam, North Holland, Netherlands"
+  "updated_at": "2026-03-28",
+  "bio": "Margarita is a highly proficient tattoo artist, specializing in the unique and visually captivating styles of watercolor and trashpolka. Clients visiting her at either Jack Jacked Shop in Purmerend, White Whale Amsterdam, or by appointment at Massive Ink in Hilversum, can expect to experience a remarkable level of skill and creativity. Her work has earned her a reputation as one of Amsterdam's finest tattoo artists in these distinctive art forms.\nPrice: $\nCurrent location: Amsterdam, North Holland, Netherlands\n\nAmsterdam \n@whitewhaleamsterdam",
+  "instagram_enriched": {
+    "id": "447875166",
+    "follower_count": 1840,
+    "following_count": 2305,
+    "media_count": 466,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/margoatir/instagram/profile.jpg"
+  }
 }

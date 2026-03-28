@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcoencre",
-  "name": "Marco Pepe",
+  "name": "Marco Pepe Tattoo",
   "location": {
     "city": "Naples",
     "country": "Italy"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Marco Pepe, hailing from Naples, Italy, is a highly skilled tattoo artist specializing in watercolor and trashpolka styles. With a following of around 90,000 on Instagram, his expertise is evident in his hard-painting method that results in vibrant tattoos. Possessing a professional approach, he is part of prestigious pro-teams such as Barber DTS, Eternalink, Tatsoul, and CriticalTattooSupply. He maintains a clean environment ensuring the safety and satisfaction of his clients.\nPrice: $$$\nCurrent location: Naples, Campania, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Marco Pepe, hailing from Naples, Italy, is a highly skilled tattoo artist specializing in watercolor and trashpolka styles. With a following of around 90,000 on Instagram, his expertise is evident in his hard-painting method that results in vibrant tattoos. Possessing a professional approach, he is part of prestigious pro-teams such as Barber DTS, Eternalink, Tatsoul, and CriticalTattooSupply. He maintains a clean environment ensuring the safety and satisfaction of his clients.\nPrice: $$$\nCurrent location: Naples, Campania, Italy\n\nHardpainting abstract surreal tattoo\n@encretattoo Napoli\nWith @barber_dts @eternalink\n@tatsoul @criticaltattoosupply @tattooproton",
+  "instagram_enriched": {
+    "id": "8762206",
+    "follower_count": 300870,
+    "following_count": 792,
+    "media_count": 838,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcoencre/instagram/profile.jpg"
+  }
 }

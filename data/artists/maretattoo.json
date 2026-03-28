@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maretattoo",
-  "name": "Mare Tattoo",
+  "name": "Marko Jovičić",
   "location": {
     "city": "Belgrade",
     "country": "Serbia"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Belgrade, Serbia 📍\n@imperijatattoostudios\nOpen for guest spots.",
+  "instagram_enriched": {
+    "id": "206207323",
+    "follower_count": 37401,
+    "following_count": 3069,
+    "media_count": 499,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maretattoo/instagram/profile.jpg"
+  }
 }

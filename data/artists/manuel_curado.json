@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manuel_curado",
-  "name": "Manuel Curado",
+  "name": "Manuel_Curado",
   "location": {
     "city": "Utrera",
     "country": "Spain"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Manuel Curado is a highly skilled tattoo artist located in Utrera, Spain, known for their mastery in illustrative and watercolor styles. Clients often praise their attention to cleanliness, ensuring a safe and hygienic environment for every session. With a professional studio at Seven Soul Tattoo, Manuel provides artistry that is both exceptional and meticulous, guaranteeing satisfaction for those seeking unique body art.\nPrice: $\nCurrent location: Utrera, Andalucia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Manuel Curado is a highly skilled tattoo artist located in Utrera, Spain, known for their mastery in illustrative and watercolor styles. Clients often praise their attention to cleanliness, ensuring a safe and hygienic environment for every session. With a professional studio at Seven Soul Tattoo, Manuel provides artistry that is both exceptional and meticulous, guaranteeing satisfaction for those seeking unique body art.\nPrice: $\nCurrent location: Utrera, Andalucia, Spain",
+  "instagram_enriched": {
+    "id": "75254090604",
+    "follower_count": 13,
+    "following_count": 15,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manuel_curado/instagram/profile.jpg"
+  }
 }

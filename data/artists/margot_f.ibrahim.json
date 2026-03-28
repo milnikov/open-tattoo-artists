@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "margot_f.ibrahim",
-  "name": "Margot Ibrahim",
+  "name": "Hennamalerei",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,7 +42,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Margot Ibrahim is a highly skilled tattoo artist who specializes in geometric, tribal, and lettering styles. Since 2006, they have been known for providing a mobile service for Henna and Jagua tattoos through Henna-to-go-München. Clients appreciate Margot for their exceptional professionalism, which is evident in every carefully inked design and interaction.\nPrice: $\nCurrent location:",
-  "tattooing_since": "2006"
+  "updated_at": "2026-03-28",
+  "bio": "Margot Ibrahim is a highly skilled tattoo artist who specializes in geometric, tribal, and lettering styles. Since 2006, they have been known for providing a mobile service for Henna and Jagua tattoos through Henna-to-go-München. Clients appreciate Margot for their exceptional professionalism, which is evident in every carefully inked design and interaction.\nPrice: $\nCurrent location:\n\n2006 bis 2023 Henna- und Jaguatattoos, mobiler Service München",
+  "tattooing_since": "2006",
+  "instagram_enriched": {
+    "id": "3584030828",
+    "follower_count": 121,
+    "following_count": 110,
+    "media_count": 122,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/margot_f.ibrahim/instagram/profile.jpg"
+  }
 }

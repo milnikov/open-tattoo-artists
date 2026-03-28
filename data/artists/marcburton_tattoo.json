@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcburton_tattoo",
-  "name": "Marc Burton",
+  "name": "marcburton_tattoo",
   "location": {
     "city": "Wakefield",
     "country": "United Kingdom"
@@ -616,5 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Wakefield, West Yorkshire. UK Marcburtontattoo@hotmail.com",
+  "instagram_enriched": {
+    "id": "10000514",
+    "follower_count": 4962,
+    "following_count": 3818,
+    "media_count": 3541,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcburton_tattoo/instagram/profile.jpg"
+  }
 }

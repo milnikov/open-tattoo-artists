@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "malibutattoo_sitges",
-  "name": "Guindero",
+  "name": "MALIBU TATTOO",
   "location": {
     "city": "Sitges",
     "country": "Spain"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "SITGES, Barcelona\n+34 673 64 59 19\nArtists\n@ikostattoo     \n@nuriapinel\n@marbenabarre_tattoo\n@monti_tattoo \n@garztattoos",
+  "instagram_enriched": {
+    "id": "2125398387",
+    "follower_count": 51481,
+    "following_count": 218,
+    "media_count": 1525,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/malibutattoo_sitges/instagram/profile.jpg"
+  }
 }

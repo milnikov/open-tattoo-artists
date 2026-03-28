@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marekmarastattoo",
-  "name": "Marek Mara",
+  "name": "Marek Maras Rydzewski",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "2nd account: @marek_maras_rydzewski_art\nTattooist from Szczecin/ Poland in\n@mm_tattoo.space\n@electricsheepszczecin\nMember of ProTeam @worldfamousink",
+  "instagram_enriched": {
+    "id": "2101813072",
+    "follower_count": 26502,
+    "following_count": 7504,
+    "media_count": 782,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marekmarastattoo/instagram/profile.jpg"
+  }
 }

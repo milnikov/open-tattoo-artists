@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marciocosta.tattooartist",
-  "name": "Marcio Costa",
+  "name": "Marcio Costa Tattoo Artist",
   "location": {
     "city": "Coimbra",
     "country": "Portugal"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "🇵🇹 14 years tattoing , Onwer @frutadaepoca  @marciocosta.art @78rulesofink",
+  "instagram_enriched": {
+    "id": "10244199719",
+    "follower_count": 1968,
+    "following_count": 596,
+    "media_count": 504,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marciocosta.tattooartist/instagram/profile.jpg"
+  }
 }

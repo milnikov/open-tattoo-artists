@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manuel_valenzuela",
-  "name": "Manuel Valenzuela",
+  "name": "manuel_valenzuela",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Manuel Valenzuela, artist and owner of INKFATUATION TATTOO, boasts an impressive skill level that has captivated roughly 52,000 followers on Instagram. Specializing in black & gray and realism styles, his craftsmanship is known to exhibit intricate detail and depth. His ingenuity has indeed placed him in a high pedestal in the tattoo realm.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Manuel Valenzuela, artist and owner of INKFATUATION TATTOO, boasts an impressive skill level that has captivated roughly 52,000 followers on Instagram. Specializing in black & gray and realism styles, his craftsmanship is known to exhibit intricate detail and depth. His ingenuity has indeed placed him in a high pedestal in the tattoo realm.\nPrice: $$\nCurrent location:\n\nArtist/owner INKFATUATION TATTOO",
+  "instagram_enriched": {
+    "id": "13300423",
+    "follower_count": 54826,
+    "following_count": 4995,
+    "media_count": 1226,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manuel_valenzuela/instagram/profile.jpg"
+  }
 }

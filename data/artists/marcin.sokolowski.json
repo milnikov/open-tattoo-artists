@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcin.sokolowski",
-  "name": "Marcin Sokolowski",
+  "name": "Marcin Sokołowski Black and Grey Tattoo Artist",
   "location": {
     "city": "Cracow",
     "country": "Poland"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Owner @contrastinkpl \nSponsor by  @bigwasp.official \nKraków Starowiślna 37/11\nGuestSpot @dark_grey_tattoo \n784 673 899 \nmrc.sokolowski@gmail.com",
+  "instagram_enriched": {
+    "id": "974929721",
+    "follower_count": 16100,
+    "following_count": 1006,
+    "media_count": 948,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcin.sokolowski/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcocerretelli",
-  "name": "Marco Cerretelli",
+  "name": "Marco Cerretelli / TATTOOER in Los Angeles",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Traveling man /G\\ Tattooing for the past 34 years.\nTHS Tattoo parlour, West Hollywood CA .\nFor APPOINTMENTS email marco@ths.tattoo",
+  "instagram_enriched": {
+    "id": "22558989",
+    "follower_count": 8033,
+    "following_count": 1131,
+    "media_count": 1397,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcocerretelli/instagram/profile.jpg"
+  }
 }

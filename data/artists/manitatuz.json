@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manitatuz",
-  "name": "Manitatuz",
+  "name": "MANITATUZ",
   "location": {
     "city": "Valencia",
     "country": "Spain"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-24",
-  "bio": "Immerse yourself in the artistry of Manitatuz, Valencia's premier tattoo studio that has been perfecting skin canvases since 2008. Revel in their mastery of traditional, fineline, and dotwork tattoos, expertly crafted by renowned artists @ma_ssimo_ferro and @lucatrueink, under the astute management of @silvia.tester. Contact them at 961143324 or manitatuz@gmail.com to begin your timeless ink journey at C/ Derechos 13.\nPrice: $\nCurrent location: Valencia, Valencian Community, Spain",
-  "tattooing_since": "2008"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the artistry of Manitatuz, Valencia's premier tattoo studio that has been perfecting skin canvases since 2008. Revel in their mastery of traditional, fineline, and dotwork tattoos, expertly crafted by renowned artists @ma_ssimo_ferro and @lucatrueink, under the astute management of @silvia.tester. Contact them at 961143324 or manitatuz@gmail.com to begin your timeless ink journey at C/ Derechos 13.\nPrice: $\nCurrent location: Valencia, Valencian Community, Spain\n\nSince 2008.\nTattoo artists \n@ma_ssimo_ferro  \n@lucatrueink",
+  "tattooing_since": "2008",
+  "instagram_enriched": {
+    "id": "3321889973",
+    "follower_count": 4229,
+    "following_count": 649,
+    "media_count": 2006,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manitatuz/instagram/profile.jpg"
+  }
 }

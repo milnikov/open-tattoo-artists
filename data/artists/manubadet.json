@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "manubadet",
-  "name": "Manu Badet",
+  "name": "Manu-tattoo Badet",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo artist 🇫🇷 CHALON SUR SAONE Mail: contact@manubadet.com\n—————————— : @sophie_badet_tattoo",
+  "instagram_enriched": {
+    "id": "911165956",
+    "follower_count": 8291,
+    "following_count": 1239,
+    "media_count": 1165,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/manubadet/instagram/profile.jpg"
+  }
 }

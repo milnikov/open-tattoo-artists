@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marcustats",
-  "name": "Marcus",
+  "name": "marcustats",
   "location": {
     "city": "South Beloit",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Marcus is an award-winning tattoo artist based in South Beloit, United States, known for his exceptional skill in realism, black & gray, and trashpolka styles. With 29 years of experience, clients are continually impressed by his profound professionalism, as he not only produces exquisite art but also maintains a high standard of service throughout the tattooing process, making each session a memorable experience. As a shop owner, Marcus ensures that the working environment reflects his commitment to excellence, whether you visit Dr. Dunlap's Ink Therapy or King Tiki Tattoo.\nPrice: $\nCurrent location: South Beloit, Illinois, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Marcus is an award-winning tattoo artist based in South Beloit, United States, known for his exceptional skill in realism, black & gray, and trashpolka styles. With 29 years of experience, clients are continually impressed by his profound professionalism, as he not only produces exquisite art but also maintains a high standard of service throughout the tattooing process, making each session a memorable experience. As a shop owner, Marcus ensures that the working environment reflects his commitment to excellence, whether you visit Dr. Dunlap's Ink Therapy or King Tiki Tattoo.\nPrice: $\nCurrent location: South Beloit, Illinois, United States",
+  "instagram_enriched": {
+    "id": "75231304477",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marcustats/instagram/profile.jpg"
+  }
 }

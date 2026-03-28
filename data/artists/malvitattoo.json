@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "malvitattoo",
-  "name": "Malwina Stachurska",
+  "name": "Malwina Stachurska | Tattoo artist DC / LA / SF",
   "location": {
     "city": "Berkeley",
     "country": "United States"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "Resident || at @crybabystudiosdc\nBooking for June-July\nMarch 11-18 || at @loft7tattoo \nFor appointments and consultations, follow the link👇",
+  "instagram_enriched": {
+    "id": "275437924",
+    "follower_count": 8490,
+    "following_count": 2024,
+    "media_count": 445,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/malvitattoo/instagram/profile.jpg"
+  }
 }

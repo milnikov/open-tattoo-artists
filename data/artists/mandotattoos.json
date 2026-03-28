@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mandotattoos",
-  "name": "Mando Tattoos",
+  "name": "READ SAVED STORY FOR INFO",
   "location": {
     "city": "Mansfield",
     "country": "United States"
@@ -617,5 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-24"
+  "updated_at": "2026-03-28",
+  "bio": "email for booking \n>mandotattoos@yahoo.com\n•225/hr, 1,200 day rates \n•200 deposit/appt \nNon-tattoo:mandoyooo",
+  "instagram_enriched": {
+    "id": "9564315",
+    "follower_count": 6657,
+    "following_count": 790,
+    "media_count": 1463,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mandotattoos/instagram/profile.jpg"
+  }
 }
