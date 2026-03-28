@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cat.n.tattoo",
-  "name": "Cat N Tattoo",
+  "name": "Anastasia • Tattoo Artist •",
   "location": {
     "city": "Kyiv",
     "country": "Ukraine"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
+  "updated_at": "2026-03-28",
   "bio": "Cat N Tattoo, renowned in Kyiv, Ukraine for their illustrative and floral styles, has been delivering exceptional tattoo art for over 7 years. This artist's dedication to their craft, coupled with a proven track record, makes them an expert in the tattoo industry.\nPrice: $$\nCurrent location: Kyiv, Ukraine",
-  "verified": "artist"
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "42613064",
+    "follower_count": 11276,
+    "following_count": 141,
+    "media_count": 719,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cat.n.tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bozemanstattooalley",
-  "name": "Sean",
+  "name": "Bozeman's Tattoo Alley LLC",
   "location": {
     "city": "Belgrade",
     "country": "United States"
@@ -172,7 +172,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Sean is a highly skilled traditional tattoo artist who has been enhancing the cool factor of his clients since 2006. Hailing from Belgrade, United States, his work can be vividly explored through tagged photos showcasing his mastery in the traditional style. His unwavering professionalism not only reflects in the impeccable art he creates but also through the meticulousness he maintains in his practice.\nPrice: $\nCurrent location: Belgrade, Montana, United States",
-  "tattooing_since": "2006"
+  "updated_at": "2026-03-28",
+  "bio": "Sean is a highly skilled traditional tattoo artist who has been enhancing the cool factor of his clients since 2006. Hailing from Belgrade, United States, his work can be vividly explored through tagged photos showcasing his mastery in the traditional style. His unwavering professionalism not only reflects in the impeccable art he creates but also through the meticulousness he maintains in his practice.\nPrice: $\nCurrent location: Belgrade, Montana, United States\n\nMaking folks look cooler than they were made since 2006.\nSean\nGaby\nNick @nicknesbittbta",
+  "tattooing_since": "2006",
+  "instagram_enriched": {
+    "id": "1524368008",
+    "follower_count": 1906,
+    "following_count": 271,
+    "media_count": 246,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bozemanstattooalley/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brotherhoodtattoo",
-  "name": "Brotherhood Custom Tattoo",
+  "name": "Irmandade Tatuagens Curitiba",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Brotherhood Custom Tattoo\nSTUDIO\nCuritiba, Parana, Brazil\n6.07k\nAdd\nMessage\ntraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Brotherhood Custom Tattoo\nSTUDIO\nCuritiba, Parana, Brazil\n6.07k\nAdd\nMessage\ntraditional\n\n⚡ Estúdio desde 2011⚡\n🛠️  Atendimento com hora marcada",
+  "instagram_enriched": {
+    "id": "449729857",
+    "follower_count": 5696,
+    "following_count": 2103,
+    "media_count": 1024,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brotherhoodtattoo/instagram/profile.jpg"
+  }
 }

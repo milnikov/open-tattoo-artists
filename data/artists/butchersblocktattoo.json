@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "butchersblocktattoo",
-  "name": "The Butcher’s Block Tattoo",
+  "name": "The Butcher’s Block Tattoo Parlour",
   "location": {
     "city": "Wigan",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Welcome to The Butcher’s Block Tattoo, Wigan's premier destination for exceptional ink, where realism, illustrative, and black & gray designs come to life. Our talented collective of artists, including the renowned @mcculloch__art and @d.a.r_art among others, prides themselves on creating bespoke tattoos in a friendly and welcoming environment. Step into our studio to transform your ideas into lasting art with kindness and professionalism at every stroke.\nPrice: $$\nCurrent location: Wigan, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to The Butcher’s Block Tattoo, Wigan's premier destination for exceptional ink, where realism, illustrative, and black & gray designs come to life. Our talented collective of artists, including the renowned @mcculloch__art and @d.a.r_art among others, prides themselves on creating bespoke tattoos in a friendly and welcoming environment. Step into our studio to transform your ideas into lasting art with kindness and professionalism at every stroke.\nPrice: $$\nCurrent location: Wigan, England, United Kingdom\n\n@d.a.r_art @workingclassart @molliemactattoo @stubbs_tattoos @luce.tattoos @artmth @vintageinkx @jaymelee_tattoo_ @tinytatswigan @c.ash_tats",
+  "instagram_enriched": {
+    "id": "4019634606",
+    "follower_count": 10803,
+    "following_count": 1909,
+    "media_count": 1585,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/butchersblocktattoo/instagram/profile.jpg"
+  }
 }

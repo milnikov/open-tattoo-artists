@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "castleofpaintattoo",
-  "name": "Simon Grill",
+  "name": "Castle Of Pain Tattoo",
   "location": {
     "city": "Schwandorf",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Simon Grill is a highly skilled tattoo artist based in Schwandorf, Germany, specializing in black & gray, realism, and expert cover-ups. Renowned for his meticulous attention to detail, Simon displays exceptional professionalism in every aspect of his work. Clients consistently praise the impeccable quality and fine artistry of his tattoos, making Simon a sought-after artist in the region.\nPrice: $\nCurrent location: Schwandorf, Bavaria, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Simon Grill is a highly skilled tattoo artist based in Schwandorf, Germany, specializing in black & gray, realism, and expert cover-ups. Renowned for his meticulous attention to detail, Simon displays exceptional professionalism in every aspect of his work. Clients consistently praise the impeccable quality and fine artistry of his tattoos, making Simon a sought-after artist in the region.\nPrice: $\nCurrent location: Schwandorf, Bavaria, Germany\n\nCLOSED",
+  "instagram_enriched": {
+    "id": "4235634222",
+    "follower_count": 1995,
+    "following_count": 376,
+    "media_count": 626,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/castleofpaintattoo/instagram/profile.jpg"
+  }
 }

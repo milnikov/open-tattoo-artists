@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ceremony.tattoo",
-  "name": "John DeWeese",
+  "name": "Ceremony Tattoo",
   "location": {
     "city": "Indianapolis",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "John DeWeese, a masterful tattoo artist based in Indianapolis, United States, specializes in traditional, illustrative, and neotraditional styles, ensuring each client receives a piece of art that truly resonates with their personal taste. Renowned for his professionalism, John maintains a pristine working environment at his studio located at 2629 Shelby St., which reflects his dedication to both his craft and the comfort and safety of his clients. To book a session with John, clients are encouraged to contact him directly at 317-602-4272, where they can expect a service that's as impeccable as the tattoos he creates.\nPrice: $\nCurrent location: Indianapolis, Indiana, United States"
+  "updated_at": "2026-03-28",
+  "bio": "John DeWeese, a masterful tattoo artist based in Indianapolis, United States, specializes in traditional, illustrative, and neotraditional styles, ensuring each client receives a piece of art that truly resonates with their personal taste. Renowned for his professionalism, John maintains a pristine working environment at his studio located at 2629 Shelby St., which reflects his dedication to both his craft and the comfort and safety of his clients. To book a session with John, clients are encouraged to contact him directly at 317-602-4272, where they can expect a service that's as impeccable as the tattoos he creates.\nPrice: $\nCurrent location: Indianapolis, Indiana, United States\n\n2629 Shelby St. Indianapolis\nJohn @johndeweese\nDevin @dsilver_tattoo\nAnna @annak_tattoo\nAshley @ashley_tats\nJordan @j.stu.tattoo\nDaley @twotonetattoos",
+  "instagram_enriched": {
+    "id": "3989054972",
+    "follower_count": 4421,
+    "following_count": 3928,
+    "media_count": 701,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ceremony.tattoo/instagram/profile.jpg"
+  }
 }

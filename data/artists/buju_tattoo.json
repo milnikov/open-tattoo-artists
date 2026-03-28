@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "buju_tattoo",
-  "name": "Buju Tattoo",
+  "name": "BUJU Tattoo",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Buju Tattoo, located in the vibrant city of San Diego, is a sunny haven of illustrative tattoo artistry. The studio exudes a warm and welcoming ambiance, inviting all individuals to express their personal stories through vivid, imaginative tattoo designs. To embark on your unique tattoo journey with Buju, simply reach out through their website form.\nPrice: $$\nCurrent location: San Diego, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Buju Tattoo, located in the vibrant city of San Diego, is a sunny haven of illustrative tattoo artistry. The studio exudes a warm and welcoming ambiance, inviting all individuals to express their personal stories through vivid, imaginative tattoo designs. To embark on your unique tattoo journey with Buju, simply reach out through their website form.\nPrice: $$\nCurrent location: San Diego, California, United States\n\nLocated in sunny San Diego.  \nBookings done through our website ✨\nLink below! 👇🏽\n🌈 All are welcome.",
+  "instagram_enriched": {
+    "id": "190870175",
+    "follower_count": 34724,
+    "following_count": 2164,
+    "media_count": 4851,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/buju_tattoo/instagram/profile.jpg"
+  }
 }

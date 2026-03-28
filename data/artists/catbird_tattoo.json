@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "catbird_tattoo",
-  "name": "Catbird Tattoo",
+  "name": "catbird_tattoo",
   "location": {
     "city": "Bel Air",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Catbird Tattoo\nSTUDIO\nBel Air, Maryland, United States\n743\nAdd\nMessage\ntraditional\nnewschool\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "Catbird Tattoo\nSTUDIO\nBel Air, Maryland, United States\n743\nAdd\nMessage\ntraditional\nnewschool\nillustrative\n\n1321 Baltimore Pike\nBel Air, Maryland 21014\nU.S.A.  💀\n410-638-0052\nCatbirdTattoo@verizon.net\nFacebook/Catbird Tattoo",
+  "instagram_enriched": {
+    "id": "775504122",
+    "follower_count": 880,
+    "following_count": 283,
+    "media_count": 251,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/catbird_tattoo/instagram/profile.jpg"
+  }
 }

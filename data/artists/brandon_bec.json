@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brandon_bec",
-  "name": "Brandon Bec",
+  "name": "Brandon_Bec",
   "location": {
     "city": "Manaus",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Brandon Bec is a highly skilled tattoo artist based in Manaus, Brazil. Specializing in watercolor, neotraditional, and anime styles, his unique and vibrant designs have amassed him a following of around 55k on Instagram. With his superior command of his craft, Brandon continues to refine the art of tattooing, turning bodies into walking canvases of beauty and color.\nPrice: $$\nCurrent location: Manaus, Amazonas, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Brandon Bec is a highly skilled tattoo artist based in Manaus, Brazil. Specializing in watercolor, neotraditional, and anime styles, his unique and vibrant designs have amassed him a following of around 55k on Instagram. With his superior command of his craft, Brandon continues to refine the art of tattooing, turning bodies into walking canvases of beauty and color.\nPrice: $$\nCurrent location: Manaus, Amazonas, Brazil\n\n>>> @brandonbecz <<< Perfil Oficial",
+  "instagram_enriched": {
+    "id": "51768860468",
+    "follower_count": 70,
+    "following_count": 37,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brandon_bec/instagram/profile.jpg"
+  }
 }

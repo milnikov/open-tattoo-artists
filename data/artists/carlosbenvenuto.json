@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "carlosbenvenuto",
-  "name": "Carlos Benvenuto",
+  "name": "Carlos Benvenùto - Tattoo Artist",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Carlos Benvenuto is a highly skilled tattoo artist specializing in the 'black and gray' style, operating out of Sao Paulo, Brazil. Known as an ambassador for Electric Ink, he offers unique and customized artistic tattoos at the renowned BluMe Tattoo Parlour.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Carlos Benvenuto is a highly skilled tattoo artist specializing in the 'black and gray' style, operating out of Sao Paulo, Brazil. Known as an ambassador for Electric Ink, he offers unique and customized artistic tattoos at the renowned BluMe Tattoo Parlour.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil\n\nBarcelona tattoo artist - Contact : DM or WhatsApp",
+  "instagram_enriched": {
+    "id": "275790713",
+    "follower_count": 14608,
+    "following_count": 4286,
+    "media_count": 106,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/carlosbenvenuto/instagram/profile.jpg"
+  }
 }

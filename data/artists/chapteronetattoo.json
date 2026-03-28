@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chapteronetattoo",
-  "name": "San Diego-based tattoo artist",
+  "name": "Chapter One Tattoo",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "This San Diego-based tattoo artist specializes in traditional style tattoos, exuding a high level of skill and artistic flair. Known for their professionalism, appointments and quotes can be smoothly arranged via a request form on their website, ensuring a hassle-free, well-coordinated tattoo experience.\nPrice: $$\nCurrent location: San Diego, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "This San Diego-based tattoo artist specializes in traditional style tattoos, exuding a high level of skill and artistic flair. Known for their professionalism, appointments and quotes can be smoothly arranged via a request form on their website, ensuring a hassle-free, well-coordinated tattoo experience.\nPrice: $$\nCurrent location: San Diego, California, United States\n\nSan Diego Tattoo Shop • Walk-ins Welcome.\nCall, text or click the link to make an appointment.",
+  "instagram_enriched": {
+    "id": "15846172",
+    "follower_count": 36256,
+    "following_count": 993,
+    "media_count": 3515,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chapteronetattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brunodeadsoul",
-  "name": "Bruno Dead Soul",
+  "name": "DeadSoul",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Bruno Dead Soul is a renowned tattoo artist based in Paris, France, who specializes in minimalist and dotwork styles, with a commitment to vegan-friendly tattoo practices. His professionalism and meticulous attention to detail are evident in each unique piece he creates, ensuring a personalized and high-quality experience for his clients. His portfolio, showcasing his standout work, has earned him a well-deserved reputation within the Parisian tattoo community.\nPrice: $\nCurrent location: Paris, Ile-de-france, France"
+  "updated_at": "2026-03-28",
+  "bio": "Bruno Dead Soul is a renowned tattoo artist based in Paris, France, who specializes in minimalist and dotwork styles, with a commitment to vegan-friendly tattoo practices. His professionalism and meticulous attention to detail are evident in each unique piece he creates, ensuring a personalized and high-quality experience for his clients. His portfolio, showcasing his standout work, has earned him a well-deserved reputation within the Parisian tattoo community.\nPrice: $\nCurrent location: Paris, Ile-de-france, France\n\nTatoueur // Dessinateur \nréalisme /blackwork /fine line /géométrie..",
+  "instagram_enriched": {
+    "id": "383346452",
+    "follower_count": 1147,
+    "following_count": 1879,
+    "media_count": 165,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brunodeadsoul/instagram/profile.jpg"
+  }
 }

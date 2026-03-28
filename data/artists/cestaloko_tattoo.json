@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cestaloko_tattoo",
-  "name": "Cesta Loko",
+  "name": "Cestaloko Tattoo",
   "location": {
     "city": "Santo André",
     "country": "Brazil"
@@ -102,6 +102,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Cesta Loko is a highly skilled tattoo artist based in Santo André, Brazil, specializing in lettering, fineline, and tribal styles. Renowned for meticulous blackwork and detailed sketches, Cesta ensures each design is a masterpiece of ink. This artist operates by appointment only, ensuring a dedicated and personalized experience for every client.\nPrice: $\nCurrent location: Santo André, Sao Paulo, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Cesta Loko is a highly skilled tattoo artist based in Santo André, Brazil, specializing in lettering, fineline, and tribal styles. Renowned for meticulous blackwork and detailed sketches, Cesta ensures each design is a masterpiece of ink. This artist operates by appointment only, ensuring a dedicated and personalized experience for every client.\nPrice: $\nCurrent location: Santo André, Sao Paulo, Brazil\n\nTatuador \nStudio Privado\n* Sketch \n* Blackwork\nAtendimento somente com agendamento",
+  "instagram_enriched": {
+    "id": "8250113765",
+    "follower_count": 146,
+    "following_count": 378,
+    "media_count": 51,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cestaloko_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "brokenhandtattoos",
-  "name": "Tommy",
+  "name": "Broken Hand Tattoos",
   "location": {
     "city": "Detmold",
     "country": "Germany"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Tommy is a highly skilled tattoo artist based in Detmold, Germany, specializing in the black and gray tattoo style. Having honed his craft since 2008, and previously working at Sonic Soul Tattoo, Tommy is renowned for his exceptional professionalism that ensures every client's comfort and confidence throughout the tattooing experience. Reach out to Tommy at Broken Hand Tattoos for a piece of art that embodies precision and elegance.\nPrice: $\nCurrent location: Detmold, North-rhine-westphalia, Germany",
-  "tattooing_since": "2008"
+  "updated_at": "2026-03-28",
+  "bio": "Tommy is a highly skilled tattoo artist based in Detmold, Germany, specializing in the black and gray tattoo style. Having honed his craft since 2008, and previously working at Sonic Soul Tattoo, Tommy is renowned for his exceptional professionalism that ensures every client's comfort and confidence throughout the tattooing experience. Reach out to Tommy at Broken Hand Tattoos for a piece of art that embodies precision and elegance.\nPrice: $\nCurrent location: Detmold, North-rhine-westphalia, Germany\n\nTattoostudio in Detmold\nTommy: Tätowierer seit 2008\ntommy[at]brokenhandtattoos.de",
+  "tattooing_since": "2008",
+  "instagram_enriched": {
+    "id": "17783227117",
+    "follower_count": 804,
+    "following_count": 713,
+    "media_count": 185,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/brokenhandtattoos/instagram/profile.jpg"
+  }
 }

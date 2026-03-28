@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "casetattoo",
-  "name": "Case Tattoo",
+  "name": "Casé Tattoo",
   "location": {
     "city": "Rio De Janeiro",
     "country": "Brazil"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-08",
-  "bio": "Case Tattoo, based in Rio de Janeiro, Brazil, is renowned for their exceptional mastery in the tribal tattoo style. They maintain the utmost professionalism and are recognized for their proficient skills, consistently showcasing a high level of craftsmanship and attention to detail in each unique design.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Case Tattoo, based in Rio de Janeiro, Brazil, is renowned for their exceptional mastery in the tribal tattoo style. They maintain the utmost professionalism and are recognized for their proficient skills, consistently showcasing a high level of craftsmanship and attention to detail in each unique design.\nPrice: $$\nCurrent location: Rio De Janeiro, Rio De Janeiro, Brazil\n\nEspecialista em tattoos  tribais \nArte seria para pessoas de bom gosto!\n🇧🇷Tatuador há 22 anos \n⚡️Agende seu horário (62)996693989",
+  "instagram_enriched": {
+    "id": "181869140",
+    "follower_count": 20068,
+    "following_count": 38,
+    "media_count": 233,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/casetattoo/instagram/profile.jpg"
+  }
 }
