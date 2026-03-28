@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blacktemple.mtp",
-  "name": "Black Temple Tattoo Shop",
+  "name": "𝕭𝖑𝖆𝖈𝖐 𝕿𝖊𝖒𝖕𝖑𝖊 𝕿𝖆𝖙𝖙𝖔𝖔 𝕾𝖍𝖔𝖕",
   "location": {
     "city": "Montpellier",
     "country": "France"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "At Black Temple Tattoo Shop in the heart of Montpellier, France, artistry meets precision in an oasis of creativity. Specializing in fineline and floral designs, our team of dedicated artists, including the renowned Luciano LCN, Jaxa Tattooer, Tattoo by Dodie, Ruan Pablo, and Hector Tattooer, transforms your visions into stunning ink masterpieces. Step into our studio at 2 Rue Saint Côme for an unforgettable tattooing experience where excellence and elegance collide."
+  "updated_at": "2026-03-28",
+  "bio": "At Black Temple Tattoo Shop in the heart of Montpellier, France, artistry meets precision in an oasis of creativity. Specializing in fineline and floral designs, our team of dedicated artists, including the renowned Luciano LCN, Jaxa Tattooer, Tattoo by Dodie, Ruan Pablo, and Hector Tattooer, transforms your visions into stunning ink masterpieces. Step into our studio at 2 Rue Saint Côme for an unforgettable tattooing experience where excellence and elegance collide.\n\n@luciano_lcn \n@jaxartattooer \n@wallas.ttt \n@lanoe.tattoo \n📍2 rue saint Côme- Montpellier",
+  "instagram_enriched": {
+    "id": "2181990020",
+    "follower_count": 8256,
+    "following_count": 1602,
+    "media_count": 220,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacktemple.mtp/instagram/profile.jpg"
+  }
 }

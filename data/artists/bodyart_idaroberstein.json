@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bodyart_idaroberstein",
-  "name": "Leon",
+  "name": "Body-art",
   "location": {
     "city": "Idar-oberstein",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Leon is a highly skilled tattoo artist based in Idar-Oberstein, Germany, specializing in dotwork, lettering, and minimalist designs. His precision and artistry are reflected in each piece he creates, ensuring that every client leaves with a tattoo that is both unique and intricately executed. Leon's professionalism sets him apart, making him a sought-after artist in the region for those seeking top-quality, stylish ink.\nPrice: $\nCurrent location: Idar-oberstein, Rhineland-palatinate, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Leon is a highly skilled tattoo artist based in Idar-Oberstein, Germany, specializing in dotwork, lettering, and minimalist designs. His precision and artistry are reflected in each piece he creates, ensuring that every client leaves with a tattoo that is both unique and intricately executed. Leon's professionalism sets him apart, making him a sought-after artist in the region for those seeking top-quality, stylish ink.\nPrice: $\nCurrent location: Idar-oberstein, Rhineland-palatinate, Germany",
+  "instagram_enriched": {
+    "id": "16450902644",
+    "follower_count": 720,
+    "following_count": 9,
+    "media_count": 1535,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bodyart_idaroberstein/instagram/profile.jpg"
+  }
 }

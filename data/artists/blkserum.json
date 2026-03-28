@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blkserum",
-  "name": "Black Serum",
+  "name": "BLACK SERUM, Inc.",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Nestled in the heart of San Francisco, Black Serum is an exclusive, appointment-only tattoo studio specializing in the delicate art of fineline tattoos. Boasting an impressive 65K Instagram followers, this studio is not only renowned for its precise and intricate designs but also its intimate, focused approach to each individual piece.\nPrice: $$\nCurrent location: San Francisco, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the heart of San Francisco, Black Serum is an exclusive, appointment-only tattoo studio specializing in the delicate art of fineline tattoos. Boasting an impressive 65K Instagram followers, this studio is not only renowned for its precise and intricate designs but also its intimate, focused approach to each individual piece.\nPrice: $$\nCurrent location: San Francisco, California, United States\n\nSAN FRANCISCO\nPrivate Tattoo Atelier - by Appointment Only. Follow us on @blkserumsf @_brucius_ founder",
+  "instagram_enriched": {
+    "id": "2850384566",
+    "follower_count": 81237,
+    "following_count": 7733,
+    "media_count": 6940,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blkserum/instagram/profile.jpg"
+  }
 }

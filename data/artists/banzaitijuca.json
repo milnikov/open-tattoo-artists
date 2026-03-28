@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "banzaitijuca",
-  "name": "BANZAI TIJUCA",
+  "name": "Banzai",
   "location": {
     "city": "Rio De Janeiro",
     "country": "Brazil"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Banzai Tijuca, located in the vibrant heart of Rio De Janeiro, Brazil, is a distinguished tattoo studio offering masterful black & gray ink artistry since 1984. Beyond tattoos, the studio provides expert piercing, tattoo removal, and micro-aesthetics services. The team at Banzai invites you to join them in the celebration of body art.",
-  "tattooing_since": "1984"
+  "updated_at": "2026-03-28",
+  "bio": "Banzai Tijuca, located in the vibrant heart of Rio De Janeiro, Brazil, is a distinguished tattoo studio offering masterful black & gray ink artistry since 1984. Beyond tattoos, the studio provides expert piercing, tattoo removal, and micro-aesthetics services. The team at Banzai invites you to join them in the celebration of body art.\n\nCriando arte no corpo desde 1984 🤘\nPiercing • Tatuagem • Remoção \n📍 Praça Saens Pena - RJ\nSeg - Sex: 10 às 19h \nSáb: 10 às 17h\n#VemPraBanzai",
+  "tattooing_since": "1984",
+  "instagram_enriched": {
+    "id": "8584834251",
+    "follower_count": 16615,
+    "following_count": 424,
+    "media_count": 1472,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/banzaitijuca/instagram/profile.jpg"
+  }
 }

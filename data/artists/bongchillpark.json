@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bongchillpark",
-  "name": "Bongchill Park",
+  "name": "BongChillPark",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Bongchill Park is a highly skilled tattoo artist specialized in illustrative traditional styles who is currently based in Melbourne, Australia. Having garnered experiences and influence from various places like Seoul, Paris, London, and Amsterdam, he implements unique twists to his traditional artworks, creating every piece as a testament of his professional competence and commitment.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Bongchill Park is a highly skilled tattoo artist specialized in illustrative traditional styles who is currently based in Melbourne, Australia. Having garnered experiences and influence from various places like Seoul, Paris, London, and Amsterdam, he implements unique twists to his traditional artworks, creating every piece as a testament of his professional competence and commitment.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia\n\n朴熢㐂\nSeoul Korea\n@cosmicseoultattoo",
+  "instagram_enriched": {
+    "id": "595481310",
+    "follower_count": 45479,
+    "following_count": 808,
+    "media_count": 1204,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bongchillpark/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "binofeyer",
-  "name": "Bino Feyer",
+  "name": "Bino Feyer | Tattoo Artist",
   "location": {
     "city": "Osnabrück",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bino Feyer, hailing from Osnabrück, Germany, is a top-notch tattoo artist known for his unparalleled skill in fineline, dotwork, and minimalist designs. He meticulously crafts each design, evoking a blend of sophistication and character with every stroke. A master of his craft, Bino adheres strictly to appointments via his official website and works exclusively from the renowned Vacuo Studio.\nPrice: $$\nCurrent location: Osnabrück, Lower-saxony, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Bino Feyer, hailing from Osnabrück, Germany, is a top-notch tattoo artist known for his unparalleled skill in fineline, dotwork, and minimalist designs. He meticulously crafts each design, evoking a blend of sophistication and character with every stroke. A master of his craft, Bino adheres strictly to appointments via his official website and works exclusively from the renowned Vacuo Studio.\nPrice: $$\nCurrent location: Osnabrück, Lower-saxony, Germany\n\nTattoo Artist | Realistic | Concept Design\n📍Osnabrück, Germany @vacuo_studio \n📩 info@binofeyer.de | www.binofeyer.de",
+  "instagram_enriched": {
+    "id": "545705184",
+    "follower_count": 12538,
+    "following_count": 388,
+    "media_count": 461,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/binofeyer/instagram/profile.jpg"
+  }
 }

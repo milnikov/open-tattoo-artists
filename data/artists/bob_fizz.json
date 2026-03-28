@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bob_fizz",
-  "name": "Bob Fizz",
+  "name": "BOB FIZZ",
   "location": {
     "city": "Salzburg",
     "country": "Austria"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bob Fizz is an exceptionally skilled tattoo artist based in Salzburg, Austria, who specializes in fineline and dotwork tattoos. Bob's mastery in creating intricate landscapes, cityscapes, and ornamental designs is evident in each piece of permanent ink he expertly places on the skin. As a professional artist, he ensures that all appointments and inquiries are handled exclusively through email, emphasizing his organized approach to his artistry.\nPrice: $\nCurrent location: Salzburg, Salzburg, Austria"
+  "updated_at": "2026-03-28",
+  "bio": "Bob Fizz is an exceptionally skilled tattoo artist based in Salzburg, Austria, who specializes in fineline and dotwork tattoos. Bob's mastery in creating intricate landscapes, cityscapes, and ornamental designs is evident in each piece of permanent ink he expertly places on the skin. As a professional artist, he ensures that all appointments and inquiries are handled exclusively through email, emphasizing his organized approach to his artistry.\nPrice: $\nCurrent location: Salzburg, Salzburg, Austria\n\nTattoos Artist seit 2012📍Salzburg\nLandschaften, etc.\n→ Kurzfristige Termine verfügbar\n→ Buchung via E-Mail (Button)\nRiding bikes @radlbob\nNewsletter 👇",
+  "instagram_enriched": {
+    "id": "185703398",
+    "follower_count": 6099,
+    "following_count": 282,
+    "media_count": 706,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bob_fizz/instagram/profile.jpg"
+  }
 }

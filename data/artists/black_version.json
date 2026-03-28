@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black_version",
-  "name": "Black Version",
+  "name": "Version",
   "location": {
     "city": "Bronx",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Black Version is a highly skilled tattoo artist based in Bronx, United States, known for their exceptional work in floral, realism, and black & gray styles. They maintain a high level of professionalism, accepting appointments only and payments through Cash App. Their precise craftsmanship in creating intricate designs is revered by many, making them a sought-after figure in the tattoo industry.\nPrice: $$\nCurrent location: Bronx, New York, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Black Version is a highly skilled tattoo artist based in Bronx, United States, known for their exceptional work in floral, realism, and black & gray styles. They maintain a high level of professionalism, accepting appointments only and payments through Cash App. Their precise craftsmanship in creating intricate designs is revered by many, making them a sought-after figure in the tattoo industry.\nPrice: $$\nCurrent location: Bronx, New York, United States\n\nFree consultation                     Appointments only",
+  "instagram_enriched": {
+    "id": "51090379",
+    "follower_count": 15342,
+    "following_count": 541,
+    "media_count": 225,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_version/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bobxtate",
-  "name": "Bob Tate",
+  "name": "Bob Tate | Tattoo Artist | Gold Coast",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bob Tate is a highly skilled tattoo artist, specialising in traditional styles, based in Melbourne, Australia. His professionalism is evident in the way he manages his bookings and webstore, ensuring a seamless experience for his clients. Despite being originally from Gold Coast, his reputation for excellence precedes him and continues to grow in his new location.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia"
+  "updated_at": "2026-03-28",
+  "bio": "Bob Tate is a highly skilled tattoo artist, specialising in traditional styles, based in Melbourne, Australia. His professionalism is evident in the way he manages his bookings and webstore, ensuring a seamless experience for his clients. Despite being originally from Gold Coast, his reputation for excellence precedes him and continues to grow in his new location.\nPrice: $$\nCurrent location: Melbourne, Victoria, Australia\n\n🕸️Westside Tattoo Mermaid Beach\n📍Gold Coast, Australia. \n🌐CLICK LINK BELOW FOR BOOKINGS & WEBSTORE🔻🔻🔻",
+  "instagram_enriched": {
+    "id": "3728681",
+    "follower_count": 30248,
+    "following_count": 1914,
+    "media_count": 1093,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bobxtate/instagram/profile.jpg"
+  }
 }

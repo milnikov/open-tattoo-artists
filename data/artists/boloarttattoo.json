@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "boloarttattoo",
-  "name": "Bolo",
+  "name": "BOLO",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Bolo, based in Miami, United States, is an exceptionally skilled tattoo artist, specializing in the intricate styles of realism and black & gray. With a following of roughly 370,000 on Instagram, he showcases his unique, highly-detailed artistry through his platform. His masterful works are beautifully penned at The Golden Needle Tattoos studio, demonstrating a level of craftsmanship that's well recognized.\nPrice: $$$\nCurrent location: Miami, Florida, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Bolo, based in Miami, United States, is an exceptionally skilled tattoo artist, specializing in the intricate styles of realism and black & gray. With a following of roughly 370,000 on Instagram, he showcases his unique, highly-detailed artistry through his platform. His masterful works are beautifully penned at The Golden Needle Tattoos studio, demonstrating a level of craftsmanship that's well recognized.\nPrice: $$$\nCurrent location: Miami, Florida, United States\n\n✦ BOOKINGS: bolotattoos@yahoo.com📧",
+  "instagram_enriched": {
+    "id": "625888207",
+    "follower_count": 346089,
+    "following_count": 7494,
+    "media_count": 841,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boloarttattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackcavetattoo",
-  "name": "Black Cave Tattoo",
+  "name": "Black Cave Studio Tattoo",
   "location": {
     "city": "Rio De Janeiro",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Black Cave Tattoo\nSTUDIO\nRio De Janeiro, Rio De Janeiro, Brazil\n5.51k\nAdd\nMessage\nwatercolor\nillustrative\nfineline"
+  "updated_at": "2026-03-28",
+  "bio": "Black Cave Tattoo\nSTUDIO\nRio De Janeiro, Rio De Janeiro, Brazil\n5.51k\nAdd\nMessage\nwatercolor\nillustrative\nfineline\n\nA Caverna dos Viajantes. \nAtendimento privado com agendamento. \nAv.: Brás de Pina 2073, sala 202 - Vista Alegre - RJ\nOrçamento por Whatsapp:",
+  "instagram_enriched": {
+    "id": "8710287852",
+    "follower_count": 6625,
+    "following_count": 1669,
+    "media_count": 602,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackcavetattoo/instagram/profile.jpg"
+  }
 }

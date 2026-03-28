@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bangalostudio",
-  "name": "Marcos Oliveira",
+  "name": "Studio Bangalô Tattoo",
   "location": {
     "city": "Alagoinhas",
     "country": "Brazil"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Nestled in the heart of Alagoinhas, Brazil, the Bangalô Tattoo Studio, founded by master tattoo artist Marcos Oliveira, has been showcasing impressive minimalist, floral, and lettering tattoos since 1994. This welcoming and creative environment also offers professional piercing services by Babi Senna, making it a versatile hub for those seeking to express their unique style through body art.\nPrice: $$\nCurrent location: Alagoinhas, Bahia, Brazil",
-  "tattooing_since": "1994"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the heart of Alagoinhas, Brazil, the Bangalô Tattoo Studio, founded by master tattoo artist Marcos Oliveira, has been showcasing impressive minimalist, floral, and lettering tattoos since 1994. This welcoming and creative environment also offers professional piercing services by Babi Senna, making it a versatile hub for those seeking to express their unique style through body art.\nPrice: $$\nCurrent location: Alagoinhas, Bahia, Brazil\n\n👲 Tatuador (desde 1994) fundador do:  \n🏡 Studio Bangalô Tattoo.\n👩 Piercer @babi.senna (desde 2009).\n📱Orçamentos e Agendamentos:",
+  "tattooing_since": "1994",
+  "instagram_enriched": {
+    "id": "1226281485",
+    "follower_count": 19101,
+    "following_count": 1827,
+    "media_count": 5433,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bangalostudio/instagram/profile.jpg"
+  }
 }

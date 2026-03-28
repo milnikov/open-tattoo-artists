@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "barrosotattoo",
-  "name": "Barroso Tattoo",
+  "name": "Daniel",
   "location": {
     "city": "Recife",
     "country": "Brazil"
@@ -593,6 +593,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Barroso Tattoo is a highly skilled artist based in Recife, Brazil, specializing in watercolor and realism tattoos. Their work showcases a deft hand and meticulous attention to detail, proving their mastery in bringing intricate designs to life on the skin. The studio's environment reflects the utmost cleanliness, ensuring a safe and inviting experience for each client seeking their artistry.\nPrice: $\nCurrent location: Recife, Pernambuco, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Barroso Tattoo is a highly skilled artist based in Recife, Brazil, specializing in watercolor and realism tattoos. Their work showcases a deft hand and meticulous attention to detail, proving their mastery in bringing intricate designs to life on the skin. The studio's environment reflects the utmost cleanliness, ensuring a safe and inviting experience for each client seeking their artistry.\nPrice: $\nCurrent location: Recife, Pernambuco, Brazil\n\nTattoo \nCampo Grande - RJ",
+  "instagram_enriched": {
+    "id": "6738544741",
+    "follower_count": 180,
+    "following_count": 299,
+    "media_count": 62,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/barrosotattoo/instagram/profile.jpg"
+  }
 }

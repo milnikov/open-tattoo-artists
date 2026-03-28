@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "norristattoo",
+  "name": "Chad A Norris",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/norristattoo",
+    "instagram": "https://www.instagram.com/norristattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/norristattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/norristattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/norristattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/norristattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Chad A. Norris is renowned for his exceptional skill in illustrative tattoo artistry, bringing clients' visions to life with precision and a flair for detail. Operating out of AAA Tattoo & Piercing in Lafayette, Louisiana, his work is not just a testament to his talent but also to the professionalism that he brings to each session, ensuring that every client's experience is met with the highest standard of service. You can reach Chad at norristattoo75@gmail.com to discuss your next tattoo project.\nPrice: $\nCurrent location:"
+}

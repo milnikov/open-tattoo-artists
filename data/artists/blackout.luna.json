@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blackout.luna",
-  "name": "LU",
+  "name": "Luna",
   "location": {
     "city": "Berlin",
     "country": "Germany"
@@ -77,6 +77,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Lu is a highly skilled minimalist and fine line tattoo artist located in Berlin, Germany. With a background in medical education, Lu combines their artistic taste with an unparalleled attention to cleanliness, ensuring a safe and sterile environment for all their clients. Black may be their happy color, but it's their commitment to upholding the highest standards of hygiene that truly sets them apart in the tattooing community.\nPrice: $\nCurrent location: Berlin, Berlin, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Lu is a highly skilled minimalist and fine line tattoo artist located in Berlin, Germany. With a background in medical education, Lu combines their artistic taste with an unparalleled attention to cleanliness, ensuring a safe and sterile environment for all their clients. Black may be their happy color, but it's their commitment to upholding the highest standards of hygiene that truly sets them apart in the tattooing community.\nPrice: $\nCurrent location: Berlin, Berlin, Germany",
+  "instagram_enriched": {
+    "id": "50967030028",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blackout.luna/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bonitocadavertattoo",
-  "name": "Bonito Cadáver Tattoo",
+  "name": "Bonito Cadáver Tattoo®",
   "location": {
     "city": "Vigo",
     "country": "Spain"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "Bonito Cadáver Tattoo is a revered tattoo studio nestled in the heart of Vigo, Spain, offering distinctive styles in black & gray, neotraditional and realism since 2012. Their professional artists are renowned for their specialization in various styles, creating not just tattoos, but unrepeatable pieces of body art.\nPrice: $$\nCurrent location: Vigo, Galicia, Spain",
-  "tattooing_since": "2012"
+  "updated_at": "2026-03-28",
+  "bio": "Bonito Cadáver Tattoo is a revered tattoo studio nestled in the heart of Vigo, Spain, offering distinctive styles in black & gray, neotraditional and realism since 2012. Their professional artists are renowned for their specialization in various styles, creating not just tattoos, but unrepeatable pieces of body art.\nPrice: $$\nCurrent location: Vigo, Galicia, Spain\n\n𖤐 VIGO 𖤐 📍 C/ Alfonso XIII 34 \n🖌️Artistas  profesionales especializados en distintos estilos.  ➖Desde 2012➖",
+  "tattooing_since": "2012",
+  "instagram_enriched": {
+    "id": "5487774894",
+    "follower_count": 24084,
+    "following_count": 7441,
+    "media_count": 431,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bonitocadavertattoo/instagram/profile.jpg"
+  }
 }

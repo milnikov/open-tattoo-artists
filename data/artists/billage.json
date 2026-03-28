@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "billage",
-  "name": "Bill Smith",
+  "name": "Bill Bedard",
   "location": {
     "city": "Morehead City",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bill Smith is a highly skilled tattoo artist based in Morehead City, United States, known for his expertise in illustrative and fine line tattoos. His attention to detail and clean, precise work has earned him a reputation for professionalism at Inkspiration Studio. Whether you're looking for intricate designs or delicate patterns, Bill's proficiency ensures that every piece is a stunning work of art.\nPrice: $\nCurrent location: Morehead City, North Carolina, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Bill Smith is a highly skilled tattoo artist based in Morehead City, United States, known for his expertise in illustrative and fine line tattoos. His attention to detail and clean, precise work has earned him a reputation for professionalism at Inkspiration Studio. Whether you're looking for intricate designs or delicate patterns, Bill's proficiency ensures that every piece is a stunning work of art.\nPrice: $\nCurrent location: Morehead City, North Carolina, United States\n\nwww.lemonlightningstudio.com <-click on the gift cards button!\nTattooist Cartoonist, ocean person. @inkspirationstudionc",
+  "instagram_enriched": {
+    "id": "18659040",
+    "follower_count": 840,
+    "following_count": 1240,
+    "media_count": 170,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/billage/instagram/profile.jpg"
+  }
 }

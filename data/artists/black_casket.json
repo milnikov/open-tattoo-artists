@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black_casket",
-  "name": "Black Casket",
+  "name": "Tyler Charles",
   "location": {
     "city": "Scranton",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Black Casket, a highly skilled tattoo artist from Scranton, United States, specializes in geometric and floral styles. Known for their stunning precision and flair, they have amassed an impressive audience of approximately 75k followers on Instagram. Please note that their books are currently closed.\nPrice: $$$\nCurrent location: Scranton, Pennsylvania, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Black Casket, a highly skilled tattoo artist from Scranton, United States, specializes in geometric and floral styles. Known for their stunning precision and flair, they have amassed an impressive audience of approximately 75k followers on Instagram. Please note that their books are currently closed.\nPrice: $$$\nCurrent location: Scranton, Pennsylvania, United States\n\n➕Black Casket Tattoo\n➕ Scranton, Pennsylvania",
+  "instagram_enriched": {
+    "id": "184681290",
+    "follower_count": 71069,
+    "following_count": 657,
+    "media_count": 570,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black_casket/instagram/profile.jpg"
+  }
 }

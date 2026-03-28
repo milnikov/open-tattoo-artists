@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bayinktattoo",
-  "name": "Bay Ink Tattoo",
+  "name": "Bay Ink Tattoo Gallery",
   "location": {
     "city": "San Diego",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bay Ink Tattoo\nSTUDIO\nSan Diego, California, United States\n30.1k\nAdd\nMessage\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Bay Ink Tattoo\nSTUDIO\nSan Diego, California, United States\n30.1k\nAdd\nMessage\nblack&gray\n\n| Bay Park | La Jolla |\n| Quality Artwork | \n| Piercings @sandiegopiercing |",
+  "instagram_enriched": {
+    "id": "3980192703",
+    "follower_count": 37471,
+    "following_count": 42,
+    "media_count": 2601,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bayinktattoo/instagram/profile.jpg"
+  }
 }

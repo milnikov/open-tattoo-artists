@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "barber_dts",
-  "name": "Barber DTS",
+  "name": "Barber DTS Tattoo Supplies",
   "location": {
     "city": "Barnsley",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Barber DTS, a globally recognized tattoo artist based in Barnsley, United Kingdom, truly masters the black&grey and neotraditional styles of tattoo artistry. Their skill level is evidenced by the staggering following of around 98,000 Instagram fans. Barber DTS, apart from their exquisite craftsmanship, is also well-known as one of the leading suppliers of tattoo, PMU, and piercing equipment across the UK and Europe.\nPrice: $$$\nCurrent location: Barnsley, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Barber DTS, a globally recognized tattoo artist based in Barnsley, United Kingdom, truly masters the black&grey and neotraditional styles of tattoo artistry. Their skill level is evidenced by the staggering following of around 98,000 Instagram fans. Barber DTS, apart from their exquisite craftsmanship, is also well-known as one of the leading suppliers of tattoo, PMU, and piercing equipment across the UK and Europe.\nPrice: $$$\nCurrent location: Barnsley, England, United Kingdom\n\nLeading suppliers of tattoo, PMU and piercing equipment across UK & Europe #BarberDTS",
+  "instagram_enriched": {
+    "id": "1590053785",
+    "follower_count": 112250,
+    "following_count": 7491,
+    "media_count": 12982,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/barber_dts/instagram/profile.jpg"
+  }
 }

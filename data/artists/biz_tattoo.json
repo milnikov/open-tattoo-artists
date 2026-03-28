@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "biz_tattoo",
-  "name": "Biz70",
+  "name": "biz",
   "location": {
     "city": "Santa Cristina Valgardena",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Biz70 is a highly skilled tattoo artist specializing in fineline, minimalist, and geometric styles, with an impeccable ability to create portraits and photorealism that often incorporate freehand techniques and special effects. Operating out of the picturesque Santa Cristina Valgardena, Italy, they are renowned for their mastery in executing tattoos with super fine lines that bring intricate designs to life with exceptional precision.\nPrice: $\nCurrent location: Santa Cristina Valgardena, Trentino-alto Adige, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Biz70 is a highly skilled tattoo artist specializing in fineline, minimalist, and geometric styles, with an impeccable ability to create portraits and photorealism that often incorporate freehand techniques and special effects. Operating out of the picturesque Santa Cristina Valgardena, Italy, they are renowned for their mastery in executing tattoos with super fine lines that bring intricate designs to life with exceptional precision.\nPrice: $\nCurrent location: Santa Cristina Valgardena, Trentino-alto Adige, Italy\n\nTattoo\nLimited appointments\nVal Gardena, Italy",
+  "instagram_enriched": {
+    "id": "3004605651",
+    "follower_count": 3409,
+    "following_count": 455,
+    "media_count": 9,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/biz_tattoo/instagram/profile.jpg"
+  }
 }

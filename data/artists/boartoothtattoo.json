@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "boartoothtattoo",
-  "name": "Daniel Werder",
+  "name": "Boartooth Tattoo",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Daniel Werder is a highly skilled tattoo artist based in Los Angeles, United States. Specializing in traditional and illustrative styles, his intricate work exemplifies his dedication and attention to detail, ensuring every part of each design is perfectly etched.\nPrice: $$\nCurrent location: Los Angeles, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Daniel Werder is a highly skilled tattoo artist based in Los Angeles, United States. Specializing in traditional and illustrative styles, his intricate work exemplifies his dedication and attention to detail, ensuring every part of each design is perfectly etched.\nPrice: $$\nCurrent location: Los Angeles, California, United States\n\nPremier walk-in shop in West LA 12pm - 8pm & open till 9pm Friday, Saturday",
+  "instagram_enriched": {
+    "id": "5785884103",
+    "follower_count": 37775,
+    "following_count": 1598,
+    "media_count": 1020,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/boartoothtattoo/instagram/profile.jpg"
+  }
 }

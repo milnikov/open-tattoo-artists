@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "black13tattoo",
-  "name": "Black13 Tattoo",
+  "name": "black13tattoo",
   "location": {
     "city": "Nashville",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Black13 Tattoo\nSTUDIO\nNashville, Tennessee, United States\n46.1k\nAdd\nMessage\ntraditional\nblack&gray\nneotraditional"
+  "updated_at": "2026-03-28",
+  "bio": "Black13 Tattoo\nSTUDIO\nNashville, Tennessee, United States\n46.1k\nAdd\nMessage\ntraditional\nblack&gray\nneotraditional\n\nNashville’s Source For Custom Tattoos! ✨ Featuring 11 artists. ✨Walk-ins welcome. Tuesday - Saturday 10am to 6pm",
+  "instagram_enriched": {
+    "id": "13337713",
+    "follower_count": 50279,
+    "following_count": 640,
+    "media_count": 2175,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/black13tattoo/instagram/profile.jpg"
+  }
 }

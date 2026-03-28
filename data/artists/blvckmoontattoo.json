@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blvckmoontattoo",
-  "name": "Blvck Moon Tattoo",
+  "name": "𝔅𝔩𝔳𝔠𝔨 𝔐𝔬𝔬𝔫",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Blvck Moon Tattoo is a highly-skilled tattoo artist based in Barcelona, Spain who specializes in fineline, sketch, and dotwork styles. Their attention to detail is evident in their stunning and intricate designs, showcasing a high level of mastery in their craft.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Blvck Moon Tattoo is a highly-skilled tattoo artist based in Barcelona, Spain who specializes in fineline, sketch, and dotwork styles. Their attention to detail is evident in their stunning and intricate designs, showcasing a high level of mastery in their craft.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain\n\nLluis Martinez\n✨ Stay tuned for news\nMENORCA",
+  "instagram_enriched": {
+    "id": "2275021209",
+    "follower_count": 30606,
+    "following_count": 1147,
+    "media_count": 340,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blvckmoontattoo/instagram/profile.jpg"
+  }
 }

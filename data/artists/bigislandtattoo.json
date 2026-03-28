@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bigislandtattoo",
-  "name": "Rockwood Tattoo",
+  "name": "rockwoodtattoo",
   "location": {
     "city": "Kailua Kona",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Rockwood Tattoo is renowned for their exemplary skills in the illustrative tattoo style, crafting vivid and unique pieces that truly showcase their artistic prowess. Located in the heart of Kailua Kona, United States, they maintain a clean, hygienic environment to ensure every client's safety and comfort during their tattooing experience.\nPrice: $\nCurrent location: Kailua Kona, Hawaii, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Rockwood Tattoo is renowned for their exemplary skills in the illustrative tattoo style, crafting vivid and unique pieces that truly showcase their artistic prowess. Located in the heart of Kailua Kona, United States, they maintain a clean, hygienic environment to ensure every client's safety and comfort during their tattooing experience.\nPrice: $\nCurrent location: Kailua Kona, Hawaii, United States",
+  "instagram_enriched": {
+    "id": "1446820495",
+    "follower_count": 1552,
+    "following_count": 1124,
+    "media_count": 755,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bigislandtattoo/instagram/profile.jpg"
+  }
 }

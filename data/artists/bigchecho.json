@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bigchecho",
-  "name": "BigChecho",
+  "name": "Checho Perez",
   "location": {
     "city": "Chula Vista",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "BigChecho, a veteran in the tattoo industry since 1996, is renowned for his exceptional skill level in the 'black&gray, realism' styles. As the proud owner of \"The Standard Tattoo Parlor\" located in Chula Vista, United States, he operates solely on an appointment basis, ensuring each client receives the undivided attention and precision they deserve.\nPrice: $$\nCurrent location: Chula Vista, California, United States",
-  "tattooing_since": "1996"
+  "updated_at": "2026-03-28",
+  "bio": "BigChecho, a veteran in the tattoo industry since 1996, is renowned for his exceptional skill level in the 'black&gray, realism' styles. As the proud owner of \"The Standard Tattoo Parlor\" located in Chula Vista, United States, he operates solely on an appointment basis, ensuring each client receives the undivided attention and precision they deserve.\nPrice: $$\nCurrent location: Chula Vista, California, United States\n\n“The Standard Tattoo Parlor” Tattooing since 1996.  I do it all… for appointments . (619)931-0145 Thanks",
+  "tattooing_since": "1996",
+  "instagram_enriched": {
+    "id": "10992733",
+    "follower_count": 23167,
+    "following_count": 2662,
+    "media_count": 2903,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bigchecho/instagram/profile.jpg"
+  }
 }

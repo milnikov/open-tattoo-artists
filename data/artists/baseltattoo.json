@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "baseltattoo",
-  "name": "Basel Tattoo",
+  "name": "Tattoo & Body Art",
   "location": {
     "city": "Basel",
     "country": "Switzerland"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-05",
-  "bio": "Discover the timeless allure of ink at Basel Tattoo, a premier studio nestled in the heart of Basel, Switzerland. Since 1991, our talented artists have specialized in striking black & gray tattoos, offering free consultations and warmly welcoming walk-ins. Step into our iconic space at Steinentorstr. 26B, where creativity thrives and every design becomes a masterpiece.\nPrice: $\nCurrent location: Basel, Basel-stadt, Switzerland",
-  "tattooing_since": "1991"
+  "updated_at": "2026-03-28",
+  "bio": "Discover the timeless allure of ink at Basel Tattoo, a premier studio nestled in the heart of Basel, Switzerland. Since 1991, our talented artists have specialized in striking black & gray tattoos, offering free consultations and warmly welcoming walk-ins. Step into our iconic space at Steinentorstr. 26B, where creativity thrives and every design becomes a masterpiece.\nPrice: $\nCurrent location: Basel, Basel-stadt, Switzerland\n\nEst.1991\nNow located in CH 5028 Ueken, Switzerland @tattoomuseum.ch \n☎061 225 9025\n👉kostenlose Beratung\n👉 @dave.daskin",
+  "tattooing_since": "1991",
+  "instagram_enriched": {
+    "id": "256002262",
+    "follower_count": 576,
+    "following_count": 188,
+    "media_count": 305,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/baseltattoo/instagram/profile.jpg"
+  }
 }

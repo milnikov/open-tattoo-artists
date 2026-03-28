@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "baraka_tattoo",
-  "name": "Baraka Tattoo",
+  "name": "Тату студия Барака",
   "location": {
     "city": "Saint Petersburg",
     "country": "Russia"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Baraka Tattoo\nSTUDIO\nSaint Petersburg, Northwestern Federal District, Russia\n54.7k\nAdd\nMessage\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Baraka Tattoo\nSTUDIO\nSaint Petersburg, Northwestern Federal District, Russia\n54.7k\nAdd\nMessage\nblack&gray\n\nТатуировки и пирсинг от настоящих профессионалов. \nСанкт-Петербург | +7(812)317-00-17\nМосква | +7(929)550-73-17",
+  "instagram_enriched": {
+    "id": "331860816",
+    "follower_count": 49816,
+    "following_count": 47,
+    "media_count": 4567,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/baraka_tattoo/instagram/profile.jpg"
+  }
 }

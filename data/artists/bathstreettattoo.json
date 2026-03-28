@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bathstreettattoo",
-  "name": "Bath Street Tattoo",
+  "name": "Bath Street Tattoo Glasgow",
   "location": {
     "city": "Glasgow",
     "country": "United Kingdom"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bath Street Tattoo, located in Glasgow, United Kingdom, is renowned for their adeptness in the 'neotraditional' and 'Japanese' styles of tattooing. Esteemed for their exceptional skill level, the artist’s meticulous attention to detail and artistic perception truly bring each design to life.\nPrice: $$\nCurrent location: Glasgow, Scotland, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Bath Street Tattoo, located in Glasgow, United Kingdom, is renowned for their adeptness in the 'neotraditional' and 'Japanese' styles of tattooing. Esteemed for their exceptional skill level, the artist’s meticulous attention to detail and artistic perception truly bring each design to life.\nPrice: $$\nCurrent location: Glasgow, Scotland, United Kingdom",
+  "instagram_enriched": {
+    "id": "1491944241",
+    "follower_count": 10316,
+    "following_count": 514,
+    "media_count": 423,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bathstreettattoo/instagram/profile.jpg"
+  }
 }

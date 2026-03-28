@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "binitattoo",
-  "name": "Bini Tattoo",
+  "name": "Bini Tattoo and Piercing",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Bini Tattoo, located in the vibrant city of Toronto, Canada is a proficient tattoo artist who specializes in fineline, illustrative, and dotwork styles. Known for her custom designs, she effortlessly merges your ideas with her artistic insights to bring your vision to life. Her impeccable skills are on full display every Wednesday when she offers $50 tattoos, proving that high-quality, bespoke artistry is indeed affordable.\nPrice: $$\nCurrent location: Toronto, Ontario, Canada"
+  "updated_at": "2026-03-28",
+  "bio": "Bini Tattoo, located in the vibrant city of Toronto, Canada is a proficient tattoo artist who specializes in fineline, illustrative, and dotwork styles. Known for her custom designs, she effortlessly merges your ideas with her artistic insights to bring your vision to life. Her impeccable skills are on full display every Wednesday when she offers $50 tattoos, proving that high-quality, bespoke artistry is indeed affordable.\nPrice: $$\nCurrent location: Toronto, Ontario, Canada\n\nDowntown Toronto’s go-to spot for tattoos & piercings\n👌🏼Fair pricing (by piece, not hourly)\n📍5 Elm St, M5G 1H1\n🚶‍♀️Walk-ins welcome!",
+  "instagram_enriched": {
+    "id": "263595457",
+    "follower_count": 25154,
+    "following_count": 1254,
+    "media_count": 1066,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/binitattoo/instagram/profile.jpg"
+  }
 }

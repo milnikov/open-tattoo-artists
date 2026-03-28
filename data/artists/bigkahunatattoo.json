@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bigkahunatattoo",
-  "name": "Big Kahuna Tattoo",
+  "name": "BigKahunaTattoo",
   "location": {
     "city": "Boca Raton",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Big Kahuna Tattoo\nSTUDIO\nBoca Raton, Florida, United States\n7.03k\nAdd\nMessage\ntraditional\nneotraditional\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "Big Kahuna Tattoo\nSTUDIO\nBoca Raton, Florida, United States\n7.03k\nAdd\nMessage\ntraditional\nneotraditional\nillustrative\n\nElectric tattooing and body piercing in East Boca Raton since 1999. @nickdrichard @rinse.cup @jellotriv",
+  "instagram_enriched": {
+    "id": "183035132",
+    "follower_count": 7272,
+    "following_count": 1986,
+    "media_count": 1384,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bigkahunatattoo/instagram/profile.jpg"
+  }
 }

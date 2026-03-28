@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blacklabeltattoocompany",
-  "name": "Black Label Tattoo Co",
+  "name": "Black Label Tattoo Co.",
   "location": {
     "city": "Frederick",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Nestled in the heart of Frederick, United States, Black Label Tattoo Co is an expert tattoo studio boasting specialty in traditional and neotraditional styles. Showcasing a diverse roster of talented artists, this studio presents a personalized, creative, and professional approach to body art, transforming your tattoo ideas into masterpieces.\nPrice: $$\nCurrent location: Frederick, Maryland, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Nestled in the heart of Frederick, United States, Black Label Tattoo Co is an expert tattoo studio boasting specialty in traditional and neotraditional styles. Showcasing a diverse roster of talented artists, this studio presents a personalized, creative, and professional approach to body art, transforming your tattoo ideas into masterpieces.\nPrice: $$\nCurrent location: Frederick, Maryland, United States\n\n@sbgtattoo\n@antonioroque \n@tengutorres \n@xjoshxsxe\n@scottchristopherx\n@dani.c.tattoo\n@kehtattoos",
+  "instagram_enriched": {
+    "id": "145942081",
+    "follower_count": 13596,
+    "following_count": 591,
+    "media_count": 1058,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blacklabeltattoocompany/instagram/profile.jpg"
+  }
 }

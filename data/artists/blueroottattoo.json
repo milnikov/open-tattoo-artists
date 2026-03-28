@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blueroottattoo",
-  "name": "Blue Root Tattoo",
+  "name": "Blue Root Tattoo & Piercing",
   "location": {
     "city": "Assen",
     "country": "Netherlands"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Welcome to Blue Root Tattoo, Assen's premier destination for exquisite lettering, minimalist, and geometric ink artistry. Nestled in the heart of Drenthe, Netherlands, our studio offers a serene and stylish environment where creativity meets precision. Discover your next personal masterpiece with us, where every piercing and tattoo is a unique expression of your individuality.\nPrice: $\nCurrent location: Assen, Drenthe, Netherlands"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Blue Root Tattoo, Assen's premier destination for exquisite lettering, minimalist, and geometric ink artistry. Nestled in the heart of Drenthe, Netherlands, our studio offers a serene and stylish environment where creativity meets precision. Discover your next personal masterpiece with us, where every piercing and tattoo is a unique expression of your individuality.\nPrice: $\nCurrent location: Assen, Drenthe, Netherlands",
+  "instagram_enriched": {
+    "id": "7730956188",
+    "follower_count": 1111,
+    "following_count": 1178,
+    "media_count": 386,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blueroottattoo/instagram/profile.jpg"
+  }
 }

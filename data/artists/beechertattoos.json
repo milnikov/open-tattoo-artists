@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "beechertattoos",
-  "name": "Mike Beecher",
+  "name": "Michael Beecher",
   "location": {
     "city": "Gillette",
     "country": "United States"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-06",
-  "bio": "Mike Beecher, a profoundly skilled tattoo artist based in Gillette, Wyoming, is known for his expertise in black & gray and dotwork styles. With roughly 70,000 followers on Instagram, his prowess is clearly recognized and lauded by the tattoo community. Mike presents his meticulous and intricate craft to clients through his website, Mikebeecher.com, where he also manages his bookings.\nPrice: $$$\nCurrent location: Gillette, Wyoming, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Mike Beecher, a profoundly skilled tattoo artist based in Gillette, Wyoming, is known for his expertise in black & gray and dotwork styles. With roughly 70,000 followers on Instagram, his prowess is clearly recognized and lauded by the tattoo community. Mike presents his meticulous and intricate craft to clients through his website, Mikebeecher.com, where he also manages his bookings.\nPrice: $$$\nCurrent location: Gillette, Wyoming, United States\n\nTattoo artist in Cheyenne, WY. @inkmaster season 17. To book, please go to Mikebeecher.com @empireinks",
+  "instagram_enriched": {
+    "id": "1458504492",
+    "follower_count": 113033,
+    "following_count": 2303,
+    "media_count": 646,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/beechertattoos/instagram/profile.jpg"
+  }
 }
