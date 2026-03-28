@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inksmithandrogers",
-  "name": "Granger Tattoo",
+  "name": "Inksmith And Rogers Tattoo",
   "location": {
     "city": "Jacksonville",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Granger Tattoo, located in Jacksonville, United States, is a highly proficient tattoo artist with expertise in Traditional and Neotraditional styles. Having honed his skills since 1984, he ensures each custom design captures the individuality of his clients, steadfastly refusing to compromise on quality or detail.\nPrice: $$\nCurrent location: Jacksonville, Florida, United States",
-  "tattooing_since": "1984"
+  "updated_at": "2026-03-28",
+  "bio": "Granger Tattoo, located in Jacksonville, United States, is a highly proficient tattoo artist with expertise in Traditional and Neotraditional styles. Having honed his skills since 1984, he ensures each custom design captures the individuality of his clients, steadfastly refusing to compromise on quality or detail.\nPrice: $$\nCurrent location: Jacksonville, Florida, United States\n\nSince 1984\n@jswedtattoo @mikebruce @thrilledscott_ir \n@grangertattoo @jordancmoore_ir @jennyjoepiercer\nOpen Daily at Noon",
+  "tattooing_since": "1984",
+  "instagram_enriched": {
+    "id": "12280086",
+    "follower_count": 17747,
+    "following_count": 482,
+    "media_count": 856,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inksmithandrogers/instagram/profile.jpg"
+  }
 }

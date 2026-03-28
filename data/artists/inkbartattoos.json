@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkbartattoos",
-  "name": "Lauren B",
+  "name": "Ink Bar Tattoo Studio",
   "location": {
     "city": "Fort Erie",
     "country": "Canada"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Artists\nSuppliers\nAbout\nWelcome to Lauren B Tattoo Studio, a serene haven in Fort Erie where art and precision intersect. Specializing in illustrative, geometric, and fine line tattoos, we offer an exclusive, by-appointment-only experience, ensuring personalized attention to your ink journey, Monday through Friday. Our professional, private studio is the embodiment of creativity and bespoke craftsmanship, waiting to transpose your vision into a timeless masterpiece.\nPrice: $\nCurrent location: Fort Erie, Ontario, Canada"
+  "updated_at": "2026-03-28",
+  "bio": "Artists\nSuppliers\nAbout\nWelcome to Lauren B Tattoo Studio, a serene haven in Fort Erie where art and precision intersect. Specializing in illustrative, geometric, and fine line tattoos, we offer an exclusive, by-appointment-only experience, ensuring personalized attention to your ink journey, Monday through Friday. Our professional, private studio is the embodiment of creativity and bespoke craftsmanship, waiting to transpose your vision into a timeless masterpiece.\nPrice: $\nCurrent location: Fort Erie, Ontario, Canada\n\nArtist: @laurenbtattoos\nBy appointment only\nBookings closed",
+  "instagram_enriched": {
+    "id": "31558992045",
+    "follower_count": 1801,
+    "following_count": 267,
+    "media_count": 661,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbartattoos/instagram/profile.jpg"
+  }
 }

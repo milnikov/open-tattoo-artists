@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkbooster",
-  "name": "DC InventionCompany",
+  "name": "InkBooster/DC InventionCompany",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "DC InventionCompany is an exceptionally skilled tattoo artist, specializing in black&gray, realism, and neotraditional styles. Known for his mastery of 'Ink Booster', 'Ink Cleanser', 'Ink Protector', and 'The Box' techniques, he ensures an innovative and exceptionally detailed work of art on the skin. His expertise and blending of styles result in unique, high-quality tattoos that truly reflect his artistry.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "DC InventionCompany is an exceptionally skilled tattoo artist, specializing in black&gray, realism, and neotraditional styles. Known for his mastery of 'Ink Booster', 'Ink Cleanser', 'Ink Protector', and 'The Box' techniques, he ensures an innovative and exceptionally detailed work of art on the skin. His expertise and blending of styles result in unique, high-quality tattoos that truly reflect his artistry.\nPrice: $$\nCurrent location:\n\n#Ink Booster #Ink Cleanser #Ink Protector #The Box",
+  "instagram_enriched": {
+    "id": "3472212471",
+    "follower_count": 17708,
+    "following_count": 1814,
+    "media_count": 1798,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkbooster/instagram/profile.jpg"
+  }
 }

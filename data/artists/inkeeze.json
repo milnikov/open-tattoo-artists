@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkeeze",
-  "name": "Inkeeze",
+  "name": "INKEEZE",
   "location": {
     "city": "Long Beach",
     "country": "United States"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Inkeeze, located in Long Beach, United States, is incredibly skilled and renowned for their signature black & gray tattoo style. With a dedicated Instagram following of around 180,000, they are famed for their superb attention to detail. This is backed up by their premium tattoo care, which they've created especially for the passionate lovers of tattoos to protect the vibrancy of their work. Inkeeze is everything a passionate tattoo enthusiast could look for - proficiency, precision, and care for their art.\nPrice: $$$\nCurrent location: Long Beach, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Inkeeze, located in Long Beach, United States, is incredibly skilled and renowned for their signature black & gray tattoo style. With a dedicated Instagram following of around 180,000, they are famed for their superb attention to detail. This is backed up by their premium tattoo care, which they've created especially for the passionate lovers of tattoos to protect the vibrancy of their work. Inkeeze is everything a passionate tattoo enthusiast could look for - proficiency, precision, and care for their art.\nPrice: $$$\nCurrent location: Long Beach, California, United States\n\nPremium tattoo care created for those who are passionate about their tattoos, protecting them and maximizing their vibrancy.",
+  "instagram_enriched": {
+    "id": "209055802",
+    "follower_count": 174075,
+    "following_count": 1400,
+    "media_count": 5370,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkeeze/instagram/profile.jpg"
+  }
 }

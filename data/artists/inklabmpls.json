@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inklabmpls",
-  "name": "Inklab Tattoo Artist",
+  "name": "The Ink Lab Tattoos in Uptown Minneapolis",
   "location": {
     "city": "Minneapolis",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Inklab Tattoo Artist\nSTUDIO\nMinneapolis, Minnesota, United States\n1.64k\nAdd\nMessage\nwatercolor\nillustrative\nnewschool"
+  "updated_at": "2026-03-28",
+  "bio": "Inklab Tattoo Artist\nSTUDIO\nMinneapolis, Minnesota, United States\n1.64k\nAdd\nMessage\nwatercolor\nillustrative\nnewschool\n\nTattoos and Piercings in Uptown Minneapolis since 1995. \n919 W. Lake St. \n(612) 823-2968",
+  "instagram_enriched": {
+    "id": "1516170944",
+    "follower_count": 4057,
+    "following_count": 496,
+    "media_count": 325,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklabmpls/instagram/profile.jpg"
+  }
 }

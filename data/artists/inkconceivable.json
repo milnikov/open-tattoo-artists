@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkconceivable",
-  "name": "Ink Conceivable",
+  "name": "Del Lanhart",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,7 +41,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Step into the artistic realm of Ink Conceivable, a studio renowned since 2004 for mastering the fluid charm of watercolor tattoos and the intricate details of illustrative designs. With a legacy of ink artistry, this studio has been a sanctuary for creativity and self-expression. Although currently closed indefinitely, the memories of vibrancy and the strokes of genius on skin linger, marking an indelible impression on the canvas of the tattoo community.\nPrice: $\nCurrent location:",
-  "tattooing_since": "2004"
+  "updated_at": "2026-03-28",
+  "bio": "Step into the artistic realm of Ink Conceivable, a studio renowned since 2004 for mastering the fluid charm of watercolor tattoos and the intricate details of illustrative designs. With a legacy of ink artistry, this studio has been a sanctuary for creativity and self-expression. Although currently closed indefinitely, the memories of vibrancy and the strokes of genius on skin linger, marking an indelible impression on the canvas of the tattoo community.\nPrice: $\nCurrent location:\n\nTattooing since 2004. Ink Conceivable will be closed indefinitely. Deepest apologies.",
+  "tattooing_since": "2004",
+  "instagram_enriched": {
+    "id": "2252783790",
+    "follower_count": 183,
+    "following_count": 219,
+    "media_count": 186,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkconceivable/instagram/profile.jpg"
+  }
 }

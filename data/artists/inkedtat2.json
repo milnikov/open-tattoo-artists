@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkedtat2",
-  "name": "Matthew Atkinson",
+  "name": "Inked Tattoo studio",
   "location": {
     "city": "Gosport",
     "country": "United Kingdom"
@@ -437,6 +437,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Welcome to Matthew Atkinson's Custom Tattoo Studio in Gosport, United Kingdom, where artistry meets tradition. Delve into the realms of illustrative and traditional tattoos as our skilled artisans design your personal masterpieces. Immerse yourself in a creative sanctuary where each ink tells a story and every client becomes part of our studio's ever-growing tapestry.\nPrice: $\nCurrent location: Gosport, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Matthew Atkinson's Custom Tattoo Studio in Gosport, United Kingdom, where artistry meets tradition. Delve into the realms of illustrative and traditional tattoos as our skilled artisans design your personal masterpieces. Immerse yourself in a creative sanctuary where each ink tells a story and every client becomes part of our studio's ever-growing tapestry.\nPrice: $\nCurrent location: Gosport, England, United Kingdom\n\nCustom tattoo studio in Gosport\nMatthew Atkinson",
+  "instagram_enriched": {
+    "id": "20082806",
+    "follower_count": 927,
+    "following_count": 533,
+    "media_count": 233,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkedtat2/instagram/profile.jpg"
+  }
 }

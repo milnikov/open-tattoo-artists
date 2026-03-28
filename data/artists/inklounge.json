@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inklounge",
-  "name": "Inklounge",
+  "name": "Inklounge Tattoos",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Inklounge is a sophisticated tattoo studio nestled in the heart of Central London that expertly specializes in black and gray realism. Known for welcoming both resident and guest artists, they urge tattoo enthusiasts to either walk in from Monday to Saturday or to reserve an appointment via phone or email. The studio's inclusive and relaxed environment creates a unique experience that mixes the richness of art with the charm of London.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Inklounge is a sophisticated tattoo studio nestled in the heart of Central London that expertly specializes in black and gray realism. Known for welcoming both resident and guest artists, they urge tattoo enthusiasts to either walk in from Monday to Saturday or to reserve an appointment via phone or email. The studio's inclusive and relaxed environment creates a unique experience that mixes the richness of art with the charm of London.\nPrice: $$\nCurrent location:\n\n.",
+  "instagram_enriched": {
+    "id": "11469463",
+    "follower_count": 17824,
+    "following_count": 3200,
+    "media_count": 2009,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inklounge/instagram/profile.jpg"
+  }
 }

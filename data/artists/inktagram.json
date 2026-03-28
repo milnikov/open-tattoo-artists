@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inktagram",
-  "name": "Smith Ink",
+  "name": "John Smith | Tattoo Artist",
   "location": {
     "city": "Cardiff",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Smith Ink is an exceptionally talented tattoo artist specializing in black and grey realism, a testament to his superior skill level. Currently, he lends his exquisite talents to clients at 'The Raven and The Wolves' studio located in Cardiff, United Kingdom, having previously done stunning work in Long Beach, California. You can reach him for bookings through Smithinkbooking@gmail.com.\nPrice: $$\nCurrent location: Cardiff, Wales, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Smith Ink is an exceptionally talented tattoo artist specializing in black and grey realism, a testament to his superior skill level. Currently, he lends his exquisite talents to clients at 'The Raven and The Wolves' studio located in Cardiff, United Kingdom, having previously done stunning work in Long Beach, California. You can reach him for bookings through Smithinkbooking@gmail.com.\nPrice: $$\nCurrent location: Cardiff, Wales, United Kingdom\n\n🏴󠁧󠁢󠁷󠁬󠁳󠁿🇺🇸\nBlack & Grey Realism\nLondon | Los Angeles | Cardiff\nContact for booking",
+  "instagram_enriched": {
+    "id": "22380436",
+    "follower_count": 29204,
+    "following_count": 753,
+    "media_count": 378,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inktagram/instagram/profile.jpg"
+  }
 }

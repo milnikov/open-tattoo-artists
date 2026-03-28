@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkfluence",
-  "name": "Inkfluence tattoo artist",
+  "name": "Inkfluence Tattoo",
   "location": {
     "city": "Lubbock",
     "country": "United States"
@@ -402,6 +402,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-18",
-  "bio": "Inkfluence tattoo artist\nSTUDIO\nLubbock, Texas, United States\n3.82k\nAdd\nMessage\njapanese\ntraditional\nillustrative"
+  "updated_at": "2026-03-28",
+  "bio": "Inkfluence tattoo artist\nSTUDIO\nLubbock, Texas, United States\n3.82k\nAdd\nMessage\njapanese\ntraditional\nillustrative\n\nLubbock's oldest tattoo shop\nEstablished 1995 \n10am-6pm Tuesday-Saturday\nNO DM’S",
+  "instagram_enriched": {
+    "id": "191465146",
+    "follower_count": 4822,
+    "following_count": 168,
+    "media_count": 260,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkfluence/instagram/profile.jpg"
+  }
 }

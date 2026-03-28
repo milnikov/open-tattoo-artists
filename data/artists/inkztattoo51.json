@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "inkztattoo51",
-  "name": "Ronald Bennett",
+  "name": "ronald Bennett",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,6 +41,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Ronald Bennett is a tattoo artist who excels in the unique 'trashpolka' and delicate 'floral' styles, combining bold graphics with intricate details to create striking body art. Renowned for their exceptional skill level, Ronald's precision and creativity set them apart, ensuring each tattoo is a masterpiece tailored to the client's vision. Clients leave his studio not only with a piece of art but with the feeling that an artist of true calibre has transformed their ideas into ink.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Ronald Bennett is a tattoo artist who excels in the unique 'trashpolka' and delicate 'floral' styles, combining bold graphics with intricate details to create striking body art. Renowned for their exceptional skill level, Ronald's precision and creativity set them apart, ensuring each tattoo is a masterpiece tailored to the client's vision. Clients leave his studio not only with a piece of art but with the feeling that an artist of true calibre has transformed their ideas into ink.\nPrice: $\nCurrent location:\n\nTattoo artist",
+  "instagram_enriched": {
+    "id": "8595621341",
+    "follower_count": 1290,
+    "following_count": 2548,
+    "media_count": 157,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/inkztattoo51/instagram/profile.jpg"
+  }
 }
