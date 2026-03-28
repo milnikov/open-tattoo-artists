@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "max__tattoos",
-  "name": "Max Tattoos",
+  "name": "Black Pain",
   "location": {
     "city": "Schwarzach Im Pongau",
     "country": "Austria"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Max Tattoos is heralded for his exceptional professionalism in the industry. Since 1999, Max has been mastering the art of black & gray tattoos, with his studio nestled in the scenic Schwarzach im Pongau, Austria. Clients routinely note the impeccable standards of service they receive, ensuring each visit is as memorable as the artwork they leave with.\nPrice: $\nCurrent location: Schwarzach Im Pongau, Salzburg, Austria",
-  "tattooing_since": "1999"
+  "updated_at": "2026-03-28",
+  "bio": "Max Tattoos is heralded for his exceptional professionalism in the industry. Since 1999, Max has been mastering the art of black & gray tattoos, with his studio nestled in the scenic Schwarzach im Pongau, Austria. Clients routinely note the impeccable standards of service they receive, ensuring each visit is as memorable as the artwork they leave with.\nPrice: $\nCurrent location: Schwarzach Im Pongau, Salzburg, Austria\n\n📩 max@max-tattoos.com\n📞 0664 53 08 2222\n☠️since 1999",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "9174172074",
+    "follower_count": 760,
+    "following_count": 433,
+    "media_count": 292,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/max__tattoos/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "mautantattoo",
-  "name": "Mautan",
+  "name": "Maurizio Tangaro",
   "location": {
     "city": "Bitonto",
     "country": "Italy"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "🌐 Fondatore della @mautantattoofamily \n🇮🇹 Tatuatore professionista italiano\n🖊️ Realistico/Black&Grey ~ Chicano",
+  "instagram_enriched": {
+    "id": "414794407",
+    "follower_count": 13940,
+    "following_count": 3171,
+    "media_count": 781,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/mautantattoo/instagram/profile.jpg"
+  }
 }

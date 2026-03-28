@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxbraintattoo",
-  "name": "Max Brain",
+  "name": "Max Brain Tattoo",
   "location": {
     "city": "Varese",
     "country": "Italy"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25",
-  "bio": "Max Brain is a highly skilled tattoo artist based in Varese, Italy, boasting 15 years of experience in the 'traditional' style. His work is indicative of his philosophy, 'Ancient as Time - Modern as Tomorrow,' reflecting an adept combination of classic concepts with contemporary interpretations. With additional pursuits in painting and building, Max's artistry proves his rich, well-rounded experience in his craft.\nPrice: $$\nCurrent location: Varese, Lombardy, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Max Brain is a highly skilled tattoo artist based in Varese, Italy, boasting 15 years of experience in the 'traditional' style. His work is indicative of his philosophy, 'Ancient as Time - Modern as Tomorrow,' reflecting an adept combination of classic concepts with contemporary interpretations. With additional pursuits in painting and building, Max's artistry proves his rich, well-rounded experience in his craft.\nPrice: $$\nCurrent location: Varese, Lombardy, Italy\n\n🇮🇹 17 years of tattoo experience @colorsvarese  \nAncient as Time - Modern as Tomorrow \nPaintings @maxbrainanemoia  \nI build stuff @braindevices",
+  "instagram_enriched": {
+    "id": "54718674",
+    "follower_count": 28908,
+    "following_count": 1850,
+    "media_count": 1803,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxbraintattoo/instagram/profile.jpg"
+  }
 }

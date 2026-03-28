@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "max_fiolet",
-  "name": "Max Fiolet",
+  "name": "tattoo artist Berlin",
   "location": {
     "city": "Lviv",
     "country": "Ukraine"
@@ -606,5 +606,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Max Fiolet \nTattoo artist from Ukraine \nResident at @iragana.studio \nBlack tattoos @fiolet_ink",
+  "instagram_enriched": {
+    "id": "5470588905",
+    "follower_count": 10709,
+    "following_count": 310,
+    "media_count": 804,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/max_fiolet/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maureindolff",
-  "name": "Mauricio Reindolff",
+  "name": "Reindolff",
   "location": {
     "city": "Santa Maria",
     "country": "Brazil"
@@ -618,5 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "🏴‍☠️🇧🇷🏁\n*agendamento e orçamento*\nApenas instagram ou email. 😉\nSTUDIO PRIVADO.\n🎨 ReinDoLFFTattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "800853958",
+    "follower_count": 3158,
+    "following_count": 479,
+    "media_count": 357,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maureindolff/instagram/profile.jpg"
+  }
 }

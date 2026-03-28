@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "maxinfernoink",
-  "name": "Max Infernoink",
+  "name": "Max Galaverna Secondo Profilo",
   "location": {
     "city": "Galliate",
     "country": "Italy"
@@ -617,5 +617,13 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "instagram_enriched": {
+    "id": "61558968530",
+    "follower_count": 1,
+    "following_count": 2,
+    "media_count": 0,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/maxinfernoink/instagram/profile.jpg"
+  }
 }

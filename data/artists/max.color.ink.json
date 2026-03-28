@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "max.color.ink",
-  "name": "MaxC ink",
+  "name": "Max Color Ink | Tattoo & PMU Alberta",
   "location": {
     "city": "Sturgeon County",
     "country": "Canada"
@@ -619,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-25"
+  "updated_at": "2026-03-28",
+  "bio": "Tattoo • Piercing • Permanent makeup   St.Albert and Edmonton area  • AB\nBook via website 👇",
+  "instagram_enriched": {
+    "id": "661646217",
+    "follower_count": 7686,
+    "following_count": 5001,
+    "media_count": 4633,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/max.color.ink/instagram/profile.jpg"
+  }
 }
