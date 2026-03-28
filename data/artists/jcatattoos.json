@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "jcatattoos",
-  "name": "Jca Andraschko",
+  "name": "JcaTattoo",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,6 +42,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-19",
-  "bio": "Jca Andraschko is a remarkably skilled tattoo artist specializing in sketch, fineline, and dotwork styles. With a unique background as a former makeup artist and fashion photographer, Jca brings a keen eye for detail and aesthetics to each tattoo creation. Clients praise the cleanliness of their workspace and their commitment to maintaining the highest standards of hygiene in their practice.\nPrice: $\nCurrent location:"
+  "updated_at": "2026-03-28",
+  "bio": "Jca Andraschko is a remarkably skilled tattoo artist specializing in sketch, fineline, and dotwork styles. With a unique background as a former makeup artist and fashion photographer, Jca brings a keen eye for detail and aesthetics to each tattoo creation. Clients praise the cleanliness of their workspace and their commitment to maintaining the highest standards of hygiene in their practice.\nPrice: $\nCurrent location:\n\nFormer make-up artist and fashion photographer, become a tattoo artist.I can fix stupid but it’s gonna Hurt #tattoos #tattoosofinstagram",
+  "instagram_enriched": {
+    "id": "6360803272",
+    "follower_count": 2805,
+    "following_count": 5458,
+    "media_count": 528,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/jcatattoos/instagram/profile.jpg"
+  }
 }
