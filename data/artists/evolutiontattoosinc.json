@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "evolutiontattoosinc",
-  "name": "Evolution Tattoos Inc",
+  "name": "Evolution Tattoos Inc.",
   "location": {
     "city": "Chicago Ridge",
     "country": "United States"
@@ -114,6 +114,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Welcome to Evolution Tattoos Inc, your premier ink destination nestled in the heart of Chicago Ridge, where artistry meets precision. Specializing in realism, illustrative work, and masterful lettering, our studio offers a unique fusion of modern creativity and timeless technique brought to life in a welcoming, hygienic environment. Join us to evolve your personal expression through exceptional tattoo artistry.\nPrice: $\nCurrent location: Chicago Ridge, Illinois, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Evolution Tattoos Inc, your premier ink destination nestled in the heart of Chicago Ridge, where artistry meets precision. Specializing in realism, illustrative work, and masterful lettering, our studio offers a unique fusion of modern creativity and timeless technique brought to life in a welcoming, hygienic environment. Join us to evolve your personal expression through exceptional tattoo artistry.\nPrice: $\nCurrent location: Chicago Ridge, Illinois, United States",
+  "instagram_enriched": {
+    "id": "20279481463",
+    "follower_count": 102,
+    "following_count": 718,
+    "media_count": 81,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evolutiontattoosinc/instagram/profile.jpg"
+  }
 }

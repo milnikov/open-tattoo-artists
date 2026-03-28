@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fantastic_art.tattoo",
-  "name": "Fantastic Art Tattoo",
+  "name": "FANTASTIC ART TATTOO",
   "location": {
     "city": "Ottersberg",
     "country": "Germany"
@@ -509,6 +509,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "At Fantastic Art Tattoo in Ottersberg, Germany, clients are consistently impressed by the artist's exemplary professionalism. Specializing in floral and black & gray designs, each piece is executed with a meticulous attention to detail, ensuring that clients leave with not only a work of art but also an experience that sets the standard for tattoo excellence. The studio's commitment to professionalism is evident in every aspect of the operation, from the initial consultation to the aftercare advice.\nPrice: $\nCurrent location: Ottersberg, Lower-saxony, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "At Fantastic Art Tattoo in Ottersberg, Germany, clients are consistently impressed by the artist's exemplary professionalism. Specializing in floral and black & gray designs, each piece is executed with a meticulous attention to detail, ensuring that clients leave with not only a work of art but also an experience that sets the standard for tattoo excellence. The studio's commitment to professionalism is evident in every aspect of the operation, from the initial consultation to the aftercare advice.\nPrice: $\nCurrent location: Ottersberg, Lower-saxony, Germany",
+  "instagram_enriched": {
+    "id": "2865135556",
+    "follower_count": 318,
+    "following_count": 52,
+    "media_count": 70,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fantastic_art.tattoo/instagram/profile.jpg"
+  }
 }

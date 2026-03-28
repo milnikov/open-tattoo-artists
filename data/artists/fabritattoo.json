@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabritattoo",
-  "name": "Fabri Tattoo",
+  "name": "FABRI TATTOO SHOP",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Fabri Tattoo is a highly skilled tattoo artist based in Barcelona, Spain. Specializing in black and gray styles, their work showcases immense precision and depth. Their dedication to cleanliness and professionalism is evident in every piece of art they create.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Fabri Tattoo is a highly skilled tattoo artist based in Barcelona, Spain. Specializing in black and gray styles, their work showcases immense precision and depth. Their dedication to cleanliness and professionalism is evident in every piece of art they create.\nPrice: $$\nCurrent location: Barcelona, Catalonia, Spain\n\nBarcelona, Spain.\nFor appointment DM or   \nWhatsApp +34 677828799",
+  "instagram_enriched": {
+    "id": "4944766",
+    "follower_count": 10727,
+    "following_count": 1888,
+    "media_count": 1155,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabritattoo/instagram/profile.jpg"
+  }
 }

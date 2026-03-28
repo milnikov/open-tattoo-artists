@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "encipen",
-  "name": "Encipen",
+  "name": "encipen",
   "location": {
     "city": "Filderstadt",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Encipen is a highly skilled tattoo artist based in Filderstadt, Germany, known for their mastery in floral, dotwork, and watercolor styles. They bring a unique artistic touch to each design at the Royal Rat Tattoo studio, ensuring every piece is a personalized work of art. Clients praise Encipen for their attention to detail and the impeccable quality of their tattoos.\nPrice: $\nCurrent location: Filderstadt, Baden-wurttemberg, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Encipen is a highly skilled tattoo artist based in Filderstadt, Germany, known for their mastery in floral, dotwork, and watercolor styles. They bring a unique artistic touch to each design at the Royal Rat Tattoo studio, ensuring every piece is a personalized work of art. Clients praise Encipen for their attention to detail and the impeccable quality of their tattoos.\nPrice: $\nCurrent location: Filderstadt, Baden-wurttemberg, Germany\n\n🇩🇪🇭🇺\nTattoo artist @royalrattattoo 👑🐀\n📩 Info and bookings: royalrat@esslingen-tattoo.de",
+  "instagram_enriched": {
+    "id": "439805166",
+    "follower_count": 3310,
+    "following_count": 568,
+    "media_count": 431,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/encipen/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "elkeros",
-  "name": "Keros",
+  "name": "keros",
   "location": {
     "city": "Burgos",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Keros is a highly skilled tattoo artist with a penchant for crafting masterpieces in newschool, neotraditional, and illustrative styles. Based in Burgos, Spain, they share their remarkable talents at both Malrato Tattoo and Blessed Art Tattoo, leaving a trail of outstanding artwork on the skin of their clientele. Keros's work demonstrates a deep understanding of tattoo artistry, with each design reflecting a perfect blend of color, creativity, and technical precision.\nPrice: $$\nCurrent location: Burgos, Castilla And Leon, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Keros is a highly skilled tattoo artist with a penchant for crafting masterpieces in newschool, neotraditional, and illustrative styles. Based in Burgos, Spain, they share their remarkable talents at both Malrato Tattoo and Blessed Art Tattoo, leaving a trail of outstanding artwork on the skin of their clientele. Keros's work demonstrates a deep understanding of tattoo artistry, with each design reflecting a perfect blend of color, creativity, and technical precision.\nPrice: $$\nCurrent location: Burgos, Castilla And Leon, Spain\n\nTatuador en @malrato_tattoo (Burgos) \ny en @blessedartattoo (Madrid, Aranjuez)",
+  "instagram_enriched": {
+    "id": "1049393388",
+    "follower_count": 7358,
+    "following_count": 1286,
+    "media_count": 150,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/elkeros/instagram/profile.jpg"
+  }
 }

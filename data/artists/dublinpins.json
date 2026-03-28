@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dublinpins",
-  "name": "Pins N Needles Dublin",
+  "name": "Pins N Needles Tattoo Dublin",
   "location": {
     "city": "Dublin",
     "country": "Ireland"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Welcome to Pins N Needles Dublin, a distinguished tattoo studio nestled in the heart of Dublin, Ireland, where creativity meets precision. Our talented resident artists, including @tattoosbycj, @javi_alto, and the promising junior artist @niamhmrsytattoo, specialize in stunning dotwork, evocative sketch art, and dramatic black & gray designs. Step into our sanctuary of ink where artistic vision is transformed into indelible memories on skin.\nPrice: $\nCurrent location: Dublin, Ireland"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Pins N Needles Dublin, a distinguished tattoo studio nestled in the heart of Dublin, Ireland, where creativity meets precision. Our talented resident artists, including @tattoosbycj, @javi_alto, and the promising junior artist @niamhmrsytattoo, specialize in stunning dotwork, evocative sketch art, and dramatic black & gray designs. Step into our sanctuary of ink where artistic vision is transformed into indelible memories on skin.\nPrice: $\nCurrent location: Dublin, Ireland\n\nOne of Dublin’s most established studios\n Resident Artists:\n@tattoosbycj\n@felipecampostattoos \nGuests:\n@greg_tattoo_panda",
+  "instagram_enriched": {
+    "id": "1509246523",
+    "follower_count": 7195,
+    "following_count": 60,
+    "media_count": 881,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dublinpins/instagram/profile.jpg"
+  }
 }

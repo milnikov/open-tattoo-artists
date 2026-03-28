@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "electra_tattoo_company",
-  "name": "Electra Tattoo Company",
+  "name": "Electra Tattoo",
   "location": {
     "city": "Newport Pagnell",
     "country": "United Kingdom"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Welcome to Electra Tattoo Company, a vibrant haven nestled in the heart of Newport Pagnell, United Kingdom, where the artistry of floral tattoos blossoms to life. Our talented team, including renowned artists Mark Chadwick, C. Knight, Hannah Fisher, and piercing expert Sophie, ensures each design is as unique and elegant as the flowers that inspire us. Step into our studio and let your skin bloom with the beauty of nature's own artistry.\nPrice: $\nCurrent location: Newport Pagnell, England, United Kingdom"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Electra Tattoo Company, a vibrant haven nestled in the heart of Newport Pagnell, United Kingdom, where the artistry of floral tattoos blossoms to life. Our talented team, including renowned artists Mark Chadwick, C. Knight, Hannah Fisher, and piercing expert Sophie, ensures each design is as unique and elegant as the flowers that inspire us. Step into our studio and let your skin bloom with the beauty of nature's own artistry.\nPrice: $\nCurrent location: Newport Pagnell, England, United Kingdom\n\n@mark_chadwick_tattoo @c.knight_tattoo @hannahfisher_tattoo @rach.hell.tattoo @laurenalicetattoo",
+  "instagram_enriched": {
+    "id": "29441784213",
+    "follower_count": 3371,
+    "following_count": 139,
+    "media_count": 445,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/electra_tattoo_company/instagram/profile.jpg"
+  }
 }

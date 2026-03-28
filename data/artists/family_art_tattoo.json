@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "family_art_tattoo",
-  "name": "Family Art Tattoo",
+  "name": "FAMILY ART TATTOO",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Family Art Tattoo\nSTUDIO\nBarcelona, Catalonia, Spain\n70.3k\nAdd\nMessage\nnewschool\nneotraditional\nblack&gray"
+  "updated_at": "2026-03-28",
+  "bio": "Family Art Tattoo\nSTUDIO\nBarcelona, Catalonia, Spain\n70.3k\nAdd\nMessage\nnewschool\nneotraditional\nblack&gray\n\nEstudio situado en el centro de Barcelona con una larga trayectoria en el sector del tatuaje, piercing y microblading.",
+  "instagram_enriched": {
+    "id": "388060871",
+    "follower_count": 70336,
+    "following_count": 1833,
+    "media_count": 5515,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/family_art_tattoo/instagram/profile.jpg"
+  }
 }

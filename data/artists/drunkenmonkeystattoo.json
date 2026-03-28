@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "drunkenmonkeystattoo",
-  "name": "Drunken Monkey",
+  "name": "Drunken Monkey‘s Tattoo Studio",
   "location": {
     "city": "Aschaffenburg",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Drunken Monkey is a tattoo artist in Aschaffenburg, Germany, renowned for mastery in black & gray, geometric, and floral designs. Known for maintaining an impeccable standard of cleanliness, clients can expect a hygienic environment that ensures their safety and comfort throughout the tattooing process. Drunken Monkey's dedication to a clean workspace reflects their overall professionalism, making them a standout artist in the region.\nPrice: $$\nCurrent location: Aschaffenburg, Bavaria, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Drunken Monkey is a tattoo artist in Aschaffenburg, Germany, renowned for mastery in black & gray, geometric, and floral designs. Known for maintaining an impeccable standard of cleanliness, clients can expect a hygienic environment that ensures their safety and comfort throughout the tattooing process. Drunken Monkey's dedication to a clean workspace reflects their overall professionalism, making them a standout artist in the region.\nPrice: $$\nCurrent location: Aschaffenburg, Bavaria, Germany\n\nCurrently at the shop:\n@haze_obscuria @sarah.jane.monkey @danilow.tattoo @kat_babai @siiatatts",
+  "instagram_enriched": {
+    "id": "8093088357",
+    "follower_count": 9453,
+    "following_count": 324,
+    "media_count": 67,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/drunkenmonkeystattoo/instagram/profile.jpg"
+  }
 }

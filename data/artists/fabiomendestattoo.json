@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabiomendestattoo",
-  "name": "Fabio Mendes",
+  "name": "Melhores Plataformas",
   "location": {
     "city": "Sao Paulo",
     "country": "Brazil"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Fabio Mendes is a highly skilled tattoo artist based in Planalto Paulista, São Paulo. Specializing in minimalist, lettering, and floral styles, he has been honing his craft since 2011, always leaving his clients satisfied with his stunning work.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil",
-  "tattooing_since": "2011"
+  "updated_at": "2026-03-28",
+  "bio": "Fabio Mendes is a highly skilled tattoo artist based in Planalto Paulista, São Paulo. Specializing in minimalist, lettering, and floral styles, he has been honing his craft since 2011, always leaving his clients satisfied with his stunning work.\nPrice: $$\nCurrent location: Sao Paulo, Sao Paulo, Brazil\n\n🎰Postando sempre as melhores plataformas\n💰 Horários pagantes no perfil",
+  "tattooing_since": "2011",
+  "instagram_enriched": {
+    "id": "1407442889",
+    "follower_count": 15051,
+    "following_count": 2121,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabiomendestattoo/instagram/profile.jpg"
+  }
 }

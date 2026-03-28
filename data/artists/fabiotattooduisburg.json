@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabiotattooduisburg",
-  "name": "Fabio Tattoo",
+  "name": "Fabio Tattooer",
   "location": {
     "city": "Duisburg",
     "country": "Germany"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Specializing in intricate floral designs, Fabio Tattoo has established himself as a masterful tattoo artist in Duisburg, Germany. Since 2015, clients have flocked to his studio at Krummenhakstr.8 for stunning body art that captures the delicate details of nature. Renowned for his exceptional skill level, Fabio continues to elevate the art of tattooing with his breathtaking and meticulously crafted creations.\nPrice: $\nCurrent location: Duisburg, North-rhine-westphalia, Germany",
-  "tattooing_since": "2015"
+  "updated_at": "2026-03-28",
+  "bio": "Specializing in intricate floral designs, Fabio Tattoo has established himself as a masterful tattoo artist in Duisburg, Germany. Since 2015, clients have flocked to his studio at Krummenhakstr.8 for stunning body art that captures the delicate details of nature. Renowned for his exceptional skill level, Fabio continues to elevate the art of tattooing with his breathtaking and meticulously crafted creations.\nPrice: $\nCurrent location: Duisburg, North-rhine-westphalia, Germany\n\nOwner: @egt_tattoo_studio \n📍Krummenhakstr.8, 47053 Duisburg\nDesigner @artfusion.gallery.duisburg \nCreator @svdu2020",
+  "tattooing_since": "2015",
+  "instagram_enriched": {
+    "id": "1339469884",
+    "follower_count": 1323,
+    "following_count": 1128,
+    "media_count": 963,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabiotattooduisburg/instagram/profile.jpg"
+  }
 }

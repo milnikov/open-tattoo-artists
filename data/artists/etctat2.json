@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "etctat2",
-  "name": "Embrace The Chaos (ETC)",
+  "name": "Embrace The Chaos",
   "location": {
     "city": "Waco",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Welcome to Embrace The Chaos (ETC), a veteran-owned tattoo studio nestled in the heart of Waco, Texas. Specializing in captivating black & gray, vibrant watercolor, and intricate illustrative tattoos, we provide a unique canvas for your self-expression. Step into our exclusive tattoo-only studio where creativity thrives amidst order and serenity.\nPrice: $\nCurrent location: Waco, Texas, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Welcome to Embrace The Chaos (ETC), a veteran-owned tattoo studio nestled in the heart of Waco, Texas. Specializing in captivating black & gray, vibrant watercolor, and intricate illustrative tattoos, we provide a unique canvas for your self-expression. Step into our exclusive tattoo-only studio where creativity thrives amidst order and serenity.\nPrice: $\nCurrent location: Waco, Texas, United States\n\nVeteran owned Tattoo Studio in Waco, Texas \n*Tattoo ONLY Studio - We do not offer piercings*",
+  "instagram_enriched": {
+    "id": "9234237569",
+    "follower_count": 3767,
+    "following_count": 290,
+    "media_count": 697,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/etctat2/instagram/profile.jpg"
+  }
 }

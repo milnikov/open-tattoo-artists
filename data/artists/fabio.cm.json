@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabio.cm",
-  "name": "Fabio CM",
+  "name": "FABIO CM",
   "location": {
     "city": "Verona",
     "country": "Italy"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Fabio CM is an accomplished tattoo artist based in Verona, Italy, specializing in black and gray style. Since 2012, he has been offering custom tattooing at his clean, professional establishment, CM Ink Tattoo Studio. His courteous and friendly nature ensures a comforting environment for his clients.\nPrice: $$\nCurrent location: Verona, Veneto, Italy",
-  "tattooing_since": "2012"
+  "updated_at": "2026-03-28",
+  "bio": "Fabio CM is an accomplished tattoo artist based in Verona, Italy, specializing in black and gray style. Since 2012, he has been offering custom tattooing at his clean, professional establishment, CM Ink Tattoo Studio. His courteous and friendly nature ensures a comforting environment for his clients.\nPrice: $$\nCurrent location: Verona, Veneto, Italy\n\nCUSTOM TATTOOS SINCE 2012\n@cm.inktattoostudio Est. 2018 VR\n✰ ✰ ✰ ✰ ✰ ✰ ✰\n📞 +39 342 922 0892",
+  "tattooing_since": "2012",
+  "instagram_enriched": {
+    "id": "268451205",
+    "follower_count": 10441,
+    "following_count": 490,
+    "media_count": 2882,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabio.cm/instagram/profile.jpg"
+  }
 }

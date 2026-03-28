@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "evilfromtheneedle",
-  "name": "Evil From the Needle",
+  "name": "Evilfromtheneedle",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "\"Evil From the Needle\" is a revered and long-standing tattoo studio in London, United Kingdom, renowned for its execution in traditional, geometric, and dotwork styles. Established in 1986, this Camden-originated parlor provides over three decades of superior tattoo artistry, cementing its reputation as an iconic institution in the tattoo culture."
+  "updated_at": "2026-03-28",
+  "bio": "\"Evil From the Needle\" is a revered and long-standing tattoo studio in London, United Kingdom, renowned for its execution in traditional, geometric, and dotwork styles. Established in 1986, this Camden-originated parlor provides over three decades of superior tattoo artistry, cementing its reputation as an iconic institution in the tattoo culture.",
+  "instagram_enriched": {
+    "id": "12618710",
+    "follower_count": 9197,
+    "following_count": 2017,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/evilfromtheneedle/instagram/profile.jpg"
+  }
 }

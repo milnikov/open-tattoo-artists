@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "el_whyner",
-  "name": "El Whyner",
+  "name": "el_whyner",
   "location": {
     "city": "Rome",
     "country": "Italy"
@@ -616,6 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "El Whyner is a highly skilled tattoo artist based in Rome, Italy, specializing in the intricate and timeless black & gray style. Known for his unique approach and dedication to his craft, his work reflects his unconventional journey of \"bouncing through time zones\". His artistry reveals exceptional precision and detail, firmly entrenching El Whyner as a leading figure in the tattoo industry.\nPrice: $$\nCurrent location: Rome, Latium, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "El Whyner is a highly skilled tattoo artist based in Rome, Italy, specializing in the intricate and timeless black & gray style. Known for his unique approach and dedication to his craft, his work reflects his unconventional journey of \"bouncing through time zones\". His artistry reveals exceptional precision and detail, firmly entrenching El Whyner as a leading figure in the tattoo industry.\nPrice: $$\nCurrent location: Rome, Latium, Italy\n\nOwner of XOLO COFFEE @xolocoffee \nI bounce through time zones.\n2428 N 16th st\nPhoenix Az 85006 \nHustle Butter Pro Team Artist",
+  "instagram_enriched": {
+    "id": "19569761",
+    "follower_count": 39267,
+    "following_count": 4022,
+    "media_count": 3821,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/el_whyner/instagram/profile.jpg"
+  }
 }

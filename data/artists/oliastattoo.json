@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "oliastattoo",
+  "name": "Olia Shykunova",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/oliastattoo",
+    "instagram": "https://www.instagram.com/oliastattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliastattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliastattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliastattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oliastattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Olia Shykunova is an incredibly talented tattoo artist, specializing in minimalist, lettering, and floral styles. Her commendable skills are reflected in her beautiful and intricate artwork, and she is popular among clients for her detailed and gentle touch, engaging with her work passionately without causing any significant pain.\nPrice: $$\nCurrent location:"
+}

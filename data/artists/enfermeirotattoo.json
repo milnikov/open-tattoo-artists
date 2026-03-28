@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "enfermeirotattoo",
-  "name": "Enfermeiro Tattoo",
+  "name": "Tatuagens Artísticas",
   "location": {
     "city": "Feira De Santana",
     "country": "Brazil"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Enfermeiro Tattoo, an acclaimed artist located in Feira de Santana, Brazil, specializes in the intricate styles of black & gray, tribal, and realism tattoos. Renowned in the industry, this artist has received numerous awards for outstanding work and served as a jury member at various tattoo conventions, proving their high level of skill and expertise.\nPrice: $$\nCurrent location: Feira De Santana, Bahia, Brazil"
+  "updated_at": "2026-03-28",
+  "bio": "Enfermeiro Tattoo, an acclaimed artist located in Feira de Santana, Brazil, specializes in the intricate styles of black & gray, tribal, and realism tattoos. Renowned in the industry, this artist has received numerous awards for outstanding work and served as a jury member at various tattoo conventions, proving their high level of skill and expertise.\nPrice: $$\nCurrent location: Feira De Santana, Bahia, Brazil\n\n⚜️ Tatuador referência\n🏆Artista com grandes premiações\n🎖Júri em convenções \n Para informações de cursos e procedimentos ⬇️",
+  "instagram_enriched": {
+    "id": "543363339",
+    "follower_count": 37837,
+    "following_count": 3129,
+    "media_count": 467,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/enfermeirotattoo/instagram/profile.jpg"
+  }
 }

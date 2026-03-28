@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "e.bayala",
-  "name": "Elle Bayala",
+  "name": "ELLE",
   "location": {
     "city": "Dorado",
     "country": "United States"
@@ -244,6 +244,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "Elle Bayala is an exceptionally skilled tattoo artist based in Dorado, Puerto Rico, specializing in the black & gray tattoo style. Having honed her craft at Falso Plano Estudio, her technical prowess is evident in her detailed and precise work. Her immense skill level brings each masterpiece to life, making her a sought-after artist in the black & gray tattoo community.\nPrice: $$\nCurrent location: Dorado, Puerto Rico, Puerto Rico"
+  "updated_at": "2026-03-28",
+  "bio": "Elle Bayala is an exceptionally skilled tattoo artist based in Dorado, Puerto Rico, specializing in the black & gray tattoo style. Having honed her craft at Falso Plano Estudio, her technical prowess is evident in her detailed and precise work. Her immense skill level brings each masterpiece to life, making her a sought-after artist in the black & gray tattoo community.\nPrice: $$\nCurrent location: Dorado, Puerto Rico, Puerto Rico\n\nArtist at @falsoplanoestudio",
+  "instagram_enriched": {
+    "id": "10675402",
+    "follower_count": 17231,
+    "following_count": 1254,
+    "media_count": 185,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/e.bayala/instagram/profile.jpg"
+  }
 }

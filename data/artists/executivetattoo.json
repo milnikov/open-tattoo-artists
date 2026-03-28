@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "executivetattoo",
-  "name": "Executive Tattoo",
+  "name": "The Executive Tattoo Studio",
   "location": {
     "city": "Genoa",
     "country": "Italy"
@@ -619,6 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-14",
-  "bio": "Executive Tattoo\nSTUDIO\nGenoa, Liguria, Italy\n1.56k\nAdd\nMessage\ndotwork\nsketch\nblack&gray\nvegan"
+  "updated_at": "2026-03-28",
+  "bio": "Executive Tattoo\nSTUDIO\nGenoa, Liguria, Italy\n1.56k\nAdd\nMessage\ndotwork\nsketch\nblack&gray\nvegan\n\nTattoo Studio – Genova\nTatuaggi personalizzati\nProdotti vegani & cruelty free\n✍️ Lavoriamo solo su appuntamento\n📩 Scrivici per il tuo progetto",
+  "instagram_enriched": {
+    "id": "16647012973",
+    "follower_count": 2275,
+    "following_count": 1081,
+    "media_count": 432,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/executivetattoo/instagram/profile.jpg"
+  }
 }

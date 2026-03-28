@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "eddygtattoo",
-  "name": "Eddy Herrera",
+  "name": "Eddy Herrera | Tattoo Artist",
   "location": {
     "city": "Fort Worth",
     "country": "United States"
@@ -210,6 +210,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Eddy Herrera, based in Fort Worth, United States, is an exceptional tattoo artist specializing in illustrative, newschool, and realism styles. He maintains an impressive level of cleanliness in his studio, ensuring each tattoo process is safe and hygienic. With utmost professionalism, he always advises to visit his website, @sleepyhollowtattoos, for all tattoo inquiries.\nPrice: $$\nCurrent location: Fort Worth, Texas, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Eddy Herrera, based in Fort Worth, United States, is an exceptional tattoo artist specializing in illustrative, newschool, and realism styles. He maintains an impressive level of cleanliness in his studio, ensuring each tattoo process is safe and hygienic. With utmost professionalism, he always advises to visit his website, @sleepyhollowtattoos, for all tattoo inquiries.\nPrice: $$\nCurrent location: Fort Worth, Texas, United States\n\nArtist | Fort Worth, TX | @darkagetattoostudioftw",
+  "instagram_enriched": {
+    "id": "181893904",
+    "follower_count": 11789,
+    "following_count": 3001,
+    "media_count": 152,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/eddygtattoo/instagram/profile.jpg"
+  }
 }

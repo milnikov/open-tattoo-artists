@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "familiaraniere.tattoo",
-  "name": "Raniere",
+  "name": "Familia Raniere Tattoo",
   "location": {
     "city": "Florianópolis",
     "country": "Brazil"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-15",
-  "bio": "Raniere stands out as a highly skilled tattoo artist specializing in realism, black & gray, and exquisite floral designs. Since 2011, Raniere has been honing their craft in Rio Vermelho's vibrant scene in Florianópolis, Brazil, delivering captivating body art with precision and a keen eye for detail. Their studio is a beacon of artistic expression, where each tattoo showcases a deep commitment to the art form's utmost beauty and intricacy.\nPrice: $\nCurrent location: Florianópolis, Santa Catarina, Brazil",
-  "tattooing_since": "2011"
+  "updated_at": "2026-03-28",
+  "bio": "Raniere stands out as a highly skilled tattoo artist specializing in realism, black & gray, and exquisite floral designs. Since 2011, Raniere has been honing their craft in Rio Vermelho's vibrant scene in Florianópolis, Brazil, delivering captivating body art with precision and a keen eye for detail. Their studio is a beacon of artistic expression, where each tattoo showcases a deep commitment to the art form's utmost beauty and intricacy.\nPrice: $\nCurrent location: Florianópolis, Santa Catarina, Brazil\n\nEstúdio de Tatuagem e Piercing\n🏆Desde 2011\n🇧🇷Rio vermelho - Floripa",
+  "tattooing_since": "2011",
+  "instagram_enriched": {
+    "id": "1929563202",
+    "follower_count": 4059,
+    "following_count": 2259,
+    "media_count": 329,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/familiaraniere.tattoo/instagram/profile.jpg"
+  }
 }

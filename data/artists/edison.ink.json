@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "edison.ink",
-  "name": "Edison",
+  "name": "Edison Tattoo Artist",
   "location": {
     "city": "Reseda",
     "country": "United States"
@@ -426,6 +426,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Edison is a master tattoo artist specializing in dotwork, fineline, and minimalist styles that perfectly cater to the modern ink aficionado. Based in Reseda, Los Angeles, their work at Kustom Kulture Tattoo Studio is renowned for its impeccable cleanliness, ensuring a safe and sterile environment for every client. Look no further than Edison for a tattoo experience that marries intricate design with the highest standards of cleanliness.\nPrice: $\nCurrent location: Reseda, California, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Edison is a master tattoo artist specializing in dotwork, fineline, and minimalist styles that perfectly cater to the modern ink aficionado. Based in Reseda, Los Angeles, their work at Kustom Kulture Tattoo Studio is renowned for its impeccable cleanliness, ensuring a safe and sterile environment for every client. Look no further than Edison for a tattoo experience that marries intricate design with the highest standards of cleanliness.\nPrice: $\nCurrent location: Reseda, California, United States\n\n818-754-7229\nBlack and Grey🖋️\nColor Work🎨\nRealism\n🇬🇹🇲🇽PreHispanico\nBooking Link ⬇️⬇️",
+  "instagram_enriched": {
+    "id": "30126220427",
+    "follower_count": 2801,
+    "following_count": 2348,
+    "media_count": 349,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/edison.ink/instagram/profile.jpg"
+  }
 }

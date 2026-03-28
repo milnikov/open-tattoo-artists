@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "embassytattoo",
-  "name": "Embassy Tattoo",
+  "name": "Embassy Tattoo LLC",
   "location": {
     "city": "Washington",
     "country": "United States"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-12",
-  "bio": "Embassy Tattoo, located in Washington, United States, is a renowned tattoo studio specializing in black & gray, floral, and illustrative designs. With an artistic environment, the studio is passionate about delivering quality artwork, complimented by their friendly and inviting reception for anyone who walks through their doors.\nPrice: $$\nCurrent location: Washington, District Of Columbia, United States"
+  "updated_at": "2026-03-28",
+  "bio": "Embassy Tattoo, located in Washington, United States, is a renowned tattoo studio specializing in black & gray, floral, and illustrative designs. With an artistic environment, the studio is passionate about delivering quality artwork, complimented by their friendly and inviting reception for anyone who walks through their doors.\nPrice: $$\nCurrent location: Washington, District Of Columbia, United States\n\n★  Award Winning Artists★\n★  (202) 733-3846\n★  embassyta2@gmail.com  \n★  Mon-Sat 12pm-10pm, Sun 12pm-8pm",
+  "instagram_enriched": {
+    "id": "2198639147",
+    "follower_count": 38985,
+    "following_count": 3959,
+    "media_count": 1576,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/embassytattoo/instagram/profile.jpg"
+  }
 }
