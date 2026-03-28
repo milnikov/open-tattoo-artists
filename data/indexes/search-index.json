@@ -55,6 +55,11 @@
     "normalized": "*estúdio de tatuagem - conde*"
   },
   {
+    "id": "hdizzletattoo",
+    "name": "*HARVEY CLARK*",
+    "normalized": "*harvey clark*"
+  },
+  {
     "id": "fred_lacurta",
     "name": "*TATTOO*",
     "normalized": "*tattoo*"
@@ -1020,6 +1025,11 @@
     "normalized": "Brainstorm Tattoo"
   },
   {
+    "id": "heffronart",
+    "name": "𝑩𝒓𝒂𝒏𝒅𝒐𝒏 𝑯𝒆𝒇𝒇𝒓𝒐𝒏",
+    "normalized": "Brandon Heffron"
+  },
+  {
     "id": "brennabeetle",
     "name": "𝕭𝖗𝖊𝖓𝖓𝖆 𝕭𝖊𝖊𝖙𝖑𝖊 🗝️✨",
     "normalized": "Brenna Beetle 🗝️✨"
@@ -1115,9 +1125,19 @@
     "normalized": "Carlos Eduardo"
   },
   {
+    "id": "godlikeadog",
+    "name": "𝕮𝖆𝖗𝖑𝖔𝖘 𝕷 𝕲𝖆𝖗𝖟𝖆",
+    "normalized": "Carlos L Garza"
+  },
+  {
     "id": "charl_salazar",
     "name": "𝕮𝖆𝖗𝖑𝖔𝖘 𝕾𝖆𝖑𝖆𝖟𝖆𝖗 🇲🇽",
     "normalized": "Carlos Salazar 🇲🇽"
+  },
+  {
+    "id": "handoftheforge",
+    "name": "ℭ𝔞𝔯𝔬𝔩𝔶𝔫 𝔏𝔢𝔅𝔬𝔲𝔯𝔤𝔢𝔬𝔦𝔰",
+    "normalized": "Carolyn LeBourgeois"
   },
   {
     "id": "randyconner",
@@ -1615,6 +1635,31 @@
     "normalized": "GERI KRAMER"
   },
   {
+    "id": "gingerinkbpcl",
+    "name": "ᴳᴵᴺᴳᴱᴿ ᴵᴺᴷ • tattoo artist •",
+    "normalized": "GINGER INK • tattoo artist •"
+  },
+  {
+    "id": "goldcrosstattoo",
+    "name": "𝗚𝗢𝗟𝗗 𝗖𝗥𝗢𝗦𝗦 𝗧𝗔𝗧𝗧𝗢𝗢",
+    "normalized": "GOLD CROSS TATTOO"
+  },
+  {
+    "id": "goontattoo",
+    "name": "𝐆𝐎𝐎𝐍 𝐓𝐀𝐓𝐓𝐎𝐎",
+    "normalized": "GOON TATTOO"
+  },
+  {
+    "id": "graphikris",
+    "name": "𝐆𝐑𝐀𝐏𝐇𝐈𝐊𝐑𝐈𝐒",
+    "normalized": "GRAPHIKRIS"
+  },
+  {
+    "id": "gregtattooficial",
+    "name": "𝐺𝑅𝐸𝐺•𝑇𝐴𝑇𝑈𝐴𝐷𝑂𝑅",
+    "normalized": "GREG•TATUADOR"
+  },
+  {
     "id": "massimogurnari",
     "name": "𝗚𝗨𝗥𝗡𝗔𝗥𝗜",
     "normalized": "GURNARI"
@@ -1655,14 +1700,59 @@
     "normalized": "Gilchink Tattoo Studio"
   },
   {
+    "id": "giltmothtattoo",
+    "name": "𝕲𝖎𝖑𝖙 𝕸𝖔𝖙𝖍 𝕿𝖆𝖙𝖙𝖔𝖔 | 𝔅𝔢𝔰𝔭𝔬𝔨𝔢 𝔱𝔞𝔱𝔱𝔬𝔬𝔰 𝔞𝔫𝔡 𝔟𝔬𝔡𝔶 𝔭𝔦𝔢𝔯𝔠𝔦𝔫𝔤𝔰",
+    "normalized": "Gilt Moth Tattoo | Bespoke tattoos and body piercings"
+  },
+  {
     "id": "giorgiolandi",
     "name": "𝕲𝖎𝖔𝖗𝖌𝖎𝖔 𝕷𝖆𝖓𝖉𝖎",
     "normalized": "Giorgio Landi"
   },
   {
+    "id": "giorgiolandi_tattooer",
+    "name": "𝕲𝖎𝖔𝖗𝖌𝖎𝖔 𝕷𝖆𝖓𝖉𝖎",
+    "normalized": "Giorgio Landi"
+  },
+  {
+    "id": "giuli.pigna.tattooer",
+    "name": "𝔾𝕚𝕦𝕝𝕚𝕒 ℙ𝕚𝕘𝕟𝕒 ℂ𝕒𝕫𝕫𝕒𝕟𝕚𝕘𝕒",
+    "normalized": "Giulia Pigna Cazzaniga"
+  },
+  {
+    "id": "giuseppe.bettucci",
+    "name": "𝔊𝔦𝔲𝔰𝔢𝔭𝔭𝔢 𝔅𝔢𝔱𝔱𝔲𝔠𝔠𝔦 - 𝔗𝔞𝔱𝔱𝔬𝔬",
+    "normalized": "Giuseppe Bettucci - Tattoo"
+  },
+  {
     "id": "goldie.rock",
     "name": "𝔊𝔬𝔩𝔡𝔦𝔢 ℜ𝔬𝔠𝔨",
     "normalized": "Goldie Rock"
+  },
+  {
+    "id": "green_pearl_tattoo",
+    "name": "𝕲𝖗𝖊𝖊𝖓 𝕻𝖊𝖆𝖗𝖑 𝕿𝖆𝖙𝖙𝖔𝖔",
+    "normalized": "Green Pearl Tattoo"
+  },
+  {
+    "id": "grenouille_is_wandering",
+    "name": "𝕲𝖗𝖊𝖓𝖔𝖚𝖎𝖑𝖑𝖊",
+    "normalized": "Grenouille"
+  },
+  {
+    "id": "groseille_tattoo",
+    "name": "𝔾𝕣𝕠𝕤𝕖𝕚𝕝𝕝𝕖 - 𝕋𝕒𝕥𝕠𝕦𝕖𝕦𝕣 ℝ𝕖𝕚𝕞𝕤",
+    "normalized": "Groseille - Tatoueur Reims"
+  },
+  {
+    "id": "guinmtattoo",
+    "name": "𝔊𝔲𝔦𝔩𝔥𝔢𝔯𝔪𝔢 𝔐𝔞𝔠𝔥𝔞𝔡𝔬",
+    "normalized": "Guilherme Machado"
+  },
+  {
+    "id": "guivirginello",
+    "name": "𝔊𝔲𝔦𝔩𝔥𝔢𝔯𝔪𝔢 𝔙𝔦𝔯𝔤𝔦𝔫𝔢𝔩𝔩𝔬 | Realism Black and Grey Tattoo",
+    "normalized": "Guilherme Virginello | realism black and grey tattoo"
   },
   {
     "id": "gustavo.loretto",
@@ -1675,14 +1765,49 @@
     "normalized": "Gustavo Silvano"
   },
   {
+    "id": "hachetattoo",
+    "name": "𝗛 𝗔 𝗖 𝗛 𝗘",
+    "normalized": "H A C H E"
+  },
+  {
     "id": "hankypankytattooing",
     "name": "𝐇𝐀𝐍𝐊𝐘 𝐏𝐀𝐍𝐊𝐘 𝐓𝐀𝐓𝐓𝐎𝐎",
     "normalized": "HANKY PANKY TATTOO"
   },
   {
+    "id": "harryjamestattoo",
+    "name": "ℍ𝔸ℝℝ𝕐 𝕁𝔸𝕄𝔼𝕊 𝕋𝔸𝕋𝕋𝕆𝕆",
+    "normalized": "HARRY JAMES TATTOO"
+  },
+  {
+    "id": "henri.howard",
+    "name": "𝐇𝐄𝐍𝐑𝐈 𝐇𝐎𝐖𝐀𝐑𝐃",
+    "normalized": "HENRI HOWARD"
+  },
+  {
     "id": "henrihoward",
     "name": "𝐇𝐄𝐍𝐑𝐈 𝐇𝐎𝐖𝐀𝐑𝐃",
     "normalized": "HENRI HOWARD"
+  },
+  {
+    "id": "heptictatz",
+    "name": "𝐇𝐄𝐏𝐓𝐈𝐂",
+    "normalized": "HEPTIC"
+  },
+  {
+    "id": "hakupsychose",
+    "name": "𝑯𝒂𝒌𝒖 𝑷𝒔𝒚𝒄𝒉𝒐𝒔𝒆 - 𝑻𝒐𝒌𝒚𝒐 𝒕𝒂𝒕𝒕𝒐𝒐 𝒂𝒓𝒕𝒊𝒔𝒕 & 𝑺𝒊𝒏𝒈𝒆𝒓",
+    "normalized": "Haku Psychose - Tokyo tattoo artist & Singer"
+  },
+  {
+    "id": "hanaaatattoo",
+    "name": "𝙷𝚊𝚗𝚗𝚊𝚑 𝚆𝚎𝚜𝚝𝚌𝚘𝚝𝚝",
+    "normalized": "Hannah Westcott"
+  },
+  {
+    "id": "haydenthompsontattoo",
+    "name": "ℌ𝔞𝔶𝔡𝔢𝔫🔥",
+    "normalized": "Hayden🔥"
   },
   {
     "id": "heinztattooer",
@@ -1808,6 +1933,11 @@
     "id": "johnnygloom",
     "name": "𝕵𝖔𝖍𝖓𝖓𝖞 𝕲𝖑𝖔𝖔𝖒",
     "normalized": "Johnny Gloom"
+  },
+  {
+    "id": "goretaku",
+    "name": "𝓙𝓸𝓻𝓭𝓪𝓷 𝓛𝓮𝓖𝓸𝓻𝓮",
+    "normalized": "Jordan LeGore"
   },
   {
     "id": "faetattoos",
@@ -2208,6 +2338,11 @@
     "id": "chrisb.tattoos",
     "name": "𝕿𝖍𝖊𝖗𝖊 𝖆𝖗𝖊 𝖙𝖍𝖎𝖓𝖌𝖘 𝖎𝖓 𝕷𝖎𝖋𝖊 𝖙𝖍𝖆𝖙 𝕯𝖊𝖆𝖙𝖍 𝖈𝖆𝖓 𝖓𝖔𝖙 𝖙𝖔𝖚𝖈𝖍.",
     "normalized": "There are things in Life that Death can not touch."
+  },
+  {
+    "id": "gilly_tattoo",
+    "name": "𝕿𝖍𝖔𝖒𝖆𝖘 𝕲𝖎𝖑𝖑𝖎𝖓𝖌𝖍𝖆𝖒",
+    "normalized": "Thomas Gillingham"
   },
   {
     "id": "thomasburkhardt",
@@ -3625,11 +3760,6 @@
     "normalized": "adrian wietecha • traditional tattoo kraków"
   },
   {
-    "id": "grandrapids_ghoul",
-    "name": "Adrian Wisniske",
-    "normalized": "adrian wisniske"
-  },
-  {
     "id": "adrianahallow",
     "name": "Adriana Hallow - NYC Tattoo Artist",
     "normalized": "adriana hallow - nyc tattoo artist"
@@ -5035,6 +5165,11 @@
     "normalized": "alessandro confraría"
   },
   {
+    "id": "goldinktattoo_",
+    "name": "Alessandro Dellino",
+    "normalized": "alessandro dellino"
+  },
+  {
     "id": "alessandrodeluxtattoo",
     "name": "Alessandro Delux tattoo Roma",
     "normalized": "alessandro delux tattoo roma"
@@ -5775,11 +5910,6 @@
     "normalized": "alex wright"
   },
   {
-    "id": "grindhousetattooproductions",
-    "name": "Alex Wright",
-    "normalized": "alex wright"
-  },
-  {
     "id": "alex_young",
     "name": "Alex Young",
     "normalized": "alex young"
@@ -5828,11 +5958,6 @@
     "id": "alexanderdwest",
     "name": "Alexander D. West",
     "normalized": "alexander d. west"
-  },
-  {
-    "id": "gleyzer_tattoo",
-    "name": "Alexander Gleyzer",
-    "normalized": "alexander gleyzer"
   },
   {
     "id": "alexander_grim",
@@ -5993,11 +6118,6 @@
     "id": "_adamchenko_",
     "name": "Alexey Adamchenko",
     "normalized": "alexey adamchenko"
-  },
-  {
-    "id": "gollandets.art",
-    "name": "Alexey Gollandets",
-    "normalized": "alexey gollandets"
   },
   {
     "id": "_mashkow_",
@@ -7800,6 +7920,11 @@
     "normalized": "andrea giulimondi"
   },
   {
+    "id": "graphitandink",
+    "name": "Andrea Howald",
+    "normalized": "andrea howald"
+  },
+  {
     "id": "andrea_kroki",
     "name": "Andrea Kroki | Tattoo Artist",
     "normalized": "andrea kroki | tattoo artist"
@@ -8093,11 +8218,6 @@
     "id": "kealoha_designs",
     "name": "Andrew KeAloha",
     "normalized": "andrew kealoha"
-  },
-  {
-    "id": "heartofgoldtattoo",
-    "name": "Andrew King",
-    "normalized": "andrew king"
   },
   {
     "id": "andrew_lead_",
@@ -8398,11 +8518,6 @@
     "id": "andresilvatattoo",
     "name": "André Silva Tattoo",
     "normalized": "andré silva tattoo"
-  },
-  {
-    "id": "giveuptattooing",
-    "name": "André Svensson",
-    "normalized": "andré svensson"
   },
   {
     "id": "andretattooart",
@@ -9756,7 +9871,7 @@
   },
   {
     "id": "ginger_gypsy_tattoo",
-    "name": "Arkadiusz Kępka",
+    "name": "Arkadiusz Kępka",
     "normalized": "arkadiusz kępka"
   },
   {
@@ -10970,6 +11085,11 @@
     "normalized": "august soler · julien"
   },
   {
+    "id": "gimmelovetattoo",
+    "name": "Augustine Nezumi",
+    "normalized": "augustine nezumi"
+  },
+  {
     "id": "auldinkwell",
     "name": "Auld Inkwell",
     "normalized": "auld inkwell"
@@ -11026,8 +11146,8 @@
   },
   {
     "id": "hausler.tattoos",
-    "name": "Austin Hausler",
-    "normalized": "austin hausler"
+    "name": "Austin Hausler Tattoo Artist",
+    "normalized": "austin hausler tattoo artist"
   },
   {
     "id": "austinjevans",
@@ -11630,6 +11750,11 @@
     "normalized": "bambi"
   },
   {
+    "id": "gray_bambi",
+    "name": "Bambi Tattoo Wrocław",
+    "normalized": "bambi tattoo wrocław"
+  },
+  {
     "id": "bambi_tattoo_art",
     "name": "BAMBI tattoo/art",
     "normalized": "bambi tattoo/art"
@@ -12055,6 +12180,11 @@
     "normalized": "bavariastichtattoo"
   },
   {
+    "id": "henna_by_jinal",
+    "name": "Bay Area Henna Artist | Jinal Parmar",
+    "normalized": "bay area henna artist | jinal parmar"
+  },
+  {
     "id": "bayinktattoo",
     "name": "Bay Ink Tattoo Gallery",
     "normalized": "bay ink tattoo gallery"
@@ -12373,11 +12503,6 @@
     "id": "belladonnahurricane",
     "name": "Belladonna Hurricane",
     "normalized": "belladonna hurricane"
-  },
-  {
-    "id": "handpoked_gelfwai",
-    "name": "Belle",
-    "normalized": "belle"
   },
   {
     "id": "atrixbelle",
@@ -13055,6 +13180,11 @@
     "normalized": "bigowe tattoos"
   },
   {
+    "id": "grizzlytattoo",
+    "name": "BIGTIME Walk-In Tattoo",
+    "normalized": "bigtime walk-in tattoo"
+  },
+  {
     "id": "bigtoons21",
     "name": "Bigtoons21",
     "normalized": "bigtoons21"
@@ -13138,11 +13268,6 @@
     "id": "billingsgatetattoo",
     "name": "Billingsgate Tattoo Studio",
     "normalized": "billingsgate tattoo studio"
-  },
-  {
-    "id": "heronmarktattoo",
-    "name": "Billy",
-    "normalized": "billy"
   },
   {
     "id": "billybeanstattoos",
@@ -15325,11 +15450,6 @@
     "normalized": "brandon fuller"
   },
   {
-    "id": "heffronart",
-    "name": "Brandon Heffron",
-    "normalized": "brandon heffron"
-  },
-  {
     "id": "brandon__herrera",
     "name": "Brandon Herrera",
     "normalized": "brandon herrera"
@@ -15416,8 +15536,8 @@
   },
   {
     "id": "heavy_water_tattoo",
-    "name": "Brayton Furlong",
-    "normalized": "brayton furlong"
+    "name": "Brayton Furlong Tattoo Artist",
+    "normalized": "brayton furlong tattoo artist"
   },
   {
     "id": "brazbrazzy",
@@ -15815,6 +15935,11 @@
     "normalized": "brickview tattoo"
   },
   {
+    "id": "hennasandiego",
+    "name": "Bridal and Party Henna artist San Diego 🧿",
+    "normalized": "bridal and party henna artist san diego 🧿"
+  },
+  {
     "id": "bridgendtattoo",
     "name": "Bridgend Tattoo Studio",
     "normalized": "bridgend tattoo studio"
@@ -16130,6 +16255,11 @@
     "normalized": "bruce the kid"
   },
   {
+    "id": "nurdy_tattooist",
+    "name": "Bruce Wayne aka Batman",
+    "normalized": "bruce wayne aka batman"
+  },
+  {
     "id": "bruciexbruce",
     "name": "Brucie",
     "normalized": "brucie"
@@ -16166,8 +16296,8 @@
   },
   {
     "id": "gnomatattooart",
-    "name": "Bruna Martins",
-    "normalized": "bruna martins"
+    "name": "Bruna Martins - Tatuadora Mauá",
+    "normalized": "bruna martins - tatuadora mauá"
   },
   {
     "id": "brunaolira",
@@ -16800,11 +16930,6 @@
     "normalized": "byrd"
   },
   {
-    "id": "handsome_devil_tattoo",
-    "name": "Byron Bullets",
-    "normalized": "byron bullets"
-  },
-  {
     "id": "foulestgrunt187",
     "name": "Byron Cuevas- New Jersey Tattoo Artist",
     "normalized": "byron cuevas- new jersey tattoo artist"
@@ -17203,11 +17328,6 @@
     "id": "caluph",
     "name": "Caluph Allison",
     "normalized": "caluph allison"
-  },
-  {
-    "id": "goldcrosstattoo",
-    "name": "Calvelli Tattooer",
-    "normalized": "calvelli tattooer"
   },
   {
     "id": "clairereid",
@@ -17635,11 +17755,6 @@
     "normalized": "carlo sohl - ᴅʀᴇꜱᴅᴇɴ ʙᴀꜱᴇᴅ ᴛᴀᴛᴛᴏᴏ ᴀʀᴛɪꜱᴛ"
   },
   {
-    "id": "greenlight_tattoo",
-    "name": "Carlos",
-    "normalized": "carlos"
-  },
-  {
     "id": "carlosalbuquerqueink",
     "name": "Carlos Albuquerque",
     "normalized": "carlos albuquerque"
@@ -17723,11 +17838,6 @@
     "id": "carlosfarinha13",
     "name": "CARLOS FARINHA TATTOO",
     "normalized": "carlos farinha tattoo"
-  },
-  {
-    "id": "godlikeadog",
-    "name": "Carlos Garza",
-    "normalized": "carlos garza"
   },
   {
     "id": "ogozzi",
@@ -18065,11 +18175,6 @@
     "normalized": "carolyn elaine"
   },
   {
-    "id": "handoftheforge",
-    "name": "Carolyn LeBourgeois",
-    "normalized": "carolyn lebourgeois"
-  },
-  {
     "id": "carotideae",
     "name": "CAROTIDE",
     "normalized": "carotide"
@@ -18316,8 +18421,8 @@
   },
   {
     "id": "grimalkin.tattoo",
-    "name": "Cat Coleman",
-    "normalized": "cat coleman"
+    "name": "Cat ♡",
+    "normalized": "cat ♡"
   },
   {
     "id": "cattattooing",
@@ -19005,11 +19110,6 @@
     "normalized": "charleston tattooer"
   },
   {
-    "id": "heartcasketofficial",
-    "name": "Charleston Tattooer",
-    "normalized": "charleston tattooer"
-  },
-  {
     "id": "charleybastida",
     "name": "Charley Bastida",
     "normalized": "charley bastida"
@@ -19213,16 +19313,6 @@
     "id": "charmedlifetattoo",
     "name": "Charmed Life Tattoo",
     "normalized": "charmed life tattoo"
-  },
-  {
-    "id": "hennabycharu",
-    "name": "Charu",
-    "normalized": "charu"
-  },
-  {
-    "id": "gl_tattoos",
-    "name": "Chase Elsberry",
-    "normalized": "chase elsberry"
   },
   {
     "id": "aft_chase",
@@ -19855,11 +19945,6 @@
     "normalized": "chris cusumano"
   },
   {
-    "id": "governmentstreettattoo",
-    "name": "Chris David",
-    "normalized": "chris david"
-  },
-  {
     "id": "davis_inks",
     "name": "Chris Davis",
     "normalized": "chris davis"
@@ -20080,11 +20165,6 @@
     "normalized": "chris nieves"
   },
   {
-    "id": "hcfltattoo",
-    "name": "Chris Nunez",
-    "normalized": "chris nunez"
-  },
-  {
     "id": "oakwoodtattoo",
     "name": "Chris Oakwood",
     "normalized": "chris oakwood"
@@ -20245,11 +20325,6 @@
     "normalized": "chris woodhead"
   },
   {
-    "id": "goldmindstattoo",
-    "name": "Chris Young",
-    "normalized": "chris young"
-  },
-  {
     "id": "chriszero",
     "name": "Chris Zéro",
     "normalized": "chris zéro"
@@ -20382,11 +20457,6 @@
   {
     "id": "christiandr",
     "name": "Christian DR",
-    "normalized": "christian dr"
-  },
-  {
-    "id": "goldeneyezgz",
-    "name": "Christian Dr",
     "normalized": "christian dr"
   },
   {
@@ -20683,6 +20753,11 @@
     "id": "macdreaper",
     "name": "Christopher TATTX",
     "normalized": "christopher tattx"
+  },
+  {
+    "id": "heartcasketofficial",
+    "name": "Christopher Theriault",
+    "normalized": "christopher theriault"
   },
   {
     "id": "vasquez",
@@ -21700,6 +21775,11 @@
     "normalized": "colorful tattoos by cody dean"
   },
   {
+    "id": "hayleyblackwoodtattoo",
+    "name": "Colour tattoos, gaming,anime, cute,Disney tattoos",
+    "normalized": "colour tattoos, gaming,anime, cute,disney tattoos"
+  },
+  {
     "id": "colourboxtattoo",
     "name": "COLOURBOX Tattoo Piercing",
     "normalized": "colourbox tattoo piercing"
@@ -21758,6 +21838,11 @@
     "id": "connectink9722",
     "name": "CONNECT INK TATTOO SHOP & TRAINING",
     "normalized": "connect ink tattoo shop & training"
+  },
+  {
+    "id": "hatcitychris",
+    "name": "CONNECTICUT TATTOOER",
+    "normalized": "connecticut tattooer"
   },
   {
     "id": "connortattoos",
@@ -22880,6 +22965,16 @@
     "normalized": "custom made tattoo"
   },
   {
+    "id": "h8kaz",
+    "name": "Custom Tattoo ✦ Anime | Manga | Japanese ✦ Gdańsk",
+    "normalized": "custom tattoo ✦ anime | manga | japanese ✦ gdańsk"
+  },
+  {
+    "id": "grandlegacytattoo",
+    "name": "Custom Tattooing | Quality Piercings",
+    "normalized": "custom tattooing | quality piercings"
+  },
+  {
     "id": "adamguyhays",
     "name": "Custom Tattoos - Denver, CO",
     "normalized": "custom tattoos - denver, co"
@@ -23231,8 +23326,8 @@
   },
   {
     "id": "gorskytattoos",
-    "name": "Damian Gorski",
-    "normalized": "damian gorski"
+    "name": "Damian Gorski | Tattoo Artist",
+    "normalized": "damian gorski | tattoo artist"
   },
   {
     "id": "damiangorski",
@@ -23998,6 +24093,11 @@
     "id": "dangeorgeart",
     "name": "Daniel Gueorguiev",
     "normalized": "daniel gueorguiev"
+  },
+  {
+    "id": "gullytattoo",
+    "name": "Daniel Gulliver",
+    "normalized": "daniel gulliver"
   },
   {
     "id": "danhalabe359",
@@ -26305,11 +26405,6 @@
     "normalized": "demerson costa tattoo"
   },
   {
-    "id": "haustattoo",
-    "name": "Demetrius",
-    "normalized": "demetrius"
-  },
-  {
     "id": "demetriusharveytattoos",
     "name": "Demetrius Harvey",
     "normalized": "demetrius harvey"
@@ -26843,11 +26938,6 @@
     "id": "devorah",
     "name": "Devorah · American Debbie",
     "normalized": "devorah · american debbie"
-  },
-  {
-    "id": "hangdex",
-    "name": "Dex",
-    "normalized": "dex"
   },
   {
     "id": "dexterbanks",
@@ -27670,11 +27760,6 @@
     "normalized": "dmitri globa"
   },
   {
-    "id": "goncharov_tattoo",
-    "name": "Dmitri Goncharov",
-    "normalized": "dmitri goncharov"
-  },
-  {
     "id": "dmitri_the_terrible",
     "name": "Dmitri Sobczak",
     "normalized": "dmitri sobczak"
@@ -27728,6 +27813,11 @@
     "id": "dmitrykatsan",
     "name": "Dmitry Katsan",
     "normalized": "dmitry katsan"
+  },
+  {
+    "id": "harleytattooartist",
+    "name": "Dmitry Kharlashin",
+    "normalized": "dmitry kharlashin"
   },
   {
     "id": "dmitrykovalenko",
@@ -29795,11 +29885,6 @@
     "normalized": "egt•collective"
   },
   {
-    "id": "gray_bambi",
-    "name": "Ehor Sydorenko",
-    "normalized": "ehor sydorenko"
-  },
-  {
     "id": "bakunistasect",
     "name": "EI[[E Ǝ]]IƎ",
     "normalized": "ei[[e ǝ]]iǝ"
@@ -31308,11 +31393,6 @@
     "id": "henrybig",
     "name": "Enrico Grosso",
     "normalized": "enrico grosso"
-  },
-  {
-    "id": "harrrytattooer",
-    "name": "Enrico Imbornone",
-    "normalized": "enrico imbornone"
   },
   {
     "id": "enrico_widler",
@@ -33300,11 +33380,6 @@
     "normalized": "farris armand x 3hree"
   },
   {
-    "id": "hennatradition",
-    "name": "Farwah",
-    "normalized": "farwah"
-  },
-  {
     "id": "fastlanetattoony",
     "name": "Fast Lane Tattoo",
     "normalized": "fast lane tattoo"
@@ -33500,11 +33575,6 @@
     "normalized": "felipe ferreiras"
   },
   {
-    "id": "gomestattoo13",
-    "name": "Felipe Gomes",
-    "normalized": "felipe gomes"
-  },
-  {
     "id": "felipekross",
     "name": "Felipe Kross",
     "normalized": "felipe kross"
@@ -33633,11 +33703,6 @@
     "id": "fellertattoo",
     "name": "fellertattoo - Jens Feller",
     "normalized": "fellertattoo - jens feller"
-  },
-  {
-    "id": "greenrock_tattoo",
-    "name": "Fena Dobrev",
-    "normalized": "fena dobrev"
   },
   {
     "id": "fenixtattoos",
@@ -34960,11 +35025,6 @@
     "normalized": "frank guthier"
   },
   {
-    "id": "gueldner_tattoo_und_piercing",
-    "name": "Frank Güldner",
-    "normalized": "frank güldner"
-  },
-  {
     "id": "frankholm",
     "name": "Frank Holm",
     "normalized": "frank holm"
@@ -35600,9 +35660,24 @@
     "normalized": "g r i s a c e o s"
   },
   {
+    "id": "gio.berserk",
+    "name": "G †",
+    "normalized": "g †"
+  },
+  {
     "id": "gremtattoo",
     "name": "G-rem",
     "normalized": "g-rem"
+  },
+  {
+    "id": "giordanodalprato",
+    "name": "G.Dal Prato",
+    "normalized": "g.dal prato"
+  },
+  {
+    "id": "gno_tattoopeople",
+    "name": "G.NO",
+    "normalized": "g.no"
   },
   {
     "id": "gablavoie",
@@ -36075,11 +36150,6 @@
     "normalized": "garrett harper"
   },
   {
-    "id": "gravebloom",
-    "name": "Garrett S",
-    "normalized": "garrett s"
-  },
-  {
     "id": "lowpokes",
     "name": "Garth Philpott",
     "normalized": "garth philpott"
@@ -36290,14 +36360,14 @@
     "normalized": "gemini tattoo"
   },
   {
+    "id": "helfire",
+    "name": "Gemma",
+    "normalized": "gemma"
+  },
+  {
     "id": "gemstone_tattoo",
     "name": "Gemma Astor",
     "normalized": "gemma astor"
-  },
-  {
-    "id": "helfire",
-    "name": "Gemma B",
-    "normalized": "gemma b"
   },
   {
     "id": "gemmaymayy",
@@ -36490,11 +36560,6 @@
     "normalized": "george quick"
   },
   {
-    "id": "heavyhandsgeorge",
-    "name": "George Ricketts",
-    "normalized": "george ricketts"
-  },
-  {
     "id": "georgesilva",
     "name": "George Silva",
     "normalized": "george silva"
@@ -36588,11 +36653,6 @@
     "id": "geraldfeliciano",
     "name": "Gerald Feliciano",
     "normalized": "gerald feliciano"
-  },
-  {
-    "id": "hermosaink",
-    "name": "Gerard Collette",
-    "normalized": "gerard collette"
   },
   {
     "id": "gerardolucio",
@@ -36690,11 +36750,6 @@
     "normalized": "ghazal | fineline tattoo artist | london & edinburgh"
   },
   {
-    "id": "hennafx",
-    "name": "Ghazala",
-    "normalized": "ghazala"
-  },
-  {
     "id": "chrispengillytattooist",
     "name": "Gherkinstains",
     "normalized": "gherkinstains"
@@ -36706,11 +36761,6 @@
   },
   {
     "id": "ghis_melou_tattooer",
-    "name": "Ghis Melou",
-    "normalized": "ghis melou"
-  },
-  {
-    "id": "halfwolftattoo",
     "name": "Ghis Melou",
     "normalized": "ghis melou"
   },
@@ -36931,7 +36981,7 @@
   },
   {
     "id": "gillianmarietattoo",
-    "name": "Gillian Marie",
+    "name": "gillian marie",
     "normalized": "gillian marie"
   },
   {
@@ -36945,19 +36995,9 @@
     "normalized": "gilliano"
   },
   {
-    "id": "giltmothtattoo",
-    "name": "Gilt Moth Tattoo",
-    "normalized": "gilt moth tattoo"
-  },
-  {
-    "id": "gimmelovetattoo",
-    "name": "Gimme Love Tattoo",
-    "normalized": "gimme love tattoo"
-  },
-  {
-    "id": "ginacorbetttattoo",
-    "name": "Gina Corbett",
-    "normalized": "gina corbett"
+    "id": "ginatp_tattoo",
+    "name": "GINA",
+    "normalized": "gina"
   },
   {
     "id": "ginamarietattoo",
@@ -36965,19 +37005,14 @@
     "normalized": "gina marie medlock"
   },
   {
-    "id": "ginatp_tattoo",
-    "name": "Gina TP",
-    "normalized": "gina tp"
-  },
-  {
-    "id": "gingerinkbpcl",
-    "name": "Ginger Ink",
-    "normalized": "ginger ink"
+    "id": "ginacorbetttattoo",
+    "name": "ginacorbetttattoo",
+    "normalized": "ginacorbetttattoo"
   },
   {
     "id": "ginnymarietattoos",
-    "name": "Ginny Marie",
-    "normalized": "ginny marie"
+    "name": "Ginny Marie Kalnasy",
+    "normalized": "ginny marie kalnasy"
   },
   {
     "id": "genoski",
@@ -36995,19 +37030,9 @@
     "normalized": "gino sorgente | tatuatore milano"
   },
   {
-    "id": "giobuitron",
-    "name": "Gio Buitron",
-    "normalized": "gio buitron"
-  },
-  {
     "id": "giodiosdado",
     "name": "Gio Diosdado",
     "normalized": "gio diosdado"
-  },
-  {
-    "id": "gio.berserk",
-    "name": "Gio Tattoos",
-    "normalized": "gio tattoos"
   },
   {
     "id": "gioelecassarino",
@@ -37015,19 +37040,9 @@
     "normalized": "gioele cassarino"
   },
   {
-    "id": "giordanodalprato",
-    "name": "Giordano Dal Prato",
-    "normalized": "giordano dal prato"
-  },
-  {
     "id": "giorgio",
     "name": "Giorgio",
     "normalized": "giorgio"
-  },
-  {
-    "id": "giorgiolandi_tattooer",
-    "name": "Giorgio Landi",
-    "normalized": "giorgio landi"
   },
   {
     "id": "mafratattooer",
@@ -37036,8 +37051,8 @@
   },
   {
     "id": "giovanna_bacchin",
-    "name": "Giovanna Bacchin",
-    "normalized": "giovanna bacchin"
+    "name": "Ｇｉｏｖａｎｎａ  Ｂａｃｃｈｉｎ • Ｔａｔｔｏｏ",
+    "normalized": "giovanna bacchin • tattoo"
   },
   {
     "id": "giovannialanis",
@@ -37046,8 +37061,13 @@
   },
   {
     "id": "giovanni_bracciodieta_bd",
-    "name": "Giovanni Bracciodieta",
+    "name": "Giovanni bracciodieta",
     "normalized": "giovanni bracciodieta"
+  },
+  {
+    "id": "giobuitron",
+    "name": "Giovanni Buitron",
+    "normalized": "giovanni buitron"
   },
   {
     "id": "morpheustattoo",
@@ -37090,11 +37110,6 @@
     "normalized": "gioveツ"
   },
   {
-    "id": "gipsy_tattoo",
-    "name": "Gipsy-Tattoo",
-    "normalized": "gipsy-tattoo"
-  },
-  {
     "id": "girin_tattoo",
     "name": "GIRIN",
     "normalized": "girin"
@@ -37111,28 +37126,13 @@
   },
   {
     "id": "gitcheegumeetattoo",
-    "name": "Gitchee Gumee Tattoo",
-    "normalized": "gitchee gumee tattoo"
+    "name": "Gitchee Gumee Tattooo",
+    "normalized": "gitchee gumee tattooo"
   },
   {
     "id": "giuliaangelitattoo",
-    "name": "Giulia Angeli",
-    "normalized": "giulia angeli"
-  },
-  {
-    "id": "giuliabolognatattooartist",
-    "name": "Giulia Bologna",
-    "normalized": "giulia bologna"
-  },
-  {
-    "id": "giuliaghil",
-    "name": "Giulia Bongiovanni",
-    "normalized": "giulia bongiovanni"
-  },
-  {
-    "id": "giulialaureanatattoo",
-    "name": "Giulia Laureana",
-    "normalized": "giulia laureana"
+    "name": "GIULIA ANGELI | TATTOO FUERTEVENTURA",
+    "normalized": "giulia angeli | tattoo fuerteventura"
   },
   {
     "id": "giulia_eightlines",
@@ -37145,14 +37145,14 @@
     "normalized": "giulia marotta"
   },
   {
-    "id": "giuli.pigna.tattooer",
-    "name": "Giulia Pigna",
-    "normalized": "giulia pigna"
-  },
-  {
     "id": "sandracunha",
     "name": "Giulia Schettini",
     "normalized": "giulia schettini"
+  },
+  {
+    "id": "giuliabolognatattooartist",
+    "name": "Giulia.Bologna | Tatuatrice",
+    "normalized": "giulia.bologna | tatuatrice"
   },
   {
     "id": "juanpoked",
@@ -37166,13 +37166,8 @@
   },
   {
     "id": "giulianocorreatattoo",
-    "name": "Giuliano Correa",
-    "normalized": "giuliano correa"
-  },
-  {
-    "id": "giulianotattoo",
-    "name": "Giuliano Fragnoli",
-    "normalized": "giuliano fragnoli"
+    "name": "Giuliano Correa - Tatuador Realismo",
+    "normalized": "giuliano correa - tatuador realismo"
   },
   {
     "id": "g7.tattoo",
@@ -37180,14 +37175,9 @@
     "normalized": "giuliano guglielmi de araujo"
   },
   {
-    "id": "giuliocesarethehand",
-    "name": "Giulio Cesare",
-    "normalized": "giulio cesare"
-  },
-  {
-    "id": "giuliolombarditattooer",
-    "name": "Giulio Lombardi",
-    "normalized": "giulio lombardi"
+    "id": "giulianotattoo",
+    "name": "Giuliano Tattoo",
+    "normalized": "giuliano tattoo"
   },
   {
     "id": "giuppotattoo",
@@ -37198,11 +37188,6 @@
     "id": "giuseppealfieri",
     "name": "giuseppe",
     "normalized": "giuseppe"
-  },
-  {
-    "id": "giuseppe.bettucci",
-    "name": "Giuseppe Bettucci",
-    "normalized": "giuseppe bettucci"
   },
   {
     "id": "giuseppe_gibi_bonelli",
@@ -37230,16 +37215,6 @@
     "normalized": "giuseppe messina"
   },
   {
-    "id": "giuseppe_morello",
-    "name": "Giuseppe Morello",
-    "normalized": "giuseppe morello"
-  },
-  {
-    "id": "giuseppeormando",
-    "name": "Giuseppe Ormando",
-    "normalized": "giuseppe ormando"
-  },
-  {
     "id": "giuseppepresta",
     "name": "Giuseppe Presta",
     "normalized": "giuseppe presta"
@@ -37253,6 +37228,21 @@
     "id": "inkfacttattoo",
     "name": "Giuseppe Romanello",
     "normalized": "giuseppe romanello"
+  },
+  {
+    "id": "giuseppe_morello",
+    "name": "GiuseppeMorello",
+    "normalized": "giuseppemorello"
+  },
+  {
+    "id": "giuseppeormando",
+    "name": "giuseppeormando",
+    "normalized": "giuseppeormando"
+  },
+  {
+    "id": "giveuptattooing",
+    "name": "Give Up",
+    "normalized": "give up"
   },
   {
     "id": "giz__21323",
@@ -37310,11 +37300,6 @@
     "normalized": "glen robertson"
   },
   {
-    "id": "glencocotattoo",
-    "name": "Glencoco",
-    "normalized": "glencoco"
-  },
-  {
     "id": "glennbrokersclassacttattoo",
     "name": "Glenn Broker",
     "normalized": "glenn broker"
@@ -37336,18 +37321,8 @@
   },
   {
     "id": "gleyconsilvatattoo",
-    "name": "Gleycon Silva",
-    "normalized": "gleycon silva"
-  },
-  {
-    "id": "gligoink",
-    "name": "Gligo Ink",
-    "normalized": "gligo ink"
-  },
-  {
-    "id": "glitterpoops_",
-    "name": "Glitter Poops",
-    "normalized": "glitter poops"
+    "name": "Gleyçon Silvɑ | Tatuador em Curitiba",
+    "normalized": "gleyçon silvɑ | tatuador em curitiba"
   },
   {
     "id": "glomas_tattoo",
@@ -37371,8 +37346,8 @@
   },
   {
     "id": "gloriousartdeutschland",
-    "name": "Glorious Art Tattoo Studios",
-    "normalized": "glorious art tattoo studios"
+    "name": "Glorious Art Tattoo & Piercing Studios",
+    "normalized": "glorious art tattoo & piercing studios"
   },
   {
     "id": "glorious_tattoo",
@@ -37383,11 +37358,6 @@
     "id": "myboyglue",
     "name": "Glue",
     "normalized": "glue"
-  },
-  {
-    "id": "glum.tattooer",
-    "name": "GLUM Tattooer",
-    "normalized": "glum tattooer"
   },
   {
     "id": "gm_spanu",
@@ -37406,13 +37376,18 @@
   },
   {
     "id": "gnostictattoo",
-    "name": "Gnostic Tattoo",
+    "name": "GNOSTIC TATTOO",
     "normalized": "gnostic tattoo"
   },
   {
     "id": "gotattoonyc",
-    "name": "GO TATTOO",
-    "normalized": "go tattoo"
+    "name": "GO! TATTOO",
+    "normalized": "go! tattoo"
+  },
+  {
+    "id": "god.is.art.tattoo",
+    "name": "God Is Art (kevin Gaudissard)",
+    "normalized": "god is art (kevin gaudissard)"
   },
   {
     "id": "godfathers_tattoo_nuernberg",
@@ -37430,14 +37405,19 @@
     "normalized": "godokgo · dokgo"
   },
   {
+    "id": "godoyart",
+    "name": "Godoy Art Tatuador",
+    "normalized": "godoy art tatuador"
+  },
+  {
     "id": "goethesilva",
     "name": "Goethe Silva",
     "normalized": "goethe silva"
   },
   {
     "id": "goga.tattoo",
-    "name": "Goga",
-    "normalized": "goga"
+    "name": "Goga Adv Rider",
+    "normalized": "goga adv rider"
   },
   {
     "id": "gogh",
@@ -37446,13 +37426,8 @@
   },
   {
     "id": "gogutti",
-    "name": "Gogutti",
-    "normalized": "gogutti"
-  },
-  {
-    "id": "goksisdead",
-    "name": "Goks",
-    "normalized": "goks"
+    "name": "Gogutti, tatuaż i życie 🌞szczecin",
+    "normalized": "gogutti, tatuaż i życie 🌞szczecin"
   },
   {
     "id": "lauramarshall",
@@ -37461,18 +37436,13 @@
   },
   {
     "id": "golddusttattoos",
-    "name": "Gold Dust Tattoos",
-    "normalized": "gold dust tattoos"
+    "name": "Gold Dust Tattoos ™️",
+    "normalized": "gold dust tattoos TM️"
   },
   {
-    "id": "goldhearttattoo",
-    "name": "Gold Heart Tattoo",
-    "normalized": "gold heart tattoo"
-  },
-  {
-    "id": "goldinktattoo_",
-    "name": "Gold Ink Tattoo & Piercing",
-    "normalized": "gold ink tattoo & piercing"
+    "id": "goldmindstattoo",
+    "name": "Gold Minds Tattoo Gallery",
+    "normalized": "gold minds tattoo gallery"
   },
   {
     "id": "julianbogdan",
@@ -37486,18 +37456,18 @@
   },
   {
     "id": "goldrushtattoo",
-    "name": "Gold Rush Tattoo",
-    "normalized": "gold rush tattoo"
+    "name": "Gold Rush Studio",
+    "normalized": "gold rush studio"
   },
   {
     "id": "goldstartattoo",
-    "name": "Gold Star Tattoo",
+    "name": "GOLD STAR TATTOO",
     "normalized": "gold star tattoo"
   },
   {
     "id": "goldstreet.tattoo",
-    "name": "Gold Street Tattoo",
-    "normalized": "gold street tattoo"
+    "name": "Gold Street Tattoo Parlour",
+    "normalized": "gold street tattoo parlour"
   },
   {
     "id": "goldttoo",
@@ -37515,14 +37485,24 @@
     "normalized": "golden crow electric tattoo"
   },
   {
+    "id": "golden_days_tattoo",
+    "name": "Golden Days Tätowierstube",
+    "normalized": "golden days tätowierstube"
+  },
+  {
     "id": "golden_dragon_tattoo",
-    "name": "Golden Dragon Tattoo",
-    "normalized": "golden dragon tattoo"
+    "name": "Golden Dragon Tattoo Studio",
+    "normalized": "golden dragon tattoo studio"
+  },
+  {
+    "id": "goldenfalcontattoo",
+    "name": "Golden Falcon Tattoo",
+    "normalized": "golden falcon tattoo"
   },
   {
     "id": "goldengoattattoo",
-    "name": "Golden Goat Tattoo Company LLC",
-    "normalized": "golden goat tattoo company llc"
+    "name": "Golden Goat Tattoo",
+    "normalized": "golden goat tattoo"
   },
   {
     "id": "i__4iiii",
@@ -37546,8 +37526,8 @@
   },
   {
     "id": "goldenneedletattoo",
-    "name": "Golden Needle Tattoo",
-    "normalized": "golden needle tattoo"
+    "name": "GOLDEN NEEDLE TATTOO PHUKET",
+    "normalized": "golden needle tattoo phuket"
   },
   {
     "id": "goldenneedletattoo_mn",
@@ -37556,7 +37536,7 @@
   },
   {
     "id": "golden_orb_tattoos_piercing",
-    "name": "Golden Orb Studios",
+    "name": "golden orb studios",
     "normalized": "golden orb studios"
   },
   {
@@ -37565,9 +37545,9 @@
     "normalized": "golden sage tattoo"
   },
   {
-    "id": "goldenskulltattoo",
-    "name": "Golden Skull Tattoo",
-    "normalized": "golden skull tattoo"
+    "id": "goldensphynxtattoo",
+    "name": "Golden Sphynx Tattoo UG",
+    "normalized": "golden sphynx tattoo ug"
   },
   {
     "id": "goldenspirittattoo",
@@ -37590,6 +37570,11 @@
     "normalized": "golden yeti art collective"
   },
   {
+    "id": "goldhearttattoo",
+    "name": "goldhearttattoo",
+    "normalized": "goldhearttattoo"
+  },
+  {
     "id": "goldilox",
     "name": "Goldilox · Clare Deen",
     "normalized": "goldilox · clare deen"
@@ -37598,11 +37583,6 @@
     "id": "goldschakal_taetowierungen",
     "name": "Goldschakal Nürnberg",
     "normalized": "goldschakal nürnberg"
-  },
-  {
-    "id": "goldy_z",
-    "name": "Goldy Z",
-    "normalized": "goldy z"
   },
   {
     "id": "goliathneedles",
@@ -37615,19 +37595,19 @@
     "normalized": "goliath tattoo studio"
   },
   {
+    "id": "gomestattoo13",
+    "name": "Gomes Tattoo 13 studio",
+    "normalized": "gomes tattoo 13 studio"
+  },
+  {
     "id": "demogordogon",
     "name": "Gon 𒉭",
     "normalized": "gon 𒉭"
   },
   {
-    "id": "goncalosantostt",
-    "name": "Goncalo Santos",
-    "normalized": "goncalo santos"
-  },
-  {
     "id": "gonefishing_tattoo",
-    "name": "Gone Fishing Tattoo Parlour",
-    "normalized": "gone fishing tattoo parlour"
+    "name": "GONE FISHING TATTOO * PORTIMÃO * ALGARVE * PORTUGAL",
+    "normalized": "gone fishing tattoo * portimão * algarve * portugal"
   },
   {
     "id": "gonelaserremoval",
@@ -37636,13 +37616,13 @@
   },
   {
     "id": "gongtattoo",
-    "name": "Gong Beom-Sik",
-    "normalized": "gong beom-sik"
+    "name": "GONG",
+    "normalized": "gong"
   },
   {
     "id": "gonzaloarana_art",
-    "name": "Gonzalo Arana",
-    "normalized": "gonzalo arana"
+    "name": "GONZALO ARANA ORTIZ",
+    "normalized": "gonzalo arana ortiz"
   },
   {
     "id": "gonzaloaranaortiz",
@@ -37650,24 +37630,19 @@
     "normalized": "gonzalo arana ortiz"
   },
   {
-    "id": "gonzalolastport",
-    "name": "Gonzalo LastPort",
-    "normalized": "gonzalo lastport"
-  },
-  {
     "id": "gonzalomuniz",
     "name": "Gonzalo Muniz",
     "normalized": "gonzalo muniz"
   },
   {
+    "id": "gonzalolastport",
+    "name": "Gonzalo Muñiz Matito",
+    "normalized": "gonzalo muñiz matito"
+  },
+  {
     "id": "gonzaloperezopazo",
     "name": "Gonzalo Pérez Opazo",
     "normalized": "gonzalo pérez opazo"
-  },
-  {
-    "id": "gonzalotintanegra",
-    "name": "Gonzalo Tintanegra",
-    "normalized": "gonzalo tintanegra"
   },
   {
     "id": "gonzalo",
@@ -37696,7 +37671,7 @@
   },
   {
     "id": "goodlandtattoo",
-    "name": "Good Land Tattoo",
+    "name": "GOOD LAND TATTOO",
     "normalized": "good land tattoo"
   },
   {
@@ -37726,8 +37701,8 @@
   },
   {
     "id": "good.omen.tattoo",
-    "name": "Good Omen Tattoo",
-    "normalized": "good omen tattoo"
+    "name": "Good Omen Tattoo, Chicago IL",
+    "normalized": "good omen tattoo, chicago il"
   },
   {
     "id": "goodpointtattoos",
@@ -37740,19 +37715,14 @@
     "normalized": "good times ink|osaka tattoo studio"
   },
   {
-    "id": "goodtripinc",
-    "name": "Good Trip Inc",
-    "normalized": "good trip inc"
-  },
-  {
     "id": "goodvibrationsink",
     "name": "Good Vibrations Ink",
     "normalized": "good vibrations ink"
   },
   {
     "id": "good_vibrations_tattoo",
-    "name": "Good Vibrations Tattoo",
-    "normalized": "good vibrations tattoo"
+    "name": "GOOD VIBRATIONS TATTOO & PIERCING BOUTIQUE",
+    "normalized": "good vibrations tattoo & piercing boutique"
   },
   {
     "id": "goodkindtattoo",
@@ -37768,11 +37738,6 @@
     "id": "goorseink",
     "name": "Goorse Ink",
     "normalized": "goorse ink"
-  },
-  {
-    "id": "goranivic.tattoo",
-    "name": "Goran Ivic",
-    "normalized": "goran ivic"
   },
   {
     "id": "goranmicic",
@@ -37805,11 +37770,6 @@
     "normalized": "gordon mccloud"
   },
   {
-    "id": "gorkitattoo",
-    "name": "Gorki",
-    "normalized": "gorki"
-  },
-  {
     "id": "gotch",
     "name": "Gotch Gatchalian",
     "normalized": "gotch gatchalian"
@@ -37823,6 +37783,11 @@
     "id": "gothika_tattoo_pisa",
     "name": "Gothika Tattoo Pisa",
     "normalized": "gothika tattoo pisa"
+  },
+  {
+    "id": "governmentstreettattoo",
+    "name": "Government Street Tattoo-Walk Ins Everyday",
+    "normalized": "government street tattoo-walk ins everyday"
   },
   {
     "id": "govina_taylor_world_leader",
@@ -37850,14 +37815,14 @@
     "normalized": "gr onez"
   },
   {
-    "id": "ipaintflesh",
+    "id": "graceaudreytattoo",
     "name": "Grace",
     "normalized": "grace"
   },
   {
-    "id": "graceaudreytattoo",
-    "name": "Grace Audrey",
-    "normalized": "grace audrey"
+    "id": "ipaintflesh",
+    "name": "Grace",
+    "normalized": "grace"
   },
   {
     "id": "graceaudrey",
@@ -37866,8 +37831,8 @@
   },
   {
     "id": "gracekaioh",
-    "name": "Grace Gomez",
-    "normalized": "grace gomez"
+    "name": "Grace Gomez / Gee~",
+    "normalized": "grace gomez / gee~"
   },
   {
     "id": "graciemay",
@@ -37885,14 +37850,14 @@
     "normalized": "grace neutral"
   },
   {
-    "id": "gracetattoophoenixville",
+    "id": "gracetattoo",
     "name": "Grace Tattoo",
     "normalized": "grace tattoo"
   },
   {
-    "id": "gracetattoo",
-    "name": "Grace Tattoo London",
-    "normalized": "grace tattoo london"
+    "id": "gracetattoophoenixville",
+    "name": "GRACE TATTOO",
+    "normalized": "grace tattoo"
   },
   {
     "id": "gracelandtattoo",
@@ -37931,8 +37896,13 @@
   },
   {
     "id": "graiey",
-    "name": "Graiey",
-    "normalized": "graiey"
+    "name": "GRAIEY / Toronto Tattoo Artist",
+    "normalized": "graiey / toronto tattoo artist"
+  },
+  {
+    "id": "grandavenuetattoo",
+    "name": "Grand Avenue Tattoo",
+    "normalized": "grand avenue tattoo"
   },
   {
     "id": "granddesignarts",
@@ -37940,9 +37910,9 @@
     "normalized": "grand design"
   },
   {
-    "id": "grandlegacytattoo",
-    "name": "Grand Legacy Tattoo",
-    "normalized": "grand legacy tattoo"
+    "id": "grandrapids_ghoul",
+    "name": "Grand Rapids, MI Tattoo Artist | Adrian",
+    "normalized": "grand rapids, mi tattoo artist | adrian"
   },
   {
     "id": "inksmithandrogers",
@@ -37960,11 +37930,6 @@
     "normalized": "grant cobb"
   },
   {
-    "id": "gumtoadtattoos",
-    "name": "Grant Lilley",
-    "normalized": "grant lilley"
-  },
-  {
     "id": "grantlubbock",
     "name": "Grant Lubbock Tattooer",
     "normalized": "grant lubbock tattooer"
@@ -37975,24 +37940,14 @@
     "normalized": "grant sutton"
   },
   {
-    "id": "granvillestreettattoo",
-    "name": "Granville Street Tattoo",
-    "normalized": "granville street tattoo"
-  },
-  {
-    "id": "graphikris",
-    "name": "GraphiKris",
-    "normalized": "graphikris"
-  },
-  {
-    "id": "graphitandink",
-    "name": "Graphite&Ink",
-    "normalized": "graphite&ink"
+    "id": "gratattooed_tattoo",
+    "name": "Gratattooed",
+    "normalized": "gratattooed"
   },
   {
     "id": "graveyart.tattoo",
-    "name": "Graveyart Tattoo",
-    "normalized": "graveyart tattoo"
+    "name": "Graveyart - Tattoo Studio",
+    "normalized": "graveyart - tattoo studio"
   },
   {
     "id": "greyinktattoososnabrueck",
@@ -38008,11 +37963,6 @@
     "id": "graysilva",
     "name": "Gray Silva",
     "normalized": "gray silva"
-  },
-  {
-    "id": "grayspacetattoos",
-    "name": "Gray Space",
-    "normalized": "gray space"
   },
   {
     "id": "heinzgraynd",
@@ -38041,8 +37991,8 @@
   },
   {
     "id": "greatlakestattoo",
-    "name": "Great Lakes Tattoo",
-    "normalized": "great lakes tattoo"
+    "name": "Great Lakes Tattoo Chicago",
+    "normalized": "great lakes tattoo chicago"
   },
   {
     "id": "greatspiritstattoo",
@@ -38075,29 +38025,19 @@
     "normalized": "green cat"
   },
   {
-    "id": "greenlotustattoo",
-    "name": "Green Lotus Tattoo",
-    "normalized": "green lotus tattoo"
-  },
-  {
-    "id": "green_pearl_tattoo",
-    "name": "Green Pearl Tattoo",
-    "normalized": "green pearl tattoo"
-  },
-  {
     "id": "green8ink",
-    "name": "Green8ink Bobby",
-    "normalized": "green8ink bobby"
+    "name": "Green8ink",
+    "normalized": "green8ink"
   },
   {
-    "id": "greensoap",
-    "name": "Greensoap",
-    "normalized": "greensoap"
+    "id": "greenlight_tattoo",
+    "name": "GreenLight Tattoo",
+    "normalized": "greenlight tattoo"
   },
   {
-    "id": "gregtattooficial",
-    "name": "Greg",
-    "normalized": "greg"
+    "id": "greenrock_tattoo",
+    "name": "GreenRock Tattoo",
+    "normalized": "greenrock tattoo"
   },
   {
     "id": "gregorybartz",
@@ -38136,8 +38076,8 @@
   },
   {
     "id": "greg_laraigne",
-    "name": "Greg Laraigné",
-    "normalized": "greg laraigné"
+    "name": "Greg LARAIGNÉ - Japanese tattoo Toronto",
+    "normalized": "greg laraigné - japanese tattoo toronto"
   },
   {
     "id": "gregmayorga_",
@@ -38215,11 +38155,6 @@
     "normalized": "gregory lyons"
   },
   {
-    "id": "grenouille_is_wandering",
-    "name": "Grenouille",
-    "normalized": "grenouille"
-  },
-  {
     "id": "grey.francis.tattoo",
     "name": "Grey Francis",
     "normalized": "grey francis"
@@ -38236,13 +38171,8 @@
   },
   {
     "id": "greylinetattoo",
-    "name": "Greyline Tattoo",
+    "name": "GREYLINE TATTOO",
     "normalized": "greyline tattoo"
-  },
-  {
-    "id": "greyscaletattoo",
-    "name": "Greyscale Tattoo",
-    "normalized": "greyscale tattoo"
   },
   {
     "id": "_juan38",
@@ -38271,13 +38201,18 @@
   },
   {
     "id": "grinddesign",
-    "name": "Grind Design",
-    "normalized": "grind design"
+    "name": "GRIND DESIGN LLC.",
+    "normalized": "grind design llc."
   },
   {
     "id": "grindesign",
     "name": "Grindesign · Róbert Borbás",
     "normalized": "grindesign · róbert borbás"
+  },
+  {
+    "id": "grindhousetattooproductions",
+    "name": "Grindhouse Tattoo Productions",
+    "normalized": "grindhouse tattoo productions"
   },
   {
     "id": "grindhouse_tattoos",
@@ -38301,13 +38236,13 @@
   },
   {
     "id": "gristletattoo",
-    "name": "Gristle Tattoo",
-    "normalized": "gristle tattoo"
+    "name": "Gristle Tattoo | Brooklyn NYC",
+    "normalized": "gristle tattoo | brooklyn nyc"
   },
   {
-    "id": "grizzlytattoo",
-    "name": "Grizzly Tattoo",
-    "normalized": "grizzly tattoo"
+    "id": "gritnglory",
+    "name": "Grit N Glory",
+    "normalized": "grit n glory"
   },
   {
     "id": "christiangronewold_tattoo",
@@ -38335,11 +38270,6 @@
     "normalized": "grupo amazon | art in tattoo"
   },
   {
-    "id": "grzegorczyk.tattoo",
-    "name": "Grzegorz Grzegorczyk",
-    "normalized": "grzegorz grzegorczyk"
-  },
-  {
     "id": "gtinks",
     "name": "GT.ink$",
     "normalized": "gt.ink$"
@@ -38350,24 +38280,9 @@
     "normalized": "gu drigues tattoo"
   },
   {
-    "id": "gualas_vat",
-    "name": "Gualas",
-    "normalized": "gualas"
-  },
-  {
-    "id": "guanxiaopeng",
-    "name": "Guan Xiaopeng",
-    "normalized": "guan xiaopeng"
-  },
-  {
-    "id": "gudverg_tattooer",
-    "name": "Gudverg",
-    "normalized": "gudverg"
-  },
-  {
     "id": "guedes_sjc",
-    "name": "Guedes",
-    "normalized": "guedes"
+    "name": "Guedes Tattoo Studio",
+    "normalized": "guedes tattoo studio"
   },
   {
     "id": "guendouglas",
@@ -38376,13 +38291,13 @@
   },
   {
     "id": "guernica_tattoo",
-    "name": "Guernica Ink",
-    "normalized": "guernica ink"
+    "name": "GUERNICA TATTOO STUDIO",
+    "normalized": "guernica tattoo studio"
   },
   {
-    "id": "guerratattoo",
-    "name": "Guerra Tattoo",
-    "normalized": "guerra tattoo"
+    "id": "guerrilhatattoo",
+    "name": "Guerrilha Tattoo",
+    "normalized": "guerrilha tattoo"
   },
   {
     "id": "guet",
@@ -38395,14 +38310,9 @@
     "normalized": "gug tattoo lifestyle"
   },
   {
-    "id": "guiartwork",
-    "name": "Gui",
-    "normalized": "gui"
-  },
-  {
     "id": "guiferreiratattoo",
-    "name": "Gui Ferreira",
-    "normalized": "gui ferreira"
+    "name": "Gui Ferreira ✶ GUIF",
+    "normalized": "gui ferreira ✶ guif"
   },
   {
     "id": "guido_gb",
@@ -38420,11 +38330,6 @@
     "normalized": "guido schmitz"
   },
   {
-    "id": "guilhermebtattoo",
-    "name": "Guilherme Baptista",
-    "normalized": "guilherme baptista"
-  },
-  {
     "id": "baumink",
     "name": "Guilherme BaumInk",
     "normalized": "guilherme baumink"
@@ -38435,9 +38340,14 @@
     "normalized": "guilherme bock / tatuador em santa maria -rs"
   },
   {
+    "id": "guilhermebtattoo",
+    "name": "Guilherme Bressanini | TATUADOR",
+    "normalized": "guilherme bressanini | tatuador"
+  },
+  {
     "id": "guilhermecarvalhotattoo",
-    "name": "Guilherme Carvalho",
-    "normalized": "guilherme carvalho"
+    "name": "Guilherme Carvalho Tattoo",
+    "normalized": "guilherme carvalho tattoo"
   },
   {
     "id": "gf.ink",
@@ -38460,24 +38370,19 @@
     "normalized": "guilherme oliveira"
   },
   {
-    "id": "guivirginello",
-    "name": "Guilherme Virginello",
-    "normalized": "guilherme virginello"
-  },
-  {
-    "id": "guizo187",
-    "name": "Guilherme Zouvi",
-    "normalized": "guilherme zouvi"
-  },
-  {
     "id": "guillainlevilain",
     "name": "Guillain le Vilain",
     "normalized": "guillain le vilain"
   },
   {
     "id": "guillaumegustattoo",
-    "name": "Guillaume Couture",
+    "name": "guillaume couture",
     "normalized": "guillaume couture"
+  },
+  {
+    "id": "guiartwork",
+    "name": "Guillaume Méry l Tattoo artist Berlin/Paris",
+    "normalized": "guillaume méry l tattoo artist berlin/paris"
   },
   {
     "id": "guillaume_smash",
@@ -38510,6 +38415,11 @@
     "normalized": "guillermo martinez ayala"
   },
   {
+    "id": "guilleryan.arttattoo",
+    "name": "Guillermo Ryan",
+    "normalized": "guillermo ryan"
+  },
+  {
     "id": "guimorart",
     "name": "Guillermo Sanchez",
     "normalized": "guillermo sanchez"
@@ -38525,11 +38435,6 @@
     "normalized": "guillermoj gonzalez"
   },
   {
-    "id": "guindero",
-    "name": "Guindero",
-    "normalized": "guindero"
-  },
-  {
     "id": "malibutattoo_sitges",
     "name": "Guindero",
     "normalized": "guindero"
@@ -38541,8 +38446,8 @@
   },
   {
     "id": "guinhotatuagem",
-    "name": "Guinho Tatuagem",
-    "normalized": "guinho tatuagem"
+    "name": "GUINHO TATTOO",
+    "normalized": "guinho tattoo"
   },
   {
     "id": "guivy_hellcat",
@@ -38550,18 +38455,28 @@
     "normalized": "guivy"
   },
   {
-    "id": "gullytattoo",
-    "name": "Gulliver Tattoo",
-    "normalized": "gulliver tattoo"
+    "id": "guizo187",
+    "name": "GUIZO © Lisbon Tattoo Artist",
+    "normalized": "guizo © lisbon tattoo artist"
+  },
+  {
+    "id": "gulfcoastprotattoo",
+    "name": "Gulf Coast Professional Tattoo",
+    "normalized": "gulf coast professional tattoo"
   },
   {
     "id": "gummyjohnston",
-    "name": "Gummy Johnston",
+    "name": "Gummy johnston",
     "normalized": "gummy johnston"
   },
   {
+    "id": "gumtoadtattoos",
+    "name": "Gumtoad Tattoos (no piercings, tattoos only)",
+    "normalized": "gumtoad tattoos (no piercings, tattoos only)"
+  },
+  {
     "id": "gundenizoktay",
-    "name": "Gundeniz OktaY",
+    "name": "Gundeniz Oktay",
     "normalized": "gundeniz oktay"
   },
   {
@@ -38580,6 +38495,11 @@
     "normalized": "gunnar valdimarsson"
   },
   {
+    "id": "gunsnneedlestattoo",
+    "name": "Guns N' Needles Tattoo",
+    "normalized": "guns n' needles tattoo"
+  },
+  {
     "id": "gunzalez_ink",
     "name": "Gunzalez Ink",
     "normalized": "gunzalez ink"
@@ -38595,6 +38515,11 @@
     "normalized": "guru tattoo"
   },
   {
+    "id": "gu.bringel",
+    "name": "Gus",
+    "normalized": "gus"
+  },
+  {
     "id": "gusespinozajr",
     "name": "Gus Espinoza Jr",
     "normalized": "gus espinoza jr"
@@ -38606,8 +38531,8 @@
   },
   {
     "id": "guskalavera",
-    "name": "Gus Kalavera",
-    "normalized": "gus kalavera"
+    "name": "Gus Kalavera 💀 TIJUANA",
+    "normalized": "gus kalavera 💀 tijuana"
   },
   {
     "id": "gusak",
@@ -38620,19 +38545,14 @@
     "normalized": "gusak tattoo"
   },
   {
-    "id": "guseul_tattoo",
-    "name": "Guseul Tattoo",
-    "normalized": "guseul tattoo"
+    "id": "gustavopretoart",
+    "name": "Gustavo \"Preto\"",
+    "normalized": "gustavo \"preto\""
   },
   {
     "id": "gustavo.bulldogtattoo",
-    "name": "Gustavo",
-    "normalized": "gustavo"
-  },
-  {
-    "id": "guvtattoo",
-    "name": "Gustavo (GuvTattoo)",
-    "normalized": "gustavo (guvtattoo)"
+    "name": "Gustavo / Tattoo Artist",
+    "normalized": "gustavo / tattoo artist"
   },
   {
     "id": "gustavoabreu",
@@ -38643,11 +38563,6 @@
     "id": "gustavobagetattoo",
     "name": "Gustavo Bagé • Canela/RS",
     "normalized": "gustavo bagé • canela/rs"
-  },
-  {
-    "id": "gu.bringel",
-    "name": "Gustavo Bringel",
-    "normalized": "gustavo bringel"
   },
   {
     "id": "gambirazink",
@@ -38685,11 +38600,6 @@
     "normalized": "gustavo milani gudde"
   },
   {
-    "id": "gustavopretoart",
-    "name": "Gustavo Preto",
-    "normalized": "gustavo preto"
-  },
-  {
     "id": "cdrtattoo",
     "name": "Gustavo Santos",
     "normalized": "gustavo santos"
@@ -38706,13 +38616,8 @@
   },
   {
     "id": "guteixeiratattoo",
-    "name": "Gustavo Teixeira",
-    "normalized": "gustavo teixeira"
-  },
-  {
-    "id": "gostatattoo",
-    "name": "Gustavo Zuiin",
-    "normalized": "gustavo zuiin"
+    "name": "Gustavo Teixeira • Tatuagem tribal e Motivação",
+    "normalized": "gustavo teixeira • tatuagem tribal e motivação"
   },
   {
     "id": "gustavozuiin",
@@ -38721,8 +38626,8 @@
   },
   {
     "id": "guttootattoo",
-    "name": "Guttoo Tattoo Artist",
-    "normalized": "guttoo tattoo artist"
+    "name": "Gutto 13 🇧🇷•🇵🇹•🇫🇷•🇪🇸",
+    "normalized": "gutto 13 🇧🇷•🇵🇹•🇫🇷•🇪🇸"
   },
   {
     "id": "guyaitchison",
@@ -38736,8 +38641,8 @@
   },
   {
     "id": "guyeigel",
-    "name": "Guy Eigel",
-    "normalized": "guy eigel"
+    "name": "Guy Eigel Anime & Manga Tattoos",
+    "normalized": "guy eigel anime & manga tattoos"
   },
   {
     "id": "guy_labo_o_kult",
@@ -38756,8 +38661,13 @@
   },
   {
     "id": "guy666",
-    "name": "Guy Tinsley",
-    "normalized": "guy tinsley"
+    "name": "Guy Tinsley Custom Tattoos",
+    "normalized": "guy tinsley custom tattoos"
+  },
+  {
+    "id": "guytrueblue",
+    "name": "Guy Ursitti",
+    "normalized": "guy ursitti"
   },
   {
     "id": "guyursitti",
@@ -38770,9 +38680,9 @@
     "normalized": "guy waisman"
   },
   {
-    "id": "gwansoontattoos",
-    "name": "GwanSoon Lee",
-    "normalized": "gwansoon lee"
+    "id": "guvtattoo",
+    "name": "GV Tattoo",
+    "normalized": "gv tattoo"
   },
   {
     "id": "_gweet_",
@@ -38785,29 +38695,14 @@
     "normalized": "gypsy blood tattoo"
   },
   {
-    "id": "gipsycaravantattoo",
-    "name": "Gypsy Caravan",
-    "normalized": "gypsy caravan"
-  },
-  {
-    "id": "gypsygardentattoo",
-    "name": "Gypsy Garden Tattoo",
-    "normalized": "gypsy garden tattoo"
-  },
-  {
     "id": "gypsykingstattoos",
     "name": "Gypsy Kings Tattoos",
     "normalized": "gypsy kings tattoos"
   },
   {
-    "id": "gypsy.rose.tattoo",
-    "name": "Gypsy Rose",
-    "normalized": "gypsy rose"
-  },
-  {
     "id": "gypsyrosetattoos",
-    "name": "Gypsy Rose Tattoo",
-    "normalized": "gypsy rose tattoo"
+    "name": "Gypsy Rose Tattoos/Downtown Phoenix",
+    "normalized": "gypsy rose tattoos/downtown phoenix"
   },
   {
     "id": "gypsyskulltattoo",
@@ -38818,6 +38713,11 @@
     "id": "gypsytattoopgh",
     "name": "Gypsy Tattoo Parlor",
     "normalized": "gypsy tattoo parlor"
+  },
+  {
+    "id": "gypsy.rose.tattoo",
+    "name": "GypsyRoseTattooStudio",
+    "normalized": "gypsyrosetattoostudio"
   },
   {
     "id": "gaborheizlertattoos",
@@ -38850,9 +38750,19 @@
     "normalized": "göteborg classic tattooing"
   },
   {
+    "id": "gueldner_tattoo_und_piercing",
+    "name": "Güldner Tattoo-& Piercing",
+    "normalized": "güldner tattoo-& piercing"
+  },
+  {
     "id": "gullsahkaraca",
     "name": "Gülşah KARACA",
     "normalized": "gülşah karaca"
+  },
+  {
+    "id": "goranivic.tattoo",
+    "name": "GŌ",
+    "normalized": "gō"
   },
   {
     "id": "gabibessa",
@@ -38875,6 +38785,21 @@
     "normalized": "h"
   },
   {
+    "id": "hannahmaitattoo",
+    "name": "H a n n a h    M a i 🏳️‍🌈",
+    "normalized": "h a n n a h m a i 🏳️‍🌈"
+  },
+  {
+    "id": "hedonismworkshop",
+    "name": "H E D O N I S M.",
+    "normalized": "h e d o n i s m."
+  },
+  {
+    "id": "hermosaink",
+    "name": "H E R M O S A  I N K | Tattoo & Piercing",
+    "normalized": "h e r m o s a i n k | tattoo & piercing"
+  },
+  {
     "id": "hrukti_tattoos",
     "name": "H · Hrukti",
     "normalized": "h · hrukti"
@@ -38895,11 +38820,6 @@
     "normalized": "h&h tattoo las vegas"
   },
   {
-    "id": "hachetattoo",
-    "name": "Hache Tattoo",
-    "normalized": "hache tattoo"
-  },
-  {
     "id": "ninteendo",
     "name": "Hadar aka Ninteendo",
     "normalized": "hadar aka ninteendo"
@@ -38916,18 +38836,13 @@
   },
   {
     "id": "hadrissm",
-    "name": "Hadriss Morales",
-    "normalized": "hadriss morales"
+    "name": "Hadriss - Tatuador",
+    "normalized": "hadriss - tatuador"
   },
   {
     "id": "yzasencio",
     "name": "Hahhvs",
     "normalized": "hahhvs"
-  },
-  {
-    "id": "haivarasly",
-    "name": "Hai Varas",
-    "normalized": "hai varas"
   },
   {
     "id": "haightashburytattooandpiercing",
@@ -38955,19 +38870,19 @@
     "normalized": "hailin tattoo studio"
   },
   {
+    "id": "haivarasly",
+    "name": "HAIvarasly",
+    "normalized": "haivarasly"
+  },
+  {
     "id": "tamashajdu",
     "name": "Hajdu Tamas",
     "normalized": "hajdu tamas"
   },
   {
-    "id": "guinmtattoo",
-    "name": "Hajime Tattoo",
-    "normalized": "hajime tattoo"
-  },
-  {
     "id": "hajimetattoo",
-    "name": "Hajime Tattoo",
-    "normalized": "hajime tattoo"
+    "name": "HAJIME TATTOO | SÃO PAULO",
+    "normalized": "hajime tattoo | são paulo"
   },
   {
     "id": "hajin_irezumi",
@@ -38978,11 +38893,6 @@
     "id": "hakanadik",
     "name": "Hakan Adik • Micro Realism Tattoos NYC",
     "normalized": "hakan adik • micro realism tattoos nyc"
-  },
-  {
-    "id": "hakupsychose",
-    "name": "Haku Psy chose",
-    "normalized": "haku psy chose"
   },
   {
     "id": "halbstark",
@@ -39000,14 +38910,14 @@
     "normalized": "hale nui tattoo company"
   },
   {
-    "id": "haleybearstattoo",
-    "name": "Haley Bears",
-    "normalized": "haley bears"
-  },
-  {
     "id": "haleygogue",
     "name": "Haley Gogue",
     "normalized": "haley gogue"
+  },
+  {
+    "id": "halfwolftattoo",
+    "name": "Half Wolf Tattoo",
+    "normalized": "half wolf tattoo"
   },
   {
     "id": "hall_of_tattoos",
@@ -39023,11 +38933,6 @@
     "id": "halojankowski",
     "name": "Halo Jankowski",
     "normalized": "halo jankowski"
-  },
-  {
-    "id": "halunken_tattoo",
-    "name": "Halunken Tattoo",
-    "normalized": "halunken tattoo"
   },
   {
     "id": "haluznice_tattoo_art",
@@ -39055,19 +38960,14 @@
     "normalized": "hammer joe"
   },
   {
-    "id": "hammertattoos_piercings",
-    "name": "Hammer Tattoos",
-    "normalized": "hammer tattoos"
-  },
-  {
-    "id": "hammerstattoo",
-    "name": "Hammer's Tattoo & Body Piercing",
-    "normalized": "hammer's tattoo & body piercing"
-  },
-  {
     "id": "hammerheadtattoo",
     "name": "Hammerhead Tattoo",
     "normalized": "hammerhead tattoo"
+  },
+  {
+    "id": "hammerstattoo",
+    "name": "Hammers Tattoo & Body Piercing",
+    "normalized": "hammers tattoo & body piercing"
   },
   {
     "id": "hamptons_ink",
@@ -39090,9 +38990,14 @@
     "normalized": "han so"
   },
   {
-    "id": "hanabanaanaa",
-    "name": "Hana Banana",
-    "normalized": "hana banana"
+    "id": "hanahelizabethtattoo",
+    "name": "Hanah Elizabeth",
+    "normalized": "hanah elizabeth"
+  },
+  {
+    "id": "handoffaithtattoo",
+    "name": "HAND OF FAITH TATTOO - PHOENIX ARIZONA TATTOO SHOP",
+    "normalized": "hand of faith tattoo - phoenix arizona tattoo shop"
   },
   {
     "id": "handoffate.design",
@@ -39101,23 +39006,18 @@
   },
   {
     "id": "handofglorytattoo",
-    "name": "Hand of Glory Tattoo",
-    "normalized": "hand of glory tattoo"
+    "name": "Hand of Glory Tattoo Studio",
+    "normalized": "hand of glory tattoo studio"
   },
   {
     "id": "handofmysteries",
-    "name": "Hand of Mysteries",
-    "normalized": "hand of mysteries"
+    "name": "Hand Of Mysteries Dunstable",
+    "normalized": "hand of mysteries dunstable"
   },
   {
     "id": "madameunikat",
     "name": "Hand-poker & Up-cycler",
     "normalized": "hand-poker & up-cycler"
-  },
-  {
-    "id": "handoffaithtattoo",
-    "name": "Handoffaithtattoo",
-    "normalized": "handoffaithtattoo"
   },
   {
     "id": "blamemax",
@@ -39145,14 +39045,19 @@
     "normalized": "handsmark"
   },
   {
+    "id": "handsome_devil_tattoo",
+    "name": "Handsome Devil Tattoo Co",
+    "normalized": "handsome devil tattoo co"
+  },
+  {
     "id": "handsomemike",
     "name": "Handsome Mike",
     "normalized": "handsome mike"
   },
   {
-    "id": "handspuntattoos",
-    "name": "HandSpunTattoos",
-    "normalized": "handspuntattoos"
+    "id": "handsomemiketattoo",
+    "name": "Handsome Mike",
+    "normalized": "handsome mike"
   },
   {
     "id": "hangmantattoo",
@@ -39175,9 +39080,9 @@
     "normalized": "hankó melinda"
   },
   {
-    "id": "hannah_tattoos",
-    "name": "Hannah",
-    "normalized": "hannah"
+    "id": "hanabanaanaa",
+    "name": "Hanna ☾ 𝓂𝒶𝑔𝒾𝒸𝒶𝓁 𝓉𝒶𝓉𝓉𝑜𝑜𝓈 ℬ𝒶𝓁𝒾 / 𝒲𝒶𝓇𝓈𝒶𝓌",
+    "normalized": "hanna ☾ magical tattoos Bali / Warsaw"
   },
   {
     "id": "hshgtattoo",
@@ -39215,24 +39120,14 @@
     "normalized": "hannah clark"
   },
   {
-    "id": "hctattooer",
-    "name": "Hannah Cromwell",
-    "normalized": "hannah cromwell"
-  },
-  {
-    "id": "hdizzletattoo",
-    "name": "Hannah Diaz",
-    "normalized": "hannah diaz"
+    "id": "hannahleightattoos",
+    "name": "hannah edwards-williams",
+    "normalized": "hannah edwards-williams"
   },
   {
     "id": "hannahelizabeth_tattoos",
     "name": "Hannah Elizabeth",
     "normalized": "hannah elizabeth"
-  },
-  {
-    "id": "hanahelizabethtattoo",
-    "name": "Hannah Elizabeth Tattoo",
-    "normalized": "hannah elizabeth tattoo"
   },
   {
     "id": "hannahflowers",
@@ -39243,11 +39138,6 @@
     "id": "hannahflowers_tattoos",
     "name": "Hannah Flowers",
     "normalized": "hannah flowers"
-  },
-  {
-    "id": "hautnah_donzdorf",
-    "name": "Hannah Haut-Nah",
-    "normalized": "hannah haut-nah"
   },
   {
     "id": "hnnhtattoo",
@@ -39265,11 +39155,6 @@
     "normalized": "hannah keuls"
   },
   {
-    "id": "hannahleightattoos",
-    "name": "Hannah Leigh",
-    "normalized": "hannah leigh"
-  },
-  {
     "id": "hannahloutattoo",
     "name": "Hannah Louise Kyle",
     "normalized": "hannah louise kyle"
@@ -39278,16 +39163,6 @@
     "id": "hannahlouise",
     "name": "Hannah Louise Trunwitt",
     "normalized": "hannah louise trunwitt"
-  },
-  {
-    "id": "hannahmaitattoo",
-    "name": "Hannah Mai",
-    "normalized": "hannah mai"
-  },
-  {
-    "id": "hautdesigntattoo",
-    "name": "Hannah Schmidt",
-    "normalized": "hannah schmidt"
   },
   {
     "id": "hannahstorm",
@@ -39310,14 +39185,14 @@
     "normalized": "hannah steele"
   },
   {
-    "id": "hanaaatattoo",
+    "id": "hannahwestcott",
     "name": "Hannah Westcott",
     "normalized": "hannah westcott"
   },
   {
-    "id": "hannahwestcott",
-    "name": "Hannah Westcott",
-    "normalized": "hannah westcott"
+    "id": "hannah_tattoos",
+    "name": "Hannah Weston",
+    "normalized": "hannah weston"
   },
   {
     "id": "hannah_willison",
@@ -39335,6 +39210,11 @@
     "normalized": "hannes-urs gastmann"
   },
   {
+    "id": "hanspicotattoo",
+    "name": "Hans Felipe Pico Pulido",
+    "normalized": "hans felipe pico pulido"
+  },
+  {
     "id": "hansebluearms",
     "name": "Hans joen Heggum",
     "normalized": "hans joen heggum"
@@ -39345,19 +39225,14 @@
     "normalized": "hans joen heggum"
   },
   {
-    "id": "hanspicotattoo",
-    "name": "Hans Pico",
-    "normalized": "hans pico"
-  },
-  {
     "id": "hood.seven",
     "name": "Hans Schmidt",
     "normalized": "hans schmidt"
   },
   {
     "id": "hansschrodertattooing",
-    "name": "Hans Schroder",
-    "normalized": "hans schroder"
+    "name": "hans schroder - spider tattoo malmö",
+    "normalized": "hans schroder - spider tattoo malmö"
   },
   {
     "id": "hansschroder",
@@ -39376,7 +39251,7 @@
   },
   {
     "id": "hanzo_il",
-    "name": "Hanzo Il",
+    "name": "Ｈａｎｚｏ Ｉｌ",
     "normalized": "hanzo il"
   },
   {
@@ -39390,18 +39265,13 @@
     "normalized": "harbourside tattoo & co"
   },
   {
-    "id": "hard_core_tattoo_mallorca",
-    "name": "Hard Core Tattoo Mallorca",
-    "normalized": "hard core tattoo mallorca"
-  },
-  {
     "id": "hard_luck_tattoo",
-    "name": "Hard Luck Tattoo",
+    "name": "HARD LUCK TATTOO",
     "normalized": "hard luck tattoo"
   },
   {
     "id": "hardwork_tattoo",
-    "name": "Hard Work Tattoo",
+    "name": "HARD WORK TATTOO",
     "normalized": "hard work tattoo"
   },
   {
@@ -39445,14 +39315,9 @@
     "normalized": "harley kirkwood"
   },
   {
-    "id": "harleytattooartist",
-    "name": "Harley Tattoo Artist",
-    "normalized": "harley tattoo artist"
-  },
-  {
     "id": "harperrosetattoo",
-    "name": "Harper Rose",
-    "normalized": "harper rose"
+    "name": "Harper",
+    "normalized": "harper"
   },
   {
     "id": "harpertattoo",
@@ -39471,13 +39336,18 @@
   },
   {
     "id": "harrison_tattoo",
-    "name": "Harrison",
+    "name": "HARRISON",
     "normalized": "harrison"
   },
   {
+    "id": "harrrytattooer",
+    "name": "HarrryTattooer",
+    "normalized": "harrrytattooer"
+  },
+  {
     "id": "harryflashmans",
-    "name": "Harry Flashman",
-    "normalized": "harry flashman"
+    "name": "Harry Flashmans Tattoo Parlour",
+    "normalized": "harry flashmans tattoo parlour"
   },
   {
     "id": "hh_tattoo",
@@ -39495,19 +39365,9 @@
     "normalized": "harry hopkins"
   },
   {
-    "id": "harryjamestattoo",
-    "name": "Harry James Tattoo",
-    "normalized": "harry james tattoo"
-  },
-  {
     "id": "_harrymckenzie",
     "name": "Harry Mckenzie",
     "normalized": "harry mckenzie"
-  },
-  {
-    "id": "harshdose",
-    "name": "harshdose",
-    "normalized": "harshdose"
   },
   {
     "id": "hhniagara",
@@ -39525,11 +39385,6 @@
     "normalized": "harvey lee"
   },
   {
-    "id": "hashtagstuttgart",
-    "name": "Hashtag Stuttgart",
-    "normalized": "hashtag stuttgart"
-  },
-  {
     "id": "hasstattoos",
     "name": "Hass",
     "normalized": "hass"
@@ -39540,19 +39395,14 @@
     "normalized": "hass | tattoo artist"
   },
   {
-    "id": "hatcitychris",
-    "name": "Hat City Tattoo",
-    "normalized": "hat city tattoo"
-  },
-  {
     "id": "hatbirdtattoo",
     "name": "Hatbirdtattoo",
     "normalized": "hatbirdtattoo"
   },
   {
     "id": "hated_tattoo",
-    "name": "HATED",
-    "normalized": "hated"
+    "name": "HATED | tattoo Krakow | Realizm Cracow",
+    "normalized": "hated | tattoo krakow | realizm cracow"
   },
   {
     "id": "hattiejcox_tattoo",
@@ -39570,6 +39420,11 @@
     "normalized": "hauptsache tattoo"
   },
   {
+    "id": "haustattoo",
+    "name": "HAUS TATTOO & PIERCING",
+    "normalized": "haus tattoo & piercing"
+  },
+  {
     "id": "hausmannskost_tattoo",
     "name": "Hausmannskost Tattoo",
     "normalized": "hausmannskost tattoo"
@@ -39580,13 +39435,23 @@
     "normalized": "haut und tinte"
   },
   {
-    "id": "hautkultur_mannheim",
-    "name": "Hautkultur Mannheim",
-    "normalized": "hautkultur mannheim"
+    "id": "hautnah_donzdorf",
+    "name": "Haut-Nah Tattoo Studio",
+    "normalized": "haut-nah tattoo studio"
+  },
+  {
+    "id": "hautdesigntattoo",
+    "name": "Hautdesign Tattoo & Piercing",
+    "normalized": "hautdesign tattoo & piercing"
+  },
+  {
+    "id": "havehopetattoo",
+    "name": "Have Hope Tattoo and Gallery",
+    "normalized": "have hope tattoo and gallery"
   },
   {
     "id": "havefaithtattoo",
-    "name": "HaveFaithTattoo",
+    "name": "HAVEFAITHTATTOO",
     "normalized": "havefaithtattoo"
   },
   {
@@ -39606,18 +39471,13 @@
   },
   {
     "id": "haxan.tattoo",
-    "name": "Haxan Tattoo",
-    "normalized": "haxan tattoo"
+    "name": "Haxan",
+    "normalized": "haxan"
   },
   {
     "id": "haydenoconnor",
     "name": "Hayden O'connor",
     "normalized": "hayden o'connor"
-  },
-  {
-    "id": "haydenthompsontattoo",
-    "name": "Hayden Thompson",
-    "normalized": "hayden thompson"
   },
   {
     "id": "hinterland.roc",
@@ -39626,8 +39486,8 @@
   },
   {
     "id": "haydntattoo",
-    "name": "Haydn Higham",
-    "normalized": "haydn higham"
+    "name": "Haydn Tattoo",
+    "normalized": "haydn tattoo"
   },
   {
     "id": "hayleighhazeybtattoos",
@@ -39636,23 +39496,13 @@
   },
   {
     "id": "hayley.tattoo.art",
-    "name": "Hayley",
+    "name": "HAYLEY",
     "normalized": "hayley"
-  },
-  {
-    "id": "hayleyblackwoodtattoo",
-    "name": "Hayley Blackwood",
-    "normalized": "hayley blackwood"
   },
   {
     "id": "hayleylangantattoo",
     "name": "Hayley Langan Tattoo",
     "normalized": "hayley langan tattoo"
-  },
-  {
-    "id": "hayleybunstattoos",
-    "name": "Hayley Moore",
-    "normalized": "hayley moore"
   },
   {
     "id": "hayleyploos",
@@ -39675,9 +39525,14 @@
     "normalized": "haylie farrell"
   },
   {
+    "id": "hcfltattoo",
+    "name": "HC⚡️FL TATTOO",
+    "normalized": "hc⚡️fl tattoo"
+  },
+  {
     "id": "heartandsoul_tattoo",
-    "name": "Heart & Soul Tattoo",
-    "normalized": "heart & soul tattoo"
+    "name": "Heart & Soul Melbourne Tattoo Studio",
+    "normalized": "heart & soul melbourne tattoo studio"
   },
   {
     "id": "hstc_fxbg",
@@ -39691,8 +39546,8 @@
   },
   {
     "id": "heartofgold.tattoo",
-    "name": "Heart of Gold Tattoo",
-    "normalized": "heart of gold tattoo"
+    "name": "ＨＥＡＲＴ ＯＦ ＧＯＬＤ",
+    "normalized": "heart of gold"
   },
   {
     "id": "heartofink",
@@ -39715,6 +39570,11 @@
     "normalized": "hearts & hands tattoo"
   },
   {
+    "id": "hctattooer",
+    "name": "Heath Clifford",
+    "normalized": "heath clifford"
+  },
+  {
     "id": "heath.laramie",
     "name": "Heath Laramie",
     "normalized": "heath laramie"
@@ -39728,11 +39588,6 @@
     "id": "heathrave",
     "name": "Heath Rave",
     "normalized": "heath rave"
-  },
-  {
-    "id": "heathershenna",
-    "name": "Heather",
-    "normalized": "heather"
   },
   {
     "id": "ladylucktattoo_phoenix",
@@ -39761,13 +39616,23 @@
   },
   {
     "id": "heatherpilapil",
-    "name": "Heather Pilapil",
-    "normalized": "heather pilapil"
+    "name": "Heather Pilapil's Tattoo & Art",
+    "normalized": "heather pilapil's tattoo & art"
   },
   {
-    "id": "heatonstattooclub",
-    "name": "Heatons Tattoo Club",
-    "normalized": "heatons tattoo club"
+    "id": "h.j.tattoo",
+    "name": "Heather Thomson",
+    "normalized": "heather thomson"
+  },
+  {
+    "id": "heathershenna",
+    "name": "Heather's Henna Tattoos",
+    "normalized": "heather's henna tattoos"
+  },
+  {
+    "id": "heavenofcolours",
+    "name": "HEAVEN OF COLOURS • TATTOOSTUDIO ZWICKAU",
+    "normalized": "heaven of colours • tattoostudio zwickau"
   },
   {
     "id": "heavenly_inkz_tattoo",
@@ -39775,24 +39640,19 @@
     "normalized": "heavenly inkz tattoo"
   },
   {
+    "id": "heavyhandsgeorge",
+    "name": "Heavy But Steady.",
+    "normalized": "heavy but steady."
+  },
+  {
     "id": "heavyhanderstattoo",
     "name": "Heavy Handers Tattoo",
     "normalized": "heavy handers tattoo"
   },
   {
-    "id": "heptictatz",
-    "name": "Hector (Heptic)",
-    "normalized": "hector (heptic)"
-  },
-  {
     "id": "hectorm4l",
     "name": "Hector Arriaga",
     "normalized": "hector arriaga"
-  },
-  {
-    "id": "hectorcarazo",
-    "name": "Hector Carazo",
-    "normalized": "hector carazo"
   },
   {
     "id": "hectorcedillo1",
@@ -39815,11 +39675,6 @@
     "normalized": "hector hernandez"
   },
   {
-    "id": "hectormateostattoo",
-    "name": "Hector Mateos",
-    "normalized": "hector mateos"
-  },
-  {
     "id": "godhand32",
     "name": "Hector Serate",
     "normalized": "hector serate"
@@ -39828,11 +39683,6 @@
     "id": "sangreblue",
     "name": "Hector Vazquez",
     "normalized": "hector vazquez"
-  },
-  {
-    "id": "hedonismworkshop",
-    "name": "Hedonism Workshop",
-    "normalized": "hedonism workshop"
   },
   {
     "id": "heedolee",
@@ -39846,28 +39696,18 @@
   },
   {
     "id": "heeno_tattooer",
-    "name": "Heeno Lee",
-    "normalized": "heeno lee"
+    "name": "Heeno",
+    "normalized": "heeno"
   },
   {
     "id": "hefrem_tattoo",
-    "name": "Hefrem",
+    "name": "hefrem",
     "normalized": "hefrem"
   },
   {
     "id": "heidiblades.deepingink",
     "name": "Heidi Blades",
     "normalized": "heidi blades"
-  },
-  {
-    "id": "heidifureytattoo",
-    "name": "Heidi Furey",
-    "normalized": "heidi furey"
-  },
-  {
-    "id": "heidikayetattoo",
-    "name": "Heidi Kaye",
-    "normalized": "heidi kaye"
   },
   {
     "id": "nopathinthesky",
@@ -39885,24 +39725,9 @@
     "normalized": "heiko uhlmann"
   },
   {
-    "id": "heim__tattoo",
-    "name": "Heim Tattoo",
-    "normalized": "heim tattoo"
-  },
-  {
-    "id": "heimatattoo",
-    "name": "Heima",
-    "normalized": "heima"
-  },
-  {
     "id": "heinz",
     "name": "Heinz",
     "normalized": "heinz"
-  },
-  {
-    "id": "helltatto",
-    "name": "Hel tattoo",
-    "normalized": "hel tattoo"
   },
   {
     "id": "helenxu",
@@ -39918,11 +39743,6 @@
     "id": "indigorosetattooartist",
     "name": "Helen Coatham",
     "normalized": "helen coatham"
-  },
-  {
-    "id": "heflana_tattoo",
-    "name": "Helen Flavia",
-    "normalized": "helen flavia"
   },
   {
     "id": "highwaterstattoo",
@@ -39943,6 +39763,11 @@
     "id": "helen.poputnikova",
     "name": "Helen Poputnikova",
     "normalized": "helen poputnikova"
+  },
+  {
+    "id": "heflana_tattoo",
+    "name": "Helen | Tattoo Artist",
+    "normalized": "helen | tattoo artist"
   },
   {
     "id": "bobavhett",
@@ -39976,7 +39801,7 @@
   },
   {
     "id": "helene_sol_art",
-    "name": "Helene Sol",
+    "name": "HELENE SOL",
     "normalized": "helene sol"
   },
   {
@@ -39991,8 +39816,8 @@
   },
   {
     "id": "heliotattoo",
-    "name": "Helio Tattoo",
-    "normalized": "helio tattoo"
+    "name": "Helio Filho",
+    "normalized": "helio filho"
   },
   {
     "id": "heliostattoo",
@@ -40015,14 +39840,34 @@
     "normalized": "hell city tattoo festival"
   },
   {
+    "id": "hellorhighwaternola",
+    "name": "Hell Or High Water",
+    "normalized": "hell or high water"
+  },
+  {
+    "id": "helltatto",
+    "name": "Hell Tattoo - Giancarlo Pincelli - Tattoo Removal",
+    "normalized": "hell tattoo - giancarlo pincelli - tattoo removal"
+  },
+  {
+    "id": "hell.cz",
+    "name": "Hell.cz",
+    "normalized": "hell.cz"
+  },
+  {
     "id": "hella_tatted",
-    "name": "Hella Tatted",
-    "normalized": "hella tatted"
+    "name": "Hella 🕷 Tatted",
+    "normalized": "hella 🕷 tatted"
+  },
+  {
+    "id": "hellboundtattoos",
+    "name": "HELLBOUND TATTOOS",
+    "normalized": "hellbound tattoos"
   },
   {
     "id": "hellcatstattoo",
-    "name": "Hellcat Tattoo",
-    "normalized": "hellcat tattoo"
+    "name": "Hellcats Tattoo",
+    "normalized": "hellcats tattoo"
   },
   {
     "id": "hellcock",
@@ -40036,8 +39881,8 @@
   },
   {
     "id": "helooriola",
-    "name": "Helo Oriola",
-    "normalized": "helo oriola"
+    "name": "Heloisa Oriola",
+    "normalized": "heloisa oriola"
   },
   {
     "id": "otchch",
@@ -40080,9 +39925,9 @@
     "normalized": "henna by @amatulrauf_"
   },
   {
-    "id": "hennahopes",
-    "name": "Henna Hopes",
-    "normalized": "henna hopes"
+    "id": "hennabycharu",
+    "name": "Henna by Charu | Austin & Round Rock Henna Artist",
+    "normalized": "henna by charu | austin & round rock henna artist"
   },
   {
     "id": "highlowhenna",
@@ -40090,14 +39935,14 @@
     "normalized": "henna mage"
   },
   {
-    "id": "hennasandiego",
-    "name": "Henna San Diego",
-    "normalized": "henna san diego"
+    "id": "hennatradition",
+    "name": "Hennaartist |LA based |Mehendi",
+    "normalized": "hennaartist |la based |mehendi"
   },
   {
-    "id": "hennasevilla_",
-    "name": "Henna Sevilla",
-    "normalized": "henna sevilla"
+    "id": "hennafx",
+    "name": "HennaFX",
+    "normalized": "hennafx"
   },
   {
     "id": "henningjorgensen",
@@ -40110,19 +39955,9 @@
     "normalized": "henning förster"
   },
   {
-    "id": "henri.howard",
-    "name": "Henri Howard",
-    "normalized": "henri howard"
-  },
-  {
     "id": "henriburo",
     "name": "Henriburo",
     "normalized": "henriburo"
-  },
-  {
-    "id": "henrik_tattoo",
-    "name": "Henrik",
-    "normalized": "henrik"
   },
   {
     "id": "hbnielsen",
@@ -40140,14 +39975,14 @@
     "normalized": "henrik grysbjerg"
   },
   {
+    "id": "henrik_tattoo",
+    "name": "Henrik Tattoo",
+    "normalized": "henrik tattoo"
+  },
+  {
     "id": "brandaohenriquetattoo",
     "name": "Henrique Brandão",
     "normalized": "henrique brandão"
-  },
-  {
-    "id": "hcarmo_tattoo",
-    "name": "Henrique Carmo",
-    "normalized": "henrique carmo"
   },
   {
     "id": "hs.tattoo",
@@ -40221,8 +40056,8 @@
   },
   {
     "id": "herbxauerbach",
-    "name": "Herb Xauerbach",
-    "normalized": "herb xauerbach"
+    "name": "Herb Auerbach",
+    "normalized": "herb auerbach"
   },
   {
     "id": "herchelllcarrasco",
@@ -40245,6 +40080,11 @@
     "normalized": "herman gorbunov"
   },
   {
+    "id": "herman_the_german_tattoo",
+    "name": "Herman the German Tattoo",
+    "normalized": "herman the german tattoo"
+  },
+  {
     "id": "__stoat__",
     "name": "Hermine",
     "normalized": "hermine"
@@ -40265,19 +40105,19 @@
     "normalized": "hernan coretta"
   },
   {
-    "id": "hernanyepes_art",
-    "name": "Hernan Yepes",
-    "normalized": "hernan yepes"
-  },
-  {
     "id": "hernanasensi",
-    "name": "Hernana Sensi",
-    "normalized": "hernana sensi"
+    "name": "HERNAN-ASENSI",
+    "normalized": "hernan-asensi"
   },
   {
     "id": "herotattoo",
-    "name": "Hero Conway",
-    "normalized": "hero conway"
+    "name": "𝖍𝖊𝖗𝖔 𝖙𝖆𝖙𝖙𝖔𝖔 - Conway",
+    "normalized": "hero tattoo - conway"
+  },
+  {
+    "id": "heronmarktattoo",
+    "name": "Heron Mark Tattoo & Gallery",
+    "normalized": "heron mark tattoo & gallery"
   },
   {
     "id": "fuchsundbaertattoo",
@@ -40301,13 +40141,8 @@
   },
   {
     "id": "herzkopftattoo",
-    "name": "Herz über Kopf",
-    "normalized": "herz über kopf"
-  },
-  {
-    "id": "hettiebakertattoo",
-    "name": "Hettie Baker",
-    "normalized": "hettie baker"
+    "name": "Herz über Kopf Tätowierungen 📍Dietzenbach",
+    "normalized": "herz über kopf tätowierungen 📍dietzenbach"
   },
   {
     "id": "hettiebaker",
@@ -40340,11 +40175,6 @@
     "normalized": "hey.norte"
   },
   {
-    "id": "hezurra_tattoo",
-    "name": "Hezurra",
-    "normalized": "hezurra"
-  },
-  {
     "id": "havefunbeluckytattoo",
     "name": "HFBL Tattoo",
     "normalized": "hfbl tattoo"
@@ -40360,28 +40190,18 @@
     "normalized": "hi tattoo art - tattoo artists"
   },
   {
-    "id": "hiagonaiko",
-    "name": "Hiago Naiko",
-    "normalized": "hiago naiko"
-  },
-  {
     "id": "hibakhantattoos",
-    "name": "Hiba",
+    "name": "hiba",
     "normalized": "hiba"
   },
   {
-    "id": "hiddenchambertattoo",
-    "name": "Hidden Chamber Tattoo",
-    "normalized": "hidden chamber tattoo"
-  },
-  {
-    "id": "hiddengemtattoohtx",
-    "name": "Hidden Gem Tattoo Studio",
-    "normalized": "hidden gem tattoo studio"
+    "id": "hiddengemtattoo",
+    "name": "Hidden Gem Tattoo",
+    "normalized": "hidden gem tattoo"
   },
   {
     "id": "hiddengemtattoos",
-    "name": "Hidden Gem Tattoos",
+    "name": "HIDDEN GEM TATTOOS",
     "normalized": "hidden gem tattoos"
   },
   {
@@ -40535,11 +40355,6 @@
     "normalized": "hive caps®️"
   },
   {
-    "id": "h.j.tattoo",
-    "name": "HJ Tattoo",
-    "normalized": "hj tattoo"
-  },
-  {
     "id": "hk9tattoo",
     "name": "HK9 Tattoo & Piercing",
     "normalized": "hk9 tattoo & piercing"
@@ -40635,6 +40450,11 @@
     "normalized": "hollow bones tattoo"
   },
   {
+    "id": "hdjink",
+    "name": "Holly",
+    "normalized": "holly"
+  },
+  {
     "id": "hollyvalleytattoo",
     "name": "Holly Anderson",
     "normalized": "holly anderson"
@@ -40648,11 +40468,6 @@
     "id": "hollyastral",
     "name": "Holly Astral",
     "normalized": "holly astral"
-  },
-  {
-    "id": "hdjink",
-    "name": "Holly Devon Johnston",
-    "normalized": "holly devon johnston"
   },
   {
     "id": "hollyellis",
@@ -41273,6 +41088,11 @@
     "id": "paulnguyen",
     "name": "Hòa Vertu",
     "normalized": "hòa vertu"
+  },
+  {
+    "id": "hashtagstuttgart",
+    "name": "HΔSHTΔG STUTTGΔRT",
+    "normalized": "hδshtδg stuttgδrt"
   },
   {
     "id": "ifilipasilva",
@@ -41925,11 +41745,6 @@
     "normalized": "indira kapanova"
   },
   {
-    "id": "gloriousagony",
-    "name": "Indonesian Tattoo Artist",
-    "normalized": "indonesian tattoo artist"
-  },
-  {
     "id": "indre_quinn",
     "name": "Indrė Quinn",
     "normalized": "indrė quinn"
@@ -42025,14 +41840,14 @@
     "normalized": "inflicting ink"
   },
   {
+    "id": "heartofthievestattoo",
+    "name": "Info@heartofthieves.com",
+    "normalized": "info@heartofthieves.com"
+  },
+  {
     "id": "ingahannarr",
     "name": "Inga Allen",
     "normalized": "inga allen"
-  },
-  {
-    "id": "ginkge.xo",
-    "name": "Inge Inks",
-    "normalized": "inge inks"
   },
   {
     "id": "ingo_wirths_tattoo",
@@ -43050,11 +42865,6 @@
     "normalized": "irina doroshenko"
   },
   {
-    "id": "good_sign_tattoo",
-    "name": "Irina Petrova",
-    "normalized": "irina petrova"
-  },
-  {
     "id": "xrushchova",
     "name": "Irina Xrushchova",
     "normalized": "irina xrushchova"
@@ -43196,8 +43006,8 @@
   },
   {
     "id": "gold_ink_tattoo",
-    "name": "Irving Gomez",
-    "normalized": "irving gomez"
+    "name": "Irving Gomez Tattoo",
+    "normalized": "irving gomez tattoo"
   },
   {
     "id": "isa_startattoo",
@@ -43316,8 +43126,8 @@
   },
   {
     "id": "hamahiru13ink",
-    "name": "Isi Gartzia",
-    "normalized": "isi gartzia"
+    "name": "Isi Gartzia Tattoo Artist",
+    "normalized": "isi gartzia tattoo artist"
   },
   {
     "id": "isidoro_scozzari",
@@ -44075,6 +43885,11 @@
     "normalized": "jack gallowtree"
   },
   {
+    "id": "goksisdead",
+    "name": "Jack GOKS",
+    "normalized": "jack goks"
+  },
+  {
     "id": "humantattooer",
     "name": "Jack Human",
     "normalized": "jack human"
@@ -44240,11 +44055,6 @@
     "normalized": "jacob green"
   },
   {
-    "id": "greyxhope",
-    "name": "Jacob H",
-    "normalized": "jacob h"
-  },
-  {
     "id": "hyltontattoo",
     "name": "Jacob Hylton",
     "normalized": "jacob hylton"
@@ -44388,6 +44198,11 @@
     "id": "jacquie",
     "name": "Jacquie",
     "normalized": "jacquie"
+  },
+  {
+    "id": "greyxhope",
+    "name": "JACØB | TATTOO",
+    "normalized": "jacøb | tattoo"
   },
   {
     "id": "jadtattooer",
@@ -45760,11 +45575,6 @@
     "normalized": "jason beuchaw"
   },
   {
-    "id": "gratattooed_tattoo",
-    "name": "Jason Bishop",
-    "normalized": "jason bishop"
-  },
-  {
     "id": "greatwavetattoo",
     "name": "Jason Brooks",
     "normalized": "jason brooks"
@@ -46470,6 +46280,11 @@
     "normalized": "jbeve"
   },
   {
+    "id": "greensoap",
+    "name": "JC",
+    "normalized": "jc"
+  },
+  {
     "id": "bradleeworthen",
     "name": "JC Anderson",
     "normalized": "jc anderson"
@@ -46531,7 +46346,7 @@
   },
   {
     "id": "grumpytattoo",
-    "name": "Jean Charles Lainé",
+    "name": "Jean Charles Lainé",
     "normalized": "jean charles lainé"
   },
   {
@@ -46851,8 +46666,8 @@
   },
   {
     "id": "gumawawa",
-    "name": "Jei",
-    "normalized": "jei"
+    "name": "jei!!!!",
+    "normalized": "jei!!!!"
   },
   {
     "id": "jeinx",
@@ -47176,8 +46991,8 @@
   },
   {
     "id": "hendjerin",
-    "name": "Jerin Tribe Tattoo",
-    "normalized": "jerin tribe tattoo"
+    "name": "JERIN # BERLIN TATTOO ARTIST",
+    "normalized": "jerin # berlin tattoo artist"
   },
   {
     "id": "limited.edition.arnhem",
@@ -47545,11 +47360,6 @@
     "normalized": "jessica"
   },
   {
-    "id": "herzeigen",
-    "name": "Jessica (Jessi)",
-    "normalized": "jessica (jessi)"
-  },
-  {
     "id": "jessica_aaron",
     "name": "Jessica Aaron",
     "normalized": "jessica aaron"
@@ -47890,6 +47700,11 @@
     "normalized": "jhonatan masters"
   },
   {
+    "id": "pabon.art",
+    "name": "Jhonatan Pabon",
+    "normalized": "jhonatan pabon"
+  },
+  {
     "id": "jhonitattoo",
     "name": "Jhoni Albano",
     "normalized": "jhoni albano"
@@ -48123,11 +47938,6 @@
     "id": "jina.zoozoo",
     "name": "Jina Zoozoo",
     "normalized": "jina zoozoo"
-  },
-  {
-    "id": "henna_by_jinal",
-    "name": "Jinal Parmar",
-    "normalized": "jinal parmar"
   },
   {
     "id": "jing",
@@ -48511,7 +48321,7 @@
   },
   {
     "id": "hellomynamesjoe",
-    "name": "Joe Frost",
+    "name": "JOE FROST",
     "normalized": "joe frost"
   },
   {
@@ -48588,11 +48398,6 @@
     "id": "joesilltorres",
     "name": "Joe Sill Torres",
     "normalized": "joe sill torres"
-  },
-  {
-    "id": "gunsnneedlestattoo",
-    "name": "Joe Smith",
-    "normalized": "joe smith"
   },
   {
     "id": "joetattoos215",
@@ -48835,11 +48640,6 @@
     "normalized": "joey sherman"
   },
   {
-    "id": "gulfcoastprotattoo",
-    "name": "Joey Spindler",
-    "normalized": "joey spindler"
-  },
-  {
     "id": "joeyspindlertattoos",
     "name": "Joey Spindler",
     "normalized": "joey spindler"
@@ -48905,11 +48705,6 @@
     "normalized": "johann bernhardt"
   },
   {
-    "id": "hanatorajohann",
-    "name": "Johann Tattoo",
-    "normalized": "johann tattoo"
-  },
-  {
     "id": "johannaolkrolland",
     "name": "Johanna Olk-Rolland",
     "normalized": "johanna olk-rolland"
@@ -48918,6 +48713,11 @@
     "id": "joebtattoo",
     "name": "Johannes Beyreuther",
     "normalized": "johannes beyreuther"
+  },
+  {
+    "id": "hanatorajohann",
+    "name": "johanntattoo",
+    "normalized": "johanntattoo"
   },
   {
     "id": "johetattoos",
@@ -51295,6 +51095,11 @@
     "normalized": "jules boho"
   },
   {
+    "id": "gordontattooer",
+    "name": "Jules Gordon",
+    "normalized": "jules gordon"
+  },
+  {
     "id": "jules_tattoos",
     "name": "Jules Lee",
     "normalized": "jules lee"
@@ -51303,11 +51108,6 @@
     "id": "juleswenzel",
     "name": "Jules Wenzel",
     "normalized": "jules wenzel"
-  },
-  {
-    "id": "grostattoo",
-    "name": "Juli Gros",
-    "normalized": "juli gros"
   },
   {
     "id": "julihamilton",
@@ -51343,11 +51143,6 @@
     "id": "julia.felis",
     "name": "Julia Felis",
     "normalized": "julia felis"
-  },
-  {
-    "id": "hen.wife",
-    "name": "Julia Hayes",
-    "normalized": "julia hayes"
   },
   {
     "id": "julia_hynek_tattoo",
@@ -51683,11 +51478,6 @@
     "id": "julianfelipesc",
     "name": "Julián Felipe SC",
     "normalized": "julián felipe sc"
-  },
-  {
-    "id": "gordontattooer",
-    "name": "Julles Gordon",
-    "normalized": "julles gordon"
   },
   {
     "id": "jully_artistt",
@@ -53380,11 +53170,6 @@
     "normalized": "kayson sthurty"
   },
   {
-    "id": "h8kaz",
-    "name": "Kaz S",
-    "normalized": "kaz s"
-  },
-  {
     "id": "lucsuter",
     "name": "KAZENTATTOO",
     "normalized": "kazentattoo"
@@ -53995,11 +53780,6 @@
     "normalized": "kevin furness"
   },
   {
-    "id": "god.is.art.tattoo",
-    "name": "Kevin G Tattoo Artist",
-    "normalized": "kevin g tattoo artist"
-  },
-  {
     "id": "kevingiangualano",
     "name": "Kevin Giangualano",
     "normalized": "kevin giangualano"
@@ -54201,8 +53981,8 @@
   },
   {
     "id": "goose_tattoos",
-    "name": "Kieran Gorse",
-    "normalized": "kieran gorse"
+    "name": "Kieran Gorse (Mihalovits) 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇺🇸",
+    "normalized": "kieran gorse (mihalovits) 🏴󠁧󠁢󠁷󠁬󠁳󠁿 🇺🇸"
   },
   {
     "id": "kieran_williams",
@@ -54438,11 +54218,6 @@
     "id": "misskimberley",
     "name": "Kimberley Mlk De Ruyck",
     "normalized": "kimberley mlk de ruyck"
-  },
-  {
-    "id": "goldenfalcontattoo",
-    "name": "Kimberly Tattoo",
-    "normalized": "kimberly tattoo"
   },
   {
     "id": "kimkill.tattoo",
@@ -56785,6 +56560,11 @@
     "normalized": "las vegas tattoos best in the city!"
   },
   {
+    "id": "goldenskulltattoo",
+    "name": "Las Vegas Tattoos Best in the city!",
+    "normalized": "las vegas tattoos best in the city!"
+  },
+  {
     "id": "lasmirandatattoo",
     "name": "Lasmiranda Tattoo",
     "normalized": "lasmiranda tattoo"
@@ -56838,11 +56618,6 @@
     "id": "laughingbuddhaseattle",
     "name": "Laughing Buddha Tattoo",
     "normalized": "laughing buddha tattoo"
-  },
-  {
-    "id": "hiddengemtattoo",
-    "name": "Laura",
-    "normalized": "laura"
   },
   {
     "id": "laurainktattoo",
@@ -59200,6 +58975,11 @@
     "normalized": "lisbon traditional tattooer"
   },
   {
+    "id": "glitterpoops_",
+    "name": "Lisset Baquero",
+    "normalized": "lisset baquero"
+  },
+  {
     "id": "lisu_222",
     "name": "Lisu",
     "normalized": "lisu"
@@ -61155,11 +60935,6 @@
     "normalized": "luke edwards"
   },
   {
-    "id": "harringtontattoo",
-    "name": "Luke Harrington",
-    "normalized": "luke harrington"
-  },
-  {
     "id": "hawkertattoo",
     "name": "Luke Hawker",
     "normalized": "luke hawker"
@@ -62578,6 +62353,11 @@
     "id": "maniztattoos",
     "name": "Maniz",
     "normalized": "maniz"
+  },
+  {
+    "id": "hennahopes",
+    "name": "Manjushree",
+    "normalized": "manjushree"
   },
   {
     "id": "cruzixtattoos",
@@ -65150,11 +64930,6 @@
     "normalized": "martyn hester"
   },
   {
-    "id": "hatemartini",
-    "name": "Martyna Cyniak",
-    "normalized": "martyna cyniak"
-  },
-  {
     "id": "martynapopiel",
     "name": "Martyna Popiel",
     "normalized": "martyna popiel"
@@ -65163,6 +64938,11 @@
     "id": "martynassnioka",
     "name": "Martynas Šnioka",
     "normalized": "martynas šnioka"
+  },
+  {
+    "id": "hatemartini",
+    "name": "Martyna•TATUAŻ LODZ•MANDALA•DOTWORK•ORNAMENT",
+    "normalized": "martyna•tatuaż lodz•mandala•dotwork•ornament"
   },
   {
     "id": "kenttattoos",
@@ -65378,11 +65158,6 @@
     "id": "masha",
     "name": "Masha Sedgwick",
     "normalized": "masha sedgwick"
-  },
-  {
-    "id": "haskimonster",
-    "name": "Masha Zhivaia",
-    "normalized": "masha zhivaia"
   },
   {
     "id": "mashav_tattoo",
@@ -66193,11 +65968,6 @@
     "id": "matthewgordontattoo",
     "name": "Matthew Gordon",
     "normalized": "matthew gordon"
-  },
-  {
-    "id": "gotta_tattoo_em_all",
-    "name": "Matthew Inked",
-    "normalized": "matthew inked"
   },
   {
     "id": "matthewjamestattoo",
@@ -67168,11 +66938,6 @@
     "id": "meganmactattoo",
     "name": "Megan Mac Wheeler",
     "normalized": "megan mac wheeler"
-  },
-  {
-    "id": "gritnglory",
-    "name": "Megan Massacre",
-    "normalized": "megan massacre"
   },
   {
     "id": "megan_massacre",
@@ -68600,11 +68365,6 @@
     "normalized": "mike bellamy - tattoo nyc!"
   },
   {
-    "id": "handsomemiketattoo",
-    "name": "Mike Bialek",
-    "normalized": "mike bialek"
-  },
-  {
     "id": "mikeboydtattoos",
     "name": "Mike Boyd",
     "normalized": "mike boyd"
@@ -68790,6 +68550,11 @@
     "normalized": "mike kyrtatas"
   },
   {
+    "id": "herbstgold.tattoo",
+    "name": "MIKE LDZ | Neo-Japanese & Neo-Traditional Tattoos",
+    "normalized": "mike ldz | neo-japanese & neo-traditional tattoos"
+  },
+  {
     "id": "michalledwigtattoo",
     "name": "Mike Ledwig",
     "normalized": "mike ledwig"
@@ -68968,11 +68733,6 @@
     "id": "miketa_tattoo",
     "name": "Mike Ta",
     "normalized": "mike ta"
-  },
-  {
-    "id": "herbstgold.tattoo",
-    "name": "Mike Tattoos",
-    "normalized": "mike tattoos"
   },
   {
     "id": "makitwork",
@@ -69430,6 +69190,11 @@
     "normalized": "ministry of ink"
   },
   {
+    "id": "guseul_tattoo",
+    "name": "Minji seo",
+    "normalized": "minji seo"
+  },
+  {
     "id": "mink_bell",
     "name": "Mink Bell",
     "normalized": "mink bell"
@@ -69471,7 +69236,7 @@
   },
   {
     "id": "girlknewyork",
-    "name": "Mira Mariah",
+    "name": "mira mariah",
     "normalized": "mira mariah"
   },
   {
@@ -71060,6 +70825,11 @@
     "normalized": "mundo das tatuagens"
   },
   {
+    "id": "gloriousagony",
+    "name": "Munich Tattoo",
+    "normalized": "munich tattoo"
+  },
+  {
     "id": "munkkali_tattoo",
     "name": "Munkkali Brewer",
     "normalized": "munkkali brewer"
@@ -71293,6 +71063,11 @@
     "id": "myth",
     "name": "Myth",
     "normalized": "myth"
+  },
+  {
+    "id": "gl_tattoos",
+    "name": "Myth & Mercy Tattoo Co. — by Chase Elsberry",
+    "normalized": "myth & mercy tattoo co. — by chase elsberry"
   },
   {
     "id": "freakshowllc",
@@ -71920,11 +71695,6 @@
     "normalized": "nate needles"
   },
   {
-    "id": "handsomeboynate",
-    "name": "Nate or Nathaniel",
-    "normalized": "nate or nathaniel"
-  },
-  {
     "id": "natesorensen_tattooist",
     "name": "Nate Sorensen",
     "normalized": "nate sorensen"
@@ -71933,6 +71703,11 @@
     "id": "natethomastattooer",
     "name": "Nate Thomas Tattooer",
     "normalized": "nate thomas tattooer"
+  },
+  {
+    "id": "handsomeboynate",
+    "name": "Nate Warner",
+    "normalized": "nate warner"
   },
   {
     "id": "natescorona",
@@ -72465,6 +72240,11 @@
     "normalized": "neotradicional / realismo"
   },
   {
+    "id": "gravebloom",
+    "name": "NEOTRADITIONAL",
+    "normalized": "neotraditional"
+  },
+  {
     "id": "ill_mace",
     "name": "Neotraditional tattoo",
     "normalized": "neotraditional tattoo"
@@ -72653,6 +72433,11 @@
     "id": "newlifetattoos",
     "name": "Newlife Tattoos",
     "normalized": "newlife tattoos"
+  },
+  {
+    "id": "giuliolombarditattooer",
+    "name": "NewSchool·Cartoon·Color Tattoo",
+    "normalized": "newschool·cartoon·color tattoo"
   },
   {
     "id": "newtribetattoo",
@@ -74445,9 +74230,34 @@
     "normalized": "nuno feio"
   },
   {
+    "id": "nuno_tattoos",
+    "name": "Nuno Freitas",
+    "normalized": "nuno freitas"
+  },
+  {
+    "id": "nunomaravilha",
+    "name": "Nuno Maravilha",
+    "normalized": "nuno maravilha"
+  },
+  {
     "id": "garlic_breadlocks",
     "name": "Nunu B",
     "normalized": "nunu b"
+  },
+  {
+    "id": "nunuvalkyrietattoo",
+    "name": "Nuria (Damned Valkyrie Tattoo)",
+    "normalized": "nuria (damned valkyrie tattoo)"
+  },
+  {
+    "id": "nuriapinel",
+    "name": "Nuria Pinel",
+    "normalized": "nuria pinel"
+  },
+  {
+    "id": "nurliebemenschen",
+    "name": "Nurliebemenschen",
+    "normalized": "nurliebemenschen"
   },
   {
     "id": "jaguatemporarytattoos",
@@ -74463,6 +74273,16 @@
     "id": "nutz",
     "name": "Nutz",
     "normalized": "nutz"
+  },
+  {
+    "id": "nutztattoo",
+    "name": "Nutz Tattoo",
+    "normalized": "nutz tattoo"
+  },
+  {
+    "id": "nuvevoladora",
+    "name": "Nuve Voladora Tattoo",
+    "normalized": "nuve voladora tattoo"
   },
   {
     "id": "nagehanfenman",
@@ -74638,6 +74458,11 @@
     "id": "offthemaptattoo",
     "name": "Off the Map Tattoo",
     "normalized": "off the map tattoo"
+  },
+  {
+    "id": "goodfellastattoo",
+    "name": "Official Goodfellas Tattoo",
+    "normalized": "official goodfellas tattoo"
   },
   {
     "id": "markmahoney",
@@ -75100,6 +74925,11 @@
     "normalized": "oliver pecker"
   },
   {
+    "id": "hammertattoos_piercings",
+    "name": "Oliver R. Hammer",
+    "normalized": "oliver r. hammer"
+  },
+  {
     "id": "os.nadelkunst",
     "name": "Oliver Seiffert",
     "normalized": "oliver seiffert"
@@ -75220,6 +75050,11 @@
     "normalized": "olya • botanical floral tattoos"
   },
   {
+    "id": "om_tattoos",
+    "name": "Om Manifest",
+    "normalized": "om manifest"
+  },
+  {
     "id": "taiom",
     "name": "Om Tai Chi",
     "normalized": "om tai chi"
@@ -75230,9 +75065,24 @@
     "normalized": "om tattoo"
   },
   {
+    "id": "omantattoo",
+    "name": "Oman Tattooer",
+    "normalized": "oman tattooer"
+  },
+  {
     "id": "fametattoos",
     "name": "OMAR GONZALEZ",
     "normalized": "omar gonzalez"
+  },
+  {
+    "id": "omar_macias_tat2",
+    "name": "Omar Macias",
+    "normalized": "omar macias"
+  },
+  {
+    "id": "omar_m",
+    "name": "Omar Mahmud",
+    "normalized": "omar mahmud"
   },
   {
     "id": "artofomarr",
@@ -75240,9 +75090,34 @@
     "normalized": "omar orozco"
   },
   {
+    "id": "omartattoos_",
+    "name": "Omar Sablatura",
+    "normalized": "omar sablatura"
+  },
+  {
+    "id": "ombracreixent",
+    "name": "Ombrabrega",
+    "normalized": "ombrabrega"
+  },
+  {
+    "id": "omen.atl",
+    "name": "Omen",
+    "normalized": "omen"
+  },
+  {
     "id": "omen",
     "name": "Omen",
     "normalized": "omen"
+  },
+  {
+    "id": "omerta_tattoo",
+    "name": "Omerta Tattoo",
+    "normalized": "omerta tattoo"
+  },
+  {
+    "id": "omestattoo",
+    "name": "Omes Tattoo",
+    "normalized": "omes tattoo"
   },
   {
     "id": "joshrussell",
@@ -75965,6 +75840,16 @@
     "normalized": "p.lok"
   },
   {
+    "id": "pabloruiztattoo",
+    "name": "Pablo Agustín Tattoo",
+    "normalized": "pablo agustín tattoo"
+  },
+  {
+    "id": "pablootattoo",
+    "name": "Pablo Amaral",
+    "normalized": "pablo amaral"
+  },
+  {
     "id": "lordpablo",
     "name": "Pablo Aponte",
     "normalized": "pablo aponte"
@@ -76040,6 +75925,11 @@
     "normalized": "pablo hidalgo (aka pallas)"
   },
   {
+    "id": "pablolillotattoo",
+    "name": "Pablo Lillo",
+    "normalized": "pablo lillo"
+  },
+  {
     "id": "pablo_ortiz_tattoo",
     "name": "Pablo Ortiz",
     "normalized": "pablo ortiz"
@@ -76063,6 +75953,11 @@
     "id": "i_feelikepablo",
     "name": "Pablo Saavedra",
     "normalized": "pablo saavedra"
+  },
+  {
+    "id": "pablosganz",
+    "name": "Pablo Sganz",
+    "normalized": "pablo sganz"
   },
   {
     "id": "pablosinalma",
@@ -76090,6 +75985,21 @@
     "normalized": "pablor11"
   },
   {
+    "id": "pachuco_tattoo",
+    "name": "Pachuco Tattoo",
+    "normalized": "pachuco tattoo"
+  },
+  {
+    "id": "pacificsanghatattoo",
+    "name": "Pacific Sangha Tattoo™",
+    "normalized": "pacific sangha tattooTM"
+  },
+  {
+    "id": "pacificsoul",
+    "name": "Pacific Soul Tattoo & Co",
+    "normalized": "pacific soul tattoo & co"
+  },
+  {
     "id": "pacodietz",
     "name": "Paco Dietz",
     "normalized": "paco dietz"
@@ -76098,6 +76008,11 @@
     "id": "hardkoreink",
     "name": "Pain Sadler",
     "normalized": "pain sadler"
+  },
+  {
+    "id": "goodtripinc",
+    "name": "Painter | Entrepreneur",
+    "normalized": "painter | entrepreneur"
   },
   {
     "id": "pakosanchez",
@@ -76220,9 +76135,9 @@
     "normalized": "pat fish"
   },
   {
-    "id": "golden_days_tattoo",
-    "name": "Pat GoldenDays",
-    "normalized": "pat goldendays"
+    "id": "happypetsink",
+    "name": "Patch Monnier",
+    "normalized": "patch monnier"
   },
   {
     "id": "rytang",
@@ -76243,11 +76158,6 @@
     "id": "patriciamarquez",
     "name": "Patricia Marquez",
     "normalized": "patricia marquez"
-  },
-  {
-    "id": "haze_obscuria",
-    "name": "Patrick",
-    "normalized": "patrick"
   },
   {
     "id": "alright.tattoo",
@@ -76815,11 +76725,6 @@
     "normalized": "petit jean tatoueur"
   },
   {
-    "id": "hell.cz",
-    "name": "Petr Hell",
-    "normalized": "petr hell"
-  },
-  {
     "id": "petrabrkic",
     "name": "Petra Lesar",
     "normalized": "petra lesar"
@@ -77160,6 +77065,11 @@
     "normalized": "podri"
   },
   {
+    "id": "gotta_tattoo_em_all",
+    "name": "Pokemon tattoos by Matthew_inked",
+    "normalized": "pokemon tattoos by matthew_inked"
+  },
+  {
     "id": "le.petitpol",
     "name": "Pol",
     "normalized": "pol"
@@ -77240,6 +77150,11 @@
     "normalized": "portland maine tattoo studios"
   },
   {
+    "id": "glum.tattooer",
+    "name": "Porto Tattoo artist | GLUM",
+    "normalized": "porto tattoo artist | glum"
+  },
+  {
     "id": "andresilva.tattooer",
     "name": "Porto Tattoo 🕸️ André Silva",
     "normalized": "porto tattoo 🕸️ andré silva"
@@ -77318,6 +77233,11 @@
     "id": "pimto",
     "name": "Przemek Pimto Przegon",
     "normalized": "przemek pimto przegon"
+  },
+  {
+    "id": "haze_obscuria",
+    "name": "Ps",
+    "normalized": "ps"
   },
   {
     "id": "fluffy",
@@ -77625,11 +77545,6 @@
     "normalized": "rafael fleury"
   },
   {
-    "id": "godoyart",
-    "name": "Rafael Godoy",
-    "normalized": "rafael godoy"
-  },
-  {
     "id": "nean_derthall",
     "name": "Rafael Mendonça",
     "normalized": "rafael mendonça"
@@ -77780,11 +77695,6 @@
     "normalized": "randy allen bracknell"
   },
   {
-    "id": "heavenofcolours",
-    "name": "Randy Engelhard",
-    "normalized": "randy engelhard"
-  },
-  {
     "id": "alteregotattoos",
     "name": "Randy Johnson",
     "normalized": "randy johnson"
@@ -77803,11 +77713,6 @@
     "id": "artoftatt2",
     "name": "Randy Willard",
     "normalized": "randy willard"
-  },
-  {
-    "id": "grandavenuetattoo",
-    "name": "Ransom Bennett",
-    "normalized": "ransom bennett"
   },
   {
     "id": "rj_tattoo",
@@ -78266,8 +78171,8 @@
   },
   {
     "id": "harristattooart",
-    "name": "Rich Harris",
-    "normalized": "rich harris"
+    "name": "Rich Harris / Tattoo Artist",
+    "normalized": "rich harris / tattoo artist"
   },
   {
     "id": "richmurrell",
@@ -78446,8 +78351,8 @@
   },
   {
     "id": "hennabyridz",
-    "name": "Riddhi Nagda",
-    "normalized": "riddhi nagda"
+    "name": "Riddhi Nagda - Professional Henna Artist!",
+    "normalized": "riddhi nagda - professional henna artist!"
   },
   {
     "id": "onemanriet",
@@ -78770,11 +78675,6 @@
     "normalized": "robi peña"
   },
   {
-    "id": "groseille_tattoo",
-    "name": "Robin Groseille",
-    "normalized": "robin groseille"
-  },
-  {
     "id": "robin.kemper",
     "name": "Robin Kemper",
     "normalized": "robin kemper"
@@ -78908,11 +78808,6 @@
     "id": "rotattoo",
     "name": "rodrigo hernandez",
     "normalized": "rodrigo hernandez"
-  },
-  {
-    "id": "guerrilhatattoo",
-    "name": "Rodrigo Lima",
-    "normalized": "rodrigo lima"
   },
   {
     "id": "rodrigomelo",
@@ -79515,11 +79410,6 @@
     "normalized": "ryan gatsby gatt"
   },
   {
-    "id": "guilleryan.arttattoo",
-    "name": "Ryan Guillermo",
-    "normalized": "ryan guillermo"
-  },
-  {
     "id": "ryanhadley",
     "name": "Ryan Hadley",
     "normalized": "ryan hadley"
@@ -79603,6 +79493,11 @@
     "id": "ryanshaffer",
     "name": "Ryan Shaffer",
     "normalized": "ryan shaffer"
+  },
+  {
+    "id": "harshdose",
+    "name": "RYAN SHAFFER 1985-2021",
+    "normalized": "ryan shaffer 1985-2021"
   },
   {
     "id": "ryan_smith",
@@ -79810,11 +79705,6 @@
     "normalized": "sake karampetsos"
   },
   {
-    "id": "goretaku",
-    "name": "Sakura Jae",
-    "normalized": "sakura jae"
-  },
-  {
     "id": "salai",
     "name": "Salai Changa",
     "normalized": "salai changa"
@@ -79823,6 +79713,11 @@
     "id": "sallyboy",
     "name": "Sally Boy",
     "normalized": "sally boy"
+  },
+  {
+    "id": "heartofgoldtattoo",
+    "name": "Salt Lake City Tattoo Shop",
+    "normalized": "salt lake city tattoo shop"
   },
   {
     "id": "salaman",
@@ -79853,6 +79748,11 @@
     "id": "carvertattoo",
     "name": "Sam",
     "normalized": "sam"
+  },
+  {
+    "id": "grayspacetattoos",
+    "name": "Sam at Gray Space",
+    "normalized": "sam at gray space"
   },
   {
     "id": "butlertattoo",
@@ -80120,11 +80020,6 @@
     "normalized": "sanghyuk ko · mr.k"
   },
   {
-    "id": "goontattoo",
-    "name": "Sangre de mi sangre",
-    "normalized": "sangre de mi sangre"
-  },
-  {
     "id": "caprithio",
     "name": "Sangue☠️Lucano ™",
     "normalized": "sangue☠️lucano TM"
@@ -80255,6 +80150,11 @@
     "normalized": "saracflex💎"
   },
   {
+    "id": "herzdame",
+    "name": "𝖘𝖆𝖗𝖆𝖍",
+    "normalized": "sarah"
+  },
+  {
     "id": "sarahherzdame",
     "name": "𝖘𝖆𝖗𝖆𝖍",
     "normalized": "sarah"
@@ -80278,11 +80178,6 @@
     "id": "sarahgaugler",
     "name": "Sarah Gaugler",
     "normalized": "sarah gaugler"
-  },
-  {
-    "id": "herzdame",
-    "name": "Sarah Herzdame",
-    "normalized": "sarah herzdame"
   },
   {
     "id": "miamisshake",
@@ -80458,11 +80353,6 @@
     "id": "scartattooer",
     "name": "Scar Tattooer",
     "normalized": "scar tattooer"
-  },
-  {
-    "id": "herman_the_german_tattoo",
-    "name": "Schwarze Hand Tattoo Berlin",
-    "normalized": "schwarze hand tattoo berlin"
   },
   {
     "id": "schwein",
@@ -80830,11 +80720,6 @@
     "normalized": "sergei hoff"
   },
   {
-    "id": "gray_sergi",
-    "name": "Sergei Malkavian",
-    "normalized": "sergei malkavian"
-  },
-  {
     "id": "pissaro",
     "name": "Sergey",
     "normalized": "sergey"
@@ -80868,6 +80753,11 @@
     "id": "sergeykartoha",
     "name": "Sergey Kartoha",
     "normalized": "sergey kartoha"
+  },
+  {
+    "id": "gray_sergi",
+    "name": "Sergey Malkavian - tattoo Vladivostok-",
+    "normalized": "sergey malkavian - tattoo vladivostok-"
   },
   {
     "id": "gray_miller15",
@@ -81910,6 +81800,11 @@
     "normalized": "speck osterhout"
   },
   {
+    "id": "harringtontattoo",
+    "name": "Spencer Harrington",
+    "normalized": "spencer harrington"
+  },
+  {
     "id": "spencerwatson",
     "name": "Spencer Watson",
     "normalized": "spencer watson"
@@ -81983,6 +81878,11 @@
     "id": "soleaznar",
     "name": "StaDemonia Tattoo Stockholm",
     "normalized": "stademonia tattoo stockholm"
+  },
+  {
+    "id": "gromov6666",
+    "name": "Stanislav  Gromov",
+    "normalized": "stanislav gromov"
   },
   {
     "id": "stanislavgromov",
@@ -82128,11 +82028,6 @@
     "id": "steff_ink",
     "name": "Steff │ clean fineline tattoos │ Augsburg",
     "normalized": "steff │ clean fineline tattoos │ augsburg"
-  },
-  {
-    "id": "goldensphynxtattoo",
-    "name": "Steffi Mader",
-    "normalized": "steffi mader"
   },
   {
     "id": "stellaluo",
@@ -82315,11 +82210,6 @@
     "normalized": "steve richardson"
   },
   {
-    "id": "goodfellastattoo",
-    "name": "Steve Soto",
-    "normalized": "steve soto"
-  },
-  {
     "id": "stevesoto",
     "name": "Steve Soto",
     "normalized": "steve soto"
@@ -82475,6 +82365,11 @@
     "normalized": "studio ghibli | tattoos | los angeles"
   },
   {
+    "id": "gostatattoo",
+    "name": "Studio Gosta Tattoo e Piercing",
+    "normalized": "studio gosta tattoo e piercing"
+  },
+  {
     "id": "davechavez",
     "name": "Studio One Tattoo",
     "normalized": "studio one tattoo"
@@ -82501,8 +82396,8 @@
   },
   {
     "id": "he3tatuazyk",
-    "name": "Studio Tatuażu Łódź - He3 Tatuażyk",
-    "normalized": "studio tatuażu łódź - he3 tatuażyk"
+    "name": "Studio Tatuażu Łódź - he3tatuazyk",
+    "normalized": "studio tatuażu łódź - he3tatuazyk"
   },
   {
     "id": "steveupton",
@@ -82756,8 +82651,8 @@
   },
   {
     "id": "handsm_sweets",
-    "name": "Sweets McClellan",
-    "normalized": "sweets mcclellan"
+    "name": "Sweets",
+    "normalized": "sweets"
   },
   {
     "id": "sweet",
@@ -83295,11 +83190,6 @@
     "normalized": "tattoo artist sasha kiseleva 🌿"
   },
   {
-    "id": "gno_tattoopeople",
-    "name": "Tattoo Artist Toronto",
-    "normalized": "tattoo artist toronto"
-  },
-  {
     "id": "artesalvaje_tania_tattoo",
     "name": "Tattoo Artist Valencia Tatuajes",
     "normalized": "tattoo artist valencia tatuajes"
@@ -83315,9 +83205,24 @@
     "normalized": "tattoo artist wroclaw/ tatuże wrocław"
   },
   {
+    "id": "gorkitattoo",
+    "name": "Tattoo Artist Würzburg | Gokhan",
+    "normalized": "tattoo artist würzburg | gokhan"
+  },
+  {
+    "id": "hcarmo_tattoo",
+    "name": "Tattoo Artist | Henrique Carmo",
+    "normalized": "tattoo artist | henrique carmo"
+  },
+  {
     "id": "irashmarinova",
     "name": "Tattoo artist | Ira Shmarinova",
     "normalized": "tattoo artist | ira shmarinova"
+  },
+  {
+    "id": "grostattoo",
+    "name": "Tattoo Artist | Juli Gros",
+    "normalized": "tattoo artist | juli gros"
   },
   {
     "id": "helena_addams_tattoo",
@@ -83333,11 +83238,6 @@
     "id": "juan_tattoos",
     "name": "Tattoo Artist,New Braunfels,TX",
     "normalized": "tattoo artist,new braunfels,tx"
-  },
-  {
-    "id": "havehopetattoo",
-    "name": "Tattoo artists collective",
-    "normalized": "tattoo artists collective"
   },
   {
     "id": "deanna_tattoos",
@@ -83395,6 +83295,11 @@
     "normalized": "tattoo madrid"
   },
   {
+    "id": "hard_core_tattoo_mallorca",
+    "name": "Tattoo Mallorca  - Hard Core Tattoo & Piercing",
+    "normalized": "tattoo mallorca - hard core tattoo & piercing"
+  },
+  {
     "id": "dozerinktattoos",
     "name": "Tattoo Mark",
     "normalized": "tattoo mark"
@@ -83413,6 +83318,11 @@
     "id": "stepannegur",
     "name": "TATTOO PHARMA",
     "normalized": "tattoo pharma"
+  },
+  {
+    "id": "hautkultur_mannheim",
+    "name": "Tattoo Piercing More",
+    "normalized": "tattoo piercing more"
   },
   {
     "id": "joan_eme_tattoo",
@@ -83465,6 +83375,11 @@
     "normalized": "tattoo studio hannover"
   },
   {
+    "id": "greenlotustattoo",
+    "name": "Tattoo Studio | Melbourne,Australia",
+    "normalized": "tattoo studio | melbourne,australia"
+  },
+  {
     "id": "ladylucktattoo480",
     "name": "Tattoo Tony",
     "normalized": "tattoo tony"
@@ -83478,6 +83393,11 @@
     "id": "arttattoo_pl",
     "name": "TATTOO | | POZNAŃ",
     "normalized": "tattoo | | poznań"
+  },
+  {
+    "id": "goncharov_tattoo",
+    "name": "Tattooartist Warszawa",
+    "normalized": "tattooartist warszawa"
   },
   {
     "id": "foxintherabbithole",
@@ -83533,11 +83453,6 @@
     "id": "childpct",
     "name": "Tattooer 차일드픽쳐 수원타투",
     "normalized": "tattooer 차일드픽쳐 수원타투"
-  },
-  {
-    "id": "guytrueblue",
-    "name": "Tattooerman",
-    "normalized": "tattooerman"
   },
   {
     "id": "__tattooforaweek",
@@ -83618,11 +83533,6 @@
     "id": "tattooistty",
     "name": "Tattooist Ty",
     "normalized": "tattooist ty"
-  },
-  {
-    "id": "handitrip",
-    "name": "Tattooist Zio",
-    "normalized": "tattooist zio"
   },
   {
     "id": "area6tattoostudio",
@@ -83795,6 +83705,11 @@
     "normalized": "tattooswizard"
   },
   {
+    "id": "pacificislandinktattoo",
+    "name": "TattooTris",
+    "normalized": "tattootris"
+  },
+  {
     "id": "anisimovtattoo",
     "name": "Tattoo•Artist•",
     "normalized": "tattoo•artist•"
@@ -83848,6 +83763,11 @@
     "id": "cleison_tattoo",
     "name": "TATUADOR CLEISON - CONTAGEM/MINAS GERAIS",
     "normalized": "tatuador cleison - contagem/minas gerais"
+  },
+  {
+    "id": "hiagonaiko",
+    "name": "Tatuador em Fortaleza | Naiko Ink",
+    "normalized": "tatuador em fortaleza | naiko ink"
   },
   {
     "id": "cracktattoo",
@@ -83918,6 +83838,11 @@
     "id": "maikelaren",
     "name": "TATUAJES REALISTA tattootorrevieja / ENTREVISTAS-random",
     "normalized": "tatuajes realista tattootorrevieja / entrevistas-random"
+  },
+  {
+    "id": "hennasevilla_",
+    "name": "Tatuajes temporales de henna",
+    "normalized": "tatuajes temporales de henna"
   },
   {
     "id": "danielhuesos",
@@ -84445,11 +84370,6 @@
     "normalized": "thomas de leon"
   },
   {
-    "id": "gilly_tattoo",
-    "name": "Thomas Gillingham",
-    "normalized": "thomas gillingham"
-  },
-  {
     "id": "thomasgoossens",
     "name": "Thomas Goossens",
     "normalized": "thomas goossens"
@@ -84608,11 +84528,6 @@
     "id": "tiffanyperez",
     "name": "Tiffany Perez",
     "normalized": "tiffany perez"
-  },
-  {
-    "id": "hellboundtattoos",
-    "name": "Tiffany Thornton",
-    "normalized": "tiffany thornton"
   },
   {
     "id": "folkloretradingco",
@@ -86480,11 +86395,6 @@
     "normalized": "violette"
   },
   {
-    "id": "happypetsink",
-    "name": "Violène & Patch",
-    "normalized": "violène & patch"
-  },
-  {
     "id": "dermaluxe",
     "name": "Virginia Andow",
     "normalized": "virginia andow"
@@ -86578,11 +86488,6 @@
     "id": "vivo",
     "name": "Vivo",
     "normalized": "vivo"
-  },
-  {
-    "id": "gromov6666",
-    "name": "Vlad Gromov",
-    "normalized": "vlad gromov"
   },
   {
     "id": "vladtokmenin",
@@ -86778,11 +86683,6 @@
     "id": "cuitattoo",
     "name": "Wenlong—CUI落蒼",
     "normalized": "wenlong—cui落蒼"
-  },
-  {
-    "id": "hellorhighwaternola",
-    "name": "Wes",
-    "normalized": "wes"
   },
   {
     "id": "awesomehogan",
@@ -87113,6 +87013,11 @@
     "id": "shannonwolf",
     "name": "Wolfie ♐️",
     "normalized": "wolfie ♐️"
+  },
+  {
+    "id": "guanxiaopeng",
+    "name": "Wong",
+    "normalized": "wong"
   },
   {
     "id": "wongpuiyee",
@@ -87740,14 +87645,14 @@
     "normalized": "zach stuka"
   },
   {
-    "id": "heartofthievestattoo",
-    "name": "Zach Z0mbii",
-    "normalized": "zach z0mbii"
-  },
-  {
     "id": "zach_peacock",
     "name": "Zachary Peacock",
     "normalized": "zachary peacock"
+  },
+  {
+    "id": "goodvibeszack",
+    "name": "Zack",
+    "normalized": "zack"
   },
   {
     "id": "_zackruben",
@@ -87758,11 +87663,6 @@
     "id": "hardoutline",
     "name": "Zack Haynes",
     "normalized": "zack haynes"
-  },
-  {
-    "id": "goodvibeszack",
-    "name": "Zack M",
-    "normalized": "zack m"
   },
   {
     "id": "zacksinger",
@@ -87940,6 +87840,11 @@
     "normalized": "ziοrα ช็อปของความงาม🐌"
   },
   {
+    "id": "goldy_z",
+    "name": "Zlata Kolomoyskaya",
+    "normalized": "zlata kolomoyskaya"
+  },
+  {
     "id": "zlatakolomoyskaya",
     "name": "zlata kolomoyskaya",
     "normalized": "zlata kolomoyskaya"
@@ -88045,6 +87950,11 @@
     "normalized": "zvereva"
   },
   {
+    "id": "ginkge.xo",
+    "name": "zwielichtinge",
+    "normalized": "zwielichtinge"
+  },
+  {
     "id": "dyetattoo",
     "name": "| DYE TATTOO |",
     "normalized": "| dye tattoo |"
@@ -88053,6 +87963,11 @@
     "id": "donaire.arttt",
     "name": "|| Missy Donaire || Tattoo artist - Porto",
     "normalized": "|| missy donaire || tattoo artist - porto"
+  },
+  {
+    "id": "gipsy_tattoo",
+    "name": "~ Gipsy Tattoo ~",
+    "normalized": "~ gipsy tattoo ~"
   },
   {
     "id": "marvoy_tattoo",
@@ -88655,6 +88570,11 @@
     "normalized": "матусевич кирилл l тату санкт-петербург l чикано спб"
   },
   {
+    "id": "haskimonster",
+    "name": "Маша Живая",
+    "normalized": "маша живая"
+  },
+  {
     "id": "nastasjabarashkova",
     "name": "Наталья Барашкова",
     "normalized": "наталья барашкова"
@@ -88703,6 +88623,11 @@
     "id": "ruslantsvetnov",
     "name": "РУСЛАН ЦВЕТНОВ",
     "normalized": "руслан цветнов"
+  },
+  {
+    "id": "gudverg_tattooer",
+    "name": "Рустам Валеев | ТАТУИРОВКИ И ОБУЧЕНИЕ",
+    "normalized": "рустам валеев | татуировки и обучение"
   },
   {
     "id": "annaryapolova",
@@ -88755,6 +88680,11 @@
     "normalized": "студія тату шептицький/червоноград"
   },
   {
+    "id": "gleyzer_tattoo",
+    "name": "ТAТУИРОВКА ЕКАТЕРИНБУРГ! ПЕРЕКРЫТИЕ! ОБУЧЕНИЕ!",
+    "normalized": "тaтуировка екатеринбург! перекрытие! обучение!"
+  },
+  {
     "id": "blueh0rse",
     "name": "Тату - Акварель - Спб",
     "normalized": "тату - акварель - спб"
@@ -88800,6 +88730,11 @@
     "normalized": "тату минск • anastasia vilks"
   },
   {
+    "id": "good_sign_tattoo",
+    "name": "ТАТУ МИНСК • GOOD SIGN TATTOO",
+    "normalized": "тату минск • good sign tattoo"
+  },
+  {
     "id": "slavajangle",
     "name": "Тату Москва Slava Jangle",
     "normalized": "тату москва slava jangle"
@@ -88808,6 +88743,11 @@
     "id": "arty_letters",
     "name": "ТАТУ МОСКВА➰TATTOO MOSCOW",
     "normalized": "тату москва➰tattoo moscow"
+  },
+  {
+    "id": "gollandets.art",
+    "name": "ТАТУ НОВОСИБИРСК",
+    "normalized": "тату новосибирск"
   },
   {
     "id": "baraka_tattoo",
@@ -89105,6 +89045,11 @@
     "normalized": "— hσctoя mλtσos"
   },
   {
+    "id": "hectormateostattoo",
+    "name": "— HΣCTOЯ MΛTΣOS",
+    "normalized": "— hσctoя mλtσos"
+  },
+  {
     "id": "coldgraytattoo",
     "name": "“COLD”",
     "normalized": "“cold”"
@@ -89250,9 +89195,19 @@
     "normalized": "• pedro contessoto •"
   },
   {
+    "id": "grzegorczyk.tattoo",
+    "name": "• tatuaże • ＥＷＡ ＧＲＺＥＧＯＲＣＺＹＫ",
+    "normalized": "• tatuaże • ewa grzegorczyk"
+  },
+  {
     "id": "anita.tattoos",
     "name": "• TRUE LOVE •",
     "normalized": "• true love •"
+  },
+  {
+    "id": "herzeigen",
+    "name": "• • • Jessi • • •",
+    "normalized": "• • • jessi • • •"
   },
   {
     "id": "foa.k.tattoo",
@@ -89320,6 +89275,11 @@
     "normalized": "•giulia bongiovanni• neotraditional tattoos"
   },
   {
+    "id": "giuliaghil",
+    "name": "•GIULIA BONGIOVANNI• Neotraditional Tattoos",
+    "normalized": "•giulia bongiovanni• neotraditional tattoos"
+  },
+  {
     "id": "_marlon_tattoo_",
     "name": "•Marlon•",
     "normalized": "•marlon•"
@@ -89343,6 +89303,11 @@
     "id": "dimitra.exp",
     "name": "•Tattoo Moscow•",
     "normalized": "•tattoo moscow•"
+  },
+  {
+    "id": "gligoink",
+    "name": "••• gligoink •••",
+    "normalized": "••• gligoink •••"
   },
   {
     "id": "tillydee",
@@ -89400,6 +89365,11 @@
     "normalized": "∆ frank rudy"
   },
   {
+    "id": "goncalosantostt",
+    "name": "∙ 𝕲𝖔𝖓𝖈𝖆𝖑𝖔 𝕾𝖆𝖓𝖙𝖔𝖘 ∙",
+    "normalized": "∙ Goncalo Santos ∙"
+  },
+  {
     "id": "juanbonaro",
     "name": "∴ Juan Bonaro∴",
     "normalized": "∴ juan bonaro∴"
@@ -89418,6 +89388,11 @@
     "id": "amydooz",
     "name": "▪️A M Y   R O S S ▪️Asheville, NC",
     "normalized": "▪️a m y r o s s ▪️asheville, nc"
+  },
+  {
+    "id": "halunken_tattoo",
+    "name": "▪️HALUNKEN TATTOO ▪️",
+    "normalized": "▪️halunken tattoo ▪️"
   },
   {
     "id": "efer_bp",
@@ -89445,6 +89420,11 @@
     "normalized": "▶tallinn | tattoo | piercing◀"
   },
   {
+    "id": "gipsycaravantattoo",
+    "name": "◆◆ＧＩＰＳＹ    ＣＡＲＡＶＡＮ◆◆",
+    "normalized": "◆◆gipsy caravan◆◆"
+  },
+  {
     "id": "adamhawkestattoo",
     "name": "◼️Adam Hawkes Tattoo",
     "normalized": "◼️adam hawkes tattoo"
@@ -89453,6 +89433,11 @@
     "id": "black_square_tattoo",
     "name": "◾️BLACK SQUARE TATTOO SHOPPE◾️",
     "normalized": "◾️black square tattoo shoppe◾️"
+  },
+  {
+    "id": "glencocotattoo",
+    "name": "☁️✨ glen coco ✨☁️",
+    "normalized": "☁️✨ glen coco ✨☁️"
   },
   {
     "id": "claudiaducalia",
@@ -89493,6 +89478,11 @@
     "id": "belladona.tattoo",
     "name": "☠️Belladona Tattoo",
     "normalized": "☠️belladona tattoo"
+  },
+  {
+    "id": "giuliocesarethehand",
+    "name": "☠️Giulio Cesare - PLVS VLTRA",
+    "normalized": "☠️giulio cesare - plvs vltra"
   },
   {
     "id": "el_donante",
@@ -89538,6 +89528,11 @@
     "id": "andrastattoo",
     "name": "♟Paul Michael Andras♟",
     "normalized": "♟paul michael andras♟"
+  },
+  {
+    "id": "gonzalotintanegra",
+    "name": "♠ GONZALO TNT ♠",
+    "normalized": "♠ gonzalo tnt ♠"
   },
   {
     "id": "aces_high_tattoo",
@@ -89588,6 +89583,11 @@
     "id": "tamyantunes",
     "name": "♥ Tamy Antunes ♥",
     "normalized": "♥ tamy antunes ♥"
+  },
+  {
+    "id": "gualas_vat",
+    "name": "♦𝕲𝖚𝖆𝖑𝖆𝖘♦",
+    "normalized": "♦Gualas♦"
   },
   {
     "id": "cuesnow",
@@ -89850,6 +89850,11 @@
     "normalized": "⚡️stacey dickson⚡️"
   },
   {
+    "id": "gwansoontattoos",
+    "name": "⚡️Tattoo Shop & Piercings ✍🏼",
+    "normalized": "⚡️tattoo shop & piercings ✍🏼"
+  },
+  {
     "id": "958tattoo",
     "name": "⚡️Tattoos sin dolor•linea fina•microrealismo Granada⚡️Bodas⚡️",
     "normalized": "⚡️tattoos sin dolor•linea fina•microrealismo granada⚡️bodas⚡️"
@@ -89883,6 +89888,11 @@
     "id": "dominic_achilles",
     "name": "⚹ DOMINIC ACHILLES ⚹ 𝗡𝗲𝗼𝘁𝗿𝗮𝗱𝗶𝘁𝗶𝗼𝗻𝗮𝗹",
     "normalized": "⚹ dominic achilles ⚹ Neotraditional"
+  },
+  {
+    "id": "haleybearstattoo",
+    "name": "⛓Haley Bears⛓",
+    "normalized": "⛓haley bears⛓"
   },
   {
     "id": "electric_tattooing_by_sushi",
@@ -89985,6 +89995,11 @@
     "normalized": "✤ kitty park ✤"
   },
   {
+    "id": "guerratattoo",
+    "name": "✥🅖🅤🅔🅡🅡🅐ⓉⒶⓉⓉⓄⓄ✥",
+    "normalized": "✥🅖🅤🅔🅡🅡🅐tattoo✥"
+  },
+  {
     "id": "alexpinnatattoo",
     "name": "✦ Alex Pinna ✦",
     "normalized": "✦ alex pinna ✦"
@@ -90058,6 +90073,16 @@
     "id": "connormacaritattoo",
     "name": "✧ ✦ C O N N O R  M A C A R I ✦ ✧ Trad Tattoos Scotland",
     "normalized": "✧ ✦ c o n n o r m a c a r i ✦ ✧ trad tattoos scotland"
+  },
+  {
+    "id": "hiddenchambertattoo",
+    "name": "✧HIDDEN CHAMBER TATTOO✧",
+    "normalized": "✧hidden chamber tattoo✧"
+  },
+  {
+    "id": "handpoked_gelfwai",
+    "name": "✧•✦Belle Atkins✦•✧",
+    "normalized": "✧•✦belle atkins✦•✧"
   },
   {
     "id": "bmajortattooer",
@@ -90140,6 +90165,11 @@
     "normalized": "✨🌞alexis hepburn🌝✨"
   },
   {
+    "id": "gypsygardentattoo",
+    "name": "✴️ GYPSY GARDEN TATTOO ✴️",
+    "normalized": "✴️ gypsy garden tattoo ✴️"
+  },
+  {
     "id": "alvarolaratattoo",
     "name": "✴️𝕬𝖑𝖛𝖆𝖗𝖔 𝕷𝖆𝖗𝖆",
     "normalized": "✴️Alvaro Lara"
@@ -90153,6 +90183,11 @@
     "id": "akatattoo",
     "name": "✶ 𝐀𝐤𝐚 𝐏𝐚𝐬𝐪𝐮𝐚𝐥 ✶",
     "normalized": "✶ Aka Pasqual ✶"
+  },
+  {
+    "id": "hezurra_tattoo",
+    "name": "✶ 𝙷𝚎𝚣𝚞𝚛𝚛𝚊 ✶",
+    "normalized": "✶ Hezurra ✶"
   },
   {
     "id": "gatto.tattoo",
@@ -90280,6 +90315,11 @@
     "normalized": "✺francesco garbuggino✺"
   },
   {
+    "id": "heidikayetattoo",
+    "name": "✼ HEIDI KAYE ✼ Tattoo Artist ✼",
+    "normalized": "✼ heidi kaye ✼ tattoo artist ✼"
+  },
+  {
     "id": "hongjisun",
     "name": "✽ 𝑆𝐻𝑂𝑂𝐼𝑁 • chrometattoo ✽",
     "normalized": "✽ SHOOIN • chrometattoo ✽"
@@ -90298,6 +90338,11 @@
     "id": "giada_knox",
     "name": "✿ GIADA ✿",
     "normalized": "✿ giada ✿"
+  },
+  {
+    "id": "hettiebakertattoo",
+    "name": "✿ Hettie Baker ✿",
+    "normalized": "✿ hettie baker ✿"
   },
   {
     "id": "dxpxmx",
@@ -90405,6 +90450,11 @@
     "normalized": "❤️🌹❤️"
   },
   {
+    "id": "handspuntattoos",
+    "name": "❤️🧡💛💚💙💜",
+    "normalized": "❤️🧡💛💚💙💜"
+  },
+  {
     "id": "bobbys_tats",
     "name": "➕ 𝐒𝐭𝐫𝐚𝐢𝐠𝐡𝐭 𝐋𝐢𝐧𝐞𝐬 𝐓𝐚𝐭𝐭𝐨𝐨 ➕",
     "normalized": "➕ Straight Lines Tattoo ➕"
@@ -90470,6 +90520,11 @@
     "normalized": "➺ abbie williams ➺"
   },
   {
+    "id": "heatonstattooclub",
+    "name": "⟁Heatons Tattoo Club⟁ | Stockport and Manchester",
+    "normalized": "⟁heatons tattoo club⟁ | stockport and manchester"
+  },
+  {
     "id": "ke",
     "name": "⠀ ⠀  ᴋᴛᴍᴀɴ",
     "normalized": "⠀ ⠀ ᴋᴛᴍᴀɴ"
@@ -90515,6 +90570,11 @@
     "normalized": "⬩ black diamond tattoo adelaide ⬩"
   },
   {
+    "id": "greyscaletattoo",
+    "name": "⭐⭐Greyscale Tattoo-LLC⭐⭐",
+    "normalized": "⭐⭐greyscale tattoo-llc⭐⭐"
+  },
+  {
     "id": "maksimyalovik",
     "name": "⭐️Maksim Yalovik KATOWICE",
     "normalized": "⭐️maksim yalovik katowice"
@@ -90523,6 +90583,11 @@
     "id": "audrey_tattooer",
     "name": "⭑∀ J U M M ∀⭑∀ U D R Ǝ ⅄⭑",
     "normalized": "⭑∀ j u m m ∀⭑∀ u d r ǝ ⅄⭑"
+  },
+  {
+    "id": "hernanyepes_art",
+    "name": "⭕Hernan Yepes",
+    "normalized": "⭕hernan yepes"
   },
   {
     "id": "jeroenfranken",
@@ -91040,6 +91105,11 @@
     "normalized": "하경란"
   },
   {
+    "id": "heim__tattoo",
+    "name": "하임☽ Seoultattoo Tokyotattoo 韓国タトゥー ソウルタトゥー 東京タトゥー",
+    "normalized": "하임☽ seoultattoo tokyotattoo 韓国タトゥー ソウルタトゥー 東京タトゥー"
+  },
+  {
     "id": "haenytattoo",
     "name": "해니 koreantattoo",
     "normalized": "해니 koreantattoo"
@@ -91048,6 +91118,16 @@
     "id": "haeyum",
     "name": "해윰",
     "normalized": "해윰"
+  },
+  {
+    "id": "handitrip",
+    "name": "핸디트립 부산타투이스트_지오",
+    "normalized": "핸디트립 부산타투이스트_지오"
+  },
+  {
+    "id": "heimatattoo",
+    "name": "헤이마 ヘイマ | 福岡タトゥー",
+    "normalized": "헤이마 ヘイマ | 福岡タトゥー"
   },
   {
     "id": "hwadamtat",
@@ -91335,6 +91415,16 @@
     "normalized": "🌿jorge wolf quintana🌿"
   },
   {
+    "id": "hen.wife",
+    "name": "🌿Julia Hayes🌿",
+    "normalized": "🌿julia hayes🌿"
+  },
+  {
+    "id": "granvillestreettattoo",
+    "name": "🍁granville street tattoo🍁",
+    "normalized": "🍁granville street tattoo🍁"
+  },
+  {
     "id": "defaze",
     "name": "🍁N E O T R A D × A R T I S T🍁",
     "normalized": "🍁n e o t r a d × a r t i s t🍁"
@@ -91418,6 +91508,11 @@
     "id": "electric_punch_tattoo",
     "name": "🐉 Electric Punch Tattoo 💀",
     "normalized": "🐉 electric punch tattoo 💀"
+  },
+  {
+    "id": "giulialaureanatattoo",
+    "name": "🐉Giulia Laureana🐉",
+    "normalized": "🐉giulia laureana🐉"
   },
   {
     "id": "familyinktattoo",
@@ -91560,9 +91655,24 @@
     "normalized": "💎blackwork preto e cinza💎"
   },
   {
+    "id": "hiddengemtattoohtx",
+    "name": "💎Hidden Gem Studios💎",
+    "normalized": "💎hidden gem studios💎"
+  },
+  {
+    "id": "goldeneyezgz",
+    "name": "💎NEOMETAL•IS•ANATOMETAL💎",
+    "normalized": "💎neometal•is•anatometal💎"
+  },
+  {
     "id": "brukys_",
     "name": "💖Brukys | Tatuadora 🎨",
     "normalized": "💖brukys | tatuadora 🎨"
+  },
+  {
+    "id": "hayleybunstattoos",
+    "name": "💖Hayley Moore💖",
+    "normalized": "💖hayley moore💖"
   },
   {
     "id": "carola.ink",
@@ -91623,6 +91733,11 @@
     "id": "felipesanto",
     "name": "🔸4º MUNDO TATTOO 🔸",
     "normalized": "🔸4o mundo tattoo 🔸"
+  },
+  {
+    "id": "hectorcarazo",
+    "name": "🔸CARAZO 🔸",
+    "normalized": "🔸carazo 🔸"
   },
   {
     "id": "hugotatuajesbcn",
@@ -91790,6 +91905,11 @@
     "normalized": "🥷theo walker 🥷"
   },
   {
+    "id": "guindero",
+    "name": "🥷🏻 GV¥ND€R☻ 🥷🏻",
+    "normalized": "🥷🏻 gv¥nd€r☻ 🥷🏻"
+  },
+  {
     "id": "dinasafrek",
     "name": "🦁Julia Udartseva🦁",
     "normalized": "🦁julia udartseva🦁"
@@ -91820,6 +91940,11 @@
     "normalized": "🩸German Ferreiroa🩸"
   },
   {
+    "id": "hangdex",
+    "name": "🪐 Anto Dante 🪐",
+    "normalized": "🪐 anto dante 🪐"
+  },
+  {
     "id": "cfhtattooer",
     "name": "🪦Chazz Hysell🪦",
     "normalized": "🪦chazz hysell🪦"
@@ -91833,5 +91958,10 @@
     "id": "tikin",
     "name": "🪴🌝 Tikin Porkey - Asuka Uetsuki",
     "normalized": "🪴🌝 tikin porkey - asuka uetsuki"
+  },
+  {
+    "id": "heidifureytattoo",
+    "name": "🫧✨ Heidi Furey Tattoo Bristol ✨🫧",
+    "normalized": "🫧✨ heidi furey tattoo bristol ✨🫧"
   }
 ]
