@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cultistart_tattoo",
-  "name": "Cultistart",
+  "name": "Cultistart Cologne",
   "location": {
     "city": "Gummersbach",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Cultistart is an exceptional tattoo artist based in Gummersbach, Germany, renowned for their expertise in watercolor, black & gray, and sketch-style tattoos. Known for maintaining an impeccably clean and hygienic studio, Cultistart is dedicated to providing clients with a safe and sterile environment for every session.\nPrice: $\nCurrent location: Gummersbach, North-rhine-westphalia, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Cultistart is an exceptional tattoo artist based in Gummersbach, Germany, renowned for their expertise in watercolor, black & gray, and sketch-style tattoos. Known for maintaining an impeccably clean and hygienic studio, Cultistart is dedicated to providing clients with a safe and sterile environment for every session.\nPrice: $\nCurrent location: Gummersbach, North-rhine-westphalia, Germany",
+  "instagram_enriched": {
+    "id": "2069751674",
+    "follower_count": 1436,
+    "following_count": 205,
+    "media_count": 239,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cultistart_tattoo/instagram/profile.jpg"
+  }
 }

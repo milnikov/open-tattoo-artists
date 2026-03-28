@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "curlytattoo",
-  "name": "Curly Tattoo",
+  "name": "Andreas 'Curly' Moore",
   "location": {
     "city": "Almería",
     "country": "Spain"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Curly Tattoo, a master tattoo artist based in Almería, Spain, has honed his skills in tribal and geometric styles over an impressive 30 year career in the field. Having spent notable periods at London's esteemed 'Into You' studio and later in Oxford, his expertise has garnered the attention of over 60,000 followers on Instagram. His professionalism and immense talent are evident in every single work of art he creates.\nPrice: $$\nCurrent location: Almería, Andalucia, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Curly Tattoo, a master tattoo artist based in Almería, Spain, has honed his skills in tribal and geometric styles over an impressive 30 year career in the field. Having spent notable periods at London's esteemed 'Into You' studio and later in Oxford, his expertise has garnered the attention of over 60,000 followers on Instagram. His professionalism and immense talent are evident in every single work of art he creates.\nPrice: $$\nCurrent location: Almería, Andalucia, Spain\n\n34 years of tattooing, 6 of which were at the early days of  London's famous 'Into You' studio. Oxford for the last 26 years.",
+  "instagram_enriched": {
+    "id": "1386210503",
+    "follower_count": 70924,
+    "following_count": 300,
+    "media_count": 901,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/curlytattoo/instagram/profile.jpg"
+  }
 }

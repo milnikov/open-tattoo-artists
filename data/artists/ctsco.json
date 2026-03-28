@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ctsco",
-  "name": "Cote Tattoo Studio",
+  "name": "치타스컴퍼니",
   "location": {
     "city": "Logrono",
     "country": "Spain"
@@ -209,6 +209,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Immerse yourself in the artistry of Cote Tattoo Studio, a creative haven nestled in the heart of Logroño, Spain, where the timeless beauty of traditional tattoos meets the intricate precision of fineline designs. With an inviting atmosphere that echoes the rich cultural tapestry of its surroundings, the artists at Cote Tattoo Studio are dedicated to crafting personalized masterpieces that celebrate the unique stories of their clients. Discover your next piece of wearable art in a space where tradition blends seamlessly with modern finesse.\nPrice: $\nCurrent location: Logrono, La Rioja, Spain"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the artistry of Cote Tattoo Studio, a creative haven nestled in the heart of Logroño, Spain, where the timeless beauty of traditional tattoos meets the intricate precision of fineline designs. With an inviting atmosphere that echoes the rich cultural tapestry of its surroundings, the artists at Cote Tattoo Studio are dedicated to crafting personalized masterpieces that celebrate the unique stories of their clients. Discover your next piece of wearable art in a space where tradition blends seamlessly with modern finesse.\nPrice: $\nCurrent location: Logrono, La Rioja, Spain\n\n에어소프트건 전문몰",
+  "instagram_enriched": {
+    "id": "27473087199",
+    "follower_count": 65,
+    "following_count": 65,
+    "media_count": 1,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ctsco/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cosafina_tattoo",
-  "name": "Cosafina Tattoo",
+  "name": "C O S A F I N A",
   "location": {
     "city": "Polinyà",
     "country": "Spain"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Cosafina Tattoo, nestled in Polinyà, Spain, is a renowned studio of artistic expression specializing in black and gray realism styles since 2012. This well-respected establishment garners a following of around 56,000 on Instagram, a testament to their exquisite talent and exceptional craftsmanship. Step into their vibrant studio and be prepared to bring your skin stories to life.\nPrice: $$\nCurrent location: Polinyà, Catalonia, Spain",
-  "tattooing_since": "2012"
+  "updated_at": "2026-03-28",
+  "bio": "Cosafina Tattoo, nestled in Polinyà, Spain, is a renowned studio of artistic expression specializing in black and gray realism styles since 2012. This well-respected establishment garners a following of around 56,000 on Instagram, a testament to their exquisite talent and exceptional craftsmanship. Step into their vibrant studio and be prepared to bring your skin stories to life.\nPrice: $$\nCurrent location: Polinyà, Catalonia, Spain\n\nTATTOO STUDIO\nBCN SINCE 2012",
+  "tattooing_since": "2012",
+  "instagram_enriched": {
+    "id": "3088482301",
+    "follower_count": 54142,
+    "following_count": 845,
+    "media_count": 516,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cosafina_tattoo/instagram/profile.jpg"
+  }
 }

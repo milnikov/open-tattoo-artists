@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "consolidatedtattoo",
-  "name": "Consolidated",
+  "name": "Consolidated Tattoo",
   "location": {
     "city": "Flint",
     "country": "United States"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "\"Consolidated Tattoo Studio reverently crafts time-honored body art with a modern twist, embedding traditional and neotraditional designs onto the skin of Flint's diverse clientele since 1999. Nestled in the heart of Flint, United States, the studio's seasoned artists, @johnhilltattoo and @zachthomas_tattooer, are committed to delivering personalized masterpieces with precision and flair. Dial 810-233-9265 to begin your inimitable tattoo journey.\"\nPrice: $\nCurrent location: Flint, Michigan, United States",
-  "tattooing_since": "1999"
+  "updated_at": "2026-03-28",
+  "bio": "\"Consolidated Tattoo Studio reverently crafts time-honored body art with a modern twist, embedding traditional and neotraditional designs onto the skin of Flint's diverse clientele since 1999. Nestled in the heart of Flint, United States, the studio's seasoned artists, @johnhilltattoo and @zachthomas_tattooer, are committed to delivering personalized masterpieces with precision and flair. Dial 810-233-9265 to begin your inimitable tattoo journey.\"\nPrice: $\nCurrent location: Flint, Michigan, United States\n\n●Tattooing Flint since 1999● \n📞Text 810-233-9265 to book\n💥 @johnhilltattoo •    \n💥@zacharythomas.tattoo",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "2373206896",
+    "follower_count": 3015,
+    "following_count": 327,
+    "media_count": 169,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/consolidatedtattoo/instagram/profile.jpg"
+  }
 }

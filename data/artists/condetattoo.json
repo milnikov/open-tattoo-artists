@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "condetattoo",
-  "name": "Conde Tattoo",
+  "name": "*ESTÚDIO DE TATUAGEM - CONDE*",
   "location": {
     "city": "Belo Horizonte",
     "country": "Brazil"
@@ -593,7 +593,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Delve into the artistry at Conde Tattoo, Belo Horizonte's premier studio specializing in striking black & gray and intricate geometric designs since 2015. Nestled in the vibrant Betânia neighborhood at Rua Meca, 39, our welcoming space pairs cutting-edge body art with expert piercing services. Book your appointment today to transform your vision into a timeless masterpiece with our skilled artisans.\nPrice: $\nCurrent location: Belo Horizonte, Minas Gerais, Brazil",
-  "tattooing_since": "2015"
+  "updated_at": "2026-03-28",
+  "bio": "Delve into the artistry at Conde Tattoo, Belo Horizonte's premier studio specializing in striking black & gray and intricate geometric designs since 2015. Nestled in the vibrant Betânia neighborhood at Rua Meca, 39, our welcoming space pairs cutting-edge body art with expert piercing services. Book your appointment today to transform your vision into a timeless masterpiece with our skilled artisans.\nPrice: $\nCurrent location: Belo Horizonte, Minas Gerais, Brazil\n\nAtuante Desde 1999 \n+ de 1500 tatuagens \nRealismo \nBlack And Gray\nColorida e muito mais! \nRealizo seu sonho em forma de arte! \nAgende seu horário⬇️",
+  "tattooing_since": "2015",
+  "instagram_enriched": {
+    "id": "2023804214",
+    "follower_count": 2128,
+    "following_count": 3357,
+    "media_count": 143,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/condetattoo/instagram/profile.jpg"
+  }
 }

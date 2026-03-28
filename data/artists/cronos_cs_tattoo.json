@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cronos_cs_tattoo",
-  "name": "Cronos",
+  "name": "CS-TATTOO",
   "location": {
     "city": "Olten",
     "country": "Switzerland"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Cronos is an exceptionally skilled tattoo artist based in Olten, Switzerland, renowned for their proficiency in trashpolka, black & gray, and realism styles. Their work is a testament to meticulousness and artistic excellence, ensuring each tattoo is a unique masterpiece that captures the essence of their motto, \"LIVESTYLE FOR FREAKS AND OTHER CREATURES 🐙.\" With a focus on hygiene, Cronos maintains a spotless and sterilized work environment, prioritizing client safety and satisfaction.\nPrice: $\nCurrent location: Olten, Solothurn, Switzerland"
+  "updated_at": "2026-03-28",
+  "bio": "Cronos is an exceptionally skilled tattoo artist based in Olten, Switzerland, renowned for their proficiency in trashpolka, black & gray, and realism styles. Their work is a testament to meticulousness and artistic excellence, ensuring each tattoo is a unique masterpiece that captures the essence of their motto, \"LIVESTYLE FOR FREAKS AND OTHER CREATURES 🐙.\" With a focus on hygiene, Cronos maintains a spotless and sterilized work environment, prioritizing client safety and satisfaction.\nPrice: $\nCurrent location: Olten, Solothurn, Switzerland\n\nTATTOO's FOR FREAKS AND OTHER CREATURES 🐙",
+  "instagram_enriched": {
+    "id": "1604219027",
+    "follower_count": 1446,
+    "following_count": 718,
+    "media_count": 685,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cronos_cs_tattoo/instagram/profile.jpg"
+  }
 }

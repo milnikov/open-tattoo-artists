@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dane_soos",
-  "name": "Dane Soos",
+  "name": "Order and Movement",
   "location": {
     "city": "Trieste",
     "country": "Italy"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Dane Soos, a master tattoo artist specializing in traditional, illustrative and neotraditional styles, is located in Trieste, Italy. Known for their high level of professionalism, Dane tattoos not just in his native Italy but also travels around Europe, ensuring every work of art adheres to the highest standards of craftsmanship and unique design.\nPrice: $$\nCurrent location: Trieste, Friuli-venezia Giulia, Italy"
+  "updated_at": "2026-03-28",
+  "bio": "Dane Soos, a master tattoo artist specializing in traditional, illustrative and neotraditional styles, is located in Trieste, Italy. Known for their high level of professionalism, Dane tattoos not just in his native Italy but also travels around Europe, ensuring every work of art adheres to the highest standards of craftsmanship and unique design.\nPrice: $$\nCurrent location: Trieste, Friuli-venezia Giulia, Italy\n\nStill tattooing.\nLimited availability every month .\nInfo DM\nTrieste\nLugano",
+  "instagram_enriched": {
+    "id": "15233720",
+    "follower_count": 27397,
+    "following_count": 1131,
+    "media_count": 532,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dane_soos/instagram/profile.jpg"
+  }
 }

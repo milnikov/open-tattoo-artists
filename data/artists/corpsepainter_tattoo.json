@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "corpsepainter_tattoo",
-  "name": "Isi Corpsepainter Tattoo",
+  "name": "Corpsepainter Tattoo Munich",
   "location": {
     "city": "Munich",
     "country": "Germany"
@@ -617,6 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Isi Corpsepainter Tattoo is a talented tattoo artist based in Munich, Germany, who specializes in the neotraditional and black & gray styles. They are renowned for their unparalleled skill level, successfully creating intricate designs that guarantee each client a unique, stunning piece of body art.\nPrice: $$\nCurrent location: Munich, Bavaria, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "Isi Corpsepainter Tattoo is a talented tattoo artist based in Munich, Germany, who specializes in the neotraditional and black & gray styles. They are renowned for their unparalleled skill level, successfully creating intricate designs that guarantee each client a unique, stunning piece of body art.\nPrice: $$\nCurrent location: Munich, Bavaria, Germany\n\n@julian.siebert | @sebastiankristentattoo | @vonwechmar_tattoo | @ninasamantaart| @meiler.ink |@janinakimhoatattoo| @isi.siebert.tattoo | @hayleyploos",
+  "instagram_enriched": {
+    "id": "5360032255",
+    "follower_count": 32883,
+    "following_count": 225,
+    "media_count": 142,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/corpsepainter_tattoo/instagram/profile.jpg"
+  }
 }

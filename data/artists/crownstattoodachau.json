@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "crownstattoodachau",
-  "name": "Crowns Tattoo Dachau",
+  "name": "CrownsTattooDachau",
   "location": {
     "city": "Dachau",
     "country": "Germany"
@@ -618,6 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "\"Crowns Tattoo Dachau, nestled in the historic heart of Dachau, Germany, is an avant-garde studio specializing in intricate black & gray, fineline, and sketch-style tattoos. Although currently not serving clients, when open, it offers a unique artistic experience where precision meets creativity, set within an environment that balances modern flair with traditional craftsmanship.\"\nPrice: $\nCurrent location: Dachau, Bavaria, Germany"
+  "updated_at": "2026-03-28",
+  "bio": "\"Crowns Tattoo Dachau, nestled in the historic heart of Dachau, Germany, is an avant-garde studio specializing in intricate black & gray, fineline, and sketch-style tattoos. Although currently not serving clients, when open, it offers a unique artistic experience where precision meets creativity, set within an environment that balances modern flair with traditional craftsmanship.\"\nPrice: $\nCurrent location: Dachau, Bavaria, Germany\n\nLeider geschlossen",
+  "instagram_enriched": {
+    "id": "1212835574",
+    "follower_count": 401,
+    "following_count": 173,
+    "media_count": 347,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/crownstattoodachau/instagram/profile.jpg"
+  }
 }

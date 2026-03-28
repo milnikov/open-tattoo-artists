@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dai_tattoo_artist",
-  "name": "Dai Tattoo",
+  "name": "Dai Tattoo Artist",
   "location": {
     "city": "Unknown",
     "country": "Japan"
@@ -619,6 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Dai Tattoo is renowned for their exceptional skill in creating fineline, illustrative, watercolor, and anime-style tattoos. Based in Japan, their work is characterized by a meticulous attention to detail and a masterful use of color that brings each piece to vibrant life. Dai's dedication to their craft is evident in every tattoo they ink, solidifying their reputation as a specialist in fine and delicate designs.\nPrice: $\nCurrent location: Japan"
+  "updated_at": "2026-03-28",
+  "bio": "Dai Tattoo is renowned for their exceptional skill in creating fineline, illustrative, watercolor, and anime-style tattoos. Based in Japan, their work is characterized by a meticulous attention to detail and a masterful use of color that brings each piece to vibrant life. Dai's dedication to their craft is evident in every tattoo they ink, solidifying their reputation as a specialist in fine and delicate designs.\nPrice: $\nCurrent location: Japan\n\n▪️17 years experience Fine line Gold Coast\n▪️Senior artist at @luckycatlanetattoo  \n🔻Tattoo booking fee link below",
+  "instagram_enriched": {
+    "id": "1975284962",
+    "follower_count": 8264,
+    "following_count": 1410,
+    "media_count": 1588,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dai_tattoo_artist/instagram/profile.jpg"
+  }
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "oldskills_tattoo",
+  "name": "Thomas Pietsch",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "floral",
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/oldskills_tattoo",
+    "instagram": "https://www.instagram.com/oldskills_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oldskills_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oldskills_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oldskills_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oldskills_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Thomas Pietsch is a masterful tattoo artist specializing in geometric, floral, and traditional styles at Oldskills Tattoo in Speyer. His dedication to cleanliness is evident in every aspect of his work, ensuring a safe and hygienic environment for all his clients. Known for his impeccable standards, Thomas maintains a professional atmosphere that is appreciated by everyone who experiences his artistry.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "outtalinetattoo",
+  "name": "Jake",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/outtalinetattoo",
+    "instagram": "https://www.instagram.com/outtalinetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/outtalinetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/outtalinetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/outtalinetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/outtalinetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Embrace the timeless elegance of black and gray at Jake's Tattoo Studio, where intricate shades and bold contrasts come to life under the skilled hand of Jake himself. Nestled in an atmosphere of creative tranquility, the studio is a haven for those seeking personalized artistry on skin. Please note: The studio is currently pausing its symphony of needles, but fret not, for Jake is preparing to weave his ink-infused magic once again—keep an eye out for his grand return.\nPrice: $\nCurrent location:"
+}

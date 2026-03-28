@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "color_clinic",
-  "name": "Color Clinic Tattoo",
+  "name": "Feinste Tattookunst",
   "location": {
     "city": "Leipzig",
     "country": "Germany"
@@ -617,7 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Immerse yourself in the creative ambiance of Color Clinic Tattoo, a Leipzig-based studio thriving since 2015, renowned for its cutting-edge trashpolka and illustrative styles. Beyond artistic expressions, they specialize in compassionate restorative tattooing, including expert breast nipple reconstruction and masterful scar cover-ups, alongside a diverse array of linework, blackwork, realistic, comic, and horror designs. At Color Clinic Tattoo, every ink tells a story.\nPrice: $\nCurrent location: Leipzig, Saxony, Germany",
-  "tattooing_since": "2015"
+  "updated_at": "2026-03-28",
+  "bio": "Immerse yourself in the creative ambiance of Color Clinic Tattoo, a Leipzig-based studio thriving since 2015, renowned for its cutting-edge trashpolka and illustrative styles. Beyond artistic expressions, they specialize in compassionate restorative tattooing, including expert breast nipple reconstruction and masterful scar cover-ups, alongside a diverse array of linework, blackwork, realistic, comic, and horror designs. At Color Clinic Tattoo, every ink tells a story.\nPrice: $\nCurrent location: Leipzig, Saxony, Germany\n\n〰️ Dein Tattoostudio rund um Realismus , Anime, Comics co\n〰️ Spezialisiert auf (Narben-)Cover Ups und Brustwarzenrekonstruktion",
+  "tattooing_since": "2015",
+  "instagram_enriched": {
+    "id": "2253522401",
+    "follower_count": 6710,
+    "following_count": 538,
+    "media_count": 350,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/color_clinic/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chrisname",
-  "name": "Christian Name",
+  "name": "Chris",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -616,7 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
+  "updated_at": "2026-03-28",
   "bio": "Christian Name, a distinguished tattoo artist based in Curitiba, Brazil, has been mastering the art of tribal tattoos since 2005. Their commitment to professionalism is evident in every aspect of their work, from the meticulous attention to detail in their designs to the impeccable way they run both Organic Tattoo Studio and MA Oriental. Drop by or schedule a visit to have all your questions answered and experience their exceptional artistry firsthand.\nPrice: $\nCurrent location: Curitiba, Parana, Brazil",
-  "tattooing_since": "2005"
+  "tattooing_since": "2005",
+  "instagram_enriched": {
+    "id": "1972527722",
+    "follower_count": 55,
+    "following_count": 83,
+    "media_count": 18,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chrisname/instagram/profile.jpg"
+  }
 }

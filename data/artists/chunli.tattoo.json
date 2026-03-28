@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chunli.tattoo",
-  "name": "Chun Li",
+  "name": "CHUNLITATTOO",
   "location": {
     "city": "Ho Chi Minh City",
     "country": "Vietnam"
@@ -618,7 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
-  "bio": "Chun Li is a highly skilled tattoo artist based in Ho Chi Minh City, Vietnam, known for their expertise in illustrative, lettering, and coverup tattoos. Their professionalism is reflected in the precise and detailed artwork they create, ensuring that each client leaves with a tattoo that surpasses expectations. Dedicated to the art form, Chun Li consistently delivers outstanding work within the bustling tattoo scene of the city.\nPrice: $\nCurrent location: Ho Chi Minh City, Vietnam",
-  "verified": "artist"
+  "updated_at": "2026-03-28",
+  "bio": "Chun Li is a highly skilled tattoo artist based in Ho Chi Minh City, Vietnam, known for their expertise in illustrative, lettering, and coverup tattoos. Their professionalism is reflected in the precise and detailed artwork they create, ensuring that each client leaves with a tattoo that surpasses expectations. Dedicated to the art form, Chun Li consistently delivers outstanding work within the bustling tattoo scene of the city.\nPrice: $\nCurrent location: Ho Chi Minh City, Vietnam\n\nChunLiTattoo - PRIVATE studio in Sai Gon 🇻🇳\n📮We accept card payment\n📍Tuesday - Sunday  : 10am - 8pm \n☎️ (+84)933.334.220\nWhatsApp (+84)933.334.163",
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "362625094",
+    "follower_count": 1796,
+    "following_count": 516,
+    "media_count": 2623,
+    "following": [],
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chunli.tattoo/instagram/profile.jpg"
+  }
 }
