@@ -20,6 +20,12 @@ if [ "$prev" = "$curr" ]; then
   exit 1
 fi
 
+# Shallow clones or rewritten history may not include the previous deployment SHA.
+# Without it we cannot diff — build rather than skip or error.
+if ! git rev-parse --verify "$prev^{commit}" >/dev/null 2>&1; then
+  exit 1
+fi
+
 # Paths are relative to Root Directory (apps/web).
 git diff --quiet "$prev" "$curr" -- \
   . \
