@@ -40,6 +40,98 @@ DEFAULT_HEADERS = {
 }
 
 ENRICH_STATE_FILE = "packages/scraper/enrich_instagram_state.json"
+
+# Instagram "full_name" is often a marketing line (emojis, "Tattoo Artist", etc.).
+_EMOJI_IN_NAME_RE = re.compile(
+    r"[\U0001F300-\U0001FAFF\U00002600-\U000027BF\U0001F600-\U0001F64F\U0001F680-\U0001F6FF]"
+)
+_IG_NAME_MARKETING_RE = re.compile(
+    r"(?i)\b(tattoo\s*artist|tattooist|tattooer|inked|booking\s*open|book\s*now|"
+    r"dm\s*(me|for)|link\s*in\s*bio|official\s*account|tattoo\s*studio)\b"
+)
+_NAME_NOISE_WORDS = frozenset({
+    "tattoo", "tattoos", "artist", "artists", "ink", "inked", "studio", "shop",
+    "booking", "book", "official", "account", "dm", "link", "bio", "now", "open",
+    "the", "and", "for", "me",
+})
+
+
+def _meaningful_alpha_words(s: str) -> list[str]:
+    return [w for w in re.findall(r"[A-Za-zÀ-ÿ']{3,}", s) if w.lower() not in _NAME_NOISE_WORDS]
+
+
+def _letter_ratio(s: str) -> float:
+    if not s:
+        return 0.0
+    return sum(1 for c in s if c.isalpha()) / len(s)
+
+
+def _emoji_char_count(s: str) -> int:
+    return len(_EMOJI_IN_NAME_RE.findall(s))
+
+
+def _looks_like_person_name(s: str) -> bool:
+    """Heuristic: human-curated display name (letters/spaces/hyphens/apostrophe), not IG slogan."""
+    s = (s or "").strip()
+    if len(s) < 2 or len(s) > 100:
+        return False
+    if _emoji_char_count(s) > 0:
+        return False
+    if _letter_ratio(s) < 0.55:
+        return False
+    stripped = re.sub(r"[\s\-'.]+", "", s)
+    if not stripped or not any(c.isalpha() for c in stripped):
+        return False
+    if _IG_NAME_MARKETING_RE.search(s) and len(_meaningful_alpha_words(s)) < 2:
+        return False
+    return True
+
+
+def _is_placeholder_artist_name(name: str, artist_id: str) -> bool:
+    n = name.strip().lower().replace(" ", "_").replace("-", "_")
+    aid = artist_id.strip().lower().replace("-", "_")
+    if not name.strip():
+        return True
+    if len(name.strip()) <= 2:
+        return True
+    return n == aid
+
+
+def _instagram_display_is_clearly_junk(ig: str) -> bool:
+    """True when IG string is unsuitable as a catalog name (emoji noise, almost no letters)."""
+    if _emoji_char_count(ig) > 0:
+        return True
+    if _letter_ratio(ig) < 0.35:
+        return True
+    return False
+
+
+def should_apply_instagram_full_name(
+    existing_name: str, instagram_full_name: str, artist_id: str, *, force_instagram: bool
+) -> bool:
+    """
+    Whether to set artist `name` from Instagram `full_name`.
+    Keeps a plausible existing name when IG returns emoji/marketing-only display text.
+    """
+    if force_instagram:
+        return bool((instagram_full_name or "").strip())
+    ig = (instagram_full_name or "").strip()
+    ex = (existing_name or "").strip()
+    if not ig:
+        return False
+    if not ex:
+        return not _instagram_display_is_clearly_junk(ig)
+    if _is_placeholder_artist_name(ex, artist_id):
+        return not _instagram_display_is_clearly_junk(ig)
+    ig_ok = _looks_like_person_name(ig)
+    ex_ok = _looks_like_person_name(ex)
+    if ex_ok and not ig_ok:
+        return False
+    if ex_ok and ig_ok:
+        return False
+    if not ig_ok:
+        return False
+    return True
 EXIT_ALL_DONE = 2
 
 
@@ -708,6 +800,10 @@ def build_instagram_enriched_and_meta(
         "media_count": user_data.get("media_count"),
         "following": following,
     }
+    raw_ig_full = (user_data.get("full_name") or "").strip()
+    # Only when we actually fetched profile (skip_profile uses empty _raw_user_info and copies JSON name).
+    if raw_ig_full and (enriched.get("_raw_user_info") or {}):
+        slim["instagram_full_name"] = raw_ig_full
 
     new_tattoos_front = []
     if not skip_r2 and r2_client and bucket and public_url_base:
@@ -846,6 +942,11 @@ def main():
         action="store_true",
         help="Re-enrich artists even if they already have instagram_enriched or are in completed state.",
     )
+    parser.add_argument(
+        "--always-use-instagram-name",
+        action="store_true",
+        help="Always set name from Instagram full_name (old behavior; default: keep curated name when IG looks like marketing).",
+    )
     args = parser.parse_args()
 
     config = load_config()
@@ -955,7 +1056,12 @@ def main():
                 )
             )
             data["updated_at"] = updated_at
-            if name_override:
+            if name_override and should_apply_instagram_full_name(
+                data.get("name") or "",
+                name_override,
+                artist_id,
+                force_instagram=args.always_use_instagram_name,
+            ):
                 data["name"] = name_override
             if bio_append:
                 existing_bio = (data.get("bio") or "").strip()
