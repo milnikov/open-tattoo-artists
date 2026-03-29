@@ -72,6 +72,17 @@ STOPWORDS = {
 }
 
 
+def load_id_set_from_file(path: Path) -> set[str]:
+    """Load artist IDs from JSON array or one id per line."""
+    raw = path.read_text("utf-8").strip()
+    if not raw:
+        return set()
+    if raw.startswith("["):
+        data = json.loads(raw)
+        return {str(x) for x in data if x}
+    return {line.strip() for line in raw.splitlines() if line.strip()}
+
+
 def load_env_file(path: Path) -> None:
     """Load simple KEY=VALUE pairs into os.environ (does not override existing vars)."""
     try:
@@ -312,6 +323,13 @@ def main() -> None:
         default=None,
         help="Only process one artist JSON by id (e.g. aaronsprings).",
     )
+    parser.add_argument(
+        "--only-ids-file",
+        type=str,
+        default=None,
+        help="Only process artist IDs listed here (JSON array or one per line). "
+        "e.g. from list_hidden_artists.py --output.",
+    )
     parser.add_argument("--sleep", type=float, default=0.3, help="Delay between queries (seconds).")
     parser.add_argument("--num", type=int, default=10, help="How many organic results to request.")
     parser.add_argument("--dry-run", action="store_true", help="Do not write changes.")
@@ -354,13 +372,29 @@ def main() -> None:
 
     all_files = sorted(data_dir.glob("*.json"), key=lambda p: p.stem)
     if args.only_artist_id:
+        if args.only_ids_file:
+            print("Cannot use both --only-artist-id and --only-ids-file.", file=sys.stderr)
+            sys.exit(2)
         p = data_dir / f"{args.only_artist_id}.json"
         if not p.exists():
             print(f"Artist not found: {p}", file=sys.stderr)
             sys.exit(1)
         files = [p]
     else:
-        files = all_files[args.start_index : (args.start_index + args.limit) if args.limit is not None else None]
+        files = all_files
+        if args.only_ids_file:
+            only_path = (
+                Path(args.only_ids_file)
+                if Path(args.only_ids_file).is_absolute()
+                else repo_path(args.only_ids_file)
+            )
+            if not only_path.is_file():
+                print(f"only-ids-file not found: {only_path}", file=sys.stderr)
+                sys.exit(1)
+            only_ids = load_id_set_from_file(only_path)
+            files = [p for p in all_files if p.stem in only_ids]
+            print(f"Restricting to {len(files)} artist files (from {len(only_ids)} IDs in {only_path})")
+        files = files[args.start_index : (args.start_index + args.limit) if args.limit is not None else None]
 
     processed = 0
     changed = 0
