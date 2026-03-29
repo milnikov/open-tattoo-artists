@@ -1,8 +1,12 @@
 import { Suspense } from "react";
-import { getCompactArtists, getAllowedCountryNames } from "@/lib/data";
+import { getAllowedCountryNames } from "@/lib/data";
 import { ArtistListPage } from "@/components/artist-list-page";
 
-/** Cache home page for 1 hour to reduce ISR read usage; content is from static data. */
+/**
+ * Cache the small server shell (country allowlist only). Artist rows load via
+ * /api/artists/compact on the client so the ISR payload stays under Vercel’s limit
+ * (full compact JSON serialized into RSC was ~19MB).
+ */
 export const revalidate = 3600;
 
 function ArtistListPageFallback() {
@@ -13,29 +17,11 @@ function ArtistListPageFallback() {
   );
 }
 
-export default async function HomePage() {
-  const [artists, allowedCountryNames] = await Promise.all([
-    getCompactArtists(),
-    Promise.resolve(getAllowedCountryNames()),
-  ]);
-
-  if (artists.length === 0) {
-    return (
-      <div className="flex flex-col items-center justify-center py-32 px-4">
-        <p className="text-muted-foreground">No artists yet.</p>
-        <p className="text-sm text-muted-foreground mt-2">
-          Run the scraper pipeline to populate data.
-        </p>
-      </div>
-    );
-  }
-
+export default function HomePage() {
+  const allowedCountryNames = getAllowedCountryNames();
   return (
     <Suspense fallback={<ArtistListPageFallback />}>
-      <ArtistListPage
-        artists={artists}
-        allowedCountryNames={allowedCountryNames}
-      />
+      <ArtistListPage allowedCountryNames={allowedCountryNames} />
     </Suspense>
   );
 }

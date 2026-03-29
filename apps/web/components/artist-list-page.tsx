@@ -47,15 +47,42 @@ function buildSearchString(parsed: {
 }
 
 interface ArtistListPageProps {
-  artists: CompactArtist[];
   /** Only these countries may appear in the filter dropdown (from countries.json). */
   allowedCountryNames?: string[];
 }
 
 export function ArtistListPage({
-  artists,
   allowedCountryNames = [],
 }: ArtistListPageProps) {
+  const [artists, setArtists] = useState<CompactArtist[]>([]);
+  const [loadStatus, setLoadStatus] = useState<"loading" | "ready" | "error">(
+    "loading"
+  );
+  const [loadError, setLoadError] = useState<string | null>(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const res = await fetch("/api/artists/compact");
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = (await res.json()) as CompactArtist[];
+        if (!cancelled) {
+          setArtists(data);
+          setLoadStatus("ready");
+        }
+      } catch (e) {
+        if (!cancelled) {
+          setLoadError(e instanceof Error ? e.message : "Failed to load artists");
+          setLoadStatus("error");
+        }
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
   const searchParams = useSearchParams();
   const pathname = usePathname();
   const router = useRouter();
@@ -351,6 +378,36 @@ export function ArtistListPage({
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
+  if (loadStatus === "loading") {
+    return (
+      <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
+        <p className="text-muted-foreground">Loading…</p>
+      </div>
+    );
+  }
+
+  if (loadStatus === "error") {
+    return (
+      <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
+        <p className="text-destructive">Could not load artists.</p>
+        {loadError ? (
+          <p className="text-sm text-muted-foreground mt-2">{loadError}</p>
+        ) : null}
+      </div>
+    );
+  }
+
+  if (artists.length === 0) {
+    return (
+      <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
+        <p className="text-muted-foreground">No artists yet.</p>
+        <p className="text-sm text-muted-foreground mt-2">
+          Run the scraper pipeline to populate data.
+        </p>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
       <div className="h-8 md:h-16" />
@@ -405,9 +462,9 @@ export function ArtistListPage({
             page={page}
             totalPages={totalPages}
             onPageChange={(p) => {
-          setPage(p);
-          updateUrl({ page: p });
-        }}
+              setPage(p);
+              updateUrl({ page: p });
+            }}
             variant="bottom"
           />
         </main>
