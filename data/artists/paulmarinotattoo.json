@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "paulmarinotattoo",
+  "name": "Paul Marino",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/paulmarinotattoo",
+    "instagram": "https://www.instagram.com/paulmarinotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulmarinotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulmarinotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulmarinotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulmarinotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Paul Marino is a highly-skilled, professional tattoo artist, favored for his realism style of tattooing. He maintains a clean and comfortable working environment, ensuring not only great artwork but also a top-notch tattoo experience. Marino is incredibly dedicated to his craft, which is reflected in his impressive base of over 70,000 followers on Instagram. He partners with renowned sponsors like Fusion Ink and Kwadron, indicating his commitment to using nothing but high-quality equipment in his work.\nPrice: $$$\nCurrent location:"
+}

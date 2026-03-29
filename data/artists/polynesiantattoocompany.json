@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "polynesiantattoocompany",
+  "name": "Dave",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/polynesiantattoocompany",
+    "instagram": "https://www.instagram.com/polynesiantattoocompany/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/polynesiantattoocompany/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/polynesiantattoocompany/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/polynesiantattoocompany/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/polynesiantattoocompany/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Dave is a highly skilled tattoo artist based in Las Vegas, renowned for his expertise in creating custom tribal and geometric patterns. Each piece crafted by Dave is meticulously designed to reflect the individuality of his clients, ensuring a unique and personal tattoo experience. His work is not only a testament to his talent in the specialized field of Polynesian tattoos but also to his commitment to personalizing the art form for each person who walks through his doors.\nPrice: $\nCurrent location:"
+}

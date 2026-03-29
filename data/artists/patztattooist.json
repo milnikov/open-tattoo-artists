@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "patztattooist",
+  "name": "Clint Patzel",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/patztattooist",
+    "instagram": "https://www.instagram.com/patztattooist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/patztattooist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/patztattooist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/patztattooist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/patztattooist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Clint Patzel is a tattoo artist renowned for his exceptional skill in newschool and neotraditional styles. Working out of Reverence Tattoo in Melbourne, Australia, Clint combines his love for the arts by also being a dedicated musician. Clients not only praise his artistic talent but also his unwavering commitment to maintaining a clean and hygienic workspace, ensuring a safe and professional tattooing experience.\nPrice: $\nCurrent location:"
+}

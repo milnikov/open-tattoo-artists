@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "perfectiontattoo",
+  "name": "Christ Revino",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/perfectiontattoo",
+    "instagram": "https://www.instagram.com/perfectiontattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perfectiontattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perfectiontattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perfectiontattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perfectiontattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Christ Revino is a highly skilled tattoo artist with a distinct knack for Japanese and geometric aesthetics. His professionalism is reflected in the immaculate cleanliness he maintains in his Austin-based studio, ensuring a safe and comfortable experience for his clients. Call or email to set up an appointment, you won't be disappointed by his masterful craft.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "peter.nadelstreifen",
+  "name": "Peter Nadelstreifen",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/peter.nadelstreifen",
+    "instagram": "https://www.instagram.com/peter.nadelstreifen/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/peter.nadelstreifen/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/peter.nadelstreifen/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/peter.nadelstreifen/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/peter.nadelstreifen/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Peter Nadelstreifen is renowned for his impeccable professionalism in the tattooing industry, specializing in the distinctive styles of black & gray and trashpolka. His approach ensures that every client receives personalized attention and guidance through a scheduled appointment, guaranteeing an exclusive and focused tattoo experience. Contact him at peter@nadelstreifen.net to set your appointment and witness a true professional at work.\nPrice: $\nCurrent location:"
+}

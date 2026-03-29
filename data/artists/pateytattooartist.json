@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "pateytattooartist",
+  "name": "Glenn Pate",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pateytattooartist",
+    "instagram": "https://www.instagram.com/pateytattooartist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pateytattooartist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pateytattooartist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pateytattooartist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pateytattooartist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Renowned for his exquisite attention to detail, Glenn Pate is a master tattoo artist specializing in realism, black & gray, and trashpolka styles. As the proud owner of Ink Slave Tattoos in Hobart, Tasmania, he maintains an immaculate studio environment, ensuring the utmost cleanliness for his clientele. Glenn's commitment to hygiene is evident in every aspect of his work, providing peace of mind alongside stunning body art.\nPrice: $\nCurrent location:"
+}

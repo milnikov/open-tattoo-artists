@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "praidskull",
+  "name": "Praid Skull",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/praidskull",
+    "instagram": "https://www.instagram.com/praidskull/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/praidskull/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/praidskull/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/praidskull/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/praidskull/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Praid Skull is a highly skilled tattoo artist who specializes in black and gray and trash polka styles, ensuring each design is executed with exceptional detail and finesse. His professionalism is reflected in both the precision of his work and the meticulous cleanliness of his workspace, providing clients with both peace of mind and outstanding results. Praid's portfolio showcases a wealth of stunning pieces that confirm his expertise and dedication to the art of tattooing.\nPrice: $\nCurrent location:"
+}

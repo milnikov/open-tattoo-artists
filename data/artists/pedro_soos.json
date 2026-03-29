@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "pedro_soos",
+  "name": "Pedro Soos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "japanese",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pedro_soos",
+    "instagram": "https://www.instagram.com/pedro_soos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pedro_soos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pedro_soos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pedro_soos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pedro_soos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Pedro Soos is a highly skilled tattoo artist, remarkable for his exquisite prowess in traditional, Japanese, and geometric styles. As a co-owner of the widely respected 'Gone Fishing Tattoo' studio in Portugal and a founding member of the S.O.o.S., he's left a significant footprint in the world of body art. His adeptness and proficiency are evident in his detailed and intricate work.\nPrice: $$\nCurrent location:"
+}

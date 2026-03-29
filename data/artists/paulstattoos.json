@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "paulstattoos",
+  "name": "Paul Bermudez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/paulstattoos",
+    "instagram": "https://www.instagram.com/paulstattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulstattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulstattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulstattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/paulstattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Paul Bermudez is a highly skilled tattoo artist renowned for his work in black & gray, illustrative, and trash polka styles. His exceptional talent is evident in every piece he creates, ensuring that each client leaves with a stunning, one-of-a-kind tattoo. Paul's dedication to his craft and emphasis on flawless execution make him a sought-after artist for anyone seeking a top-tier tattoo experience.\nPrice: $\nCurrent location:"
+}

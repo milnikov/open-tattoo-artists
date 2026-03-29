@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pierroked",
+  "name": "Pierroked",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pierroked",
+    "instagram": "https://www.instagram.com/pierroked/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pierroked/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pierroked/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pierroked/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pierroked/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Pierroked is an exceptionally talented tattoo artist, specializing in intricate tribal designs. With an innate ability to bring life to each masterpiece he creates, his astute attention to detailing is truly commendable. He pairs his artistic prowess with a high level of professionalism and is readily accessible through his email for orders and bookings.\nPrice: $$\nCurrent location:"
+}

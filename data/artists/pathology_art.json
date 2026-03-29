@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pathology_art",
+  "name": "Path O'logy Art",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pathology_art",
+    "instagram": "https://www.instagram.com/pathology_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pathology_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pathology_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pathology_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pathology_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Path O'logy Art is renowned for their incredible skill level, specializing in minimalist tattoo designs that elegantly marry visualization with emotion. They operate on an appointment-only basis, ensuring each custom tattoo receives their undivided attention and craftsmanship. Their work is highly sought after in the Szczecin-Warsaw area of Poland, a testament to their exceptional talent in the tattoo artistry.\nPrice: $$\nCurrent location:"
+}

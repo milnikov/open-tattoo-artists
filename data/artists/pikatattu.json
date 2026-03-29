@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "pikatattu",
+  "name": "Steph Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pikatattu",
+    "instagram": "https://www.instagram.com/pikatattu/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pikatattu/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pikatattu/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pikatattu/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pikatattu/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Steph Tattoo is a highly skilled artist specializing in minimalist and fine line tattoos, boasting a meticulous approach that ensures each design is crafted with precision. Known for maintaining a clean and hygienic workspace, Steph's clients can relax in the knowledge that their safety and comfort are taken seriously. This dedication to cleanliness is a testament to their professionalism, making Steph Tattoo a trusted name for anyone seeking a crisp, elegant tattoo in Paris.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "popo_tattoo",
+  "name": "Popo Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/popo_tattoo",
+    "instagram": "https://www.instagram.com/popo_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/popo_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/popo_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/popo_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/popo_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Popo Tattoo is an exceptionally skilled tattoo artist specializing in traditional and illustrative styles. Operating from the vibrant Hong-je station area in Seoul, they maintain a strict one-on-one appointment policy to ensure your design receives the dedicated attention it deserves. Their professionalism speaks volumes in the precision and intricacy of their work.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pjandersontattoos",
+  "name": "PJ Anderson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pjandersontattoos",
+    "instagram": "https://www.instagram.com/pjandersontattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pjandersontattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pjandersontattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pjandersontattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pjandersontattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "PJ Anderson is a highly skilled tattoo artist from Nashville, TN, specializing in traditional tattoos. Not only is he an accomplished Tattooer, he also shines as a Painter, doubling his creative expertise. Reach him at 'pjandersontattoos@gmail.com' for bookings and inquiries.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "perez_tattooer",
+  "name": "Pérez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/perez_tattooer",
+    "instagram": "https://www.instagram.com/perez_tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perez_tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perez_tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perez_tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/perez_tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Pérez, a masterful tattoo artist specializing in traditional styles, is known for his extraordinary skills meticulously reflected in his artwork. He has left his unique signature at several renowned places such as @rockforlight.tattoo Sada, @viveiro_tattoo_estudio TMS, and @truemountains, endorsing his exceptional mastery in the art form.\nPrice: $$\nCurrent location:"
+}

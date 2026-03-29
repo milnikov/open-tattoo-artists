@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pengerzztattoos",
+  "name": "Pengerzztattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pengerzztattoos",
+    "instagram": "https://www.instagram.com/pengerzztattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pengerzztattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pengerzztattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pengerzztattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pengerzztattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-28",
+  "bio": "Pengerzztattoos is a multi-award-winning tattoo artist known for his expertise in the 'black & gray' style, justifying over a hundred thousand followers on Instagram. He brings an immense level of professionalism to his work as shown by his published arts and practices. However, be advised to book in advance, as he is in such high demand his diary is already filled till August 2023.\nPrice: $$$\nCurrent location:"
+}
