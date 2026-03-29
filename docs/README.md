@@ -15,4 +15,6 @@
 
 Schemas: `packages/schema/`. Supabase: `supabase/`. Scraper details: `packages/scraper/README.md`.
 
+**Hidden-artist Instagram batch:** `packages/scraper/hidden_artist_ids.json` (in git) lists artist IDs hidden on the site that have Instagram, for `enrich_instagram_rapidapi.py --only-ids-file`. Regenerate with `python3 packages/scraper/src/list_hidden_artists.py` after index or visibility changes.
+
 The `archive/` folder holds older copies; prefer the files above.
