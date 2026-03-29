@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "barbe_rousse",
-  "name": "Barbe Rousse",
+  "name": "BARBE ROUSSE TATTOO",
   "location": {
     "city": "Aix-en-Provence",
     "country": "France"
@@ -40,12 +40,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-09",
+  "updated_at": "2026-03-29",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "217783932",
+    "follower_count": 56302,
+    "following_count": 786,
+    "media_count": 136,
+    "following": [],
+    "instagram_full_name": "BARBE ROUSSE TATTOO",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/barbe_rousse/instagram/profile.jpg"
+  },
+  "bio": "BOOKING _ WhatsApp +33625801919\nMARSEILLE_FRANCE 📍@steak.tattoo.marseille"
 }

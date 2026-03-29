@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bong",
-  "name": "Bong",
+  "name": "BONG",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -29,12 +29,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
+  "updated_at": "2026-03-29",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "5419320",
+    "follower_count": 110482,
+    "following_count": 4780,
+    "media_count": 6246,
+    "following": [],
+    "instagram_full_name": "BONG",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bong/instagram/profile.jpg"
+  },
+  "bio": "—LAS VEGAS (private studio)\n—SPONSORED \n—@bishoprotary \n—@allegoryink\n—@bigwasp.official \n—DM @akb_future to book\n—(Deposit required)\n—must be 18"
 }

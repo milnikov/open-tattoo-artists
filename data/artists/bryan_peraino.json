@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bryan_peraino",
-  "name": "Bryan Peraino",
+  "name": "The Daruma Tattoo Company",
   "location": {
     "city": "Toms River",
     "country": "United States"
@@ -617,12 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
+  "updated_at": "2026-03-29",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "1900668555",
+    "follower_count": 5691,
+    "following_count": 1455,
+    "media_count": 668,
+    "following": [],
+    "instagram_full_name": "The Daruma Tattoo Company",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bryan_peraino/instagram/profile.jpg"
+  },
+  "bio": "➖EST.2015➖\nBOOK DIRECTLY🔻\n@jeycollins \n@bryanperaino\n@davidgtattoo\n@its_just_kristyn\nPIERCING INQUIRIES🔻\n@daruma.piercings.sarah"
 }

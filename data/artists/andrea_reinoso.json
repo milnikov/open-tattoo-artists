@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "andrea_reinoso",
-  "name": "Andrea Reinoso",
+  "name": "Andrea",
   "location": {
     "city": "Lima",
     "country": "Peru"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE House of Pussy Studio Lima"
+  "updated_at": "2026-03-29",
+  "bio": "WORKPLACE House of Pussy Studio Lima",
+  "instagram_enriched": {
+    "id": "451108927",
+    "follower_count": 52,
+    "following_count": 15,
+    "media_count": 9,
+    "following": [],
+    "instagram_full_name": "Andrea",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/andrea_reinoso/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "attg",
-  "name": "Attg",
+  "name": "Tattoo Artist ~ Toronto CA",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -13,13 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Golden Iron Tattoo Studio Toronto",
+  "updated_at": "2026-03-29",
+  "bio": "WORKPLACE Golden Iron Tattoo Studio Toronto\n\nOwner of @atlasinktoronto \n@fytsupplies Pro team💙\nDM for bookings",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "4529793739",
+    "follower_count": 15188,
+    "following_count": 7155,
+    "media_count": 504,
+    "following": [],
+    "instagram_full_name": "Tattoo Artist ~ Toronto CA",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/attg/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "blum",
-  "name": "Blum",
+  "name": "Léah Blum",
   "location": {
     "city": "Marseille",
     "country": "France"
@@ -534,6 +534,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE PRISME TATTOO Marseille"
+  "updated_at": "2026-03-29",
+  "bio": "WORKPLACE PRISME TATTOO Marseille\n\nMe: @iam.blum \n💌blum.ttt@gmail.com\n-\nOwner of @casabyblum",
+  "instagram_enriched": {
+    "id": "506404173",
+    "follower_count": 332266,
+    "following_count": 567,
+    "media_count": 763,
+    "following": [],
+    "instagram_full_name": "Léah Blum",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/blum/instagram/profile.jpg"
+  }
 }

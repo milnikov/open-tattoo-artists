@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ali",
-  "name": "Ali",
+  "name": "Sydney Tattoo Artists | MARKD",
   "location": {
     "city": "Sydney",
     "country": "Australia"
@@ -13,12 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
+  "updated_at": "2026-03-29",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "1686407270",
+    "follower_count": 80230,
+    "following_count": 271,
+    "media_count": 1326,
+    "following": [],
+    "instagram_full_name": "Sydney Tattoo Artists | MARKD",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ali/instagram/profile.jpg"
+  },
+  "bio": "🐍 SYDNEY’S MOST TRUSTED TATTOO STUDIO\n🐍 BOOK YOUR NEXT TATTOO ⬇️\n🐍 LN: 011227"
 }
