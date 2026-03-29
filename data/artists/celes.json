@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "celes",
-  "name": "Celes",
+  "name": "Celes | Colour Tattoo Artist",
   "location": {
     "city": "Singapore",
     "country": "Singapore"
@@ -425,6 +425,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-07",
-  "bio": "WORKPLACE Ink & Ohm Singapore"
+  "updated_at": "2026-03-29",
+  "bio": "WORKPLACE Ink & Ohm Singapore\n\n🏡🇸🇬 @inkandohm Mar-Apr full • May-June open\nAPR - Barcelona open 20,21,22\nSponsored by: @starbritecolors",
+  "instagram_enriched": {
+    "id": "60300684924",
+    "follower_count": 28169,
+    "following_count": 1340,
+    "media_count": 469,
+    "following": [],
+    "instagram_full_name": "Celes | Colour Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/celes/instagram/profile.jpg"
+  }
 }
