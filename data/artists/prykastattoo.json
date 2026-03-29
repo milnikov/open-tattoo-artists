@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "prykastattoo",
+  "name": "Prykas",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "neotraditional",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/prykastattoo",
+    "instagram": "https://www.instagram.com/prykastattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prykastattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prykastattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prykastattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prykastattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Prykas is a seasoned tattoo artist specializing in realism, neotraditional, and black & gray styles. With over 27 years of experience, he has honed a high level of skill that is evident in the intricate details and depth of his work. Prykas's portfolio showcases a mastery that promises to bring any tattoo vision to life with exceptional precision and artistry.\nPrice: $\nCurrent location:"
+}

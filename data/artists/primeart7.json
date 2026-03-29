@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "primeart7",
+  "name": "Prime Tattoo Art",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/primeart7",
+    "instagram": "https://www.instagram.com/primeart7/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/primeart7/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/primeart7/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/primeart7/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/primeart7/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-03-29",
+  "bio": "Prime Tattoo Art is a highly skilled tattoo artist renowned for their exceptional work in black & gray and realism styles. Clients consistently praise not only their artistic abilities but also their unwavering professionalism, which is evident in both their interactions and their meticulous attention to detail in every design. Anyone seeking a talented professional who can bring intricate artworks to life on skin will find Prime Tattoo Art to be an outstanding choice.\nPrice: $\nCurrent location:"
+}
