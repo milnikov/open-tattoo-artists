@@ -98,6 +98,12 @@ def main() -> None:
         action="store_true",
         help="Delete R2 objects under artists/<id>/instagram/ and ig_*.webp in full/thumb.",
     )
+    parser.add_argument(
+        "--delete-r2-for-all-listed",
+        action="store_true",
+        help="With --delete-r2, delete R2 IG assets for every id in --only-ids-file, even if "
+        "JSON has no instagram_enriched / no ig_* tattoos (orphan objects).",
+    )
     args = parser.parse_args()
 
     ids_path = Path(args.only_ids_file)
@@ -177,7 +183,9 @@ def main() -> None:
             p.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
             stats["json_changed"] += 1
 
-        if args.delete_r2 and r2_client and r2_bucket and (had_ie or ig_count):
+        if args.delete_r2 and r2_client and r2_bucket and (
+            args.delete_r2_for_all_listed or had_ie or ig_count
+        ):
             n = delete_r2_ig_assets(r2_client, r2_bucket, artist_id, dry_run=args.dry_run)
             stats["r2_deleted"] += n
 

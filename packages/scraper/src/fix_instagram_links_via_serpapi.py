@@ -26,6 +26,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
@@ -70,6 +71,81 @@ STOPWORDS = {
     "workplace",
     "ink",
 }
+
+# Tokens matched in Serp title/snippet that usually aren't a person's name — don't use alone
+# to inflate identity (studio addresses, generic service words).
+DISPLAY_NAME_NOISE = frozenset({
+    "custom",
+    "tattoos",
+    "tattoo",
+    "traditional",
+    "realism",
+    "blackwork",
+    "denver",
+    "studio",
+    "gallery",
+    "shop",
+    "company",
+    "llc",
+    "inc",
+})
+
+
+def fold_text_for_match(s: str) -> str:
+    """
+    Lowercase ASCII fold for substring checks: unicode stylistic letters (e.g. bold 𝗠𝗲𝗴𝗮𝗻)
+    become plain letters so name tokens from JSON match Google's title/snippet.
+    """
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    return s.lower()
+
+
+def _compact_alnum(s: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", (s or "").lower())
+
+
+def handle_identity_score(handle: str, artist_id: str, artist_tokens: list[str]) -> int:
+    """
+    Estimate how strongly an Instagram handle looks tied to the artist identity.
+    Higher score => stronger identity match.
+    """
+    h_compact = _compact_alnum(handle)
+    if not h_compact:
+        return 0
+
+    score = 0
+    aid_compact = _compact_alnum(artist_id)
+    if aid_compact:
+        if aid_compact == h_compact:
+            score += 5
+        elif aid_compact in h_compact or h_compact in aid_compact:
+            score += 3
+
+    for t in artist_tokens:
+        tt = _compact_alnum(t)
+        if not tt or len(tt) < 3:
+            continue
+        if tt in h_compact:
+            score += 2
+
+    return score
+
+
+def looks_like_aggregator_handle(handle: str) -> bool:
+    h = (handle or "").lower()
+    bad_markers = (
+        "tattooartists",
+        "magazine",
+        "features",
+        "feature",
+        "repost",
+        "news",
+        "daily",
+    )
+    return any(m in h for m in bad_markers)
 
 
 def load_id_set_from_file(path: Path) -> set[str]:
@@ -162,6 +238,37 @@ def split_artist_name_tokens(name: str) -> list[str]:
     return out
 
 
+def slug_word_tokens(artist_id: str) -> list[str]:
+    """
+    Words from the JSON `id`/slug (underscores, dots, etc.) for overlap checks when
+    `name` is a studio label and does not contain the person's real name tokens.
+    """
+    if not artist_id:
+        return []
+    parts = re.split(r"[^a-z0-9]+", artist_id.lower())
+    seen: set[str] = set()
+    out: list[str] = []
+    for p in parts:
+        p = p.strip()
+        if len(p) < 3 or p in STOPWORDS:
+            continue
+        if p not in seen:
+            seen.add(p)
+            out.append(p)
+    return out
+
+
+def artist_tokens_for_serp_match(name: str, artist_id: str) -> list[str]:
+    """Name tokens plus slug words, useful for Serp title/snippet overlap."""
+    seen: set[str] = set()
+    out: list[str] = []
+    for t in split_artist_name_tokens(name) + slug_word_tokens(artist_id):
+        if t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
 def build_query(artist: dict[str, Any]) -> str:
     name = (artist.get("name") or "").strip()
     artist_id = (artist.get("id") or "").strip()
@@ -181,20 +288,10 @@ def build_query(artist: dict[str, Any]) -> str:
     if not base:
         base = "tattoo artist"
 
-    loc = artist.get("location") or {}
-    city = (loc.get("city") or "").strip()
-    country = (loc.get("country") or "").strip()
-
-    # Use site restriction to reduce non-profile noise in organic results.
-    # Location is optional: include only when it looks meaningful.
-    loc_part = ""
-    if city and city.lower() not in ("unknown",) and len(city) >= 4:
-        loc_part = f" {city}"
-    elif country and country.lower() not in ("unknown",) and len(country) >= 4:
-        loc_part = f" {country}"
-
     # Note: "instagram" term is redundant when using site:instagram.com.
-    return f"site:instagram.com {base}{loc_part} tattoo"
+    # Location (city/country) is intentionally omitted — it skews Serp toward local
+    # shops and away from the artist’s actual handle.
+    return f"site:instagram.com {base} tattoo"
 
 
 def _haystack_title_snippet(item: dict[str, Any]) -> str:
@@ -203,7 +300,7 @@ def _haystack_title_snippet(item: dict[str, Any]) -> str:
         v = item.get(f)
         if isinstance(v, str) and v.strip():
             parts.append(v)
-    return " ".join(parts).strip().lower()
+    return fold_text_for_match(" ".join(parts))
 
 
 def score_candidate(
@@ -246,9 +343,12 @@ def serpapi_search(api_key: str, query: str, num: int) -> list[dict[str, Any]]:
     return items
 
 
-def extract_instagram_candidate_from_item(item: dict[str, Any]) -> tuple[str, str] | None:
+def extract_instagram_candidate_from_item(item: dict[str, Any]) -> tuple[str, str, str] | None:
     """
-    Return (handle, canonical_url) or None.
+    Return (handle, canonical_url, source) or None.
+    source is:
+      - "profile_link" when extracted from profile URL in result link/formattedUrl
+      - "mention" when extracted from @handle in title/snippet
     Uses `link`/`formattedUrl` only if it's a *profile* URL; otherwise falls back to '@handle' in title/snippet.
     """
     for field in ("link", "formattedUrl"):
@@ -257,7 +357,7 @@ def extract_instagram_candidate_from_item(item: dict[str, Any]) -> tuple[str, st
             continue
         handle = extract_profile_handle_from_instagram_url(raw)
         if handle:
-            return handle, f"https://www.instagram.com/{handle}/"
+            return handle, f"https://www.instagram.com/{handle}/", "profile_link"
 
     for field in ("title", "snippet"):
         raw = item.get(field)
@@ -267,7 +367,7 @@ def extract_instagram_candidate_from_item(item: dict[str, Any]) -> tuple[str, st
         if m:
             handle = (m.group(1) or "").strip().lower()
             if handle and VALID_HANDLE_RE.match(handle):
-                return handle, f"https://www.instagram.com/{handle}/"
+                return handle, f"https://www.instagram.com/{handle}/", "mention"
     return None
 
 
@@ -279,7 +379,7 @@ def token_overlap_count(artist_tokens: list[str], item: dict[str, Any]) -> int:
         v = item.get(f)
         if isinstance(v, str):
             hay += " " + v
-    hay = hay.lower()
+    hay = fold_text_for_match(hay)
     if not hay.strip():
         return 0
     c = 0
@@ -287,6 +387,85 @@ def token_overlap_count(artist_tokens: list[str], item: dict[str, Any]) -> int:
         if t in hay:
             c += 1
     return c
+
+
+def person_name_token_overlap_in_serp(
+    artist_tokens: list[str],
+    title: str | None,
+    snippet: str | None,
+) -> int:
+    """
+    Count name tokens (len>=4, not DISPLAY_NAME_NOISE) present in folded Serp text.
+    Reduces false boosts from "Custom … Denver" style display names.
+    """
+    hay = fold_text_for_match(" ".join(x for x in (title or "", snippet or "") if x))
+    if not hay.strip():
+        return 0
+    n = 0
+    for t in artist_tokens:
+        if len(t) < 4 or t in DISPLAY_NAME_NOISE:
+            continue
+        if t in hay:
+            n += 1
+    return n
+
+
+def conservative_serp_quality_bypass(
+    chosen: dict[str, Any],
+    found_handle: str,
+    min_token_match: int,
+    artist_tokens: list[str] | None = None,
+) -> bool:
+    """
+    When the handle barely scores via slug/name heuristics, still allow conservative
+    replacement if the organic result looks like a real IG profile card and the
+    artist name tokens overlap the title/snippet, with @handle visible there.
+
+    If artist_tokens is passed, require at least one non-noise person-name token in the
+    Serp fields when overlap would otherwise come only from generic studio words.
+    """
+    pseudo_item = {"title": chosen.get("title"), "snippet": chosen.get("snippet")}
+    overlap_ok = (chosen.get("overlap_tokens") or 0) >= min_token_match
+    if (
+        artist_tokens
+        and overlap_ok
+        and not person_name_token_overlap_in_serp(
+            artist_tokens,
+            chosen.get("title") if isinstance(chosen.get("title"), str) else None,
+            chosen.get("snippet") if isinstance(chosen.get("snippet"), str) else None,
+        )
+    ):
+        overlap_ok = False
+    return (
+        chosen.get("source") == "profile_link"
+        and title_looks_like_profile(pseudo_item, found_handle)
+        and overlap_ok
+        and chosen.get("score_handle_mentioned") == 1
+    )
+
+
+def title_looks_like_profile(item: dict[str, Any], handle: str) -> bool:
+    """
+    Heuristic: organic result title resembles an Instagram profile card/snippet.
+    Examples:
+      - "Name (@handle) • Instagram photos and videos"
+      - "@handle • Instagram photos and videos"
+      - "handle"
+    """
+    title = item.get("title")
+    if not isinstance(title, str):
+        return False
+    t = fold_text_for_match(title.strip())
+    h = (handle or "").strip().lower()
+    if not t or not h:
+        return False
+    if "instagram photos and videos" in t:
+        return True
+    if f"(@{h})" in t or f"@{h}" in t:
+        return True
+    if t == h or t == f"@{h}":
+        return True
+    return False
 
 
 def is_high_risk_slug_fallback_artist(data: dict[str, Any]) -> bool:
@@ -333,12 +512,26 @@ def main() -> None:
     parser.add_argument("--sleep", type=float, default=0.3, help="Delay between queries (seconds).")
     parser.add_argument("--num", type=int, default=10, help="How many organic results to request.")
     parser.add_argument("--dry-run", action="store_true", help="Do not write changes.")
-    parser.add_argument("--only-different", action="store_true", help="Only act when handle differs.")
+    parser.add_argument(
+        "--only-different",
+        action="store_true",
+        help="Deprecated: no-op. Rows where Serp's handle matches stored are skipped automatically.",
+    )
     parser.add_argument("--min-token-match", type=int, default=1, help="Require at least N name tokens match title/snippet.")
     parser.add_argument(
         "--require-handle-mentioned",
         action="store_true",
         help="Require that the chosen IG handle is mentioned in title/snippet (higher precision).",
+    )
+    parser.add_argument(
+        "--profile-link-only",
+        action="store_true",
+        help="Only accept candidates extracted from Instagram profile links (skip @mention-only candidates).",
+    )
+    parser.add_argument(
+        "--require-profile-title",
+        action="store_true",
+        help="Require result title to look like an Instagram profile card/snippet for the chosen handle.",
     )
     parser.add_argument(
         "--only-high-risk-slug-fallback",
@@ -350,6 +543,18 @@ def main() -> None:
         type=str,
         default="packages/scraper/instagram_link_fix_review_serpapi.jsonl",
         help="JSONL file to append review entries.",
+    )
+    parser.add_argument(
+        "--conservative-replace-mode",
+        action="store_true",
+        help="Only replace when candidate identity match is strong; skip uncertain rows.",
+    )
+    parser.add_argument(
+        "--min-identity-score",
+        type=int,
+        default=2,
+        help="Minimum candidate identity score for --conservative-replace-mode (default: 2). "
+        "Below this, a stricter Serp quality bypass may still allow profile_link rows.",
     )
     args = parser.parse_args()
 
@@ -439,10 +644,15 @@ def main() -> None:
             cand = extract_instagram_candidate_from_item(item)
             if not cand:
                 continue
-            cand_handle, cand_url = cand
+            cand_handle, cand_url, cand_source = cand
+            if args.profile_link_only and cand_source != "profile_link":
+                continue
 
             overlap = token_overlap_count(artist_tokens, item)
             if overlap < args.min_token_match:
+                continue
+
+            if args.require_profile_title and not title_looks_like_profile(item, cand_handle):
                 continue
 
             s = score_candidate(artist_tokens, item, cand_handle=cand_handle)
@@ -451,6 +661,7 @@ def main() -> None:
                 best = {
                     "handle": cand_handle,
                     "url": cand_url,
+                    "source": cand_source,
                     "title": item.get("title"),
                     "snippet": item.get("snippet"),
                     "overlap_tokens": overlap,
@@ -466,11 +677,64 @@ def main() -> None:
             continue
 
         found_handle = chosen["handle"]
-        if args.only_different and stored_handle and found_handle == stored_handle:
+        candidate_identity = handle_identity_score(found_handle, artist_id, artist_tokens)
+        stored_identity = handle_identity_score(stored_handle or "", artist_id, artist_tokens)
+
+        # No-op: avoid conservative false-positives and duplicate review noise when
+        # Serp agrees with the URL we already store.
+        if stored_handle and found_handle == stored_handle:
             continue
 
-        if stored_handle == found_handle:
-            continue
+        pseudo_pick = {"title": chosen.get("title"), "snippet": chosen.get("snippet")}
+        person_ov = person_name_token_overlap_in_serp(
+            artist_tokens,
+            chosen.get("title") if isinstance(chosen.get("title"), str) else None,
+            chosen.get("snippet") if isinstance(chosen.get("snippet"), str) else None,
+        )
+        if (
+            title_looks_like_profile(pseudo_pick, found_handle)
+            and chosen.get("score_handle_mentioned") == 1
+            and person_ov >= 1
+        ):
+            # Brand handles often score 0 from slug/name alone though the Serp card names the person.
+            candidate_identity = max(candidate_identity, args.min_identity_score)
+
+        identity_bypass = False
+        if args.conservative_replace_mode:
+            skip_reason = None
+            identity_ok = candidate_identity >= args.min_identity_score
+            if not identity_ok and conservative_serp_quality_bypass(
+                chosen, found_handle, args.min_token_match, artist_tokens=artist_tokens
+            ):
+                identity_ok = True
+                identity_bypass = True
+
+            if not identity_ok:
+                skip_reason = "candidate_identity_too_low"
+            # Reject ties: replacing with an equally plausible handle is usually ambiguous.
+            elif stored_handle and stored_identity >= candidate_identity:
+                skip_reason = "stored_identity_not_weaker"
+            elif looks_like_aggregator_handle(found_handle):
+                skip_reason = "aggregator_like_candidate"
+
+            if skip_reason:
+                with open(review_path, "a", encoding="utf-8") as f:
+                    f.write(json.dumps({
+                        "artist_id": artist_id,
+                        "name": name,
+                        "query": query,
+                        "stored_instagram": stored_ig,
+                        "stored_handle": stored_handle,
+                        "stored_identity_score": stored_identity,
+                        "candidate_handle": found_handle,
+                        "candidate_identity_score": candidate_identity,
+                        "candidate_title": chosen.get("title"),
+                        "candidate_snippet": chosen.get("snippet"),
+                        "skipped_by_conservative_mode": True,
+                        "skip_reason": skip_reason,
+                        "dry_run": args.dry_run,
+                    }, ensure_ascii=False) + "\n")
+                continue
 
         if not args.dry_run:
             links = data.get("links") or {}
@@ -480,19 +744,25 @@ def main() -> None:
             changed += 1
 
         # Always log the decision (including dry-run)
+        log_entry: dict[str, Any] = {
+            "artist_id": artist_id,
+            "name": name,
+            "query": query,
+            "stored_instagram": stored_ig,
+            "stored_handle": stored_handle,
+            "stored_identity_score": stored_identity,
+            "chosen_handle": found_handle,
+            "chosen_identity_score": candidate_identity,
+            "chosen_url": chosen["url"],
+            "chosen_source": chosen.get("source"),
+            "chosen_title": chosen.get("title"),
+            "chosen_snippet": chosen.get("snippet"),
+            "dry_run": args.dry_run,
+        }
+        if identity_bypass:
+            log_entry["conservative_identity_serp_bypass"] = True
         with open(review_path, "a", encoding="utf-8") as f:
-            f.write(json.dumps({
-                "artist_id": artist_id,
-                "name": name,
-                "query": query,
-                "stored_instagram": stored_ig,
-                "stored_handle": stored_handle,
-                "chosen_handle": found_handle,
-                "chosen_url": chosen["url"],
-                "chosen_title": chosen.get("title"),
-                "chosen_snippet": chosen.get("snippet"),
-                "dry_run": args.dry_run,
-            }, ensure_ascii=False) + "\n")
+            f.write(json.dumps(log_entry, ensure_ascii=False) + "\n")
 
         time.sleep(args.sleep)
 
