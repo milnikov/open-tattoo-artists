@@ -96,7 +96,7 @@ def build_compact(artists: list[dict]) -> list[dict]:
         if sd:
             entry["source_domain"] = sd
         v = a.get("verified")
-        if v in ("artist", "studio"):
+        if v in ("artist", "studio", "need_to_check"):
             entry["verified"] = v
         if a.get("instagram_enriched"):
             entry["instagram_enriched"] = True

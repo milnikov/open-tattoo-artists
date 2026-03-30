@@ -1,0 +1,44 @@
+# Admin session log
+
+- Artist `altontattooco` (Alton Tattoo Company) marked as **Verified artist**.
+- Artist `agudelotattoo` (Andrés Agudelo) marked as **Verified artist**.
+- Artist `bodyculttattoopiercing` (Body Cult Tattoo & Piercing) marked as **Verified artist**.
+- Artist `bradcmfttattoos` (Brad Comfort) marked as **Verified artist**.
+- Artist `cadillac_custom_tattoo` (Cadillac Custom) marked as **Verified artist**.
+- Artist `blackdaggertattooatx` (James Miller) marked as **Verified artist**.
+- Artist `phughestattoo` (Paul Hughes) marked as **Verified artist**.
+- Artist `andresacosta` (Andrés Acosta) marked as **Verified artist**.
+- Artist `anilgupta` (Anil Gupta) marked **Need to check** (session note).
+- Artist `beckyeast` (Becky East) marked as **Verified artist**.
+- Artist `benkaye` (Ben Kaye) marked as **Verified artist**.
+- Artist `biggus` (Big Gus) marked as **Verified artist**.
+- Artist `camilarocha` (Camila Rocha) marked as **Verified artist**.
+- Artist `chrisjenko` (Chris Jenkins) marked as **Verified artist**.
+- Artist `chrissdettmer` (Chriss Dettmer) marked as **Verified artist**.
+- Artist `clutch` (Clutch) marked as **Verified artist**.
+- Artist `adamguyhays` (Custom Tattoos - Denver, CO) marked as **Verified artist**.
+- Artist `damiangorski` (Damian Górski) marked **Need to check** (session note).
+- Artist `dancordero` (Dan Cordero) marked as **Verified artist**.
+- Artist `danielehoangceyen` (Daniele Hoang · Ceyen) marked **Need to check** (session note).
+- Artist `davidlopezgutierrez` (David Lopez Gutierrez) marked **Need to check** (session note).
+- Artist `davidetc` (Davide TC) marked as **Verified artist**.
+- Artist `elricgordon` (elric gordon) marked as **Verified artist**.
+- Artist `enriquecastillo` (Enrique castillo) marked as **Verified artist**.
+- Artist `ericachunli` (Erica Chun Li) marked as **Verified artist**.
+- Artist `eunwoo` (Eunwoo · Uno) marked **Need to check** (session note).
+- Artist `emersonventura` (Ever Ventura) marked as **Verified artist**.
+- Artist `florianfacchin` (Florian Facchin · Minus) marked **Need to check** (session note).
+- Artist `javicastano` (Javi Castaño) marked as **Verified artist**.
+- Artist `javierln` (Javier López) marked **Need to check** (session note).
+- Artist `kalilmoktar` (Kalil Moktar) marked as **Verified artist**.
+- Artist `domenicoacampora` (Luigi Rosati) marked **Need to check** (session note).
+- Artist `dudasantana` (Madü Santana) marked as **Verified artist**.
+- Artist `missjuliet` (Miss Juliet) marked as **Verified artist**.
+- Artist `ottetimar` (Otte Timar) marked as **Verified artist**.
+- Artist `peterblackhandmadsen` (Peter Black Hand Madsen) marked as **Verified artist**.
+- Artist `philwilkinson` (Phillip Wilkinson - Manchester Tattoo Artist) marked as **Verified artist**.
+- Artist `pierluigicretella` (Pierluigi Cretella) marked as **Verified artist**.
+- Artist `romanmelnikov` (Roman Melnikov · Plebey Boy) marked as **Verified artist**.
+- Artist `sebastianperez` (Sebastian Perez) marked as **Verified artist**.
+- Artist `sonjabow` (Sonja Brown) marked **Need to check** (session note).
+- Artist `stefandinu` (Stefan Dinu) marked as **Verified artist**.
