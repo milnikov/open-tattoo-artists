@@ -3,19 +3,25 @@
 import { useState, useMemo, useEffect, useCallback, useRef } from "react";
 import { useSearchParams, usePathname, useRouter } from "next/navigation";
 import type { CompactArtist } from "@/lib/data";
+import { artistFollowerCount } from "@/lib/artist-follower-count";
 import { BrowseToolbar } from "./browse-toolbar";
 import { ArtistList } from "./artist-list";
 import { ListStatusBar } from "./list-status-bar";
 import { SiteFooter } from "./site-footer";
 
 const PAGE_SIZE = 20;
-type SortKey = "name-asc";
+type SortKey = "name-asc" | "followers-desc";
+
+function normalizeSortKey(value: string | null | undefined): SortKey {
+  return value === "followers-desc" ? "followers-desc" : "name-asc";
+}
 
 function parseFiltersFromSearchParams(searchParams: URLSearchParams) {
   const q = searchParams.get("q") ?? "";
   const styles = searchParams.get("styles");
   const countries = searchParams.get("countries");
   const cities = searchParams.get("cities");
+  const sort = normalizeSortKey(searchParams.get("sort"));
   const pageParam = searchParams.get("page");
   const page = pageParam
     ? Math.max(0, parseInt(pageParam, 10) - 1)
@@ -25,6 +31,7 @@ function parseFiltersFromSearchParams(searchParams: URLSearchParams) {
     selectedStyles: styles ? styles.split(",").map((s) => decodeURIComponent(s.trim())).filter(Boolean) : [],
     selectedCountries: countries ? countries.split(",").map((c) => decodeURIComponent(c.trim())).filter(Boolean) : [],
     selectedCities: cities ? cities.split(",").map((c) => decodeURIComponent(c.trim())).filter(Boolean) : [],
+    sort,
     page,
   };
 }
@@ -34,6 +41,7 @@ function buildSearchString(parsed: {
   selectedStyles: string[];
   selectedCountries: string[];
   selectedCities: string[];
+  sort: SortKey;
   page: number;
 }) {
   const params = new URLSearchParams();
@@ -41,6 +49,7 @@ function buildSearchString(parsed: {
   if (parsed.selectedStyles.length) params.set("styles", parsed.selectedStyles.map(encodeURIComponent).join(","));
   if (parsed.selectedCountries.length) params.set("countries", parsed.selectedCountries.map(encodeURIComponent).join(","));
   if (parsed.selectedCities.length) params.set("cities", parsed.selectedCities.map(encodeURIComponent).join(","));
+  if (parsed.sort !== "name-asc") params.set("sort", parsed.sort);
   if (parsed.page > 0) params.set("page", String(parsed.page + 1));
   const qs = params.toString();
   return qs ? `?${qs}` : "";
@@ -111,7 +120,9 @@ export function ArtistListPage({
   const [page, setPage] = useState(() =>
     parseFiltersFromSearchParams(searchParams).page
   );
-  const [sortKey, setSortKey] = useState<SortKey>("name-asc");
+  const [sortKey, setSortKey] = useState<SortKey>(() =>
+    parseFiltersFromSearchParams(searchParams).sort
+  );
 
   // Restore filters from URL when navigating back/forward (sync state from URL)
   const prevParamsRef = useRef(searchParams.toString());
@@ -124,6 +135,7 @@ export function ArtistListPage({
       setSelectedStyles(parsed.selectedStyles);
       setSelectedCountries(parsed.selectedCountries);
       setSelectedCities(parsed.selectedCities);
+      setSortKey(parsed.sort);
       setPage(parsed.page);
       const hasFacets =
         parsed.selectedStyles.length > 0 ||
@@ -141,6 +153,7 @@ export function ArtistListPage({
       selectedStyles?: string[];
       selectedCountries?: string[];
       selectedCities?: string[];
+      sort?: SortKey;
       page?: number;
     }) => {
       const parsed = parseFiltersFromSearchParams(searchParams);
@@ -149,6 +162,7 @@ export function ArtistListPage({
         selectedStyles: updates.selectedStyles ?? parsed.selectedStyles,
         selectedCountries: updates.selectedCountries ?? parsed.selectedCountries,
         selectedCities: updates.selectedCities ?? parsed.selectedCities,
+        sort: updates.sort ?? parsed.sort,
         page: updates.page ?? parsed.page,
       };
       const qs = buildSearchString(next);
@@ -269,6 +283,15 @@ export function ArtistListPage({
       return [...result].sort((a, b) =>
         a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
       );
+    }
+
+    if (sortKey === "followers-desc") {
+      return [...result].sort((a, b) => {
+        const db = artistFollowerCount(b);
+        const da = artistFollowerCount(a);
+        if (db !== da) return db - da;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+      });
     }
 
     return result;
@@ -444,8 +467,14 @@ export function ArtistListPage({
         selectedCities={selectedCities}
         onToggleCity={handleToggleCity}
         onClearCities={handleClearCities}
-        sortLabel="Name (A–Z)"
-        onSortChange={setSortKey}
+        sortLabel={
+          sortKey === "name-asc" ? "Name (A–Z)" : "Most followed"
+        }
+        onSortChange={(key) => {
+          setSortKey(key);
+          setPage(0);
+          updateUrl({ sort: key, page: 0 });
+        }}
       />
 
       <div className="flex-1 flex flex-col min-w-0 overflow-x-hidden">

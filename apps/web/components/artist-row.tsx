@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import type { CompactArtist } from "@/lib/data";
+import { artistFollowerCount } from "@/lib/artist-follower-count";
 import { imageUrl } from "@/lib/images";
 
 interface ArtistRowProps {
@@ -46,6 +47,7 @@ export function ArtistRow({
   isFirst,
 }: ArtistRowProps) {
   const descriptionText = getDescriptionExcerpt(artist);
+  const followerCount = artistFollowerCount(artist);
   const hasCity = !!artist.location.city;
   const hasCountry = !!artist.location.country;
   const thumbs: string[] =
@@ -127,6 +129,12 @@ export function ArtistRow({
 
           <div className="flex flex-col gap-1 text-xs min-w-0">
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
+            {followerCount > 0 ? (
+              <span className="text-foreground">
+                Followed by {followerCount.toLocaleString()}{" "}
+                {followerCount === 1 ? "person" : "people"}
+              </span>
+            ) : null}
             {artist.updated_at && (
               <span className="text-xs text-muted-foreground">
                 {artist.updated_at}

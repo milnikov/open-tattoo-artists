@@ -2,9 +2,11 @@
 
 import { useMemo, useState, useEffect } from "react";
 import type { CompactArtist } from "@/lib/data";
+import { artistFollowerCount } from "@/lib/artist-follower-count";
 import { imageUrl } from "@/lib/images";
 
 type AdminTab = "artists" | "tattoos";
+type ArtistSortKey = "name-asc" | "followers-desc";
 
 type AdminArtistAction = "not-artist" | "studio";
 
@@ -37,6 +39,7 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
   const [cityFilter, setCityFilter] = useState("");
   const [sourceFilter, setSourceFilter] = useState("");
   const [instagramEnrichedOnly, setInstagramEnrichedOnly] = useState(false);
+  const [artistSortKey, setArtistSortKey] = useState<ArtistSortKey>("name-asc");
 
   const [artistPage, setArtistPage] = useState(0);
   const [tattooPage, setTattooPage] = useState(0);
@@ -74,7 +77,7 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
   }, [artists, countryFilter]);
 
   const filteredArtists = useMemo(() => {
-    return artists.filter((a) => {
+    const filtered = artists.filter((a) => {
       if (a.verified) return false;
       if (hiddenArtistIds.has(a.id)) return false;
       if (styleFilter && !a.styles.includes(styleFilter)) return false;
@@ -85,6 +88,19 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
       if (instagramEnrichedOnly ? !isEnriched : isEnriched) return false;
       return true;
     });
+
+    if (artistSortKey === "followers-desc") {
+      return filtered.sort((a, b) => {
+        const db = artistFollowerCount(b);
+        const da = artistFollowerCount(a);
+        if (db !== da) return db - da;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+      });
+    }
+
+    return filtered.sort((a, b) =>
+      a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
+    );
   }, [
     artists,
     hiddenArtistIds,
@@ -93,6 +109,7 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
     cityFilter,
     sourceFilter,
     instagramEnrichedOnly,
+    artistSortKey,
   ]);
 
   const artistTotalPages = Math.max(
@@ -320,6 +337,22 @@ export function AdminPageClient({ artists, tattoos }: AdminPageClientProps) {
                   {instagramEnrichedOnly ? "On" : "Off"}
                 </button>
               </label>
+              {tab === "artists" && (
+                <label className="flex items-center gap-2 text-xs">
+                  <span className="text-muted-foreground">Sort</span>
+                  <select
+                    value={artistSortKey}
+                    onChange={(e) => {
+                      setArtistSortKey(e.target.value as ArtistSortKey);
+                      setArtistPage(0);
+                    }}
+                    className="rounded border border-border bg-background px-2 py-1 text-xs"
+                  >
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="followers-desc">Most followed</option>
+                  </select>
+                </label>
+              )}
               <span className="text-xs text-muted-foreground">
                 {tab === "artists"
                   ? `${filteredArtists.length} artists to check`
