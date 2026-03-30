@@ -232,7 +232,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-28",
+  "updated_at": "2026-03-29",
   "bio": "Lars Oeschey is a seasoned tattoo artist specializing in the intricate and precise style of dotwork, with a career in tattooing that has flourished since 1991. Operating out of Ingolstadt, Germany, Lars is known not only for his exceptional skill level but also for maintaining an impeccably clean and hygienic studio, ensuring the utmost safety and comfort for his clients. His dedication to cleanliness within his practice is matched only by the beautiful, enduring art he creates on skin.\nPrice: $\nCurrent location: Ingolstadt, Bavaria, Germany",
-  "tattooing_since": "1991"
+  "tattooing_since": "1991",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

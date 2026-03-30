@@ -617,7 +617,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-28",
+  "updated_at": "2026-03-29",
   "bio": "Paisley Popart is an incredibly skilled tattoo artist based in Vancouver, Canada. Their signature styles include illustrative and newschool tattoos, highlighting a strong affinity for pop culture and nostalgia. Having been self-taught since 2015, Paisley is unwavering in their commitment to producing high-quality, personalized tattoos for each client.\nPrice: $$\nCurrent location: Vancouver, British Columbia, Canada",
-  "tattooing_since": "2015"
+  "tattooing_since": "2015",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }
