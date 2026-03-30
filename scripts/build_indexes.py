@@ -11,10 +11,12 @@ Outputs:
 Note: countries.json is a full world list (see data/indexes/README.md); not overwritten by this script.
 """
 
+from __future__ import annotations
+
 import json
 import re
 import unicodedata
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -126,7 +128,7 @@ def build_meta(artists: list[dict]) -> dict:
     return {
         "artist_count": len(artists),
         "schema_version": 2,
-        "built_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "built_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "styles_count": styles_count,
     }
 
