@@ -616,7 +616,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-28",
+  "updated_at": "2026-03-29",
   "bio": "'Outer Limits Tattoo Shop', nestled in the heart of Long Beach, embraces a lively newschool style in their artwork. Steeped in history since 1927, it's not just a tattoo studio but also an intriguing art gallery and museum. Welcoming all with open arms from 12pm-8pm daily, it's a creative hive where artistry meets legacy in America's oldest tattoo shop.\nPrice: $$\nCurrent location: Long Beach, California, United States",
-  "tattooing_since": "1927"
+  "tattooing_since": "1927",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

@@ -618,7 +618,14 @@
       }
     }
   ],
-  "updated_at": "2026-03-28",
+  "updated_at": "2026-03-29",
   "bio": "Oldeline Tattoo is a distinguished tattoo studio in Hagerstown, United States, renowned for its mastery in black & gray, illustrative, and traditional styles of tattooing since 2011. They promise high-quality body art in a welcoming ambiance that leads strangers into long-standing friendships.",
-  "tattooing_since": "2011"
+  "tattooing_since": "2011",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }
