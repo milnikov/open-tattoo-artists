@@ -3,15 +3,17 @@ import { ArrowUpRight } from "lucide-react";
 
 export function SiteFooter() {
   return (
-    <footer className="border-t border-border px-4 py-8 md:px-8 md:py-10">
-      <div className="flex flex-col gap-2 text-xs text-black w-full max-w-md md:max-w-none">
-        <div className="max-w-[400px]">
-          <p>
-            thetattoo.world is an open database of tattoo artists{"\u00A0"}—
-            built for discovery, research, and community contribution.
-          </p>
+    <footer className="border-t border-border px-4 py-5 md:px-8">
+      <div className="flex flex-col gap-6 text-xs text-black w-full">
+        <div className="max-w-md md:max-w-none">
+          <div className="max-w-[400px]">
+            <p>
+              thetattoo.world is an open database of tattoo artists{"\u00A0"}—
+              built for discovery, research, and community contribution.
+            </p>
+          </div>
         </div>
-        <div className="flex flex-row flex-wrap justify-between items-baseline gap-x-4 gap-y-2">
+        <div className="flex h-[80px] w-full flex-row flex-wrap justify-between items-baseline gap-x-4 gap-y-2">
           <p>
             by{" "}
             <a
