@@ -242,9 +242,9 @@ export function BrowseToolbar({
       </div>
 
       {activeFilter === "Styles" && isFilterPanelExpanded && (
-        <div className="border-b border-border px-4 md:px-8 py-0 my-0">
-          <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
-            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+        <div className="border-b border-border px-4 md:px-8 py-0 my-0 max-md:relative max-md:flex max-md:flex-col max-md:h-[50dvh]">
+          <div className="flex min-h-0 flex-col max-md:flex-1 max-md:min-h-0 md:contents">
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh] max-md:pb-12">
               <div className="flex flex-wrap gap-1 content-start pt-[8px] pb-[8px]">
             <button
               type="button"
@@ -262,7 +262,7 @@ export function BrowseToolbar({
                 key={style}
                 type="button"
                 onClick={() => onToggleStyle(style)}
-                className={`text-xs px-2 py-1 rounded transition-colors ${
+                className={`text-xs italic px-2 py-1 rounded transition-colors ${
                   selectedStyles.includes(style)
                     ? "bg-foreground text-background"
                     : "text-muted-foreground hover:text-foreground"
@@ -273,11 +273,11 @@ export function BrowseToolbar({
             ))}
               </div>
             </div>
-            <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2">
+            <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2 max-md:pointer-events-none max-md:absolute max-md:bottom-0 max-md:left-4 max-md:right-4 max-md:pb-[8px] max-md:pt-10 max-md:bg-gradient-to-t max-md:from-background max-md:to-transparent">
             <button
               type="button"
               onClick={onCollapseFilterPanel}
-              className="text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
+              className="max-md:pointer-events-auto text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
             >
               Save
             </button>
@@ -287,9 +287,9 @@ export function BrowseToolbar({
       )}
 
       {activeFilter === "Countries" && isFilterPanelExpanded && (
-        <div className="border-b border-border px-4 md:px-8 py-0 my-0">
-          <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
-            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+        <div className="border-b border-border px-4 md:px-8 py-0 my-0 max-md:relative max-md:flex max-md:flex-col max-md:h-[50dvh]">
+          <div className="flex min-h-0 flex-col max-md:flex-1 max-md:min-h-0 md:contents">
+            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh] max-md:pb-12">
               <div className="flex flex-wrap gap-1 content-start pt-[8px] pb-[8px]">
             <button
               type="button"
@@ -318,11 +318,11 @@ export function BrowseToolbar({
             ))}
               </div>
             </div>
-            <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2">
+            <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2 max-md:pointer-events-none max-md:absolute max-md:bottom-0 max-md:left-4 max-md:right-4 max-md:pb-[8px] max-md:pt-10 max-md:bg-gradient-to-t max-md:from-background max-md:to-transparent">
             <button
               type="button"
               onClick={onCollapseFilterPanel}
-              className="text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
+              className="max-md:pointer-events-auto text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
             >
               Save
             </button>
@@ -335,9 +335,9 @@ export function BrowseToolbar({
         isFilterPanelExpanded &&
         selectedCountries.length > 0 &&
         citiesFilterEnabled && (
-          <div className="border-b border-border px-4 md:px-8 py-0 my-0">
-            <div className="flex min-h-0 flex-col max-md:h-[50dvh] md:contents">
-              <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh]">
+          <div className="border-b border-border px-4 md:px-8 py-0 my-0 max-md:relative max-md:flex max-md:flex-col max-md:h-[50dvh]">
+            <div className="flex min-h-0 flex-col max-md:flex-1 max-md:min-h-0 md:contents">
+              <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain md:max-h-[60vh] max-md:pb-12">
                 <div className="flex flex-wrap gap-x-2 gap-y-1.5 items-baseline content-start pt-[8px] pb-[8px]">
               <button
                 type="button"
@@ -393,11 +393,11 @@ export function BrowseToolbar({
               )}
                 </div>
               </div>
-              <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2">
+              <div className="flex shrink-0 justify-end pt-0 pb-[8px] md:mt-2 max-md:pointer-events-none max-md:absolute max-md:bottom-0 max-md:left-4 max-md:right-4 max-md:pb-[8px] max-md:pt-10 max-md:bg-gradient-to-t max-md:from-background max-md:to-transparent">
               <button
                 type="button"
                 onClick={onCollapseFilterPanel}
-                className="text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
+                className="max-md:pointer-events-auto text-xs px-3 py-1 rounded bg-foreground text-background hover:opacity-90 transition-opacity"
               >
                 Save
               </button>
