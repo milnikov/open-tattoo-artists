@@ -16,6 +16,27 @@ interface ArtistRowProps {
 
 const BIO_EXCERPT_LENGTH = 120;
 
+/** Calendar-day difference from `updatedAt` (YYYY-MM-DD) to local today; non-negative. */
+function daysSinceUpdated(updatedAt: string): number {
+  const m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(updatedAt.trim());
+  if (!m) return 0;
+  const y = Number(m[1]);
+  const mo = Number(m[2]);
+  const d = Number(m[3]);
+  const then = new Date(y, mo - 1, d);
+  const today = new Date();
+  const startToday = new Date(today.getFullYear(), today.getMonth(), today.getDate());
+  const diffMs = startToday.getTime() - then.getTime();
+  return Math.max(0, Math.round(diffMs / 86_400_000));
+}
+
+function formatUpdatedLabel(updatedAt: string): string {
+  const days = daysSinceUpdated(updatedAt);
+  if (days <= 0) return "Updated today";
+  if (days === 1) return "Updated 1 day ago";
+  return `Updated ${days} days ago`;
+}
+
 function getDescriptionExcerpt(artist: CompactArtist): string {
   const raw = artist.bio?.trim();
   if (raw && raw.length > 0) {
@@ -56,7 +77,10 @@ export function ArtistRow({
       : artist.thumb
         ? [artist.thumb]
         : [];
-  const thumbsToShow = thumbs.slice(0, 4);
+  /** Up to 8 in the horizontal strip; items 5–8 are `md:hidden` so desktop still shows 4. */
+  const thumbsForRow = thumbs.slice(0, 8);
+  const thumbsCapMobile = thumbsForRow.length;
+  const thumbsCapDesktop = Math.min(4, thumbsCapMobile);
 
   return (
     <div className={isFirst ? "" : "border-t border-border"}>
@@ -69,7 +93,7 @@ export function ArtistRow({
             {String(index + 1).padStart(3, "0")}
           </span>
 
-          <div className="flex flex-col gap-1 min-w-0">
+          <div className="flex flex-col gap-0.5 min-w-0">
             <div className="flex items-center justify-between gap-2">
               <h3 className="text-sm font-bold text-foreground leading-tight min-w-0">
                 {artist.name}
@@ -127,22 +151,24 @@ export function ArtistRow({
             </span>
           </div>
 
-          <div className="flex flex-col gap-1 text-xs min-w-0">
+          <div className="flex flex-col text-xs min-w-0">
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
             {followerCount > 0 ? (
-              <span className="text-foreground">
+              <span className="mt-2 text-black">
                 Followed by {followerCount.toLocaleString()}{" "}
                 {followerCount === 1 ? "person" : "people"}
               </span>
             ) : null}
             {artist.updated_at && (
-              <span className="text-xs text-muted-foreground">
-                {artist.updated_at}
+              <span
+                className={`text-black ${followerCount > 0 ? "mt-1" : "mt-2"}`}
+              >
+                {formatUpdatedLabel(artist.updated_at)}
               </span>
             )}
           </div>
 
-          <div className="flex flex-col gap-y-0.5 text-xs">
+          <div className="flex flex-col gap-y-0.5 pt-0.5 text-xs">
             {artist.styles.map((style) => (
               <span
                 key={style}
@@ -167,12 +193,12 @@ export function ArtistRow({
             ))}
           </div>
 
-          <div className="flex flex-col gap-2 min-w-0">
+          <div className="flex flex-col gap-1 min-w-0">
             <div className="flex gap-1.5 overflow-x-auto overflow-y-hidden pb-1 -mx-4 px-4 md:mx-0 md:px-0 md:overflow-visible">
-              {thumbsToShow.map((src, i) => (
+              {thumbsForRow.map((src, i) => (
                 <div
                   key={i}
-                  className="w-[108px] h-[144px] md:w-[120px] md:h-[162px] bg-muted overflow-hidden shrink-0"
+                  className={`w-[216px] h-[288px] md:w-[120px] md:h-[162px] bg-muted overflow-hidden shrink-0${i >= 4 ? " md:hidden" : ""}`}
                 >
                   <img
                     src={imageUrl(src)}
@@ -183,9 +209,14 @@ export function ArtistRow({
                 </div>
               ))}
             </div>
-            {artist.tattoo_count > thumbsToShow.length && (
-              <span className="text-xs text-muted-foreground text-right">
-                {artist.tattoo_count - thumbsToShow.length} more in gallery
+            {artist.tattoo_count > thumbsCapMobile && (
+              <span className="text-xs text-muted-foreground text-right md:hidden">
+                & {artist.tattoo_count - thumbsCapMobile} more
+              </span>
+            )}
+            {artist.tattoo_count > thumbsCapDesktop && (
+              <span className="text-xs text-muted-foreground text-right hidden md:block">
+                & {artist.tattoo_count - thumbsCapDesktop} more
               </span>
             )}
           </div>
