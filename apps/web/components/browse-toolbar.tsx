@@ -110,7 +110,7 @@ export function BrowseToolbar({
           <Search className="absolute left-0 h-3.5 w-3.5 text-muted-foreground" />
           <input
             type="text"
-            placeholder="Search artists, cities..."
+            placeholder="Search for artists..."
             value={search}
             onChange={(e) => onSearchChange(e.target.value)}
             className="w-full bg-transparent py-0 pl-5 pr-5 text-xs text-foreground placeholder:text-muted-foreground focus:outline-none rounded"

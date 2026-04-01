@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="flex flex-col gap-2 text-xs text-muted-foreground w-full max-w-md md:max-w-none">
         <div className="max-w-[400px]">
           <p>
-            thetattoo.world is a free, open database of tattoo artists —
+            thetattoo.world is an open database of tattoo artists{"\u00A0"}—
             built for discovery, research, and community contribution.
           </p>
         </div>
