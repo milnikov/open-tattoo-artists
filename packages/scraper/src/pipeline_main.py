@@ -76,8 +76,20 @@ def _run_parallel(config: dict, urls: list, limit: int | None, args) -> None:
         print("   All artists processed. Exiting (run_daily_parallel.sh will stop).")
         sys.exit(EXIT_ALL_DONE)
 
-    total = limit if limit is not None else (len(urls) - start)
-    total = min(total, len(urls) - start)
+    if limit is None:
+        total = len(urls) - start
+    else:
+        # Make limit count artists that still need parsing (not already completed),
+        # not just raw URL slots.
+        pending = 0
+        end = start
+        while end < len(urls) and pending < limit:
+            artist_id = artist_id_from_url(urls[end])
+            if artist_id and not is_completed(artist_id, state):
+                pending += 1
+            end += 1
+        total = end - start
+
     if total <= 0:
         print("   Nothing to process.")
         return
@@ -221,9 +233,7 @@ def main():
     if start >= len(urls):
         print("   All artists processed. Exiting (run_daily_parallel.sh will stop).")
         sys.exit(EXIT_ALL_DONE)
-    end = start + limit if limit is not None else len(urls)
-    end = min(end, len(urls))
-    urls_to_process = urls[start:end]
+    urls_to_process = urls[start:]
 
     r2_config = config.get("r2") if not args.no_r2 else None
     if not r2_config and not args.no_r2:
@@ -246,12 +256,14 @@ def main():
     delay_every_n = config.get("artist_delay_every_n", 10)
     delay_extra = config.get("artist_delay_extra_seconds", 15)
 
-    print(f"📂 Loaded {len(urls)} artists, processing {start}..{end} ({len(urls_to_process)} URLs)")
+    target_info = f", target parsed: {limit}" if limit is not None else ""
+    print(f"📂 Loaded {len(urls)} artists, scanning from index {start} ({len(urls_to_process)} URLs){target_info}")
     print(f"   Rate limit: {delay_min}-{delay_max}s between artists, +{delay_extra}s every {delay_every_n}")
     if args.no_r2:
         print("⚠️ Running without R2 upload (dry run)")
 
     success_count = 0
+    parsed_count = 0
     committed = 0
 
     for i, url in enumerate(urls_to_process):
@@ -264,6 +276,13 @@ def main():
             print(f"  ⏭️ Already completed (precheck): {precheck_id}")
             continue
 
+        # --limit now means number of artists we actually attempt to parse
+        # (excluding precheck skips).
+        if limit is not None and parsed_count >= limit:
+            print(f"\n🎯 Reached target parsed artists: {parsed_count}")
+            break
+
+        parsed_count += 1
         try:
             parsed = parse_artist_page(url, headless=True, max_images=max_images)
         except Exception as e:
@@ -360,7 +379,7 @@ def main():
         if git_commit_and_push(message=f"chore: add {remainder} scraped artists"):
             committed += remainder
 
-    print(f"\n📊 Done. Success: {success_count}")
+    print(f"\n📊 Done. Parsed: {parsed_count} | Success: {success_count}")
     if committed:
         print(f"   Committed: {committed} artists")
 
