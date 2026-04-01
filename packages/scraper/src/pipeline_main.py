@@ -15,6 +15,7 @@ import subprocess
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlparse
 
 try:
     import fcntl
@@ -32,6 +33,14 @@ from state import load_state, save_state, is_completed, mark_completed, merge_wo
 
 # Exit code when all artists in the list have been processed (for run_daily_parallel.sh to stop).
 EXIT_ALL_DONE = 2
+
+
+def artist_id_from_url(url: str) -> str:
+    """Best-effort extraction of artist id/handle from source URL."""
+    path = urlparse(url).path.rstrip("/")
+    if "/artists/" in path:
+        return path.split("/artists/")[-1]
+    return path.split("/")[-1]
 
 
 def load_config():
@@ -248,6 +257,12 @@ def main():
     for i, url in enumerate(urls_to_process):
         idx = start + i
         print(f"\n[{idx+1}/{len(urls)}] {url}")
+
+        # Fast skip by URL slug to avoid opening/parsing already completed artists.
+        precheck_id = artist_id_from_url(url)
+        if precheck_id and is_completed(precheck_id, state):
+            print(f"  ⏭️ Already completed (precheck): {precheck_id}")
+            continue
 
         try:
             parsed = parse_artist_page(url, headless=True, max_images=max_images)
