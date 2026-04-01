@@ -1,0 +1,894 @@
+{
+  "source_url": "https://www.worldtattoogallery.com/artists/all",
+  "extracted_note": "535 artist cards parsed from HTML (slug + display name) on 2026-04-01 fetch; snapshot saved as docs/worldtattoogallery_artists_page.json",
+  "database_note": "Compared to data/indexes/artists.compact.json. Match order: instagram-style id == slug minus hyphens (and with underscores), exact folded name, substring (len>6), then all significant name tokens in DB name.",
+  "caveat": "Token/substring matches can rarely be wrong-person; id_from_slug is strongest.",
+  "counts": {
+    "world_tattoo_gallery_artists": 535,
+    "matched": 343,
+    "missing": 192,
+    "flagged_ambiguous_match": 17
+  },
+  "match_type_breakdown": {
+    "tokens_ambiguous": 15,
+    "id_from_slug": 231,
+    "name_tokens": 26,
+    "name_exact_fold": 44,
+    "name_substring": 25,
+    "name_ambiguous": 2
+  },
+  "missing": [
+    {
+      "slug": "adamik-erik",
+      "name": "Adamik Erik"
+    },
+    {
+      "slug": "adams-eden-tattoos",
+      "name": "Adams Eden"
+    },
+    {
+      "slug": "adrianna-marta-grzelak",
+      "name": "Adrianna Marta Grzelak"
+    },
+    {
+      "slug": "ael-lim",
+      "name": "Ael Lim"
+    },
+    {
+      "slug": "aj-sacred-rose",
+      "name": "Aj Sacred Rose"
+    },
+    {
+      "slug": "alexander-kolbasov",
+      "name": "Alexander Kolbasov"
+    },
+    {
+      "slug": "alexander-romashev",
+      "name": "Alexander Romashev"
+    },
+    {
+      "slug": "alexander-yanitskiy",
+      "name": "Alexander Yanitskiy"
+    },
+    {
+      "slug": "sasha-o-kharin",
+      "name": "Alexandr O Kharin"
+    },
+    {
+      "slug": "alexey-moroz",
+      "name": "Alexey Moroz"
+    },
+    {
+      "slug": "alexis-vargas",
+      "name": "Alexis Vargas"
+    },
+    {
+      "slug": "anastasia-agapova",
+      "name": "Anastasia Agapova"
+    },
+    {
+      "slug": "andre-zechmann",
+      "name": "Andre Zechmann"
+    },
+    {
+      "slug": "andrew-swarbrick",
+      "name": "Andrew Swarbrick"
+    },
+    {
+      "slug": "andrey-vinokurov",
+      "name": "Andrey Vinokurov"
+    },
+    {
+      "slug": "andrzej-niuniek-misztal",
+      "name": "Andrzej Misztal"
+    },
+    {
+      "slug": "aneta-juchimowicz",
+      "name": "Aneta Juchimowicz"
+    },
+    {
+      "slug": "anjelika-kartasheva",
+      "name": "Anjelika Kartasheva"
+    },
+    {
+      "slug": "aron-szabo",
+      "name": "Aron Szabo"
+    },
+    {
+      "slug": "artem-koro",
+      "name": "Artem Koro"
+    },
+    {
+      "slug": "artem-pelipenko",
+      "name": "Artem Pelipenko"
+    },
+    {
+      "slug": "arthur-coury",
+      "name": "Arthur Coury"
+    },
+    {
+      "slug": "audie-fulfer",
+      "name": "Audie Fulfer Jr"
+    },
+    {
+      "slug": "balazs-revai",
+      "name": "Balazs Revai"
+    },
+    {
+      "slug": "barthez-tattoo",
+      "name": "Barthez Tattoo"
+    },
+    {
+      "slug": "ben-delongchamp",
+      "name": "Ben Delongchamp"
+    },
+    {
+      "slug": "ben-hamill",
+      "name": "Ben Hamill"
+    },
+    {
+      "slug": "benjamin-blvckout",
+      "name": "Benjamin Blvckout"
+    },
+    {
+      "slug": "bianka-tattoo",
+      "name": "Bianka Einger Tattoo"
+    },
+    {
+      "slug": "bojan-tattoocream-curcic",
+      "name": "Bojan Tattoocream Curcic"
+    },
+    {
+      "slug": "bojan-vuk",
+      "name": "Bojan Vuk"
+    },
+    {
+      "slug": "brandon-mcgillvery",
+      "name": "Brandon McGillvery"
+    },
+    {
+      "slug": "brian-della-constanza",
+      "name": "Brian Constanza"
+    },
+    {
+      "slug": "bridget-tunstall",
+      "name": "Bridget Tunstall"
+    },
+    {
+      "slug": "caio-miguel",
+      "name": "Caio Miguel"
+    },
+    {
+      "slug": "cana-arik-tattoos",
+      "name": "Cana Arik"
+    },
+    {
+      "slug": "casimir-nyblom",
+      "name": "Casimir Nyblom"
+    },
+    {
+      "slug": "celiozzi-motorink",
+      "name": "Celiozzi Motorink"
+    },
+    {
+      "slug": "chiara-manzini",
+      "name": "Chiara Manzini"
+    },
+    {
+      "slug": "chris-showstoppr",
+      "name": "Chris Showstoppr"
+    },
+    {
+      "slug": "christopher-allen-pchelka",
+      "name": "Christopher Pchelka"
+    },
+    {
+      "slug": "coen-mitchell",
+      "name": "Coen Mitchell"
+    },
+    {
+      "slug": "damien-wickham",
+      "name": "Damien Wickham"
+    },
+    {
+      "slug": "dani-ginzburg",
+      "name": "Dani Ginzburg"
+    },
+    {
+      "slug": "daria-mlecna",
+      "name": "Daria Mlecna"
+    },
+    {
+      "slug": "dave-brace",
+      "name": "Dave Brassoo Brace"
+    },
+    {
+      "slug": "david-klvac",
+      "name": "David Klvac"
+    },
+    {
+      "slug": "dmitriy-samohin",
+      "name": "Dmitriy Samohin"
+    },
+    {
+      "slug": "dominik-hanus",
+      "name": "Dominik Hanus"
+    },
+    {
+      "slug": "douglas-henriques",
+      "name": "Douglas Henriques"
+    },
+    {
+      "slug": "dzikson-wildstyle",
+      "name": "Dzikson Wildstyle"
+    },
+    {
+      "slug": "edward-best",
+      "name": "Edward Best"
+    },
+    {
+      "slug": "malena-tattoo",
+      "name": "Elena Magina"
+    },
+    {
+      "slug": "ellen-westholm",
+      "name": "Ellen Westholm"
+    },
+    {
+      "slug": "elvin-yong-tattoo",
+      "name": "Elvin Yong Tattoo"
+    },
+    {
+      "slug": "endre-szabo-tattooend",
+      "name": "Endre Szabo TattooEnd"
+    },
+    {
+      "slug": "tattoo-zhuzha",
+      "name": "Evgeny Oleynik"
+    },
+    {
+      "slug": "pavlikov-tattoo",
+      "name": "Evgeny Pavlikov"
+    },
+    {
+      "slug": "george-mavridis",
+      "name": "George Mavridis"
+    },
+    {
+      "slug": "geza-ottlecz",
+      "name": "Geza Ottlecz"
+    },
+    {
+      "slug": "todryk-tattoo",
+      "name": "Giena Todryk"
+    },
+    {
+      "slug": "guil-zekri",
+      "name": "Guil Zekri"
+    },
+    {
+      "slug": "guillaume-martins",
+      "name": "Guillaume Martins"
+    },
+    {
+      "slug": "gustavo-takazone",
+      "name": "Gustavo Takazone"
+    },
+    {
+      "slug": "henry-anglas-padilla",
+      "name": "Henry Padilla"
+    },
+    {
+      "slug": "hexa-salmela",
+      "name": "Hexa Salmela"
+    },
+    {
+      "slug": "honart",
+      "name": "Honart"
+    },
+    {
+      "slug": "ingi-bleksmidjan",
+      "name": "Ingi Bleksmidjan"
+    },
+    {
+      "slug": "inky-joe-hill",
+      "name": "Inky Joe Hill"
+    },
+    {
+      "slug": "jackart-tattoo",
+      "name": "JackArt Tattoo"
+    },
+    {
+      "slug": "jackson-ayala",
+      "name": "Jackson Ayala"
+    },
+    {
+      "slug": "james-glenn",
+      "name": "James Glenn"
+    },
+    {
+      "slug": "james-tattooart",
+      "name": "James Tattooart"
+    },
+    {
+      "slug": "jani-tattoos",
+      "name": "Janitattoos Janos"
+    },
+    {
+      "slug": "jason-stewart",
+      "name": "Jason Stewart"
+    },
+    {
+      "slug": "jimmy-lajnen",
+      "name": "Jimmy Lajnen"
+    },
+    {
+      "slug": "john-pohl",
+      "name": "John Pohl"
+    },
+    {
+      "slug": "josh-woods",
+      "name": "Josh Woods"
+    },
+    {
+      "slug": "kafka-tattoo",
+      "name": "Kafka Tattoo"
+    },
+    {
+      "slug": "karina-cubatattoo",
+      "name": "Karina Cubatattoo"
+    },
+    {
+      "slug": "kate-holt",
+      "name": "Kate Holt"
+    },
+    {
+      "slug": "kateryna-zelenska",
+      "name": "Kateryna Zelenska"
+    },
+    {
+      "slug": "kati-berinkey",
+      "name": "Kati Berinkey"
+    },
+    {
+      "slug": "kenlar-tattoo",
+      "name": "Kenlar Tattoo"
+    },
+    {
+      "slug": "kenni-poke",
+      "name": "Kenni Poke"
+    },
+    {
+      "slug": "kevin-saxler",
+      "name": "Kevin Saxler"
+    },
+    {
+      "slug": "klaim-street-tattoo",
+      "name": "Klaim Street Tattoo"
+    },
+    {
+      "slug": "klaras-tattoo",
+      "name": "Klara Stacova"
+    },
+    {
+      "slug": "klebyz-soares",
+      "name": "Klebyz Soares"
+    },
+    {
+      "slug": "kowolik-grzegorz",
+      "name": "Kowolik Grzegorz"
+    },
+    {
+      "slug": "kris-busching",
+      "name": "Kris Busching"
+    },
+    {
+      "slug": "ksenia-vaykhel",
+      "name": "Ksenia Vaykhel"
+    },
+    {
+      "slug": "kyle-cotterman",
+      "name": "Kyle Cotterman"
+    },
+    {
+      "slug": "laila-yanez",
+      "name": "Laila Yanez"
+    },
+    {
+      "slug": "lasse-sjoroos",
+      "name": "Lasse Sjoroos"
+    },
+    {
+      "slug": "lee-piercy",
+      "name": "Lee Piercy"
+    },
+    {
+      "slug": "lehel-nyeste",
+      "name": "Lehel Nyeste"
+    },
+    {
+      "slug": "leonidas-lonis-tattoo",
+      "name": "Leonidas Tattoo"
+    },
+    {
+      "slug": "line-marielle-kloosterman",
+      "name": "Line Kloosterman"
+    },
+    {
+      "slug": "live2-tattoo",
+      "name": "Live2 Tattoo"
+    },
+    {
+      "slug": "lloyd-nakao",
+      "name": "Lloyd Nakao"
+    },
+    {
+      "slug": "lollo-tattoo",
+      "name": "Lollo Tattoo"
+    },
+    {
+      "slug": "lucian-toro",
+      "name": "Lucian Toro"
+    },
+    {
+      "slug": "lukas-musil-musa",
+      "name": "Lukas Musil MUSA"
+    },
+    {
+      "slug": "lukash-tattoo",
+      "name": "Lukash Tattoo"
+    },
+    {
+      "slug": "bejt-tattoo",
+      "name": "Lukasz Bejtu"
+    },
+    {
+      "slug": "luke-naylor",
+      "name": "Luke Naylor"
+    },
+    {
+      "slug": "marc-durrant",
+      "name": "Marc Durrant"
+    },
+    {
+      "slug": "marcin-sokolowski",
+      "name": "Marcin Sokolowski"
+    },
+    {
+      "slug": "mark-powell",
+      "name": "Mark Powell"
+    },
+    {
+      "slug": "marta-teterina",
+      "name": "Marta Teterina"
+    },
+    {
+      "slug": "marzan-tattoo",
+      "name": "Marzan Tattoo"
+    },
+    {
+      "slug": "mashkow-tattoo",
+      "name": "Mashkow"
+    },
+    {
+      "slug": "massimiliano-fenix",
+      "name": "Massimiliano Fenix"
+    },
+    {
+      "slug": "max-castro-tattoo",
+      "name": "Max Castro"
+    },
+    {
+      "slug": "compulsiva-tattoo",
+      "name": "Mayara Compulsiva"
+    },
+    {
+      "slug": "mefisto-tattoo",
+      "name": "Mefisto Tattoo"
+    },
+    {
+      "slug": "michael-dagostini",
+      "name": "Michael Dagostini"
+    },
+    {
+      "slug": "michal-meehow-kotarski",
+      "name": "Michal Kotarski"
+    },
+    {
+      "slug": "michal-ledwig",
+      "name": "Michal Ledwig"
+    },
+    {
+      "slug": "michele-pitacco",
+      "name": "Michele Pitacco"
+    },
+    {
+      "slug": "mike-dargas",
+      "name": "Mike Dargas"
+    },
+    {
+      "slug": "mike-demasi",
+      "name": "Mike DeMasi"
+    },
+    {
+      "slug": "mike-randazzo",
+      "name": "Mike Randazzo"
+    },
+    {
+      "slug": "milan-polak",
+      "name": "Milan Polak"
+    },
+    {
+      "slug": "minh-luurangon",
+      "name": "Minh Luurangon"
+    },
+    {
+      "slug": "mirco-campioni",
+      "name": "Mirco Campioni"
+    },
+    {
+      "slug": "miroslav-pridal",
+      "name": "Miroslav Pridal"
+    },
+    {
+      "slug": "miss-pank-tattoo",
+      "name": "Miss Pank Tattoo"
+    },
+    {
+      "slug": "mloody-tattoo",
+      "name": "Mloody Tattoo"
+    },
+    {
+      "slug": "morty-tattoo",
+      "name": "Morty Tattoo"
+    },
+    {
+      "slug": "nastasya-ustinova",
+      "name": "Nastasya Ustinova"
+    },
+    {
+      "slug": "nat-devilette",
+      "name": "Nat Devilette"
+    },
+    {
+      "slug": "natasha-hannascott",
+      "name": "Natasha HannaScott"
+    },
+    {
+      "slug": "oleg-black",
+      "name": "Oleg Black"
+    },
+    {
+      "slug": "paulina-lukasik",
+      "name": "Paulina Lukasik"
+    },
+    {
+      "slug": "pavla-poppy",
+      "name": "Pavla Poppy"
+    },
+    {
+      "slug": "pavel-krim-tattoo",
+      "name": "Pavol Krim Tattoo"
+    },
+    {
+      "slug": "pawel-gawkowski",
+      "name": "Paweł Gawkowski"
+    },
+    {
+      "slug": "pedro-goes",
+      "name": "Pedro Goes"
+    },
+    {
+      "slug": "petra-hlavackova-tattoo",
+      "name": "Petra Hlavackova"
+    },
+    {
+      "slug": "polish-dan",
+      "name": "Polish Dan Tattoo"
+    },
+    {
+      "slug": "pontus-jonsson",
+      "name": "Pontus Jonsson"
+    },
+    {
+      "slug": "przemyslaw-aero-walkowiak",
+      "name": "Przemysław Walkowiak"
+    },
+    {
+      "slug": "qtattoo-lee",
+      "name": "Qtattoo Lee"
+    },
+    {
+      "slug": "resul-odabas-tattoo",
+      "name": "Resul Odabas"
+    },
+    {
+      "slug": "rob-bates",
+      "name": "Rob Bates"
+    },
+    {
+      "slug": "robert-pavez-tattoo",
+      "name": "Robert Pavez"
+    },
+    {
+      "slug": "rodrigo-ribeiro",
+      "name": "Rodrigo Ribeiro"
+    },
+    {
+      "slug": "roy-tsour",
+      "name": "Roy Tsour"
+    },
+    {
+      "slug": "samuel-potucek",
+      "name": "Samuel Potucek"
+    },
+    {
+      "slug": "sandor-pongor",
+      "name": "Sandor Pongor"
+    },
+    {
+      "slug": "sandra-daukshta",
+      "name": "Sandra Daukshta"
+    },
+    {
+      "slug": "sanek-tattoo",
+      "name": "Sanek Tattoo"
+    },
+    {
+      "slug": "sebastian-echeverria",
+      "name": "Sebastian Echeverria"
+    },
+    {
+      "slug": "semyon-seredin",
+      "name": "Semyon Seredin"
+    },
+    {
+      "slug": "sergey-butenko",
+      "name": "Sergey Butenko"
+    },
+    {
+      "slug": "sergey-hoff",
+      "name": "Sergey Hoff"
+    },
+    {
+      "slug": "shane-oneill",
+      "name": "Shane O Neill"
+    },
+    {
+      "slug": "simona-merlo",
+      "name": "Simona Merlo"
+    },
+    {
+      "slug": "slipy-tattoo",
+      "name": "Slipy Tattoo"
+    },
+    {
+      "slug": "speranza-tatuaggi",
+      "name": "Speranza Tatuaggi"
+    },
+    {
+      "slug": "stefano-galati",
+      "name": "Stefano Galati"
+    },
+    {
+      "slug": "steffi-eff",
+      "name": "Steffi Eff"
+    },
+    {
+      "slug": "steve-newman",
+      "name": "Steve Newman"
+    },
+    {
+      "slug": "steve-wimmer",
+      "name": "Steve Wimmer"
+    },
+    {
+      "slug": "stoty-tattooer",
+      "name": "Stoty Tattooer"
+    },
+    {
+      "slug": "taranis-tribe",
+      "name": "Taranis Tribe"
+    },
+    {
+      "slug": "tattoo-rascal",
+      "name": "Tattoo Rascal"
+    },
+    {
+      "slug": "tattooer-nadi",
+      "name": "Tattooer Nadi"
+    },
+    {
+      "slug": "tattooist-yeono",
+      "name": "Tattooist Yeono"
+    },
+    {
+      "slug": "teresa-andrews",
+      "name": "Teresa Andrews"
+    },
+    {
+      "slug": "thomas-acid",
+      "name": "Thomas Acid"
+    },
+    {
+      "slug": "tia-naayem",
+      "name": "Tia Naayem"
+    },
+    {
+      "slug": "toni-maldonado",
+      "name": "Toni Maldonado"
+    },
+    {
+      "slug": "trudy-lines-tattoo",
+      "name": "Trudy Lines Tattoo"
+    },
+    {
+      "slug": "tuzinho-tattoo",
+      "name": "Tuzinho Tattoo"
+    },
+    {
+      "slug": "tye-harris",
+      "name": "Tye Harris"
+    },
+    {
+      "slug": "tyler-malek",
+      "name": "Tyler Malek"
+    },
+    {
+      "slug": "vacsi-levente",
+      "name": "Vacsi Levente"
+    },
+    {
+      "slug": "vainius-anomaly",
+      "name": "Vainius Anomaly"
+    },
+    {
+      "slug": "valio-ska",
+      "name": "Valio Ska"
+    },
+    {
+      "slug": "vasilii-suvorov",
+      "name": "Vasilii Tattoo"
+    },
+    {
+      "slug": "veronika-raubtier",
+      "name": "Veronika Raubtier"
+    },
+    {
+      "slug": "vid-blanco",
+      "name": "Vid Blanco"
+    },
+    {
+      "slug": "kiwi-tattoo",
+      "name": "Vika Tattoo"
+    },
+    {
+      "slug": "vince-pages",
+      "name": "Vince Pages"
+    },
+    {
+      "slug": "vinicius-menoli",
+      "name": "Vinicius Menoli"
+    },
+    {
+      "slug": "vinni-mattos",
+      "name": "Vinni Mattos"
+    },
+    {
+      "slug": "vladislav-shetikov",
+      "name": "Vladislav Shetikov"
+    },
+    {
+      "slug": "zihee-tattoo",
+      "name": "Zihee Tattoo"
+    },
+    {
+      "slug": "zsolt-gomori",
+      "name": "Zsolt Gomori"
+    }
+  ],
+  "ambiguous_matches": [
+    {
+      "slug": "a-d-pancho",
+      "name": "A.d. Pancho",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "ad_pancho"
+    },
+    {
+      "slug": "ata-ink",
+      "name": "Ata Ink",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "miraitattoo"
+    },
+    {
+      "slug": "bro-studio",
+      "name": "Bro Studio",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "mr_broke"
+    },
+    {
+      "slug": "carlos-torres",
+      "name": "Carlos Torres",
+      "match_type": "name_ambiguous",
+      "picked_id": "_wilddogs_"
+    },
+    {
+      "slug": "chris-jones",
+      "name": "Chris Jones",
+      "match_type": "name_ambiguous",
+      "picked_id": "chrisjonestattooer"
+    },
+    {
+      "slug": "el-mori-tattoo",
+      "name": "El Mori",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "andrezilioti"
+    },
+    {
+      "slug": "ilaria-tattoo-art",
+      "name": "Ilaria Art",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "ilahavtattooartist"
+    },
+    {
+      "slug": "jackson-tattoo",
+      "name": "Jackson Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "aaronjtattoos"
+    },
+    {
+      "slug": "josh-duffy-tattoo",
+      "name": "Josh Duffy Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "josh_duffy"
+    },
+    {
+      "slug": "lena-art",
+      "name": "Lena Art",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "alenachun"
+    },
+    {
+      "slug": "merr-ink",
+      "name": "Merr Ink",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "benhakmeen"
+    },
+    {
+      "slug": "momori-tattoo",
+      "name": "Mo Mori",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "andrezilioti"
+    },
+    {
+      "slug": "pedro-tattoo",
+      "name": "Pedro Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "abdel_pedro"
+    },
+    {
+      "slug": "pol-tattoo",
+      "name": "Pol Art Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "kargapolovtattoo"
+    },
+    {
+      "slug": "sam-barber-tattoo",
+      "name": "Sam Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "aitorsamo"
+    },
+    {
+      "slug": "u-gene",
+      "name": "U Gene",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "adrianoelgeneral"
+    },
+    {
+      "slug": "william-tattoo",
+      "name": "William Tattoo",
+      "match_type": "tokens_ambiguous",
+      "picked_id": "abbiewilliamstattoo"
+    }
+  ]
+}

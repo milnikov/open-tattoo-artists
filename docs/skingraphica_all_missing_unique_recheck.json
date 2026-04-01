@@ -1,0 +1,674 @@
+{
+  "input": {
+    "description": "all_missing_unique from docs/skingraphica_missing_artists.json",
+    "count": 42
+  },
+  "method": "Unicode-fold name+bio+instagram+id; match first+last of base name, or all parenthetical nickname tokens (len>=3), or POESIS mononym. Wrong-person ids called out separately.",
+  "scrape_queue": "packages/scraper/discovered_pages.json (tattooswizard URLs only)",
+  "summary": {
+    "wrong_person_collision": 4,
+    "expanded_match": 3,
+    "still_no_match": 28,
+    "ambiguous": 7
+  },
+  "wrong_or_collision": [
+    {
+      "skingraphica_label": "Brian Woo (Doc Woo)",
+      "status": "wrong_person_collision",
+      "note": "_dr_woo_ is Doc Woo (Italy), not Brian Woo"
+    },
+    {
+      "skingraphica_label": "Rich Hardy",
+      "status": "wrong_person_collision",
+      "note": "richhardy is Richard Lavender"
+    },
+    {
+      "skingraphica_label": "Robert Hernandez",
+      "status": "wrong_person_collision",
+      "note": "roberthernandez is David Hernández (Madrid)"
+    },
+    {
+      "skingraphica_label": "Sam Barber",
+      "status": "wrong_person_collision",
+      "note": "sambarber is Wesam Khano"
+    }
+  ],
+  "expanded_matches": [
+    {
+      "skingraphica_label": "Jon Vasey (Sway)",
+      "status": "expanded_match",
+      "artist_id": "jeff_tam_monkeyking",
+      "artist_name": "Jeff Tam",
+      "match_reasons": [
+        "nickname tokens in blob"
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Minh Pham",
+      "status": "expanded_match",
+      "artist_id": "pham_rain",
+      "artist_name": "Rain Pham",
+      "match_reasons": [
+        "first+last in blob"
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Sangjin Lee (Polyc)",
+      "status": "expanded_match",
+      "artist_id": "polyc_sj",
+      "artist_name": "Polyc SJ",
+      "match_reasons": [
+        "nickname tokens in blob"
+      ],
+      "in_discovered_pages_slugs_loose": false
+    }
+  ],
+  "still_missing": [
+    {
+      "skingraphica_label": "Aldo Moreno",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Andrea Pellerone",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Arlen Bellotti",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Ash MacIsaac",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Bob Tyrell",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Cheon Moon",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Coen Mitchell",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Dean Sacred",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Deanna James",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Dmytro Nosov",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Eunmi Song",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Federica Orlando",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Jaeyun Lee (Ryun)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Jie Wu",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Konrad Horodecki (Rudy Dziara)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Lolita Malenkina",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Max Murphy",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Mingyuan Yin (Myuan)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Minh Hoàng",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Nico Del Grosso",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Noah Bissi",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "POESIS",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Riccardo Rossi (Pelle Ossa)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Samuel Schiavone",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Steven Bugeja (Stevo)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Tania Tkachenko (Green Vesper)",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Tritoan Ly",
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Waler Montero",
+      "in_discovered_pages_slugs_loose": false
+    }
+  ],
+  "ambiguous": [
+    {
+      "skingraphica_label": "Aleksandra Dovgal (Sasha)",
+      "candidates": [
+        {
+          "id": "alinatiurina",
+          "name": "Alina Protsenko",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "andreadelgado",
+          "name": "Andrea Delgado | Fineline & Microrealism Tattoo Artist",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "dashasumkina",
+          "name": "DASHA SUMTATTOO",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "lil_tat_mama",
+          "name": "Isashah Pereira",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "lesyakovalchuk",
+          "name": "Lesia Kovalchuk",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "furuczmisi",
+          "name": "Misi “Mike” Furucz",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "naokotattoo",
+          "name": "Naoko Tattoo",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "negrosalmon",
+          "name": "Negro Salmón",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "sashagivos",
+          "name": "Sasha Givos • Тату мастер • Обучение  • Москва",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "ianhain",
+          "name": "Sasha Hain",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "sashamezoghlian",
+          "name": "Sasha Malvina Mezoghlian",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "sashamarsh",
+          "name": "Sasha Marsh",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Jiho Yoon (YOON)",
+      "candidates": [
+        {
+          "id": "joojoo",
+          "name": "Joo Young Yoon",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "seyoongim",
+          "name": "Seyoon Gim",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "yoonneedle",
+          "name": "Yoon Needle",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Keith McCurdy (Bang Bang)",
+      "candidates": [
+        {
+          "id": "adrianbascur",
+          "name": "Adrian Bascur",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "delmazotattoo",
+          "name": "Alejandro del Mazo",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "alexisholytattoo",
+          "name": "Alexis kolt Z",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "allstyletattoothailand",
+          "name": "Allstyletattoothailand",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "anatole",
+          "name": "Anatole Zangs",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "andersonluna",
+          "name": "Anderson Luna",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "artvisiontattoo.rj",
+          "name": "Art Vision Tattoo RJ",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "bangbangbodyarts",
+          "name": "Bang Bang Body Arts",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "bangbangnyc",
+          "name": "Bang Bang Tattoo",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "benjamin_museo",
+          "name": "Benji . ￼ChunMan . Au",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "bigg_matt_tattoo",
+          "name": "Bigg Matt Adams",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "blackcatmy",
+          "name": "Black Cat Tattoo and Piercing Studio",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Kyoungrim Kim (Lifo)",
+      "candidates": [
+        {
+          "id": "littledaveparker",
+          "name": "\"Little Dave\" Parker",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "oceanside__tattoo",
+          "name": "\"THE ARCADE\" Tattoo Museum",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "gabe_luquin",
+          "name": "-tombstone-",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "artifacts_ink_studio",
+          "name": "@artifacts_ink_studio",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "isaac_roman",
+          "name": "@isaacromantattoos",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "a_town_tattoo",
+          "name": "A-Town Tattoo",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "onedeeptattoo",
+          "name": "Aaron",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "aarondellavedova_art",
+          "name": "Aaron Dellavedova",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "aaronhickstattoos",
+          "name": "Aaron Hicks",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "aaronhodgesart",
+          "name": "AARON HODGES",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "aaronleroi",
+          "name": "Aaron Leroi",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "apmunoz13",
+          "name": "Aaron Munoz",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Lewis Black",
+      "candidates": [
+        {
+          "id": "lewisink",
+          "name": "ACOUNT CLOSED",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "ashlewis",
+          "name": "Ash Lewis",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "ashlewistattoo",
+          "name": "Ash Lewis, Jersey Realism tattoo artist",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "boblewistattoos",
+          "name": "Bob Lewis",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "danlewis_tattoos",
+          "name": "Dan Lewis",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "blacksymmetry",
+          "name": "Lewis",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "mainstreettattoo",
+          "name": "Main Street Tattoo",
+          "reasons": [
+            "first+last in blob"
+          ]
+        },
+        {
+          "id": "el_dugi",
+          "name": "Ryan El Dugi Lewis",
+          "reasons": [
+            "first+last in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "Qiwei Xu (Meow-Meow)",
+      "candidates": [
+        {
+          "id": "adam_stoner",
+          "name": "ADAM STONER",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "insamnia",
+          "name": "INSAMNIA TATTOO",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "imacatmeow_tattoos",
+          "name": "Nicole May Tattoos",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "electric_hands",
+          "name": "Shawn Dougherty",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "shannanmeow",
+          "name": "🖤𝔖𝔥𝔞𝔫𝔫𝔞𝔫 𝔐𝔢𝔬𝔴🖤",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    },
+    {
+      "skingraphica_label": "YongSeop Hwang (Dragon)",
+      "candidates": [
+        {
+          "id": "bluedragontattoo",
+          "name": "Alexander Nyaguy",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "alexandra_velvetwolf",
+          "name": "Alexandra Pápai Tattoo",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "alfred_tatts",
+          "name": "Alfred Tatts",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "alicerigal",
+          "name": "Alice Rigal",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "amargoucem",
+          "name": "Amar Goucem",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "andrea_sparkley",
+          "name": "Andrea Sparkley",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "gimmelovetattoo",
+          "name": "Augustine Nezumi",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "barantattooart",
+          "name": "Baran Yilmaz",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "beardeddragontattoos",
+          "name": "Bearded Dragon Tattoos",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "bluedragontattoobrighton",
+          "name": "Blue Dragon Tattoo Studio",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "boneltattooer",
+          "name": "Bonel -Japanese Tattoo Barcelona",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        },
+        {
+          "id": "brandonbond11",
+          "name": "BRANDON BOND Tattoo Artist",
+          "reasons": [
+            "nickname tokens in blob"
+          ]
+        }
+      ],
+      "in_discovered_pages_slugs_loose": false
+    }
+  ]
+}
