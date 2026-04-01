@@ -132,117 +132,23 @@ STYLE_NORMALIZE = {
     "japanese irezumi": "japanese",
 }
 
-# Non-style entries that were scraped as "styles" (sponsors, brands, celebrity names, fake themes, etc.)
-JUNK_STYLES = {
-    "cara delevingne",
-    "celebrity couple tattoos",
-    "cheyenne_tattooequipment",
-    "erotic",
-    "love tattoos",
-    "ellie goulding",
-    "florence welch",
-    "justin bieber",
-    "katy perry",
-    "killerinktattoo",
-    "leejonestattooist",
-    "recoveryaftercare",
-    "rihanna",
-    "sponsor:",
-    "stencils",
-    "tattoodefender",
-    "tattooeverythingsupplies",
-    "total_immortal_tattoos",
-    "balm_tattoo",
-    # Sponsor/brand strings from new artist data
-    "venomink.com",
-    "bluebirdneedles",
-    "paulocruzes",
-    "barber_dts",
-    "z00tatt00",
-    "h2oceanloyalty",
-    "tropicaldermoficial",
-    "fusion_ink",
-    "hardliferotaries",
-    "radiantcolorsink",
-    "worldfamousink",
-    "live.co.uk",
-    "killers.kings",
-    "axysrotary",
-    "sheacare4u",
-    "sickcartridges",
-    "sumuntattoo",
-    "yayofamilia",
-    "hooligancarts",
-    "jetpackwireless",
-    "hardcraftcompany",
-    "grupo_amazon",
-    "ronintattoocare",
-    "peakneedles",
-    "goliathneedles",
-    "inkedout_uk",
-    "fantasiaartsupply",
-    "crocarttattoocare",
-    "atlastattoosupplies",
-    "meaculpairons",
-    "wildcatbarcelona",
-    "kingpintattoosupply",
-    "hotmail.com",
-    "viking_inks",
-    "xtremtattoo",
-    "fkirons",
-    "brouktattoosupply",
-    "hushanesthetic",
-    "goldinkcorp",
-    "kwadron",
-    "electrumstencilproducts",
-    "needlejig",
-    "tsunami_tattoo_needles",
-    "fifthfingerstudio",
-    "fistflame",
-    "technicaltattoosupply",
-    "inkjecta",
-    "deluxeirons",
-    "starrtattoosupplies",
-    "starbritecolors",
-    "juanpetattoo.es",
-    "stigmarotary",
-    "tattooarmourpro",
-    "blkpowder",
-    "mba.easytattoo",
-    "gmail.com",
-    "zootattoo",
-    "kurosumitattooink",
-    "eternalink",
-    "relyaidtattoosupply",
-    "inkofcocotattooskincare",
-    # Brands / supplies / events / studios scraped as "styles" (browse UI)
-    "bepantholtattoo",
-    "chchtattooexpo",
-    "elgatonegrotatt",
-    "foreverforgottenaftercare",
-    "fytsuppliesmy",
-    "gattonerotattoo",
-    "hardliferotaries.",
-    "imperialinks",
-    "intenzetattooink",
-    "magnumtattoo",
-    "nuclearwhiteink",
-    "numbedrx",
-    "panormostattoo",
-    "premiertattoocare",
-    "think_tattoo_aftercare",
-    "tombowpt",
-    "truegenttsttoosupplies",
-    "ultimatetattoosupply",
-    "dermacaretattoo",
-    "monsterenergy",
-    "industryinks",
-    "eztattooing",
-    "easyglowpigments",
-    "skintattoocare",
-    "believatattoo",
-    "electricink",
-}
+# Non-style entries (sponsors, brands, scraped UI chrome, etc.) — data/styles/junk_styles.json
+JUNK_STYLES_PATH = REPO_ROOT / "data" / "styles" / "junk_styles.json"
+
+
+def _load_junk_styles() -> frozenset[str]:
+    if not JUNK_STYLES_PATH.is_file():
+        return frozenset()
+    try:
+        data = json.loads(JUNK_STYLES_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return frozenset()
+    if not isinstance(data, list):
+        return frozenset()
+    return frozenset(str(x) for x in data)
+
+
+JUNK_STYLES = _load_junk_styles()
 
 # Country names that must not appear in city field (Unknown is allowed per DATA_MODEL)
 COUNTRY_NAMES_NO_CITY = {

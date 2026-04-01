@@ -23,7 +23,24 @@ from urllib.parse import urlparse
 REPO_ROOT = Path(__file__).resolve().parent.parent
 ARTISTS_DIR = REPO_ROOT / "data" / "artists"
 STYLES_PATH = REPO_ROOT / "data" / "styles" / "styles.json"
+JUNK_STYLES_PATH = REPO_ROOT / "data" / "styles" / "junk_styles.json"
 INDEXES_DIR = REPO_ROOT / "data" / "indexes"
+
+
+def _load_junk_styles() -> frozenset[str]:
+    """Same tokens as validate_styles_locations — keeps browse/map style lists clean."""
+    if not JUNK_STYLES_PATH.is_file():
+        return frozenset()
+    try:
+        data = json.loads(JUNK_STYLES_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return frozenset()
+    if not isinstance(data, list):
+        return frozenset()
+    return frozenset(str(x) for x in data)
+
+
+JUNK_STYLES = _load_junk_styles()
 
 
 def source_domain_from_url(url) -> str | None:
@@ -73,11 +90,16 @@ def build_compact(artists: list[dict]) -> list[dict]:
         tattoos = a.get("tattoos", [])
         thumbs = [t["image_thumb"] for t in tattoos[:4]]
         first_thumb = thumbs[0] if thumbs else None
+        raw_styles = a.get("styles")
+        if isinstance(raw_styles, list):
+            styles_clean = [s for s in raw_styles if s not in JUNK_STYLES]
+        else:
+            styles_clean = []
         entry = {
             "id": a["id"],
             "name": a["name"],
             "location": a["location"],
-            "styles": a["styles"],
+            "styles": styles_clean,
             "links": {"instagram": a["links"]["instagram"]},
             "tattoo_count": len(tattoos),
             "thumb": first_thumb,
