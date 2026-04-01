@@ -7,7 +7,7 @@ export function SiteFooter() {
       <div className="flex flex-col gap-2 text-xs text-muted-foreground w-full max-w-md md:max-w-none">
         <div className="max-w-[400px]">
           <p>
-            thetattoo.world is a free, open-source index of tattoo artists —
+            thetattoo.world is a free, open database of tattoo artists —
             built for discovery, research, and community contribution.
           </p>
         </div>
@@ -15,7 +15,7 @@ export function SiteFooter() {
           <p>
             by{" "}
             <a
-              href="https://t.me/milnikov"
+              href="https://milnikov.com"
               target="_blank"
               rel="noopener noreferrer"
               className="text-foreground hover:text-muted-foreground transition-colors inline-flex items-center gap-0.5"
