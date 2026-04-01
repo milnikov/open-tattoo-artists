@@ -31,7 +31,7 @@ export function ListStatusBar({
         {totalCount} artists{" "}
         {totalPages > 0 && (
           <>
-            {"—"} page {page + 1} of {totalPages}
+            {"・"} page {page + 1} of {totalPages}
           </>
         )}
       </span>
