@@ -18,6 +18,9 @@ export default async function AdminPage() {
   }
 
   const artists = getCompactArtists();
+  const sourceDomainByArtistId = new Map(
+    artists.map((a) => [a.id, a.source_domain ?? null])
+  );
 
   const verifiedArtistIds = artists
     .filter((a) => a.verified === "artist")
@@ -29,14 +32,8 @@ export default async function AdminPage() {
 
   const tattoos = fullArtists.flatMap((full) => {
     if (!full) return [];
-    let sourceDomain: string | null = null;
-    try {
-      if (full.links?.source) {
-        sourceDomain = new URL(full.links.source).hostname.replace(/^www\./, "");
-      }
-    } catch {
-      sourceDomain = null;
-    }
+    const sd = sourceDomainByArtistId.get(full.id);
+    const sourceDomain = sd ?? "unknown";
     return full.tattoos.map((t) => ({
       artistId: full.id,
       artistName: full.name,
@@ -46,7 +43,7 @@ export default async function AdminPage() {
       country: full.location.country,
       city: full.location.city,
       styles: full.styles,
-      sourceDomain: sourceDomain ?? "unknown",
+      sourceDomain,
       instagramEnriched: Boolean((full as unknown as { instagram_enriched?: unknown }).instagram_enriched),
     }));
   });

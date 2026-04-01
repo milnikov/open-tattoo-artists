@@ -153,6 +153,15 @@ export interface CompactArtist {
   instagram_enriched?: boolean;
 }
 
+/** Compact list shape exposed to unauthenticated clients (no crawl-source metadata). */
+export type PublicCompactArtist = Omit<CompactArtist, "source_domain">;
+
+export function toPublicCompactArtists(
+  artists: CompactArtist[]
+): PublicCompactArtist[] {
+  return artists.map(({ source_domain: _sd, ...rest }) => rest);
+}
+
 export interface SearchIndexEntry {
   id: string;
   name: string;
