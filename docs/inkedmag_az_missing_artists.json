@@ -1,0 +1,39 @@
+{
+  "source_url": "https://inkedmag.com/original-news/an-a-z-guide-to-the-worlds-best-tattoo-artists",
+  "extracted_note": "26 artists; parsed plain <h2>Name</h2> from HTML fetched 2026-04-01 (excludes Newsletter widget). Refresh: curl page then scripts/match_inkedmag_az.py --parse-html file.html",
+  "database_note": "Compared to data/indexes/artists.compact.json. Order: MANUAL_IDS, guessed id from name, exact folded name (variants), substring (len>6), token intersection.",
+  "caveat": "Bang Bang mapped to bangbangnyc; verify vs Keith McCurdy solo id if you split studio vs artist.",
+  "scrape_queue_note": "packages/scraper/discovered_pages.json has no inkedmag.com URLs; this article is not a scrape source in-repo.",
+  "counts": {
+    "inked_az_artists": 26,
+    "matched": 20,
+    "missing": 6,
+    "flagged_ambiguous_match": 0
+  },
+  "match_type_breakdown": {
+    "id_guess": 10,
+    "manual_id": 9,
+    "name_exact_fold": 1
+  },
+  "missing": [
+    {
+      "name": "Характер Не Сахар"
+    },
+    {
+      "name": "Igor Mitrenga"
+    },
+    {
+      "name": "Pirojenko, Daria"
+    },
+    {
+      "name": "Ulyss Blair"
+    },
+    {
+      "name": "Will Gonzalez"
+    },
+    {
+      "name": "Yogi Barrett"
+    }
+  ],
+  "ambiguous_matches": []
+}

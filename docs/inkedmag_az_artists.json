@@ -1,0 +1,84 @@
+{
+  "source_url": "https://inkedmag.com/original-news/an-a-z-guide-to-the-worlds-best-tattoo-artists",
+  "extracted_note": "26 artists; parsed plain <h2>Name</h2> from HTML fetched 2026-04-01 (excludes Newsletter widget). Refresh: curl page then scripts/match_inkedmag_az.py --parse-html file.html",
+  "artists": [
+    {
+      "name": "AD Pancho"
+    },
+    {
+      "name": "Bang Bang"
+    },
+    {
+      "name": "Castle Basas"
+    },
+    {
+      "name": "Dmitriy Samohin"
+    },
+    {
+      "name": "Eliot Kohek"
+    },
+    {
+      "name": "Filip Leu"
+    },
+    {
+      "name": "Goldy"
+    },
+    {
+      "name": "Herzdame, Sarah"
+    },
+    {
+      "name": "Igor Mitrenga"
+    },
+    {
+      "name": "Jay Joree"
+    },
+    {
+      "name": "Khail Aitken"
+    },
+    {
+      "name": "Liz Venom"
+    },
+    {
+      "name": "Mashkow, Alexey"
+    },
+    {
+      "name": "Nikko Hurtado"
+    },
+    {
+      "name": "O\u2019Kharin, Sasha"
+    },
+    {
+      "name": "Pirojenko, Daria"
+    },
+    {
+      "name": "Q"
+    },
+    {
+      "name": "Ryan Ashley Malarkey"
+    },
+    {
+      "name": "Steve Butcher"
+    },
+    {
+      "name": "Thomas Carli Jarlier"
+    },
+    {
+      "name": "Ulyss Blair"
+    },
+    {
+      "name": "Valentina Riabova"
+    },
+    {
+      "name": "Will Gonzalez"
+    },
+    {
+      "name": "\u0425\u0430\u0440\u0430\u043a\u0442\u0435\u0440 \u041d\u0435 \u0421\u0430\u0445\u0430\u0440"
+    },
+    {
+      "name": "Yogi Barrett"
+    },
+    {
+      "name": "Zack Singer"
+    }
+  ]
+}
