@@ -84,11 +84,11 @@ def load_artists() -> list[dict]:
 
 
 def build_compact(artists: list[dict]) -> list[dict]:
-    """Minimal fields for list + filtering. Up to 4 thumbs for list view."""
+    """Minimal fields for list + filtering. Up to 8 thumbs for list view (mobile strip)."""
     out = []
     for a in artists:
         tattoos = a.get("tattoos", [])
-        thumbs = [t["image_thumb"] for t in tattoos[:4]]
+        thumbs = [t["image_thumb"] for t in tattoos[:8]]
         first_thumb = thumbs[0] if thumbs else None
         raw_styles = a.get("styles")
         if isinstance(raw_styles, list):
