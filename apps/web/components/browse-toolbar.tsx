@@ -181,15 +181,15 @@ export function BrowseToolbar({
         </div>
       </div>
 
-      <div className="flex flex-wrap items-center gap-x-2 gap-y-1.5 px-4 md:px-8 py-1.5 min-h-9 border-b border-border min-w-0">
-        <div className="flex items-center gap-1">
-          <span className="text-xs text-muted-foreground">Browse</span>
-          <ArrowRight className="h-3 w-3 text-muted-foreground" />
+      <div className="flex items-center gap-x-2 px-4 md:px-8 border-b border-border min-w-0 max-md:h-9 max-md:flex-nowrap max-md:overflow-x-auto max-md:overscroll-x-contain md:flex-wrap md:gap-y-1.5 md:min-h-9 md:py-1.5 md:overflow-x-visible">
+        <div className="flex shrink-0 items-center gap-1">
+          <span className="text-xs text-muted-foreground whitespace-nowrap">Browse</span>
+          <ArrowRight className="h-3 w-3 shrink-0 text-muted-foreground" />
         </div>
         <button
           type="button"
           onClick={() => onFilterChange("All")}
-          className={`text-xs px-2 py-1 rounded transition-colors ${
+          className={`shrink-0 text-xs px-2 py-1 rounded transition-colors ${
             allLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
@@ -200,7 +200,7 @@ export function BrowseToolbar({
         <button
           type="button"
           onClick={() => onFilterChange("Styles")}
-          className={`text-xs px-2 py-1 rounded transition-colors ${
+          className={`shrink-0 text-xs px-2 py-1 rounded transition-colors ${
             stylesLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
@@ -213,7 +213,7 @@ export function BrowseToolbar({
         <button
           type="button"
           onClick={() => onFilterChange("Countries")}
-          className={`text-xs px-2 py-1 rounded transition-colors ${
+          className={`shrink-0 text-xs px-2 py-1 rounded transition-colors ${
             countriesLooksSelected
               ? "bg-foreground text-background"
               : "text-foreground hover:text-muted-foreground"
@@ -227,7 +227,7 @@ export function BrowseToolbar({
           type="button"
           disabled={selectedCountries.length === 0 || !citiesFilterEnabled}
           onClick={() => onFilterChange("Cities")}
-          className={`text-xs px-2 py-1 rounded transition-colors ${
+          className={`shrink-0 text-xs px-2 py-1 rounded transition-colors ${
             selectedCountries.length === 0 || !citiesFilterEnabled
               ? "text-muted-foreground cursor-not-allowed opacity-70 rounded"
               : citiesLooksSelected
