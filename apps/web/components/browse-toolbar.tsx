@@ -181,7 +181,7 @@ export function BrowseToolbar({
         </div>
       </div>
 
-      <div className="flex items-center gap-2 px-4 md:px-8 h-9 border-b border-border">
+      <div className="flex flex-wrap items-center gap-x-2 gap-y-1.5 px-4 md:px-8 py-1.5 min-h-9 border-b border-border min-w-0">
         <div className="flex items-center gap-1">
           <span className="text-xs text-muted-foreground">Browse</span>
           <ArrowRight className="h-3 w-3 text-muted-foreground" />

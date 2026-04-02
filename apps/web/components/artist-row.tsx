@@ -194,7 +194,7 @@ export function ArtistRow({
           </div>
 
           <div className="flex flex-col gap-1 min-w-0">
-            <div className="flex gap-1.5 overflow-x-auto overflow-y-hidden pb-1 -mx-4 px-4 md:mx-0 md:px-0 md:overflow-visible">
+            <div className="flex gap-1.5 overflow-x-auto overflow-y-hidden pb-1 overscroll-x-contain -mx-4 px-4 md:mx-0 md:px-0 md:overflow-visible">
               {thumbsForRow.map((src, i) => (
                 <div
                   key={i}

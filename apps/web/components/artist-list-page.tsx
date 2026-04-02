@@ -432,7 +432,7 @@ export function ArtistListPage({
   }
 
   return (
-    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0">
+    <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0 overflow-x-hidden">
       <div className="h-8 md:h-16" />
 
       <BrowseToolbar
