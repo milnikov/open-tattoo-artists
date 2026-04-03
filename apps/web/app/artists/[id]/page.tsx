@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { getArtist } from "@/lib/data";
 import { getContributorEmailForArtist } from "@/lib/contributions";
+import { imageUrl } from "@/lib/images";
 import { notFound } from "next/navigation";
-import { ArtistTattooGallery, INITIAL_TATTOO_COUNT } from "@/components/artist-tattoo-gallery";
 import { ArrowUpRight } from "lucide-react";
 import { FavoriteButton } from "@/components/FavoriteButton";
 import { BackToListLink } from "@/components/back-to-list-link";
@@ -31,8 +31,6 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
 
   const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
-  const tattoos = artist.tattoos ?? [];
-  const initialTattoos = tattoos.slice(0, INITIAL_TATTOO_COUNT);
 
   const updatedAtEl =
     artist.updated_at != null && artist.updated_at !== "" ? (
@@ -164,13 +162,27 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
           </div>
         </div>
 
-        <ArtistTattooGallery
-          artistId={artist.id}
-          artistName={artist.name}
-          initialTattoos={initialTattoos}
-          total={tattoos.length}
-          initialCount={initialTattoos.length}
-        />
+        <div className="border-t border-border px-2 pt-3 pb-4 md:px-8 md:pt-6 md:pb-8">
+          <div className="columns-2 md:columns-3 gap-x-2 md:gap-x-4">
+            {(artist.tattoos ?? []).map((t, i) => (
+              <a
+                key={t.image_id}
+                href={imageUrl(t.image_full)}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block break-inside-avoid rounded overflow-hidden bg-muted hover:opacity-95 transition-opacity mb-2 md:mb-4"
+              >
+                <img
+                  src={imageUrl(t.image_thumb)}
+                  alt={`${artist.name} tattoo ${t.image_id}`}
+                  className="w-full h-auto block"
+                  loading={i < 6 ? "eager" : "lazy"}
+                  {...(i === 0 ? { fetchPriority: "high" as const } : {})}
+                />
+              </a>
+            ))}
+          </div>
+        </div>
       </main>
 
       <SiteFooter />
