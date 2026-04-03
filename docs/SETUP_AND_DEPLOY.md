@@ -44,6 +44,8 @@ From **repo root** on the server.
 
 **`NEXT_PUBLIC_IMAGES_BASE_URL`** must match **`r2.public_url`** in `packages/scraper/config.yaml` (e.g. `apps/web/.env.local` and production host env).
 
+**Anti-scrape (images + APIs):** [CLOUDFLARE_ANTI_SCRAPE.md](./CLOUDFLARE_ANTI_SCRAPE.md) (image host + optional app zone), [MONITORING_ANTI_SCRAPE.md](./MONITORING_ANTI_SCRAPE.md) (tuning and alerts).
+
 **Deploy Next.js**
 
 - **Vercel:** Import repo → **Root Directory** `apps/web` → env vars (`NEXT_PUBLIC_IMAGES_BASE_URL`, Supabase if used) → deploy.  

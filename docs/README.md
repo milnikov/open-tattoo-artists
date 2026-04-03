@@ -5,6 +5,8 @@
 | [PRD.md](./PRD.md) | Product requirements (MVP, visibility rules) |
 | [DATA_MODEL.md](./DATA_MODEL.md) | Artist JSON + R2 paths |
 | [SETUP_AND_DEPLOY.md](./SETUP_AND_DEPLOY.md) | VPS first-time setup, R2, Next.js deploy, how the pipeline fits together |
+| [CLOUDFLARE_ANTI_SCRAPE.md](./CLOUDFLARE_ANTI_SCRAPE.md) | Image host bot/rate-limit/WAF on Cloudflare; optional app zone |
+| [MONITORING_ANTI_SCRAPE.md](./MONITORING_ANTI_SCRAPE.md) | Tune limits, watch 429/challenges, alerts |
 | [VM_AND_GIT_COMMANDS.md](./VM_AND_GIT_COMMANDS.md) | Command cheat sheet for the VM (pipelines, git, screen) |
 | [GOOGLE_AUTH_SETUP.md](./GOOGLE_AUTH_SETUP.md) | Google + Supabase + web env |
 | [MODERATION.md](./MODERATION.md) | Issue-based submissions |
