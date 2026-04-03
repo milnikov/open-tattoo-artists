@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "raccoon.ink",
+  "name": "Liz",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/raccoon.ink",
+    "instagram": "https://www.instagram.com/raccoon.ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raccoon.ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raccoon.ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raccoon.ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/raccoon.ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Liz is a highly skilled tattoo artist who specializes in intricate black and gray designs that boast a level of detail that can only be achieved through years of dedicated practice and refinement. Her proficiency in creating custom art ensures a unique and personal experience for each client, perfectly capturing their individual visions with precision. Liz maintains the highest level of professionalism in her craft, guaranteeing a satisfying and sophisticated outcome for all who seek her exceptional tattoo artistry.\nPrice: $\nCurrent location:"
+}

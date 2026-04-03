@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "rebecca_vincent_tattoo",
+  "name": "Rebecca Vincent",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rebecca_vincent_tattoo",
+    "instagram": "https://www.instagram.com/rebecca_vincent_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecca_vincent_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecca_vincent_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecca_vincent_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rebecca_vincent_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-02",
+  "bio": "Rebecca Vincent is a highly skilled tattoo artist, specializing in the intricate floral style. Operating out of her private studio in Hackney, she maintains impeccable cleanliness standards, which are reflected in her work and appreciated by her vast following of over 170K on Instagram. Vincent's high-level professional approach is highlighted by her methodical booking system, ensuring her clients know when she is available and can book in advance.\nPrice: $$$\nCurrent location:"
+}

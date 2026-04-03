@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pushininktattoo",
+  "name": "Nick Aptattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pushininktattoo",
+    "instagram": "https://www.instagram.com/pushininktattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pushininktattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pushininktattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pushininktattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pushininktattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Nick Aptattoos is a highly skilled tattoo artist renowned for his mastery in the 'newschool' style, bringing vibrant and contemporary designs to life with exceptional precision. His studio in Middleboro, MA, is a beacon of cleanliness, ensuring every client's experience is not only artistically fulfilling but also held to the highest standards of hygiene. Nick's dedication to maintaining a spotless working environment is matched only by his impressive portfolio of bold and colorful tattoos.\nPrice: $\nCurrent location:"
+}

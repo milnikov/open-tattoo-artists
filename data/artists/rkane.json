@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rkane",
+  "name": "Robert Kane",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rkane",
+    "instagram": "https://www.instagram.com/rkane/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rkane/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rkane/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rkane/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rkane/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-03",
+  "bio": "Robert Kane, a renowned tattoo artist specializing in 'newschool' and 'neotraditional' styles, is admired for his impeccable skill level. His mastery in artistic interpretation and flawless execution is demonstrated in each piece he works on. Known for using world-famous ink and Hustle Butter Deluxe, he can be reached at RobertKaneArt@gmail.com for appointments.\nPrice: $$\nCurrent location:"
+}

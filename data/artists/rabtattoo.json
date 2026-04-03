@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rabtattoo",
+  "name": "Barney (RAB Tattoo)",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rabtattoo",
+    "instagram": "https://www.instagram.com/rabtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Barney, who operates under the name 'RAB Tattoo' at 'Easy Tiger Tattoo Co. in Leeds, Yorkshire, UK, is a highly skilled tattoo artist specialising in traditional and illustrative styles. With a following of nearly 100,000 on Instagram, his captivating work demonstrates his exceptional talent and proficiency in the craft. He maintains a professional approach to his work, which is reflected in the striking intricacy and boldness of his designs.\nPrice: $$$\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "racotattoo",
+  "name": "RACO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/racotattoo",
+    "instagram": "https://www.instagram.com/racotattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/racotattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/racotattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/racotattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/racotattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "RACO is an exceptionally skilled tattoo artist, specializing in fineline, dotwork, and neotraditional styles. They operate out of Manchester, UK, and command significant respect in the industry, reflected in their impressive fan base of over 130,000 followers on Instagram. RACO's art is in high demand with bookings already filled up, marking them not only as a top-tier artist but one constantly innovating within their craft.\nPrice: $$$\nCurrent location:"
+}

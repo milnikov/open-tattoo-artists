@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rabbittattoo",
+  "name": "Danielle Pierce",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rabbittattoo",
+    "instagram": "https://www.instagram.com/rabbittattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabbittattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabbittattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabbittattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rabbittattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Danielle Pierce is a highly skilled tattoo artist at Dark Letter Tattoo whose expertise lies in crafting exquisite floral and fine line tattoos. Renowned for her professionalism, Danielle's dedication to her craft ensures that each design she creates is executed with utmost precision and care. Clients are encouraged to reach out via email for inquiries, as Danielle prefers this method of communication to maintain a professional and organized approach to appointments and consultations.\nPrice: $\nCurrent location:"
+}

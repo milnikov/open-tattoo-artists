@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "razmodiuz",
+  "name": "Razz Pjutin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/razmodiuz",
+    "instagram": "https://www.instagram.com/razmodiuz/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/razmodiuz/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/razmodiuz/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/razmodiuz/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/razmodiuz/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-02",
+  "bio": "Razz Pjutin is a highly skilled tattoo artist, specializing in traditional, dotwork, and fineline styles. They take great pride in their craft, ensuring each tattoo they create is executed with precision and care. Clients appreciate Razz's attention to detail and the clean, crisp results that highlight their artistry.\nPrice: $\nCurrent location:"
+}

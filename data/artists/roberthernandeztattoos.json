@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "roberthernandeztattoos",
+  "name": "Robert Hernandez",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/roberthernandeztattoos",
+    "instagram": "https://www.instagram.com/roberthernandeztattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roberthernandeztattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roberthernandeztattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roberthernandeztattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/roberthernandeztattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-03",
+  "bio": "Robert Hernandez is an exceptionally skilled tattoo artist, specializing in the black&gray style. Tattooing since 1992, he has built an impressive reputation, gaining around 130k followers on Instagram. For bookings, Hernandez is professional and easily reachable via email or phone. His artistic talent has garnered him recognition across Madrid and NYC.\nPrice: $$$\nCurrent location:",
+  "tattooing_since": "1992"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "rachelannatattoo",
+  "name": "Rachel Anna",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "sketch",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rachelannatattoo",
+    "instagram": "https://www.instagram.com/rachelannatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rachelannatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rachelannatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rachelannatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rachelannatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Rachel Anna is a highly skilled tattoo artist known for her exceptional work in fineline, sketch, and geometric styles. Based in the Baltic Triangle, Liverpool, she boasts a strong following of approximately 77,000 enthusiasts on Instagram that appreciate her intricate detailing and unique artistic approach. With a steadfast commitment to cleanliness and professionalism, consultations and bookings are conveniently managed through direct messaging or email.\nPrice: $$$\nCurrent location:"
+}

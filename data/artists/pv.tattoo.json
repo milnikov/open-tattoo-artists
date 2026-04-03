@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "pv.tattoo",
+  "name": "Paulo Vicenti (PV)",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/pv.tattoo",
+    "instagram": "https://www.instagram.com/pv.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pv.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pv.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pv.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pv.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Paulo Vicenti, commonly known as PV, is renowned for his exceptional minimalist tattoo designs that beautifully capture the essence of simplicity and elegance. His studio, situated in Paranapanema SP, upholds the highest standard of cleanliness, ensuring a sterile and immaculate environment for every client. PV's dedication to maintaining a pristine workspace is matched only by his artistic talent, making him a sought-after artist in the region.\nPrice: $\nCurrent location:"
+}

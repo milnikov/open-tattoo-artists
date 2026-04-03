@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "rad.tattoos",
+  "name": "Rad Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "minimalist",
+    "black&gray",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rad.tattoos",
+    "instagram": "https://www.instagram.com/rad.tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rad.tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rad.tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rad.tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rad.tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Rad Tattoos is an impressively skilled tattoo artist known for their distinct, flawless styles in floral, minimalist, black & gray, and cover-up tattoos. With an impressive round-up of 300K followers on Instagram, they showcase a wide array of high-quality designs they have inked over the years. Reliability and precision make Rad Tattoos a true professional in the tattoo industry.\nPrice: $$$\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "rafa.tatto",
+  "name": "Rafa Santos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "lettering",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rafa.tatto",
+    "instagram": "https://www.instagram.com/rafa.tatto/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafa.tatto/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafa.tatto/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafa.tatto/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rafa.tatto/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-01",
+  "bio": "Rafa Santos is a highly skilled tattoo artist, with a particular expertise in fineline, lettering, and floral designs. His meticulous attention to detail is evident in every stroke, resulting in extraordinary and intricate tattoos. His professionalism extends beyond his art, also offering courses for budding tattoo artists, exemplifying his dedication to his craft.\nPrice: $$\nCurrent location:"
+}

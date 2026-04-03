@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "rizza_boo",
+  "name": "Rizza Boo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rizza_boo",
+    "instagram": "https://www.instagram.com/rizza_boo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rizza_boo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rizza_boo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rizza_boo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rizza_boo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-03",
+  "bio": "Rizza Boo is a highly skilled tattoo artist specializing in illustrative styles, based in Glasgow. The immaculate precision and unique flair in her artistry are vividly apparent in her work at Shadow Work Tattoos and Shades Tattoo Initiative. Maintaining optimum hygiene and cleanliness, she delivers each tattoo with professional finesse that meets her clients' high expectation.\nPrice: $$\nCurrent location:"
+}

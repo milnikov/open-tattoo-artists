@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "reddragontattoo",
+  "name": "Red Dragon Tattoo Parlour",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/reddragontattoo",
+    "instagram": "https://www.instagram.com/reddragontattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reddragontattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reddragontattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reddragontattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reddragontattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-02",
+  "bio": "Welcome to Red Dragon Tattoo Parlour, an avant-garde studio nestled in the heart of Toronto that champions artistic expression and inclusivity. Our all-female team of artists specializes in unique illustrative designs, using exclusively vegan inks to create your perfect body art in a queer-friendly environment. Step into a realm where creativity thrives, and your individuality is celebrated with every meticulous and vibrant piece crafted.\nPrice: $\nCurrent location:"
+}
