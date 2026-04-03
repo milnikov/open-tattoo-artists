@@ -44,6 +44,8 @@ From **repo root** on the server.
 
 **`NEXT_PUBLIC_IMAGES_BASE_URL`** must match **`r2.public_url`** in `packages/scraper/config.yaml` (e.g. `apps/web/.env.local` and production host env).
 
+**Migrating existing JSON** from an old `https://pub-….r2.dev` host to a custom domain (e.g. `https://img.thetattoo.world`): from repo root run `python scripts/migrate_r2_image_host.py --dry-run`, then without `--dry-run`, then `python scripts/build_indexes.py`, commit `data/artists/*.json` and `data/indexes/*`, redeploy the web app.
+
 **Anti-scrape (images + APIs):** [CLOUDFLARE_ANTI_SCRAPE.md](./CLOUDFLARE_ANTI_SCRAPE.md) (image host + optional app zone), [MONITORING_ANTI_SCRAPE.md](./MONITORING_ANTI_SCRAPE.md) (tuning and alerts).
 
 **Deploy Next.js**
