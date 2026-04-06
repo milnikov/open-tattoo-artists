@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "scottmustapic",
+  "name": "Scott Mustapic",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/scottmustapic",
+    "instagram": "https://www.instagram.com/scottmustapic/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scottmustapic/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scottmustapic/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scottmustapic/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scottmustapic/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Scott Mustapic is a highly skilled tattoo artist who specializes in the nuanced black and gray style, delivering stunningly detailed works of art that gracefully adorn the skin. As the co-owner of Easy Tiger Tattoo, Scott ensures the highest standards of cleanliness in his studio, creating a safe and hygienic environment for every client's tattooing experience. His commitment to maintaining a clean workspace not only showcases his professionalism but also provides peace of mind to those who choose his expertise for their body art.\nPrice: $\nCurrent location:"
+}
