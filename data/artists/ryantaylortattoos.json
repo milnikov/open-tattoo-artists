@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ryantaylortattoos",
+  "name": "Ryan Taylor",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ryantaylortattoos",
+    "instagram": "https://www.instagram.com/ryantaylortattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ryantaylortattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ryantaylortattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ryantaylortattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ryantaylortattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Ryan Taylor is a prolific tattoo artist known for his exceptional skill in 'black&gray, realism' styles. His remarkable precision and creativity can be observed in his works which range from intricate, sophisticated designs in his base in Houston, California, Hawaii, and Las Vegas. For appointments or to see more of his impressive portfolio, you can contact him at 8323509208 or find more of his work at Gold Rush Collective Tattoos.\nPrice: $$\nCurrent location:"
+}

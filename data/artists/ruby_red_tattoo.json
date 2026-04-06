@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "ruby_red_tattoo",
+  "name": "Blumi",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ruby_red_tattoo",
+    "instagram": "https://www.instagram.com/ruby_red_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ruby_red_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ruby_red_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ruby_red_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ruby_red_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Blumi is renowned for their expertise in crafting exquisite floral and tribal tattoos, each piece a testament to their high skill level. Their portfolio showcases a range of beautifully executed designs, with fine details and vibrant colors that bring each tattoo to life. Clients praise Blumi for their ability to translate personal visions into stunning works of body art, making them a highly sought-after artist in the field.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "rose.ink.tattoo",
+  "name": "Rose Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rose.ink.tattoo",
+    "instagram": "https://www.instagram.com/rose.ink.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rose.ink.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rose.ink.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rose.ink.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rose.ink.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Welcome to Rose Ink Tattoo, the sanctuary of black & gray tattoo art nestled in the heart of Rickenbach. Our studio thrives on the philosophy of personalized creativity, ensuring every piece we craft is a testament to our dedication to detail. Reach out to us at 0049 15221530731 to schedule your appointment – a transformative experience awaits within our walls, where ink and skin meld in perfect harmony.\nPrice: $\nCurrent location:"
+}

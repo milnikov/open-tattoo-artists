@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "sacredartofsatattoos",
+  "name": "CELEBRITY INK SA TATTOO STUDIO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "lettering",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sacredartofsatattoos",
+    "instagram": "https://www.instagram.com/sacredartofsatattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sacredartofsatattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sacredartofsatattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sacredartofsatattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sacredartofsatattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Discover your next masterpiece at CELEBRITY INK SA TATTOO STUDIO, where the art of ink transcends expectations. Specializing in the striking contrasts of black & gray, the bold compositions of trashpolka, the personal touch of custom lettering, and transformative cover-ups, our studio is a haven for those who value individual expression in a welcoming and professional environment. Join the ranks of the inked elite and let your skin tell your story.\nPrice: $\nCurrent location:"
+}

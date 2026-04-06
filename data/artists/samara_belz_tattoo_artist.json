@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "samara_belz_tattoo_artist",
+  "name": "Samara Belz",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/samara_belz_tattoo_artist",
+    "instagram": "https://www.instagram.com/samara_belz_tattoo_artist/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/samara_belz_tattoo_artist/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/samara_belz_tattoo_artist/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/samara_belz_tattoo_artist/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/samara_belz_tattoo_artist/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Samara Belz is a highly skilled tattoo artist specialized in black & gray, realism, and trash polka styles. Operating out of THE GALLERY TATTOO STUDIO in Bendigo, Australia, Samara is renowned for her precise and stunning greywash realistic tattoos. Her professionalism is reflected not only in the intricate and lifelike artwork she creates but also in the immaculate standards she maintains in her studio.\nPrice: $\nCurrent location:"
+}

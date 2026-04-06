@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "royalink_ka",
+  "name": "Alex",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "illustrative",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/royalink_ka",
+    "instagram": "https://www.instagram.com/royalink_ka/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/royalink_ka/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/royalink_ka/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/royalink_ka/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/royalink_ka/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Alex is a highly skilled tattoo artist specializing in black & gray, illustrative styles, and expert coverups, ensuring that each client's vision is brought to life with precision and artistry. Their studio, located at Hauptstraße 32 in 76287 Rheinstetten, maintains an impeccable standard of cleanliness, creating a safe and welcoming environment for all their clients. Alex's dedication to professionalism is evident in every aspect of their work, from the initial design to the final ink.\nPrice: $\nCurrent location:"
+}

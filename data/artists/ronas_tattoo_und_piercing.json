@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ronas_tattoo_und_piercing",
+  "name": "Ronas Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "lettering",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ronas_tattoo_und_piercing",
+    "instagram": "https://www.instagram.com/ronas_tattoo_und_piercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ronas_tattoo_und_piercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ronas_tattoo_und_piercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ronas_tattoo_und_piercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ronas_tattoo_und_piercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Ronas Tattoo, situated at A-2130 Mistelbach Bahnstraße 13 in the heart of Austria, is a premier tattoo studio renowned for its mastery in illustrative, lettering, and minimalist styles. With a chic, contemporary vibe and a commitment to artistic excellence, our studio at Ronas offers a unique body art experience, ensuring every client leaves with a personal masterpiece. Call us at 06767336611 to book your transformative ink journey with the trendsetters at Inked MIBA."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "sandybeachez_ink",
+  "name": "Sandy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sandybeachez_ink",
+    "instagram": "https://www.instagram.com/sandybeachez_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sandybeachez_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sandybeachez_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sandybeachez_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sandybeachez_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Sandy, a highly skilled Sydney-based tattoo artist specializing in intricate dotwork, has garnered a reputation for their impeccable attention to detail and precision. As a resident artist at Ink Culture, with license number 104380, Sandy provides a professional service, ensuring that every client leaves with a piece of art that truly embodies their personal style and vision. Their expertise in dotwork ensures each tattoo is a masterful display of patience and technique, solidifying Sandy's status as an adept artist in the field.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rogersaits",
+  "name": "Roger Saits",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rogersaits",
+    "instagram": "https://www.instagram.com/rogersaits/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rogersaits/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rogersaits/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rogersaits/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rogersaits/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Roger Saits is a highly skilled tattoo artist who specializes in the vibrant and dynamic 'newschool' style. With a solid track record since 2009, he maintains a profound sense of professionalism in all aspects of his work, ensuring that every client's experience is as seamless and outstanding as his artistic creations. His private studio in Morlaix, France, reflects his commitment to excellence and the fine arts, doubling as a testament to his expertise.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2009"
+}

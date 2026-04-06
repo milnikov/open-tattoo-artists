@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "sarahjanetattoo",
+  "name": "Sarah Morton",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sarahjanetattoo",
+    "instagram": "https://www.instagram.com/sarahjanetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarahjanetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarahjanetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarahjanetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarahjanetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Sarah Morton is a highly skilled tattoo artist who specializes in exquisite black and gray designs. Her attention to detail and mastery of shading techniques brings each piece to life with remarkable depth and realism. Clients visiting Queen Street Tattoo in Hull will find Sarah's professionalism reflected in both her exceptional artwork and the immaculate care she invests in her work environment.\nPrice: $\nCurrent location:"
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "san_luca_tattoo_lounge",
+  "name": "San Luca Tattoo Lounge",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/san_luca_tattoo_lounge",
+    "instagram": "https://www.instagram.com/san_luca_tattoo_lounge/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/san_luca_tattoo_lounge/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/san_luca_tattoo_lounge/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/san_luca_tattoo_lounge/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/san_luca_tattoo_lounge/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Immerse yourself in the solemn elegance of San Luca Tattoo Lounge, where the refined art of black and gray tattoos finds its home in the heart of Huntingdon, Cambridgeshire. Expert artists, such as the renowned @kyle._tattoos and @amylouise.tattoo, elevate your ink experience, complemented by the meticulous services of @blood.red.lady.piercings and the laser precision of @distinktattoos_kevinferns. Here, tradition meets modernity, ensuring every session within our walls transcends expectations and leaves a lasting impression.\nPrice: $\nCurrent location:"
+}

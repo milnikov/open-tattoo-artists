@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "saschas.tattoo.island",
+  "name": "Saschas Tattoo Island",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/saschas.tattoo.island",
+    "instagram": "https://www.instagram.com/saschas.tattoo.island/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/saschas.tattoo.island/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/saschas.tattoo.island/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/saschas.tattoo.island/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/saschas.tattoo.island/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Step into the rich heritage and bold artistry of Sascha's Tattoo Island, a sanctuary where tribal tattoo traditions have been brought to life since 1993. Nestled in the heart of Unterhaching, Germany, this studio is renowned for its professional mastery and dedication to the enduring craft of tribal tattoos, creating timeless body art in a welcoming and vibrant atmosphere.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1993"
+}

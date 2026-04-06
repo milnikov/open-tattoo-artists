@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "sam_ricketts_soos",
+  "name": "Sam Ricketts",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sam_ricketts_soos",
+    "instagram": "https://www.instagram.com/sam_ricketts_soos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sam_ricketts_soos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sam_ricketts_soos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sam_ricketts_soos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sam_ricketts_soos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-05",
+  "bio": "Sam Ricketts Tattoo Studio, a renowned UK-based sanctuary for traditional and neotraditional ink art, attracts a hefty following of over 70k tattoo aficionados on Instagram. The studio boasts of a serene environment, with artists that meticulously blend age-old tattoo traditions with modern aesthetics. Reach out through a direct message for appointments and experience the magic of timeless body art at its finest.\nPrice: $$$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rustycaketattoos",
+  "name": "Reen Rebecca",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rustycaketattoos",
+    "instagram": "https://www.instagram.com/rustycaketattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rustycaketattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rustycaketattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rustycaketattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rustycaketattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Reen Rebecca is a highly proficient tattoo artist, known for her expertise in geometric and fineline designs that illustrate her attention to detail and artistic finesse. Operating from a private studio in Kota Kinabalu, Reen maintains a strict appointment-only schedule, ensuring that each client receives a personalized and focused tattooing experience. Her professional approach is complemented by an immaculate work environment, prioritizing hygiene and cleanliness to guarantee the well-being and satisfaction of her clientele.\nPrice: $\nCurrent location:"
+}

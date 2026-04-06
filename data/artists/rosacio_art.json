@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "rosacio_art",
+  "name": "Pablo Ros",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/rosacio_art",
+    "instagram": "https://www.instagram.com/rosacio_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosacio_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosacio_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosacio_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rosacio_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-04",
+  "bio": "Pablo Ros is a highly skilled tattoo artist based in Madrid, Spain, who specializes in sketch and dotwork styles. With a remarkable professional approach, his astonishing tattoo designs have earned him approximately 90,000 followers on Instagram. Known for his cleanliness, Ros is well-experienced in creating intricate designs without compromising on hygiene. He is amiable and courteous as he carefully listens to his clients before bringing their tattoo ideas to life.\nPrice: $$$\nCurrent location:"
+}
