@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "shanepasktattoos",
+  "name": "Shane Pask",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "trashpolka",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/shanepasktattoos",
+    "instagram": "https://www.instagram.com/shanepasktattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shanepasktattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shanepasktattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shanepasktattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shanepasktattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Shane Pask is an exceptionally skilled tattoo artist specializing in realism, black and gray, trash polka, and coverups. Clients appreciate the high standard of cleanliness that Shane maintains at Cairns City Tattoo, ensuring a safe and hygienic environment for every session. With a meticulous eye for detail, Shane's artwork stands out for its precision and aesthetic quality.\nPrice: $\nCurrent location:"
+}

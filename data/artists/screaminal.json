@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "screaminal",
+  "name": "Yannick",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/screaminal",
+    "instagram": "https://www.instagram.com/screaminal/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/screaminal/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/screaminal/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/screaminal/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/screaminal/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Yannick is a highly skilled tattoo artist, specializing in illustrative and dotwork styles. His proficiency extends from his regular stint at Loyalty Tattoo in Barcelona to guest spots, validating not only his talent but his adaptability in various work environments. Sponsored by Starbrite Colors, Yannick consistently delivers compelling and intricate designs, proving his dominance in this craft.\nPrice: $$\nCurrent location:"
+}

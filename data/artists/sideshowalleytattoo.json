@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "sideshowalleytattoo",
+  "name": "Cassady Bell",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sideshowalleytattoo",
+    "instagram": "https://www.instagram.com/sideshowalleytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sideshowalleytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sideshowalleytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sideshowalleytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sideshowalleytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Cassady Bell is an expert tattoo artist dedicated to the illustrative style at Portland's premiere tattoo shop. His skill level in conveying detailed, imaginative designs is unparalleled, boasting of a finesse that showcases not only his artistic talent but his commitment to his craft. He is reputed for his professionalism and the cleanliness of his work, all while established under the creative umbrella of PDX.\nPrice: $$\nCurrent location:"
+}

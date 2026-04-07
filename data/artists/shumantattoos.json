@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "shumantattoos",
+  "name": "Brandon Shuman",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/shumantattoos",
+    "instagram": "https://www.instagram.com/shumantattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shumantattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shumantattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shumantattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shumantattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Brandon Shuman is a highly skilled tattoo artist specializing in newschool, black & gray, and realism styles. Operating from a private studio at 666 Government Rd W in Chaput Hughes, Ontario, Brandon ensures a professional environment where clients can expect to receive exceptional work by appointment only. His attentiveness to detail and skillful execution is evident in every piece he creates.\nPrice: $\nCurrent location:"
+}

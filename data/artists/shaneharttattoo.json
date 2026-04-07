@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "shaneharttattoo",
+  "name": "Shane Hart",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/shaneharttattoo",
+    "instagram": "https://www.instagram.com/shaneharttattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shaneharttattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shaneharttattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shaneharttattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shaneharttattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Shane Hart is a highly skilled tattoo artist specializing in realism, with an impressively steady hand that breathes life into every design. Working out of their custom tattooing studio in the Kansas City area, Shane has been perfecting the craft since 1989, ensuring each piece is executed with meticulous detail and artistic prowess. Clients seeking a tattoo that borders on the edge of reality will find Shane's work to be nothing short of extraordinary.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1989"
+}

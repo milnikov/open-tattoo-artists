@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "sergitattoo",
+  "name": "Sergi Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "geometric",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sergitattoo",
+    "instagram": "https://www.instagram.com/sergitattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sergitattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sergitattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sergitattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sergitattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Sergi Tattoo is renowned for their impeccable attention to cleanliness, ensuring both your safety and comfort throughout the tattooing process. Specializing in minimalist, geometric, and black & gray designs, Sergi's Barcelona-based studio is the epitome of hygienic practice, which is a cornerstone of their professional reputation. Clients leave not only with artful expressions inked onto their skin but also with the peace of mind that comes from a spotlessly clean environment.\nPrice: $\nCurrent location:"
+}

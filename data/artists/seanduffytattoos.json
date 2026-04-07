@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "seanduffytattoos",
+  "name": "Sean Duffy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/seanduffytattoos",
+    "instagram": "https://www.instagram.com/seanduffytattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/seanduffytattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/seanduffytattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/seanduffytattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/seanduffytattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Sean Duffy is an exceptionally talented tattoo artist specializing in 'newschool' and 'realism' styles, demonstrating an impressive skill level that brings unique creativity to each design. Based in Dublin, Pennsylvania, he is part of the Helios pro team and uses high-quality Eternal ink for his stunning creations.\nPrice: $$\nCurrent location:"
+}

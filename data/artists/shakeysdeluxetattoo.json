@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "shakeysdeluxetattoo",
+  "name": "Shakey",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "trashpolka"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/shakeysdeluxetattoo",
+    "instagram": "https://www.instagram.com/shakeysdeluxetattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shakeysdeluxetattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shakeysdeluxetattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shakeysdeluxetattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shakeysdeluxetattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-06",
+  "bio": "Shakey is an exceptional tattoo artist renowned for their mastery in dotwork and trashpolka styles, effortlessly blending intricate patterns and bold, contrasting elements. Alongside their artistic talent, Shakey is highly appreciated for maintaining an unwavering standard of cleanliness, ensuring a safe and sterile environment for all their clients. Their studio is a paragon of hygiene, leaving patrons impressed and reassured by the meticulous care Shakey invests in every aspect of their craft.\nPrice: $\nCurrent location:"
+}
