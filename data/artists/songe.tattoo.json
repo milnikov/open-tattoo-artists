@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "songe.tattoo",
+  "name": "Songeun",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/songe.tattoo",
+    "instagram": "https://www.instagram.com/songe.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/songe.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/songe.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/songe.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/songe.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Songeun is an extraordinarily skilled tattoo artist, specializing in illustrative and watercolor styles. Her mastery of these art forms has earned her a massive following of over 200,000 on Instagram. With a focus on unique tattoos at a fair price, Songeun's creativity and craftsmanship are incredibly appreciated by her enthusiasts.\nPrice: $$$\nCurrent location:"
+}

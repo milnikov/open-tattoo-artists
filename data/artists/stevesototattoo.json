@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "stevesototattoo",
+  "name": "Steve Soto",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/stevesototattoo",
+    "instagram": "https://www.instagram.com/stevesototattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevesototattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevesototattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevesototattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevesototattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Steve Soto is a highly skilled tattoo artist specializing in black and gray realism styles, demonstrating his genuine connection to this art form through his stunning designs. He operates out of Goodfellas Tattoo Art & Design in Orange, CA, where he channels his expertise into delivering exceptional tattoo experiences to a massive following of over 200,000 individuals on Instagram. His portfolio showcases his firmly grounded skills in creating beautifully intricate realistic tattoos, earning him global recognition in the tattoo community.\nPrice: $$$\nCurrent location:"
+}

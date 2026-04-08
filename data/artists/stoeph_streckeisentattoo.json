@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "stoeph_streckeisentattoo",
+  "name": "Stoeph Streckeisen",
+  "location": {
+    "city": "Malters",
+    "country": "Switzerland"
+  },
+  "styles": [
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/stoeph_streckeisentattoo",
+    "instagram": "https://www.instagram.com/stoeph_streckeisentattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stoeph_streckeisentattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stoeph_streckeisentattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stoeph_streckeisentattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stoeph_streckeisentattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Stoeph Streckeisen, based in Malters, Lucerne, Switzerland, is a maestro in tribal tattoo stiles. With an artistic career dating back to 2005, Stoeph specializes in Polynesian and Celtic-inspired ink at the renowned Streckeisen & Feller Tattoo Studio. Known for their unwavering professionalism, they ensure each client leaves with a meticulously crafted piece of art and a truly outstanding tattoo experience.\nPrice: $\nCurrent location: Malters, Lucerne, Switzerland"
+}

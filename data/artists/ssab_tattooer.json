@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "ssab_tattooer",
+  "name": "SSAB",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ssab_tattooer",
+    "instagram": "https://www.instagram.com/ssab_tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ssab_tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ssab_tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ssab_tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ssab_tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "SSAB is an exceptional tattoo artist specializing in various styles of 'black & gray' designs. Known for his intricate Japanese and mini tattoos presented on Instagram under different handles, his skill level is particularly captivating and notable. Through his daily posts, SSAB reveals his dedication and creative prowess that distinguish him in the realm of tattoo artistry.\nPrice: $$\nCurrent location:"
+}

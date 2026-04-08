@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "stevemtattoos",
+  "name": "Steve M Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "trashpolka",
+    "minimalist",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/stevemtattoos",
+    "instagram": "https://www.instagram.com/stevemtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevemtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevemtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevemtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/stevemtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Steve M Tattoos is a masterful artist specializing in the striking styles of black & gray, trash polka, minimalist, and cover-up tattoos. Operating out of Psychocity Tattoos in Kamloops, BC, Steve demonstrates exceptional professionalism, from the initial design consultation to the final inking process. Clients can expect a seamless experience when booking through DM or email, supported by the high-quality equipment from his sponsor, Eldiablo Needles.\nPrice: $\nCurrent location:"
+}

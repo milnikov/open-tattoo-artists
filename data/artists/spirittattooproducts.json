@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "spirittattooproducts",
+  "name": "Alex Spirit",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/spirittattooproducts",
+    "instagram": "https://www.instagram.com/spirittattooproducts/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spirittattooproducts/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spirittattooproducts/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spirittattooproducts/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spirittattooproducts/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Alex Spirit is an exceptional tattoo artist who specializes in 'black & gray and floral' styles. Their motto, 'Behind Every Great Tattoo™', truly resonates in their superior level of craftsmanship, demonstrating high proficiency and mastery in the art of tattooing.\nPrice: $$\nCurrent location:"
+}

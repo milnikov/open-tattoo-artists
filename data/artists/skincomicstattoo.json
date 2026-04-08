@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "skincomicstattoo",
+  "name": "Skin Comics Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/skincomicstattoo",
+    "instagram": "https://www.instagram.com/skincomicstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skincomicstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skincomicstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skincomicstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skincomicstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Immerse yourself in the artistry of Skin Comics Tattoo, a haven where illustrative mastery and intricate dotwork come to life on skin. Nestled in the vibrant heart of Schiltigheim at 8 rue d'Adelshoffen, our studio offers a unique blend of personal expression and meticulous detail. Open Tuesday to Friday from 10 am to 7 pm, and Saturdays until 2 pm, we invite you to transform your visions into enduring ink.\nPrice: $\nCurrent location:"
+}

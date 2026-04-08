@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "steelquilltattoo",
+  "name": "Tony Ta2",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/steelquilltattoo",
+    "instagram": "https://www.instagram.com/steelquilltattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/steelquilltattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/steelquilltattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/steelquilltattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/steelquilltattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Tony Ta2 is a master of the illustrative tattoo style, known for their intricate designs and exceptional attention to detail. Their client's comfort and satisfaction are Tony's top priorities, ensuring a professional experience from consultation to the final masterpiece. Maintaining a high standard of cleanliness, Tony's studio is a testament to their commitment to excellence in the art of tattooing.\nPrice: $\nCurrent location:"
+}

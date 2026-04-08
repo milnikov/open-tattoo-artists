@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "strelkovtattoo",
+  "name": "Strelkov Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/strelkovtattoo",
+    "instagram": "https://www.instagram.com/strelkovtattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/strelkovtattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/strelkovtattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/strelkovtattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/strelkovtattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Strelkov Tattoo is an immensely talented tattoo artist known for their exquisite floral and geometric style tattoos. They have been perfecting their craft since 2009, linguistically crafting beautiful black and white tattoos with precision and care. With a strong Instagram presence of over 65,000 followers, their artistry shines through each post, capturing the essence of their skill level remarkably.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2009"
+}

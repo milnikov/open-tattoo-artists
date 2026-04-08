@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "sonnybrowntattoo",
+  "name": "Sonny Brown",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "dotwork",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sonnybrowntattoo",
+    "instagram": "https://www.instagram.com/sonnybrowntattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sonnybrowntattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sonnybrowntattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sonnybrowntattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sonnybrowntattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Sonny Brown is a highly talented tattoo artist with a solid mastery in several tattooing styles including traditional, dotwork, and geometric designs. Working from New Leaf Tattoo in Norwich, his classic tattooing techniques have had clients filling up his booking schedule. His work speaks for his skill level, making him a go-to for those seeking his unique style.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "sirdrizzle",
+  "name": "SirDrizzle",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sirdrizzle",
+    "instagram": "https://www.instagram.com/sirdrizzle/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sirdrizzle/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sirdrizzle/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sirdrizzle/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sirdrizzle/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "SirDrizzle is an extremely skilled tattoo artist who specializes in traditional, neotraditional, and illustrative styles. Not only is he highly talented in crafting stunning designs, but he also shows exemplary professionalism in every piece of art he creates. SirDrizzle operates from Hybrid Tattoo VA, where he continues to impress clients with his impeccable work.\nPrice: $$\nCurrent location:"
+}

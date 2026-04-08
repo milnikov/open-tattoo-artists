@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "skin_tattoos",
+  "name": "Skin Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/skin_tattoos",
+    "instagram": "https://www.instagram.com/skin_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skin_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skin_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skin_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skin_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Skin Tattoos is an esteemed tattoo artist, specializing in geometric and black&gray styles. Renowned for exceptional skill level, they are known to deliver impressive tattoo artistry. They curate and post some of the best tattoo works from top-level ink artists on Instagram, reinforcing their mastery in the field.\nPrice: $$\nCurrent location:"
+}

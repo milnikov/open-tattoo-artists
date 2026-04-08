@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "spencerwatsontattoos",
+  "name": "Spencer Watson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/spencerwatsontattoos",
+    "instagram": "https://www.instagram.com/spencerwatsontattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spencerwatsontattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spencerwatsontattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spencerwatsontattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spencerwatsontattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Spencer Watson is a highly skilled tattoo artist specializing in newschool and neotraditional styles, ensuring each piece is as unique as the individual wearing it. With a studio based in Grand Rapids, MI, Spencer has earned a reputation for maintaining an impeccably clean and sterile environment, reflecting their deep commitment to the safety and satisfaction of every client. If you're in search of truly standout body art, Spencer's Honest to Goodness Tattoo is the destination to ink your vision to life.\nPrice: $\nCurrent location:"
+}

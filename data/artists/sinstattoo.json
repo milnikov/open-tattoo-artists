@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "sinstattoo",
+  "name": "Eun-sen Sin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sinstattoo",
+    "instagram": "https://www.instagram.com/sinstattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sinstattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sinstattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sinstattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sinstattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Eun-sen Sin is a tattoo artist renowned for their impeccable finesse in geometric, floral, and fine line styles. They maintain an utmost standard of cleanliness, ensuring a sterile environment that puts clients at ease while their skin becomes a canvas for intricate artistry. Eun-sen's dedication to a spotless workspace is matched only by the precision and beauty of the tattoos they create.\nPrice: $\nCurrent location:"
+}

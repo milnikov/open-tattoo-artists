@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "staydead.tattoo",
+  "name": "Denni Edwards",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "sketch",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/staydead.tattoo",
+    "instagram": "https://www.instagram.com/staydead.tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/staydead.tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/staydead.tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/staydead.tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/staydead.tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Denni Edwards is a masterful tattoo artist specializing in fineline, sketch, and dotwork styles, with a particular expertise in blackwork and illustrative tattoos. Clients are encouraged to book appointments exclusively through email, emphasizing Denni's professionalism in handling all tattoo inquiries and scheduling. Potential customers can expect a seamless experience with attention to detail from the initial email communication to the final ink.\nPrice: $\nCurrent location:"
+}

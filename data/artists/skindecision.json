@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "skindecision",
+  "name": "Lee Bigsby",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "dotwork",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/skindecision",
+    "instagram": "https://www.instagram.com/skindecision/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skindecision/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skindecision/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skindecision/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skindecision/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-07",
+  "bio": "Welcome to Lee Bigsby's Skindecision Tattoo, an artistic haven nestled in the heart of East Ham, London. Specialising in exquisite black & grey, intricate dotwork, and delicate fineline tattoos, our studio offers a serene environment where creativity blossoms. Join us at E6 2JX or call 02085522454 to embark on a journey of self-expression through masterful ink craftsmanship.\nPrice: $\nCurrent location:"
+}

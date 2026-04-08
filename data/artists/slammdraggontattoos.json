@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "slammdraggontattoos",
+  "name": "Slamm Draggon Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/slammdraggontattoos",
+    "instagram": "https://www.instagram.com/slammdraggontattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/slammdraggontattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/slammdraggontattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/slammdraggontattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/slammdraggontattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Experience the artistry of Slamm Draggon Tattoos, where the shades of black and gray are transformed into a vivid tableau on skin. Nestled at 1107 N Kings Street in Hampton, our studio is a creative haven for ink enthusiasts, helmed by the talented @sketchgoldenchild and @skinnyj80, offering both bespoke tattoos and expert body piercings. Step into a world where your visions are inked with precision and flair.\nPrice: $\nCurrent location:"
+}
