@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tats_and_snacks",
+  "name": "Tony and Amanda Maxwell",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tats_and_snacks",
+    "instagram": "https://www.instagram.com/tats_and_snacks/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tats_and_snacks/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tats_and_snacks/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tats_and_snacks/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tats_and_snacks/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Tony and Amanda Maxwell are renowned for their exceptional skill in creating vibrant watercolor, delicate floral, and intricate illustrative tattoos that truly stand out. At Dark Age Tattoo Studio, this talented duo is known for their remarkable ability to bring artwork to life on skin, capturing the essence of their chosen styles with precision and artistry. Both new and repeat clients continuously seek out Tony and Amanda for their unparalleled expertise in tattooing.\nPrice: $\nCurrent location:"
+}

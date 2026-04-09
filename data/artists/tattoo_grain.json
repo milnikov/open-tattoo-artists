@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattoo_grain",
+  "name": "Yoonmi Grain",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo_grain",
+    "instagram": "https://www.instagram.com/tattoo_grain/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_grain/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_grain/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_grain/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_grain/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Yoonmi Grain, based in Seoul, Korea, is a highly skilled tattoo artist specializing in floral, fineline, and dotwork styles. Growing her reputation on Instagram, she has captivated an audience of over 50,000 followers with her intricate designs and stunning precision. Her exceptional work and attention to detail truly set her apart in the tattoo industry. Reach out to her via email or DM for a unique tattoo experience.\nPrice: $$\nCurrent location:"
+}

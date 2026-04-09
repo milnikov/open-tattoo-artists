@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattoo.koji",
+  "name": "Koji",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "illustrative",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo.koji",
+    "instagram": "https://www.instagram.com/tattoo.koji/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.koji/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.koji/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.koji/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.koji/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Koji is a highly skilled tattoo artist whose expertise lies in creating stunning pieces in floral, illustrative, and black & gray styles. This award-winning Japanese artist, now based in Los Angeles, merges fine line precision with realism and traditional hand poke techniques to bring unique and intricate designs to life. His professionalism and dedication to the craft are evident in every tattoo he creates, making him a sought-after artist for anyone looking to adorn their body with truly distinctive art.\nPrice: $\nCurrent location:"
+}

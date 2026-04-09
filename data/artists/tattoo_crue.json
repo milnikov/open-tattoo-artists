@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattoo_crue",
+  "name": "Mitch Bradley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo_crue",
+    "instagram": "https://www.instagram.com/tattoo_crue/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_crue/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_crue/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_crue/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_crue/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Mitch Bradley stands out as a master of tattooing, specializing in the intricate realms of black & gray, geometric, and dotwork styles. As the dedicated owner and tattoo artist at Tattoo Crüe in Paignton, Devon, UK, his work exhibits an impeccable standard of cleanliness, ensuring every client enjoys a safe and hygienic experience. Mitch's commitment to maintaining a pristine studio is matched only by the stunning detail and precision of his tattoo artistry.\nPrice: $\nCurrent location:"
+}

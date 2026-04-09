@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "tattoosandbenny",
+  "name": "Benny",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoosandbenny",
+    "instagram": "https://www.instagram.com/tattoosandbenny/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosandbenny/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosandbenny/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosandbenny/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosandbenny/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Benny, a highly skilled tattoo artist specializing in the intricate and evocative black and gray style, is a key member of the talented team at Beloved Studios. His professionalism is evident in every piece he creates, ensuring each client receives a work of art that is both stunning and expertly crafted. Customers consistently praise Benny for his attention to detail and the superb quality of his work.\nPrice: $\nCurrent location:"
+}

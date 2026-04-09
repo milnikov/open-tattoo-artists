@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "tattoo.tussi",
+  "name": "Sandra",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "illustrative",
+    "lettering",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo.tussi",
+    "instagram": "https://www.instagram.com/tattoo.tussi/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.tussi/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.tussi/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.tussi/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.tussi/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Sandra is a highly skilled tattoo artist who specializes in floral, illustrative, lettering, and coverup designs. She operates out of her studio in Stockstadt am Main and also offers mobile services for added convenience. You can expect a professional and dedicated experience when getting inked by Sandra, as evidenced by her loyal clientele and impressive portfolio.\nPrice: $\nCurrent location:"
+}

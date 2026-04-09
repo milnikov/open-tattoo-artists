@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tatto_hove",
+  "name": "Tatto Hove",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tatto_hove",
+    "instagram": "https://www.instagram.com/tatto_hove/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatto_hove/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatto_hove/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatto_hove/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatto_hove/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Tatto Hove is a Danish tattoo artist known for specializing in the striking black and gray tattoo style, with an established career in the industry since 2012. Clients frequently commend Tatto for their extraordinary professionalism, ensuring that every session at Family Ink Denmark is not only artistically exceptional but also managed with the highest standards of service and conduct.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2012"
+}

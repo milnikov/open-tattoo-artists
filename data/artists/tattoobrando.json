@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattoobrando",
+  "name": "Brandon Williford",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "newschool",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoobrando",
+    "instagram": "https://www.instagram.com/tattoobrando/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoobrando/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoobrando/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoobrando/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoobrando/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Brandon Williford is a masterful tattoo artist renowned for his expertise in black & gray, newschool, and realism styles. He maintains a stellar reputation for professionalism that shines through in every aspect of his work, from initial design consultations to the final ink application. Clients commend his attention to detail and the meticulous care he takes to ensure that every tattoo is not just a piece of art, but a treasured experience.\nPrice: $\nCurrent location:"
+}

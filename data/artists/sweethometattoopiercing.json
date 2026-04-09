@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "sweethometattoopiercing",
+  "name": "Sweet Home",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/sweethometattoopiercing",
+    "instagram": "https://www.instagram.com/sweethometattoopiercing/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sweethometattoopiercing/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sweethometattoopiercing/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sweethometattoopiercing/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sweethometattoopiercing/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Welcome to Sweet Home Tattoo & Piercing, a cozy and creative haven nestled in the heart of Rosario, Santa Fe, Argentina. Our studio specializes in vibrant watercolor and detailed illustrative tattoos, each one crafted with care to bring your unique visions to life. Find us at San Martin 843, Galeria del Sol, Local 15, where artistic passion meets a friendly atmosphere, Monday through Saturday from 11 am to 8 pm.\nPrice: $\nCurrent location:"
+}

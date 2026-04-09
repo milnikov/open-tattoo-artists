@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoo_art__",
+  "name": "Anne",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo_art__",
+    "instagram": "https://www.instagram.com/tattoo_art__/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_art__/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_art__/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_art__/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_art__/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Renowned for her impeccable geometric and illustrative creations, Anne is a highly skilled tattoo artist based in Kyiv, Ukraine. Her artistic proficiency is evident in each piece she designs, ensuring every client leaves with a tattoo that is both unique and technically impressive. Patrons particularly praise Anne for her professionalism, which shines through her thorough approach to her craft and her commitment to maintaining a pristine working environment.\nPrice: $\nCurrent location:"
+}

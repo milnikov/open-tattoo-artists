@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattoo_roy_",
+  "name": "Roy Slagers",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "lettering",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo_roy_",
+    "instagram": "https://www.instagram.com/tattoo_roy_/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_roy_/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_roy_/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_roy_/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_roy_/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Roy Slagers is a highly skilled tattoo artist specializing in floral designs, lettering, and black & gray imagery. His exceptional technique and attention to detail ensure that every piece is a unique work of art. Roy's dedication to cleanliness in his practice not only enhances the comfort of his clients but also upholds the highest standards of hygiene in the industry.\nPrice: $\nCurrent location:"
+}

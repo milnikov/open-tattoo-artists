@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattooloveart",
+  "name": "Daniel Maccoy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattooloveart",
+    "instagram": "https://www.instagram.com/tattooloveart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooloveart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooloveart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooloveart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooloveart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Daniel Maccoy is an incredibly skilled tattoo artist, specializing in the realism and black & gray styles. Boasting nearly 250,000 followers on Instagram, his work is admired and sought after by many. Maccoy showcases his mesmerizing artistry on multiple platforms, including @a_drop_of_black, @russiantattooart, and @neotradtattoogallery.\nPrice: $$$\nCurrent location:"
+}

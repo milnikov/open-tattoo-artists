@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoo_deano",
+  "name": "Dean Read",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo_deano",
+    "instagram": "https://www.instagram.com/tattoo_deano/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_deano/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_deano/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_deano/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo_deano/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Dean Read is widely respected for his exceptional skill in black and gray realism tattoos, ensuring each piece is crafted with meticulous detail and artistry. As the proud owner of Off the Rails Tattoo Studio, Dean maintains an impeccable standard of cleanliness, providing clients with a safe, hygienic environment for their tattoo experience. Every visit to his studio promises not only a stunning piece of body art but also the peace of mind that comes with professional service.\nPrice: $\nCurrent location:"
+}

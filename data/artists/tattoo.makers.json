@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "tattoo.makers",
+  "name": "Tattoo Makers",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoo.makers",
+    "instagram": "https://www.instagram.com/tattoo.makers/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.makers/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.makers/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.makers/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.makers/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-08",
+  "bio": "Immerse yourself in the artistic ambiance of Tattoo Makers, an avant-garde studio specializing in illustrative ink mastery. Celebrated for its diverse team of artists, each with their own unique flair, Tattoo Makers welcomes connoisseurs and newcomers alike from Tuesday to Saturday, 12:00 to 19:00, to embark on a journey of self-expression through exquisite body art.\nPrice: $\nCurrent location:"
+}

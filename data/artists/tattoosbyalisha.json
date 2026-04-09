@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoosbyalisha",
+  "name": "Alisha",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoosbyalisha",
+    "instagram": "https://www.instagram.com/tattoosbyalisha/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbyalisha/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbyalisha/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbyalisha/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbyalisha/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Alisha is a distinguished tattoo artist with profound expertise in neotraditional and newschool styles. At Materia Tattoo located in Downingtown PA, she is celebrated for her remarkable skill, adeptly transforming client ideas and visions into inked masterpieces of art. A professional to the core, Alisha insists on maintaining open communication with her clients through her email, avoiding discussions about her craft through direct messages.\nPrice: $$\nCurrent location:"
+}

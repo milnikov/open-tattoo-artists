@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tattooer_intat",
+  "name": "Intat93",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral",
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattooer_intat",
+    "instagram": "https://www.instagram.com/tattooer_intat/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooer_intat/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooer_intat/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooer_intat/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooer_intat/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Intat93 is a highly skilled tattoo artist based out of Seoul, South Korea, specializing in fineline, floral, and sketch styles. With an impressive following of around 220,000 on Instagram, their intricate and delicate designs are widely lauded. Whether it's a nuanced sketch piece or a vibrant floral design, Intat93's craftsmanship is unerring and incomparable.\nPrice: $$$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoohallam",
+  "name": "Christopher Hallam",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoohallam",
+    "instagram": "https://www.instagram.com/tattoohallam/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoohallam/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoohallam/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoohallam/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoohallam/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Christopher Hallam is a highly skilled tattoo artist specializing in traditional and dotwork styles. His work is renowned for its precision and attention to detail, making him a sought-after artist in the tattoo community. Operating from a fully private studio, Christopher maintains the utmost professionalism, ensuring a comfortable and undisturbed experience for each client.\nPrice: $\nCurrent location:"
+}
