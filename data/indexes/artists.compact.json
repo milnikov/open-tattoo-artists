@@ -579634,6 +579634,36 @@
     "instagram_enriched": true
   },
   {
+    "id": "timbecktattoos",
+    "name": "Tim Beck",
+    "location": {
+      "city": "Peoria",
+      "country": "United States"
+    },
+    "styles": [
+      "illustrative",
+      "black&gray",
+      "floral"
+    ],
+    "links": {
+      "instagram": "https://www.instagram.com/timbecktattoos/"
+    },
+    "tattoo_count": 50,
+    "thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/001.webp",
+    "thumbs": [
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/001.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/002.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/003.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/004.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/005.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/006.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/007.webp",
+      "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/timbecktattoos/thumb/008.webp"
+    ],
+    "updated_at": "2026-04-10",
+    "source_domain": "tattooswizard.com"
+  },
+  {
     "id": "timbeijsens",
     "name": "Tim Beijsens",
     "location": {
