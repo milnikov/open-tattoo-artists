@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "thesummittattoo",
+  "name": "The Summit Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "geometric"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thesummittattoo",
+    "instagram": "https://www.instagram.com/thesummittattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesummittattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesummittattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesummittattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesummittattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Welcome to The Summit Tattoo Studio, where artistry meets precision in a serene and modern atmosphere. Specializing in intricate floral patterns and precise geometric designs, our artists transform skin into a canvas of natural symmetry and beauty. Step into our haven of creativity, and emerge with a tattoo that's as unique and elegant as you are.\nPrice: $\nCurrent location:"
+}

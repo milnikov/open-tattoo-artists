@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "thesolidink",
+  "name": "Solid Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional",
+    "japanese",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thesolidink",
+    "instagram": "https://www.instagram.com/thesolidink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesolidink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesolidink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesolidink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesolidink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Solid Ink is a highly talented tattoo artist known for their unique styles in traditional, neotraditional, and Japanese tattooing. Their exceptional work comprises of premium vegan tattoo pigments, crafted with love and professionalism. As a testament to their skill and dedication, Solid Ink boasts a strong following of over 83,000 enthusiasts on Instagram, showing their wide-reaching influence and popularity in the tattooing community.\nPrice: $$$\nCurrent location:"
+}

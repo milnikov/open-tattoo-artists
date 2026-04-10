@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "theinkedlife",
+  "name": "The Inked Life",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/theinkedlife",
+    "instagram": "https://www.instagram.com/theinkedlife/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theinkedlife/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theinkedlife/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theinkedlife/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theinkedlife/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "The Inked Life is a remarkably talented tattoo artist renowned for their unique black and gray realism style. With a huge digital presence of about 120,000 followers on Instagram, they've successfully built a reputation for supporting artists worldwide. Their work is highly detailed and realistic, demonstrating an exceptional level of skill and mastery in tattoo artistry.\nPrice: $$$\nCurrent location:"
+}

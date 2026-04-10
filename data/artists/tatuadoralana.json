@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tatuadoralana",
+  "name": "Alana Aguiar",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tatuadoralana",
+    "instagram": "https://www.instagram.com/tatuadoralana/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuadoralana/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuadoralana/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuadoralana/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuadoralana/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "\"Alana Aguiar Tattoo Studio, nestled within the charming Vila Santa Cecília, Volta Redonda, is your abode of private and personalized tattoo artistry focusing on realism and striking black & grey styles. Experience ink in a homely, intimate studio setting, where every detail is fine-tuned to your preference, summarized in highlights, and crafted with poise and precision. Comfortable, private, and professional - that's our promise. Inquiries and appointments available via WhatsApp.\"\nPrice: $$\nCurrent location:"
+}

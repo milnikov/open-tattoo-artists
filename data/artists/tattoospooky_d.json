@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoospooky_d",
+  "name": "David Reveles",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoospooky_d",
+    "instagram": "https://www.instagram.com/tattoospooky_d/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoospooky_d/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoospooky_d/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoospooky_d/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoospooky_d/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "David Reveles is a highly skilled tattoo artist based in California, specializing in black & gray and realism styles. His exceptional attention to detail and proficiency makes him a trusted artist for both fervent tattoo enthusiasts and first-timers alike. With creativity etched into each work, he ensures an unforgettable tattooing experience at his clean, sanitary workspace.\nPrice: $$\nCurrent location:"
+}

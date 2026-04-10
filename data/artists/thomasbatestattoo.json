@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "thomasbatestattoo",
+  "name": "Thomas Bates",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thomasbatestattoo",
+    "instagram": "https://www.instagram.com/thomasbatestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomasbatestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomasbatestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomasbatestattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomasbatestattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Thomas Bates is an internationally recognized tattoo artist with a stellar Instagram following of approximately 275k fans worldwide. Known for his signature 'sketch and fineline' styles, his skills are highly sought after and his work is invariably captivating. Whether he's operating out of his native Norwich, UK, or traveling to LA, Texas, or NYC, Bates upholds impeccable standards of cleanliness in his Cavalry Tattoo Studio.\nPrice: $$$\nCurrent location:"
+}

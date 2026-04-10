@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "therisingbastards",
+  "name": "The Rising Bastards",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/therisingbastards",
+    "instagram": "https://www.instagram.com/therisingbastards/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/therisingbastards/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/therisingbastards/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/therisingbastards/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/therisingbastards/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "The Rising Bastards Tattoo Studio specializes in the mesmerizing black and gray tattoo style, creating pieces that are both intricate and timeless. Offering a professional and welcoming environment, all inquiries about pricing and scheduling are handled courteously through direct phone communication. A separate division is dedicated to expert piercing services, further expanding their creative portfolio."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "thomaskenneytattoo",
+  "name": "Thomas Kenney",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thomaskenneytattoo",
+    "instagram": "https://www.instagram.com/thomaskenneytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomaskenneytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomaskenneytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomaskenneytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomaskenneytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Thomas Kenney is a highly skilled tattoo artist, specializing in traditional and illustrative styles. You can find him bringing art to life at The Pittsburgh Tattoo Co., where his attention to detail and precision in his craft have earned him a reputable standing in the tattoo community. For bookings and inquiries, reach out to Thomas at thomaskenneytattoo@gmail.com.\nPrice: $$\nCurrent location:"
+}

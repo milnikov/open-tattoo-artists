@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "the.hanged",
+  "name": "The Hanged",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/the.hanged",
+    "instagram": "https://www.instagram.com/the.hanged/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.hanged/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.hanged/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.hanged/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.hanged/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "The Hanged, a Melbourne-based tattoo artist, specializes in intricately detailed floral and fineline styles. With a unique aesthetic coupled with exceptional precision, their skill level is profoundly remarkable. This artist is highly professional and flaunts an impressive portfolio on their engraving page @alessandrojako, reflecting their dedication and reverence to the tattooing craft.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "the_inkmasters",
+  "name": "Inkmasters",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/the_inkmasters",
+    "instagram": "https://www.instagram.com/the_inkmasters/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the_inkmasters/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the_inkmasters/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the_inkmasters/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the_inkmasters/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Inkmasters is a highly skilled tattoo artist, known for specializing in the distinct styles of realism and newschool. Their impressive portfolio has attracted a fan base of approximately 185,000 followers on Instagram alone, a testament to their distinctive artistry and technique. Attuned to current trends and the needs of their followers, Inkmasters maintains a dynamic platform where they showcase their most recent and best artwork.\nPrice: $$$\nCurrent location:"
+}

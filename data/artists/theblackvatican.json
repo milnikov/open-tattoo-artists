@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "theblackvatican",
+  "name": "Justin",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/theblackvatican",
+    "instagram": "https://www.instagram.com/theblackvatican/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theblackvatican/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theblackvatican/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theblackvatican/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theblackvatican/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Justin, a proficient tattoo artist specializing in dotwork and illustrative styles, embodies professionalism. His friendly approach along with his readiness to answer any questions through DM sets him apart. Furthermore, he maintains a clean work environment, ensuring client safety and comfort.\nPrice: $$\nCurrent location:"
+}

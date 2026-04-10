@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "thesilverkeytattoo",
+  "name": "The Silver Key",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thesilverkeytattoo",
+    "instagram": "https://www.instagram.com/thesilverkeytattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesilverkeytattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesilverkeytattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesilverkeytattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thesilverkeytattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "The Silver Key is an illustrative tattoo artist known for their impeccable attention to detail and vivid imagery that comes to life on the skin. They adhere to the highest standards of cleanliness, ensuring that every client's experience is not only visually stunning but also hygienic and safe. Their dedication to maintaining a sterile workspace is matched only by their artistic prowess, making them a go-to for enthusiasts seeking both safety and skill.\nPrice: $\nCurrent location:"
+}

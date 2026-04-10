@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "threelinestattoo",
+  "name": "Three Lines Tattoo Deusto",
+  "location": {
+    "city": "Bilbao",
+    "country": "Spain"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://tattooswizard.com/artists/threelinestattoo",
+    "instagram": "https://www.instagram.com/threelinestattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/threelinestattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/threelinestattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Discover the inking mastery of Three Lines Tattoo Deusto, nestled in the heart of Bilbao, Spain. A creative sanctuary where artists like Valentino Mozzo and La Loca de los Gatos craft exceptional body art, ranging from the avant-garde to time-honored traditions. Step into this haven of self-expression and let the collective talent behind the names such as Tinta de Rana and Cactus Tattoo bring your skin to life with vibrant, storytelling tattoos.\nPrice: $\nCurrent location: Bilbao, Basque Country, Spain"
+}

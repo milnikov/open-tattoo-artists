@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "thisissamowar",
+  "name": "Sam Owari",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "traditional",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thisissamowar",
+    "instagram": "https://www.instagram.com/thisissamowar/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thisissamowar/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thisissamowar/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thisissamowar/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thisissamowar/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Sam Owari is a highly skilled tattoo artist known for their proficiency in illustrative, traditional, and dotwork styles. Specializing in both flash and custom tattoos, Sam ensures each piece is a work of art, tailoring designs to the individual desires of their clients. With a keen eye for detail, they keep their work environment meticulously clean, reflecting their overall commitment to professionalism in their craft.\nPrice: $\nCurrent location:"
+}

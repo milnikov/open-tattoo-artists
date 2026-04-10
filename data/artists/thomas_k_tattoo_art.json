@@ -1,0 +1,49 @@
+{
+  "schema_version": 2,
+  "id": "thomas_k_tattoo_art",
+  "name": "Thomas K",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "black&gray",
+    "realism",
+    "sponsor:",
+    "dermalizepro"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/thomas_k_tattoo_art",
+    "instagram": "https://www.instagram.com/thomas_k_tattoo_art/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomas_k_tattoo_art/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomas_k_tattoo_art/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomas_k_tattoo_art/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/thomas_k_tattoo_art/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Thomas K is an exceptional tattoo artist specializing in trashpolka, black&gray, and realism styles. As the owner of @thomas_k_tattoo_galerie_ and a guest artist at @heavenofcolours and @ralfnonnweilerta2, his professionalism and dedication to his craft are evident in every project he undertakes.\nPrice: $$\nCurrent location:"
+}

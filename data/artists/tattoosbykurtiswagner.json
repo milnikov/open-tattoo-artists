@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattoosbykurtiswagner",
+  "name": "Kurtis Wagner",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "lettering",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoosbykurtiswagner",
+    "instagram": "https://www.instagram.com/tattoosbykurtiswagner/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbykurtiswagner/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbykurtiswagner/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbykurtiswagner/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbykurtiswagner/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-09",
+  "bio": "Kurtis Wagner is a highly skilled tattoo artist known for their exceptional talent in lettering and vegan style tattoos. They operate from a private tattoo shop, ensuring a personalized and focused experience by seeing clients strictly by appointment only. Kurtis maintains an impeccable standard of cleanliness throughout their workspace, providing a safe and hygienic environment for every session.\nPrice: $\nCurrent location:"
+}

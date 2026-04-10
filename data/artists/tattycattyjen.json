@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tattycattyjen",
+  "name": "Tatty Catty Jen",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "illustrative",
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattycattyjen",
+    "instagram": "https://www.instagram.com/tattycattyjen/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattycattyjen/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattycattyjen/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattycattyjen/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattycattyjen/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Tatty Catty Jen is a highly talented tattoo artist, known for her impressive illustrative and fineline styles. Despite her casual persona, evident from her playful self-description as a 'tattooing cat', she demonstrates remarkable skill in her artistry. Her work is intricate and detailed, showcasing her superb mastery of ink, earning her the admiration of anyone that appreciates fine tattooing craftsmanship.\nPrice: $$\nCurrent location:"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tibitattooart",
+  "name": "Szalai Tibor \"Tibi\"",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tibitattooart",
+    "instagram": "https://www.instagram.com/tibitattooart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tibitattooart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tibitattooart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tibitattooart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tibitattooart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Szalai Tibor \"Tibi\" is a renowned tattoo artist specializing in 'realism and black&gray' styles, who currently operates out of Munich, Germany. With a significant fan following of around 80K on Instagram, Tibi's proficiency and mastery in his work are unquestionably evident. His membership in the pro team of Kwadron-Bishoprotary-H2Ocean-Intenzetattooink further underscores his high level of expertise in the tattooing field.\nPrice: $$$\nCurrent location:"
+}

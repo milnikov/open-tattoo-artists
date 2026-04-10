@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "tatuajesangel",
+  "name": "Angel Villaverde",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "watercolor",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tatuajesangel",
+    "instagram": "https://www.instagram.com/tatuajesangel/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuajesangel/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuajesangel/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuajesangel/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatuajesangel/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Welcome to Angel Villaverde Tattoo Studio, the pioneering sanctuary of ink artistry nestled in the heart of Bilbao since 1992. Stepping inside, you'll encounter a world where minimalist elegance, vibrant watercolor hues, and expressive lettering tattoos are crafted with precision and passion. At Angel Villaverde, timeless tradition meets contemporary creativity, offering a unique personal statement etched on skin.\nPrice: $\nCurrent location:",
+  "tattooing_since": "1992"
+}

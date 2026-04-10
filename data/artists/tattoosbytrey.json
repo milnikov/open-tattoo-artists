@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "tattoosbytrey",
+  "name": "Trey Johnson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tattoosbytrey",
+    "instagram": "https://www.instagram.com/tattoosbytrey/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbytrey/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbytrey/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbytrey/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoosbytrey/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-10",
+  "bio": "Trey Johnson is a seasoned tattoo artist who has been perfecting the craft of traditional, illustrative, and floral tattoos since 2010. He co-owns the revered HAND OVER HEART TATTOO studio, where his professionalism and dedication to the art of tattooing shine through in every piece he creates. Clients at the studio often commend Trey for the immaculate cleanliness maintained throughout their tattooing experience, ensuring both safety and comfort.\nPrice: $\nCurrent location:",
+  "tattooing_since": "2010"
+}
