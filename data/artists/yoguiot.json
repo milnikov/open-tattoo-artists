@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "yoguiot",
+  "name": "Yo Guiot",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "geometric",
+    "illustrative",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/yoguiot",
+    "instagram": "https://www.instagram.com/yoguiot/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yoguiot/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yoguiot/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yoguiot/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yoguiot/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-13",
+  "bio": "Yo Guiot is a remarkably adept tattoo artist specializing in fineline, geometric, and illustrative designs, utilizing exclusively vegan inks. Working out of the esteemed Quadrilatera Tattoo Shop, their professionalism is evident in both their meticulous attention to detail and the immaculate cleanliness they maintain in their workspace. Clients can expect to find Yo crafting masterful body art from Monday to Saturday, between 10 a.m. and 7 p.m.\nPrice: $\nCurrent location:"
+}

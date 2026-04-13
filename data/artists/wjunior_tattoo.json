@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "wjunior_tattoo",
+  "name": "William Junior",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/wjunior_tattoo",
+    "instagram": "https://www.instagram.com/wjunior_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wjunior_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wjunior_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wjunior_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wjunior_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "William Junior is an accomplished tattoo artist renowned for his expertise in tribal and illustrative styles, particularly black work, neo-Polynesian patterns, and geometric designs. With a career that began in 2005, William has honed his craft in both Orlando, FL, and Goiânia, GO, showcasing a high level of professionalism that compliments his artistic skill. Clients consistently praise his intricate designs and precise execution, making him a respected name in the tattoo community.\nPrice: $\nCurrent location:"
+}

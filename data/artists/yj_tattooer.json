@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "yj_tattooer",
+  "name": "The name is YJ",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "floral",
+    "geometric",
+    "coverup"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/yj_tattooer",
+    "instagram": "https://www.instagram.com/yj_tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yj_tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yj_tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yj_tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yj_tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "YJ is a highly skilled tattoo artist, specializing in black & gray, floral, geometric styles, and intricate cover-ups. They are well-known for their exceptional professionalism, which is evident in both their stunning tattoo designs and the meticulous care they take throughout the tattooing process. Based in Seoul, Korea, YJ's work is a testament to their dedication to the craft, making them a sought-after artist in the realm of ink.\nPrice: $\nCurrent location:"
+}

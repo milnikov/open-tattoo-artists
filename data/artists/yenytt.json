@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "yenytt",
+  "name": "Yenytt Sánchez",
+  "location": {
+    "city": "Monterrey",
+    "country": "Mexico"
+  },
+  "styles": [
+    "illustrative",
+    "fineline",
+    "minimalist"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/yenytt",
+    "instagram": "https://www.instagram.com/yenytt/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yenytt/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yenytt/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yenytt/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yenytt/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Yenytt Sánchez is a highly skilled tattoo artist based in Monterrey, Mexico, specializing in illustrative, fineline, and minimalist designs. Yenytt's attention to detail and precise technique shine through in every unique piece they create, ensuring clients leave with a work of art that perfectly captures their vision.\nPrice: $\nCurrent location: Monterrey, Nuevo Leon, Mexico"
+}

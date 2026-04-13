@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "zakitattoo",
+  "name": "Zaki",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/zakitattoo",
+    "instagram": "https://www.instagram.com/zakitattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zakitattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zakitattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zakitattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zakitattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Zaki is a highly-skilled tattoo artist who specializes in the aesthetically rich 'black&gray' style. As a co-owner and principal artist at Old Number 5 Tattoo Parlour in Stockholm, Sweden, he is recognized widely not only for his artistic talents but also his unparalleled sense of professionalism. With the Amsterdam Tattoo Convention under his belt, Zaki is indeed a symbol of precision and excellence in the world of tattoo artistry.\nPrice: $$\nCurrent location:"
+}

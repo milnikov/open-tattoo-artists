@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "wittybutton_tattoo",
+  "name": "위티버튼",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "minimalist",
+    "lettering"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/wittybutton_tattoo",
+    "instagram": "https://www.instagram.com/wittybutton_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wittybutton_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wittybutton_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wittybutton_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wittybutton_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "With a loyal following of over 300k on Instagram, 위티버튼 is a standout tattoo artist specializing in minimalist and lettering styles. Operating from Hongdae, Seoul, they maintain a high level of cleanliness in their studio and only take bookings via Kakao Talk. Their skill levels are unmatched, aptly evident in their well-crafted and detailed tattoos.\nPrice: $$$\nCurrent location:"
+}

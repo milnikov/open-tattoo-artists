@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "zellkern",
+  "name": "Zell Kern",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/zellkern",
+    "instagram": "https://www.instagram.com/zellkern/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zellkern/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zellkern/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zellkern/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zellkern/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Zell Kern is a professional tattoo artist with a strong proficiency in geometric and tribal styles. His work radiates a unique blend of aesthetics, showcasing his significant artistic prowess. Known for his focus on cleanliness, he also maintains a high standard of hygiene in his workspace, ensuring a safe and comfortable environment for all his clients.\nPrice: $$\nCurrent location:"
+}

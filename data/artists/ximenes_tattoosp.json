@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "ximenes_tattoosp",
+  "name": "Carlos Ximenes",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "japanese",
+    "neotraditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/ximenes_tattoosp",
+    "instagram": "https://www.instagram.com/ximenes_tattoosp/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ximenes_tattoosp/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ximenes_tattoosp/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ximenes_tattoosp/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ximenes_tattoosp/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-13",
+  "bio": "Carlos Ximenes is an exceptionally skilled tattoo artist specializing in Japanese and neotraditional styles, with an impressive career spanning over a decade since 2006. Combining traditional flair with contemporary techniques, his impeccable body art reflects deep mastery and creative ingenuity, earning him significant acclaim in the industry.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2006"
+}

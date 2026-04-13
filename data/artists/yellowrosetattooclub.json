@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "yellowrosetattooclub",
+  "name": "Yellow Rose Tattoo Club",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "neotraditional",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/yellowrosetattooclub",
+    "instagram": "https://www.instagram.com/yellowrosetattooclub/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yellowrosetattooclub/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yellowrosetattooclub/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yellowrosetattooclub/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yellowrosetattooclub/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Yellow Rose Tattoo Club, nestled in the heart of Kernersville, NC since 2010, specializes in vibrant traditional, neotraditional, and newschool tattoos. This creative haven, where artists like @johnbrehmtattoo, @mikeblastattoo, @erranzart_x, and @oldjermybastard wield their inks, offers a welcoming atmosphere for both ink veterans and newcomers alike. Step into their studio to experience a blend of classic artistry and modern flair that's set to leave a lasting impression.\nPrice: $$\nCurrent location:",
+  "tattooing_since": "2010"
+}

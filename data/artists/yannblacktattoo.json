@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "yannblacktattoo",
+  "name": "Yann Black",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "trashpolka",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/yannblacktattoo",
+    "instagram": "https://www.instagram.com/yannblacktattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yannblacktattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yannblacktattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yannblacktattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yannblacktattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Yann Black is a highly skilled tattoo artist known for his striking 'trashpolka' and vegan-themed designs. Based in Montreal, he emphasizes his vegan lifestyle throughout his work and establishment, yet expects all correspondences within professionalism confines, directing all appointments and inquiries exclusively through email.\nPrice: $$\nCurrent location:"
+}

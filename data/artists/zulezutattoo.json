@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "zulezutattoo",
+  "name": "Zule Zu",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "watercolor",
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/zulezutattoo",
+    "instagram": "https://www.instagram.com/zulezutattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zulezutattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zulezutattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zulezutattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zulezutattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-13",
+  "bio": "Zule Zu is a highly skilled tattoo artist renowned for their mastery in watercolor, black & gray, and realism styles. Situated in Kovačica, they bring your skin to life with breathtaking artwork from the Cup of Ink Crew studio. Zule's dedication to their craft is evident in each meticulously detailed and vibrant tattoo they create.\nPrice: $\nCurrent location:"
+}

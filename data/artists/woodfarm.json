@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "woodfarm",
+  "name": "Woodfarm",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "tribal",
+    "geometric",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/woodfarm",
+    "instagram": "https://www.instagram.com/woodfarm/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/woodfarm/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/woodfarm/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/woodfarm/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/woodfarm/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-12",
+  "bio": "Woodfarm is a highly sought-after tattoo studio, known for mastering the art of tribal, geometric, and floral designs. Exuding a warm, rustic ambiance, the studio is entirely booked for 2022, demonstrating their artists' exceptional talents and immense popularity.\nPrice: $$\nCurrent location:"
+}
