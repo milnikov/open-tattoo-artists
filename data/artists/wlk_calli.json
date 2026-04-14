@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "wlk_calli",
-  "name": "Wlk Calli",
+  "name": "Calligraphy Wizard",
   "location": {
     "city": "Katowice",
     "country": "Poland"
@@ -328,5 +328,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-12"
+  "updated_at": "2026-04-13",
+  "bio": "Katowice \nBOOKINGS OPEN\n𝔅𝔬𝔬𝔨𝔦𝔫𝔤𝔰 : hello@wlk.studio",
+  "instagram_enriched": {
+    "id": "368458007",
+    "follower_count": 75934,
+    "following_count": 2707,
+    "media_count": 2319,
+    "following": [],
+    "instagram_full_name": "Calligraphy Wizard",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wlk_calli/instagram/profile.jpg"
+  }
 }

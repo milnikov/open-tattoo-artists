@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sira_kuroneko",
-  "name": "Sira Kuroneko",
+  "name": "Anthrax Tattoo",
   "location": {
     "city": "Alsdorf",
     "country": "Germany"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-07"
+  "updated_at": "2026-04-13",
+  "bio": "🔥Realistic, Comic, Darkart, Fineline, Watercolor, Trash Polka, etc.🔥\nGermany Alsdorf/Aachen 🇩🇪\nBooking: \n📲 015112531203\n📧 info@anthrax-tattoo.de",
+  "instagram_enriched": {
+    "id": "3731241923",
+    "follower_count": 1508,
+    "following_count": 544,
+    "media_count": 826,
+    "following": [],
+    "instagram_full_name": "Anthrax Tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sira_kuroneko/instagram/profile.jpg"
+  }
 }

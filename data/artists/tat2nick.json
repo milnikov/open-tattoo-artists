@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tat2nick",
-  "name": "Tat2nick",
+  "name": "Tat2Nick",
   "location": {
     "city": "Columbia",
     "country": "United States"
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-09"
+  "updated_at": "2026-04-13",
+  "bio": "Owner @folkloretattoostudio | Custom Tattoos | Realism & Traditional | Booking Now | Inquires Link In Bio ⬇️| Deposits Nonrefundable |",
+  "instagram_enriched": {
+    "id": "612326188",
+    "follower_count": 4942,
+    "following_count": 3047,
+    "media_count": 476,
+    "following": [],
+    "instagram_full_name": "Tat2Nick",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tat2nick/instagram/profile.jpg"
+  }
 }

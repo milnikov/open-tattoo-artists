@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "skyeinkmiami",
-  "name": "Skye Ink Tattoo Studio",
+  "name": "Skye Ink Tattoo",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -9,7 +9,8 @@
   "styles": [
     "fineline",
     "minimalist",
-    "lettering"
+    "lettering",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/skyeinkmiami",
@@ -618,6 +619,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08",
-  "bio": "Step into Skye Ink Tattoo Studio, Miami's eco-conscious gem, where artistry meets sustainability. Specializing in fineline, minimalist, and elegant lettering with a commitment to vegan practices, this boutique haven has rightfully earned its title as the BEST tattoo shop in Miami. Book now and embrace the beauty of ink with a gentle touch on the planet. 🌱✨\nPrice: $$\nCurrent location: Miami, Florida, United States"
+  "updated_at": "2026-04-13",
+  "bio": "Step into Skye Ink Tattoo Studio, Miami's eco-conscious gem, where artistry meets sustainability. Specializing in fineline, minimalist, and elegant lettering with a commitment to vegan practices, this boutique haven has rightfully earned its title as the BEST tattoo shop in Miami. Book now and embrace the beauty of ink with a gentle touch on the planet. 🌱✨\nPrice: $$\nCurrent location: Miami, Florida, United States\n\nConcierge Tattoos\nPrivate • In-home • Events\nPersonal. Elevated. Intentional.\n📩 DM us",
+  "instagram_enriched": {
+    "id": "8983732699",
+    "follower_count": 13385,
+    "following_count": 29,
+    "media_count": 676,
+    "following": [],
+    "instagram_full_name": "Skye Ink Tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skyeinkmiami/instagram/profile.jpg"
+  }
 }

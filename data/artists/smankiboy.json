@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "smankiboy",
-  "name": "Smankiboy",
+  "name": "smankiboy",
   "location": {
     "city": "Essen",
     "country": "Germany"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "Terminanfragen per Mail  art@smankiboy.de",
+  "instagram_enriched": {
+    "id": "1782821502",
+    "follower_count": 3692,
+    "following_count": 516,
+    "media_count": 395,
+    "following": [],
+    "instagram_full_name": "smankiboy",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/smankiboy/instagram/profile.jpg"
+  }
 }

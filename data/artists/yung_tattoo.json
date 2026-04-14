@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yung_tattoo",
-  "name": "Yung Tattoo",
+  "name": "JiZhidiao Yung tattoo",
   "location": {
     "city": "Kaohsiung City",
     "country": "Taiwan"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-13"
+  "updated_at": "2026-04-13",
+  "bio": "極之彫刺靑 台灣🇹🇼（Taiwan)高雄市苓雅區正大路36號 手機：0935406520. Line:hn85340760. e-mail:hn85340760@gmail.com #yungtattoo #taiwantattoo #jizhidiao #極之彫刺青 #高雄 #劉逸永",
+  "instagram_enriched": {
+    "id": "182206356",
+    "follower_count": 24038,
+    "following_count": 2712,
+    "media_count": 1180,
+    "following": [],
+    "instagram_full_name": "JiZhidiao Yung tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yung_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "yosmar_urrutia",
-  "name": "Yosmar Urrutia",
+  "name": "Yosmar Urrutia - illustrative Tattoo artist",
   "location": {
     "city": "Madrid",
     "country": "Spain"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-13"
+  "updated_at": "2026-04-13",
+  "bio": "Madrid📍\nEcuador-23/30 april @tattoonationec\nColombia-8/9/10 may @expotatuajemedellin \nBERLÍN-25/30 may @der_grimm_tattoo\nBOOKING ↓",
+  "instagram_enriched": {
+    "id": "1509101609",
+    "follower_count": 62392,
+    "following_count": 1395,
+    "media_count": 388,
+    "following": [],
+    "instagram_full_name": "Yosmar Urrutia - illustrative Tattoo artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yosmar_urrutia/instagram/profile.jpg"
+  }
 }

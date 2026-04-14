@@ -7,7 +7,8 @@
     "country": "United Kingdom"
   },
   "styles": [
-    "traditional"
+    "traditional",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/skullduggery_tatu",
@@ -616,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "@helenskullduggery \n@darren_mccrellis \n@beersonthecornertattoo\n@tkd.tattoo \nCheck highlights below 🪷👇",
+  "instagram_enriched": {
+    "id": "312082992",
+    "follower_count": 8451,
+    "following_count": 678,
+    "media_count": 1437,
+    "following": [],
+    "instagram_full_name": "Skullduggery Tatu",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skullduggery_tatu/instagram/profile.jpg"
+  }
 }

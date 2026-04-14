@@ -7,7 +7,8 @@
     "country": "Spain"
   },
   "styles": [
-    "fineline"
+    "fineline",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/yumi.tiger",
@@ -616,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-13"
+  "updated_at": "2026-04-13",
+  "bio": "Tokyo ✥ Bookings Open ✥\n🐲 Tattoo artist & creator of The Haunted Tea House Cosmere 🫖 @the.haunted.tea.house\n🏮Booking info on the website ↓ 🏮",
+  "instagram_enriched": {
+    "id": "7508337285",
+    "follower_count": 18306,
+    "following_count": 809,
+    "media_count": 844,
+    "following": [],
+    "instagram_full_name": "Yumi 夕美",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yumi.tiger/instagram/profile.jpg"
+  }
 }

@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "id": "tattooist_lai",
-  "name": "Tattooist Lai",
+  "name": "LAILAI_FACTORY",
   "location": {
-    "city": "Unknown",
+    "city": "South Korea",
     "country": "South Korea"
   },
   "styles": [
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "⚡️⚡️⚡️\nOahu.Hawaii🌿🌈",
+  "instagram_enriched": {
+    "id": "422138355",
+    "follower_count": 1633,
+    "following_count": 1499,
+    "media_count": 637,
+    "following": [],
+    "instagram_full_name": "LAILAI_FACTORY",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooist_lai/instagram/profile.jpg"
+  }
 }

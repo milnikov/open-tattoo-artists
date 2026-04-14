@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "through_my_third_eye_tattoo",
-  "name": "Through My Third Eye Tattoo",
+  "name": "Through My Third Eye",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-10",
-  "bio": "Through My Third Eye Tattoo is a prominent London based tattoo studio esteemed for their meticulous fineline and dotwork styles. Staffed by a team of avant-garde artists - Mowgli, Emma Bundonis, Matt Pettis, and Mia Leo, the studio emphasizes individualized design meant to express one's personal narratives and inspirations, transforming them into an indelible piece of body art.\nPrice: $$\nCurrent location: London, England, United Kingdom"
+  "updated_at": "2026-04-13",
+  "bio": "Through My Third Eye Tattoo is a prominent London based tattoo studio esteemed for their meticulous fineline and dotwork styles. Staffed by a team of avant-garde artists - Mowgli, Emma Bundonis, Matt Pettis, and Mia Leo, the studio emphasizes individualized design meant to express one's personal narratives and inspirations, transforming them into an indelible piece of body art.\nPrice: $$\nCurrent location: London, England, United Kingdom\n\nArtists: \nMowgli | Emma Bundonis | Matt Pettis | Mia Leo | Mela\nBookings are through email only, please see our website for details",
+  "instagram_enriched": {
+    "id": "2073125108",
+    "follower_count": 26343,
+    "following_count": 675,
+    "media_count": 1675,
+    "following": [],
+    "instagram_full_name": "Through My Third Eye",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/through_my_third_eye_tattoo/instagram/profile.jpg"
+  }
 }

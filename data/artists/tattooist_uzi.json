@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattooist_uzi",
-  "name": "Tattooist Uzi",
+  "name": "타투이스트 유지",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "tattooist uzi\n-\nKakao talk: dbwl0222\nEng kakaotalk : sooyoung0285\n-\n@inkedwall_official \n서울 선유도\n-\nDM문의받지않습니다\n미성년자 작업하지 않습니다",
+  "instagram_enriched": {
+    "id": "2928865199",
+    "follower_count": 26873,
+    "following_count": 321,
+    "media_count": 1309,
+    "following": [],
+    "instagram_full_name": "타투이스트 유지",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooist_uzi/instagram/profile.jpg"
+  }
 }

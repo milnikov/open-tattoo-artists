@@ -3,8 +3,8 @@
   "id": "sulhong_tattooer",
   "name": "Sulhong",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "neotraditional",
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "June London\nTeam @redwaikiki 🇰🇷\nOrganizer @korea_tattoo_convention\nOrganization @ktaa_org \nSponsored by @intenzetattooink @intenzeasia  @eztattooing",
+  "instagram_enriched": {
+    "id": "270350418",
+    "follower_count": 100684,
+    "following_count": 1779,
+    "media_count": 1378,
+    "following": [],
+    "instagram_full_name": "술홍",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sulhong_tattooer/instagram/profile.jpg"
+  }
 }

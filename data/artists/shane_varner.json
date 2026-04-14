@@ -1,13 +1,14 @@
 {
   "schema_version": 2,
   "id": "shane_varner",
-  "name": "Shane Varner",
+  "name": "Tattoo Artist",
   "location": {
     "city": "Winston-salem",
     "country": "United States"
   },
   "styles": [
-    "floral"
+    "floral",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/shane_varner",
@@ -616,7 +617,16 @@
       }
     }
   ],
-  "updated_at": "2026-04-06",
-  "bio": "Shane Varner is a supremely skilled tattoo artist based in Winston-Salem, United States, specializing in unique floral and vegan styles. Crafting beautiful body art since 2014, he pours his expertise into every piece, earning him ownership at the reputable Dark Roots Tattoo Co. Shane's talent lies in creating strikingly intricate and ethically-conscientious tattoos, appealing to those who desire artistic designs imbued with compassion.\nPrice: $$\nCurrent location: Winston-salem, North Carolina, United States",
-  "tattooing_since": "2014"
+  "updated_at": "2026-04-13",
+  "bio": "Shane Varner is a supremely skilled tattoo artist based in Winston-Salem, United States, specializing in unique floral and vegan styles. Crafting beautiful body art since 2014, he pours his expertise into every piece, earning him ownership at the reputable Dark Roots Tattoo Co. Shane's talent lies in creating strikingly intricate and ethically-conscientious tattoos, appealing to those who desire artistic designs imbued with compassion.\nPrice: $$\nCurrent location: Winston-salem, North Carolina, United States\n\nTattooing since 2014\n🏳️‍⚧️ 🌱 Ⓥ 💀🖤\n@darkrootstattooco \nWinston-Salem,NC\nBooks open\n👇link below👇",
+  "tattooing_since": "2014",
+  "instagram_enriched": {
+    "id": "991912656",
+    "follower_count": 12222,
+    "following_count": 7111,
+    "media_count": 2066,
+    "following": [],
+    "instagram_full_name": "Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shane_varner/instagram/profile.jpg"
+  }
 }

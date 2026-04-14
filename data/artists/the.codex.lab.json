@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "the.codex.lab",
-  "name": "Codex Tattoo Artist",
+  "name": "The Codex Lab",
   "location": {
     "city": "Paris",
     "country": "France"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-10",
-  "bio": "Codex Tattoo Artist is an expert in geometric and dotwork styles, showcasing immaculate detail and precision in their work. While based in Paris, France, they travel throughout the year, applying their distinctive skills in various international locations. Their professionalism and commitment to artistry are evident, as their dedication extends beyond borders.\nPrice: $$\nCurrent location: Paris, Ile-de-france, France"
+  "updated_at": "2026-04-13",
+  "bio": "Codex Tattoo Artist is an expert in geometric and dotwork styles, showcasing immaculate detail and precision in their work. While based in Paris, France, they travel throughout the year, applying their distinctive skills in various international locations. Their professionalism and commitment to artistry are evident, as their dedication extends beyond borders.\nPrice: $$\nCurrent location: Paris, Ile-de-france, France\n\n10>14feb Toulouse🇫🇷\n16>21feb Lyon🇫🇷\n23>28feb Paris🇫🇷\nMarch> Barcelona🇪🇸\n19>20ap Pau convention🇫🇷\ncodex.tattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "3669840787",
+    "follower_count": 35245,
+    "following_count": 1803,
+    "media_count": 824,
+    "following": [],
+    "instagram_full_name": "The Codex Lab",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.codex.lab/instagram/profile.jpg"
+  }
 }

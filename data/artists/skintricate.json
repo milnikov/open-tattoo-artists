@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "skintricate",
-  "name": "Skintricate",
+  "name": "Skintricate Tattoo Company",
   "location": {
     "city": "Mississauga",
     "country": "Canada"
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "✨Serving Tattoo & Piercing Collectors in the GTA\n💖 BOGO 1/2 Off Piercings Every Sunday\n✏️ Tattoos of All Sizes + Styles\n👇 BOOK NOW + Walk-ins Welcome",
+  "instagram_enriched": {
+    "id": "146064425",
+    "follower_count": 17085,
+    "following_count": 1444,
+    "media_count": 2451,
+    "following": [],
+    "instagram_full_name": "Skintricate Tattoo Company",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/skintricate/instagram/profile.jpg"
+  }
 }

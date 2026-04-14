@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rukus_tattoo",
-  "name": "Rukus Tattoo",
+  "name": "RUKUS TATTOO",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,5 +41,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-04"
+  "updated_at": "2026-04-13",
+  "bio": "Oshkosh, Wisconsin @easystreettattoo ❄️\nTo book an appt please text:\n920-315-9788\nThank you!",
+  "instagram_enriched": {
+    "id": "7926205",
+    "follower_count": 18627,
+    "following_count": 1814,
+    "media_count": 1426,
+    "following": [],
+    "instagram_full_name": "RUKUS TATTOO",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rukus_tattoo/instagram/profile.jpg"
+  }
 }

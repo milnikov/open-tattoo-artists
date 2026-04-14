@@ -7,7 +7,9 @@
     "country": "Spain"
   },
   "styles": [
-    "black&gray"
+    "black&gray",
+    "sponsor:",
+    "killerinktattoo"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/samuelsancho",
@@ -616,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-05"
+  "updated_at": "2026-04-13",
+  "bio": "@wanted_tattoo_studio whasap:663391982 info@wantedtattoo.es @balm_tattoo_bcn\n@killerinktattoo @pureworks_company @nuclearwhiteink @dermx.tattoo",
+  "instagram_enriched": {
+    "id": "253251054",
+    "follower_count": 48432,
+    "following_count": 3533,
+    "media_count": 1874,
+    "following": [],
+    "instagram_full_name": "Samuel Sancho",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/samuelsancho/instagram/profile.jpg"
+  }
 }

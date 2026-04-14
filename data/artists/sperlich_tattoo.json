@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sperlich_tattoo",
-  "name": "Sperlich Tattoo",
+  "name": "Enrico Sperlich",
   "location": {
     "city": "Eilenburg",
     "country": "Germany"
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "Tattooartist & owner @sperlich_tattoo \nbased in Leipzig \nColorartist @sperlich_art \nAnfragen bitte ausschließlich an: \ninfo-sperlich-tattoo@web.de",
+  "instagram_enriched": {
+    "id": "1489620211",
+    "follower_count": 12001,
+    "following_count": 488,
+    "media_count": 348,
+    "following": [],
+    "instagram_full_name": "Enrico Sperlich",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sperlich_tattoo/instagram/profile.jpg"
+  }
 }

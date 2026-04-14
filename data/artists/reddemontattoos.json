@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "reddemontattoos",
-  "name": "RedDemonTattoos",
+  "name": "Red Demon",
   "location": {
     "city": "San Jose",
     "country": "United States"
@@ -616,6 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-02",
-  "bio": "RedDemonTattoos is a highly skilled tattoo artist based in San Jose, United States, specializing in intricate floral designs. Their original and detailed artwork reflects an impressive proficiency and is fully copyrighted, further attesting to their level of professionalism and dedication to their craft.\nPrice: $$\nCurrent location: San Jose, California, United States"
+  "updated_at": "2026-04-13",
+  "bio": "RedDemonTattoos is a highly skilled tattoo artist based in San Jose, United States, specializing in intricate floral designs. Their original and detailed artwork reflects an impressive proficiency and is fully copyrighted, further attesting to their level of professionalism and dedication to their craft.\nPrice: $$\nCurrent location: San Jose, California, United States\n\n3278 S. White Rd.\nSan Jose, CA 95148\nOriginal Artwork Copyright © by RedDemonTattoos \nAll rights reserved.",
+  "instagram_enriched": {
+    "id": "26250660",
+    "follower_count": 17492,
+    "following_count": 1924,
+    "media_count": 619,
+    "following": [],
+    "instagram_full_name": "Red Demon",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/reddemontattoos/instagram/profile.jpg"
+  }
 }

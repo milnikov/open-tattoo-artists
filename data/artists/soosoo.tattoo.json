@@ -3,8 +3,8 @@
   "id": "soosoo.tattoo",
   "name": "SooSoo",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "illustrative",
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-07"
+  "updated_at": "2026-04-13",
+  "bio": "Based in NYC\nApril - May booking open\n📩soosoo@vismstudio.com (No dm)",
+  "instagram_enriched": {
+    "id": "8425170886",
+    "follower_count": 52485,
+    "following_count": 586,
+    "media_count": 899,
+    "following": [],
+    "instagram_full_name": "SOOSOO/ SuSu",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/soosoo.tattoo/instagram/profile.jpg"
+  }
 }

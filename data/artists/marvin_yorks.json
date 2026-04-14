@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "marvin_yorks",
-  "name": "Marvin Yorks",
+  "name": "MARVIN YORKS TATTOOS",
   "location": {
     "city": "Leiden",
     "country": "Netherlands"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-01"
+  "updated_at": "2026-04-13",
+  "bio": "• BOOKINGS OPEN •\n• Black and Grey all day •\n@marvin_yorks_studios",
+  "instagram_enriched": {
+    "id": "13669486",
+    "follower_count": 8026,
+    "following_count": 2248,
+    "media_count": 1506,
+    "following": [],
+    "instagram_full_name": "MARVIN YORKS TATTOOS",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/marvin_yorks/instagram/profile.jpg"
+  }
 }

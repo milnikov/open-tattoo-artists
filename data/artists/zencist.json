@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zencist",
-  "name": "ZENCIST",
+  "name": "Ahmet Zencist",
   "location": {
     "city": "Istanbul",
     "country": "Turkey"
@@ -617,7 +617,16 @@
       }
     }
   ],
-  "updated_at": "2026-04-12",
-  "bio": "ZENCIST is a highly-skilled tattoo artist based in Istanbul, Turkey, who has been perfecting their craft since 1999. Specializing in tribal and coverup styles, their experience and artistic expertise is unparalleled, transforming each client's vision into a unique masterpiece. ZENCIST merges their passion for sound design and art, evident in their precise, rhythmic tattooing style.\nPrice: $$\nCurrent location: Istanbul, Istanbul, Turkey",
-  "tattooing_since": "1999"
+  "updated_at": "2026-04-13",
+  "bio": "ZENCIST is a highly-skilled tattoo artist based in Istanbul, Turkey, who has been perfecting their craft since 1999. Specializing in tribal and coverup styles, their experience and artistic expertise is unparalleled, transforming each client's vision into a unique masterpiece. ZENCIST merges their passion for sound design and art, evident in their precise, rhythmic tattooing style.\nPrice: $$\nCurrent location: Istanbul, Istanbul, Turkey\n\nTattooer \n@zencistmusic\nSound Designer\nArtist of\n@cinetoolsofficial\n@sfxtools",
+  "tattooing_since": "1999",
+  "instagram_enriched": {
+    "id": "7621244",
+    "follower_count": 9914,
+    "following_count": 2790,
+    "media_count": 260,
+    "following": [],
+    "instagram_full_name": "Ahmet Zencist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zencist/instagram/profile.jpg"
+  }
 }

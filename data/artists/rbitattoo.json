@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rbitattoo",
-  "name": "RBITattoo",
+  "name": "Red Baron Ink",
   "location": {
     "city": "New York",
     "country": "United States"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-02",
-  "bio": "RBITattoo\nSTUDIO\nNew York, New York, United States\n48.0k\nAdd\nMessage\nillustrative\nblack&gray"
+  "updated_at": "2026-04-13",
+  "bio": "RBITattoo\nSTUDIO\nNew York, New York, United States\n48.0k\nAdd\nMessage\nillustrative\nblack&gray\n\nCustom Tattoos & Expert Piercing\nArtists who listen, guide & care.\nTattoos designed to last a lifetime.\n📍West Village, NYC\n⬇️ Consultations & bookings",
+  "instagram_enriched": {
+    "id": "248263300",
+    "follower_count": 48109,
+    "following_count": 4201,
+    "media_count": 8230,
+    "following": [],
+    "instagram_full_name": "Red Baron Ink",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rbitattoo/instagram/profile.jpg"
+  }
 }

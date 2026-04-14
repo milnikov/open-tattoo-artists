@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattooist_eq",
-  "name": "Tattooist_eq",
+  "name": "EQ",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-09"
+  "updated_at": "2026-04-13",
+  "bio": "🇰🇷 Based in Seoul @inktable_kr \n✉️ tattooisteq@gmail.com\nSponsored by @kwadron",
+  "instagram_enriched": {
+    "id": "7407958129",
+    "follower_count": 223155,
+    "following_count": 298,
+    "media_count": 1101,
+    "following": [],
+    "instagram_full_name": "EQ",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooist_eq/instagram/profile.jpg"
+  }
 }

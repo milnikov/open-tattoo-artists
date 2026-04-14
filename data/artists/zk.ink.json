@@ -3,8 +3,8 @@
   "id": "zk.ink",
   "name": "ZK(지케이)",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "fineline",
@@ -209,5 +209,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-13"
+  "updated_at": "2026-04-13",
+  "bio": "Fine line tattoo artist | Custom & flash\n@north_sf | 699 2nd st. San Francisco\n🇺🇸 San Francisco based\n✉️ zk.ink.kr@gmail.com",
+  "instagram_enriched": {
+    "id": "1499083077",
+    "follower_count": 34140,
+    "following_count": 821,
+    "media_count": 1573,
+    "following": [],
+    "instagram_full_name": "ZK | Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zk.ink/instagram/profile.jpg"
+  }
 }

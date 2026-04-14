@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zalo_vivancos",
-  "name": "Zalo Vivancos",
+  "name": "Gonzalo Vivancos",
   "location": {
     "city": "Santomera",
     "country": "Spain"
@@ -9,6 +9,7 @@
   "styles": [
     "black&gray",
     "realism",
+    "sponsor:",
     "creative.totalcolours"
   ],
   "links": {
@@ -618,7 +619,16 @@
       }
     }
   ],
-  "updated_at": "2026-04-12",
-  "bio": "Zalo Vivancos is a seasoned tattoo artist based in Santomera, Spain, renowned for his exceptional skill in black and gray realism tattoos. Having been inking since 2010 and with a background in Fine Arts, Zalo ensures each piece is a meticulously crafted work of art, showcased by his impressive portfolio at Gata Negra Tattoo, Zen Toro Tattoo Shop, and El Lapicero Errante. Clients consistently praise the precision and artistry in every design he brings to life on their skin.\nPrice: $\nCurrent location: Santomera, Murcia Region, Spain",
-  "tattooing_since": "2010"
+  "updated_at": "2026-04-13",
+  "bio": "Zalo Vivancos is a seasoned tattoo artist based in Santomera, Spain, renowned for his exceptional skill in black and gray realism tattoos. Having been inking since 2010 and with a background in Fine Arts, Zalo ensures each piece is a meticulously crafted work of art, showcased by his impressive portfolio at Gata Negra Tattoo, Zen Toro Tattoo Shop, and El Lapicero Errante. Clients consistently praise the precision and artistry in every design he brings to life on their skin.\nPrice: $\nCurrent location: Santomera, Murcia Region, Spain\n\n@gata_negra_tattoo @zentortattooshop @el_lapicero_errante @spintattoocehegin @freya.tattoo.barakaldo @kaostattoobullas",
+  "tattooing_since": "2010",
+  "instagram_enriched": {
+    "id": "4002801310",
+    "follower_count": 2801,
+    "following_count": 2797,
+    "media_count": 415,
+    "following": [],
+    "instagram_full_name": "Gonzalo Vivancos",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zalo_vivancos/instagram/profile.jpg"
+  }
 }

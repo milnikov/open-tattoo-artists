@@ -7,7 +7,9 @@
     "country": "United States"
   },
   "styles": [
-    "traditional"
+    "traditional",
+    "sponsor:",
+    "gmail.com"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/threeseastattoo",
@@ -616,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-10"
+  "updated_at": "2026-04-13",
+  "bio": "✺✺ 𝟰 𝟱 𝟰 𝗧 𝗔 𝗧 𝗧 𝗢 𝗢 ✺✺\n☯︎ Encinitas | San Diego, CA \n☯︎ Email only | threeseastattoo@gmail.com",
+  "instagram_enriched": {
+    "id": "35729742",
+    "follower_count": 7690,
+    "following_count": 1730,
+    "media_count": 512,
+    "following": [],
+    "instagram_full_name": "Chelstine | San Diego Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/threeseastattoo/instagram/profile.jpg"
+  }
 }

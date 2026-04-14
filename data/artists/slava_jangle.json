@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "slava_jangle",
-  "name": "Slava Jangle",
+  "name": "Тату Москва Slava Jangle",
   "location": {
     "city": "Moscow",
     "country": "Russia"
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "•делаю ЯРКИЕ татуировки которым не нужно обновление•\n•перекрываю без лазера!•",
+  "instagram_enriched": {
+    "id": "420500571",
+    "follower_count": 7794,
+    "following_count": 488,
+    "media_count": 1018,
+    "following": [],
+    "instagram_full_name": "Тату Москва Slava Jangle",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/slava_jangle/instagram/profile.jpg"
+  }
 }

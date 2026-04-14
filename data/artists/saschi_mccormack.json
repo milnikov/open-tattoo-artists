@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "saschi_mccormack",
-  "name": "Saschi McCormack",
+  "name": "Saschi McCormack Tattooing",
   "location": {
     "city": "Frankenthal (pfalz)",
     "country": "Germany"
@@ -9,7 +9,9 @@
   "styles": [
     "traditional",
     "dotwork",
-    "black&gray"
+    "black&gray",
+    "sponsor:",
+    "hustlebutterdeluxe"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/saschi_mccormack",
@@ -618,5 +620,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-05"
+  "updated_at": "2026-04-13",
+  "bio": "𝕾𝖕𝖔𝖓𝖘𝖔𝖗𝖊𝖉 𝖇𝖞: \n• @cheyenne_tattooequipment \n• @hustlebutterdeluxe \n• @killerinktattoo \n𝖘𝖆𝖘𝖈𝖍𝖎𝖒𝖈𝖈𝖔𝖗𝖒𝖆𝖈𝖐@𝖌𝖒𝖆𝖎𝖑.𝖈𝖔𝖒\n@blacklinesmattertattoo",
+  "instagram_enriched": {
+    "id": "47932488",
+    "follower_count": 55701,
+    "following_count": 592,
+    "media_count": 234,
+    "following": [],
+    "instagram_full_name": "Saschi McCormack Tattooing",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/saschi_mccormack/instagram/profile.jpg"
+  }
 }

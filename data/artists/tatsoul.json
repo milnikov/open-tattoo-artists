@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tatsoul",
-  "name": "TATSoul",
+  "name": "TATSoul®",
   "location": {
     "city": "Los Angeles",
     "country": "United States"
@@ -256,6 +256,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-09",
-  "bio": "Immersed in the vibrant heart of Los Angeles, TATSoul is a renowned Black & Gray style tattoo studio, also acclaimed for being a premium tattoo supply and furniture company trusted by professional artists globally. With a robust Instagram following of around 92k, they embody the intricate LA tattoo culture, offering unparalleled quality and fervent artistry one can trust.\nPrice: $$$\nCurrent location: Los Angeles, California, United States"
+  "updated_at": "2026-04-13",
+  "bio": "Immersed in the vibrant heart of Los Angeles, TATSoul is a renowned Black & Gray style tattoo studio, also acclaimed for being a premium tattoo supply and furniture company trusted by professional artists globally. With a robust Instagram following of around 92k, they embody the intricate LA tattoo culture, offering unparalleled quality and fervent artistry one can trust.\nPrice: $$$\nCurrent location: Los Angeles, California, United States\n\nPremium Tattoo Supply & Furniture Company for Professional Artists Worldwide. Quality You Can Trust. \nQuestions/Inquiries email: sales@tatsoul.com",
+  "instagram_enriched": {
+    "id": "228442055",
+    "follower_count": 100613,
+    "following_count": 7488,
+    "media_count": 3888,
+    "following": [],
+    "instagram_full_name": "TATSoul®",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tatsoul/instagram/profile.jpg"
+  }
 }

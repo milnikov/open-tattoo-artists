@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zon_tattoo",
-  "name": "Zon Tattoo",
+  "name": "Zon_Pahk",
   "location": {
     "city": "Frankfurt",
     "country": "Germany"
@@ -619,5 +619,14 @@
     }
   ],
   "updated_at": "2026-04-13",
-  "bio": "Zon Tattoo is a master tattoo artist based in Frankfurt, Germany, and owner of the Inktastic Tattoo studio. Specializing in fineline, sketch, and floral styles, his expertise has garnered around 72,000 followers on Instagram. His level of skill is impeccable, enabling him to create intricate and detailed designs that, along with his professionalism, has earned him fans and clients from all over the world.\nPrice: $$$\nCurrent location: Frankfurt, Hesse, Germany"
+  "bio": "Zon Tattoo is a master tattoo artist based in Frankfurt, Germany, and owner of the Inktastic Tattoo studio. Specializing in fineline, sketch, and floral styles, his expertise has garnered around 72,000 followers on Instagram. His level of skill is impeccable, enabling him to create intricate and detailed designs that, along with his professionalism, has earned him fans and clients from all over the world.\nPrice: $$$\nCurrent location: Frankfurt, Hesse, Germany\n\nFrankfurt,Germany\nOwner \n@inktastic_tattoo @ink_and_style_salon \nBooking inquiries ⤵️",
+  "instagram_enriched": {
+    "id": "2211420042",
+    "follower_count": 68794,
+    "following_count": 186,
+    "media_count": 385,
+    "following": [],
+    "instagram_full_name": "Zon_Pahk",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zon_tattoo/instagram/profile.jpg"
+  }
 }

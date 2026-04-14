@@ -3,13 +3,15 @@
   "id": "suttoos",
   "name": "Sutton",
   "location": {
-    "city": "Unknown",
-    "country": "Ireland"
+    "city": "Ireland",
+    "country": "Unknown"
   },
   "styles": [
     "geometric",
     "dotwork",
-    "tribal"
+    "tribal",
+    "sponsor:",
+    "killerinktattoo"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/suttoos",
@@ -618,6 +620,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08",
-  "bio": "Sutton is an immensely talented tattoo artist specializing in geometric, dotwork, and tribal styles. They exhibit exceptional prowess in their skill, designing intricate pieces with the utmost finesse. They are based in Ireland, but their work can also be seen in Colorado, NYC, and Basel, making them an internationally recognized artist.\nPrice: $$\nCurrent location: Ireland"
+  "updated_at": "2026-04-13",
+  "bio": "Sutton is an immensely talented tattoo artist specializing in geometric, dotwork, and tribal styles. They exhibit exceptional prowess in their skill, designing intricate pieces with the utmost finesse. They are based in Ireland, but their work can also be seen in Colorado, NYC, and Basel, making them an internationally recognized artist.\nPrice: $$\nCurrent location: Ireland\n\n💠  Tattooer \n📍  Denver CO @bobstattoojoint \n💌  Text 720-295-5783 to book",
+  "instagram_enriched": {
+    "id": "275193452",
+    "follower_count": 47827,
+    "following_count": 1303,
+    "media_count": 182,
+    "following": [],
+    "instagram_full_name": "Dylan Anthony Sutton",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/suttoos/instagram/profile.jpg"
+  }
 }

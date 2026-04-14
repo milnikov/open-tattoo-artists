@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "szymgo",
-  "name": "Szymgo",
+  "name": "Szymon Gdowicz",
   "location": {
     "city": "Cracow",
     "country": "Poland"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "♦️BOOKING OPENED - pain.ting.tat@gmail.com\n▪️owner of @pain.ting.studio",
+  "instagram_enriched": {
+    "id": "189767644",
+    "follower_count": 31235,
+    "following_count": 5375,
+    "media_count": 3450,
+    "following": [],
+    "instagram_full_name": "Szymon Gdowicz",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/szymgo/instagram/profile.jpg"
+  }
 }

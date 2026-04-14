@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zheremo",
-  "name": "Zheremo",
+  "name": "Евгения Ремова",
   "location": {
     "city": "Samara",
     "country": "Russia"
@@ -616,6 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-12",
-  "bio": "Zheremo is a highly skilled tattoo artist based in Samara, Russia. He specializes in the intricate 'fineline' style, creating stunning, detailed artwork with meticulous precision. His deep dedication to his artistry is evident in every exquisite ink creation.\nPrice: $$\nCurrent location: Samara, Volga Federal District, Russia"
+  "updated_at": "2026-04-13",
+  "bio": "Zheremo is a highly skilled tattoo artist based in Samara, Russia. He specializes in the intricate 'fineline' style, creating stunning, detailed artwork with meticulous precision. His deep dedication to his artistry is evident in every exquisite ink creation.\nPrice: $$\nCurrent location: Samara, Volga Federal District, Russia\n\n🪐",
+  "instagram_enriched": {
+    "id": "637363218",
+    "follower_count": 35109,
+    "following_count": 1,
+    "media_count": 961,
+    "following": [],
+    "instagram_full_name": "Евгения Ремова",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zheremo/instagram/profile.jpg"
+  }
 }

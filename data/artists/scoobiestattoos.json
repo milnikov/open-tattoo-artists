@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "scoobiestattoos",
-  "name": "Scoobie the Tattoo Artist",
+  "name": "Las Vegas Tattoo Artist",
   "location": {
     "city": "Las Vegas",
     "country": "United States"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-06",
-  "bio": "Scoobie the Tattoo Artist, hailing from the vibrant city of Las Vegas, United States, specializes in the unique and visually captivating styles of watercolor and dotwork tattoos. Scoobie's self-taught talent and dedication to the craft are evident in the exquisite detail and color work present in every piece they create. Clients admire the professionalism that Scoobie brings to the studio, ensuring a positive and memorable tattooing experience from 10am to 10pm.\nPrice: $\nCurrent location: Las Vegas, Nevada, United States"
+  "updated_at": "2026-04-13",
+  "bio": "Scoobie the Tattoo Artist, hailing from the vibrant city of Las Vegas, United States, specializes in the unique and visually captivating styles of watercolor and dotwork tattoos. Scoobie's self-taught talent and dedication to the craft are evident in the exquisite detail and color work present in every piece they create. Clients admire the professionalism that Scoobie brings to the studio, ensuring a positive and memorable tattooing experience from 10am to 10pm.\nPrice: $\nCurrent location: Las Vegas, Nevada, United States\n\nLA•Las Vegas•DMV\nDeposit Required",
+  "instagram_enriched": {
+    "id": "25036528",
+    "follower_count": 3753,
+    "following_count": 3492,
+    "media_count": 736,
+    "following": [],
+    "instagram_full_name": "Las Vegas Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scoobiestattoos/instagram/profile.jpg"
+  }
 }

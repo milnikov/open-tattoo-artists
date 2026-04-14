@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "purple_sun_brussels",
-  "name": "Purple Sun Brussels",
+  "name": "PURPLE SUN Tattoo",
   "location": {
     "city": "Brussels",
     "country": "Belgium"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-01"
+  "updated_at": "2026-04-13",
+  "bio": "@burtonursaeminoris\n@indyvoet\n@martin__marine\n@capitaineplum \n@la_delyone\n@guillaume_delatorre_faction \n@pvur_tattoo\n@malfait_ttt \n11h-18h",
+  "instagram_enriched": {
+    "id": "2117453424",
+    "follower_count": 31836,
+    "following_count": 1296,
+    "media_count": 2907,
+    "following": [],
+    "instagram_full_name": "PURPLE SUN Tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/purple_sun_brussels/instagram/profile.jpg"
+  }
 }

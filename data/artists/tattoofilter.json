@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattoofilter",
-  "name": "Tattoofilter",
+  "name": "TattooFilter",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -618,7 +618,16 @@
       }
     }
   ],
-  "updated_at": "2026-04-09",
-  "bio": "Tattoofilter, based in Seoul, South Korea, is an expert tattoo artist renowned for his illustrative, fineline, and dotwork styles. This artist has been transforming the tattoo industry since 2014, displaying unparalleled skills and mastery over these unique techniques. Tattoofilter is not only adept at his artistry but also maintains a high standard of cleanliness, ensuring a safe and comfortable experience for clients.\nPrice: $$\nCurrent location: Seoul, South Korea",
-  "tattooing_since": "2014"
+  "updated_at": "2026-04-13",
+  "bio": "Tattoofilter, based in Seoul, South Korea, is an expert tattoo artist renowned for his illustrative, fineline, and dotwork styles. This artist has been transforming the tattoo industry since 2014, displaying unparalleled skills and mastery over these unique techniques. Tattoofilter is not only adept at his artistry but also maintains a high standard of cleanliness, ensuring a safe and comfortable experience for clients.\nPrice: $$\nCurrent location: Seoul, South Korea\n\nBringing the tattoo world online since 2014. Follow our sister account @tattoofilterpro for more. For the latest from Tattoofilter, visit our website:",
+  "tattooing_since": "2014",
+  "instagram_enriched": {
+    "id": "1343320942",
+    "follower_count": 35264,
+    "following_count": 6268,
+    "media_count": 1425,
+    "following": [],
+    "instagram_full_name": "TattooFilter",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoofilter/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattoonow_dot_com",
-  "name": "TattooNow Dot Com",
+  "name": "tattoonow_dot_com",
   "location": {
     "city": "East Haven",
     "country": "United States"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "📈 Websites, CRM & tattoo biz since '99\n🎪 Icons & Prodigies · Paradise Gathering\n🎙️ The TattooNOW Show → YouTube\n⬇️ Book your free tech/biz consult",
+  "instagram_enriched": {
+    "id": "26640974",
+    "follower_count": 36486,
+    "following_count": 575,
+    "media_count": 7972,
+    "following": [],
+    "instagram_full_name": "tattoonow_dot_com",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoonow_dot_com/instagram/profile.jpg"
+  }
 }

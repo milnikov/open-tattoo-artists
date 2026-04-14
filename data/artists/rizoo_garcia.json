@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rizoo_garcia",
-  "name": "Rizoo Garcia",
+  "name": "Rizo Garcia",
   "location": {
     "city": "Suzano",
     "country": "Brazil"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-03"
+  "updated_at": "2026-04-13",
+  "bio": "Conta adm por @misa.souza90 \nSuzano-SP\nORÇAMENTOS  SOMENTE PELO LINK 👇🏻",
+  "instagram_enriched": {
+    "id": "1728844148",
+    "follower_count": 99874,
+    "following_count": 5495,
+    "media_count": 791,
+    "following": [],
+    "instagram_full_name": "Rizo Garcia",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rizoo_garcia/instagram/profile.jpg"
+  }
 }

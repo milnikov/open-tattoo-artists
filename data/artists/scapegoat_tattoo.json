@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "scapegoat_tattoo",
-  "name": "Scapegoat Tattoo",
+  "name": "Scapegoat_tattoo",
   "location": {
     "city": "Portland",
     "country": "United States"
@@ -618,6 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-06",
-  "bio": "\"Scapegoat Tattoo, nestled in the heart of Portland, is a prominent tattoo studio boasting 17 years of crafting exquisite body art in traditional, neotraditional, and illustrative styles. This esteemed establishment takes pride in its diverse and highly skilled team of artists, who foster a respectful and collaborative environment for clients to realize their unique body art visions.\"\nPrice: $$\nCurrent location: Portland, Oregon, United States"
+  "updated_at": "2026-04-13",
+  "bio": "\"Scapegoat Tattoo, nestled in the heart of Portland, is a prominent tattoo studio boasting 17 years of crafting exquisite body art in traditional, neotraditional, and illustrative styles. This esteemed establishment takes pride in its diverse and highly skilled team of artists, who foster a respectful and collaborative environment for clients to realize their unique body art visions.\"\nPrice: $$\nCurrent location: Portland, Oregon, United States\n\nScapegoat Tattoo is now @wilson.brothers.tattoo You can find Brian Wilson @the_noble_mountain /@iron.rainbow.tattoo and John Wilson @love.true.tattoo",
+  "instagram_enriched": {
+    "id": "9911282028",
+    "follower_count": 420,
+    "following_count": 65,
+    "media_count": 15,
+    "following": [],
+    "instagram_full_name": "Scapegoat_tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/scapegoat_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "savage.tattooer",
-  "name": "AL",
+  "name": "SAVAGE Tattoo",
   "location": {
     "city": "Zurich",
     "country": "Switzerland"
@@ -618,6 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-06",
-  "bio": "AL is a master tattoo artist based in Zurich, Switzerland, specializing in geometric, fine line, and black & gray designs. Their meticulous attention to detail and precision in even the most complex patterns makes them a standout professional in the industry. With a reputation for maintaining impeccable cleanliness, clients can expect a sterile environment that prioritizes their health and safety during each session.\nPrice: $\nCurrent location: Zurich, Zurich, Switzerland"
+  "updated_at": "2026-04-13",
+  "bio": "AL is a master tattoo artist based in Zurich, Switzerland, specializing in geometric, fine line, and black & gray designs. Their meticulous attention to detail and precision in even the most complex patterns makes them a standout professional in the industry. With a reputation for maintaining impeccable cleanliness, clients can expect a sterile environment that prioritizes their health and safety during each session.\nPrice: $\nCurrent location: Zurich, Zurich, Switzerland\n\nAL | TATTOOER | @deusexmachina.ch Molkenstr. 22 | Zurich",
+  "instagram_enriched": {
+    "id": "1598382097",
+    "follower_count": 1787,
+    "following_count": 2298,
+    "media_count": 428,
+    "following": [],
+    "instagram_full_name": "SAVAGE Tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/savage.tattooer/instagram/profile.jpg"
+  }
 }

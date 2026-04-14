@@ -8,7 +8,8 @@
   },
   "styles": [
     "illustrative",
-    "newschool"
+    "newschool",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/zahimezhertattoos",
@@ -617,5 +618,12 @@
       }
     }
   ],
-  "updated_at": "2026-04-12"
+  "updated_at": "2026-04-13",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }

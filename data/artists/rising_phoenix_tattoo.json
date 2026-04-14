@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "rising_phoenix_tattoo",
-  "name": "Rising Phoenix Tattoo",
+  "name": "Rising Phoenix Tattoo and Body Piercing",
   "location": {
     "city": "Addison",
     "country": "United States"
@@ -618,7 +618,16 @@
       }
     }
   ],
-  "updated_at": "2026-04-03",
-  "bio": "Step into the creative haven of Rising Phoenix Tattoo, Addison's premier tattoo studio since 1998, renowned for its mastery in traditional, dotwork, and floral designs. Experience a welcoming atmosphere where A.P.P certified body piercing meets expert tattoo artistry in all styles, with the vibrancy of walk-ins always celebrated. Discover your next piece of personal expression at a studio as timeless and reborn as the mythical bird that inspires its name.\nPrice: $\nCurrent location: Addison, Illinois, United States",
-  "tattooing_since": "1998"
+  "updated_at": "2026-04-13",
+  "bio": "Step into the creative haven of Rising Phoenix Tattoo, Addison's premier tattoo studio since 1998, renowned for its mastery in traditional, dotwork, and floral designs. Experience a welcoming atmosphere where A.P.P certified body piercing meets expert tattoo artistry in all styles, with the vibrancy of walk-ins always celebrated. Discover your next piece of personal expression at a studio as timeless and reborn as the mythical bird that inspires its name.\nPrice: $\nCurrent location: Addison, Illinois, United States\n\nAddison’s first tattoo and body piercing shop since 1998\nWalk ins always welcome",
+  "tattooing_since": "1998",
+  "instagram_enriched": {
+    "id": "2077955975",
+    "follower_count": 3306,
+    "following_count": 13,
+    "media_count": 981,
+    "following": [],
+    "instagram_full_name": "Rising Phoenix Tattoo and Body Piercing",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/rising_phoenix_tattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "zombunny_tattoo",
-  "name": "Zombunny Tattoo",
+  "name": "Sam Johns tattoo artist",
   "location": {
     "city": "Dartford",
     "country": "United Kingdom"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-13"
+  "updated_at": "2026-04-13",
+  "bio": "Dartford based tattoo artist - 💌 DM me or use my enquiry form for booking your tattoo 🥰 💌 #tattooartistuk #tattoos #ink #tattooartist",
+  "instagram_enriched": {
+    "id": "727417",
+    "follower_count": 2337,
+    "following_count": 2737,
+    "media_count": 1119,
+    "following": [],
+    "instagram_full_name": "Sam Johns tattoo artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zombunny_tattoo/instagram/profile.jpg"
+  }
 }

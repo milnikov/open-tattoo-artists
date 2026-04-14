@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fabrizio",
-  "name": "Fabrizio",
+  "name": "Fabrizio - London Tattoo Artist",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -16,6 +16,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13",
-  "bio": ""
+  "updated_at": "2026-04-13",
+  "bio": "Blackwork and realism B/G 🦇\nLondon 🇬🇧\n📍@onebyonetattoo\nRegular Guest • @sevendoorstattoo",
+  "instagram_enriched": {
+    "id": "1455124309",
+    "follower_count": 3246,
+    "following_count": 1063,
+    "media_count": 168,
+    "following": [],
+    "instagram_full_name": "Fabrizio - London Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fabrizio/instagram/profile.jpg"
+  }
 }

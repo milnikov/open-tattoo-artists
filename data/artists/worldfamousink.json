@@ -6,7 +6,9 @@
     "city": "Milan",
     "country": "Italy"
   },
-  "styles": [],
+  "styles": [
+    "vegan"
+  ],
   "links": {
     "source": "https://tattooswizard.com/artists/worldfamousink",
     "instagram": "https://www.instagram.com/worldfamousink/",
@@ -614,6 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-12",
-  "bio": "World Famous Tattoo Ink, based in Milan, Italy, is a globally recognized tattoo artist boasting over 500k followers on Instagram. Specializing in a unique 'vegan' style, they use premium quality, vegan-friendly tattoo ink that is made in the U.S.A. Their commitment to the craft resonates with their mantra \"Family.Passion.Forever\" and is evident in their astounding artwork.\nPrice: $$$\nCurrent location: Milan, Lombardy, Italy"
+  "updated_at": "2026-04-13",
+  "bio": "World Famous Tattoo Ink, based in Milan, Italy, is a globally recognized tattoo artist boasting over 500k followers on Instagram. Specializing in a unique 'vegan' style, they use premium quality, vegan-friendly tattoo ink that is made in the U.S.A. Their commitment to the craft resonates with their mantra \"Family.Passion.Forever\" and is evident in their astounding artwork.\nPrice: $$$\nCurrent location: Milan, Lombardy, Italy\n\nFamily.Passion.Forever.\nVegan friendly 🌱 \nPremium tattoo ink 💯\nMade in the U.S.A. 🇺🇸",
+  "instagram_enriched": {
+    "id": "294935110",
+    "follower_count": 515905,
+    "following_count": 1037,
+    "media_count": 12109,
+    "following": [],
+    "instagram_full_name": "World Famous Tattoo Ink",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/worldfamousink/instagram/profile.jpg"
+  }
 }

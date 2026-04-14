@@ -3,7 +3,7 @@
   "id": "sunnyink7",
   "name": "Sunny",
   "location": {
-    "city": "Unknown",
+    "city": "South Korea",
     "country": "South Korea"
   },
   "styles": [
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "Mobile : 010 5532 6005\n경기도 평택시 팽성읍 \nPaengseong-eup, Pyeongtaek-si, Gyeonggi-do",
+  "instagram_enriched": {
+    "id": "1633626310",
+    "follower_count": 2441,
+    "following_count": 1787,
+    "media_count": 522,
+    "following": [],
+    "instagram_full_name": "sunny",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sunnyink7/instagram/profile.jpg"
+  }
 }

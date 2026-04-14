@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "serichol_tatts",
-  "name": "Serichol Tatts",
+  "name": "Rafael Ignacio Serichol",
   "location": {
     "city": "Granada",
     "country": "Spain"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-06"
+  "updated_at": "2026-04-13",
+  "bio": "UNITY TATTOO GRANADA 🇪🇸\nDm @unitytattoogranada for info or appointments",
+  "instagram_enriched": {
+    "id": "565831289",
+    "follower_count": 50562,
+    "following_count": 1963,
+    "media_count": 1142,
+    "following": [],
+    "instagram_full_name": "Rafael Ignacio Serichol",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/serichol_tatts/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "sarittto",
-  "name": "Sarittto",
+  "name": "𝐒𝐚𝐫𝐢",
   "location": {
     "city": "Curitiba",
     "country": "Brazil"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-05"
+  "updated_at": "2026-04-13",
+  "bio": "Botanical Tattoos & Beautiful Cover-ups\nBookings/Orçamentos:",
+  "instagram_enriched": {
+    "id": "1939419143",
+    "follower_count": 19511,
+    "following_count": 1088,
+    "media_count": 884,
+    "following": [],
+    "instagram_full_name": "𝐒𝐚𝐫𝐢",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sarittto/instagram/profile.jpg"
+  }
 }

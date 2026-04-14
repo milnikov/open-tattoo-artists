@@ -9,7 +9,8 @@
   "styles": [
     "fineline",
     "traditional",
-    "illustrative"
+    "illustrative",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/theorderdtla",
@@ -618,5 +619,14 @@
       }
     }
   ],
-  "updated_at": "2026-04-09"
+  "updated_at": "2026-04-13",
+  "instagram_enriched": {
+    "id": "328493326",
+    "follower_count": 4864,
+    "following_count": 5321,
+    "media_count": 436,
+    "following": [],
+    "instagram_full_name": "◾️THE ORDER DTLA◾️",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/theorderdtla/instagram/profile.jpg"
+  }
 }

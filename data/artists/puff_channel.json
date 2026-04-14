@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "puff_channel",
-  "name": "Puff_channel",
+  "name": "Puff_channel_virus",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-01"
+  "updated_at": "2026-04-13",
+  "bio": "Seoul . Only dm . (@igloo_shop )",
+  "instagram_enriched": {
+    "id": "347097164",
+    "follower_count": 65632,
+    "following_count": 3999,
+    "media_count": 1242,
+    "following": [],
+    "instagram_full_name": "Puff_channel_virus",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/puff_channel/instagram/profile.jpg"
+  }
 }

@@ -1,14 +1,15 @@
 {
   "schema_version": 2,
   "id": "sita_rama",
-  "name": "Sita Rama",
+  "name": "JesseBob",
   "location": {
     "city": "Tucson",
     "country": "United States"
   },
   "styles": [
     "geometric",
-    "tribal"
+    "tribal",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/sita_rama",
@@ -581,6 +582,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-07",
-  "bio": "Sita Rama is an exceptionally skilled tattoo artist based in Tucson, United States, specialising in geometric, tribal, and vegan styles. Working out of a private studio, they adhere to a strict level of cleanliness and professionalism, ensuring all clients feel safe and comfortable whilst creating unique pieces of body art. Communication is mainly conducted through email, demonstrating Sita Rama's preference for structured and professional interactions.\nPrice: $$\nCurrent location: Tucson, Arizona, United States"
+  "updated_at": "2026-04-13",
+  "bio": "Sita Rama is an exceptionally skilled tattoo artist based in Tucson, United States, specialising in geometric, tribal, and vegan styles. Working out of a private studio, they adhere to a strict level of cleanliness and professionalism, ensuring all clients feel safe and comfortable whilst creating unique pieces of body art. Communication is mainly conducted through email, demonstrating Sita Rama's preference for structured and professional interactions.\nPrice: $$\nCurrent location: Tucson, Arizona, United States\n\nJanesvara Nrsimha Das\nBooks closed",
+  "instagram_enriched": {
+    "id": "225963812",
+    "follower_count": 28695,
+    "following_count": 914,
+    "media_count": 706,
+    "following": [],
+    "instagram_full_name": "JesseBob",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/sita_rama/instagram/profile.jpg"
+  }
 }

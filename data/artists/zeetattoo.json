@@ -3,8 +3,8 @@
   "id": "zeetattoo",
   "name": "Zee Tattoo",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "fineline",
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-12"
+  "updated_at": "2026-04-13",
+  "bio": "@bangbangnyc\nNYC BOOKING : appts@bangbangforever.com",
+  "instagram_enriched": {
+    "id": "9472110273",
+    "follower_count": 213650,
+    "following_count": 377,
+    "media_count": 601,
+    "following": [],
+    "instagram_full_name": "ZEE",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/zeetattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tfshea",
-  "name": "TFShea",
+  "name": "Black & Grey Tattoo Artist",
   "location": {
     "city": "Manteca",
     "country": "United States"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-09"
+  "updated_at": "2026-04-13",
+  "bio": "✝️Jesus Follwer\n◽️ Black & Grey Tattoo Artist\n◼️ Owner: @livingwatertattoo \n◽️ Manteca, CA\n◼️(209)315-5865 Text to Book",
+  "instagram_enriched": {
+    "id": "25370109",
+    "follower_count": 13061,
+    "following_count": 1278,
+    "media_count": 696,
+    "following": [],
+    "instagram_full_name": "Black & Grey Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tfshea/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "the.ugly.organ",
-  "name": "Carousel Tattoo Studio",
+  "name": "Jason Adelinia",
   "location": {
     "city": "Worthing",
     "country": "United Kingdom"
@@ -617,6 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-10",
-  "bio": "Carousel Tattoo Studio\nWorthing, England, United Kingdom\n36.1k\nAdd\nMessage\nwatercolor\nillustrative"
+  "updated_at": "2026-04-13",
+  "bio": "Carousel Tattoo Studio\nWorthing, England, United Kingdom\n36.1k\nAdd\nMessage\nwatercolor\nillustrative\n\nMy new tattoo account jason_adelinia",
+  "instagram_enriched": {
+    "id": "8284493000",
+    "follower_count": 0,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "instagram_full_name": "Jason Adelinia",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the.ugly.organ/instagram/profile.jpg"
+  }
 }

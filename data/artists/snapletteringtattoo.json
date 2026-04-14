@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "snapletteringtattoo",
-  "name": "snapletteringtattoo",
+  "name": "SNAP",
   "location": {
     "city": "Oeiras",
     "country": "Portugal"
@@ -9,7 +9,8 @@
   "styles": [
     "fineline",
     "dotwork",
-    "floral"
+    "floral",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/snapletteringtattoo",
@@ -618,6 +619,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08",
-  "bio": "Snapletteringtattoo, based in Oeiras, Portugal, is a highly skilled tattoo artist specializing in fine line, dotwork, and floral designs, all created using vegan inks. Their commitment to welcoming all styles is evident in their diverse portfolio, demonstrating a level of professionalism that caters to a wide array of personal tastes and design requests. Whether you're looking for intricate patterns or delicate botanicals, Snapletteringtattoo delivers with precision and expertise.\nPrice: $\nCurrent location: Oeiras, Portugal"
+  "updated_at": "2026-04-13",
+  "bio": "Snapletteringtattoo, based in Oeiras, Portugal, is a highly skilled tattoo artist specializing in fine line, dotwork, and floral designs, all created using vegan inks. Their commitment to welcoming all styles is evident in their diverse portfolio, demonstrating a level of professionalism that caters to a wide array of personal tastes and design requests. Whether you're looking for intricate patterns or delicate botanicals, Snapletteringtattoo delivers with precision and expertise.\nPrice: $\nCurrent location: Oeiras, Portugal\n\n➖ SNAP\n➖ Tatuador em @theofficetattoostudio \n➖ Vegan inks 🌱\n⚜️ ᴀʟʟ sᴛʏʟᴇs ᴡᴇʟᴄᴏᴍᴇ ⚜️",
+  "instagram_enriched": {
+    "id": "1660986329",
+    "follower_count": 5464,
+    "following_count": 998,
+    "media_count": 259,
+    "following": [],
+    "instagram_full_name": "SNAP",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/snapletteringtattoo/instagram/profile.jpg"
+  }
 }

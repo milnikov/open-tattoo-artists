@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "tattooist_ssdam",
-  "name": "tattooist_ssdam",
+  "name": "타투이스트쓰담 한글타투 한자타투 레터링타투",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "minimalist"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "⭕ 글을쓰고 몸에담는 타투이스트쓰담 입니다\n⭕ 도안은 주문 제작이며 예약제입니다\n⭕ 운영시간 오후 3~11시 작업실은 연남동입니다                      ⭕ 문의는 카톡 & 문자주세요",
+  "instagram_enriched": {
+    "id": "1424676380",
+    "follower_count": 64058,
+    "following_count": 174,
+    "media_count": 3160,
+    "following": [],
+    "instagram_full_name": "타투이스트쓰담 한글타투 한자타투 레터링타투",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooist_ssdam/instagram/profile.jpg"
+  }
 }

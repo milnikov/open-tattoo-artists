@@ -3,8 +3,8 @@
   "id": "tattoo.pencil",
   "name": "연필",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "illustrative",
@@ -618,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "🏠@tattoostudio.muse\n🇯🇵6月 東京 • Tokyo in June\n🇰🇷Seoul 4-5월 예약가능 • Booking for April-May\n⇩ Link or DM",
+  "instagram_enriched": {
+    "id": "7736126101",
+    "follower_count": 110559,
+    "following_count": 807,
+    "media_count": 1581,
+    "following": [],
+    "instagram_full_name": "연필 • 캐릭터타투 음식타투 미니타투 라인타투 컬러타투",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoo.pencil/instagram/profile.jpg"
+  }
 }

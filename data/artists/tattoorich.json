@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tattoorich",
-  "name": "TattooRich",
+  "name": "tattoorich",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,6 +40,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-09",
-  "bio": "TattooRich, based in Oahu, Hawaii, is an exceptional tattoo artist specializing in the intricately captivating tribal style. His unwavering commitment to maintaining a perfectly clean and hygienic workspace is admirable. He demonstrates utmost professionalism, ensuring that his clients feel comfortable and well-informed throughout their tattoo process.\nPrice: $$\nCurrent location:"
+  "updated_at": "2026-04-13",
+  "bio": "TattooRich, based in Oahu, Hawaii, is an exceptional tattoo artist specializing in the intricately captivating tribal style. His unwavering commitment to maintaining a perfectly clean and hygienic workspace is admirable. He demonstrates utmost professionalism, ensuring that his clients feel comfortable and well-informed throughout their tattoo process.\nPrice: $$\nCurrent location:\n\nbase on oahu hawaii..for appointment direct message on IG \nemail \nttclacar@yahoo.com",
+  "instagram_enriched": {
+    "id": "5566817",
+    "follower_count": 40740,
+    "following_count": 3380,
+    "media_count": 2527,
+    "following": [],
+    "instagram_full_name": "tattoorich",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattoorich/instagram/profile.jpg"
+  }
 }

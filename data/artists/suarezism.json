@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "suarezism",
-  "name": "Suarezism",
+  "name": "Michael Suarez",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "🌞 South Carolina⛰️\n@sweetandsourtattoo (shop)\n@amigosmfg (machines)\n@bro_yeah_right (personal)",
+  "instagram_enriched": {
+    "id": "7399524",
+    "follower_count": 30676,
+    "following_count": 4469,
+    "media_count": 679,
+    "following": [],
+    "instagram_full_name": "Michael Suarez",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/suarezism/instagram/profile.jpg"
+  }
 }

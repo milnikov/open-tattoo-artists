@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ratsovercats",
-  "name": "RatsOverCats",
+  "name": "IVO | TATTOO",
   "location": {
     "city": "Lisbon",
     "country": "Portugal"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-02"
+  "updated_at": "2026-04-13",
+  "bio": "Lisboa\nTattooer at @casatigretattoo 🐯\n \n⚡️Tattoo, illustration & design⚡️\nDm for bookings, enquiries or collabs",
+  "instagram_enriched": {
+    "id": "333155679",
+    "follower_count": 6006,
+    "following_count": 2428,
+    "media_count": 317,
+    "following": [],
+    "instagram_full_name": "IVO | TATTOO",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ratsovercats/instagram/profile.jpg"
+  }
 }

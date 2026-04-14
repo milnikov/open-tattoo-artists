@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "the_mess_tattoo",
-  "name": "The Mess Tattoo",
+  "name": "𐌕𐋅𐌄 𐌌𐌄𐌔𐌔",
   "location": {
     "city": "Wiener Neustadt",
     "country": "Austria"
@@ -521,5 +521,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-10"
+  "updated_at": "2026-04-13",
+  "bio": "Tattoo Collective | austria | 2700 | \ndirect contact:\n@ralph_miller_tattoo\n@tante.ungut.tattoo\n@raphi.lang.tattoos\n@tattacke",
+  "instagram_enriched": {
+    "id": "5488541381",
+    "follower_count": 3251,
+    "following_count": 279,
+    "media_count": 132,
+    "following": [],
+    "instagram_full_name": "𐌕𐋅𐌄 𐌌𐌄𐌔𐌔",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/the_mess_tattoo/instagram/profile.jpg"
+  }
 }

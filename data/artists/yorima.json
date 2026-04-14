@@ -1,13 +1,14 @@
 {
   "schema_version": 2,
   "id": "yorima",
-  "name": "Yorima",
+  "name": "Yorima Ⓥ",
   "location": {
     "city": "Scheveningen",
     "country": "Netherlands"
   },
   "styles": [
-    "black&gray"
+    "black&gray",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/yorima",
@@ -617,5 +618,14 @@
     }
   ],
   "updated_at": "2026-04-13",
-  "bio": "Meet Yorima, a highly skilled tattoo artist specializing in black & gray vegan tattoos, ensuring a cruelty-free experience without compromising on exceptional artistry. Operating out of Overdose Tattooing in the lively Scheveningen, Netherlands, Yorima is renowned for combining professionalism with a gentle touch, offering clients an immaculate and compassionate tattooing journey. Whether you're a vegan or simply an enthusiast of fine ink, Yorima's expertise guarantees a piece of art that aligns with both your values and aesthetic aspirations.\nPrice: $\nCurrent location: Scheveningen, South Holland, Netherlands"
+  "bio": "Meet Yorima, a highly skilled tattoo artist specializing in black & gray vegan tattoos, ensuring a cruelty-free experience without compromising on exceptional artistry. Operating out of Overdose Tattooing in the lively Scheveningen, Netherlands, Yorima is renowned for combining professionalism with a gentle touch, offering clients an immaculate and compassionate tattooing journey. Whether you're a vegan or simply an enthusiast of fine ink, Yorima's expertise guarantees a piece of art that aligns with both your values and aesthetic aspirations.\nPrice: $\nCurrent location: Scheveningen, South Holland, Netherlands\n\nVegan tattooing 🌱\nNo animals get hurt.. only people.\nTattooing at @od.tattoocollective The Hague, Netherlands",
+  "instagram_enriched": {
+    "id": "36228763",
+    "follower_count": 3757,
+    "following_count": 934,
+    "media_count": 280,
+    "following": [],
+    "instagram_full_name": "Yorima Ⓥ",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/yorima/instagram/profile.jpg"
+  }
 }

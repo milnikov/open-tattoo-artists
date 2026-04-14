@@ -7,7 +7,9 @@
     "country": "Russia"
   },
   "styles": [
-    "realism"
+    "realism",
+    "sponsor:",
+    "worldfamousink"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/shatskytattoo",
@@ -616,5 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-07"
+  "updated_at": "2026-04-13",
+  "bio": "Professional Tattooartist",
+  "instagram_enriched": {
+    "id": "1061970415",
+    "follower_count": 23407,
+    "following_count": 998,
+    "media_count": 1739,
+    "following": [],
+    "instagram_full_name": "Vladimir Shatsky",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/shatskytattoo/instagram/profile.jpg"
+  }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "spikesumi",
-  "name": "Harisumi Tattoo Studio",
+  "name": "Spike Sumi",
   "location": {
     "city": "San Juan",
     "country": "Puerto Rico"
@@ -618,6 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08",
-  "bio": "Nestled in the vibrant heart of San Juan, Puerto Rico, Harisumi Tattoo Studio offers a symphony of ink where illustrative magic, timeless traditional designs, and elegant Japanese artistry come to life on skin. The skilled artisans at Harisumi blend unparalleled craftsmanship with a welcoming, creative atmosphere, ensuring each tattoo experience is as unique and remarkable as the clients who walk through their doors.\nPrice: $\nCurrent location: San Juan, Puerto Rico, Puerto Rico"
+  "updated_at": "2026-04-13",
+  "bio": "Nestled in the vibrant heart of San Juan, Puerto Rico, Harisumi Tattoo Studio offers a symphony of ink where illustrative magic, timeless traditional designs, and elegant Japanese artistry come to life on skin. The skilled artisans at Harisumi blend unparalleled craftsmanship with a welcoming, creative atmosphere, ensuring each tattoo experience is as unique and remarkable as the clients who walk through their doors.\nPrice: $\nCurrent location: San Juan, Puerto Rico, Puerto Rico\n\nTattooist\n Harisumi Tattoo Studio, San Juan, PR 787.722.0509 @harisumitattoostudio",
+  "instagram_enriched": {
+    "id": "22749700",
+    "follower_count": 2367,
+    "following_count": 2759,
+    "media_count": 1591,
+    "following": [],
+    "instagram_full_name": "Spike Sumi",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/spikesumi/instagram/profile.jpg"
+  }
 }

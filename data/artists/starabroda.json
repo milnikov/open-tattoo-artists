@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "starabroda",
-  "name": "Starabroda",
+  "name": "Traveling Tattoo Artist",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -617,5 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "🇩🇪 🇵🇱 🇸🇪 🇭🇰 🇺🇸 \nWORLDWIDE BOOKINGS OPEN:\n💌starabroda@gmail.com💌",
+  "instagram_enriched": {
+    "id": "1077806464",
+    "follower_count": 31598,
+    "following_count": 2618,
+    "media_count": 753,
+    "following": [],
+    "instagram_full_name": "Traveling Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/starabroda/instagram/profile.jpg"
+  }
 }

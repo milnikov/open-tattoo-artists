@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "super7tattoo",
-  "name": "Super7Tattoo",
+  "name": "Super7 Tattoo",
   "location": {
     "city": "Vilnius",
     "country": "Lithuania"
@@ -568,5 +568,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "Since 2011,Vilnius,LT\n@ernie_seven @v.shanka @traum_atrum  @beatriceginaityte @kristina.mangani  @velvet_needles",
+  "instagram_enriched": {
+    "id": "934018660",
+    "follower_count": 3374,
+    "following_count": 63,
+    "media_count": 455,
+    "following": [],
+    "instagram_full_name": "Super7 Tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/super7tattoo/instagram/profile.jpg"
+  }
 }

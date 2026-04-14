@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
   "id": "tattooist_yeonwoo",
-  "name": "Tattooist Yeonwoo",
+  "name": "타투이스트연우",
   "location": {
-    "city": "Unknown",
-    "country": "South Korea"
+    "city": "South Korea",
+    "country": "Unknown"
   },
   "styles": [
     "minimalist"
@@ -616,5 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "bio": "•Seoul Korea , 홍대입구역\n•Kakao talk : ywoooo (o 4개입니다!!!!)\n카톡을 통해 문의주세요. Dm은 답이느려요\n•1인 1도안**Do not copy***미성년자 시술불가****🎗",
+  "instagram_enriched": {
+    "id": "1956329851",
+    "follower_count": 26310,
+    "following_count": 3,
+    "media_count": 1990,
+    "following": [],
+    "instagram_full_name": "타투이스트연우",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tattooist_yeonwoo/instagram/profile.jpg"
+  }
 }

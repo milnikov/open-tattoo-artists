@@ -8,7 +8,8 @@
   },
   "styles": [
     "watercolor",
-    "black&gray"
+    "black&gray",
+    "vegan"
   ],
   "links": {
     "source": "https://tattooswizard.com/artists/tattoo_buildink",
@@ -41,5 +42,12 @@
       }
     }
   ],
-  "updated_at": "2026-04-08"
+  "updated_at": "2026-04-13",
+  "instagram_enriched": {
+    "id": null,
+    "follower_count": null,
+    "following_count": null,
+    "media_count": null,
+    "following": []
+  }
 }
