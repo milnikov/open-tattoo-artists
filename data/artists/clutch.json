@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "clutch",
-  "name": "Clutch",
+  "name": "Clutch Salas",
   "location": {
     "city": "Richmond",
     "country": "United States"
@@ -91,7 +91,16 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Fable Tattoo Gallery Richmond",
-  "verified": "artist"
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Fable Tattoo Gallery Richmond\n\nInnovator multidisciplinary Designer Tattoo Artist Painter #ladyphotographer BAYAREA-PHX to book txt 6692706391 Tattoo Artist $200/hr @yonkos_studio",
+  "verified": "artist",
+  "instagram_enriched": {
+    "id": "5879276951",
+    "follower_count": 2798,
+    "following_count": 5726,
+    "media_count": 433,
+    "following": [],
+    "instagram_full_name": "Clutch Salas",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/clutch/instagram/profile.jpg"
+  }
 }

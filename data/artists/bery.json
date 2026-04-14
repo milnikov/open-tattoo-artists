@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bery",
-  "name": "Bery",
+  "name": "베리 Bery",
   "location": {
     "city": "Jeonju",
     "country": "Italy"
@@ -617,13 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Forest INK Jeonju",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Forest INK Jeonju\n\n🇰🇷 Forest INK • Jeonju\n현재 작업을 중단한 상태입니다",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "8888350500",
+    "follower_count": 4995,
+    "following_count": 558,
+    "media_count": 1622,
+    "following": [],
+    "instagram_full_name": "베리 Bery",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bery/instagram/profile.jpg"
   }
 }

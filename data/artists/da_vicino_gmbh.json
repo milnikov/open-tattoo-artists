@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "da_vicino_gmbh",
-  "name": "da Vicino GmbH",
+  "name": "Elia Chiesa",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -40,12 +40,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "246892052",
+    "follower_count": 1286,
+    "following_count": 1230,
+    "media_count": 86,
+    "following": [],
+    "instagram_full_name": "Elia Chiesa",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/da_vicino_gmbh/instagram/profile.jpg"
+  },
+  "bio": "🎻 Violinist @trioliszt\n📌 Founding member @quartettoeos\n🎓Teaching @conservatorio.cagliari\n🏆 Borciani/Abbiati/Orpheus/Amur\n🏫 Ebène Acad. | HSLU | HKB"
 }

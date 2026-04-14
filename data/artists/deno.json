@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "deno",
-  "name": "Deno",
+  "name": "DENO",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -101,13 +101,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Seven Doors Tattoo London",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Seven Doors Tattoo London\n\n@flashcolorz \nBARCELONA @mano.electrica \n@sevendoorstattoo \n📲BOOKINGS VIA DM",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "13768450",
+    "follower_count": 92031,
+    "following_count": 5119,
+    "media_count": 2724,
+    "following": [],
+    "instagram_full_name": "DENO",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/deno/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "cholo",
-  "name": "Cholo",
+  "name": "Cholo’s studio",
   "location": {
     "city": "Melbourne",
     "country": "Australia"
@@ -13,6 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Fine Line Tattoos Melbourne"
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Fine Line Tattoos Melbourne\n\nProfessional piercing and tattoo studio \nAvailable for walk-ins and custom work\nView individual artists in the highlights below",
+  "instagram_enriched": {
+    "id": "51923967525",
+    "follower_count": 3428,
+    "following_count": 57,
+    "media_count": 66,
+    "following": [],
+    "instagram_full_name": "Cholo’s studio",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/cholo/instagram/profile.jpg"
+  }
 }

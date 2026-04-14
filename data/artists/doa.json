@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "doa",
-  "name": "Doa",
+  "name": "D O A",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -13,5 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-13"
+  "updated_at": "2026-04-14",
+  "bio": "DOA tattoos",
+  "instagram_enriched": {
+    "id": "11884531735",
+    "follower_count": 29062,
+    "following_count": 850,
+    "media_count": 486,
+    "following": [],
+    "instagram_full_name": "D O A",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/doa/instagram/profile.jpg"
+  }
 }

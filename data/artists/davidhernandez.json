@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "davidhernandez",
-  "name": "davidhernandez",
+  "name": "David Hernandez",
   "location": {
     "city": "Talavera de la Reina",
     "country": "Italy"
@@ -28,6 +28,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "WORKPLACE Tattoo Studio Modern Angels Talavera de la Reina"
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Tattoo Studio Modern Angels Talavera de la Reina\n\nOrlando tattoo artist",
+  "instagram_enriched": {
+    "id": "1536762050",
+    "follower_count": 874,
+    "following_count": 2015,
+    "media_count": 271,
+    "following": [],
+    "instagram_full_name": "David Hernandez",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/davidhernandez/instagram/profile.jpg"
+  }
 }

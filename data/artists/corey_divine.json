@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "corey_divine",
-  "name": "Corey Divine",
+  "name": "Vlad Inks Reinders",
   "location": {
     "city": "San Francisco",
     "country": "United States"
@@ -91,12 +91,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "34962875720",
+    "follower_count": 411,
+    "following_count": 758,
+    "media_count": 111,
+    "following": [],
+    "instagram_full_name": "Vlad Inks Reinders",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/corey_divine/instagram/profile.jpg"
+  },
+  "bio": "Russian Tattoo Artist  \n@ DIVINETATTOOPARLOR"
 }

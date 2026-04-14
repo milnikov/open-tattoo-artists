@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "chime",
-  "name": "Chime",
+  "name": "Chimé Tahiti Tatau®️",
   "location": {
     "city": "Saint-Médard-en-Jalles",
     "country": "France"
@@ -41,5 +41,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-14"
+  "updated_at": "2026-04-14",
+  "bio": "🇵🇫 MARQUISIAN Tattoo Artist since 1986 🇵🇫 freehand 🇵🇫 Studio Privé de Tatouage 🌿🌺 pour tout renseignement Contact : chime.tattoo@hotmail.com",
+  "instagram_enriched": {
+    "id": "11149984512",
+    "follower_count": 4966,
+    "following_count": 645,
+    "media_count": 376,
+    "following": [],
+    "instagram_full_name": "Chimé Tahiti Tatau®️",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/chime/instagram/profile.jpg"
+  }
 }

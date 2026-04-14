@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "bernd_muss",
-  "name": "Bernd Muss",
+  "name": "Bernd Muss Tattoo Hamburg",
   "location": {
     "city": "Hamburg",
     "country": "Germany"
@@ -28,12 +28,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "3625381",
+    "follower_count": 17059,
+    "following_count": 2167,
+    "media_count": 974,
+    "following": [],
+    "instagram_full_name": "Bernd Muss Tattoo Hamburg",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/bernd_muss/instagram/profile.jpg"
+  },
+  "bio": "Tattooartist from Hamburg @tattoofreestyle  / Founder of the @ink_ride —Take a look here at my profile: @berndmuss_art    Write me for a customtattoo"
 }

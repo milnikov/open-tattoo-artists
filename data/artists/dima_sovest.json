@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "dima_sovest",
-  "name": "Dima Sovest",
+  "name": "Tattoo Artist",
   "location": {
     "city": "Kiev",
     "country": "Ukraine"
@@ -13,5 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-29"
+  "updated_at": "2026-04-14",
+  "bio": "🖤Graphic, Geometric, Black & Gray Tattoo\n✉️DM for booking",
+  "instagram_enriched": {
+    "id": "34247465583",
+    "follower_count": 2836,
+    "following_count": 150,
+    "media_count": 93,
+    "following": [],
+    "instagram_full_name": "Tattoo Artist",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/dima_sovest/instagram/profile.jpg"
+  }
 }
