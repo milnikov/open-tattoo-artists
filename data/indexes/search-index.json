@@ -35,6 +35,11 @@
     "normalized": "#гошанмосковский"
   },
   {
+    "id": "snot",
+    "name": "$NOT",
+    "normalized": "$not"
+  },
+  {
     "id": "brinditattoo",
     "name": "'Brindi Tattoo'",
     "normalized": "'brindi tattoo'"
@@ -118,6 +123,11 @@
     "id": "romansunico",
     "name": "- Roman Sunico - REALISMO -",
     "normalized": "- roman sunico - realismo -"
+  },
+  {
+    "id": "tavi",
+    "name": "- Stevn",
+    "normalized": "- stevn"
   },
   {
     "id": "stantmtattoos",
@@ -33855,6 +33865,11 @@
     "normalized": "enzotattoo"
   },
   {
+    "id": "seoeon",
+    "name": "Eon Ju Seo",
+    "normalized": "eon ju seo"
+  },
+  {
     "id": "eone_dimension",
     "name": "Eone Burnink",
     "normalized": "eone burnink"
@@ -44363,6 +44378,11 @@
     "id": "iindo_iink",
     "name": "iindo iink Tattoos",
     "normalized": "iindo iink tattoos"
+  },
+  {
+    "id": "yoshi",
+    "name": "Ikegami Yoshikazu",
+    "normalized": "ikegami yoshikazu"
   },
   {
     "id": "ikipetattooart",
@@ -56013,6 +56033,11 @@
     "id": "tattooist_chereri",
     "name": "Kati Cherry",
     "normalized": "kati cherry"
+  },
+  {
+    "id": "propain_tattoo",
+    "name": "Kati Goldenbaum -Propain Tattoo",
+    "normalized": "kati goldenbaum -propain tattoo"
   },
   {
     "id": "katiasomerville",
@@ -82286,7 +82311,7 @@
   },
   {
     "id": "pracownia_czarne_serce",
-    "name": "Pracownia Czarne Serce",
+    "name": "pracownia czarne serce",
     "normalized": "pracownia czarne serce"
   },
   {
@@ -82371,8 +82396,8 @@
   },
   {
     "id": "primal_tattoo",
-    "name": "Primal Tattoo",
-    "normalized": "primal tattoo"
+    "name": "Primal Tattoo | Carrollton, VA",
+    "normalized": "primal tattoo | carrollton, va"
   },
   {
     "id": "primeartconcept",
@@ -82396,8 +82421,8 @@
   },
   {
     "id": "primitive_soul_tattoo",
-    "name": "Primitive Soul Tattoo",
-    "normalized": "primitive soul tattoo"
+    "name": "Primitive Soul Tattoo ( Now Hiring )",
+    "normalized": "primitive soul tattoo ( now hiring )"
   },
   {
     "id": "odylontattoo",
@@ -82426,8 +82451,8 @@
   },
   {
     "id": "priscilla_pandemonia",
-    "name": "Priscilla Pandemonia",
-    "normalized": "priscilla pandemonia"
+    "name": "Priscilla Pandemonia •Anime•",
+    "normalized": "priscilla pandemonia •anime•"
   },
   {
     "id": "prisonbreaktattoos",
@@ -82436,8 +82461,8 @@
   },
   {
     "id": "prison_of_arts",
-    "name": "Prison of Arts",
-    "normalized": "prison of arts"
+    "name": "Prison of Art's",
+    "normalized": "prison of art's"
   },
   {
     "id": "prissy_del_rey",
@@ -82498,11 +82523,6 @@
     "id": "propaganda.tattoo",
     "name": "Propaganda Tattoo Poznań",
     "normalized": "propaganda tattoo poznań"
-  },
-  {
-    "id": "propain_tattoo",
-    "name": "Propain Tattoo",
-    "normalized": "propain tattoo"
   },
   {
     "id": "tattooproton",
@@ -82895,6 +82915,11 @@
     "normalized": "rach bailey"
   },
   {
+    "id": "rachainsworth",
+    "name": "Rachael Ainsworth • Fineline Botanical Tattoo Artist",
+    "normalized": "rachael ainsworth • fineline botanical tattoo artist"
+  },
+  {
     "id": "rachaelriot.tattoo",
     "name": "Rachael Hipkin",
     "normalized": "rachael hipkin"
@@ -82903,11 +82928,6 @@
     "id": "rachaelrosetattoo",
     "name": "Rachael Rose",
     "normalized": "rachael rose"
-  },
-  {
-    "id": "rachainsworth",
-    "name": "rachainsworth",
-    "normalized": "rachainsworth"
   },
   {
     "id": "permanentpainttattoo",
@@ -86885,6 +86905,11 @@
     "normalized": "rodrigo gebelin"
   },
   {
+    "id": "tattooist_art",
+    "name": "rodrigo gustavo",
+    "normalized": "rodrigo gustavo"
+  },
+  {
     "id": "rotattoo",
     "name": "rodrigo hernandez",
     "normalized": "rodrigo hernandez"
@@ -88671,6 +88696,11 @@
   },
   {
     "id": "sissou",
+    "name": "s",
+    "normalized": "s"
+  },
+  {
+    "id": "siyeon",
     "name": "s",
     "normalized": "s"
   },
@@ -91740,11 +91770,6 @@
     "normalized": "seo yeonnie"
   },
   {
-    "id": "seoeon",
-    "name": "Seoeon",
-    "normalized": "seoeon"
-  },
-  {
     "id": "gonggreem",
     "name": "Seoul Ink Tattoo",
     "normalized": "seoul ink tattoo"
@@ -92876,8 +92901,8 @@
   },
   {
     "id": "shinda",
-    "name": "Shinda",
-    "normalized": "shinda"
+    "name": "Shinda Dhaliwal",
+    "normalized": "shinda dhaliwal"
   },
   {
     "id": "shinda_tattoo",
@@ -92893,11 +92918,6 @@
     "id": "_shinya",
     "name": "Shinya Osanai",
     "normalized": "shinya osanai"
-  },
-  {
-    "id": "shio",
-    "name": "Shio",
-    "normalized": "shio"
   },
   {
     "id": "shio1red",
@@ -93805,11 +93825,6 @@
     "normalized": "sixth gate"
   },
   {
-    "id": "siyeon",
-    "name": "Siyeon",
-    "normalized": "siyeon"
-  },
-  {
     "id": "siyeon_tattoo",
     "name": "Siyeon",
     "normalized": "siyeon"
@@ -94305,11 +94320,6 @@
     "normalized": "snoopytattoo"
   },
   {
-    "id": "snot",
-    "name": "Snot",
-    "normalized": "snot"
-  },
-  {
     "id": "snot_tattoo",
     "name": "Snot Tattoo",
     "normalized": "snot tattoo"
@@ -94570,11 +94580,6 @@
     "normalized": "sophie"
   },
   {
-    "id": "sophie",
-    "name": "Sophie",
-    "normalized": "sophie"
-  },
-  {
     "id": "synergik_tattoo",
     "name": "Sophie",
     "normalized": "sophie"
@@ -94628,6 +94633,11 @@
     "id": "bloodflowerstattoo",
     "name": "Sophie Jess",
     "normalized": "sophie jess"
+  },
+  {
+    "id": "sophie",
+    "name": "Sophie Katirai | صوفي",
+    "normalized": "sophie katirai | صوفي"
   },
   {
     "id": "sophielewis",
@@ -96636,7 +96646,7 @@
   },
   {
     "id": "suya",
-    "name": "Suya",
+    "name": "suya",
     "normalized": "suya"
   },
   {
@@ -98435,11 +98445,6 @@
     "normalized": "tattooist arar"
   },
   {
-    "id": "tattooist_art",
-    "name": "Tattooist Art",
-    "normalized": "tattooist art"
-  },
-  {
     "id": "tattooistcastro",
     "name": "Tattooist Castro",
     "normalized": "tattooist castro"
@@ -99153,11 +99158,6 @@
     "id": "tauras_art",
     "name": "Tauras Marmakas",
     "normalized": "tauras marmakas"
-  },
-  {
-    "id": "tavi",
-    "name": "Tavi",
-    "normalized": "tavi"
   },
   {
     "id": "tattoo_tavira",
@@ -101211,8 +101211,8 @@
   },
   {
     "id": "tivas",
-    "name": "Tivas",
-    "normalized": "tivas"
+    "name": "TIVAS │ TATTOO ARTIST",
+    "normalized": "tivas │ tattoo artist"
   },
   {
     "id": "tizianocarbone",
@@ -101498,6 +101498,11 @@
     "id": "tomonorishimizu",
     "name": "Tomonori Shimizu",
     "normalized": "tomonori shimizu"
+  },
+  {
+    "id": "yushi",
+    "name": "Tomoyuki Otsu",
+    "normalized": "tomoyuki otsu"
   },
   {
     "id": "tomrenshaw",
@@ -101865,6 +101870,11 @@
     "normalized": "toshihide"
   },
   {
+    "id": "shio",
+    "name": "Toshio Chuang",
+    "normalized": "toshio chuang"
+  },
+  {
     "id": "toshy_kun",
     "name": "Toshy Kun",
     "normalized": "toshy kun"
@@ -101931,7 +101941,7 @@
   },
   {
     "id": "trace",
-    "name": "Trace",
+    "name": "TRACE",
     "normalized": "trace"
   },
   {
@@ -102995,11 +103005,6 @@
     "normalized": "via"
   },
   {
-    "id": "vic",
-    "name": "Vic",
-    "normalized": "vic"
-  },
-  {
     "id": "vicback",
     "name": "Vic Back",
     "normalized": "vic back"
@@ -103138,6 +103143,11 @@
     "id": "victorrebel",
     "name": "Victor Rebel",
     "normalized": "victor rebel"
+  },
+  {
+    "id": "vic",
+    "name": "Victor Ricci",
+    "normalized": "victor ricci"
   },
   {
     "id": "sepulvedatattoo",
@@ -103741,8 +103751,8 @@
   },
   {
     "id": "welmo",
-    "name": "Welmo",
-    "normalized": "welmo"
+    "name": "Welmo Romero Joseph",
+    "normalized": "welmo romero joseph"
   },
   {
     "id": "tattoohustleofficial",
@@ -104590,11 +104600,6 @@
     "normalized": "yam yippy"
   },
   {
-    "id": "yami",
-    "name": "Yami",
-    "normalized": "yami"
-  },
-  {
     "id": "tattooist_yammy",
     "name": "Yammy",
     "normalized": "yammy"
@@ -105085,11 +105090,6 @@
     "normalized": "yoshe"
   },
   {
-    "id": "yoshi",
-    "name": "Yoshi",
-    "normalized": "yoshi"
-  },
-  {
     "id": "yosmar_urrutia",
     "name": "Yosmar Urrutia - illustrative Tattoo artist",
     "normalized": "yosmar urrutia - illustrative tattoo artist"
@@ -105260,11 +105260,6 @@
     "normalized": "yuri rosa"
   },
   {
-    "id": "yushi",
-    "name": "Yushi",
-    "normalized": "yushi"
-  },
-  {
     "id": "yushitattoo",
     "name": "Yushi",
     "normalized": "yushi"
@@ -105313,6 +105308,11 @@
     "id": "blackchartertattoo",
     "name": "Yōkin",
     "normalized": "yōkin"
+  },
+  {
+    "id": "yami",
+    "name": "z",
+    "normalized": "z"
   },
   {
     "id": "zzizziboy",
@@ -105813,11 +105813,6 @@
     "id": "zihaes.tale",
     "name": "Zihae",
     "normalized": "zihae"
-  },
-  {
-    "id": "ziho",
-    "name": "Ziho",
-    "normalized": "ziho"
   },
   {
     "id": "zihwa",
@@ -107303,6 +107298,11 @@
     "id": "a2cey",
     "name": "آيـة",
     "normalized": "آيـة"
+  },
+  {
+    "id": "ziho",
+    "name": "اقامتگاه بوم گردی زی هو",
+    "normalized": "اقامتگاه بوم گردی زی هو"
   },
   {
     "id": "yas",
