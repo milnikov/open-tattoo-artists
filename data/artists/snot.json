@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "snot",
-  "name": "Snot",
+  "name": "$NOT",
   "location": {
     "city": "Barcelona",
     "country": "Spain"
@@ -13,13 +13,15 @@
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
   "tattoos": [],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Ondo Tattoo Barcelona",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Ondo Tattoo Barcelona\n\n🕊️ @velg0ra",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "1901507882",
+    "follower_count": 1484860,
+    "following_count": 1312,
+    "media_count": 97,
+    "following": [],
+    "instagram_full_name": "$NOT",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/snot/instagram/profile.jpg"
   }
 }

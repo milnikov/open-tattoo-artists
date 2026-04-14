@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ziho",
-  "name": "Ziho",
+  "name": "اقامتگاه بوم گردی زی هو",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE P Ziho Gallery",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE P Ziho Gallery\n\nتجربه اقامت در خانه ای الهام گرفته از معماری بومی قشم\nزی هو تلفیقی از فرهنگ و آرامش",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "72151220632",
+    "follower_count": 2,
+    "following_count": 1,
+    "media_count": 2,
+    "following": [],
+    "instagram_full_name": "اقامتگاه بوم گردی زی هو",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ziho/instagram/profile.jpg"
   }
 }

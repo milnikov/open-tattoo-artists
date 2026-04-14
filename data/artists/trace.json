@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "trace",
-  "name": "Trace",
+  "name": "TRACE",
   "location": {
     "city": "Mississauga",
     "country": "Canada"
@@ -602,13 +602,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Chronic Ink Tattoo Mississauga Mississauga",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Chronic Ink Tattoo Mississauga Mississauga\n\nEmo writer / music + film \n@nomoresadsongsfilm @crybabythefilm @terriblethedoc",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "1093721",
+    "follower_count": 17237,
+    "following_count": 943,
+    "media_count": 140,
+    "following": [],
+    "instagram_full_name": "TRACE",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/trace/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tavi",
-  "name": "Tavi",
+  "name": "- Stevn",
   "location": {
     "city": "Vancouver",
     "country": "Canada"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "bio": "WORKPLACE P Brass Harpy Art Collective",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "6214436636",
+    "follower_count": 412,
+    "following_count": 0,
+    "media_count": 0,
+    "following": [],
+    "instagram_full_name": "- Stevn",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tavi/instagram/profile.jpg"
   }
 }

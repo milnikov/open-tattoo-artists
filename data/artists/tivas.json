@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "tivas",
-  "name": "Tivas",
+  "name": "TIVAS │ TATTOO ARTIST",
   "location": {
     "city": "Brooklyn",
     "country": "United States"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Fleur Noire Tattoo Brooklyn",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Fleur Noire Tattoo Brooklyn\n\nnew york at @secondneedle\ninquiries + booking → link or email below\nplease check your spam email",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "3437221358",
+    "follower_count": 58731,
+    "following_count": 1153,
+    "media_count": 1116,
+    "following": [],
+    "instagram_full_name": "TIVAS │ TATTOO ARTIST",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tivas/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "prison_of_arts",
-  "name": "Prison of Arts",
+  "name": "Prison of Art's",
   "location": {
     "city": "Aadorf",
     "country": "Switzerland"
@@ -618,13 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "Discover the intricate beauty of tattoo artistry at Prison of Arts, nestled in the heart of Aadorf, Switzerland. Specializing in fineline, floral, and neotraditional styles, our studio promises a serene environment where creativity flourishes and every design becomes a personalized masterpiece. Visit us to experience where passion meets precision at prison-of-arts.com.\nPrice: $\nCurrent location: Aadorf, Thurgau, Switzerland",
+  "updated_at": "2026-04-14",
+  "bio": "Discover the intricate beauty of tattoo artistry at Prison of Arts, nestled in the heart of Aadorf, Switzerland. Specializing in fineline, floral, and neotraditional styles, our studio promises a serene environment where creativity flourishes and every design becomes a personalized masterpiece. Visit us to experience where passion meets precision at prison-of-arts.com.\nPrice: $\nCurrent location: Aadorf, Thurgau, Switzerland\n\nTattoo and more | Switzerland | prison-of-arts.com",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "865551948",
+    "follower_count": 2491,
+    "following_count": 741,
+    "media_count": 279,
+    "following": [],
+    "instagram_full_name": "Prison of Art's",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/prison_of_arts/instagram/profile.jpg"
   }
 }

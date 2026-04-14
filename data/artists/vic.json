@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "vic",
-  "name": "Vic",
+  "name": "Victor Ricci",
   "location": {
     "city": "Toronto",
     "country": "Canada"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE 7 MAG TATTOOS Toronto",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE 7 MAG TATTOOS Toronto\n\n@mattered",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "228950767",
+    "follower_count": 31648,
+    "following_count": 393,
+    "media_count": 48,
+    "following": [],
+    "instagram_full_name": "Victor Ricci",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vic/instagram/profile.jpg"
   }
 }
