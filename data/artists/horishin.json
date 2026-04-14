@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "horishin",
-  "name": "Horishin",
+  "name": "彫新",
   "location": {
     "city": "Isesaki",
     "country": "Japan"
@@ -86,13 +86,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE Capsule Tattoo Isesaki",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Capsule Tattoo Isesaki\n\nTattoo artist & painter.\n \n From China",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "547672515",
+    "follower_count": 500,
+    "following_count": 2471,
+    "media_count": 129,
+    "following": [],
+    "instagram_full_name": "彫新",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/horishin/instagram/profile.jpg"
   }
 }

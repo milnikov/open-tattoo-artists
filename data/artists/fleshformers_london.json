@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "fleshformers_london",
-  "name": "Fleshformers London",
+  "name": "Roman Road | Tattoo & Piercing Studio",
   "location": {
     "city": "London",
     "country": "United Kingdom"
@@ -616,12 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "13054212228",
+    "follower_count": 4283,
+    "following_count": 1120,
+    "media_count": 256,
+    "following": [],
+    "instagram_full_name": "Roman Road | Tattoo & Piercing Studio",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/fleshformers_london/instagram/profile.jpg"
+  },
+  "bio": "🪩 Open Tues-Sat 10am-5pm\n🎉 All bodies welcome\n📩 DM for enquiries\nProud member of @theinkreligionfamily \nUnder new management, formerly Fleshformers"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "foret",
-  "name": "Foret",
+  "name": "tema",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "bio": "WORKPLACE Nando Studio Seoul",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "1465847490",
+    "follower_count": 20,
+    "following_count": 1,
+    "media_count": 0,
+    "following": [],
+    "instagram_full_name": "tema",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/foret/instagram/profile.jpg"
   }
 }
