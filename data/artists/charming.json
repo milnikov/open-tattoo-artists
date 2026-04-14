@@ -16,6 +16,18 @@
   },
   "tattoos": [
     {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/charming/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/charming/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
       "image_id": "001",
       "image_full": "https://img.thetattoo.world/artists/charming/full/001.webp",
       "image_thumb": "https://img.thetattoo.world/artists/charming/thumb/001.webp",
@@ -40,14 +52,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-10",
-  "bio": "Слава Україні 🇺🇦\n3x cross country 🇺🇸",
+  "updated_at": "2026-04-14",
+  "bio": "Слава Україні 🇺🇦\n3x cross country 🇺🇸\n\nСлава Україні 🇺🇦\n3x cross country 🇺🇸",
   "instagram_enriched": {
     "id": "7017804322",
-    "follower_count": 1050,
-    "following_count": 137,
-    "media_count": 3,
+    "follower_count": 1081,
+    "following_count": 167,
+    "media_count": 1,
     "following": [],
-    "profile_pic_url": "https://img.thetattoo.world/artists/charming/instagram/profile.jpg"
+    "instagram_full_name": "Colin",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/charming/instagram/profile.jpg"
   }
 }
