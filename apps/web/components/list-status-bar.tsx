@@ -18,6 +18,7 @@ export function ListStatusBar({
   onPageChange,
   variant = "top",
 }: ListStatusBarProps) {
+  const formattedTotalCount = totalCount.toLocaleString();
   const borderClass =
     variant === "bottom"
       ? "border-t border-border"
@@ -28,7 +29,7 @@ export function ListStatusBar({
       className={`flex items-center justify-between px-4 md:px-8 h-9 ${borderClass}`}
     >
       <span className="text-xs text-muted-foreground">
-        {totalCount} artists{" "}
+        {formattedTotalCount} artists{" "}
         {totalPages > 0 && (
           <>
             {"・"} page {page + 1} of {totalPages}
