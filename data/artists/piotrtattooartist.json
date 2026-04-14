@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "piotrtattooartist",
-  "name": "Piotr Tattoo Artist",
+  "name": "Piotr Wypych B62 Tattoo Studio",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -43,13 +43,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "bio": "Piotr Tattoo Artist is a master craftsman specializing in an array of styles including trashpolka, black&gray, realism, and coverups. His proficiency in the skill of tattooing is exemplified by his meticulous work— marked by its intricate detail and precision. You can always expect a high level of professionalism and clear dedication to the art from Piotr.\nPrice: $$\nCurrent location:",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "5545397341",
+    "follower_count": 8995,
+    "following_count": 321,
+    "media_count": 189,
+    "following": [],
+    "instagram_full_name": "Piotr Wypych B62 Tattoo Studio",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/piotrtattooartist/instagram/profile.jpg"
   }
 }

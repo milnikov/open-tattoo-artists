@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pachuco_tattoo",
-  "name": "Pachuco Tattoo",
+  "name": "pachuco_tattoo",
   "location": {
     "city": "Orange",
     "country": "United States"
@@ -617,13 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "Pachuco Tattoo\nSTUDIO\nOrange, California, United States\n48.7k\nAdd\nMessage\nblack&gray\ntribal",
+  "updated_at": "2026-04-14",
+  "bio": "Pachuco Tattoo\nSTUDIO\nOrange, California, United States\n48.7k\nAdd\nMessage\nblack&gray\ntribal\n\n🏆1620 E Mayfair Ave Orange, CA 92867 \nEST 2011➕(714)602-9355 | \"Best Place to get Tattooed in OC\"  -OCHotlist | \"Best Tattoo Parlor \"- OCWeekly",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "196106576",
+    "follower_count": 69428,
+    "following_count": 4371,
+    "media_count": 7137,
+    "following": [],
+    "instagram_full_name": "pachuco_tattoo",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pachuco_tattoo/instagram/profile.jpg"
   }
 }

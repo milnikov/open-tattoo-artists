@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "palette.tt",
-  "name": "Palette Tattoo Artist",
+  "name": "팔레트 Palette",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -41,13 +41,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "Palette Tattoo Artist is an exceptionally skilled tattoo artist who masters in illustrative and minimalist styles. Specialising in exquisite designs, they have garnered a following of roughly 65,000 on Instagram - testament to their virtuoso talents. They are organized and professional, maintaining an updated schedule that includes a stay in Los Angeles from mid-October to mid-November.\nPrice: $$\nCurrent location:",
+  "updated_at": "2026-04-14",
+  "bio": "Palette Tattoo Artist is an exceptionally skilled tattoo artist who masters in illustrative and minimalist styles. Specialising in exquisite designs, they have garnered a following of roughly 65,000 on Instagram - testament to their virtuoso talents. They are organized and professional, maintaining an updated schedule that includes a stay in Los Angeles from mid-October to mid-November.\nPrice: $$\nCurrent location:\n\n🇰🇷 𝖡𝖺𝗌𝖾𝖽 𝗂𝗇 𝖲𝖾𝗈𝗎𝗅 @innovseoul \n⤷ 𝗔𝗽𝗿 · 𝗠𝗮𝘆 𝖻𝗈𝗈𝗄𝗂𝗇𝗀𝗌 𝗈𝗉𝖾𝗇\n🇯🇵 𝖳𝗈𝗄𝗒𝗈 𝟧/𝟣–𝟧/𝟨",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "3144821535",
+    "follower_count": 62055,
+    "following_count": 533,
+    "media_count": 945,
+    "following": [],
+    "instagram_full_name": "팔레트 Palette",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/palette.tt/instagram/profile.jpg"
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "oldmonktattoo",
-  "name": "Oldmonktattoo",
+  "name": "Lionharman",
   "location": {
     "city": "Sacramento",
     "country": "United States"
@@ -616,13 +616,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "bio": "Step into Oldmonk Tattoo, a masterful studio specializing in the timeless elegance of black & gray ink. Located in the vibrant Galleria Mall in Roseville, near Sacramento, our skilled artists are eager to tailor a million custom designs to adorn your skin with exquisite detail. For tattoos, piercings, and unique jewelz that reflect your personal story, book an appointment by messaging us at 916-260-0000. Experience the artistry where every mark is a masterpiece.\nPrice: $\nCurrent location: Sacramento, California, United States",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "14433977163",
+    "follower_count": 1640,
+    "following_count": 339,
+    "media_count": 250,
+    "following": [],
+    "instagram_full_name": "Lionharman",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/oldmonktattoo/instagram/profile.jpg"
   }
 }

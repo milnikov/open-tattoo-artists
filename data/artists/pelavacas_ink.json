@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pelavacas_ink",
-  "name": "Pelavacas Ink",
+  "name": "pelavacas_ink",
   "location": {
     "city": "Milwaukee",
     "country": "United States"
@@ -448,13 +448,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "Pelavacas Ink is a highly skilled Black & Grey tattoo artist based in Milwaukee, United States. Renowned in the industry and an artist for Sullen, they operate out of the acclaimed Studio 84 Tattoo Co. The caliber of their work is impressive, ensuring every design is a masterpiece that showcases their expertise and flair for the unique 'Black & Grey' style.\nPrice: $$\nCurrent location: Milwaukee, Wisconsin, United States",
+  "updated_at": "2026-04-14",
+  "bio": "Pelavacas Ink is a highly skilled Black & Grey tattoo artist based in Milwaukee, United States. Renowned in the industry and an artist for Sullen, they operate out of the acclaimed Studio 84 Tattoo Co. The caliber of their work is impressive, ensuring every design is a masterpiece that showcases their expertise and flair for the unique 'Black & Grey' style.\nPrice: $$\nCurrent location: Milwaukee, Wisconsin, United States\n\n◾️Black & Grey Tattoo Artist\n▪️Sullen Artist                                            \n▪️horse owners\n▪️Milwaukee Wisconsin \n▪️By Appointment Only",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "25059615",
+    "follower_count": 15820,
+    "following_count": 907,
+    "media_count": 1049,
+    "following": [],
+    "instagram_full_name": "pelavacas_ink",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pelavacas_ink/instagram/profile.jpg"
   }
 }

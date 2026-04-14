@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "ollie_pinder",
-  "name": "Ollie Pinder",
+  "name": "OLLIE PINDER",
   "location": {
     "city": "Unknown",
     "country": "Unknown"
@@ -42,5 +42,15 @@
       }
     }
   ],
-  "updated_at": "2026-04-01"
+  "updated_at": "2026-04-14",
+  "bio": "Studio:@starlingtattooltd email:olliepinder@icloud.com",
+  "instagram_enriched": {
+    "id": "212272933",
+    "follower_count": 6780,
+    "following_count": 2672,
+    "media_count": 2844,
+    "following": [],
+    "instagram_full_name": "OLLIE PINDER",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/ollie_pinder/instagram/profile.jpg"
+  }
 }

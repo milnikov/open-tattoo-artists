@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "omerta_tattoo",
-  "name": "Omerta Tattoo",
+  "name": "Tatuaż & Piercing Wrocław",
   "location": {
     "city": "Wroclaw",
     "country": "Poland"
@@ -617,13 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "Omerta Tattoo, located in Wroclaw, Poland, is a highly skilled tattoo artist renowned for their unique styles in trashpolka and black & gray. Their professionalism is made evident through their refined artistry and wide variety of work showcased by different artists such as @fiszink, @mattsiekiera, @ciemnastronawidelca, @ivchnko_ink, and @fredpiercing.\nPrice: $$\nCurrent location: Wroclaw, Woj. Dolnośląskie, Poland",
+  "updated_at": "2026-04-14",
+  "bio": "Omerta Tattoo, located in Wroclaw, Poland, is a highly skilled tattoo artist renowned for their unique styles in trashpolka and black & gray. Their professionalism is made evident through their refined artistry and wide variety of work showcased by different artists such as @fiszink, @mattsiekiera, @ciemnastronawidelca, @ivchnko_ink, and @fredpiercing.\nPrice: $$\nCurrent location: Wroclaw, Woj. Dolnośląskie, Poland\n\nWitaj w naszym świecie tatuażu ❤️",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "4726381796",
+    "follower_count": 40563,
+    "following_count": 1499,
+    "media_count": 1198,
+    "following": [],
+    "instagram_full_name": "Tatuaż & Piercing Wrocław",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/omerta_tattoo/instagram/profile.jpg"
   }
 }

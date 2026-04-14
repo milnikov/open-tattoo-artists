@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "polyc_sj",
-  "name": "Polyc SJ",
+  "name": "POLYC",
   "location": {
     "city": "Seoul",
     "country": "South Korea"
@@ -614,13 +614,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "WORKPLACE P Robin Egg Studio",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE P Robin Egg Studio\n\nInquiry / askpolyc@gmail.com",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "1596745116",
+    "follower_count": 710376,
+    "following_count": 417,
+    "media_count": 711,
+    "following": [],
+    "instagram_full_name": "POLYC",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/polyc_sj/instagram/profile.jpg"
   }
 }

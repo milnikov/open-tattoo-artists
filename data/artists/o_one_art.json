@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "o_one_art",
-  "name": "O One Art",
+  "name": "O.ONE",
   "location": {
     "city": "Unknown",
     "country": "South Korea"
@@ -618,13 +618,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
-  "bio": "O One Art is a highly skilled tattoo artist based in South Korea, specializing in the intricate styles of black&gray, sketch and fineline. With over 100,000 followers on Instagram, their exceptional talent speaks volumes, drawing a vast audience both locally and internationally. Their approach to their craft is marked by a serious commitment, attention to detail and the highest level of professionalism.\nPrice: $$$\nCurrent location: South Korea, South Korea",
+  "updated_at": "2026-04-14",
+  "bio": "O One Art is a highly skilled tattoo artist based in South Korea, specializing in the intricate styles of black&gray, sketch and fineline. With over 100,000 followers on Instagram, their exceptional talent speaks volumes, drawing a vast audience both locally and internationally. Their approach to their craft is marked by a serious commitment, attention to detail and the highest level of professionalism.\nPrice: $$$\nCurrent location: South Korea, South Korea\n\n@bloodcandy_tattoo \nSponsored by @allegoryink \n■ contact \n• DM\n• oonearttt@gmail.com\n• kakao: oonearttt",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "540657353",
+    "follower_count": 169209,
+    "following_count": 1576,
+    "media_count": 500,
+    "following": [],
+    "instagram_full_name": "O.ONE",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/o_one_art/instagram/profile.jpg"
   }
 }

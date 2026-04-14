@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pawel_bobrowicz",
-  "name": "Pawel Bobrowicz",
+  "name": "Paweł Bobrowicz",
   "location": {
     "city": "Warsaw",
     "country": "Poland"
@@ -617,13 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "bio": "Pawel Bobrowicz is a highly skilled tattoo artist based in Warsaw, Poland, specializing in illustrative and traditional styles. With a keen eye for detail and a masterful hand, Pawel creates stunning, enduring artwork on skin. Clients rave about his professionalism, which is evident in both the immaculate quality of his tattoos and the way he conducts his business.\nPrice: $\nCurrent location: Warsaw, Woj. Mazowieckie, Poland",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
+    "id": "56863095789",
+    "follower_count": 13,
+    "following_count": 7,
+    "media_count": 21,
+    "following": [],
+    "instagram_full_name": "Paweł Bobrowicz",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pawel_bobrowicz/instagram/profile.jpg"
   }
 }

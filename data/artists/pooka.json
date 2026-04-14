@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "id": "pooka",
-  "name": "Pooka",
+  "name": "pooka",
   "location": {
     "city": "Miami",
     "country": "United States"
@@ -617,12 +617,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-29",
+  "updated_at": "2026-04-14",
   "instagram_enriched": {
-    "id": null,
-    "follower_count": null,
-    "following_count": null,
-    "media_count": null,
-    "following": []
-  }
+    "id": "73284",
+    "follower_count": 24635,
+    "following_count": 3998,
+    "media_count": 5292,
+    "following": [],
+    "instagram_full_name": "pooka",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/pooka/instagram/profile.jpg"
+  },
+  "bio": "Owner of Great Oak Tattoo Studio\n@greatoaktattoo \nCreator of herbal offerings @morningglorynaturals \n✨ Appointment request form linked below"
 }
