@@ -113,6 +113,9 @@ def build_compact(artists: list[dict]) -> list[dict]:
         fc = ie.get("follower_count")
         if fc is not None and isinstance(fc, (int, float)):
             entry["follower_count"] = int(fc)
+        ppu = ie.get("profile_pic_url")
+        if isinstance(ppu, str) and ppu.strip():
+            entry["instagram_profile_pic"] = ppu.strip()
         links = a.get("links") or {}
         sd = source_domain_from_url(links.get("source"))
         if sd:

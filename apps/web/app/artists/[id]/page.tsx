@@ -31,6 +31,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
 
   const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
+  const avatarSrc = artist.instagram_enriched?.profile_pic_url?.trim() ?? "";
 
   const updatedAtEl =
     artist.updated_at != null && artist.updated_at !== "" ? (
@@ -50,6 +51,20 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
         {/* Head block: 4 cols on md = 1fr | 3fr | 1fr gap | 1fr; 2 rows so buttons align */}
         <div className="grid grid-cols-1 md:grid-cols-[1fr_3fr_1fr_1fr] md:grid-rows-[auto_auto] gap-4 md:gap-y-6 md:gap-x-0 px-4 py-6 md:px-8 md:py-8 min-w-0">
           <div className="flex flex-col gap-1 min-w-0 md:row-start-1 md:col-start-1">
+            {avatarSrc ? (
+              <div className="relative w-16 h-16 rounded-full overflow-hidden mb-1">
+                <img
+                  src={avatarSrc}
+                  alt=""
+                  className="w-16 h-16 rounded-full object-cover"
+                />
+                <span
+                  aria-hidden="true"
+                  className="pointer-events-none absolute inset-0 rounded-full"
+                  style={{ boxShadow: "inset 0 0 0 1px rgba(0,0,0,0.08)" }}
+                />
+              </div>
+            ) : null}
             <h1 className="text-sm font-bold text-foreground leading-tight">
               {artist.name}
             </h1>
@@ -96,7 +111,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
             )}
           </div>
 
-          <div className="flex flex-col gap-1 text-xs min-w-0 md:row-start-1 md:col-start-2">
+          <div className={`flex flex-col gap-1 text-xs min-w-0 md:row-start-1 md:col-start-2 ${avatarSrc ? "md:pt-[72px]" : ""}`}>
             {bioText && (
               <span className="text-foreground leading-relaxed whitespace-pre-line block">
                 {bioText}
@@ -106,7 +121,7 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
 
           <div className="hidden md:block md:row-start-1 md:col-start-3" aria-hidden />
 
-          <div className="flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-4 md:items-end md:text-right">
+          <div className={`flex flex-col gap-y-0.5 text-xs min-w-0 md:row-start-1 md:col-start-4 md:items-end md:text-right ${avatarSrc ? "md:pt-[72px]" : ""}`}>
             {artist.styles.map((style) => (
               <Link
                 key={style}

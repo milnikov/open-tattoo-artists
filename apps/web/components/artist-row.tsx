@@ -69,6 +69,7 @@ export function ArtistRow({
 }: ArtistRowProps) {
   const descriptionText = getDescriptionExcerpt(artist);
   const followerCount = artistFollowerCount(artist);
+  const avatarSrc = artist.instagram_profile_pic?.trim() || "";
   const hasCity = !!artist.location.city;
   const hasCountry = !!artist.location.country;
   const thumbs: string[] =
@@ -89,16 +90,31 @@ export function ArtistRow({
         className="block hover:bg-muted/50 transition-colors"
       >
         <div className="grid grid-cols-1 md:grid-cols-[40px_minmax(0,0.5fr)_minmax(0,1.2fr)_120px_346px] gap-4 md:gap-6 px-4 py-6 md:px-8 md:py-8 items-start min-w-0">
-          <span className="hidden md:block text-xs text-muted-foreground tabular-nums pt-0.5">
+          <span className={`hidden md:block text-xs text-muted-foreground tabular-nums pt-0.5 ${avatarSrc ? "md:pt-14" : ""}`}>
             {String(index + 1).padStart(3, "0")}
           </span>
 
-          <div className="flex flex-col gap-0.5 min-w-0">
-            <div className="flex items-center justify-between gap-2">
+          <div className="relative flex flex-col gap-1 min-w-0">
+            {avatarSrc ? (
+              <div className="relative w-12 h-12 rounded-full overflow-hidden">
+                <img
+                  src={avatarSrc}
+                  alt=""
+                  className="w-12 h-12 rounded-full object-cover"
+                  loading="lazy"
+                />
+                <span
+                  aria-hidden="true"
+                  className="pointer-events-none absolute inset-0 rounded-full"
+                  style={{ boxShadow: "inset 0 0 0 1px rgba(0,0,0,0.08)" }}
+                />
+              </div>
+            ) : null}
+            <div className={`flex items-center gap-2 pr-10 ${avatarSrc ? "mt-1" : ""}`}>
               <h3 className="text-sm font-bold text-foreground leading-tight min-w-0">
                 {artist.name}
               </h3>
-              <span className="shrink-0 md:hidden text-xs font-normal text-muted-foreground tabular-nums">
+              <span className="absolute right-0 top-0 shrink-0 md:hidden text-xs font-normal text-muted-foreground tabular-nums">
                 {String(index + 1).padStart(3, "0")}
               </span>
             </div>
@@ -151,7 +167,7 @@ export function ArtistRow({
             </span>
           </div>
 
-          <div className="flex flex-col text-xs min-w-0">
+          <div className={`flex flex-col text-xs min-w-0 ${avatarSrc ? "md:pt-14" : ""}`}>
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
             {followerCount > 0 ? (
               <span className="mt-2 text-black">
@@ -168,7 +184,7 @@ export function ArtistRow({
             )}
           </div>
 
-          <div className="flex flex-col gap-y-0.5 pt-0.5 text-xs">
+          <div className={`flex flex-col gap-y-1 pt-0.5 text-xs ${avatarSrc ? "md:pt-14" : ""}`}>
             {artist.styles.map((style) => (
               <span
                 key={style}
@@ -198,7 +214,7 @@ export function ArtistRow({
               {thumbsForRow.map((src, i) => (
                 <div
                   key={i}
-                  className={`w-[216px] h-[288px] md:w-[120px] md:h-[162px] bg-muted overflow-hidden shrink-0${i >= 4 ? " md:hidden" : ""}`}
+                  className={`w-[216px] h-[288px] md:w-[120px] md:h-[162px] bg-muted rounded overflow-hidden shrink-0${i >= 4 ? " md:hidden" : ""}`}
                 >
                   <img
                     src={imageUrl(src)}

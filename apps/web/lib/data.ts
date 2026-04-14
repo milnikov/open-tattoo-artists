@@ -145,6 +145,8 @@ export interface CompactArtist {
   updated_at?: string;
   /** Instagram follower count (from instagram_enriched); used to show artists with no bio when >1000. */
   follower_count?: number;
+  /** Instagram profile photo URL from enrichment, used in list row avatar. */
+  instagram_profile_pic?: string;
   /** Moderation flag; missing = not checked yet. Admin hides any set value. */
   verified?: "artist" | "studio" | "need_to_check";
   /** Domain of links.source (e.g. "tattooswizard.com"). */
@@ -187,7 +189,7 @@ export interface Artist {
   updated_at: string;
   /** Moderation flag; missing = not checked yet. Admin hides any set value. */
   verified?: "artist" | "studio" | "need_to_check";
-  instagram_enriched?: { follower_count?: number };
+  instagram_enriched?: { follower_count?: number; profile_pic_url?: string };
 }
 
 let compactArtistsCache: { mtimeMs: number; artists: CompactArtist[] } | null = null;
