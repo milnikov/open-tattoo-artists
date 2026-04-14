@@ -1700,6 +1700,11 @@
     "normalized": "GRAPHIKRIS"
   },
   {
+    "id": "greed",
+    "name": "𝐆𝐑𝐄𝐄𝐃",
+    "normalized": "GREED"
+  },
+  {
     "id": "gregtattooficial",
     "name": "𝐺𝑅𝐸𝐺•𝑇𝐴𝑇𝑈𝐴𝐷𝑂𝑅",
     "normalized": "GREG•TATUADOR"
@@ -3703,6 +3708,11 @@
     "id": "absteige",
     "name": "Absteige",
     "normalized": "absteige"
+  },
+  {
+    "id": "hey.norte",
+    "name": "abstract and illustrative tattoo in Barcelona",
+    "normalized": "abstract and illustrative tattoo in barcelona"
   },
   {
     "id": "artebree",
@@ -36900,11 +36910,6 @@
     "normalized": "flesh to fantasy bellefontaine"
   },
   {
-    "id": "fleshformers_london",
-    "name": "Fleshformers London",
-    "normalized": "fleshformers london"
-  },
-  {
     "id": "fleur.de.may",
     "name": "Fleur de May",
     "normalized": "fleur de may"
@@ -37148,11 +37153,6 @@
     "id": "force.ink",
     "name": "FORCE INK",
     "normalized": "force ink"
-  },
-  {
-    "id": "foret",
-    "name": "Foret",
-    "normalized": "foret"
   },
   {
     "id": "forever.bound.tattoo",
@@ -38110,11 +38110,6 @@
     "normalized": "future tattoo"
   },
   {
-    "id": "fuzi_uvtpk",
-    "name": "FUZI UVTPK",
-    "normalized": "fuzi uvtpk"
-  },
-  {
     "id": "fuzzytattoo",
     "name": "Fuzzy",
     "normalized": "fuzzy"
@@ -38295,12 +38290,12 @@
     "normalized": "gabor zolyomi"
   },
   {
-    "id": "gabri_l",
-    "name": "Gabri L",
-    "normalized": "gabri l"
+    "id": "epicpeasant",
+    "name": "Gabriel",
+    "normalized": "gabriel"
   },
   {
-    "id": "epicpeasant",
+    "id": "gabri_l",
     "name": "Gabriel",
     "normalized": "gabriel"
   },
@@ -38626,8 +38621,8 @@
   },
   {
     "id": "gang_bang_tattoo",
-    "name": "Gang Bang Tattoo",
-    "normalized": "gang bang tattoo"
+    "name": "GANG BANG TATTOO | EAST",
+    "normalized": "gang bang tattoo | east"
   },
   {
     "id": "gangatattoo",
@@ -38705,14 +38700,14 @@
     "normalized": "garo lozada e"
   },
   {
-    "id": "garret",
-    "name": "Garret",
-    "normalized": "garret"
-  },
-  {
     "id": "garrett_harper_tattoos",
     "name": "Garrett Harper",
     "normalized": "garrett harper"
+  },
+  {
+    "id": "garret",
+    "name": "Garrett Potts",
+    "normalized": "garrett potts"
   },
   {
     "id": "lowpokes",
@@ -40695,11 +40690,6 @@
     "normalized": "great wolf tattoo"
   },
   {
-    "id": "greed",
-    "name": "Greed",
-    "normalized": "greed"
-  },
-  {
     "id": "greem",
     "name": "Greem",
     "normalized": "greem"
@@ -40913,11 +40903,6 @@
     "id": "grinn_and_barrett",
     "name": "Grinn & Barrett Tattoo",
     "normalized": "grinn & barrett tattoo"
-  },
-  {
-    "id": "grisha_maslov",
-    "name": "Grisha Maslov",
-    "normalized": "grisha maslov"
   },
   {
     "id": "gristletattoo",
@@ -42980,11 +42965,6 @@
     "normalized": "hey there"
   },
   {
-    "id": "hey.norte",
-    "name": "Hey.Norte",
-    "normalized": "hey.norte"
-  },
-  {
     "id": "hezurra_tattoo",
     "name": "Hezurra",
     "normalized": "hezurra"
@@ -43550,11 +43530,6 @@
     "normalized": "horiryu ii 二代目 彫竜 | marcus"
   },
   {
-    "id": "horishin",
-    "name": "Horishin",
-    "normalized": "horishin"
-  },
-  {
     "id": "kianforreal",
     "name": "HORISUMI - Kian Forreal ほりすみ",
     "normalized": "horisumi - kian forreal ほりすみ"
@@ -43563,11 +43538,6 @@
     "id": "horisuzu",
     "name": "Horisuzu taku",
     "normalized": "horisuzu taku"
-  },
-  {
-    "id": "horitada",
-    "name": "Horitada",
-    "normalized": "horitada"
   },
   {
     "id": "horitadajapan",
@@ -61100,14 +61070,14 @@
     "normalized": "lester"
   },
   {
-    "id": "lesya_spicy",
+    "id": "spicytattooing",
     "name": "Lesya Spicy",
     "normalized": "lesya spicy"
   },
   {
-    "id": "spicytattooing",
-    "name": "Lesya Spicy",
-    "normalized": "lesya spicy"
+    "id": "lesya_spicy",
+    "name": "LESYA•FINELINE MINI TATTOO",
+    "normalized": "lesya•fineline mini tattoo"
   },
   {
     "id": "lesyaspicy",
@@ -69478,6 +69448,11 @@
     "id": "alexanderefros",
     "name": "Maxim_ima",
     "normalized": "maxim_ima"
+  },
+  {
+    "id": "fuzi_uvtpk",
+    "name": "maxime",
+    "normalized": "maxime"
   },
   {
     "id": "maxbonneau",
@@ -87370,6 +87345,11 @@
     "normalized": "roman novohatsky"
   },
   {
+    "id": "fleshformers_london",
+    "name": "Roman Road | Tattoo & Piercing Studio",
+    "normalized": "roman road | tattoo & piercing studio"
+  },
+  {
     "id": "roman_vainer_",
     "name": "Roman Vainer",
     "normalized": "roman vainer"
@@ -99425,6 +99405,11 @@
     "normalized": "telmo casal"
   },
   {
+    "id": "foret",
+    "name": "tema",
+    "normalized": "tema"
+  },
+  {
     "id": "tempest.tattooing",
     "name": "Tempest Anderson",
     "normalized": "tempest anderson"
@@ -106690,6 +106675,11 @@
     "normalized": "графика/рализм тату• самара"
   },
   {
+    "id": "grisha_maslov",
+    "name": "Григорий Маслов",
+    "normalized": "григорий маслов"
+  },
+  {
     "id": "artgusev55",
     "name": "ГУСЕВ ВИТАЛИЙ | работаю в Москве и в Омске",
     "normalized": "гусев виталий | работаю в москве и в омске"
@@ -109055,6 +109045,11 @@
     "normalized": "彫嵐 hori arashi"
   },
   {
+    "id": "horishin",
+    "name": "彫新",
+    "normalized": "彫新"
+  },
+  {
     "id": "caiopineiro",
     "name": "彫海 • HORIKAI • CAIO PIÑEIRO",
     "normalized": "彫海 • horikai • caio piñeiro"
@@ -109063,6 +109058,11 @@
     "id": "lupohoriokami",
     "name": "彫狼 Lupo Horiōkami",
     "normalized": "彫狼 lupo horiōkami"
+  },
+  {
+    "id": "horitada",
+    "name": "彫直 Horitada",
+    "normalized": "彫直 horitada"
   },
   {
     "id": "horishow",
