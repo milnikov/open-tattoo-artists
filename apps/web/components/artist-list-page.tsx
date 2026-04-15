@@ -10,12 +10,13 @@ import { ListStatusBar } from "./list-status-bar";
 import { SiteFooter } from "./site-footer";
 
 const PAGE_SIZE = 20;
-type SortKey = "name-asc" | "followers-desc";
+type SortKey = "name-asc" | "followers-desc" | "respected-desc";
 
 function normalizeSortKey(value: string | null | undefined): SortKey {
-  return value === "followers-desc" ? "followers-desc" : "name-asc";
+  if (value === "followers-desc") return "followers-desc";
+  if (value === "respected-desc") return "respected-desc";
+  return "name-asc";
 }
-
 function parseFiltersFromSearchParams(searchParams: URLSearchParams) {
   const q = searchParams.get("q") ?? "";
   const styles = searchParams.get("styles");
@@ -294,6 +295,15 @@ export function ArtistListPage({
       });
     }
 
+    if (sortKey === "respected-desc") {
+      return [...result].sort((a, b) => {
+        const rb = b.followed_by_artists_count ?? 0;
+        const ra = a.followed_by_artists_count ?? 0;
+        if (rb !== ra) return rb - ra;
+        return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
+      });
+    }
+
     return result;
   }, [artists, selectedStyles, selectedCountries, selectedCities, search, sortKey]);
 
@@ -468,7 +478,11 @@ export function ArtistListPage({
         onToggleCity={handleToggleCity}
         onClearCities={handleClearCities}
         sortLabel={
-          sortKey === "name-asc" ? "Name (A–Z)" : "Most followed"
+          sortKey === "name-asc"
+            ? "Name (A–Z)"
+            : sortKey === "followers-desc"
+              ? "Most followed"
+              : "Most respected"
         }
         onSortChange={(key) => {
           setSortKey(key);

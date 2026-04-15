@@ -83,8 +83,74 @@ def load_artists() -> list[dict]:
     return artists
 
 
+def _normalize_handle(value: object) -> str | None:
+    if not isinstance(value, str):
+        return None
+    v = value.strip().lower()
+    if not v:
+        return None
+    if v.startswith("http://") or v.startswith("https://"):
+        parsed = urlparse(v)
+        path = (parsed.path or "").strip("/")
+        if not path:
+            return None
+        v = path.split("/")[0]
+    return v or None
+
+
+def _build_follow_graph(artists: list[dict]) -> tuple[dict[str, list[str]], dict[str, list[str]], dict[str, int]]:
+    """
+    Build in-db follow graph from instagram_enriched.following handles.
+    Returns:
+      - followers_by_target: target_id -> [follower_artist_id]
+      - following_by_source: source_id -> [target_artist_id]
+      - followed_count: target_id -> number of follower artists
+    """
+    handle_to_id: dict[str, str] = {}
+    for a in artists:
+        aid = a.get("id")
+        if not isinstance(aid, str) or not aid:
+            continue
+        handle_to_id[aid.lower()] = aid
+        links = a.get("links") or {}
+        ig_link_handle = _normalize_handle((links or {}).get("instagram"))
+        if ig_link_handle:
+            handle_to_id.setdefault(ig_link_handle, aid)
+
+    followers_by_target: dict[str, list[str]] = {}
+    following_by_source: dict[str, list[str]] = {}
+    followed_count: dict[str, int] = {}
+
+    for a in artists:
+        src_id = a.get("id")
+        if not isinstance(src_id, str) or not src_id:
+            continue
+        ie = a.get("instagram_enriched") or {}
+        following = ie.get("following") if isinstance(ie, dict) else None
+        if not isinstance(following, list):
+            continue
+
+        seen_targets: set[str] = set()
+        for raw in following:
+            handle = _normalize_handle(raw)
+            if not handle:
+                continue
+            target_id = handle_to_id.get(handle)
+            if not target_id or target_id == src_id:
+                continue
+            if target_id in seen_targets:
+                continue
+            seen_targets.add(target_id)
+            following_by_source.setdefault(src_id, []).append(target_id)
+            followers_by_target.setdefault(target_id, []).append(src_id)
+            followed_count[target_id] = followed_count.get(target_id, 0) + 1
+
+    return followers_by_target, following_by_source, followed_count
+
+
 def build_compact(artists: list[dict]) -> list[dict]:
     """Minimal fields for list + filtering. Up to 8 thumbs for list view (mobile strip)."""
+    followers_by_target, following_by_source, followed_count = _build_follow_graph(artists)
     out = []
     for a in artists:
         tattoos = a.get("tattoos", [])
@@ -125,6 +191,11 @@ def build_compact(artists: list[dict]) -> list[dict]:
             entry["verified"] = v
         if a.get("instagram_enriched"):
             entry["instagram_enriched"] = True
+        aid = a.get("id")
+        if isinstance(aid, str) and aid:
+            entry["followed_by_artists_count"] = int(followed_count.get(aid, 0))
+            entry["followers_in_db"] = followers_by_target.get(aid, [])
+            entry["following_in_db"] = following_by_source.get(aid, [])
         out.append(entry)
     return sorted(out, key=lambda x: x["name"].lower())
 

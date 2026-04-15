@@ -769,6 +769,34 @@ def _extract_bio(user_data: dict, raw_info: dict) -> str:
     return candidates[0] if candidates else ""
 
 
+def _merge_bio_idempotent(existing_bio: str | None, incoming_bio: str | None) -> str | None:
+    """Append incoming bio only if that exact block is not already present."""
+    existing = (existing_bio or "").strip()
+    incoming = (incoming_bio or "").strip()
+    if not incoming:
+        return existing or None
+    if not existing:
+        return incoming
+    if incoming in existing:
+        return existing
+    return f"{existing}\n\n{incoming}".strip()
+
+
+def _merge_instagram_tattoos(existing_tattoos: list, incoming_ig_tattoos: list) -> list:
+    """
+    Keep non-IG tattoos as-is and replace IG tattoos with the newest incoming batch.
+    Prevents duplicate ig_001..ig_030 blocks on re-enrich.
+    """
+    non_ig = []
+    for t in (existing_tattoos or []):
+        image_id = (t or {}).get("image_id") if isinstance(t, dict) else None
+        if isinstance(image_id, str) and image_id.startswith("ig_"):
+            continue
+        if isinstance(t, dict):
+            non_ig.append(t)
+    return (incoming_ig_tattoos or []) + non_ig
+
+
 def build_instagram_enriched_and_meta(
     enriched: dict,
     artist_id: str,
@@ -1063,11 +1091,11 @@ def main():
                 force_instagram=args.always_use_instagram_name,
             ):
                 data["name"] = name_override
-            if bio_append:
-                existing_bio = (data.get("bio") or "").strip()
-                data["bio"] = (existing_bio + "\n\n" + bio_append).strip() if existing_bio else bio_append
-            if new_tattoos_front:
-                data["tattoos"] = new_tattoos_front + (data.get("tattoos") or [])
+            data["bio"] = _merge_bio_idempotent(data.get("bio"), bio_append)
+            data["tattoos"] = _merge_instagram_tattoos(
+                data.get("tattoos") or [],
+                new_tattoos_front,
+            )
             data["instagram_enriched"] = slim
             with open(artist_path, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=2, ensure_ascii=False)

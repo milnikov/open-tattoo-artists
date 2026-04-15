@@ -31,7 +31,7 @@ interface BrowseToolbarProps {
   onToggleCity: (city: string) => void;
   onClearCities: () => void;
   sortLabel: string;
-  onSortChange: (sortKey: "name-asc" | "followers-desc") => void;
+  onSortChange: (sortKey: "name-asc" | "followers-desc" | "respected-desc") => void;
 }
 
 export function BrowseToolbar({
@@ -169,13 +169,17 @@ export function BrowseToolbar({
               >
                 Most followed
               </button>
-              <div
-                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground cursor-not-allowed"
-                aria-disabled="true"
+              <button
+                type="button"
+                onClick={() => {
+                  onSortChange("respected-desc");
+                  setIsSortOpen(false);
+                }}
+                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground hover:bg-muted/40 transition-colors"
+                role="menuitem"
               >
-                Most respected{" "}
-                <span className="italic text-muted-foreground">coming soon</span>
-              </div>
+                Most respected
+              </button>
             </div>
           )}
         </div>

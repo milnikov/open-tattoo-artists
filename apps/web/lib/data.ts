@@ -153,15 +153,26 @@ export interface CompactArtist {
   source_domain?: string;
   /** Whether the artist JSON has instagram_enriched data. */
   instagram_enriched?: boolean;
+  /** Number of known artists from DB following this artist. */
+  followed_by_artists_count?: number;
+  /** Artist IDs from DB who follow this artist. */
+  followers_in_db?: string[];
+  /** Artist IDs from DB this artist follows. */
+  following_in_db?: string[];
 }
 
-/** Compact list shape exposed to unauthenticated clients (no crawl-source metadata). */
-export type PublicCompactArtist = Omit<CompactArtist, "source_domain">;
+/** Compact list shape exposed to unauthenticated clients (no crawl-source or heavy graph metadata). */
+export type PublicCompactArtist = Omit<
+  CompactArtist,
+  "source_domain" | "followers_in_db" | "following_in_db"
+>;
 
 export function toPublicCompactArtists(
   artists: CompactArtist[]
 ): PublicCompactArtist[] {
-  return artists.map(({ source_domain: _sd, ...rest }) => rest);
+  return artists.map(
+    ({ source_domain: _sd, followers_in_db: _fib, following_in_db: _fing, ...rest }) => rest
+  );
 }
 
 export interface SearchIndexEntry {
@@ -190,6 +201,12 @@ export interface Artist {
   /** Moderation flag; missing = not checked yet. Admin hides any set value. */
   verified?: "artist" | "studio" | "need_to_check";
   instagram_enriched?: { follower_count?: number; profile_pic_url?: string };
+  /** Number of known artists from DB following this artist. */
+  followed_by_artists_count?: number;
+  /** Artist IDs from DB who follow this artist. */
+  followers_in_db?: string[];
+  /** Artist IDs from DB this artist follows. */
+  following_in_db?: string[];
 }
 
 let compactArtistsCache: { mtimeMs: number; artists: CompactArtist[] } | null = null;
@@ -239,6 +256,12 @@ export async function getArtist(
       if (!res.ok) continue;
       const artist = (await res.json()) as Artist;
       if (isArtistHidden(artist)) return null;
+      const compact = getCompactArtists().find((a) => a.id === artist.id);
+      if (compact) {
+        artist.followed_by_artists_count = compact.followed_by_artists_count ?? 0;
+        artist.followers_in_db = compact.followers_in_db ?? [];
+        artist.following_in_db = compact.following_in_db ?? [];
+      }
       return artist;
     } catch {
       continue;
