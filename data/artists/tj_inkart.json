@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "tj_inkart",
+  "name": "Tremayne Watson",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tj_inkart",
+    "instagram": "https://www.instagram.com/tj_inkart/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tj_inkart/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tj_inkart/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tj_inkart/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tj_inkart/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "Known for their exceptional fineline technique, Tremayne Watson is quickly making a name for themselves in the tattoo community. As an apprentice artist at CB Ink Tattoo Brisbane specializing in realism, Tremayne's cleanliness in their craft is impeccable, ensuring a safe and sterile environment for all clients. Their commitment to hygiene stands as a testament to their overall professionalism in the industry.\nPrice: $\nCurrent location:"
+}

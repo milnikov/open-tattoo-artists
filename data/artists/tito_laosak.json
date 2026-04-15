@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "tito_laosak",
+  "name": "Tito Laosak",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tito_laosak",
+    "instagram": "https://www.instagram.com/tito_laosak/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tito_laosak/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tito_laosak/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tito_laosak/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tito_laosak/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-14",
+  "bio": "Tito Laosak is a highly skilled tattoo artist specializing in the fineline style, known for his precise and delicate touch. His professionalism is evident in every aspect of his craft, from the initial design to the completed piece. Clients frequently commend his meticulous attention to detail and his commitment to ensuring every tattoo is a work of art.\nPrice: $\nCurrent location:"
+}

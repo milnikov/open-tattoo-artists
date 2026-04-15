@@ -15,6 +15,30 @@
   "tattoos": [
     {
       "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gonzalo/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gonzalo/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gonzalo/full/ig_002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gonzalo/thumb/ig_002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "ig_001",
       "image_full": "https://img.thetattoo.world/artists/gonzalo/full/ig_001.webp",
       "image_thumb": "https://img.thetattoo.world/artists/gonzalo/thumb/ig_001.webp",
       "analysis": {
@@ -38,14 +62,15 @@
       }
     }
   ],
-  "updated_at": "2026-03-13",
-  "bio": "WORKPLACE Black Indian Tattoo Madrid\n\nAka gonzo ☥ ⁹⁹⁹ 𓆰𓆪\n@theories @wondered \n@glorifying @encourage \n@composure & many more \nRewarding@gmail.com 📧",
+  "updated_at": "2026-04-14",
+  "bio": "WORKPLACE Black Indian Tattoo Madrid\n\nAka gonzo ☥ ⁹⁹⁹ 𓆰𓆪\n@theories @wondered \n@glorifying @encourage \n@composure & many more \nRewarding@gmail.com 📧\n\nAka gonzo ☥ ⁹⁹⁹ 𓆰𓆪\n@theories and many more \nRewarding@gmail.com 📧",
   "instagram_enriched": {
     "id": "28874777760",
-    "follower_count": 1933,
-    "following_count": 133,
+    "follower_count": 1946,
+    "following_count": 129,
     "media_count": 2,
     "following": [],
-    "profile_pic_url": "https://img.thetattoo.world/artists/gonzalo/instagram/profile.jpg"
+    "instagram_full_name": "Gonzalo Villalpando",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/gonzalo/instagram/profile.jpg"
   }
 }

@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "tintaderana",
+  "name": "Andrea",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tintaderana",
+    "instagram": "https://www.instagram.com/tintaderana/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tintaderana/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tintaderana/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tintaderana/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tintaderana/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-14",
+  "bio": "Andrea is renowned for their impeccable craftsmanship in the specialized field of dotwork tattooing. They bring a unique touch to black and ornamental designs, which can be seen through the stunning portfolio at their studio, Three Lines Tattoo, situated in the heart of Bilbao. With a profound dedication to maintaining a sterile work environment, Andrea's clients can rest assured that their tattoo experience meets the highest standards of cleanliness and safety.\nPrice: $\nCurrent location:"
+}
