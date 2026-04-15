@@ -12,15 +12,29 @@
     "instagram": "https://instagram.com/monicagomes",
     "website": "https://plus.google.com/communities/109122987850631167221"
   },
-  "tattoos": [],
-  "updated_at": "2026-03-14",
+  "tattoos": [
+    {
+      "image_id": "ig_001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monicagomes/full/ig_001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monicagomes/thumb/ig_001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
   "bio": "WORKPLACE Queen Of Hearts Tattoos Lisboa",
   "instagram_enriched": {
     "id": "6243663761",
-    "follower_count": 1370,
-    "following_count": 875,
+    "follower_count": 1364,
+    "following_count": 870,
     "media_count": 1,
     "following": [],
-    "profile_pic_url": "https://img.thetattoo.world/artists/monicagomes/instagram/profile.jpg"
+    "instagram_full_name": "Monica Gomes",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/monicagomes/instagram/profile.jpg"
   }
 }
