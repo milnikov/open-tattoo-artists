@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tomgrosztattoo",
+  "name": "Tom Grosz",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tomgrosztattoo",
+    "instagram": "https://www.instagram.com/tomgrosztattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomgrosztattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomgrosztattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomgrosztattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tomgrosztattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "Tom Grosz is an adept tattoo artist, specializing in black and gray realism styles, who operates from his private studio in North Devon. Known for his extreme professionalism, he has a rigid boundary for communication, requesting all enquiries to be directed to his professional email.\nPrice: $$\nCurrent location:"
+}

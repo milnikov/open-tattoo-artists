@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tony_insley",
+  "name": "Tony Insley",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "illustrative",
+    "realism"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tony_insley",
+    "instagram": "https://www.instagram.com/tony_insley/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tony_insley/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tony_insley/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tony_insley/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tony_insley/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "Tony Insley is an exceptionally skilled tattoo artist who specializes in the 'newschool, illustrative, and realism' styles, delivering stunning pieces that showcase his dedication to the art form. His reputation for maintaining a pristine and hygienic workspace ensures clients can relax, knowing they are in a clean environment while receiving top-tier artistic work.\nPrice: $\nCurrent location:"
+}
