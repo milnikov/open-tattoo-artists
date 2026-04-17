@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "westtexastattoo",
+  "name": "Eric Ward",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/westtexastattoo",
+    "instagram": "https://www.instagram.com/westtexastattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/westtexastattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/westtexastattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/westtexastattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/westtexastattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Eric Ward is a highly skilled traditional tattoo artist who operates strictly on an appointment-only basis from Tuesday to Saturday, between 12 PM to 7 PM. His adeptness in the traditional tattoo style is demonstrated in his exceptional works which can be viewed on his social media handle @ericwardtattoos. You can also directly connect with him via call or DM for appointments.\nPrice: $$\nCurrent location:"
+}

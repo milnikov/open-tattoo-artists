@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "wildfiretattoo",
+  "name": "Brett Barrington",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "floral",
+    "geometric",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/wildfiretattoo",
+    "instagram": "https://www.instagram.com/wildfiretattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wildfiretattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wildfiretattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wildfiretattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wildfiretattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Brett Barrington is renowned for his meticulous technique in tattooing, particularly excelling in floral, geometric, and black & gray styles. His commitment to cleanliness is paramount, ensuring a sterile environment that clients can trust. Brett's artistic precision and hygienic practice make him a standout tattoo artist at Wildfire Tattoo.\nPrice: $\nCurrent location:"
+}

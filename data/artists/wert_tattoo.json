@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "wert_tattoo",
+  "name": "Oleg Kolomiyets",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray",
+    "newschool"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/wert_tattoo",
+    "instagram": "https://www.instagram.com/wert_tattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wert_tattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wert_tattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wert_tattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/wert_tattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Oleg Kolomiyets is an accomplished tattoo artist renowned for his expertise in realism, black & gray, and newschool styles. Working from Moscow but hailing originally from Severodonetsk, Oleg ensures that each piece of body art is a true masterpiece, reflecting his professional dedication to both his craft and his clients. His work is distinguished by meticulous attention to detail, creating lifelike and vivid tattoos that are tailored to each client's vision.\nPrice: $\nCurrent location:"
+}

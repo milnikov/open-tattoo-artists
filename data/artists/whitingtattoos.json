@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "whitingtattoos",
+  "name": "Alice Whiting",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "dotwork",
+    "floral"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/whitingtattoos",
+    "instagram": "https://www.instagram.com/whitingtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/whitingtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/whitingtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/whitingtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/whitingtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Alice Whiting, a profoundly skilled tattoo artist, boasts mastery in a unique blend of fineline, dotwork, and floral styles. Operating both by hand and machine, her intricate and detailed works are born in the exotic locale of Bali. Reach out to her at 'whitingtattoos@gmail.com' to experience her distinctive touch.\nPrice: $$\nCurrent location:"
+}
