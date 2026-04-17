@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "waynethetattooer",
+  "name": "Wayne the Tattooer",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "floral",
+    "sketch",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/waynethetattooer",
+    "instagram": "https://www.instagram.com/waynethetattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waynethetattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waynethetattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waynethetattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/waynethetattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Wayne the Tattooer is a masterful artist with over 13 years of experience, specializing in fineline, floral, and sketch style tattoos, as well as vegan-friendly ink. Operating from Ice House Tattoo in Fayetteville, AR, Wayne is known for maintaining a high standard of cleanliness, ensuring that every client enjoys a safe and hygienic tattooing experience. Contact him via email to discuss your next piece of body art in a meticulously clean environment.\nPrice: $\nCurrent location:"
+}
