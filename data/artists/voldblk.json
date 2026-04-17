@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "voldblk",
+  "name": "Vold Blaxk",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "sketch"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/voldblk",
+    "instagram": "https://www.instagram.com/voldblk/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voldblk/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voldblk/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voldblk/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voldblk/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Vold Blaxk is a highly skilled tattoo artist, specializing in sketch-style tattoos. Known for their nimble finesse and intricate artwork, they meticulously focus on detail to ensure every tattoo is as unique as each client. This Korean artist currently resides in London, highlighting international experience and a profound understanding of artistic culture in their work.\nPrice: $$\nCurrent location:"
+}

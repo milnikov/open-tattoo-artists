@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "id": "victor_mka",
+  "name": "Victor MKA",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/victor_mka",
+    "instagram": "https://www.instagram.com/victor_mka/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victor_mka/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victor_mka/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victor_mka/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/victor_mka/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-16",
+  "bio": "Victor MKA is a highly skilled tattoo artist specializing in black and gray styles, with a unique flair for integrating themes like Kustom art, skate art, lowbrow design, and monstrous creations into his work. He stands out for his immaculate cleanliness, maintaining a pristine work environment to ensure the safety and comfort of his clients. Victor's commitment to hygiene is matched only by the precision and detail of his tattooing, making each piece a standout work of art.\nPrice: $\nCurrent location:"
+}

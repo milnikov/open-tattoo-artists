@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "viento_tattoos",
+  "name": "Tammy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "fineline",
+    "minimalist",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/viento_tattoos",
+    "instagram": "https://www.instagram.com/viento_tattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/viento_tattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/viento_tattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/viento_tattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/viento_tattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-16",
+  "bio": "Tammy is a highly skilled tattoo artist who specializes in fineline, minimalist, and illustrative styles, making her a top choice for clients seeking delicate and intricate body art. Located in Montreal, CA, she maintains a professional atmosphere at Tattoo Box Montreal, ensuring that each client's experience is not only fulfilling artistically but also comfortable and safe from start to finish. Reach out to Tammy via direct message to book an appointment and transform your vision into a stunning tattoo reality.\nPrice: $\nCurrent location:"
+}

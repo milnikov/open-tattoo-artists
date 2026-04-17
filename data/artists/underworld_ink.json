@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "underworld_ink",
+  "name": "Underworld Ink",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "traditional",
+    "illustrative"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/underworld_ink",
+    "instagram": "https://www.instagram.com/underworld_ink/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/underworld_ink/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/underworld_ink/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/underworld_ink/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/underworld_ink/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-16",
+  "bio": "Step into the realm of timeless art at Underworld Ink, a premier tattoo studio nestled at 1103 River Road in Puyallup, WA. Expert artists here specialize in traditional and illustrative styles, crafting tattoos with precision and passion. Visit Tuesday through Saturday from 12 PM to 8 PM, or on Sundays from 12 PM to 6 PM—and remember, it's an old-school cash-only haven for your skin's next masterpiece.\nPrice: $\nCurrent location:"
+}

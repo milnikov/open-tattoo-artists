@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "vincenzo_tattooer",
+  "name": "Vincenzo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "vegan"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/vincenzo_tattooer",
+    "instagram": "https://www.instagram.com/vincenzo_tattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincenzo_tattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincenzo_tattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincenzo_tattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/vincenzo_tattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-16",
+  "bio": "Vincenzo is an up-and-coming tattoo artist specializing in geometric designs, using exclusively vegan ink that aligns with a cruelty-free ethos. While still honing their craft as an apprentice, Vincenzo is known for maintaining a highly professional environment, ensuring that clients are welcomed into a space that respects both artistry and ethical standards.\nPrice: $\nCurrent location:"
+}

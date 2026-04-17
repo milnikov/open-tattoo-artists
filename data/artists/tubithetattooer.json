@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "tubithetattooer",
+  "name": "Tubi",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "geometric",
+    "fineline",
+    "tribal"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tubithetattooer",
+    "instagram": "https://www.instagram.com/tubithetattooer/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tubithetattooer/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tubithetattooer/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tubithetattooer/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tubithetattooer/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "Tubi is an exceptional tattoo artist that specializes in geometric, fineline, and tribal styles. With professional practices based in both Glasgow and Madrid, Tubi demonstrates skillfulness in delivering intricate designs with precision. Their cleanliness and attention to each detail ensure a fulfilling and safe tattoo experience for every client.\nPrice: $$\nCurrent location:"
+}

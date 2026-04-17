@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "truegenttattoosupplies",
+  "name": "True Gent Tattoo Cartridges",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "black&gray",
+    "geometric",
+    "dotwork"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/truegenttattoosupplies",
+    "instagram": "https://www.instagram.com/truegenttattoosupplies/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/truegenttattoosupplies/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/truegenttattoosupplies/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/truegenttattoosupplies/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/truegenttattoosupplies/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "True Gent Tattoo Cartridges is a highly skilled tattoo artist renowned for intricate and elaborate designs in black&gray, geometric, and dotwork styles. Known for their immaculate safety and color-coded practices, they work to the highest possible specification, ensuring crisp, clean, and beautifully detailed artwork. Their professionalism shines through their meticulous attention to detail and care for safety protocols.\nPrice: $$\nCurrent location:"
+}

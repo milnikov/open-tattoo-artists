@@ -1,0 +1,47 @@
+{
+  "schema_version": 2,
+  "id": "upcomingcanadatattoo",
+  "name": "NiceFroosh",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "newschool",
+    "neotraditional",
+    "watercolor"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/upcomingcanadatattoo",
+    "instagram": "https://www.instagram.com/upcomingcanadatattoo/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/upcomingcanadatattoo/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/upcomingcanadatattoo/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/upcomingcanadatattoo/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/upcomingcanadatattoo/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-16",
+  "bio": "NiceFroosh is renowned for their exceptional skill level within the Canadian tattoo scene, specializing in the vibrant and dynamic styles of newschool, neotraditional, and watercolor tattoos. Their artistry in these genres has garnered attention from coast to coast, with many clients and enthusiasts showcasing their unique pieces under #upcomingcanada. Each session with NiceFroosh promises not just a stunning piece of body art, but a display of refined technique that celebrates the bold and colorful possibilities of tattooing.\nPrice: $\nCurrent location:"
+}

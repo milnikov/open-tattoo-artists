@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "tracydtattoos",
+  "name": "Tracy D",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "neotraditional",
+    "japanese"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/tracydtattoos",
+    "instagram": "https://www.instagram.com/tracydtattoos/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tracydtattoos/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tracydtattoos/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tracydtattoos/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/tracydtattoos/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-15",
+  "bio": "Tracy D is an expert tattoo artist specializing in neotraditional and Japanese styles, making every creation a distinctive masterpiece. Operating from the highly reputed Royal Tattoo Denmark, Tracy also showcases her skills globally, with scheduled events in Switzerland and the UK. Known for her professionalism and cleanliness, you can rest assured your skin is in perfect hands.\nPrice: $$\nCurrent location:"
+}
