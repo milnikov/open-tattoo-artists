@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "voodooinksa",
+  "name": "Voodoo Ink Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [
+    "realism",
+    "black&gray"
+  ],
+  "links": {
+    "source": "https://tattooswizard.com/artists/voodooinksa",
+    "instagram": "https://www.instagram.com/voodooinksa/",
+    "website": "https://www.wizard.tattoo/"
+  },
+  "tattoos": [
+    {
+      "image_id": "001",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voodooinksa/full/001.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voodooinksa/thumb/001.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    },
+    {
+      "image_id": "002",
+      "image_full": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voodooinksa/full/002.webp",
+      "image_thumb": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/voodooinksa/thumb/002.webp",
+      "analysis": {
+        "themes": [],
+        "dominant_colours": [],
+        "body_parts": [],
+        "size_category": null,
+        "confidence_score": null
+      }
+    }
+  ],
+  "updated_at": "2026-04-17",
+  "bio": "Immerse yourself in the artistry of Voodoo Ink Tattoos, an elite studio where professionalism meets creativity. Specializing in striking realism and nuanced black & gray tattoo designs, our skilled artisans ensure your ink is as authentic and unique as your own story. Experience the fusion of tradition and innovation, all within the mysterious, yet welcoming ambiance that Voodoo Ink is celebrated for.\nPrice: $\nCurrent location:"
+}
