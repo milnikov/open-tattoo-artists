@@ -59,6 +59,11 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Only write merged graph file (skip legacy workflow files).",
     )
+    p.add_argument(
+        "--force-empty-overwrite",
+        action="store_true",
+        help="Allow overwriting legacy discovery files with empty merged data.",
+    )
     return p.parse_args()
 
 
@@ -121,13 +126,26 @@ def main() -> None:
         )
     merged.sort(key=lambda x: x.get("username", ""))
     MERGED_ALL.parent.mkdir(parents=True, exist_ok=True)
-    MERGED_ALL.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"Merged graph rows: {len(merged)} -> {MERGED_ALL}")
+    if merged or args.force_empty_overwrite:
+        MERGED_ALL.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+        print(f"Merged graph rows: {len(merged)} -> {MERGED_ALL}")
+    else:
+        print(
+            f"Merged graph is empty; keeping existing {MERGED_ALL} "
+            "(pass --force-empty-overwrite to replace)."
+        )
 
     if args.no_legacy_export:
         return
 
     # Backward-compatible exports for existing workflow.
+    if not merged and not args.force_empty_overwrite:
+        print(
+            "Merged graph is empty; keeping legacy discovery files unchanged "
+            "(pass --force-empty-overwrite to replace)."
+        )
+        return
+
     LEGACY_RAW.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
 
     existing_handles = load_existing_handles()
