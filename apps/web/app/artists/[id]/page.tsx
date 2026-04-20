@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getArtist, getCompactArtists } from "@/lib/data";
+import { getArtist } from "@/lib/data";
 import { getContributorEmailForArtist } from "@/lib/contributions";
 import { imageUrl } from "@/lib/images";
 import { notFound } from "next/navigation";
@@ -32,14 +32,6 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
   const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
   const avatarSrc = artist.instagram_enriched?.profile_pic_url?.trim() ?? "";
-  const compact = getCompactArtists();
-  const compactById = new Map(compact.map((a) => [a.id, a]));
-  const followersInDb = (artist.followers_in_db ?? [])
-    .map((aid) => compactById.get(aid))
-    .filter((a): a is NonNullable<typeof a> => Boolean(a));
-  const followingInDb = (artist.following_in_db ?? [])
-    .map((aid) => compactById.get(aid))
-    .filter((a): a is NonNullable<typeof a> => Boolean(a));
 
   const updatedAtEl =
     artist.updated_at != null && artist.updated_at !== "" ? (
@@ -125,11 +117,6 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
                 {bioText}
               </span>
             )}
-            <div className="pt-2 text-muted-foreground">
-              <span className="block">
-                Respected by {artist.followed_by_artists_count ?? 0} artists in database
-              </span>
-            </div>
           </div>
 
           <div className="hidden md:block md:row-start-1 md:col-start-3" aria-hidden />
@@ -187,62 +174,6 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
 
           <div className="hidden md:flex md:row-start-2 md:col-start-4 min-w-0 md:justify-end">
             <FavoriteButton artistId={artist.id} />
-          </div>
-        </div>
-
-        <div className="border-t border-border px-4 py-4 md:px-8 md:py-6">
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <section className="min-w-0">
-              <h2 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground mb-2">
-                Followed by artists ({followersInDb.length})
-              </h2>
-              {followersInDb.length === 0 ? (
-                <p className="text-xs text-muted-foreground">No known followers in database yet.</p>
-              ) : (
-                <details>
-                  <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
-                    Show all
-                  </summary>
-                  <div className="mt-2 flex flex-wrap gap-1.5">
-                    {followersInDb.map((a) => (
-                      <Link
-                        key={a.id}
-                        href={`/artists/${a.id}`}
-                        className="text-xs px-2 py-1 rounded border border-border hover:bg-secondary transition-colors"
-                      >
-                        {a.name}
-                      </Link>
-                    ))}
-                  </div>
-                </details>
-              )}
-            </section>
-
-            <section className="min-w-0">
-              <h2 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground mb-2">
-                Follows artists ({followingInDb.length})
-              </h2>
-              {followingInDb.length === 0 ? (
-                <p className="text-xs text-muted-foreground">No known follows in database yet.</p>
-              ) : (
-                <details>
-                  <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
-                    Show all
-                  </summary>
-                  <div className="mt-2 flex flex-wrap gap-1.5">
-                    {followingInDb.map((a) => (
-                      <Link
-                        key={a.id}
-                        href={`/artists/${a.id}`}
-                        className="text-xs px-2 py-1 rounded border border-border hover:bg-secondary transition-colors"
-                      >
-                        {a.name}
-                      </Link>
-                    ))}
-                  </div>
-                </details>
-              )}
-            </section>
           </div>
         </div>
 
