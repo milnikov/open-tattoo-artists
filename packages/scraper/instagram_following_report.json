@@ -1,15 +1,15 @@
 {
   "mode": "following",
   "total_seed_count": 22653,
-  "start_seed_offset": 265,
-  "processed_seed_count": 23,
-  "next_seed_offset": 288,
+  "start_seed_offset": 288,
+  "processed_seed_count": 74,
+  "next_seed_offset": 362,
   "all_seeds_processed": false,
   "following_requests_made": 1400,
   "max_following_requests": 1400,
   "stopped_due_to_following_cap": true,
-  "run_candidate_count": 24590,
-  "cumulative_candidate_count": 74594,
+  "run_candidate_count": 22180,
+  "cumulative_candidate_count": 90292,
   "run_raw_path": "/home/misha/Tattoo_artists/packages/scraper/instagram_following_raw.json",
   "all_raw_path": "/home/misha/Tattoo_artists/packages/scraper/instagram_following_all.json"
 }
