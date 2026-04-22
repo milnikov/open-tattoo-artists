@@ -4,6 +4,17 @@
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
+NO_GIT_ARG=0
+for arg in "$@"; do
+  if [ "$arg" = "--no-git" ]; then
+    NO_GIT_ARG=1
+  else
+    echo "Unknown argument: $arg"
+    echo "Usage: bash scripts/run_daily_discover_instagram_similar.sh [--no-git]"
+    exit 1
+  fi
+done
+
 if [ -f "venv/bin/activate" ]; then
   source venv/bin/activate
 elif [ -f ".venv/bin/activate" ]; then
@@ -21,6 +32,10 @@ REPORT_FILE="packages/scraper/instagram_similar_report.json"
 
 DELAY_SECONDS="${DELAY_SECONDS:-0.2}"
 MAX_SIMILAR_REQUESTS="${MAX_SIMILAR_REQUESTS:-1600}"
+NO_GIT="${NO_GIT:-0}"  # set NO_GIT=1 to disable auto-commit/push
+if [ "$NO_GIT_ARG" = "1" ]; then
+  NO_GIT=1
+fi
 
 if [ ! -f "$STATE_FILE" ]; then
   cat > "$STATE_FILE" <<'JSON'
@@ -83,6 +98,34 @@ state = {
 Path("packages/scraper/instagram_similar_state.json").write_text(json.dumps(state, indent=2), encoding="utf-8")
 print(json.dumps(state, indent=2))
 PY
+
+  if [ "$NO_GIT" != "1" ]; then
+    if ! git diff --quiet -- \
+      packages/scraper/instagram_similar_raw.json \
+      packages/scraper/instagram_similar_all.json \
+      packages/scraper/instagram_similar_report.json \
+      packages/scraper/instagram_similar_state.json \
+      packages/scraper/instagram_discovery_graph_all.json \
+      packages/scraper/instagram_discovery_graph_raw.json \
+      packages/scraper/instagram_discovery_report.json \
+      packages/scraper/instagram_discovered_candidates.json; then
+      git add \
+        packages/scraper/instagram_similar_raw.json \
+        packages/scraper/instagram_similar_all.json \
+        packages/scraper/instagram_similar_report.json \
+        packages/scraper/instagram_similar_state.json \
+        packages/scraper/instagram_discovery_graph_all.json \
+        packages/scraper/instagram_discovery_graph_raw.json \
+        packages/scraper/instagram_discovery_report.json \
+        packages/scraper/instagram_discovered_candidates.json
+      if ! git diff --cached --quiet; then
+        git commit -m "chore: save daily instagram similar discovery artifacts"
+        if ! git push origin main; then
+          echo "⚠️ Auto-push failed (remote ahead?). Commit is kept locally."
+        fi
+      fi
+    fi
+  fi
 
   if [ "$exit_code" -eq 2 ]; then
     echo "✅ All seeds processed for similar."
