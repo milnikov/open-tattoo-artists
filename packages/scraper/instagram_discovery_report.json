@@ -1,9 +1,9 @@
 {
   "mode": "merged_from_split_pipelines",
-  "candidate_count": 222382,
-  "shortlisted_count": 25942,
-  "accepted_count": 25942,
-  "rejected_count": 196440,
+  "candidate_count": 252011,
+  "shortlisted_count": 31989,
+  "accepted_count": 31989,
+  "rejected_count": 220022,
   "created_count": 0,
   "created_ids": [],
   "min_evidence": 2,
@@ -20,7 +20,7 @@
   },
   "similar_summary": {
     "processed_seed_count": 1600,
-    "next_seed_offset": 4985,
+    "next_seed_offset": 6585,
     "all_seeds_processed": false,
     "similar_requests_made": 1600
   }
