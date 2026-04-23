@@ -1,9 +1,9 @@
 {
   "mode": "merged_from_split_pipelines",
-  "candidate_count": 202314,
-  "shortlisted_count": 24064,
-  "accepted_count": 24064,
-  "rejected_count": 178250,
+  "candidate_count": 222382,
+  "shortlisted_count": 25942,
+  "accepted_count": 25942,
+  "rejected_count": 196440,
   "created_count": 0,
   "created_ids": [],
   "min_evidence": 2,
@@ -13,8 +13,8 @@
     "similar_report": "/home/misha/Tattoo_artists/packages/scraper/instagram_similar_report.json"
   },
   "following_summary": {
-    "processed_seed_count": 74,
-    "next_seed_offset": 362,
+    "processed_seed_count": 17,
+    "next_seed_offset": 379,
     "all_seeds_processed": false,
     "following_requests_made": 1400
   },
