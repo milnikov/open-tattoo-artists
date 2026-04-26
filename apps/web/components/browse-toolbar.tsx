@@ -169,17 +169,14 @@ export function BrowseToolbar({
               >
                 Most followed
               </button>
-              <button
-                type="button"
-                onClick={() => {
-                  onSortChange("respected-desc");
-                  setIsSortOpen(false);
-                }}
-                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-foreground hover:bg-muted/40 transition-colors"
+              <div
                 role="menuitem"
+                aria-disabled="true"
+                className="block w-full whitespace-nowrap px-3 py-1.5 text-right text-xs text-muted-foreground cursor-not-allowed select-none"
               >
-                Most respected
-              </button>
+                Most respected{" "}
+                <span className="italic">coming soon</span>
+              </div>
             </div>
           )}
         </div>

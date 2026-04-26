@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getArtist } from "@/lib/data";
+import { getArtist, getCompactArtists } from "@/lib/data";
 import { getContributorEmailForArtist } from "@/lib/contributions";
 import { imageUrl } from "@/lib/images";
 import { notFound } from "next/navigation";
@@ -32,6 +32,15 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
   const contributorEmail = await getContributorEmailForArtist(id);
   const bioText = artist.bio?.replace(/\nPrice:[\s\S]*$/, "").trim() ?? "";
   const avatarSrc = artist.instagram_enriched?.profile_pic_url?.trim() ?? "";
+  const compact = getCompactArtists();
+  const compactById = new Map(compact.map((a) => [a.id, a]));
+  const followersInDb = (artist.followers_in_db ?? [])
+    .map((aid) => compactById.get(aid))
+    .filter((a): a is NonNullable<typeof a> => Boolean(a));
+  const followingInDb = (artist.following_in_db ?? [])
+    .map((aid) => compactById.get(aid))
+    .filter((a): a is NonNullable<typeof a> => Boolean(a));
+  const hasFollowGraphData = followersInDb.length > 0 || followingInDb.length > 0;
 
   const updatedAtEl =
     artist.updated_at != null && artist.updated_at !== "" ? (
@@ -176,6 +185,60 @@ export default async function ArtistPage({ params }: { params: Promise<{ id: str
             <FavoriteButton artistId={artist.id} />
           </div>
         </div>
+
+        {hasFollowGraphData ? (
+          <div className="border-t border-border px-4 py-4 md:px-8 md:py-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {followersInDb.length > 0 ? (
+                <section className="min-w-0">
+                  <h2 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground mb-2">
+                    Followed by artists ({followersInDb.length})
+                  </h2>
+                  <details>
+                    <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
+                      Show all
+                    </summary>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      {followersInDb.map((a) => (
+                        <Link
+                          key={a.id}
+                          href={`/artists/${a.id}`}
+                          className="text-xs px-2 py-1 rounded border border-border hover:bg-secondary transition-colors"
+                        >
+                          {a.name}
+                        </Link>
+                      ))}
+                    </div>
+                  </details>
+                </section>
+              ) : <div />}
+
+              {followingInDb.length > 0 ? (
+                <section className="min-w-0">
+                  <h2 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground mb-2">
+                    Follows artists ({followingInDb.length})
+                  </h2>
+                  <details>
+                    <summary className="cursor-pointer text-xs text-muted-foreground hover:text-foreground">
+                      Show all
+                    </summary>
+                    <div className="mt-2 flex flex-wrap gap-1.5">
+                      {followingInDb.map((a) => (
+                        <Link
+                          key={a.id}
+                          href={`/artists/${a.id}`}
+                          className="text-xs px-2 py-1 rounded border border-border hover:bg-secondary transition-colors"
+                        >
+                          {a.name}
+                        </Link>
+                      ))}
+                    </div>
+                  </details>
+                </section>
+              ) : <div />}
+            </div>
+          </div>
+        ) : null}
 
         <div className="border-t border-border px-2 pt-3 pb-4 md:px-8 md:pt-6 md:pb-8">
           <div className="columns-2 md:columns-3 gap-x-2 md:gap-x-4">
