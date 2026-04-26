@@ -19,6 +19,7 @@ from typing import Any
 import requests
 
 from _repo_root import repo_path
+from stable_api_budget import BudgetExhaustedError, StableApiBudget
 
 BASE_URL = "https://instagram-scraper-stable-api.p.rapidapi.com"
 SIMILAR_ENDPOINT = "get_ig_similar_accounts.php"
@@ -26,6 +27,13 @@ SIMILAR_ENDPOINT = "get_ig_similar_accounts.php"
 RUN_RAW_PATH = repo_path("packages", "scraper", "instagram_similar_raw.json")
 ALL_RAW_PATH = repo_path("packages", "scraper", "instagram_similar_all.json")
 REPORT_PATH = repo_path("packages", "scraper", "instagram_similar_report.json")
+
+
+def write_json_atomic(path: Path, data: object) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(f"{path.suffix}.{os.getpid()}.tmp")
+    tmp.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(path)
 
 
 def load_config() -> dict[str, Any]:
@@ -63,10 +71,18 @@ def request_with_backoff(
     *,
     max_attempts: int,
     base_delay: float,
+    consume_budget: Any = None,
     **kwargs: Any,
 ) -> requests.Response:
+    """
+    Backoff helper. If `consume_budget` is provided, it is called once per
+    attempt (each attempt is a real billable RapidAPI call). When it returns
+    False we raise BudgetExhaustedError so the caller can stop the run.
+    """
     delay = max(0.5, base_delay)
     for attempt in range(1, max_attempts + 1):
+        if consume_budget is not None and not consume_budget():
+            raise BudgetExhaustedError("shared stable-api budget exhausted")
         try:
             resp = requests.request(method, url, timeout=30, **kwargs)
             if resp.status_code == 429:
@@ -105,7 +121,8 @@ def fetch_similar(
     *,
     max_attempts: int,
     delay: float,
-) -> list[dict[str, Any]]:
+) -> tuple[list[dict[str, Any]], bool]:
+    budget = StableApiBudget.from_env()
     try:
         resp = request_with_backoff(
             "GET",
@@ -117,16 +134,20 @@ def fetch_similar(
             },
             max_attempts=max_attempts,
             base_delay=delay,
+            consume_budget=budget.try_consume,
         )
         payload = resp.json()
+    except BudgetExhaustedError:
+        print("[similar] shared stable-api budget exhausted", file=sys.stderr)
+        return [], True
     except Exception as exc:
         print(f"[similar] @{username} failed: {exc}", file=sys.stderr)
-        return []
+        return [], False
     if isinstance(payload, list):
-        return [x for x in payload if isinstance(x, dict)]
+        return [x for x in payload if isinstance(x, dict)], False
     if isinstance(payload, dict) and isinstance(payload.get("users"), list):
-        return [x for x in payload["users"] if isinstance(x, dict)]
-    return []
+        return [x for x in payload["users"] if isinstance(x, dict)], False
+    return [], False
 
 
 def merge_cumulative(current_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -200,6 +221,7 @@ def main() -> None:
     req_used = 0
     processed = 0
     budget_stop = False
+    shared_budget_stop = False
     candidates: dict[str, dict[str, Any]] = {}
 
     for i, seed_username in enumerate(seeds, start=1):
@@ -208,7 +230,15 @@ def main() -> None:
             break
         processed += 1
         print(f"[{i}/{len(seeds)}] seed @{seed_username}")
-        users = fetch_similar(api_key, seed_username, max_attempts=args.max_attempts, delay=args.delay)
+        users, budget_exhausted = fetch_similar(
+            api_key,
+            seed_username,
+            max_attempts=args.max_attempts,
+            delay=args.delay,
+        )
+        if budget_exhausted:
+            shared_budget_stop = True
+            break
         req_used += 1
         for user in users:
             handle = sanitize_handle(user.get("username"))
@@ -239,11 +269,10 @@ def main() -> None:
             }
         )
     run_rows.sort(key=lambda x: x.get("username", ""))
-    RUN_RAW_PATH.parent.mkdir(parents=True, exist_ok=True)
-    RUN_RAW_PATH.write_text(json.dumps(run_rows, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(RUN_RAW_PATH, run_rows)
 
     all_rows = merge_cumulative(run_rows)
-    ALL_RAW_PATH.write_text(json.dumps(all_rows, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(ALL_RAW_PATH, all_rows)
 
     next_offset = min(total_seed_count, start_offset + processed)
     all_processed = next_offset >= total_seed_count
@@ -257,12 +286,13 @@ def main() -> None:
         "similar_requests_made": req_used,
         "max_similar_requests": args.max_similar_requests,
         "stopped_due_to_similar_cap": budget_stop,
+        "stopped_due_to_shared_stable_budget": shared_budget_stop,
         "run_candidate_count": len(run_rows),
         "cumulative_candidate_count": len(all_rows),
         "run_raw_path": str(RUN_RAW_PATH),
         "all_raw_path": str(ALL_RAW_PATH),
     }
-    REPORT_PATH.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(REPORT_PATH, report)
     print(
         f"Done. processed_seeds={processed} next_offset={next_offset} "
         f"run_candidates={len(run_rows)} cumulative_candidates={len(all_rows)} "

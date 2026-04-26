@@ -22,6 +22,7 @@ from typing import Any
 import requests
 
 from _repo_root import repo_path
+from stable_api_budget import BudgetExhaustedError, StableApiBudget
 
 BASE_URL = "https://instagram-best-experience.p.rapidapi.com"
 FOLLOWING_ENDPOINT = "following"
@@ -30,6 +31,14 @@ PROFILE_ENDPOINT = "https://instagram-scraper-stable-api.p.rapidapi.com/ig_get_f
 RUN_RAW_PATH = repo_path("packages", "scraper", "instagram_following_raw.json")
 ALL_RAW_PATH = repo_path("packages", "scraper", "instagram_following_all.json")
 REPORT_PATH = repo_path("packages", "scraper", "instagram_following_report.json")
+
+
+def write_json_atomic(path: Path, data: object) -> None:
+    # PID-suffixed tmp so concurrent writers can't clobber each other's tmp file.
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(f"{path.suffix}.{os.getpid()}.tmp")
+    tmp.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(path)
 
 
 def load_config() -> dict[str, Any]:
@@ -74,10 +83,18 @@ def request_with_backoff(
     *,
     max_attempts: int,
     base_delay: float,
+    consume_budget: Any = None,
     **kwargs: Any,
 ) -> requests.Response:
+    """
+    Backoff helper. If `consume_budget` is provided, it is called once per
+    attempt (each attempt is a real billable RapidAPI call). When it returns
+    False we raise BudgetExhaustedError so the caller can stop the run.
+    """
     delay = max(0.5, base_delay)
     for attempt in range(1, max_attempts + 1):
+        if consume_budget is not None and not consume_budget():
+            raise BudgetExhaustedError("shared stable-api budget exhausted")
         try:
             resp = requests.request(method, url, timeout=30, **kwargs)
             if resp.status_code == 429:
@@ -107,7 +124,12 @@ def load_seeds() -> list[dict[str, str | None]]:
         username = sanitize_handle((data.get("links") or {}).get("instagram"))
         if not username:
             continue
+        # Prefer the enriched id; fall back to the discovery seed (set by
+        # create_artists_from_discovery_candidates.py for not-yet-enriched artists)
+        # so we can skip the stable-API resolve_seed_user_id round-trip.
         ig_id = (data.get("instagram_enriched") or {}).get("id")
+        if not ig_id:
+            ig_id = (data.get("discovery") or {}).get("instagram_id")
         seeds.append({"username": username, "instagram_id": str(ig_id).strip() if ig_id else None})
     return seeds
 
@@ -118,7 +140,9 @@ def resolve_seed_user_id(
     *,
     delay: float,
     max_attempts: int,
-) -> str | None:
+) -> tuple[str | None, bool]:
+    """Return (user_id, budget_exhausted)."""
+    budget = StableApiBudget.from_env()
     try:
         resp = request_with_backoff(
             "POST",
@@ -131,15 +155,20 @@ def resolve_seed_user_id(
             ),
             max_attempts=max_attempts,
             base_delay=delay,
+            consume_budget=budget.try_consume,
         )
         payload = resp.json()
+    except BudgetExhaustedError:
+        print("[seed_profile] shared stable-api budget exhausted", file=sys.stderr)
+        return None, True
     except Exception:
-        return None
+        return None, False
     user = payload.get("user_data") if isinstance(payload, dict) and isinstance(payload.get("user_data"), dict) else payload
     if not isinstance(user, dict):
-        return None
+        return None, False
     raw = user.get("id") or user.get("pk")
-    return str(raw).strip() if raw is not None and str(raw).strip() else None
+    parsed = str(raw).strip() if raw is not None and str(raw).strip() else None
+    return parsed, False
 
 
 def fetch_following(
@@ -266,6 +295,7 @@ def main() -> None:
     req_used_total = 0
     processed = 0
     budget_stop = False
+    shared_budget_stop = False
     candidates: dict[str, dict[str, Any]] = {}
 
     for i, seed in enumerate(seeds, start=1):
@@ -279,7 +309,12 @@ def main() -> None:
         processed += 1
         print(f"[{i}/{len(seeds)}] seed @{username}")
         if not seed_id:
-            seed_id = resolve_seed_user_id(api_key, username, delay=args.delay, max_attempts=args.max_attempts)
+            seed_id, shared_exhausted = resolve_seed_user_id(
+                api_key, username, delay=args.delay, max_attempts=args.max_attempts
+            )
+            if shared_exhausted:
+                shared_budget_stop = True
+                break
         if not seed_id:
             continue
         remaining = max(0, args.max_following_requests - req_used_total)
@@ -322,11 +357,10 @@ def main() -> None:
             }
         )
     run_rows.sort(key=lambda x: x.get("username", ""))
-    RUN_RAW_PATH.parent.mkdir(parents=True, exist_ok=True)
-    RUN_RAW_PATH.write_text(json.dumps(run_rows, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(RUN_RAW_PATH, run_rows)
 
     all_rows = merge_cumulative(run_rows)
-    ALL_RAW_PATH.write_text(json.dumps(all_rows, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(ALL_RAW_PATH, all_rows)
 
     next_offset = min(total_seed_count, start_offset + processed)
     all_processed = next_offset >= total_seed_count
@@ -340,12 +374,13 @@ def main() -> None:
         "following_requests_made": req_used_total,
         "max_following_requests": args.max_following_requests,
         "stopped_due_to_following_cap": budget_stop,
+        "stopped_due_to_shared_stable_budget": shared_budget_stop,
         "run_candidate_count": len(run_rows),
         "cumulative_candidate_count": len(all_rows),
         "run_raw_path": str(RUN_RAW_PATH),
         "all_raw_path": str(ALL_RAW_PATH),
     }
-    REPORT_PATH.write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(REPORT_PATH, report)
 
     print(
         f"Done. processed_seeds={processed} next_offset={next_offset} "

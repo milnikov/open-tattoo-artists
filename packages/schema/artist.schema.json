@@ -97,7 +97,7 @@
         "null"
       ],
       "description": "Artist bio from source site",
-      "maxLength": 2000
+      "maxLength": 4000
     },
     "tattooing_since": {
       "type": [
@@ -218,6 +218,31 @@
         "user_data": {},
         "user_posts": {}
       }
+    },
+    "discovery": {
+      "type": "object",
+      "description": "Provenance metadata from the Instagram discovery graph (set when an artist is auto-created from candidates).",
+      "additionalProperties": true,
+      "properties": {
+        "source": { "type": "string" },
+        "instagram_id": { "type": ["string", "null"] },
+        "followed_by_count": { "type": ["integer", "null"] },
+        "similar_to_count": { "type": ["integer", "null"] },
+        "evidence_count": { "type": ["integer", "null"] },
+        "followed_by_known_artists": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "similar_to_known_artists": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "verified": {
+      "type": "string",
+      "description": "Curation status set during manual review.",
+      "enum": ["artist", "studio", "need_to_check"]
     }
   }
 }

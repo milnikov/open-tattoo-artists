@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import argparse
+import os
 from pathlib import Path
 
 from _repo_root import repo_path
@@ -26,6 +27,13 @@ def load_rows(path: Path) -> list[dict]:
         return []
     data = json.loads(path.read_text(encoding="utf-8"))
     return data if isinstance(data, list) else []
+
+
+def write_json_atomic(path: Path, data: object) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(f"{path.suffix}.{os.getpid()}.tmp")
+    tmp.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
+    tmp.replace(path)
 
 
 def load_existing_handles() -> set[str]:
@@ -127,7 +135,7 @@ def main() -> None:
     merged.sort(key=lambda x: x.get("username", ""))
     MERGED_ALL.parent.mkdir(parents=True, exist_ok=True)
     if merged or args.force_empty_overwrite:
-        MERGED_ALL.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+        write_json_atomic(MERGED_ALL, merged)
         print(f"Merged graph rows: {len(merged)} -> {MERGED_ALL}")
     else:
         print(
@@ -146,7 +154,7 @@ def main() -> None:
         )
         return
 
-    LEGACY_RAW.write_text(json.dumps(merged, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(LEGACY_RAW, merged)
 
     existing_handles = load_existing_handles()
     candidates = [
@@ -155,18 +163,29 @@ def main() -> None:
         and isinstance(row.get("username"), str)
         and row["username"].lower() not in existing_handles
     ]
-    LEGACY_CANDIDATES.write_text(json.dumps(candidates, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(LEGACY_CANDIDATES, candidates)
 
     following_report = load_report(FOLLOWING_REPORT)
     similar_report = load_report(SIMILAR_REPORT)
+    # Creation lives in create_artists_from_discovery_candidates.py now, so this
+    # script no longer knows what was created. Preserve any values already on
+    # disk (e.g. from discover_instagram_graph.py legacy runs) instead of
+    # overwriting them with zeros.
+    existing_legacy = load_report(LEGACY_REPORT)
+    preserved_created_ids = existing_legacy.get("created_ids") or []
+    if not isinstance(preserved_created_ids, list):
+        preserved_created_ids = []
+    preserved_created_count = existing_legacy.get("created_count")
+    if not isinstance(preserved_created_count, int):
+        preserved_created_count = len(preserved_created_ids)
     legacy_report = {
         "mode": "merged_from_split_pipelines",
         "candidate_count": len(merged),
         "shortlisted_count": len(candidates),
         "accepted_count": len(candidates),
         "rejected_count": max(0, len(merged) - len(candidates)),
-        "created_count": 0,
-        "created_ids": [],
+        "created_count": preserved_created_count,
+        "created_ids": preserved_created_ids,
         "min_evidence": args.min_evidence,
         "raw_graph_path": str(LEGACY_RAW),
         "sources": {
@@ -186,7 +205,7 @@ def main() -> None:
             "similar_requests_made": similar_report.get("similar_requests_made"),
         },
     }
-    LEGACY_REPORT.write_text(json.dumps(legacy_report, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_json_atomic(LEGACY_REPORT, legacy_report)
     print(
         f"Updated legacy files: raw={LEGACY_RAW.name}, "
         f"report={LEGACY_REPORT.name}, candidates={LEGACY_CANDIDATES.name}"

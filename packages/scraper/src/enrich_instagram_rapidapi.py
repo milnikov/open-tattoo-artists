@@ -26,6 +26,7 @@ from pathlib import Path
 import requests
 
 from _repo_root import repo_path
+from stable_api_budget import StableApiBudget
 
 # Default endpoint paths (override in config.yaml if your subscription uses different paths)
 BASE_URL = "https://instagram-scraper-stable-api.p.rapidapi.com"
@@ -152,6 +153,70 @@ def get_headers(api_key: str) -> dict:
     }
 
 
+def _request_with_retry(
+    method: str,
+    url: str,
+    *,
+    consume_budget,
+    max_attempts: int = 4,
+    base_delay: float = 0.8,
+    timeout: int = 30,
+    log_tag: str = "http",
+    **kwargs,
+):
+    """
+    HTTP helper for stable-API enrichment endpoints.
+
+    - Calls ``consume_budget()`` once per attempt (every attempt is a billable
+      RapidAPI call, including retries) and bails out returning ``None`` if
+      the shared budget is exhausted.
+    - Retries on 429 (honoring ``Retry-After``), transient request errors,
+      and 5xx responses with exponential backoff.
+    - Returns the ``requests.Response`` on success, or ``None`` if all
+      attempts failed. Other 4xx responses are not retried.
+    """
+    delay = max(0.5, float(base_delay))
+    for attempt in range(1, max_attempts + 1):
+        if not consume_budget():
+            print(f"  [{log_tag}] shared stable-api budget exhausted", file=sys.stderr)
+            return None
+        try:
+            resp = requests.request(method, url, timeout=timeout, **kwargs)
+        except requests.RequestException as exc:
+            if attempt == max_attempts:
+                print(f"  [{log_tag}] {url}: {exc}", file=sys.stderr)
+                return None
+            time.sleep(delay)
+            delay = min(delay * 2, 30.0)
+            continue
+        if resp.status_code == 429:
+            if attempt == max_attempts:
+                print(f"  [{log_tag}] {url}: 429 after {attempt} attempts", file=sys.stderr)
+                return None
+            retry_after = resp.headers.get("Retry-After")
+            try:
+                sleep_for = float(retry_after) if retry_after else delay
+            except (TypeError, ValueError):
+                sleep_for = delay
+            time.sleep(max(0.5, sleep_for))
+            delay = min(delay * 2, 30.0)
+            continue
+        if 500 <= resp.status_code < 600:
+            if attempt == max_attempts:
+                print(f"  [{log_tag}] {url}: {resp.status_code} after {attempt} attempts", file=sys.stderr)
+                return None
+            time.sleep(delay)
+            delay = min(delay * 2, 30.0)
+            continue
+        try:
+            resp.raise_for_status()
+        except requests.HTTPError as exc:
+            print(f"  [{log_tag}] {url}: {exc}", file=sys.stderr)
+            return None
+        return resp
+    return None
+
+
 def extract_username_from_url(url: str) -> str | None:
     if not url:
         return None
@@ -250,25 +315,31 @@ def fetch_user_info(
     path = endpoint or DEFAULT_ENDPOINT_USER_INFO
     url = f"{BASE_URL}/{path}"
     use_post = "v3" in path or path == "ig_get_fb_profile_v3.php"
+    budget = StableApiBudget.from_env()
+    if use_post:
+        resp = _request_with_retry(
+            "POST",
+            url,
+            consume_budget=budget.try_consume,
+            log_tag="user_info",
+            data={"username_or_url": username},
+            headers=get_headers(api_key),
+        )
+    else:
+        resp = _request_with_retry(
+            "GET",
+            url,
+            consume_budget=budget.try_consume,
+            log_tag="user_info",
+            params={"username_or_url": username},
+            headers=get_headers(api_key),
+        )
+    if resp is None:
+        return None
     try:
-        if use_post:
-            r = requests.post(
-                url,
-                data={"username_or_url": username},
-                headers=get_headers(api_key),
-                timeout=30,
-            )
-        else:
-            r = requests.get(
-                url,
-                params={"username_or_url": username},
-                headers=get_headers(api_key),
-                timeout=30,
-            )
-        r.raise_for_status()
-        return r.json()
-    except Exception as e:
-        print(f"  [user_info] {username}: {e}", file=sys.stderr)
+        return resp.json()
+    except ValueError as exc:
+        print(f"  [user_info] {username}: bad json ({exc})", file=sys.stderr)
         return None
 
 
@@ -292,17 +363,21 @@ def fetch_following_page(
         payload[pagination_param] = start_from
     else:
         payload[pagination_param] = "0"
+    budget = StableApiBudget.from_env()
+    resp = _request_with_retry(
+        "POST",
+        url,
+        consume_budget=budget.try_consume,
+        log_tag="following",
+        data=payload,
+        headers=get_headers(api_key),
+    )
+    if resp is None:
+        return None
     try:
-        r = requests.post(
-            url,
-            data=payload,
-            headers=get_headers(api_key),
-            timeout=30,
-        )
-        r.raise_for_status()
-        return r.json()
-    except Exception as e:
-        print(f"  [following] {username}: {e}", file=sys.stderr)
+        return resp.json()
+    except ValueError as exc:
+        print(f"  [following] {username}: bad json ({exc})", file=sys.stderr)
         return None
 
 
@@ -322,15 +397,24 @@ def fetch_user_posts(
     payload = {"username_or_url": username, "amount": str(amount)}
     if pagination_token:
         payload["pagination_token"] = pagination_token
+    budget = StableApiBudget.from_env()
+    resp = _request_with_retry(
+        "POST",
+        url,
+        consume_budget=budget.try_consume,
+        log_tag="posts",
+        timeout=60,
+        data=payload,
+        headers=get_headers(api_key),
+    )
+    if resp is None:
+        return [], None
     try:
-        r = requests.post(
-            url,
-            data=payload,
-            headers=get_headers(api_key),
-            timeout=60,
-        )
-        r.raise_for_status()
-        data = r.json()
+        data = resp.json()
+    except ValueError as exc:
+        print(f"  [posts] {username}: bad json ({exc})", file=sys.stderr)
+        return [], None
+    try:
         # API shape: {"posts": [{"node": {..., "image_versions2": {"candidates": [{"url": "..."}]}}}], "pagination_token": "..."}
         posts = (
             data.get("posts")
@@ -1050,6 +1134,7 @@ def main():
             existing_follower_count = (data.get("instagram_enriched") or {}).get("follower_count")
             # With --force, always fetch full profile: links.instagram may have changed
             # (skip_profile would keep old ig id while hitting the new handle).
+            enriched = None
             if existing_follower_count is not None and not args.force:
                 print(f"[{i+1}/{len(todo)}] {artist_id} (@{username}) [skip profile, follower_count={existing_follower_count}]")
                 enriched = enrich_one_skip_profile(
@@ -1059,7 +1144,14 @@ def main():
                     endpoint_posts=endpoint_posts,
                     fetch_30_posts=not args.no_30_posts,
                 )
-            else:
+                if enriched is None:
+                    # Existing follower_count is missing/non-numeric. Fall through to
+                    # full profile fetch instead of crashing build_instagram_enriched_and_meta.
+                    print(
+                        f"  [skip-profile -> full] @{username}: existing follower_count unusable, doing full enrich",
+                        file=sys.stderr,
+                    )
+            if enriched is None:
                 print(f"[{i+1}/{len(todo)}] {artist_id} (@{username})")
                 enriched = enrich_one(
                     api_key,
@@ -1072,6 +1164,18 @@ def main():
                     skip_following=args.skip_following,
                     fetch_30_posts=not args.no_30_posts,
                 )
+
+            # Don't write a stub or mark complete if the profile fetch failed:
+            # leave the artist file untouched so the next run will retry it.
+            if enriched.get("error") == "user_info_failed" or not (enriched.get("user_data") or {}):
+                reason = enriched.get("error") or "no user_data"
+                print(
+                    f"  [skip] @{username}: {reason} -- will retry on next run",
+                    file=sys.stderr,
+                )
+                if i < len(todo) - 1:
+                    time.sleep(args.delay)
+                continue
 
             slim, name_override, updated_at, bio_append, new_tattoos_front = (
                 build_instagram_enriched_and_meta(
