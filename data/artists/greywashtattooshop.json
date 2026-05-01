@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "greywashtattooshop",
+  "name": "GreyWash Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/greywashtattooshop",
+    "instagram": "https://instagram.com/greywashtattooshop"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "bigg_gordo_tattooz",
+      "blackcastleartco",
+      "blackmagictattooaz",
+      "copperstatetattoo",
+      "discipletattoo"
+    ],
+    "instagram_id": "4987076159"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "irezumitattooart",
+  "name": "Irezumi Tattoo Art",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/irezumitattooart",
+    "instagram": "https://instagram.com/irezumitattooart"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 6,
+    "evidence_count": 9,
+    "followed_by_known_artists": [
+      "abian_lamotta",
+      "adamdowningtattoo",
+      "adamrosenthaltattoo"
+    ],
+    "similar_to_known_artists": [
+      "boneltattooer",
+      "bumchoi",
+      "damienrodriguez",
+      "henning_royaltattoo",
+      "horimasa_tosui",
+      "yokohama_tattoo_museum"
+    ],
+    "instagram_id": "4167490851"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "smart_ink.collective",
+  "name": "Smart Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/smart_ink.collective",
+    "instagram": "https://instagram.com/smart_ink.collective"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "amyporterart",
+      "bigben_tattooist",
+      "dangeorgeart",
+      "dennis_paul_kline_tattoos",
+      "har_wars_tattoo"
+    ],
+    "instagram_id": "56308138891"
+  }
+}

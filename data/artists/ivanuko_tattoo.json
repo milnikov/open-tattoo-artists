@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "id": "ivanuko_tattoo",
+  "name": "Ivanuko Neotraditional Dark Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/ivanuko_tattoo",
+    "instagram": "https://instagram.com/ivanuko_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 3,
+    "evidence_count": 3,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "aitorjimenez_tattoo",
+      "comanchetattoobilbao",
+      "donfat33"
+    ],
+    "instagram_id": "321712749"
+  }
+}

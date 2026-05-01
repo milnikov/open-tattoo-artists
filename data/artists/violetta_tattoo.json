@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "violetta_tattoo",
+  "name": "TATTOO ARTIST | TATUAŻYSTKA",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/violetta_tattoo",
+    "instagram": "https://instagram.com/violetta_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 5,
+    "evidence_count": 8,
+    "followed_by_known_artists": [
+      "abian_lamotta",
+      "abink32",
+      "adamkremer.tattoo"
+    ],
+    "similar_to_known_artists": [
+      "blanktattooart",
+      "butenko_serik",
+      "carlos_piedrahita_art",
+      "gorskytattoos",
+      "u_genetattoo"
+    ],
+    "instagram_id": "7050164593"
+  }
+}

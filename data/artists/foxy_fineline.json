@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "foxy_fineline",
+  "name": "Fineline tattoo Amsterdam by Foxy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/foxy_fineline",
+    "instagram": "https://instagram.com/foxy_fineline"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 9,
+    "evidence_count": 9,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "andrew.zenga",
+      "artcastle_tattoo",
+      "ascetictattoo",
+      "blackbear.ink",
+      "bodycult.nl",
+      "dietattoomeid",
+      "galyagisca",
+      "inkorporated.amsterdam",
+      "marked_by_elise"
+    ],
+    "instagram_id": "33043981418"
+  }
+}

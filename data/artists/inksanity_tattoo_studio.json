@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "inksanity_tattoo_studio",
+  "name": "Inksanity Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inksanity_tattoo_studio",
+    "instagram": "https://instagram.com/inksanity_tattoo_studio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "dynamite_tattoos",
+      "electra_tattoo_company",
+      "geoffersonink",
+      "harlequintattoos"
+    ],
+    "instagram_id": "1555641845"
+  }
+}

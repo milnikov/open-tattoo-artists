@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "neotradtattooglobal",
+  "name": "Neotrad Tattoo Global",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/neotradtattooglobal",
+    "instagram": "https://instagram.com/neotradtattooglobal"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 0,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "a_sauco",
+      "abracadabratattooing",
+      "adamobrien_art",
+      "coreyryantattoo"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "52214270287"
+  }
+}

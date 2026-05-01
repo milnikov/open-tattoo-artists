@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "id": "solidtattoocompany",
+  "name": "Traditional American tattooing Athens",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/solidtattoocompany",
+    "instagram": "https://instagram.com/solidtattoocompany"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 2,
+    "evidence_count": 2,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "cobra_tattoo",
+      "de.stroy.er"
+    ],
+    "instagram_id": "30432925759"
+  }
+}

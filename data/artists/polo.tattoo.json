@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "polo.tattoo",
+  "name": "Tatuaje tradicional . Antonio Polo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/polo.tattoo",
+    "instagram": "https://instagram.com/polo.tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 7,
+    "evidence_count": 9,
+    "followed_by_known_artists": [
+      "_volaverunt_",
+      "adamdeanart"
+    ],
+    "similar_to_known_artists": [
+      "alexdiaz_tattoo",
+      "bara_madrid",
+      "belmontetattoo",
+      "danielanibaltattoo",
+      "doquem",
+      "estherdemiguel",
+      "ferrancoll"
+    ],
+    "instagram_id": "46843681"
+  }
+}

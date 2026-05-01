@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "zottl_tattoo",
+  "name": "ZOTTL BERLIN DOTWORK TATTOO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/zottl_tattoo",
+    "instagram": "https://instagram.com/zottl_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 4,
+    "evidence_count": 7,
+    "followed_by_known_artists": [
+      "abigaillouisetattoo",
+      "absolut_ink_tattoo",
+      "adamguyhays"
+    ],
+    "similar_to_known_artists": [
+      "blum.ttt",
+      "dino_vallely",
+      "dynozartattack",
+      "tattoosbypaketh"
+    ],
+    "instagram_id": "1186994583"
+  }
+}

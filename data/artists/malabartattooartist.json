@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "malabartattooartist",
+  "name": "Malabar Tatoueur",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/malabartattooartist",
+    "instagram": "https://instagram.com/malabartattooartist"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 9,
+    "evidence_count": 12,
+    "followed_by_known_artists": [
+      "_yakisoba_",
+      "_yap9_",
+      "adamdowningtattoo"
+    ],
+    "similar_to_known_artists": [
+      "chime_tahiti_tatau",
+      "egon_weiss",
+      "feeltattooartist",
+      "gaelriccidot",
+      "gaston_art_book",
+      "ghis_melou_tattooer",
+      "hailin_fu_tattoo",
+      "halfwolftattoo",
+      "henriktattoo"
+    ],
+    "instagram_id": "4779939023"
+  }
+}

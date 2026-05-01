@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "vero.nika.tattoo",
+  "name": "FINELINE TATTOO ARTIST | TORONTO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/vero.nika.tattoo",
+    "instagram": "https://instagram.com/vero.nika.tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 7,
+    "evidence_count": 8,
+    "followed_by_known_artists": [
+      "777tigre"
+    ],
+    "similar_to_known_artists": [
+      "alena.ink",
+      "anais_chabane",
+      "asiertattoo",
+      "axelejsmont",
+      "blackheartmunich",
+      "denkmal_tattoo",
+      "i_tats_"
+    ],
+    "instagram_id": "39629298963"
+  }
+}

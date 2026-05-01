@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "zajawatattoo_gda",
+  "name": "Studio tatuażu • Tattoo • Gdańsk • Trójmiasto • Piercing",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/zajawatattoo_gda",
+    "instagram": "https://instagram.com/zajawatattoo_gda"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "7_sins_tattoo"
+    ],
+    "similar_to_known_artists": [
+      "grubykruk",
+      "h8kaz",
+      "insekt_tattoo"
+    ],
+    "instagram_id": "2226848948"
+  }
+}

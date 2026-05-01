@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "wonny_tattooer",
+  "name": "WONNY 워니 Traditional",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/wonny_tattooer",
+    "instagram": "https://instagram.com/wonny_tattooer"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 5,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "_jo_ul_"
+    ],
+    "similar_to_known_artists": [
+      "alin_tattooer",
+      "ari_tattooer",
+      "bobbyskinstattoos",
+      "copitattoo",
+      "fergumarquez"
+    ],
+    "instagram_id": "44612970086"
+  }
+}

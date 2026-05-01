@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "bloodandinkny",
+  "name": "NY Blood and Ink Tattoo & Horror Con",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/bloodandinkny",
+    "instagram": "https://instagram.com/bloodandinkny"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 7,
+    "evidence_count": 7,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "acquasantanyc",
+      "andybtattoos",
+      "boundforglory_nyc",
+      "coryhaberman",
+      "darkhorsebailey",
+      "grant_tattoos",
+      "hatcitychris"
+    ],
+    "instagram_id": "400454357"
+  }
+}

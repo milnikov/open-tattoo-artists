@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "john_trad_tattoo",
+  "name": "JOHN TRAD | ЯПОНСКАЯ ТАТУИРОВКА | ТАТУ МОСКВА | JAPANESE TATTOO",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/john_trad_tattoo",
+    "instagram": "https://instagram.com/john_trad_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 3,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "_kbtattoo",
+      "adams_ramen"
+    ],
+    "similar_to_known_artists": [
+      "derekyiptattoo",
+      "diaochen_tattoo",
+      "guindero"
+    ],
+    "instagram_id": "2307576296"
+  }
+}

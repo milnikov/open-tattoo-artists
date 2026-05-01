@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "prime_ink_tattoo_amsterdam",
+  "name": "Prime Ink Tattoo Amsterdam",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/prime_ink_tattoo_amsterdam",
+    "instagram": "https://instagram.com/prime_ink_tattoo_amsterdam"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 6,
+    "evidence_count": 6,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "alexisepalza",
+      "ambersilvana",
+      "bodycult.nl",
+      "eugen_mahu",
+      "hossam.tattoos",
+      "inkorporated.amsterdam"
+    ],
+    "instagram_id": "54215629646"
+  }
+}

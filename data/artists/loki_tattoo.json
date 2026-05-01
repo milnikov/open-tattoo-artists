@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "loki_tattoo",
+  "name": "Loki | Traditional Tattooer • Tattoo History Lover",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/loki_tattoo",
+    "instagram": "https://instagram.com/loki_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "adamdowningtattoo"
+    ],
+    "similar_to_known_artists": [
+      "hellcock",
+      "horrorvacuitattoo",
+      "struggle4pleasure"
+    ],
+    "instagram_id": "34866543"
+  }
+}

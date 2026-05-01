@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "sempiternalink",
+  "name": "Sempiternal Ink Tattoo House",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/sempiternalink",
+    "instagram": "https://instagram.com/sempiternalink"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "adampeerstattoo"
+    ],
+    "similar_to_known_artists": [
+      "dead2rightstattoo",
+      "eerieink",
+      "inky_g"
+    ],
+    "instagram_id": "1328986470"
+  }
+}

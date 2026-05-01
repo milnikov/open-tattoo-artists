@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "id": "inspirationtattoo",
+  "name": "INSPIRATION TATTOO - Tatuagem Tatuadores",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inspirationtattoo",
+    "instagram": "https://instagram.com/inspirationtattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 0,
+    "evidence_count": 2,
+    "followed_by_known_artists": [
+      "a.ptattoos",
+      "by.tayeh"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "635019611"
+  }
+}

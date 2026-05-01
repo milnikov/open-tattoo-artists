@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "classicinktattoostudio",
+  "name": "Classic Ink Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/classicinktattoostudio",
+    "instagram": "https://instagram.com/classicinktattoostudio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 8,
+    "evidence_count": 8,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "beachandink",
+      "blackamethysttattoo",
+      "blacksails941",
+      "bryanhalltattoo",
+      "edensedgetattoo",
+      "electricgoldtattooco",
+      "hsgtattoo",
+      "ironritetattoo"
+    ],
+    "instagram_id": "401564591"
+  }
+}

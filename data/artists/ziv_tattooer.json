@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "ziv_tattooer",
+  "name": "지브 - koreatattoo  finelinetattoo linetattoo  タトゥー",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/ziv_tattooer",
+    "instagram": "https://instagram.com/ziv_tattooer"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 4,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "adamdeanart",
+      "by.tayeh"
+    ],
+    "similar_to_known_artists": [
+      "77.9tattoo",
+      "e.hyang.tattoo",
+      "handitrip",
+      "tattooer_dogy"
+    ],
+    "instagram_id": "787025400"
+  }
+}

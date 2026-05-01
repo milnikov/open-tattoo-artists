@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "flashink.bali",
+  "name": "Flashink Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/flashink.bali",
+    "instagram": "https://instagram.com/flashink.bali"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 11,
+    "evidence_count": 12,
+    "followed_by_known_artists": [
+      "_yakisoba_"
+    ],
+    "similar_to_known_artists": [
+      "all4thekauzetattoo",
+      "ata.ink",
+      "becool_segaraink",
+      "breakneckbrad",
+      "celebrityinktattoophuket",
+      "chezer13_tattoo",
+      "consciousartstattoos",
+      "dewa_sokir",
+      "ediktattoo",
+      "eevz",
+      "inkredible"
+    ],
+    "instagram_id": "1707767306"
+  }
+}

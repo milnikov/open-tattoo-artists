@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "id": "inkologyartgallery",
+  "name": "Inkology Tattoo Art Gallery",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkologyartgallery",
+    "instagram": "https://instagram.com/inkologyartgallery"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 5,
+    "similar_to_count": 20,
+    "evidence_count": 25,
+    "followed_by_known_artists": [
+      "7soulstattoo_ramsey",
+      "a.s.o_tattoo_artist",
+      "aarisprout",
+      "abis.one",
+      "adamlinktattooer"
+    ],
+    "similar_to_known_artists": [
+      "adamdeanart",
+      "andersonluna",
+      "arlotattoos",
+      "asylumtattoo",
+      "bangbangnyc",
+      "bmerck_ink",
+      "bobbycupparotattoos",
+      "cheopark",
+      "criseck",
+      "delaneyink",
+      "dot.creativegroup",
+      "feio_artwork",
+      "firstclassnyc",
+      "fortunatotattoo",
+      "hectordanielsnyc",
+      "inkbynico",
+      "inkstigator",
+      "jessmachete",
+      "keithhernandez.nyc",
+      "zozutattoo"
+    ],
+    "instagram_id": "2123027461"
+  }
+}

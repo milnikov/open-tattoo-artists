@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "six.gun.tattooer",
+  "name": "TRADITIONAL TATTOOS MELBOURNE",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/six.gun.tattooer",
+    "instagram": "https://instagram.com/six.gun.tattooer"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 6,
+    "evidence_count": 7,
+    "followed_by_known_artists": [
+      "_kbtattoo"
+    ],
+    "similar_to_known_artists": [
+      "blueladytattoo",
+      "bobbyskinstattoos",
+      "bobxtate",
+      "davidagostino",
+      "elriccfh",
+      "hctattooer"
+    ],
+    "instagram_id": "13718017946"
+  }
+}

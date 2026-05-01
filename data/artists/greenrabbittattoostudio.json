@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "greenrabbittattoostudio",
+  "name": "Green Rabbit Tattoo Studio • studio tatuażu • Katowice",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/greenrabbittattoostudio",
+    "instagram": "https://instagram.com/greenrabbittattoostudio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 5,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "7_sins_tattoo"
+    ],
+    "similar_to_known_artists": [
+      "czaramaratattoo",
+      "doktore_tattoo",
+      "ineepine",
+      "ink_ognito_tattoo",
+      "inksil"
+    ],
+    "instagram_id": "1994401231"
+  }
+}

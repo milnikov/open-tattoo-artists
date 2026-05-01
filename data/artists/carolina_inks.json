@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "carolina_inks",
+  "name": "Carolina Inks | Fineline & Microrealistic Tattoo Artist London",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/carolina_inks",
+    "instagram": "https://instagram.com/carolina_inks"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "abievetattoo"
+    ],
+    "similar_to_known_artists": [
+      "briarrosetattoo",
+      "carouchiarelli",
+      "claudio_traina"
+    ],
+    "instagram_id": "46215616400"
+  }
+}

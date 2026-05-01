@@ -1,0 +1,40 @@
+{
+  "schema_version": 2,
+  "id": "tatuaggio_tradizionale",
+  "name": "Tatuaggio_tradizionale",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/tatuaggio_tradizionale",
+    "instagram": "https://instagram.com/tatuaggio_tradizionale"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 12,
+    "evidence_count": 13,
+    "followed_by_known_artists": [
+      "abraxas3600"
+    ],
+    "similar_to_known_artists": [
+      "alexciliegia",
+      "andy.tst",
+      "blue_bird_tattoos",
+      "bodymarkingstattoo",
+      "bradipo_gonzales_tattoo",
+      "elia_leonardi_tattooer",
+      "francesca_superink",
+      "gaia_zeta",
+      "gianmarco_celli",
+      "gianniorlandinitattooer",
+      "giovanni_bracciodieta_bd",
+      "giuliaghil"
+    ],
+    "instagram_id": "6690684941"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "chronicink",
+  "name": "CHRONIC INK TATTOOS",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/chronicink",
+    "instagram": "https://instagram.com/chronicink"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 0,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "777tigre",
+      "_kindamo_",
+      "ace_no_buggy",
+      "adamdeanart"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "28654279"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "sinkorswimtattoostudio",
+  "name": "Sink Or Swim Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/sinkorswimtattoostudio",
+    "instagram": "https://instagram.com/sinkorswimtattoostudio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 5,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "ablack_art"
+    ],
+    "similar_to_known_artists": [
+      "alluringartstattoo",
+      "anythingspossibletattoo",
+      "elite_ink_tattoos",
+      "ga3riel_luna",
+      "inkeenc"
+    ],
+    "instagram_id": "1402636143"
+  }
+}

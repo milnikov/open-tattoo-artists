@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "_mvtattoos",
+  "name": "MV TATTOOS",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/_mvtattoos",
+    "instagram": "https://instagram.com/_mvtattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 3,
+    "evidence_count": 3,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "erick_geek_tattoo",
+      "gambetti.tattoo",
+      "gomestattoo13"
+    ],
+    "instagram_id": "62963770828"
+  },
+  "bio": "⚜️Do delicado ao fechamento⚜️\n🔥Diversos estilos\n📌Santo André/SP\n.\n⬇️Orçamentos pelo link abaixo⬇️",
+  "instagram_enriched": {
+    "id": "62963770828",
+    "follower_count": 792,
+    "following_count": 176,
+    "media_count": 20,
+    "following": [],
+    "instagram_full_name": "MV TATTOOS",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mvtattoos/instagram/profile.jpg"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "inked_jaguar",
+  "name": "Inked Jaguar",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inked_jaguar",
+    "instagram": "https://instagram.com/inked_jaguar"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 3,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "_kbtattoo",
+      "adamfox",
+      "adamjailstailor"
+    ],
+    "similar_to_known_artists": [
+      "chrisastrologo",
+      "horihiro_tebori",
+      "horitadajapan"
+    ],
+    "instagram_id": "37434848"
+  }
+}

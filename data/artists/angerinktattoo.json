@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "angerinktattoo",
+  "name": "Angerink Tattoo Shop",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/angerinktattoo",
+    "instagram": "https://instagram.com/angerinktattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "daricktattoos",
+      "deathless_tattoos",
+      "dytattoos",
+      "guillaumegustattoo",
+      "hellboundtattoos"
+    ],
+    "instagram_id": "1690647712"
+  }
+}

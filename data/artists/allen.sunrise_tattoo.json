@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "allen.sunrise_tattoo",
+  "name": "新美式刺青、Neo traditional tattoo Allen",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/allen.sunrise_tattoo",
+    "instagram": "https://instagram.com/allen.sunrise_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 2,
+    "evidence_count": 3,
+    "followed_by_known_artists": [
+      "_kirilo"
+    ],
+    "similar_to_known_artists": [
+      "che_tattooist",
+      "tai_yun_chen"
+    ],
+    "instagram_id": "181932349"
+  }
+}

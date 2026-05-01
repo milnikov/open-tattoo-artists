@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "inkbird_tattoo",
+  "name": "INKBIRD TATTOO • TATTOO STUDIO • Mülheim an der Ruhr",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkbird_tattoo",
+    "instagram": "https://instagram.com/inkbird_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "black_label_tattoo",
+      "cashonlytattoos",
+      "dannybrinktattoo",
+      "imarowski",
+      "inktopustattooart"
+    ],
+    "instagram_id": "26653660662"
+  }
+}

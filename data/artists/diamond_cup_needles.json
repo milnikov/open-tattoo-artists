@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "diamond_cup_needles",
+  "name": "Diamond cup tattoo-needles",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/diamond_cup_needles",
+    "instagram": "https://instagram.com/diamond_cup_needles"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 5,
+    "similar_to_count": 1,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "a.s.o_tattoo_artist",
+      "a1arttattoosllc",
+      "aadam_the_artist",
+      "adamexiste",
+      "inkbywill"
+    ],
+    "similar_to_known_artists": [
+      "hornet.eds"
+    ],
+    "instagram_id": "1517304234"
+  }
+}

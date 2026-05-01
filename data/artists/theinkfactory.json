@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "theinkfactory",
+  "name": "The Ink Factory Dublin | Tattoo, Piercing & Laser",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/theinkfactory",
+    "instagram": "https://instagram.com/theinkfactory"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 2,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "_danbrookstattoo_",
+      "a.rae.tattoo",
+      "a.s.o_tattoo_artist",
+      "abievetattoo"
+    ],
+    "similar_to_known_artists": [
+      "asailorsgrave",
+      "handofmysteries"
+    ],
+    "instagram_id": "1524256412"
+  }
+}

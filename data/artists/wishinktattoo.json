@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "wishinktattoo",
+  "name": "WishInk Tattoostudio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/wishinktattoo",
+    "instagram": "https://instagram.com/wishinktattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 4,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "abstract_tattoo"
+    ],
+    "similar_to_known_artists": [
+      "achille_de_maria",
+      "fabio_pepper_tattooer",
+      "ficoalextattoo",
+      "giuli.pigna.tattooer"
+    ],
+    "instagram_id": "6149052357"
+  }
+}

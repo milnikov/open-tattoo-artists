@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "skinsandneedlestattoo",
+  "name": "Skins and Needles Tattoo Studio Middlesbrough",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/skinsandneedlestattoo",
+    "instagram": "https://instagram.com/skinsandneedlestattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 4,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "adamlinktattooer"
+    ],
+    "similar_to_known_artists": [
+      "blackfriarstattoohouse",
+      "inked_up_bristol",
+      "inkedtat2",
+      "ironhandtattooing"
+    ],
+    "instagram_id": "1193069340"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "id": "viburnum_tattoo",
+  "name": "tattoo artist/ tatuaż Warszawa/ fineline, minimal, mikrorealizm",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/viburnum_tattoo",
+    "instagram": "https://instagram.com/viburnum_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 1,
+    "evidence_count": 2,
+    "followed_by_known_artists": [
+      "abstract_tattoo"
+    ],
+    "similar_to_known_artists": [
+      "candil.tattoos"
+    ],
+    "instagram_id": "20841868"
+  }
+}

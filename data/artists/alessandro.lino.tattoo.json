@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "alessandro.lino.tattoo",
+  "name": "Tatuaggi geometrici Milano",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/alessandro.lino.tattoo",
+    "instagram": "https://instagram.com/alessandro.lino.tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "aharon_____",
+      "black.work.tattoo",
+      "dietattoomilano",
+      "eltanotattoo"
+    ],
+    "instagram_id": "6151574610"
+  }
+}

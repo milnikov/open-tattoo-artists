@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "inkfusion_tattoo_studio",
+  "name": "Inkfusion Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkfusion_tattoo_studio",
+    "instagram": "https://instagram.com/inkfusion_tattoo_studio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "bryink",
+      "ddrumstattoos1",
+      "gotattoonyc",
+      "grinddesign",
+      "infinitytattoonyc"
+    ],
+    "instagram_id": "270198235"
+  }
+}

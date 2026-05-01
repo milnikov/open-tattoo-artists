@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "eliteinktattoostudios",
+  "name": "Elite Ink® Tattoo Studios",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/eliteinktattoostudios",
+    "instagram": "https://instagram.com/eliteinktattoostudios"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "antmantattoos",
+      "chromatattoo",
+      "eternaltattooz",
+      "iconic_tattoo_detroit"
+    ],
+    "instagram_id": "1281328894"
+  }
+}

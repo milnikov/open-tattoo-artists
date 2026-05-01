@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "skinandinkmag",
+  "name": "Skin & Ink | Tattoo Art Magazine",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/skinandinkmag",
+    "instagram": "https://instagram.com/skinandinkmag"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 0,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "ablack_art",
+      "adamguyhays",
+      "adamlinktattooer",
+      "coreyryantattoo"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "3955287593"
+  }
+}

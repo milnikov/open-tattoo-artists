@@ -1,0 +1,48 @@
+{
+  "schema_version": 2,
+  "id": "inknationstudio",
+  "name": "Inknation Studio / Tattoo studio NYC",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inknationstudio",
+    "instagram": "https://instagram.com/inknationstudio"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 5,
+    "similar_to_count": 16,
+    "evidence_count": 21,
+    "followed_by_known_artists": [
+      "777tigre",
+      "a.s.o_tattoo_artist",
+      "abctattoo",
+      "ace_no_buggy",
+      "adamdeanart"
+    ],
+    "similar_to_known_artists": [
+      "adrianrodtattoo",
+      "alexsorsa",
+      "blanktattooart",
+      "boloarttattoo",
+      "brunomoreiratattoo",
+      "camilotuero.tattoo",
+      "castillo.dario",
+      "cvsdeleon",
+      "daniels_arv",
+      "daniluztattoo",
+      "douglasprudentetattoo",
+      "egon_weiss",
+      "gorskytattoos",
+      "hernanyepes_art",
+      "ivanmorant_tattoo",
+      "tampatattoo"
+    ],
+    "instagram_id": "47815697926"
+  }
+}

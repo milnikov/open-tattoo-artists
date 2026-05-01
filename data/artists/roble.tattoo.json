@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "roble.tattoo",
+  "name": "•ROBLE•TATTOO ARTIST•NEOBLACKWORK•",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/roble.tattoo",
+    "instagram": "https://instagram.com/roble.tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 7,
+    "evidence_count": 7,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "_adamchenko_",
+      "boloarttattoo",
+      "cvsdeleon",
+      "danielrhtt",
+      "daniels_arv",
+      "elia_leonardi_tattooer",
+      "inkmonsterstattoo"
+    ],
+    "instagram_id": "54731505746"
+  }
+}

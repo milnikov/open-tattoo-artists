@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "saffa.tattoo",
+  "name": "BLACKWORK TATTOO   ✦    Anna        Питер | Berlin | Paris",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/saffa.tattoo",
+    "instagram": "https://instagram.com/saffa.tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "sofiyabelousova"
+    ],
+    "similar_to_known_artists": [
+      "ayun.kuru",
+      "brandochiesa",
+      "ilyacascad"
+    ],
+    "instagram_id": "58616440172"
+  }
+}

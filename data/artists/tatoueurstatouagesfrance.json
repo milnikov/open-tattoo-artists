@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "tatoueurstatouagesfrance",
+  "name": "Collectif tatoueur TTF « Tatoueurs Tatouages France »",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/tatoueurstatouagesfrance",
+    "instagram": "https://instagram.com/tatoueurstatouagesfrance"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 8,
+    "evidence_count": 9,
+    "followed_by_known_artists": [
+      "a_sauco"
+    ],
+    "similar_to_known_artists": [
+      "arnaud_pradier_tattooist",
+      "dimitrihk",
+      "eddieczaicki",
+      "fatmanu_tattoo_from_tours",
+      "flink_tattoo",
+      "frenchkisstattooontheroad",
+      "gabycastel_tattoo",
+      "tattoobydodie"
+    ],
+    "instagram_id": "3494412124"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "inktherapynlv",
+  "name": "Ink Therapy Tattoo Co",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inktherapynlv",
+    "instagram": "https://instagram.com/inktherapynlv"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "americana_tattoo_co",
+      "crownofthornslv",
+      "geralddaniell92",
+      "good_vibrations_tattoo"
+    ],
+    "instagram_id": "48483681697"
+  }
+}

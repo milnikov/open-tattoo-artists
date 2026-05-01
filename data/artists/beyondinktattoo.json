@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "beyondinktattoo",
+  "name": "Beyond Ink Tattoos & Body Piercings",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/beyondinktattoo",
+    "instagram": "https://instagram.com/beyondinktattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 6,
+    "evidence_count": 6,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "eastsidetat",
+      "eternaldevotiontattoos",
+      "fabiomonth_",
+      "hardoutline",
+      "heavenly_inkz_tattoo",
+      "hectorm4l"
+    ],
+    "instagram_id": "3024001634"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "inklinktattoofinder",
+  "name": "InkLink Tattoo Finder",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inklinktattoofinder",
+    "instagram": "https://instagram.com/inklinktattoofinder"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "adam_bomb_",
+      "batsforbrains",
+      "brianpaul503",
+      "ericjohntattoos"
+    ],
+    "instagram_id": "43582544077"
+  }
+}

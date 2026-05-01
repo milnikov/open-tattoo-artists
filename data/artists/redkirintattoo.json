@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "redkirintattoo",
+  "name": "Traditional Tattoo & Piercing",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/redkirintattoo",
+    "instagram": "https://instagram.com/redkirintattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "aitoririmia",
+      "andrastattoo",
+      "barbaraleona",
+      "cokofernandez68",
+      "granomi_tattoo"
+    ],
+    "instagram_id": "2352112519"
+  }
+}

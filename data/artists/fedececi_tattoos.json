@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "fedececi_tattoos",
+  "name": "Federico Ceci • Traditional Tattoo •",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/fedececi_tattoos",
+    "instagram": "https://instagram.com/fedececi_tattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 4,
+    "evidence_count": 4,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "alessandro_manomorta",
+      "alexpinnatattoo",
+      "ariannapignatelli_",
+      "debrartattoos"
+    ],
+    "instagram_id": "405309776"
+  }
+}

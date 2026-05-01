@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "norrietattoo",
+  "name": "LORREN NORRIE Traditional Tattoos SYDNEY AUSTRALIA",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/norrietattoo",
+    "instagram": "https://instagram.com/norrietattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 1,
+    "evidence_count": 3,
+    "followed_by_known_artists": [
+      "a.slatertattooing",
+      "adamdowningtattoo"
+    ],
+    "similar_to_known_artists": [
+      "gummyjohnston"
+    ],
+    "instagram_id": "10207174"
+  }
+}

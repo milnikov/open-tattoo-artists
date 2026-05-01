@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "id": "_mitchysaurus",
+  "name": "Mitchell Bogolub",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/_mitchysaurus",
+    "instagram": "https://instagram.com/_mitchysaurus"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 8,
+    "evidence_count": 9,
+    "followed_by_known_artists": [
+      "a.s.o_tattoo_artist"
+    ],
+    "similar_to_known_artists": [
+      "adrianlamingtattoo",
+      "afflictedink_tattoo",
+      "albertrosal",
+      "chakratattoos",
+      "chilotattoo",
+      "cori_denino_tattoos",
+      "dannylepore",
+      "idiaz.tattoo"
+    ],
+    "instagram_id": "2125386960"
+  },
+  "bio": "Tattoo artist NJ/NYC\n@nevermoretattoos \nDinosaur breeder 😉",
+  "instagram_enriched": {
+    "id": "2125386960",
+    "follower_count": 5993,
+    "following_count": 1984,
+    "media_count": 145,
+    "following": [],
+    "instagram_full_name": "Mitchell Bogolub",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/_mitchysaurus/instagram/profile.jpg"
+  }
+}

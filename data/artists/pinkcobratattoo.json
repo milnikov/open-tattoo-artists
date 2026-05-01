@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "pinkcobratattoo",
+  "name": "Pink Cobra Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/pinkcobratattoo",
+    "instagram": "https://instagram.com/pinkcobratattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 6,
+    "evidence_count": 6,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "aadam_the_artist",
+      "adrianevans528",
+      "anguishnoplay",
+      "austin_nesnah",
+      "charles_chapmantattoo",
+      "eddygtattoo"
+    ],
+    "instagram_id": "45375202859"
+  }
+}

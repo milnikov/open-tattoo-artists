@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "rocknroll_tattoo_katowice",
+  "name": "Rock’n’Roll Tattoo Piercing Katowice Tatuaż Męski Kobiecy",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/rocknroll_tattoo_katowice",
+    "instagram": "https://instagram.com/rocknroll_tattoo_katowice"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 5,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "abstract_tattoo"
+    ],
+    "similar_to_known_artists": [
+      "dirtytattooszczecin",
+      "doktore_tattoo",
+      "ginger_gypsy_tattoo",
+      "ink_ognito_tattoo",
+      "inksil"
+    ],
+    "instagram_id": "577536413"
+  }
+}

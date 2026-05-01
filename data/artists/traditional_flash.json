@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "id": "traditional_flash",
+  "name": "Traditional Flash",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/traditional_flash",
+    "instagram": "https://instagram.com/traditional_flash"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 3,
+    "similar_to_count": 4,
+    "evidence_count": 7,
+    "followed_by_known_artists": [
+      "a.slatertattooing",
+      "adamdowningtattoo",
+      "adamktattoo"
+    ],
+    "similar_to_known_artists": [
+      "cfhtattooer",
+      "christianlanouette",
+      "codydraws",
+      "hudsontattoo"
+    ],
+    "instagram_id": "1386181686"
+  }
+}

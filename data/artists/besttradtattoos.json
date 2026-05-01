@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "besttradtattoos",
+  "name": "The Original Best Traditional",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/besttradtattoos",
+    "instagram": "https://instagram.com/besttradtattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 7,
+    "similar_to_count": 0,
+    "evidence_count": 7,
+    "followed_by_known_artists": [
+      "_kirilo",
+      "_yctc_",
+      "aber_tattooer",
+      "abraxas3600",
+      "adamdowningtattoo",
+      "adamjensentattoos",
+      "adamlinktattooer"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "937816944"
+  }
+}

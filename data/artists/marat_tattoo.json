@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "marat_tattoo",
+  "name": "Marat Gutikov Tattoo Warsaw / Tatuaż Warszawa",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/marat_tattoo",
+    "instagram": "https://instagram.com/marat_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 6,
+    "evidence_count": 6,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "artemskrypal",
+      "blef.tattoo",
+      "blue_train69",
+      "damngoodtattoo",
+      "greg_tattooart",
+      "ian.shakhmatov"
+    ],
+    "instagram_id": "1033938517"
+  }
+}

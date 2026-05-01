@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "usatraditional",
+  "name": "BEST TRADITIONAL TATTOOS",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/usatraditional",
+    "instagram": "https://instagram.com/usatraditional"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 1,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "above_all_tattoo",
+      "adamdowningtattoo",
+      "adamfox",
+      "adamrosenthaltattoo"
+    ],
+    "similar_to_known_artists": [
+      "tattoomuseum"
+    ],
+    "instagram_id": "11919267811"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "groseb",
+  "name": "tatoueur bordeaux tatouage GROSEB",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/groseb",
+    "instagram": "https://instagram.com/groseb"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 9,
+    "evidence_count": 9,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "abdel_pedro",
+      "brice.tattoo",
+      "chime_tahiti_tatau",
+      "dustyduza",
+      "ergo.ta2",
+      "fatmanu_tattoo_from_tours",
+      "feeltattooartist",
+      "flink_tattoo",
+      "ghis_melou_tattooer"
+    ],
+    "instagram_id": "8356242084"
+  }
+}

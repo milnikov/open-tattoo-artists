@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "florek_tattoo",
+  "name": "Black & dotwork tattoo | Kraków",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/florek_tattoo",
+    "instagram": "https://instagram.com/florek_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "absoluteinkuk"
+    ],
+    "similar_to_known_artists": [
+      "adrianwietecha",
+      "dero_melancia",
+      "inkbyadam"
+    ],
+    "instagram_id": "2253628726"
+  }
+}

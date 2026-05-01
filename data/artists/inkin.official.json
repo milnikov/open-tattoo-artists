@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "inkin.official",
+  "name": "INKin Tattoo Official",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkin.official",
+    "instagram": "https://instagram.com/inkin.official"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 2,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "adamlinktattooer",
+      "adampeerstattoo"
+    ],
+    "similar_to_known_artists": [
+      "cleopatrainkalesund",
+      "hawink_supply"
+    ],
+    "instagram_id": "46198077219"
+  }
+}

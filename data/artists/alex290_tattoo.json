@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "alex290_tattoo",
+  "name": "Traditional tattooing in Lyon, France",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/alex290_tattoo",
+    "instagram": "https://instagram.com/alex290_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 2,
+    "similar_to_count": 7,
+    "evidence_count": 9,
+    "followed_by_known_artists": [
+      "_yap9_",
+      "adamdowningtattoo"
+    ],
+    "similar_to_known_artists": [
+      "andresilva.tattooer",
+      "aquarianttt",
+      "bobeustattoo",
+      "castor.raubadler.originalo",
+      "eddieczaicki",
+      "elbenttattoo",
+      "grumpytattoo"
+    ],
+    "instagram_id": "1002212264"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": 2,
+  "id": "tatuajesytatuadores",
+  "name": "Tatuajes y Tatuadores - Tattoo magazine",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/tatuajesytatuadores",
+    "instagram": "https://instagram.com/tatuajesytatuadores"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 2,
+    "evidence_count": 3,
+    "followed_by_known_artists": [
+      "abian_lamotta"
+    ],
+    "similar_to_known_artists": [
+      "davidwhitegum",
+      "dulahtattoo"
+    ],
+    "instagram_id": "3090910229"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "inkz_tattoo_rina",
+  "name": "Inkz Tattoo & Piercing",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkz_tattoo_rina",
+    "instagram": "https://instagram.com/inkz_tattoo_rina"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 3,
+    "evidence_count": 4,
+    "followed_by_known_artists": [
+      "_zeitlostattoo_"
+    ],
+    "similar_to_known_artists": [
+      "g_town_tattoo_area",
+      "hold_the_line_tattoo",
+      "inktopustattooart"
+    ],
+    "instagram_id": "5951990652"
+  }
+}

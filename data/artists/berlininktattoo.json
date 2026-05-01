@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "berlininktattoo",
+  "name": "TATTOO STUDIO BERLIN INK",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/berlininktattoo",
+    "instagram": "https://instagram.com/berlininktattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 11,
+    "evidence_count": 12,
+    "followed_by_known_artists": [
+      "inkbywill"
+    ],
+    "similar_to_known_artists": [
+      "bare_black_ttt",
+      "bluemoontattooberlin",
+      "bold_n_solid",
+      "brust_oder_keule",
+      "christopherfrutos",
+      "cnx_tattoo",
+      "david_giersch_tattooist",
+      "foa.k.tattoo",
+      "hausmannskost_tattoo",
+      "jackmatisse",
+      "notedzlotin"
+    ],
+    "instagram_id": "1576205511"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 2,
+  "id": "vividinktattoos",
+  "name": "Vivid Ink Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/vividinktattoos",
+    "instagram": "https://instagram.com/vividinktattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 10,
+    "evidence_count": 10,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "bailey_tattooer",
+      "blackdiamond_tattoo",
+      "celebrityinkmelbournecentral",
+      "cityofinkmelbourne",
+      "dead2rightstattoo",
+      "delmaytattoos",
+      "downtoearthtattoos",
+      "gdayinkpakenham",
+      "heartandsoul_tattoo",
+      "snowtattoomelbourne"
+    ],
+    "instagram_id": "1712640616"
+  }
+}

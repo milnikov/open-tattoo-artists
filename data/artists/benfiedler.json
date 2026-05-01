@@ -1,0 +1,42 @@
+{
+  "schema_version": 2,
+  "id": "benfiedler",
+  "name": "Ben Fiedler | Traditional Tattoo Artist",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/benfiedler",
+    "instagram": "https://instagram.com/benfiedler"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 5,
+    "similar_to_count": 10,
+    "evidence_count": 15,
+    "followed_by_known_artists": [
+      "_kbtattoo",
+      "_kirilo",
+      "abraxas_23keller",
+      "adamktattoo",
+      "adamobrien_art"
+    ],
+    "similar_to_known_artists": [
+      "a_alonzi",
+      "alextrufant",
+      "alexwidelltattoo",
+      "baileyhrobinson",
+      "beardedgentleman",
+      "bensiebert",
+      "bobbymackart",
+      "chelsearhea",
+      "doctaylortattooist",
+      "wonkytiger"
+    ],
+    "instagram_id": "193136198"
+  }
+}

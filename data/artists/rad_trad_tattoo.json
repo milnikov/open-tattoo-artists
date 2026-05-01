@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "rad_trad_tattoo",
+  "name": "Rad Trad Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/rad_trad_tattoo",
+    "instagram": "https://instagram.com/rad_trad_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 5,
+    "similar_to_count": 0,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "abraxas3600",
+      "adamdowningtattoo",
+      "adamjensentattoos",
+      "adamktattoo",
+      "adamrosenthaltattoo"
+    ],
+    "similar_to_known_artists": [],
+    "instagram_id": "4004453341"
+  }
+}

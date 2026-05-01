@@ -1,0 +1,39 @@
+{
+  "schema_version": 2,
+  "id": "traditionalspain",
+  "name": "Traditional Tattoo Spain",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/traditionalspain",
+    "instagram": "https://instagram.com/traditionalspain"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 11,
+    "evidence_count": 12,
+    "followed_by_known_artists": [
+      "adamrosenthaltattoo"
+    ],
+    "similar_to_known_artists": [
+      "alexgarcianeotraditional",
+      "ana.almagro.tattoo",
+      "danieladventureland",
+      "danielsbauti",
+      "david_larra_tattoo",
+      "davtattoos",
+      "ericjohntattoos",
+      "flurickpunktattoo",
+      "homeslicejoey",
+      "isasantanatattoo",
+      "jack_ankersen"
+    ],
+    "instagram_id": "11230477034"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "maininktattoo",
+  "name": "Main Ink Tattoo Studio",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/maininktattoo",
+    "instagram": "https://instagram.com/maininktattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "adams_tattoo_family",
+      "danis_tattoo_stueble",
+      "districttattoorhf",
+      "hautnah_donzdorf",
+      "inkplosive"
+    ],
+    "instagram_id": "8530443224"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 2,
+  "id": "theinkeeperstattooparlor",
+  "name": "The Inkeeper’s Tattoo Parlor",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/theinkeeperstattooparlor",
+    "instagram": "https://instagram.com/theinkeeperstattooparlor"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 9,
+    "evidence_count": 9,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "bigcattattoos",
+      "bulldogcustomtattooing",
+      "chronictattoolakewood",
+      "drewbeavers",
+      "greystonetattoocompany",
+      "hammerstattoo",
+      "inkanddestroytattoo",
+      "inkwell_tattoo_co",
+      "iron_clad_tattoos"
+    ],
+    "instagram_id": "8343102994"
+  }
+}

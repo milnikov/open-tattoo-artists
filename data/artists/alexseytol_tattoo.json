@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "alexseytol_tattoo",
+  "name": "Тату/ traditional tattoo/ oldschool tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/alexseytol_tattoo",
+    "instagram": "https://instagram.com/alexseytol_tattoo"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 4,
+    "similar_to_count": 1,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "abctattoo",
+      "adamdowningtattoo",
+      "adamrosenthaltattoo",
+      "adams_ramen"
+    ],
+    "similar_to_known_artists": [
+      "d_smolyak"
+    ],
+    "instagram_id": "182969125"
+  }
+}

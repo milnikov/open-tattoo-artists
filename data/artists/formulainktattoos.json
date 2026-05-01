@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "formulainktattoos",
+  "name": "Formula Ink Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/formulainktattoos",
+    "instagram": "https://instagram.com/formulainktattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "blackhoneytattoo",
+      "cjism",
+      "daveycxc",
+      "erik_russell",
+      "inkandpistonstattoo"
+    ],
+    "instagram_id": "357275682"
+  }
+}

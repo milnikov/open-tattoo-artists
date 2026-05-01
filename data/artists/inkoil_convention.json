@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "id": "inkoil_convention",
+  "name": "Ink & Oil Tattoo Convention",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkoil_convention",
+    "instagram": "https://instagram.com/inkoil_convention"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 4,
+    "evidence_count": 5,
+    "followed_by_known_artists": [
+      "a_dem_tattooartist"
+    ],
+    "similar_to_known_artists": [
+      "cappellini_ink",
+      "foersterink",
+      "gandalftattoo",
+      "inkandarttattoo"
+    ],
+    "instagram_id": "78268394428"
+  }
+}

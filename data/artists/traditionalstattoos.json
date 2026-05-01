@@ -1,0 +1,52 @@
+{
+  "schema_version": 2,
+  "id": "traditionalstattoos",
+  "name": "Traditional Tattoo",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/traditionalstattoos",
+    "instagram": "https://instagram.com/traditionalstattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 9,
+    "similar_to_count": 16,
+    "evidence_count": 25,
+    "followed_by_known_artists": [
+      "7soulstattoo_ramsey",
+      "_krakentattoo_",
+      "abievetattoo",
+      "abixbytattoo",
+      "ablackrabbit",
+      "abraxas3600",
+      "adamdowningtattoo",
+      "adamfox",
+      "adamrosenthaltattoo"
+    ],
+    "similar_to_known_artists": [
+      "alejog.m.z",
+      "ander_rage",
+      "andrewbtattooer",
+      "berly.boy",
+      "blackrosetattoobcn",
+      "caiopineiro",
+      "debbiejonestattoos",
+      "federica_ferrera",
+      "gara_tattooer",
+      "gikstattooer",
+      "giuseppe.messina",
+      "greg_briko",
+      "guido_gb",
+      "gullytattoo",
+      "happykane_",
+      "rdtattoofilip"
+    ],
+    "instagram_id": "4198363258"
+  }
+}

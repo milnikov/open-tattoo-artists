@@ -1,0 +1,33 @@
+{
+  "schema_version": 2,
+  "id": "inkthevoidtattoos",
+  "name": "Ink The Void Tattoos",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/inkthevoidtattoos",
+    "instagram": "https://instagram.com/inkthevoidtattoos"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 1,
+    "similar_to_count": 5,
+    "evidence_count": 6,
+    "followed_by_known_artists": [
+      "a.slatertattooing"
+    ],
+    "similar_to_known_artists": [
+      "allaboutyoutattoo",
+      "amandaslatertattoo",
+      "blackmasstattoo",
+      "chrisjenkins_tattoos",
+      "elcarlycorpse"
+    ],
+    "instagram_id": "265787955"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": 2,
+  "id": "a_ron_crubbard",
+  "name": "Aaron",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/a_ron_crubbard",
+    "instagram": "https://instagram.com/a_ron_crubbard"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 2,
+    "evidence_count": 2,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "aarontattooist",
+      "bcblevinstattooer"
+    ],
+    "instagram_id": "183946040"
+  },
+  "bio": "Art-tattooing\nColumbus Ohio tattoo artist\n@tattoosagaohio \nMessage for Appointments",
+  "instagram_enriched": {
+    "id": "183946040",
+    "follower_count": 3507,
+    "following_count": 2572,
+    "media_count": 3252,
+    "following": [],
+    "instagram_full_name": "Aaron",
+    "profile_pic_url": "https://pub-4fe1c204aa1d4ce08395d234befdc73f.r2.dev/artists/a_ron_crubbard/instagram/profile.jpg"
+  }
+}

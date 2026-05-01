@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "id": "piink_official",
+  "name": "PiiNK Tattoo & Piercing",
+  "location": {
+    "city": "Unknown",
+    "country": "Unknown"
+  },
+  "styles": [],
+  "links": {
+    "source": "https://instagram.com/piink_official",
+    "instagram": "https://instagram.com/piink_official"
+  },
+  "tattoos": [],
+  "updated_at": "2026-04-26",
+  "discovery": {
+    "source": "instagram_graph",
+    "followed_by_count": 0,
+    "similar_to_count": 5,
+    "evidence_count": 5,
+    "followed_by_known_artists": [],
+    "similar_to_known_artists": [
+      "bladeandshade",
+      "brittabremse",
+      "cronos_cs_tattoo",
+      "dr.loyaltyink",
+      "innerfire_baden"
+    ],
+    "instagram_id": "3176090457"
+  }
+}
