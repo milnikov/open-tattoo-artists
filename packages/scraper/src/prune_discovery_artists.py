@@ -1,27 +1,37 @@
 #!/usr/bin/env python3
 """
-Retroactively prune artist JSONs that were auto-created from the Instagram
-graph (discovery.source == "instagram_graph") and now fail the
-tattoo_confidence gate.
+Retroactively clean up artist JSONs that were auto-created from the Instagram
+graph (``discovery.source == "instagram_graph"``).
 
-This is a one-shot cleanup for the VM where the un-gated phase2 loop has
-already created hundreds of junk JSONs.
+Two-pass policy:
 
-To preserve the API spend on those files, the script also seeds the probe
-cache (instagram_discovered_candidates_probed.json) with whatever bio /
-follower / media stats are already present in instagram_enriched. The next
-phase2 cycle will then read the cache, score the same handles, reject them,
-and never re-probe or re-enrich.
+1. **Junk pass** — any artist whose ``tattoo_confidence`` score is below
+   ``--auto-create-threshold`` is treated as junk. Its JSON is quarantined
+   (default) or deleted (``--delete``). To preserve API spend, the probe
+   cache (``instagram_discovered_candidates_probed.json``) is seeded from the
+   existing ``instagram_enriched`` block so the next phase2 cycle re-rejects
+   the handle without re-probing or re-enriching.
+
+2. **Studio pass** — among the remaining artists (score >= threshold), those
+   that ``classify_account_type`` flags as ``"studio"`` are kept on disk but
+   stamped with ``data["verified"] = "studio"``. The website's
+   ``isArtistHidden`` filter then hides them from public listings, while
+   the admin tooling still has access for review.
 
 Usage:
-  # Dry-run (default): print what would happen, change nothing.
+  # Dry-run (default): print plan, change nothing.
   python3 packages/scraper/src/prune_discovery_artists.py
 
-  # Actually delete sub-threshold files + seed the probe cache.
+  # Apply: quarantine junk + stamp studios.
   python3 packages/scraper/src/prune_discovery_artists.py --apply
 
-  # Move below-threshold files into a quarantine dir instead of deleting.
-  python3 packages/scraper/src/prune_discovery_artists.py --apply --quarantine packages/scraper/quarantine_discovery
+  # Apply, but delete junk instead of quarantining it.
+  python3 packages/scraper/src/prune_discovery_artists.py --apply --delete
+
+  # Custom threshold / quarantine dir.
+  python3 packages/scraper/src/prune_discovery_artists.py --apply \\
+      --auto-create-threshold 0.4 \\
+      --quarantine packages/scraper/quarantine_discovery
 """
 
 from __future__ import annotations
@@ -36,11 +46,12 @@ from pathlib import Path
 from typing import Any
 
 from _repo_root import repo_path
-from tattoo_scoring import tattoo_confidence
+from tattoo_scoring import classify_account_type, tattoo_confidence
 
 
 DEFAULT_PROBE_CACHE = repo_path("packages", "scraper", "instagram_discovered_candidates_probed.json")
 DEFAULT_REPORT = repo_path("packages", "scraper", "instagram_discovery_pruned_report.json")
+DEFAULT_QUARANTINE = repo_path("packages", "scraper", "quarantine_discovery")
 
 
 def write_json_atomic(path: Path, data: object) -> None:
@@ -63,11 +74,11 @@ def load_probe_cache(path: Path) -> dict[str, dict[str, Any]]:
 
 
 def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="Prune sub-threshold discovery-created artists.")
+    p = argparse.ArgumentParser(description="Prune sub-threshold discovery artists and stamp studios.")
     p.add_argument(
         "--auto-create-threshold",
         type=float,
-        default=0.75,
+        default=0.40,
         help="Score below which an artist is considered junk and pruned.",
     )
     p.add_argument(
@@ -91,18 +102,28 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--quarantine",
         type=str,
-        default=None,
-        help="Optional dir; if set, pruned files are moved here instead of deleted.",
+        default=str(DEFAULT_QUARANTINE),
+        help="Directory to move pruned files into. Use --delete to skip quarantine.",
+    )
+    p.add_argument(
+        "--delete",
+        action="store_true",
+        help="Permanently delete junk JSONs instead of moving them to --quarantine.",
     )
     p.add_argument(
         "--apply",
         action="store_true",
-        help="Actually delete/move files and update probe cache. Without this, runs in dry-run mode.",
+        help="Actually move/delete files, stamp studios, and update probe cache.",
     )
     p.add_argument(
         "--include-non-discovery",
         action="store_true",
-        help="Also score artists without discovery.source == instagram_graph (default: skip them).",
+        help="Also score artists without discovery.source == instagram_graph (default: skip).",
+    )
+    p.add_argument(
+        "--no-stamp-studios",
+        action="store_true",
+        help="Skip the studio-stamping pass (only run the junk pass).",
     )
     return p.parse_args()
 
@@ -126,14 +147,17 @@ def main() -> None:
     probe_cache_path = Path(args.probe_cache) if Path(args.probe_cache).is_absolute() else repo_path(args.probe_cache)
     probe_cache = load_probe_cache(probe_cache_path)
     quarantine_dir = Path(args.quarantine).resolve() if args.quarantine else None
-    if args.apply and quarantine_dir is not None:
+    if args.apply and not args.delete and quarantine_dir is not None:
         quarantine_dir.mkdir(parents=True, exist_ok=True)
 
     today = datetime.now().strftime("%Y-%m-%d")
     pruned: list[dict[str, Any]] = []
-    kept: list[dict[str, Any]] = []
+    studios: list[dict[str, Any]] = []
+    kept_artists: list[dict[str, Any]] = []
     skipped_non_discovery = 0
     seeded_cache_entries = 0
+    studio_stamps_applied = 0
+    studio_stamps_already = 0
 
     for path in sorted(artists_dir.glob("*.json")):
         try:
@@ -171,54 +195,79 @@ def main() -> None:
             min_followers=args.min_followers,
         )
 
-        record = {
-            "username": handle,
-            "score": round(score, 4),
-            "score_reasons": reasons,
-            "evidence_count": evidence_count,
-            "follower_count": follower_count,
-            "is_private": is_private,
-        }
+        # --- Junk pass --------------------------------------------------------
+        if score < args.auto_create_threshold:
+            record = {
+                "username": handle,
+                "score": round(score, 4),
+                "score_reasons": reasons,
+                "evidence_count": evidence_count,
+                "follower_count": follower_count,
+                "is_private": is_private,
+                "path": str(path),
+            }
+            pruned.append(record)
 
-        if score >= args.auto_create_threshold:
-            kept.append(record)
+            cache_entry = {
+                "probe_status": "ok" if (biography or follower_count is not None or media_count is not None) else "seeded",
+                "probed_at": today,
+                "biography": biography,
+                "follower_count": follower_count,
+                "following_count": _coerce_int(ig.get("following_count")),
+                "media_count": media_count,
+                "is_private": is_private,
+                "is_verified": is_verified,
+                "full_name": full_name,
+                "instagram_id": (str(ig.get("id")).strip() if ig.get("id") is not None else None) or discovery.get("instagram_id"),
+                "seeded_from": "prune_discovery_artists",
+            }
+            existing_cache = probe_cache.get(handle)
+            if not (existing_cache and existing_cache.get("probe_status") == "ok"):
+                probe_cache[handle] = cache_entry
+                seeded_cache_entries += 1
+
+            if args.apply:
+                try:
+                    if args.delete:
+                        path.unlink()
+                    else:
+                        target = quarantine_dir / path.name
+                        shutil.move(str(path), str(target))
+                except Exception as exc:
+                    print(f"  [error] could not prune {path.name}: {exc}", file=sys.stderr)
             continue
 
-        # Below threshold -> prune.
-        record["path"] = str(path)
-        pruned.append(record)
+        # --- Studio pass ------------------------------------------------------
+        kind, kind_reasons = classify_account_type(
+            username=handle, full_name=full_name, biography=biography
+        )
+        if kind == "studio" and not args.no_stamp_studios:
+            studios.append({
+                "username": handle,
+                "score": round(score, 4),
+                "kind": kind,
+                "kind_reasons": kind_reasons,
+                "evidence_count": evidence_count,
+                "follower_count": follower_count,
+            })
+            if data.get("verified") == "studio":
+                studio_stamps_already += 1
+            elif args.apply:
+                data["verified"] = "studio"
+                try:
+                    write_json_atomic(path, data)
+                    studio_stamps_applied += 1
+                except Exception as exc:
+                    print(f"  [error] could not stamp studio {path.name}: {exc}", file=sys.stderr)
+            continue
 
-        # Seed probe cache so next phase2 cycle won't re-probe (saves money).
-        cache_entry = {
-            "probe_status": "ok" if (biography or follower_count is not None or media_count is not None) else "seeded",
-            "probed_at": today,
-            "biography": biography,
+        kept_artists.append({
+            "username": handle,
+            "score": round(score, 4),
+            "kind": kind,
+            "evidence_count": evidence_count,
             "follower_count": follower_count,
-            "following_count": _coerce_int(ig.get("following_count")),
-            "media_count": media_count,
-            "is_private": is_private,
-            "is_verified": is_verified,
-            "full_name": full_name,
-            "instagram_id": (str(ig.get("id")).strip() if ig.get("id") is not None else None) or discovery.get("instagram_id"),
-            "seeded_from": "prune_discovery_artists",
-        }
-        # Don't clobber a real "ok" probe with a sparser entry from prune.
-        existing_cache = probe_cache.get(handle)
-        if existing_cache and existing_cache.get("probe_status") == "ok":
-            pass
-        else:
-            probe_cache[handle] = cache_entry
-            seeded_cache_entries += 1
-
-        if args.apply:
-            try:
-                if quarantine_dir is not None:
-                    target = quarantine_dir / path.name
-                    shutil.move(str(path), str(target))
-                else:
-                    path.unlink()
-            except Exception as exc:
-                print(f"  [error] could not prune {path.name}: {exc}", file=sys.stderr)
+        })
 
     if args.apply:
         write_json_atomic(probe_cache_path, probe_cache)
@@ -228,36 +277,58 @@ def main() -> None:
             "ran_at": today,
             "threshold": args.auto_create_threshold,
             "min_followers": args.min_followers,
-            "kept_count": len(kept),
+            "kept_artist_count": len(kept_artists),
             "pruned_count": len(pruned),
+            "studio_count": len(studios),
+            "studio_stamps_applied": studio_stamps_applied,
+            "studio_stamps_already_present": studio_stamps_already,
             "skipped_non_discovery": skipped_non_discovery,
             "seeded_cache_entries": seeded_cache_entries,
-            "quarantine_dir": str(quarantine_dir) if quarantine_dir else None,
+            "quarantine_dir": str(quarantine_dir) if (quarantine_dir and not args.delete) else None,
             "probe_cache": str(probe_cache_path),
-            "kept": kept,
-            "pruned": pruned,
+            "kept_artists_sample": kept_artists[:50],
+            "studios": studios,
+            "pruned_sample": pruned[:200],
         }
         write_json_atomic(report_path, report)
         print(
-            f"Pruned {len(pruned)} artists, kept {len(kept)}, "
-            f"seeded {seeded_cache_entries} probe-cache entries. "
+            f"Pruned {len(pruned)} junk artists, "
+            f"stamped {studio_stamps_applied} studios (already-stamped: {studio_stamps_already}), "
+            f"kept {len(kept_artists)} individual artists. "
+            f"Seeded {seeded_cache_entries} probe-cache entries. "
             f"Report: {report_path}"
         )
     else:
         print(
-            f"[DRY RUN] would prune {len(pruned)} artists, keep {len(kept)} "
+            f"[DRY RUN] would prune {len(pruned)} junk artists, "
+            f"stamp {len(studios)} studios as verified=studio, "
+            f"keep {len(kept_artists)} individual artists "
             f"(threshold={args.auto_create_threshold}, min_followers={args.min_followers}). "
             f"Re-run with --apply to act."
         )
-        sample = pruned[:10]
-        for r in sample:
+        print()
+        print("Sample JUNK to prune (first 5):")
+        for r in pruned[:5]:
             print(
-                f"  - @{r['username']} score={r['score']} "
+                f"  - @{r['username']:<28} score={r['score']:<5} "
                 f"reasons={','.join(r['score_reasons']) or '-'} "
                 f"evidence={r['evidence_count']} followers={r['follower_count']}"
             )
-        if len(pruned) > len(sample):
-            print(f"  ... and {len(pruned) - len(sample)} more")
+        print()
+        print("Sample STUDIOS to stamp (first 5):")
+        for r in studios[:5]:
+            print(
+                f"  - @{r['username']:<28} score={r['score']:<5} "
+                f"reason={','.join(r['kind_reasons']) or '-'} "
+                f"followers={r['follower_count']}"
+            )
+        print()
+        print("Sample KEPT artists (first 5):")
+        for r in kept_artists[:5]:
+            print(
+                f"  - @{r['username']:<28} score={r['score']:<5} "
+                f"kind={r['kind']:<8} followers={r['follower_count']}"
+            )
 
 
 if __name__ == "__main__":

@@ -51,3 +51,8 @@ packages/scraper/instagram_discovery_graph_all.json
 packages/scraper/instagram_discovery_graph_raw.json
 packages/scraper/instagram_similar_all.json
 packages/scraper/instagram_following_all.json
+
+# Quarantine of junk artist JSONs created from the un-gated phase2 run.
+# Kept locally for review; do not push.
+packages/scraper/quarantine_discovery/
+packages/scraper/instagram_discovery_pruned_report.json

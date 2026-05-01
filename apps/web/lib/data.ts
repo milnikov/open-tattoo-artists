@@ -109,7 +109,7 @@ function isEmptyAbout(bio: string | null | undefined): boolean {
   return typeof bio !== "string" || bio.trim() === "";
 }
 
-/** True if the artist should be hidden: only 1 image, strange country, or empty about (unless >5 images and >1000 followers). */
+/** True if the artist should be hidden: studio/shop, only 1 image, strange country, or empty about (unless >5 images and >1000 followers). */
 function isArtistHidden(artist: {
   tattoo_count?: number;
   tattoos?: unknown[];
@@ -117,7 +117,9 @@ function isArtistHidden(artist: {
   bio?: string | null;
   follower_count?: number;
   instagram_enriched?: boolean | { follower_count?: number };
+  verified?: "artist" | "studio" | "need_to_check";
 }): boolean {
+  if (artist.verified === "studio") return true;
   const count =
     artist.tattoo_count ?? (Array.isArray(artist.tattoos) ? artist.tattoos.length : 0);
   if (count <= 1) return true;

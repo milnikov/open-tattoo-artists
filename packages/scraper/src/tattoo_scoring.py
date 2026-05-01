@@ -16,17 +16,24 @@ The score in [0, 1] is the sum of weighted signals over candidate metadata:
 - non-empty media count
 - private account penalty
 - IG-verified bonus
+
+In addition to ``tattoo_confidence`` we expose ``classify_account_type`` which
+returns one of ``"artist"``, ``"studio"`` or ``"unknown"`` based on a separate
+set of studio/shop markers (username, biography, multiple @-mentions, opening
+hours, etc.). This is used by prune_discovery_artists.py to keep only
+individual artists in ``data/artists/``.
 """
 
 from __future__ import annotations
 
+import re
+
 
 POSITIVE_TERMS = {
+    # English (substring matches: tattoo / tattoos / tattooer / tattooist /
+    # tattooartist / tattooing / tattooed / tattooshop, etc.)
     "tattoo",
-    "tattoos",
-    "tattooer",
-    "tattooist",
-    "tattooartist",
+    "tatts",
     "ink",
     "inked",
     "fineline",
@@ -35,7 +42,35 @@ POSITIVE_TERMS = {
     "trad",
     "traditional",
     "irezumi",
-    "tattooing",
+    "needle",
+    "skinart",
+    # Portuguese: tatuagem, tatuagens
+    "tatuag",
+    # PT/ES: tatuador, tatuadora
+    "tatuad",
+    # Spanish: tatuaje, tatuajes
+    "tatuaj",
+    # Italian: tatuaggio, tatuaggi
+    "tatuagg",
+    # IT: tatuatore, tatuatrice; ES tatuatura
+    "tatuat",
+    # French: tatouage, tatoueur, tatoueuse
+    "tatouage",
+    "tatoueur",
+    "tatoueu",
+    # German: tätowierung, tätowierer (with/without umlaut)
+    "tätow",
+    "tatow",
+    # Japanese romaji
+    "horishi",
+    "horimono",
+    # Turkish
+    "dövme",
+    "dovme",
+    # Russian transliteration: tatuirovka
+    "tatuir",
+    # Polish: tatuaż / tatuażysta
+    "tatuaż",
 }
 
 NEGATIVE_TERMS = {
@@ -106,3 +141,146 @@ def tattoo_confidence(
         reasons.append("verified(+0.04)")
 
     return max(0.0, min(1.0, score)), reasons
+
+
+# --- Studio / shop classifier -------------------------------------------------
+
+# Substring markers in the *username* that strongly suggest a shop/studio
+# rather than an individual artist.
+STUDIO_USERNAME_MARKERS = (
+    "tattooshop",
+    "tattoostudio",
+    "tattoo_studio",
+    "tattoo.studio",
+    "tattooatelier",
+    "studio",
+    "estudio",
+    "estúdio",
+    "atelier",
+    "parlour",
+    "parlor",
+    "tatuaria",
+    "tatuería",
+    "tatueria",
+    "inkstudio",
+    "ink.studio",
+    "ink_studio",
+    "tattoolab",
+    "tattoo_lab",
+    "tattoo.lab",
+    "tattoohouse",
+    "tattoo.house",
+    "tattoo_house",
+    "tattoocollective",
+    "tattoo.collective",
+    "tattoo_collective",
+    "tattooclub",
+    "tattoogallery",
+    "salon",
+    "salão",
+    "saloon",
+)
+
+# Substring markers in the *biography* (case-insensitive) that suggest a
+# shop / collective rather than an individual artist.
+STUDIO_BIO_MARKERS = (
+    "tattoo studio",
+    "tattoostudio",
+    "tattoo shop",
+    "tattooshop",
+    "tattoo parlour",
+    "tattoo parlor",
+    "tattoo atelier",
+    "estudio de tatuaje",
+    "estúdio de tatuagem",
+    "estudio de tatuagem",
+    "tatuagens em",
+    "tatuajes en",
+    "tatouage studio",
+    "tatuator studio",
+    "studio di tatuaggi",
+    "salão de tatuagem",
+    "guest spot",
+    "guest spots",
+    "guests welcome",
+    "walk-ins",
+    "walkins welcome",
+    "walk ins welcome",
+    "all artists",
+    "our artists",
+    "resident artist",
+    "resident artists",
+    "agende seu hor",
+    "agendamento online",
+    "marca a tua",
+    "book your appointment",
+    "we are open",
+    "located in",
+)
+
+# Compiled patterns used to detect shop-like signals such as opening hours,
+# phone numbers and full street addresses in biographies.
+_HOURS_PATTERNS = [
+    re.compile(r"\b\d{1,2}:\d{2}\s*[-–]\s*\d{1,2}:\d{2}\b"),
+    re.compile(r"\b\d{1,2}\s*h\s*[-–às]+\s*\d{1,2}\s*h\b", re.IGNORECASE),
+    re.compile(
+        r"\b(mon|tue|wed|thu|fri|sat|sun|"
+        r"seg|ter|qua|qui|sex|sab|dom|"
+        r"lun|mar|mié|mier|jue|vie|sáb|"
+        r"mo|di|mi|fr|sa|so|"
+        r"lu|ma|me|je|ve|sa|di"
+        r")\b\s*[-–/]\s*"
+        r"(mon|tue|wed|thu|fri|sat|sun|"
+        r"seg|ter|qua|qui|sex|sab|dom|"
+        r"lun|mar|mié|jue|vie|sáb|"
+        r"mo|di|mi|fr|sa|so|"
+        r"lu|ma|me|je|ve|sa|di)",
+        re.IGNORECASE,
+    ),
+]
+_MENTION_RE = re.compile(r"@[a-zA-Z0-9_.]{2,}")
+
+
+def classify_account_type(
+    *,
+    username: str,
+    full_name: str | None,
+    biography: str | None,
+) -> tuple[str, list[str]]:
+    """Return ``(label, reasons)`` where label is ``"studio"``, ``"artist"``
+    or ``"unknown"``. ``reasons`` is a list of short tags explaining the
+    decision.
+
+    Heuristics: any single strong studio marker (username substring, bio
+    substring, 3+ @-mentions, or opening-hours pattern) classifies the account
+    as a studio. Otherwise it is left as ``"artist"`` or ``"unknown"``.
+    """
+    reasons: list[str] = []
+    uname = (username or "").lower()
+    name = (full_name or "").lower()
+    bio = (biography or "").lower()
+
+    for marker in STUDIO_USERNAME_MARKERS:
+        if marker in uname or marker in name:
+            reasons.append(f"username_marker:{marker}")
+            return "studio", reasons
+
+    for marker in STUDIO_BIO_MARKERS:
+        if marker in bio:
+            reasons.append(f"bio_marker:{marker}")
+            return "studio", reasons
+
+    if bio:
+        mentions = _MENTION_RE.findall(bio)
+        if len(mentions) >= 3:
+            reasons.append(f"bio_mentions:{len(mentions)}")
+            return "studio", reasons
+
+        for pat in _HOURS_PATTERNS:
+            if pat.search(bio):
+                reasons.append("opening_hours")
+                return "studio", reasons
+
+    if not bio:
+        return "unknown", ["empty_bio"]
+    return "artist", reasons
