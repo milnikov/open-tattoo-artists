@@ -29,7 +29,7 @@ ALL_RAW="packages/scraper/instagram_discovery_graph_all.json"
 DELAY_SECONDS="${DELAY_SECONDS:-1.2}"                    # keeps under 1 req/sec
 MAX_FOLLOWING_REQUESTS="${MAX_FOLLOWING_REQUESTS:-1400}" # below 1500/day limit
 MIN_EVIDENCE="${MIN_EVIDENCE:-2}"
-MIN_FOLLOWERS="${MIN_FOLLOWERS:-1000}"
+MIN_FOLLOWERS="${MIN_FOLLOWERS:-3000}"
 AUTO_CREATE_THRESHOLD="${AUTO_CREATE_THRESHOLD:-0.75}"
 CREATE_ARTISTS="${CREATE_ARTISTS:-0}"                    # set CREATE_ARTISTS=1 to enable creation
 

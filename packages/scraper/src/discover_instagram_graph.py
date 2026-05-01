@@ -22,6 +22,7 @@ from typing import Any
 import requests
 
 from _repo_root import repo_path
+from tattoo_scoring import tattoo_confidence
 from writer import build_artist_json, write_artist
 
 BASE_URL_BEST = "https://instagram-best-experience.p.rapidapi.com"
@@ -33,36 +34,6 @@ PROFILE_ENDPOINT = "ig_get_fb_profile_v3.php"
 CANDIDATES_PATH = repo_path("packages", "scraper", "instagram_discovered_candidates.json")
 REPORT_PATH = repo_path("packages", "scraper", "instagram_discovery_report.json")
 RAW_GRAPH_PATH = repo_path("packages", "scraper", "instagram_discovery_graph_raw.json")
-
-POSITIVE_TERMS = {
-    "tattoo",
-    "tattoos",
-    "tattooer",
-    "tattooist",
-    "tattooartist",
-    "ink",
-    "inked",
-    "fineline",
-    "blackwork",
-    "dotwork",
-    "trad",
-    "traditional",
-    "irezumi",
-    "tattooing",
-}
-NEGATIVE_TERMS = {
-    "meme",
-    "news",
-    "media",
-    "gamer",
-    "gaming",
-    "restaurant",
-    "agency",
-    "marketing",
-    "crypto",
-    "casino",
-}
-
 
 @dataclass
 class Candidate:
@@ -318,38 +289,18 @@ def load_existing_artists() -> tuple[set[str], list[dict[str, str | None]]]:
     return existing, seeds
 
 
-def tattoo_confidence(c: Candidate, *, min_followers: int) -> tuple[float, list[str]]:
-    reasons: list[str] = []
-    score = 0.0
-    text = " ".join([c.username, c.full_name or "", c.biography or ""]).lower()
-    pos = sum(1 for t in POSITIVE_TERMS if t in text)
-    neg = sum(1 for t in NEGATIVE_TERMS if t in text)
-    if pos:
-        add = min(0.45, pos * 0.12)
-        score += add
-        reasons.append(f"tattoo_keywords(+{add:.2f})")
-    if neg:
-        sub = min(0.4, neg * 0.12)
-        score -= sub
-        reasons.append(f"non_artist_keywords(-{sub:.2f})")
-    ev = c.evidence_count()
-    if ev:
-        add = min(0.3, ev * 0.06)
-        score += add
-        reasons.append(f"graph_evidence(+{add:.2f})")
-    if c.follower_count is not None and c.follower_count >= min_followers:
-        score += 0.15
-        reasons.append(f"followers>={min_followers}(+0.15)")
-    if c.media_count is not None and c.media_count >= 9:
-        score += 0.08
-        reasons.append("active_profile(+0.08)")
-    if c.is_private is True:
-        score -= 0.1
-        reasons.append("private_account(-0.10)")
-    if c.is_verified:
-        score += 0.04
-        reasons.append("verified(+0.04)")
-    return max(0.0, min(1.0, score)), reasons
+def tattoo_confidence_candidate(c: Candidate, *, min_followers: int) -> tuple[float, list[str]]:
+    return tattoo_confidence(
+        username=c.username,
+        full_name=c.full_name,
+        biography=c.biography,
+        evidence_count=c.evidence_count(),
+        follower_count=c.follower_count,
+        media_count=c.media_count,
+        is_private=c.is_private,
+        is_verified=c.is_verified,
+        min_followers=min_followers,
+    )
 
 
 def to_artist_json(candidate: Candidate) -> dict[str, Any]:
@@ -384,7 +335,7 @@ def parse_args() -> argparse.Namespace:
         help="Cap daily following endpoint requests in this run (e.g. 1400).",
     )
     p.add_argument("--min-evidence", type=int, default=2, help="Minimum unique seed evidence to hydrate/score.")
-    p.add_argument("--min-followers", type=int, default=1000, help="Followers threshold in tattoo scoring.")
+    p.add_argument("--min-followers", type=int, default=3000, help="Followers threshold in tattoo scoring.")
     p.add_argument("--auto-create-threshold", type=float, default=0.75, help="Score threshold for auto-create.")
     p.add_argument("--create-artists", action="store_true", help="Create JSON files for accepted candidates.")
     return p.parse_args()
@@ -543,7 +494,7 @@ def main() -> None:
     created_ids: list[str] = []
 
     for username, c in sorted(shortlisted.items()):
-        score, reasons = tattoo_confidence(c, min_followers=args.min_followers)
+        score, reasons = tattoo_confidence_candidate(c, min_followers=args.min_followers)
         row = {
             "username": username,
             "instagram_id": c.instagram_id,

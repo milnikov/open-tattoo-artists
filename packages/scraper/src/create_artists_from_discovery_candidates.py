@@ -12,8 +12,10 @@ Inputs:
       (cache from probe_discovery_candidates.py; provides bio + follower stats)
 
 Decision:
-  Each candidate gets a tattoo_confidence score in [0, 1]. We auto-create
-  the artist JSON only if score >= --auto-create-threshold (default 0.75).
+  Each candidate gets a tattoo_confidence score in [0, 1]. Positive tattoo
+  vocabulary must appear in the probed **display name + bio** (mentions
+  stripped); graph/followers/media bonuses apply only when that is true.
+  We auto-create only if score >= --auto-create-threshold (default 0.75).
   Rejected rows are written to instagram_discovery_rejected.json with their
   score and reasons for transparency.
 """
@@ -86,7 +88,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--min-followers",
         type=int,
-        default=1000,
+        default=3000,
         help="Follower count threshold used inside tattoo_confidence scoring.",
     )
     p.add_argument(

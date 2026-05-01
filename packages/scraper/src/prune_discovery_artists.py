@@ -84,7 +84,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--min-followers",
         type=int,
-        default=1000,
+        default=3000,
         help="Follower threshold used inside tattoo_confidence scoring.",
     )
     p.add_argument(
