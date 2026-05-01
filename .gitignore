@@ -43,7 +43,9 @@ docs/VM_AND_GIT_COMMANDS.md
 data/indexes/cities-source.json
 data/indexes/country-iso2.json
 
-ui-update/# Large cumulative graph artifacts (kept locally for resume state on the VM,
+ui-update/
+
+# Large cumulative graph artifacts (kept locally for resume state on the VM,
 # regeneratable from raw inputs; do not push to GitHub which rejects >100MB).
 packages/scraper/instagram_discovery_graph_all.json
 packages/scraper/instagram_discovery_graph_raw.json
