@@ -243,6 +243,9 @@ def merge_cumulative(current_rows: list[dict[str, Any]]) -> list[dict[str, Any]]
             "username": u,
             "instagram_id": row.get("instagram_id") or prev.get("instagram_id"),
             "full_name": row.get("full_name") or prev.get("full_name"),
+            "is_verified": row.get("is_verified") if row.get("is_verified") is not None else prev.get("is_verified"),
+            "is_private": row.get("is_private") if row.get("is_private") is not None else prev.get("is_private"),
+            "profile_pic_url": row.get("profile_pic_url") or prev.get("profile_pic_url"),
             "followed_by_known_artists": sorted(fb),
             "followed_by_count": len(fb),
         }
@@ -336,6 +339,9 @@ def main() -> None:
                     "username": handle,
                     "instagram_id": str(user.get("pk") or user.get("id") or user.get("pk_id") or "") or None,
                     "full_name": user.get("full_name"),
+                    "is_verified": user.get("is_verified") if isinstance(user.get("is_verified"), bool) else None,
+                    "is_private": user.get("is_private") if isinstance(user.get("is_private"), bool) else None,
+                    "profile_pic_url": user.get("profile_pic_url") if isinstance(user.get("profile_pic_url"), str) else None,
                     "followed_by_known_artists": set(),
                 },
             )
@@ -352,6 +358,9 @@ def main() -> None:
                 "username": row["username"],
                 "instagram_id": row.get("instagram_id"),
                 "full_name": row.get("full_name"),
+                "is_verified": row.get("is_verified"),
+                "is_private": row.get("is_private"),
+                "profile_pic_url": row.get("profile_pic_url"),
                 "followed_by_known_artists": fb,
                 "followed_by_count": len(fb),
             }

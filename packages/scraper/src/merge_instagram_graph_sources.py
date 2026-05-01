@@ -89,6 +89,9 @@ def main() -> None:
             "username": username,
             "instagram_id": row.get("instagram_id"),
             "full_name": row.get("full_name"),
+            "is_verified": row.get("is_verified"),
+            "is_private": row.get("is_private"),
+            "profile_pic_url": row.get("profile_pic_url"),
             "followed_by_known_artists": sorted(set(row.get("followed_by_known_artists") or [])),
             "similar_to_known_artists": [],
         }
@@ -103,6 +106,9 @@ def main() -> None:
                 "username": username,
                 "instagram_id": row.get("instagram_id"),
                 "full_name": row.get("full_name"),
+                "is_verified": row.get("is_verified"),
+                "is_private": row.get("is_private"),
+                "profile_pic_url": row.get("profile_pic_url"),
                 "followed_by_known_artists": [],
                 "similar_to_known_artists": [],
             },
@@ -111,6 +117,12 @@ def main() -> None:
             current["instagram_id"] = row.get("instagram_id")
         if not current.get("full_name"):
             current["full_name"] = row.get("full_name")
+        if current.get("is_verified") is None:
+            current["is_verified"] = row.get("is_verified")
+        if current.get("is_private") is None:
+            current["is_private"] = row.get("is_private")
+        if not current.get("profile_pic_url"):
+            current["profile_pic_url"] = row.get("profile_pic_url")
         current["similar_to_known_artists"] = sorted(
             set(current.get("similar_to_known_artists") or [])
             | set(row.get("similar_to_known_artists") or [])
@@ -125,6 +137,9 @@ def main() -> None:
                 "username": username,
                 "instagram_id": row.get("instagram_id"),
                 "full_name": row.get("full_name"),
+                "is_verified": row.get("is_verified"),
+                "is_private": row.get("is_private"),
+                "profile_pic_url": row.get("profile_pic_url"),
                 "followed_by_known_artists": fb,
                 "similar_to_known_artists": sm,
                 "followed_by_count": len(fb),
