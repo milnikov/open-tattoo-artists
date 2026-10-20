@@ -1,6 +1,27 @@
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import { getAllowedCountryNames } from "@/lib/data";
 import { ArtistListPage } from "@/components/artist-list-page";
+import { HomeIntro } from "@/components/home-intro";
+import {
+  CANONICAL_PATH,
+  OG_IMAGE_PATH,
+  OG_TYPE,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+} from "@/lib/agent-surface";
+
+export const metadata: Metadata = {
+  alternates: { canonical: CANONICAL_PATH },
+  openGraph: {
+    type: OG_TYPE,
+    url: CANONICAL_PATH,
+    siteName: SITE_NAME,
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: [{ url: OG_IMAGE_PATH, width: 512, height: 512, alt: SITE_NAME }],
+  },
+};
 
 /**
  * Cache the small server shell (country allowlist only). Artist rows load via
@@ -20,8 +41,11 @@ function ArtistListPageFallback() {
 export default function HomePage() {
   const allowedCountryNames = getAllowedCountryNames();
   return (
-    <Suspense fallback={<ArtistListPageFallback />}>
-      <ArtistListPage allowedCountryNames={allowedCountryNames} />
-    </Suspense>
+    <>
+      <HomeIntro />
+      <Suspense fallback={<ArtistListPageFallback />}>
+        <ArtistListPage allowedCountryNames={allowedCountryNames} />
+      </Suspense>
+    </>
   );
 }

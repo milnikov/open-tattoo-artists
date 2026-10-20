@@ -1,6 +1,7 @@
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
 
+import { decideAgentResponse, toMarkdownHttp } from "@/lib/agent-surface";
 import { getClientIp, rateLimitAllow } from "@/lib/rate-limit-ip";
 
 const WINDOW_MS = 60_000;
@@ -35,6 +36,16 @@ function limitsForGroup(group: Group, method: string): { windowMs: number; max: 
 
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const agent = decideAgentResponse({
+    pathname,
+    method: request.method,
+    accept: request.headers.get("accept"),
+  });
+  if (agent.action === "markdown") {
+    const http = toMarkdownHttp(agent, request.method);
+    return new NextResponse(http.body, { status: http.status, headers: http.headers });
+  }
+
   const group = getRateGroup(pathname, request.method);
   if (!group) return NextResponse.next();
 
@@ -61,10 +72,5 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-  matcher: [
-    "/api/map-data",
-    "/api/map-hex-artists",
-    "/api/artists/compact",
-    "/api/artists/:path*",
-  ],
+  matcher: ["/", "/((?!_next/static|_next/image|fav/|data/).*)"],
 };

@@ -3,7 +3,17 @@ import { Inter, Spectral } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
+import { JsonLd } from "@/components/json-ld";
 import { SiteHeader } from "@/components/site-header";
+import {
+  HTML_LANG,
+  OG_IMAGE_PATH,
+  OG_TYPE,
+  SITE_DESCRIPTION,
+  SITE_NAME,
+  SITE_TYPE,
+  buildJsonLd,
+} from "@/lib/agent-surface";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const spectral = Spectral({
@@ -16,8 +26,25 @@ const spectral = Spectral({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://thetattoo.world"),
-  title: "thetattoo.world",
-  description: "Open-source tattoo artist directory",
+  title: SITE_NAME,
+  description: SITE_DESCRIPTION,
+  openGraph: {
+    type: OG_TYPE,
+    siteName: SITE_NAME,
+    title: SITE_NAME,
+    description: SITE_DESCRIPTION,
+    images: [
+      {
+        url: OG_IMAGE_PATH,
+        width: 512,
+        height: 512,
+        alt: SITE_NAME,
+      },
+    ],
+  },
+  other: {
+    "is-agentic-site-type": SITE_TYPE,
+  },
   manifest: "/manifest.webmanifest",
   icons: {
     icon: [
@@ -62,8 +89,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang={HTML_LANG}>
       <body className={`${inter.variable} ${spectral.variable} ${inter.className} min-h-screen bg-background text-foreground antialiased`}>
+        <JsonLd data={buildJsonLd()} />
         <SiteHeader />
         {children}
         <Analytics />

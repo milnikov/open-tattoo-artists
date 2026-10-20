@@ -20,6 +20,9 @@ const nextConfig = {
   outputFileTracingExcludes: {
     "*": ["./public/data/artists/**/*"],
   },
+  async redirects() {
+    return [{ source: "/developers", destination: "/docs", permanent: false }];
+  },
 };
 
 module.exports = nextConfig;

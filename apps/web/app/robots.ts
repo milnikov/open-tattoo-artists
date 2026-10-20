@@ -1,4 +1,5 @@
 import type { MetadataRoute } from "next";
+import { SITE_ORIGIN } from "@/lib/agent-surface";
 
 function siteHost(): string | undefined {
   const raw = process.env.NEXT_PUBLIC_SITE_URL?.trim();
@@ -26,6 +27,7 @@ export default function robots(): MetadataRoute.Robots {
         disallow: ["/api/", "/admin", "/justink"],
       },
     ],
+    sitemap: `${SITE_ORIGIN}/sitemap.xml`,
     ...(host ? { host } : {}),
   };
 }
