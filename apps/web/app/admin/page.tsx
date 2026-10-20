@@ -1,9 +1,8 @@
 import { redirect } from "next/navigation";
+import { isAdminEmail } from "@/lib/admin";
 import { getArtist, getCompactArtists } from "@/lib/data";
 import { createClient } from "@/lib/supabase/server";
 import { AdminPageClient } from "@/components/AdminPageClient";
-
-const ADMIN_EMAIL = "m.milnikov@gmail.com";
 
 export const revalidate = 0;
 
@@ -13,7 +12,7 @@ export default async function AdminPage() {
     data: { user },
   } = await supabase.auth.getUser();
 
-  if (!user || user.email !== ADMIN_EMAIL) {
+  if (!user || !isAdminEmail(user.email)) {
     redirect("/profile");
   }
 

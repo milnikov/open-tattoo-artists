@@ -1,12 +1,11 @@
 "use server";
 
 import { cookies } from "next/headers";
+import { isAdminEmail } from "@/lib/admin";
 import { createClient } from "@/lib/supabase/server";
 
 const GITHUB_REPO = process.env.GITHUB_REPO || "milnikov/open-tattoo-artists";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
-
-const ADMIN_EMAIL = "m.milnikov@gmail.com";
 
 export type AdminDeleteArtistResult =
   | { ok: true; issueUrl: string }
@@ -35,7 +34,7 @@ export async function adminDeleteArtist(
     return { ok: false, error: "You must be signed in as admin." };
   }
 
-  if (user.email !== ADMIN_EMAIL) {
+  if (!isAdminEmail(user.email)) {
     return { ok: false, error: "Only admin can perform this action." };
   }
 
@@ -149,7 +148,7 @@ export async function adminDeleteImages(
     return { ok: false, error: "You must be signed in as admin." };
   }
 
-  if (user.email !== ADMIN_EMAIL) {
+  if (!isAdminEmail(user.email)) {
     return { ok: false, error: "Only admin can perform this action." };
   }
 
