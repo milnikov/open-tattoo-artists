@@ -96,12 +96,13 @@ export function ArtistRow({
 
           <div className="relative flex flex-col gap-1 min-w-0">
             {avatarSrc ? (
-              <div className="relative w-12 h-12 rounded-full overflow-hidden">
+              <div className="relative w-12 h-12 rounded-full overflow-hidden bg-muted">
                 <img
                   src={avatarSrc}
                   alt=""
                   className="w-12 h-12 rounded-full object-cover"
-                  loading="lazy"
+                  decoding="async"
+                  loading={isFirst ? "eager" : "lazy"}
                 />
                 <span
                   aria-hidden="true"
@@ -171,13 +172,14 @@ export function ArtistRow({
             <span className="text-foreground leading-relaxed line-clamp-3">{descriptionText}</span>
             {followerCount > 0 ? (
               <span className="mt-2 text-black">
-                Followed by {followerCount.toLocaleString()}{" "}
+                Followed by {followerCount.toLocaleString("en-US")}{" "}
                 {followerCount === 1 ? "person" : "people"}
               </span>
             ) : null}
             {artist.updated_at && (
               <span
                 className={`text-black ${followerCount > 0 ? "mt-1" : "mt-2"}`}
+                suppressHydrationWarning
               >
                 {formatUpdatedLabel(artist.updated_at)}
               </span>
@@ -220,7 +222,8 @@ export function ArtistRow({
                     src={imageUrl(src)}
                     alt={`Work by ${artist.name}`}
                     className="w-full h-full object-cover"
-                    loading="lazy"
+                    decoding="async"
+                    loading={isFirst && i < 4 ? "eager" : "lazy"}
                   />
                 </div>
               ))}

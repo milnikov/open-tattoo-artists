@@ -32,6 +32,7 @@ interface BrowseToolbarProps {
   onClearCities: () => void;
   sortLabel: string;
   onSortChange: (sortKey: "name-asc" | "followers-desc" | "respected-desc") => void;
+  countPending?: boolean;
 }
 
 export function BrowseToolbar({
@@ -61,6 +62,7 @@ export function BrowseToolbar({
   onClearCities,
   sortLabel,
   onSortChange,
+  countPending = false,
 }: BrowseToolbarProps) {
   const [isSortOpen, setIsSortOpen] = useState(false);
   const sortDropdownRef = useRef<HTMLDivElement | null>(null);
@@ -412,6 +414,7 @@ export function BrowseToolbar({
         page={page}
         totalPages={totalPages}
         onPageChange={onPageChange}
+        countPending={countPending}
       />
     </div>
   );

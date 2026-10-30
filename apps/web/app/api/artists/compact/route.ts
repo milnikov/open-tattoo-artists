@@ -5,7 +5,8 @@ export async function GET() {
   const artists = toPublicCompactArtists(getCompactArtists());
   return NextResponse.json(artists, {
     headers: {
-      "Cache-Control": "public, s-maxage=3600, stale-while-revalidate=86400",
+      "Cache-Control":
+        "public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400",
     },
   });
 }

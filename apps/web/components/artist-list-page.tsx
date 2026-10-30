@@ -1,16 +1,28 @@
 "use client";
 
-import { useState, useMemo, useEffect, useCallback, useRef } from "react";
+import { useState, useMemo, useEffect, useCallback, useRef, startTransition } from "react";
 import { useSearchParams, usePathname, useRouter } from "next/navigation";
 import type { CompactArtist } from "@/lib/data";
-import { artistFollowerCount } from "@/lib/artist-follower-count";
+import {
+  DIRECTORY_PAGE_SIZE,
+  countriesForDirectory,
+  sortArtists,
+  stylesForDirectory,
+  type DirectorySortKey,
+} from "@/lib/directory-query";
 import { BrowseToolbar } from "./browse-toolbar";
 import { ArtistList } from "./artist-list";
 import { ListStatusBar } from "./list-status-bar";
 import { SiteFooter } from "./site-footer";
 
-const PAGE_SIZE = 20;
-type SortKey = "name-asc" | "followers-desc" | "respected-desc";
+const PAGE_SIZE = DIRECTORY_PAGE_SIZE;
+type SortKey = DirectorySortKey;
+
+function sortLabelFor(sortKey: SortKey): string {
+  if (sortKey === "followers-desc") return "Most followed";
+  if (sortKey === "respected-desc") return "Most respected";
+  return "Name (A–Z)";
+}
 
 function normalizeSortKey(value: string | null | undefined): SortKey {
   if (value === "followers-desc") return "followers-desc";
@@ -59,12 +71,21 @@ function buildSearchString(parsed: {
 interface ArtistListPageProps {
   /** Only these countries may appear in the filter dropdown (from countries.json). */
   allowedCountryNames?: string[];
+  /** Default first page, painted before the full catalog arrives. */
+  initialArtists?: CompactArtist[];
+  initialTotalCount?: number;
+  facetStyles?: string[];
+  facetCountries?: string[];
 }
 
 export function ArtistListPage({
   allowedCountryNames = [],
+  initialArtists = [],
+  initialTotalCount = 0,
+  facetStyles = [],
+  facetCountries = [],
 }: ArtistListPageProps) {
-  const [artists, setArtists] = useState<CompactArtist[]>([]);
+  const [catalog, setCatalog] = useState<CompactArtist[] | null>(null);
   const [loadStatus, setLoadStatus] = useState<"loading" | "ready" | "error">(
     "loading"
   );
@@ -74,12 +95,15 @@ export function ArtistListPage({
     let cancelled = false;
     (async () => {
       try {
-        const res = await fetch("/api/artists/compact");
+        // Low priority so the first-page photos can use the connection first.
+        const res = await fetch("/api/artists/compact", { priority: "low" });
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const data = (await res.json()) as CompactArtist[];
         if (!cancelled) {
-          setArtists(data);
-          setLoadStatus("ready");
+          startTransition(() => {
+            setCatalog(data);
+            setLoadStatus("ready");
+          });
         }
       } catch (e) {
         if (!cancelled) {
@@ -172,30 +196,16 @@ export function ArtistListPage({
     [pathname, router, searchParams]
   );
 
-  const allowedCountrySet = useMemo(
-    () => new Set(allowedCountryNames.map((c) => c.trim().toLowerCase())),
-    [allowedCountryNames]
-  );
-
   const { allStyles, allCountries, citiesForSelectedCountries, citiesByCountry } =
     useMemo(() => {
-      const styleSet = new Set<string>();
-      const countrySet = new Set<string>();
+      const source = catalog ?? [];
       const cityByCountry = new Map<string, Set<string>>();
-      for (const a of artists) {
-        for (const s of a.styles) styleSet.add(s);
+      for (const a of source) {
         const c = a.location.country;
-        countrySet.add(c);
         if (!cityByCountry.has(c)) cityByCountry.set(c, new Set());
         cityByCountry.get(c)!.add(a.location.city);
       }
-      const rawCountries = Array.from(countrySet).sort();
-      const allCountries =
-        allowedCountrySet.size > 0
-          ? rawCountries.filter((c) =>
-              allowedCountrySet.has(c.trim().toLowerCase())
-            )
-          : rawCountries;
+      const allCountries = countriesForDirectory(source, allowedCountryNames);
       // "Unknown" country is not a real geography — listing every city here is useless noise.
       const cities =
         selectedCountries.length > 0
@@ -222,22 +232,24 @@ export function ArtistListPage({
               .filter((x) => x.cities.length > 0)
           : [];
       return {
-        allStyles: Array.from(styleSet).sort(),
+        allStyles: stylesForDirectory(source),
         allCountries,
         citiesForSelectedCountries: cities,
         citiesByCountry: byCountry,
       };
-    }, [artists, selectedCountries, allowedCountrySet]);
+    }, [catalog, selectedCountries, allowedCountryNames]);
 
   // Drop city selections that are no longer valid for the chosen countries (e.g. switched to Unknown-only).
+  // Wait until the full catalog is in memory — an empty city list while it downloads would wipe the URL selection.
   useEffect(() => {
+    if (!catalog) return;
     setSelectedCities((prev) => {
       if (prev.length === 0) return prev;
       const valid = new Set(citiesForSelectedCountries);
       const next = prev.filter((c) => valid.has(c));
       return next.length === prev.length ? prev : next;
     });
-  }, [citiesForSelectedCountries]);
+  }, [catalog, citiesForSelectedCountries]);
 
   const citiesFilterEnabled = citiesForSelectedCountries.length > 0;
 
@@ -249,7 +261,7 @@ export function ArtistListPage({
   }, [activeFilter, citiesFilterEnabled]);
 
   const filteredArtists = useMemo(() => {
-    let result = artists;
+    let result = catalog ?? [];
 
     if (selectedStyles.length > 0) {
       result = result.filter((a) =>
@@ -280,32 +292,8 @@ export function ArtistListPage({
       );
     }
 
-    if (sortKey === "name-asc") {
-      return [...result].sort((a, b) =>
-        a.name.localeCompare(b.name, undefined, { sensitivity: "base" })
-      );
-    }
-
-    if (sortKey === "followers-desc") {
-      return [...result].sort((a, b) => {
-        const db = artistFollowerCount(b);
-        const da = artistFollowerCount(a);
-        if (db !== da) return db - da;
-        return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
-      });
-    }
-
-    if (sortKey === "respected-desc") {
-      return [...result].sort((a, b) => {
-        const rb = b.followed_by_artists_count ?? 0;
-        const ra = a.followed_by_artists_count ?? 0;
-        if (rb !== ra) return rb - ra;
-        return a.name.localeCompare(b.name, undefined, { sensitivity: "base" });
-      });
-    }
-
-    return result;
-  }, [artists, selectedStyles, selectedCountries, selectedCities, search, sortKey]);
+    return sortArtists(result, sortKey);
+  }, [catalog, selectedStyles, selectedCountries, selectedCities, search, sortKey]);
 
   // When filters actually change (not on mount, not when only page changed), reset to page 0 and sync URL.
   // Compare to last synced filter state so we don't overwrite URL after pagination or on Strict Mode double-invoke.
@@ -334,12 +322,41 @@ export function ArtistListPage({
     // eslint-disable-next-line react-hooks/exhaustive-deps -- only run when filter state changes
   }, [selectedStyles, selectedCountries, selectedCities, search]);
 
-  const totalPages = Math.ceil(filteredArtists.length / PAGE_SIZE) || 1;
-  const paginated = filteredArtists.slice(
-    page * PAGE_SIZE,
-    (page + 1) * PAGE_SIZE
-  );
-  const globalOffset = page * PAGE_SIZE;
+  const catalogReady = catalog !== null;
+  const queryAffectsResults =
+    selectedStyles.length > 0 ||
+    selectedCountries.length > 0 ||
+    selectedCities.length > 0 ||
+    search.trim() !== "" ||
+    sortKey !== "name-asc";
+  const countPending = !catalogReady && queryAffectsResults;
+  const totalCount = catalogReady
+    ? filteredArtists.length
+    : queryAffectsResults
+      ? 0
+      : initialTotalCount;
+  const totalPages = catalogReady
+    ? Math.ceil(filteredArtists.length / PAGE_SIZE) || 1
+    : queryAffectsResults
+      ? 1
+      : Math.ceil(initialTotalCount / PAGE_SIZE) || 1;
+  const showingPreview =
+    !catalogReady &&
+    !queryAffectsResults &&
+    page === 0 &&
+    initialArtists.length > 0;
+  const pageArtists = catalogReady
+    ? filteredArtists.slice(page * PAGE_SIZE, (page + 1) * PAGE_SIZE)
+    : initialArtists;
+  const globalOffset = catalogReady ? page * PAGE_SIZE : 0;
+  const listMode: "artists" | "loading" | "error" =
+    showingPreview || catalogReady
+      ? "artists"
+      : loadStatus === "error"
+        ? "error"
+        : "loading";
+  const toolbarStyles = catalogReady ? allStyles : facetStyles;
+  const toolbarCountries = catalogReady ? allCountries : facetCountries;
 
   const handleFilterChange = (filter: string, keepSelections?: boolean) => {
     setActiveFilter(filter);
@@ -411,15 +428,7 @@ export function ArtistListPage({
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  if (loadStatus === "loading") {
-    return (
-      <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
-        <p className="text-muted-foreground">Loading…</p>
-      </div>
-    );
-  }
-
-  if (loadStatus === "error") {
+  if (loadStatus === "error" && initialArtists.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
         <p className="text-destructive">Could not load artists.</p>
@@ -430,7 +439,7 @@ export function ArtistListPage({
     );
   }
 
-  if (artists.length === 0) {
+  if (catalog && catalog.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center py-32 px-4 min-h-screen">
         <p className="text-muted-foreground">No artists yet.</p>
@@ -442,73 +451,245 @@ export function ArtistListPage({
   }
 
   return (
+    <DirectoryScreen
+      artists={pageArtists}
+      globalOffset={globalOffset}
+      listMode={listMode}
+      loadError={loadError}
+      totalCount={totalCount}
+      page={page}
+      totalPages={totalPages}
+      countPending={countPending}
+      onPageChange={(p) => {
+        setPage(p);
+        updateUrl({ page: p });
+      }}
+      activeFilter={activeFilter}
+      isFilterPanelExpanded={isFilterPanelExpanded}
+      onFilterChange={handleFilterChange}
+      onCollapseFilterPanel={handleCollapseFilterPanel}
+      search={search}
+      onSearchChange={(value) => {
+        setSearch(value);
+        setPage(0);
+        updateUrl({ search: value, page: 0 });
+      }}
+      styles={toolbarStyles}
+      countries={toolbarCountries}
+      selectedStyles={selectedStyles}
+      onToggleStyle={handleToggleStyle}
+      onClearStyles={() => setSelectedStyles([])}
+      selectedCountries={selectedCountries}
+      onToggleCountry={handleToggleCountry}
+      onClearCountries={handleClearCountries}
+      citiesForSelectedCountries={catalogReady ? citiesForSelectedCountries : []}
+      citiesFilterEnabled={catalogReady && citiesFilterEnabled}
+      citiesByCountry={catalogReady ? citiesByCountry : []}
+      selectedCities={selectedCities}
+      onToggleCity={handleToggleCity}
+      onClearCities={handleClearCities}
+      sortLabel={sortLabelFor(sortKey)}
+      onSortChange={(key) => {
+        setSortKey(key);
+        setPage(0);
+        updateUrl({ sort: key, page: 0 });
+      }}
+      onTagClick={handleTagClick}
+      onCountryClick={handleCountryClick}
+      onCityClick={handleCityClick}
+    />
+  );
+}
+
+function noop() {}
+function noopString(_value: string) {}
+function noopPage(_page: number) {}
+function noopSort(_sortKey: SortKey) {}
+function noopFilter(_filter: string, _keepSelections?: boolean) {}
+
+/** Static first paint: toolbar, names, and image slots before the catalog request finishes. */
+export function ArtistDirectoryFallback({
+  artists,
+  totalCount,
+  styles,
+  countries,
+}: {
+  artists: CompactArtist[];
+  totalCount: number;
+  styles: string[];
+  countries: string[];
+}) {
+  const totalPages = Math.max(1, Math.ceil(totalCount / PAGE_SIZE));
+  return (
+    <DirectoryScreen
+      artists={artists}
+      globalOffset={0}
+      listMode="artists"
+      loadError={null}
+      totalCount={totalCount}
+      page={0}
+      totalPages={totalPages}
+      onPageChange={noopPage}
+      activeFilter="All"
+      isFilterPanelExpanded={false}
+      onFilterChange={noopFilter}
+      onCollapseFilterPanel={noop}
+      search=""
+      onSearchChange={noopString}
+      styles={styles}
+      countries={countries}
+      selectedStyles={[]}
+      onToggleStyle={noopString}
+      onClearStyles={noop}
+      selectedCountries={[]}
+      onToggleCountry={noopString}
+      onClearCountries={noop}
+      citiesForSelectedCountries={[]}
+      citiesFilterEnabled={false}
+      citiesByCountry={[]}
+      selectedCities={[]}
+      onToggleCity={noopString}
+      onClearCities={noop}
+      sortLabel="Name (A–Z)"
+      onSortChange={noopSort}
+    />
+  );
+}
+
+function DirectoryScreen({
+  artists,
+  globalOffset,
+  listMode,
+  loadError,
+  totalCount,
+  page,
+  totalPages,
+  countPending = false,
+  onPageChange,
+  activeFilter,
+  isFilterPanelExpanded,
+  onFilterChange,
+  onCollapseFilterPanel,
+  search,
+  onSearchChange,
+  styles,
+  countries,
+  selectedStyles,
+  onToggleStyle,
+  onClearStyles,
+  selectedCountries,
+  onToggleCountry,
+  onClearCountries,
+  citiesForSelectedCountries,
+  citiesFilterEnabled,
+  citiesByCountry,
+  selectedCities,
+  onToggleCity,
+  onClearCities,
+  sortLabel,
+  onSortChange,
+  onTagClick,
+  onCountryClick,
+  onCityClick,
+}: {
+  artists: CompactArtist[];
+  globalOffset: number;
+  listMode: "artists" | "loading" | "error";
+  loadError: string | null;
+  totalCount: number;
+  page: number;
+  totalPages: number;
+  countPending?: boolean;
+  onPageChange: (page: number) => void;
+  activeFilter: string;
+  isFilterPanelExpanded: boolean;
+  onFilterChange: (filter: string, keepSelections?: boolean) => void;
+  onCollapseFilterPanel: () => void;
+  search: string;
+  onSearchChange: (value: string) => void;
+  styles: string[];
+  countries: string[];
+  selectedStyles: string[];
+  onToggleStyle: (style: string) => void;
+  onClearStyles: () => void;
+  selectedCountries: string[];
+  onToggleCountry: (country: string) => void;
+  onClearCountries: () => void;
+  citiesForSelectedCountries: string[];
+  citiesFilterEnabled: boolean;
+  citiesByCountry: { country: string; cities: string[] }[];
+  selectedCities: string[];
+  onToggleCity: (city: string) => void;
+  onClearCities: () => void;
+  sortLabel: string;
+  onSortChange: (sortKey: SortKey) => void;
+  onTagClick?: (style: string) => void;
+  onCountryClick?: (country: string) => void;
+  onCityClick?: (city: string, country: string) => void;
+}) {
+  return (
     <div className="min-h-screen flex flex-col bg-background text-foreground min-w-0 overflow-x-hidden">
       <div className="h-8 md:h-16" />
 
       <BrowseToolbar
         activeFilter={activeFilter}
         isFilterPanelExpanded={isFilterPanelExpanded}
-        onFilterChange={handleFilterChange}
-        onCollapseFilterPanel={handleCollapseFilterPanel}
+        onFilterChange={onFilterChange}
+        onCollapseFilterPanel={onCollapseFilterPanel}
         search={search}
-        onSearchChange={(value) => {
-          setSearch(value);
-          setPage(0);
-          updateUrl({ search: value, page: 0 });
-        }}
-        totalCount={filteredArtists.length}
+        onSearchChange={onSearchChange}
+        totalCount={totalCount}
         page={page}
         totalPages={totalPages}
-        onPageChange={(p) => {
-          setPage(p);
-          updateUrl({ page: p });
-        }}
-        styles={allStyles}
-        countries={allCountries}
+        onPageChange={onPageChange}
+        styles={styles}
+        countries={countries}
         selectedStyles={selectedStyles}
-        onToggleStyle={handleToggleStyle}
-        onClearStyles={() => setSelectedStyles([])}
+        onToggleStyle={onToggleStyle}
+        onClearStyles={onClearStyles}
         selectedCountries={selectedCountries}
-        onToggleCountry={handleToggleCountry}
-        onClearCountries={handleClearCountries}
+        onToggleCountry={onToggleCountry}
+        onClearCountries={onClearCountries}
         citiesForSelectedCountries={citiesForSelectedCountries}
         citiesFilterEnabled={citiesFilterEnabled}
         citiesByCountry={citiesByCountry}
         selectedCities={selectedCities}
-        onToggleCity={handleToggleCity}
-        onClearCities={handleClearCities}
-        sortLabel={
-          sortKey === "name-asc"
-            ? "Name (A–Z)"
-            : sortKey === "followers-desc"
-              ? "Most followed"
-              : "Most respected"
-        }
-        onSortChange={(key) => {
-          setSortKey(key);
-          setPage(0);
-          updateUrl({ sort: key, page: 0 });
-        }}
+        onToggleCity={onToggleCity}
+        onClearCities={onClearCities}
+        sortLabel={sortLabel}
+        onSortChange={onSortChange}
+        countPending={countPending}
       />
 
       <div className="flex-1 flex flex-col min-w-0 overflow-x-hidden">
         <main className="flex-1 min-w-0">
-          <ArtistList
-            artists={paginated}
-            globalOffset={globalOffset}
-            onTagClick={handleTagClick}
-            onCountryClick={handleCountryClick}
-            onCityClick={handleCityClick}
-          />
+          {listMode === "loading" ? (
+            <div className="flex flex-col items-center justify-center py-32 px-4">
+              <p className="text-muted-foreground">Loading artists…</p>
+            </div>
+          ) : listMode === "error" ? (
+            <div className="flex flex-col items-center justify-center py-32 px-4">
+              <p className="text-destructive">Could not load artists.</p>
+              {loadError ? (
+                <p className="text-sm text-muted-foreground mt-2">{loadError}</p>
+              ) : null}
+            </div>
+          ) : (
+            <ArtistList
+              artists={artists}
+              globalOffset={globalOffset}
+              onTagClick={onTagClick}
+              onCountryClick={onCountryClick}
+              onCityClick={onCityClick}
+            />
+          )}
           <ListStatusBar
-            totalCount={filteredArtists.length}
+            totalCount={totalCount}
             page={page}
             totalPages={totalPages}
-            onPageChange={(p) => {
-              setPage(p);
-              updateUrl({ page: p });
-            }}
+            onPageChange={onPageChange}
             variant="bottom"
+            countPending={countPending}
           />
         </main>
 

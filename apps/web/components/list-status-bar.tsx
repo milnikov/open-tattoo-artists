@@ -9,6 +9,8 @@ interface ListStatusBarProps {
   onPageChange: (page: number) => void;
   /** "top" = bar above list (border-b only). "bottom" = bar below list (border-t only, no border-b to avoid double line with footer). */
   variant?: "top" | "bottom";
+  /** Catalog is still downloading and the current filters have no known count yet. */
+  countPending?: boolean;
 }
 
 export function ListStatusBar({
@@ -17,8 +19,9 @@ export function ListStatusBar({
   totalPages,
   onPageChange,
   variant = "top",
+  countPending = false,
 }: ListStatusBarProps) {
-  const formattedTotalCount = totalCount.toLocaleString();
+  const formattedTotalCount = totalCount.toLocaleString("en-US");
   const borderClass =
     variant === "bottom"
       ? "border-t border-border"
@@ -29,14 +32,20 @@ export function ListStatusBar({
       className={`flex items-center justify-between px-4 md:px-8 h-9 ${borderClass}`}
     >
       <span className="text-xs text-muted-foreground">
-        {formattedTotalCount} artists{" "}
-        {totalPages > 0 && (
+        {countPending ? (
+          "Loading artists…"
+        ) : (
           <>
-            {"・"} page {page + 1} of {totalPages}
+            {formattedTotalCount} artists{" "}
+            {totalPages > 0 && (
+              <>
+                {"・"} page {page + 1} of {totalPages}
+              </>
+            )}
           </>
         )}
       </span>
-      {totalPages > 1 && (
+      {!countPending && totalPages > 1 && (
         <div className="flex items-center gap-2.5">
           <button
             type="button"

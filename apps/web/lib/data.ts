@@ -3,6 +3,12 @@ import path from "path";
 import { headers } from "next/headers";
 
 import { artistFollowerCount } from "@/lib/artist-follower-count";
+import {
+  DIRECTORY_PAGE_SIZE,
+  countriesForDirectory,
+  sortArtists,
+  stylesForDirectory,
+} from "@/lib/directory-query";
 import { getRepoRoot } from "@/lib/repo-root";
 
 const REPO_ROOT = getRepoRoot();
@@ -87,6 +93,7 @@ function getAllowedCountries(): Set<string> {
   }
   // Visibility filter uses countries; invalidate compact list if country list changed.
   compactArtistsCache = null;
+  directoryPreviewCache = null;
   if (!fs.existsSync(p)) {
     allowedCountriesCache = { mtimeMs, set: new Set(["Unknown"]) };
     return allowedCountriesCache.set;
@@ -212,6 +219,10 @@ export interface Artist {
 }
 
 let compactArtistsCache: { mtimeMs: number; artists: CompactArtist[] } | null = null;
+let directoryPreviewCache: {
+  source: CompactArtist[];
+  preview: DirectoryPreview;
+} | null = null;
 
 export function getCompactArtists(): CompactArtist[] {
   const p = path.join(REPO_ROOT, "data", "indexes", "artists.compact.json");
@@ -285,4 +296,31 @@ export function getAllowedCountryNames(): string[] {
   if (!fs.existsSync(p)) return ["Unknown"];
   const list = JSON.parse(fs.readFileSync(p, "utf-8")) as string[];
   return list.map((c) => c.trim()).filter(Boolean);
+}
+
+export interface DirectoryPreview {
+  artists: PublicCompactArtist[];
+  totalCount: number;
+  styles: string[];
+  countries: string[];
+}
+
+/**
+ * Default first page (name A–Z) plus style/country facets.
+ * Kept small so the document can paint names before the full catalog download.
+ */
+export function getDirectoryPreview(): DirectoryPreview {
+  const source = getCompactArtists();
+  if (directoryPreviewCache && directoryPreviewCache.source === source) {
+    return directoryPreviewCache.preview;
+  }
+  const artists = toPublicCompactArtists(source);
+  const preview: DirectoryPreview = {
+    artists: sortArtists(artists, "name-asc").slice(0, DIRECTORY_PAGE_SIZE),
+    totalCount: artists.length,
+    styles: stylesForDirectory(artists),
+    countries: countriesForDirectory(artists, getAllowedCountryNames()),
+  };
+  directoryPreviewCache = { source, preview };
+  return preview;
 }

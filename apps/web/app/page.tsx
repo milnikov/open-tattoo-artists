@@ -1,7 +1,10 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
-import { getAllowedCountryNames } from "@/lib/data";
-import { ArtistListPage } from "@/components/artist-list-page";
+import { getAllowedCountryNames, getDirectoryPreview } from "@/lib/data";
+import {
+  ArtistDirectoryFallback,
+  ArtistListPage,
+} from "@/components/artist-list-page";
 import { HomeIntro } from "@/components/home-intro";
 import {
   CANONICAL_PATH,
@@ -24,27 +27,35 @@ export const metadata: Metadata = {
 };
 
 /**
- * Cache the small server shell (country allowlist only). Artist rows load via
- * /api/artists/compact on the client so the ISR payload stays under Vercel’s limit
- * (full compact JSON serialized into RSC was ~19MB).
+ * The document includes the directory shell and the first page of names.
+ * The full compact catalog stays on /api/artists/compact (too large for the RSC
+ * payload) and loads in the background for search, filters, and later pages.
  */
 export const revalidate = 3600;
 
-function ArtistListPageFallback() {
-  return (
-    <div className="flex flex-col items-center justify-center py-32 px-4">
-      <p className="text-muted-foreground">Loading…</p>
-    </div>
-  );
-}
-
 export default function HomePage() {
   const allowedCountryNames = getAllowedCountryNames();
+  const preview = getDirectoryPreview();
   return (
     <>
       <HomeIntro />
-      <Suspense fallback={<ArtistListPageFallback />}>
-        <ArtistListPage allowedCountryNames={allowedCountryNames} />
+      <Suspense
+        fallback={
+          <ArtistDirectoryFallback
+            artists={preview.artists}
+            totalCount={preview.totalCount}
+            styles={preview.styles}
+            countries={preview.countries}
+          />
+        }
+      >
+        <ArtistListPage
+          allowedCountryNames={allowedCountryNames}
+          initialArtists={preview.artists}
+          initialTotalCount={preview.totalCount}
+          facetStyles={preview.styles}
+          facetCountries={preview.countries}
+        />
       </Suspense>
     </>
   );
