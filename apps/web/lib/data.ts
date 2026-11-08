@@ -85,6 +85,29 @@ function mergeArtistFetchHeaders(base?: HeadersInit): Headers {
 /** Allowed country names (from data/indexes/countries.json). Only these are shown; rest hide artist. */
 let allowedCountriesCache: { mtimeMs: number; set: Set<string> } | null = null;
 
+/** Artists whose CDN thumbnails are missing (data/indexes/hidden_missing_cdn_images.json). */
+let hiddenMissingCdnCache: { mtimeMs: number; set: Set<string> } | null = null;
+
+function getHiddenMissingCdnIds(): Set<string> {
+  const p = path.join(REPO_ROOT, "data", "indexes", "hidden_missing_cdn_images.json");
+  const mtimeMs = fs.existsSync(p) ? fs.statSync(p).mtimeMs : -1;
+  if (hiddenMissingCdnCache && hiddenMissingCdnCache.mtimeMs === mtimeMs) {
+    return hiddenMissingCdnCache.set;
+  }
+  compactArtistsCache = null;
+  directoryPreviewCache = null;
+  if (!fs.existsSync(p)) {
+    hiddenMissingCdnCache = { mtimeMs, set: new Set() };
+    return hiddenMissingCdnCache.set;
+  }
+  const data = JSON.parse(fs.readFileSync(p, "utf-8")) as { artist_ids?: string[] };
+  const set = new Set(
+    (data.artist_ids ?? []).map((id) => String(id).trim().toLowerCase()).filter(Boolean)
+  );
+  hiddenMissingCdnCache = { mtimeMs, set };
+  return set;
+}
+
 function getAllowedCountries(): Set<string> {
   const p = path.join(REPO_ROOT, "data", "indexes", "countries.json");
   const mtimeMs = fs.existsSync(p) ? fs.statSync(p).mtimeMs : -1;
@@ -118,6 +141,7 @@ function isEmptyAbout(bio: string | null | undefined): boolean {
 
 /** True if the artist should be hidden: studio/shop, only 1 image, strange country, or empty about (unless >5 images and >1000 followers). */
 function isArtistHidden(artist: {
+  id?: string;
   tattoo_count?: number;
   tattoos?: unknown[];
   location: { country: string };
@@ -126,6 +150,8 @@ function isArtistHidden(artist: {
   instagram_enriched?: boolean | { follower_count?: number };
   verified?: "artist" | "studio" | "need_to_check";
 }): boolean {
+  const artistId = artist.id?.trim().toLowerCase();
+  if (artistId && getHiddenMissingCdnIds().has(artistId)) return true;
   if (artist.verified === "studio") return true;
   const count =
     artist.tattoo_count ?? (Array.isArray(artist.tattoos) ? artist.tattoos.length : 0);
